@@ -1,0 +1,60 @@
+name: Sync from jasonzhu.ai
+
+# 每天北京时间 13:00 从公开的 zhuyansen/jasonzhu.ai 拉最新数据，重新生成 README / cases/ / cases.json。
+# 两个仓库都是公开的，读不需要凭证；写回本仓库用自带的 GITHUB_TOKEN。没有变化就不提交。
+# CONTRIBUTING.md 和本文件是手写的，不会被覆盖。
+on:
+  schedule:
+    - cron: "0 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: 拉取数据和生成脚本
+        uses: actions/checkout@v4
+        with:
+          repository: zhuyansen/jasonzhu.ai
+          path: _site
+          sparse-checkout: |
+            scripts/opus-prompts/build-repo.mjs
+            src/content/opus-prompts/cases.json
+          sparse-checkout-cone-mode: false
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: 生成
+        run: |
+          node _site/scripts/opus-prompts/build-repo.mjs "$RUNNER_TEMP/out" awesome-opus-5.5-video
+          # 生成结果至少要有 500 个作品才覆盖，防止上游数据异常把合集清空
+          COUNT=$(node -e 'console.log(JSON.parse(require("fs").readFileSync(process.argv[1]+"/cases.json","utf8")).cases.length)' "$RUNNER_TEMP/out")
+          echo "works: $COUNT"
+          test "$COUNT" -ge 500
+          rm -rf cases
+          cp -R "$RUNNER_TEMP/out/." .
+          rm -rf _site
+
+      - name: 提交
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md README.zh-CN.md cases.json cases
+          if git diff --cached --quiet; then
+            echo "没有变化，不提交"
+            exit 0
+          fi
+          git commit -m "Sync $(date -u +%F)"
+          git push
