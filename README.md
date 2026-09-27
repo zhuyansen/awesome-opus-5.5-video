@@ -2,7 +2,7 @@
 
 English | [简体中文](README.zh-CN.md)
 
-Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5 and shared on X, each with 5,000+ views on the original post. **941 works**, **245 with a prompt** (91 full prompts).
+Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5 and shared on X, each with 5,000+ views on the original post. **940 works**, **244 with a prompt** (91 full prompts).
 
 **[Browse online — play the videos and copy the prompts →](https://jasonzhu.ai/en/prompts/claude-opus-5-5)**
 
@@ -70,22 +70,22 @@ Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5 and share
 | [Pixel art neural network training animation](https://x.com/DotCSV/status/2102737776219168939) | [@DotCSV](https://x.com/DotCSV) | 0:56 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102737776219168939) |
 | [AI documentary about superintelligence](https://x.com/gavinpurcell/status/2103304514329854102) | [@gavinpurcell](https://x.com/gavinpurcell) | 5:15 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103304514329854102) |
 | [History of AI documentary short film](https://x.com/kimmonismus/status/2102844654169575547) | [@kimmonismus](https://x.com/kimmonismus) | 3:00 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102844654169575547) |
-| [5000 years of Chinese history recap video](https://x.com/akokoi1/status/2102583898865873225) | [@akokoi1](https://x.com/akokoi1) | 2:38 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102583898865873225) |
 | ['What is a Transformer' explainer video](https://x.com/dotey/status/2103683057689522564) | [@dotey](https://x.com/dotey) | 12:12 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103683057689522564) |
+| [5000 years of Chinese history recap video](https://x.com/akokoi1/status/2102583898865873225) | [@akokoi1](https://x.com/akokoi1) | 2:38 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102583898865873225) |
 | [Atmospheric circulation geography explainer](https://x.com/akokoi1/status/2102606609574941028) | [@akokoi1](https://x.com/akokoi1) | 4:48 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102606609574941028) |
 | [Anime-style explainer remix video](https://x.com/emollick/status/2103272686570918334) | [@emollick](https://x.com/emollick) | 2:07 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103272686570918334) |
 
 ## Characters & stories
 
-101 works · [full list](cases/stories.md)
+100 works · [full list](cases/stories.md)
 
 | Work | Creator | Length | Prompt |
 |---|---|---|---|
 | [Video predicting the next 50 years](https://x.com/andrewjiang/status/2102987981695132140) | [@andrewjiang](https://x.com/andrewjiang) | 4:00 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102987981695132140) |
 | [Animation of an imagined social media feed](https://x.com/pleometric/status/2102572941699354900) | [@pleometric](https://x.com/pleometric) | 0:47 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102572941699354900) |
 | [Claude animates its own life story](https://x.com/shfred0/status/2102495989194236158) | [@shfred0](https://x.com/shfred0) | 0:30 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102495989194236158) |
-| [Bitcoin history music video](https://x.com/bradmillscan/status/2103108967194833310) | [@bradmillscan](https://x.com/bradmillscan) | 3:23 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103108967194833310) |
 | [Visualization of the singularity experience](https://x.com/dirtman/status/2103686605517287620) | [@dirtman](https://x.com/dirtman) | 2:26 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103686605517287620) |
+| [Bitcoin history music video](https://x.com/bradmillscan/status/2103108967194833310) | [@bradmillscan](https://x.com/bradmillscan) | 3:23 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103108967194833310) |
 | [Video about what it feels like to be Claude](https://x.com/goodside/status/2102876925102555526) | [@goodside](https://x.com/goodside) | 0:30 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102876925102555526) |
 | [Oktoberfest-themed animation](https://x.com/cherry_mx_reds/status/2102493303388475855) | [@cherry_mx_reds](https://x.com/cherry_mx_reds) | 0:30 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102493303388475855) |
 | [Pixar-style imagined cartoon story](https://x.com/scheemunai/status/2102788223835463902) | [@scheemunai](https://x.com/scheemunai) | 3:50 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102788223835463902) |
@@ -101,9 +101,9 @@ Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5 and share
 | [Walkable Indian cities world](https://x.com/pracosm/status/2103387804281745459) | [@pracosm](https://x.com/pracosm) | 0:54 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103387804281745459) |
 | [Historic 1906 San Francisco street in 3D](https://x.com/alexalbert__/status/2102466523164274839) | [@alexalbert__](https://x.com/alexalbert__) | 0:08 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102466523164274839) |
 | [280 KB single-file HTML demoscene intro](https://x.com/JustinPerea/status/2102893186330841502) | [@JustinPerea](https://x.com/JustinPerea) | 0:43 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102893186330841502) |
+| [Itsukushima Shrine 3D scene](https://x.com/Ayu_AI_0912/status/2103737014508216515) | [@Ayu_AI_0912](https://x.com/Ayu_AI_0912) | 0:24 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103737014508216515) |
 | [LHC proton collision Blender scene](https://x.com/superalesha/status/2102779758408774104) | [@superalesha](https://x.com/superalesha) | 0:34 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102779758408774104) |
 | [Cybertruck-to-transformer 3D animation](https://x.com/scottstts/status/2102539904274325540) | [@scottstts](https://x.com/scottstts) | 1:13 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102539904274325540) |
-| [Interactive 3D visualization of an AI data center](https://x.com/RyanSael/status/2102740041621762166) | [@RyanSael](https://x.com/RyanSael) | 0:34 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102740041621762166) |
 
 ## Games
 

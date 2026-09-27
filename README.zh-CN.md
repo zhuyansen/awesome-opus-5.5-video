@@ -2,7 +2,7 @@
 
 [English](README.md) | 简体中文
 
-X 上用 Claude Opus 5.5 做出来的视频、动效、3D 场景和游戏，原帖播放量都过 5,000。共 **941 个作品**，其中 **245 个附提示词**（91 条完整提示词）。
+X 上用 Claude Opus 5.5 做出来的视频、动效、3D 场景和游戏，原帖播放量都过 5,000。共 **940 个作品**，其中 **244 个附提示词**（91 条完整提示词）。
 
 **[在线浏览，可直接播放和复制提示词 →](https://jasonzhu.ai/zh/prompts/claude-opus-5-5)**
 
@@ -70,22 +70,22 @@ X 上用 Claude Opus 5.5 做出来的视频、动效、3D 场景和游戏，原�
 | [像素风神经网络训练动画](https://x.com/DotCSV/status/2102737776219168939) | [@DotCSV](https://x.com/DotCSV) | 0:56 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102737776219168939) |
 | [关于超级智能的纪录片](https://x.com/gavinpurcell/status/2103304514329854102) | [@gavinpurcell](https://x.com/gavinpurcell) | 5:15 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103304514329854102) |
 | [AI发展史纪录短片](https://x.com/kimmonismus/status/2102844654169575547) | [@kimmonismus](https://x.com/kimmonismus) | 3:00 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102844654169575547) |
-| [中华上下五千年回顾视频](https://x.com/akokoi1/status/2102583898865873225) | [@akokoi1](https://x.com/akokoi1) | 2:38 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102583898865873225) |
 | [《什么是 Transformer》讲解视频](https://x.com/dotey/status/2103683057689522564) | [@dotey](https://x.com/dotey) | 12:12 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103683057689522564) |
+| [中华上下五千年回顾视频](https://x.com/akokoi1/status/2102583898865873225) | [@akokoi1](https://x.com/akokoi1) | 2:38 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102583898865873225) |
 | [大气环流地理知识讲解视频](https://x.com/akokoi1/status/2102606609574941028) | [@akokoi1](https://x.com/akokoi1) | 4:48 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102606609574941028) |
 | [动漫风格科普讲解视频](https://x.com/emollick/status/2103272686570918334) | [@emollick](https://x.com/emollick) | 2:07 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103272686570918334) |
 
 ## 角色故事
 
-101 个作品 · [完整清单](cases/stories.zh-CN.md)
+100 个作品 · [完整清单](cases/stories.zh-CN.md)
 
 | 作品 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|
 | [预测未来50年的视频](https://x.com/andrewjiang/status/2102987981695132140) | [@andrewjiang](https://x.com/andrewjiang) | 4:00 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102987981695132140) |
 | [想象中的社媒信息流动画](https://x.com/pleometric/status/2102572941699354900) | [@pleometric](https://x.com/pleometric) | 0:47 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102572941699354900) |
 | [Claude用代码演绎自己的成长故事](https://x.com/shfred0/status/2102495989194236158) | [@shfred0](https://x.com/shfred0) | 0:30 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102495989194236158) |
-| [比特币历史音乐视频](https://x.com/bradmillscan/status/2103108967194833310) | [@bradmillscan](https://x.com/bradmillscan) | 3:23 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103108967194833310) |
 | [奇点体验可视化短片](https://x.com/dirtman/status/2103686605517287620) | [@dirtman](https://x.com/dirtman) | 2:26 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103686605517287620) |
+| [比特币历史音乐视频](https://x.com/bradmillscan/status/2103108967194833310) | [@bradmillscan](https://x.com/bradmillscan) | 3:23 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103108967194833310) |
 | [关于Claude自身感受的视频](https://x.com/goodside/status/2102876925102555526) | [@goodside](https://x.com/goodside) | 0:30 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102876925102555526) |
 | [啤酒节主题动画](https://x.com/cherry_mx_reds/status/2102493303388475855) | [@cherry_mx_reds](https://x.com/cherry_mx_reds) | 0:30 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102493303388475855) |
 | [皮克斯风格原创卡通故事](https://x.com/scheemunai/status/2102788223835463902) | [@scheemunai](https://x.com/scheemunai) | 3:50 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102788223835463902) |
@@ -101,9 +101,9 @@ X 上用 Claude Opus 5.5 做出来的视频、动效、3D 场景和游戏，原�
 | [可漫游的印度城市世界](https://x.com/pracosm/status/2103387804281745459) | [@pracosm](https://x.com/pracosm) | 0:54 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103387804281745459) |
 | [1906年旧金山街道3D复原](https://x.com/alexalbert__/status/2102466523164274839) | [@alexalbert__](https://x.com/alexalbert__) | 0:08 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102466523164274839) |
 | [280KB 单文件 HTML 演示程序](https://x.com/JustinPerea/status/2102893186330841502) | [@JustinPerea](https://x.com/JustinPerea) | 0:43 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102893186330841502) |
+| [严岛神社3D场景](https://x.com/Ayu_AI_0912/status/2103737014508216515) | [@Ayu_AI_0912](https://x.com/Ayu_AI_0912) | 0:24 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103737014508216515) |
 | [大型强子对撞机质子碰撞Blender场景](https://x.com/superalesha/status/2102779758408774104) | [@superalesha](https://x.com/superalesha) | 0:34 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102779758408774104) |
 | [Cybertruck变形动画](https://x.com/scottstts/status/2102539904274325540) | [@scottstts](https://x.com/scottstts) | 1:13 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102539904274325540) |
-| [AI数据中心的交互式3D可视化](https://x.com/RyanSael/status/2102740041621762166) | [@RyanSael](https://x.com/RyanSael) | 0:34 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102740041621762166) |
 
 ## 游戏
 
