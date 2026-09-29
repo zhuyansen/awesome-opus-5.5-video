@@ -1,6 +1,6 @@
 # 动效设计
 
-共 172 个作品，其中 69 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 177 个作品，其中 70 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|
@@ -33,10 +33,12 @@
 | [CoAnimator 应用动画演示](https://x.com/rege_dev/status/2102498682931441977) | [@rege_dev](https://x.com/rege_dev) | 0:50 | — |
 | [游戏结算奖励动画](https://x.com/op7418/status/2103724883301814408) | [@op7418](https://x.com/op7418) | 0:15 | — |
 | [金箔玻璃马赛克墙 80 秒动画短片](https://x.com/LCSlates/status/2102503027340988559) | [@LCSlates](https://x.com/LCSlates) | 1:20 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102503027340988559) |
+| [代码生成的视听动画](https://x.com/AndyL5cc/status/2104060535415476361) | [@AndyL5cc](https://x.com/AndyL5cc) | 2:48 | — |
 | [JS动画配钢琴曲创作](https://x.com/kevin_t_ngo/status/2103482164193165711) | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 0:45 | — |
 | [纯代码生成的视频演示](https://x.com/bridgemindai/status/2103530750767206626) | [@bridgemindai](https://x.com/bridgemindai) | 1:00 | — |
 | [小提琴配乐动画](https://x.com/Hesamation/status/2103535326325055843) | [@Hesamation](https://x.com/Hesamation) | 1:02 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103535326325055843) |
 | [一句提示词做出的图文与动画](https://x.com/nazmijavierl/status/2102712897701097828) | [@nazmijavierl](https://x.com/nazmijavierl) | 0:16 | — |
+| [20种动画风格合集](https://x.com/yasinozmeen/status/2104086740600254919) | [@yasinozmeen](https://x.com/yasinozmeen) | 3:46 | — |
 | [15 秒动效设计师自荐片 · @robj3d3 版](https://x.com/robj3d3/status/2103875898349088830) | [@robj3d3](https://x.com/robj3d3) | 0:15 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103875898349088830) |
 | [模仿参考动效质量的尝试作品](https://x.com/makwanatejas170/status/2103922986155917592) | [@makwanatejas170](https://x.com/makwanatejas170) | 0:16 | — |
 | [静态设计动画化演示](https://x.com/Onethirdesigner/status/2103749509616648627) | [@Onethirdesigner](https://x.com/Onethirdesigner) | 0:07 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103749509616648627) |
@@ -52,6 +54,7 @@
 | [15 秒动效设计师自荐片 · @leonabboud 版](https://x.com/leonabboud/status/2103576084499358051) | [@leonabboud](https://x.com/leonabboud) | 0:15 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103576084499358051) |
 | [一句话生成的视频](https://x.com/bitfish/status/2103647787795824856) | [@bitfish](https://x.com/bitfish) | 2:55 | — |
 | [书签UI微动效动画](https://x.com/kippe07/status/2103036199774585026) | [@kippe07](https://x.com/kippe07) | 0:15 | — |
+| [301个还原全网热门特效的视频](https://x.com/yihui_indie/status/2104122905961595267) | [@yihui_indie](https://x.com/yihui_indie) | 13:39 | — |
 | [Opus5.5制作的视频](https://x.com/adipandaio/status/2103541815660228657) | [@adipandaio](https://x.com/adipandaio) | 0:42 | — |
 | [AI热潮演示视频](https://x.com/dannypostma/status/2103794099929452699) | [@dannypostma](https://x.com/dannypostma) | 0:15 | — |
 | [5分钟完成VTuber动效制作](https://x.com/shimotti_ai/status/2103831579575587190) | [@shimotti_ai](https://x.com/shimotti_ai) | 0:15 | — |
@@ -82,6 +85,7 @@
 | [随你决定的开放式AI生成视频](https://x.com/mhmtycllll/status/2102552313134973187) | [@mhmtycllll](https://x.com/mhmtycllll) | 0:54 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102552313134973187) |
 | [节拍同步的实拍混剪展示片](https://x.com/twoclipping/status/2102554209166000267) | [@twoclipping](https://x.com/twoclipping) | 0:20 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102554209166000267) |
 | [代码生成的动画展示](https://x.com/Hesamation/status/2102472597170528449) | [@Hesamation](https://x.com/Hesamation) | 0:28 | — |
+| [Midjourney图像动态混剪](https://x.com/ciguleva/status/2104051187825946929) | [@ciguleva](https://x.com/ciguleva) | 0:48 | — |
 | [Opus5.5+Tesseract制作的多层动效](https://x.com/trymirage/status/2103542300844474452) | [@trymirage](https://x.com/trymirage) | 0:15 | — |
 | [设计师展示片提示词生成的动效视频](https://x.com/konmari_tweet/status/2103639233693159742) | [@konmari_tweet](https://x.com/konmari_tweet) | 0:15 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103639233693159742) |
 | [代理机构介绍动态设计视频](https://x.com/baptistelcx/status/2103437700783038710) | [@baptistelcx](https://x.com/baptistelcx) | 1:18 | — |
@@ -100,6 +104,7 @@
 | [吉祥物宣传动效视频](https://x.com/patchy_dog/status/2103862188624785635) | [@patchy_dog](https://x.com/patchy_dog) | 0:18 | — |
 | [额度内完成的动效设计视频](https://x.com/YarHmm/status/2103505435802341449) | [@YarHmm](https://x.com/YarHmm) | 0:56 | — |
 | [令人惊艳的AI生成视频](https://x.com/GregorySchier/status/2103573891629371497) | [@GregorySchier](https://x.com/GregorySchier) | 0:30 | — |
+| [公司宣传动效广告](https://x.com/showheyohtaki/status/2104095944686051492) | [@showheyohtaki](https://x.com/showheyohtaki) | 0:30 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104095944686051492) |
 | [文件加密传输原理可视化](https://x.com/SyntaxDiffusion/status/2103182358635532377) | [@SyntaxDiffusion](https://x.com/SyntaxDiffusion) | 1:36 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103182358635532377) |
 | [媒体工具展示片动效](https://x.com/ismailfahmi/status/2103759320664219750) | [@ismailfahmi](https://x.com/ismailfahmi) | 2:08 | — |
 | [Kody 产品 30 秒动效宣传片](https://x.com/kentcdodds/status/2103638102333858193) | [@kentcdodds](https://x.com/kentcdodds) | 0:30 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103638102333858193) |

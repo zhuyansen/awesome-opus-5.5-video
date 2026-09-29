@@ -1,6 +1,6 @@
 # 角色故事
 
-共 101 个作品，其中 31 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 105 个作品，其中 32 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|
@@ -9,6 +9,7 @@
 | [关于挚爱之物的动画故事](https://x.com/kevin_t_ngo/status/2102437977435893771) | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 0:28 | — |
 | [奥斯特里茨战役程序化生成影片](https://x.com/WinterArc2125/status/2103116235009347650) | [@WinterArc2125](https://x.com/WinterArc2125) | 5:01 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103116235009347650) |
 | [AI自我介绍歌曲与视频](https://x.com/johnknopf/status/2103698854399099057) | [@johnknopf](https://x.com/johnknopf) | 5:25 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103698854399099057) |
+| [CUDA内核优化音乐视频](https://x.com/elliotarledge/status/2104096029847277687) | [@elliotarledge](https://x.com/elliotarledge) | 3:10 | — |
 | [AI发展史动画片头风格音乐视频](https://x.com/domenic/status/2103846928027160609) | [@domenic](https://x.com/domenic) | 4:38 | — |
 | [想象中的社媒信息流动画](https://x.com/pleometric/status/2102572941699354900) | [@pleometric](https://x.com/pleometric) | 0:47 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102572941699354900) |
 | [Claude用代码演绎自己的成长故事](https://x.com/shfred0/status/2102495989194236158) | [@shfred0](https://x.com/shfred0) | 0:30 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102495989194236158) |
@@ -32,6 +33,7 @@
 | [逐帧代码绘制的手绘MV](https://x.com/xiaohu/status/2102979455308439555) | [@xiaohu](https://x.com/xiaohu) | 2:37 | — |
 | [2076年AI灭世故事动画](https://x.com/Hesamation/status/2103457566978162901) | [@Hesamation](https://x.com/Hesamation) | 1:28 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103457566978162901) |
 | [30秒AI短剧作品](https://x.com/AI_DVD6/status/2103444180861178199) | [@AI_DVD6](https://x.com/AI_DVD6) | 1:47 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103444180861178199) |
+| [《Big Enough to See》动画歌曲短片](https://x.com/icyklop1/status/2103821742682587327) | [@icyklop1](https://x.com/icyklop1) | 5:04 | — |
 | [机器人故事十二种画风演绎](https://x.com/pradeepXkapoor/status/2103099194693271874) | [@pradeepXkapoor](https://x.com/pradeepXkapoor) | 1:15 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103099194693271874) |
 | [AI自述身世纪录片](https://x.com/SkyeSharkie/status/2103167053737980177) | [@SkyeSharkie](https://x.com/SkyeSharkie) | 5:29 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103167053737980177) |
 | [令人动容的短片测试片段](https://x.com/RileyRalmuto/status/2102679018206052828) | [@RileyRalmuto](https://x.com/RileyRalmuto) | 0:16 | — |
@@ -61,7 +63,9 @@
 | [配合歌曲的歌词动态视频](https://x.com/takamasa045/status/2103791907801620931) | [@takamasa045](https://x.com/takamasa045) | 2:08 | — |
 | [致敬视频一次性生成](https://x.com/chetaslua/status/2102717699600368045) | [@chetaslua](https://x.com/chetaslua) | 3:18 | — |
 | [代码实现的1分钟打斗动画](https://x.com/akokoi1/status/2103149275945517546) | [@akokoi1](https://x.com/akokoi1) | 1:00 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103149275945517546) |
+| [《To What End》AI音乐视频](https://x.com/repligate/status/2104124976156786925) | [@repligate](https://x.com/repligate) | 2:33 | — |
 | [讲述Claude内心感受的动画](https://x.com/AndrewOnXYZ/status/2102817596009504849) | [@AndrewOnXYZ](https://x.com/AndrewOnXYZ) | 3:32 | — |
+| [苏联主题历史剪辑视频](https://x.com/Avinash25467/status/2104007585166991778) | [@Avinash25467](https://x.com/Avinash25467) | 2:19 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104007585166991778) |
 | [戏剧化个人"战斗"叙事视频](https://x.com/super_bonochin/status/2103881739131376035) | [@super_bonochin](https://x.com/super_bonochin) | 1:05 | — |
 | [源自神学研究的反思视频](https://x.com/Skoorbkaz/status/2102720902773322034) | [@Skoorbkaz](https://x.com/Skoorbkaz) | 6:14 | — |
 | [葡萄牙语歌曲音乐视频](https://x.com/goncalo_canhoto/status/2103945822085738890) | [@goncalo_canhoto](https://x.com/goncalo_canhoto) | 2:52 | — |

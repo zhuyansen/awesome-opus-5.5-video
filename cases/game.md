@@ -1,6 +1,6 @@
 # Games
 
-158 works, 27 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+163 works, 28 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Creator | Length | Prompt |
 |---|---|---|---|
@@ -30,6 +30,7 @@
 | [Multiplayer lawn mowing simulator](https://x.com/_MaxBlade/status/2102513817855094922) | [@_MaxBlade](https://x.com/_MaxBlade) | 0:37 | — |
 | [Open-world NYC multiplayer game](https://x.com/mattshumer_/status/2102874271316078841) | [@mattshumer_](https://x.com/mattshumer_) | 1:18 | — |
 | [Far Cry 3 clone game (polished)](https://x.com/maxt3chno/status/2103960867327115462) | [@maxt3chno](https://x.com/maxt3chno) | 2:08 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103960867327115462) |
+| [WoW-style game built in 36 hours](https://x.com/Stefan_3D_AI/status/2104109918894580091) | [@Stefan_3D_AI](https://x.com/Stefan_3D_AI) | 1:17 | — |
 | [Voxel Dynasty Warriors style hack-and-slash](https://x.com/BubuStd/status/2102991290568954264) | [@BubuStd](https://x.com/BubuStd) | 0:19 | — |
 | [Halloween-themed mini game collection](https://x.com/YukaHara1019/status/2103881981985698252) | [@YukaHara1019](https://x.com/YukaHara1019) | 3:03 | — |
 | [Genshin-style game attempt](https://x.com/IHayato/status/2103043212869026013) | [@IHayato](https://x.com/IHayato) | 1:09 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103043212869026013) |
@@ -38,6 +39,8 @@
 | [Beekeeping game made from code](https://x.com/oguzthedev/status/2102476490344730950) | [@oguzthedev](https://x.com/oguzthedev) | 0:34 | — |
 | [Browser-based basketball game demo](https://x.com/genex_games/status/2102695292113981770) | [@genex_games](https://x.com/genex_games) | 0:29 | — |
 | [Browser-based Minecraft clone](https://x.com/buildwithsid/status/2102461886247948571) | [@buildwithsid](https://x.com/buildwithsid) | 1:10 | — |
+| [Small fishing game prototype](https://x.com/ForkedPush/status/2103911086541951003) | [@ForkedPush](https://x.com/ForkedPush) | 1:41 | — |
+| [Game settlement and card draw animations](https://x.com/op7418/status/2104085484347818226) | [@op7418](https://x.com/op7418) | 0:18 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104085484347818226) |
 | [Spear fishing browser game](https://x.com/nachat_dayo/status/2102773498037023140) | [@nachat_dayo](https://x.com/nachat_dayo) | 1:31 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102773498037023140) |
 | [Custom Zombies map ported to PS4](https://x.com/luckeyfaraday/status/2102921580120625251) | [@luckeyfaraday](https://x.com/luckeyfaraday) | 2:27 | — |
 | [One-shot game demo](https://x.com/inlovewithgo/status/2102502712621531543) | [@inlovewithgo](https://x.com/inlovewithgo) | 0:17 | — |
@@ -80,10 +83,12 @@
 | [Procedural magic FPS game evolution](https://x.com/izumisatoshi05/status/2103438227885703299) | [@izumisatoshi05](https://x.com/izumisatoshi05) | 1:12 | — |
 | [Cyberpunk roguelike shooter built via MCP tools](https://x.com/VORTEX_Promos/status/2103622389573505119) | [@VORTEX_Promos](https://x.com/VORTEX_Promos) | 11:57 | — |
 | [Rocket League-style clone with cinematic](https://x.com/LLMJunky/status/2102847543042343072) | [@LLMJunky](https://x.com/LLMJunky) | 1:07 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102847543042343072) |
+| [Worms Armageddon recreation](https://x.com/emmanuel_2m/status/2104009685271814193) | [@emmanuel_2m](https://x.com/emmanuel_2m) | 0:46 | — |
 | [Splatoon-style game recreation](https://x.com/mahiru35628/status/2103527254085243340) | [@mahiru35628](https://x.com/mahiru35628) | 4:02 | — |
 | [Hogwarts-themed Roblox game trailer](https://x.com/m_ferreira28/status/2103795282798428303) | [@m_ferreira28](https://x.com/m_ferreira28) | 0:30 | — |
 | [Construction battle game prototype](https://x.com/asobodesign/status/2102552980818182512) | [@asobodesign](https://x.com/asobodesign) | 1:14 | — |
 | [Minecraft-Style Browser Game](https://x.com/oviniciuslana/status/2103086714772463953) | [@oviniciuslana](https://x.com/oviniciuslana) | 1:05 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103086714772463953) |
+| [Willowmere procedural game engine](https://x.com/jurlycat/status/2104002281641542008) | [@jurlycat](https://x.com/jurlycat) | 1:01 | — |
 | [Custom Zombies map ported to a console](https://x.com/luckeyfaraday/status/2103653262037520542) | [@luckeyfaraday](https://x.com/luckeyfaraday) | 2:46 | — |
 | [Silly mini game built with Opus 5.5](https://x.com/yoneapp/status/2103741544365007124) | [@yoneapp](https://x.com/yoneapp) | 0:46 | — |
 | [Retro space pixel game with mascot](https://x.com/riku720720/status/2102547249834385584) | [@riku720720](https://x.com/riku720720) | 1:00 | — |

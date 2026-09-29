@@ -1,6 +1,6 @@
 # 3D 场景
 
-共 131 个作品，其中 30 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 132 个作品，其中 31 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|
@@ -25,6 +25,7 @@
 | [新干线高精度3D建模](https://x.com/higgsfield_ai/status/2102507018372436264) | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:18 | — |
 | [用Blender制作的3D场景](https://x.com/superalesha/status/2102487989381156991) | [@superalesha](https://x.com/superalesha) | 1:01 | — |
 | [280KB 单文件 HTML 演示程序](https://x.com/JustinPerea/status/2102893186330841502) | [@JustinPerea](https://x.com/JustinPerea) | 0:43 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102893186330841502) |
+| [3D模型设计打印及机械臂取件](https://x.com/dimentary/status/2104094838035820607) | [@dimentary](https://x.com/dimentary) | 0:23 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104094838035820607) |
 | [旅行照片转丙烯画风动画](https://x.com/ann_nnng/status/2102573127192727704) | [@ann_nnng](https://x.com/ann_nnng) | 0:22 | — |
 | [插件集成生成的Blender场景](https://x.com/emmanuel_2m/status/2102539293122035875) | [@emmanuel_2m](https://x.com/emmanuel_2m) | 0:09 | — |
 | [严岛神社3D场景](https://x.com/Ayu_AI_0912/status/2103737014508216515) | [@Ayu_AI_0912](https://x.com/Ayu_AI_0912) | 0:24 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103737014508216515) |

@@ -1,6 +1,6 @@
 # Motion graphics & UI
 
-172 works, 69 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+177 works, 70 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Creator | Length | Prompt |
 |---|---|---|---|
@@ -33,10 +33,12 @@
 | [CoAnimator app animation demo](https://x.com/rege_dev/status/2102498682931441977) | [@rege_dev](https://x.com/rege_dev) | 0:50 | — |
 | [Game reward settlement animation](https://x.com/op7418/status/2103724883301814408) | [@op7418](https://x.com/op7418) | 0:15 | — |
 | [80-second glass and gold-leaf mosaic film](https://x.com/LCSlates/status/2102503027340988559) | [@LCSlates](https://x.com/LCSlates) | 1:20 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102503027340988559) |
+| [Code-Generated Audiovisual Animation](https://x.com/AndyL5cc/status/2104060535415476361) | [@AndyL5cc](https://x.com/AndyL5cc) | 2:48 | — |
 | [Piano composition with JS-drawn animation](https://x.com/kevin_t_ngo/status/2103482164193165711) | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 0:45 | — |
 | [Code-generated video demo](https://x.com/bridgemindai/status/2103530750767206626) | [@bridgemindai](https://x.com/bridgemindai) | 1:00 | — |
 | [Violin score with animation](https://x.com/Hesamation/status/2103535326325055843) | [@Hesamation](https://x.com/Hesamation) | 1:02 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103535326325055843) |
 | [Graphic posts and animation from one prompt](https://x.com/nazmijavierl/status/2102712897701097828) | [@nazmijavierl](https://x.com/nazmijavierl) | 0:16 | — |
+| [20 animation styles compilation](https://x.com/yasinozmeen/status/2104086740600254919) | [@yasinozmeen](https://x.com/yasinozmeen) | 3:46 | — |
 | [15-second motion designer showreel by @robj3d3](https://x.com/robj3d3/status/2103875898349088830) | [@robj3d3](https://x.com/robj3d3) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103875898349088830) |
 | [Attempt to match a reference motion design](https://x.com/makwanatejas170/status/2103922986155917592) | [@makwanatejas170](https://x.com/makwanatejas170) | 0:16 | — |
 | [Design brought to life with animation](https://x.com/Onethirdesigner/status/2103749509616648627) | [@Onethirdesigner](https://x.com/Onethirdesigner) | 0:07 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103749509616648627) |
@@ -52,6 +54,7 @@
 | [15-second motion designer showreel by @leonabboud](https://x.com/leonabboud/status/2103576084499358051) | [@leonabboud](https://x.com/leonabboud) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103576084499358051) |
 | [Video generated from single prompt](https://x.com/bitfish/status/2103647787795824856) | [@bitfish](https://x.com/bitfish) | 2:55 | — |
 | [Bookmark UI micro-animation](https://x.com/kippe07/status/2103036199774585026) | [@kippe07](https://x.com/kippe07) | 0:15 | — |
+| [301 recreated viral video effects](https://x.com/yihui_indie/status/2104122905961595267) | [@yihui_indie](https://x.com/yihui_indie) | 13:39 | — |
 | [Video made by Opus 5.5](https://x.com/adipandaio/status/2103541815660228657) | [@adipandaio](https://x.com/adipandaio) | 0:42 | — |
 | [AI hype demo video](https://x.com/dannypostma/status/2103794099929452699) | [@dannypostma](https://x.com/dannypostma) | 0:15 | — |
 | [VTuber motion graphics in 5 minutes](https://x.com/shimotti_ai/status/2103831579575587190) | [@shimotti_ai](https://x.com/shimotti_ai) | 0:15 | — |
@@ -82,6 +85,7 @@
 | [Open-ended surprise-me AI video](https://x.com/mhmtycllll/status/2102552313134973187) | [@mhmtycllll](https://x.com/mhmtycllll) | 0:54 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102552313134973187) |
 | [Beat-synced showreel from real clips](https://x.com/twoclipping/status/2102554209166000267) | [@twoclipping](https://x.com/twoclipping) | 0:20 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102554209166000267) |
 | [Code-generated animation showcase](https://x.com/Hesamation/status/2102472597170528449) | [@Hesamation](https://x.com/Hesamation) | 0:28 | — |
+| [Animated Midjourney image montage](https://x.com/ciguleva/status/2104051187825946929) | [@ciguleva](https://x.com/ciguleva) | 0:48 | — |
 | [Layered motion graphics via Tesseract](https://x.com/trymirage/status/2103542300844474452) | [@trymirage](https://x.com/trymirage) | 0:15 | — |
 | [Motion graphics video from designer showreel prompt](https://x.com/konmari_tweet/status/2103639233693159742) | [@konmari_tweet](https://x.com/konmari_tweet) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103639233693159742) |
 | [Agency intro motion design video](https://x.com/baptistelcx/status/2103437700783038710) | [@baptistelcx](https://x.com/baptistelcx) | 1:18 | — |
@@ -100,6 +104,7 @@
 | [Promotional mascot motion graphics video](https://x.com/patchy_dog/status/2103862188624785635) | [@patchy_dog](https://x.com/patchy_dog) | 0:18 | — |
 | [Motion graphics video made within a usage limit](https://x.com/YarHmm/status/2103505435802341449) | [@YarHmm](https://x.com/YarHmm) | 0:56 | — |
 | [Impressive AI-generated video](https://x.com/GregorySchier/status/2103573891629371497) | [@GregorySchier](https://x.com/GregorySchier) | 0:30 | — |
+| [Company commercial motion graphic](https://x.com/showheyohtaki/status/2104095944686051492) | [@showheyohtaki](https://x.com/showheyohtaki) | 0:30 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104095944686051492) |
 | [Visualization of encryption in secure file transfer](https://x.com/SyntaxDiffusion/status/2103182358635532377) | [@SyntaxDiffusion](https://x.com/SyntaxDiffusion) | 1:36 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103182358635532377) |
 | [Showreel motion graphic for a media tool](https://x.com/ismailfahmi/status/2103759320664219750) | [@ismailfahmi](https://x.com/ismailfahmi) | 2:08 | — |
 | [30-second motion promo for Kody](https://x.com/kentcdodds/status/2103638102333858193) | [@kentcdodds](https://x.com/kentcdodds) | 0:30 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103638102333858193) |

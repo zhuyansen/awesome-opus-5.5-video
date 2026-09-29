@@ -1,6 +1,6 @@
 # 模型对比
 
-共 104 个作品，其中 25 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 105 个作品，其中 26 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|
@@ -62,6 +62,7 @@
 | [颐和园佛香阁3D场景对比](https://x.com/Saccc_c/status/2103778944835326223) | [@Saccc_c](https://x.com/Saccc_c) | 0:30 | — |
 | [3D建模效果对比](https://x.com/wholyv/status/2103774009871696289) | [@wholyv](https://x.com/wholyv) | 0:15 | — |
 | [四模型3D火箭发射对比](https://x.com/higgsfield_ai/status/2102565251883606206) | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:17 | — |
+| [菠萝果冻](https://x.com/vib3coded/status/2104103495020458415) | [@vib3coded](https://x.com/vib3coded) | 0:18 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104103495020458415) |
 | [太阳朋克城市着色器基准测试](https://x.com/danveloper/status/2102483043252424986) | [@danveloper](https://x.com/danveloper) | 0:18 | — |
 | [两款AI模型视觉效果对比](https://x.com/HarshithLucky3/status/2103821120009048245) | [@HarshithLucky3](https://x.com/HarshithLucky3) | 0:45 | — |
 | [房产照片转3D带看视频对比](https://x.com/realYunfanYe/status/2103917868287201727) | [@realYunfanYe](https://x.com/realYunfanYe) | 1:06 | — |

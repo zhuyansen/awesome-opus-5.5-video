@@ -2,7 +2,7 @@
 
 [English](README.md) | 简体中文
 
-X 上用 Claude Opus 5.5 做出来的视频、动效、3D 场景和游戏，原帖播放量都过 5,000。共 **962 个作品**，其中 **252 个附提示词**（94 条完整提示词）。
+X 上用 Claude Opus 5.5 做出来的视频、动效、3D 场景和游戏，原帖播放量都过 5,000。共 **986 个作品**，其中 **259 个附提示词**（96 条完整提示词）。
 
 **[在线浏览，可直接播放和复制提示词 →](https://jasonzhu.ai/zh/prompts/claude-opus-5-5)**
 
@@ -25,14 +25,14 @@ X 上用 Claude Opus 5.5 做出来的视频、动效、3D 场景和游戏，原�
 
 ## 收录标准
 
-- 创作者本人的原帖，帖子自带视频，原帖播放量不低于 5,000（快照时间 2026-09-28）。
+- 创作者本人的原帖，帖子自带视频，原帖播放量不低于 5,000（快照时间 2026-09-29）。
 - 帖子明确说作品是用 Claude Opus 5.5 做的。**模型归属以作者自述为准，没有逐条复现。**
 - 提示词只收有出处的：主帖正文、作者本人的回复、作者回复里的截图、作者给出的链接。提示词一律原文照录，不改写、不翻译。
 - 有视频但找不到指令来源的作品照常收录，提示词一栏留空。
 
 ## 动效设计
 
-172 个作品 · [完整清单](cases/motion.zh-CN.md)
+177 个作品 · [完整清单](cases/motion.zh-CN.md)
 
 | 作品 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|
@@ -47,7 +47,7 @@ X 上用 Claude Opus 5.5 做出来的视频、动效、3D 场景和游戏，原�
 
 ## 产品广告
 
-128 个作品 · [完整清单](cases/product.zh-CN.md)
+132 个作品 · [完整清单](cases/product.zh-CN.md)
 
 | 作品 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|
@@ -62,22 +62,22 @@ X 上用 Claude Opus 5.5 做出来的视频、动效、3D 场景和游戏，原�
 
 ## 科普讲解
 
-93 个作品 · [完整清单](cases/education.zh-CN.md)
+96 个作品 · [完整清单](cases/education.zh-CN.md)
 
 | 作品 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|
 | [交互式相机对焦光学实验室](https://x.com/RyanSael/status/2102591147927654847) | [@RyanSael](https://x.com/RyanSael) | 0:32 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102591147927654847) |
+| [可交互猛禽3火箭发动机讲解](https://x.com/konstantinsaifo/status/2104094723887501736) | [@konstantinsaifo](https://x.com/konstantinsaifo) | 0:35 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104094723887501736) |
 | [关于超级智能的纪录片](https://x.com/gavinpurcell/status/2103304514329854102) | [@gavinpurcell](https://x.com/gavinpurcell) | 5:15 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103304514329854102) |
 | [像素风神经网络训练动画](https://x.com/DotCSV/status/2102737776219168939) | [@DotCSV](https://x.com/DotCSV) | 0:56 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102737776219168939) |
 | [AI发展史纪录短片](https://x.com/kimmonismus/status/2102844654169575547) | [@kimmonismus](https://x.com/kimmonismus) | 3:00 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102844654169575547) |
 | [《什么是 Transformer》讲解视频](https://x.com/dotey/status/2103683057689522564) | [@dotey](https://x.com/dotey) | 12:12 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103683057689522564) |
 | [中华上下五千年回顾视频](https://x.com/akokoi1/status/2102583898865873225) | [@akokoi1](https://x.com/akokoi1) | 2:38 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102583898865873225) |
 | [大气环流地理知识讲解视频](https://x.com/akokoi1/status/2102606609574941028) | [@akokoi1](https://x.com/akokoi1) | 4:48 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102606609574941028) |
-| [动漫风格科普讲解视频](https://x.com/emollick/status/2103272686570918334) | [@emollick](https://x.com/emollick) | 2:07 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103272686570918334) |
 
 ## 角色故事
 
-101 个作品 · [完整清单](cases/stories.zh-CN.md)
+105 个作品 · [完整清单](cases/stories.zh-CN.md)
 
 | 作品 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|
@@ -92,7 +92,7 @@ X 上用 Claude Opus 5.5 做出来的视频、动效、3D 场景和游戏，原�
 
 ## 3D 场景
 
-131 个作品 · [完整清单](cases/art3d.zh-CN.md)
+132 个作品 · [完整清单](cases/art3d.zh-CN.md)
 
 | 作品 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|
@@ -101,13 +101,13 @@ X 上用 Claude Opus 5.5 做出来的视频、动效、3D 场景和游戏，原�
 | [可漫游的印度城市世界](https://x.com/pracosm/status/2103387804281745459) | [@pracosm](https://x.com/pracosm) | 0:54 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103387804281745459) |
 | [1906年旧金山街道3D复原](https://x.com/alexalbert__/status/2102466523164274839) | [@alexalbert__](https://x.com/alexalbert__) | 0:08 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102466523164274839) |
 | [280KB 单文件 HTML 演示程序](https://x.com/JustinPerea/status/2102893186330841502) | [@JustinPerea](https://x.com/JustinPerea) | 0:43 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102893186330841502) |
+| [3D模型设计打印及机械臂取件](https://x.com/dimentary/status/2104094838035820607) | [@dimentary](https://x.com/dimentary) | 0:23 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104094838035820607) |
 | [严岛神社3D场景](https://x.com/Ayu_AI_0912/status/2103737014508216515) | [@Ayu_AI_0912](https://x.com/Ayu_AI_0912) | 0:24 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103737014508216515) |
 | [可交互的反乌托邦3D箱庭都市](https://x.com/akakuma0219/status/2103820733159981151) | [@akakuma0219](https://x.com/akakuma0219) | 0:52 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103820733159981151) |
-| [输入词语实时生成的代码艺术作品](https://x.com/MiaAI_lab/status/2103837519615774895) | [@MiaAI_lab](https://x.com/MiaAI_lab) | 1:37 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103837519615774895) |
 
 ## 游戏
 
-158 个作品 · [完整清单](cases/game.zh-CN.md)
+163 个作品 · [完整清单](cases/game.zh-CN.md)
 
 | 作品 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|
@@ -118,11 +118,11 @@ X 上用 Claude Opus 5.5 做出来的视频、动效、3D 场景和游戏，原�
 | [孤岛惊魂3克隆游戏（优化版）](https://x.com/maxt3chno/status/2103960867327115462) | [@maxt3chno](https://x.com/maxt3chno) | 2:08 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103960867327115462) |
 | [尝试用AI做原神级游戏](https://x.com/IHayato/status/2103043212869026013) | [@IHayato](https://x.com/IHayato) | 1:09 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103043212869026013) |
 | [用Three.js制作的孤岛惊魂3风格游戏原型](https://x.com/maxt3chno/status/2103423427939897781) | [@maxt3chno](https://x.com/maxt3chno) | 2:02 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103423427939897781) |
-| [鱼叉捕鱼网页小游戏](https://x.com/nachat_dayo/status/2102773498037023140) | [@nachat_dayo](https://x.com/nachat_dayo) | 1:31 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102773498037023140) |
+| [游戏结算与抽卡动画](https://x.com/op7418/status/2104085484347818226) | [@op7418](https://x.com/op7418) | 0:18 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104085484347818226) |
 
 ## 制作流程
 
-75 个作品 · [完整清单](cases/production.zh-CN.md)
+76 个作品 · [完整清单](cases/production.zh-CN.md)
 
 | 作品 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|
@@ -137,7 +137,7 @@ X 上用 Claude Opus 5.5 做出来的视频、动效、3D 场景和游戏，原�
 
 ## 模型对比
 
-104 个作品 · [完整清单](cases/comparison.zh-CN.md)
+105 个作品 · [完整清单](cases/comparison.zh-CN.md)
 
 | 作品 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|

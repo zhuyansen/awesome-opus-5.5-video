@@ -1,6 +1,6 @@
 # Music, editing & production
 
-75 works, 13 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+76 works, 13 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Creator | Length | Prompt |
 |---|---|---|---|
@@ -19,6 +19,7 @@
 | [Auto-generated pull request demo video](https://x.com/theo/status/2103245685688771044) | [@theo](https://x.com/theo) | 0:11 | — |
 | [Realistic AI video scenes written then rendered](https://x.com/abxxai/status/2103500130066518199) | [@abxxai](https://x.com/abxxai) | 0:21 | — |
 | [Automated talking-head video editing pipeline](https://x.com/leaf_sanren/status/2102745561732419772) | [@leaf_sanren](https://x.com/leaf_sanren) | 0:18 | — |
+| [Archival footage music video edit](https://x.com/bitstein/status/2104040489301295502) | [@bitstein](https://x.com/bitstein) | 1:54 | — |
 | [AI-edited talking-head video](https://x.com/sab8a/status/2103144778481475686) | [@sab8a](https://x.com/sab8a) | 0:37 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103144778481475686) |
 | [Bass music generated with code](https://x.com/aj_dev_smith/status/2102504509637587339) | [@aj_dev_smith](https://x.com/aj_dev_smith) | 2:00 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102504509637587339) |
 | [AI-edited launch video from raw takes](https://x.com/gregpr07/status/2102984873351037161) | [@gregpr07](https://x.com/gregpr07) | 0:18 | — |

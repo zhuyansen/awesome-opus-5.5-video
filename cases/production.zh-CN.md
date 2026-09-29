@@ -1,6 +1,6 @@
 # 制作流程
 
-共 75 个作品，其中 13 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 76 个作品，其中 13 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|
@@ -19,6 +19,7 @@
 | [自动生成的代码提交演示视频](https://x.com/theo/status/2103245685688771044) | [@theo](https://x.com/theo) | 0:11 | — |
 | [先写场景再渲染成真实感AI视频](https://x.com/abxxai/status/2103500130066518199) | [@abxxai](https://x.com/abxxai) | 0:21 | — |
 | [口播视频自动化剪辑流水线](https://x.com/leaf_sanren/status/2102745561732419772) | [@leaf_sanren](https://x.com/leaf_sanren) | 0:18 | — |
+| [档案影像混剪音乐短片](https://x.com/bitstein/status/2104040489301295502) | [@bitstein](https://x.com/bitstein) | 1:54 | — |
 | [AI剪辑的口播视频](https://x.com/sab8a/status/2103144778481475686) | [@sab8a](https://x.com/sab8a) | 0:37 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103144778481475686) |
 | [用代码生成的低音音乐](https://x.com/aj_dev_smith/status/2102504509637587339) | [@aj_dev_smith](https://x.com/aj_dev_smith) | 2:00 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102504509637587339) |
 | [AI剪辑生成的发布视频](https://x.com/gregpr07/status/2102984873351037161) | [@gregpr07](https://x.com/gregpr07) | 0:18 | — |

@@ -1,6 +1,6 @@
 # 3D worlds & simulations
 
-131 works, 30 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+132 works, 31 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Creator | Length | Prompt |
 |---|---|---|---|
@@ -25,6 +25,7 @@
 | [Detailed 3D model of a bullet train](https://x.com/higgsfield_ai/status/2102507018372436264) | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:18 | — |
 | [3D scene created in Blender](https://x.com/superalesha/status/2102487989381156991) | [@superalesha](https://x.com/superalesha) | 1:01 | — |
 | [280 KB single-file HTML demoscene intro](https://x.com/JustinPerea/status/2102893186330841502) | [@JustinPerea](https://x.com/JustinPerea) | 0:43 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102893186330841502) |
+| [3D asset design, print, and robot arm removal](https://x.com/dimentary/status/2104094838035820607) | [@dimentary](https://x.com/dimentary) | 0:23 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104094838035820607) |
 | [Trip photos redrawn in acrylic painting style](https://x.com/ann_nnng/status/2102573127192727704) | [@ann_nnng](https://x.com/ann_nnng) | 0:22 | — |
 | [Blender scene via a plugin integration](https://x.com/emmanuel_2m/status/2102539293122035875) | [@emmanuel_2m](https://x.com/emmanuel_2m) | 0:09 | — |
 | [Itsukushima Shrine 3D scene](https://x.com/Ayu_AI_0912/status/2103737014508216515) | [@Ayu_AI_0912](https://x.com/Ayu_AI_0912) | 0:24 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103737014508216515) |

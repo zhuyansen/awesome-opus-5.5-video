@@ -1,6 +1,6 @@
 # Product demos & ads
 
-128 works, 24 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+132 works, 24 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Creator | Length | Prompt |
 |---|---|---|---|
@@ -24,6 +24,7 @@
 | [Dashboard built with one prompt](https://x.com/sparkpxldesign/status/2102808261389058079) | [@sparkpxldesign](https://x.com/sparkpxldesign) | 0:34 | — |
 | [Product promo video for CodePilot](https://x.com/op7418/status/2103148288400924827) | [@op7418](https://x.com/op7418) | 0:50 | — |
 | [iPhone Duo app redesign demo video](https://x.com/anshuc/status/2103598854801084824) | [@anshuc](https://x.com/anshuc) | 1:00 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103598854801084824) |
+| [30-Second Product Promo](https://x.com/shownotover/status/2104124596957933687) | [@shownotover](https://x.com/shownotover) | 0:30 | — |
 | [Company tool rebuilt from its own repository](https://x.com/YoheiN2023/status/2103381925671104732) | [@YoheiN2023](https://x.com/YoheiN2023) | 0:15 | — |
 | [iPhone Duo piano app concept demo](https://x.com/rameshsrivats/status/2103094473882509700) | [@rameshsrivats](https://x.com/rameshsrivats) | 0:26 | — |
 | [Viral post prediction analyzer app demo](https://x.com/0xMovez/status/2102853032698433864) | [@0xMovez](https://x.com/0xMovez) | 0:21 | — |
@@ -45,6 +46,7 @@
 | [CRM app built via a multi-agent workflow](https://x.com/adomicael/status/2103188137220427958) | [@adomicael](https://x.com/adomicael) | 0:36 | — |
 | [AI algorithmic trading bot demo](https://x.com/milesdeutscher/status/2103149036933165110) | [@milesdeutscher](https://x.com/milesdeutscher) | 0:13 | — |
 | [SaaS promo video from a single prompt](https://x.com/condzxyz/status/2103570367763882199) | [@condzxyz](https://x.com/condzxyz) | 0:15 | — |
+| [Multi-industry survey service demo video](https://x.com/studio_veco/status/2104115161158291465) | [@studio_veco](https://x.com/studio_veco) | 0:30 | — |
 | [Interactive UI demo with live preview](https://x.com/uiNerd/status/2102745622608810010) | [@uiNerd](https://x.com/uiNerd) | 0:13 | — |
 | [Coding plugin demo video](https://x.com/eliasstravik/status/2102826740951232530) | [@eliasstravik](https://x.com/eliasstravik) | 0:15 | — |
 | [Dark-mode sales dashboard build](https://x.com/salungprastyo/status/2103015120104525942) | [@salungprastyo](https://x.com/salungprastyo) | 0:33 | — |
@@ -67,6 +69,7 @@
 | [Dedicated PR reviewer tool demo](https://x.com/jessethanley/status/2103981726779531444) | [@jessethanley](https://x.com/jessethanley) | 0:07 | — |
 | [AI-generated brand guideline demo](https://x.com/PancaSeptiana/status/2103024285174673413) | [@PancaSeptiana](https://x.com/PancaSeptiana) | 0:15 | — |
 | [Dub.co promo video one-shot](https://x.com/steventey/status/2103625902211088880) | [@steventey](https://x.com/steventey) | 0:15 | — |
+| [IoT soil-moisture watering device](https://x.com/sora19ai/status/2104114219235090574) | [@sora19ai](https://x.com/sora19ai) | 0:35 | — |
 | [Product promo video generated from Zed codebase](https://x.com/op7418/status/2103300490184564849) | [@op7418](https://x.com/op7418) | 0:51 | — |
 | [Product promo video in two aspect ratios](https://x.com/aiwarts/status/2103419586964316483) | [@aiwarts](https://x.com/aiwarts) | 0:30 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103419586964316483) |
 | [Roblox Studio UI builder plugin demo](https://x.com/MyCodeCoach/status/2103235914273370394) | [@MyCodeCoach](https://x.com/MyCodeCoach) | 6:33 | — |
@@ -82,6 +85,7 @@
 | [App promo video generated from codebase](https://x.com/akokoi1/status/2103299308460429602) | [@akokoi1](https://x.com/akokoi1) | 0:40 | — |
 | [Lightspark product promo video](https://x.com/davidmarcus/status/2103275618045686217) | [@davidmarcus](https://x.com/davidmarcus) | 0:23 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103275618045686217) |
 | [Promotional travel video about Poland](https://x.com/KinasRemek/status/2102728913579327722) | [@KinasRemek](https://x.com/KinasRemek) | 1:26 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102728913579327722) |
+| [Run&Grow app showcase](https://x.com/utkarshbuilds_/status/2104039850060173761) | [@utkarshbuilds_](https://x.com/utkarshbuilds_) | 0:15 | — |
 | [Promo video for a science-based book](https://x.com/M_Adrian2/status/2103904736160120935) | [@M_Adrian2](https://x.com/M_Adrian2) | 1:00 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103904736160120935) |
 | [Comic-book style product ad](https://x.com/ladprofit/status/2103551010522399116) | [@ladprofit](https://x.com/ladprofit) | 0:32 | — |
 | [Self-introduction video with music](https://x.com/mattn_jp/status/2103491383554445613) | [@mattn_jp](https://x.com/mattn_jp) | 0:38 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103491383554445613) |

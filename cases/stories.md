@@ -1,6 +1,6 @@
 # Characters & stories
 
-101 works, 31 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+105 works, 32 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Creator | Length | Prompt |
 |---|---|---|---|
@@ -9,6 +9,7 @@
 | [Animated story about what you love](https://x.com/kevin_t_ngo/status/2102437977435893771) | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 0:28 | — |
 | [Battle of Austerlitz procedural film](https://x.com/WinterArc2125/status/2103116235009347650) | [@WinterArc2125](https://x.com/WinterArc2125) | 5:01 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103116235009347650) |
 | [AI self-introduction song and video](https://x.com/johnknopf/status/2103698854399099057) | [@johnknopf](https://x.com/johnknopf) | 5:25 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103698854399099057) |
+| [CUDA kernel optimization music video](https://x.com/elliotarledge/status/2104096029847277687) | [@elliotarledge](https://x.com/elliotarledge) | 3:10 | — |
 | [AI-history anime-opening music video](https://x.com/domenic/status/2103846928027160609) | [@domenic](https://x.com/domenic) | 4:38 | — |
 | [Animation of an imagined social media feed](https://x.com/pleometric/status/2102572941699354900) | [@pleometric](https://x.com/pleometric) | 0:47 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102572941699354900) |
 | [Claude animates its own life story](https://x.com/shfred0/status/2102495989194236158) | [@shfred0](https://x.com/shfred0) | 0:30 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102495989194236158) |
@@ -32,6 +33,7 @@
 | [Hand-drawn music video coded frame by frame](https://x.com/xiaohu/status/2102979455308439555) | [@xiaohu](https://x.com/xiaohu) | 2:37 | — |
 | [2076 AI apocalypse story animation](https://x.com/Hesamation/status/2103457566978162901) | [@Hesamation](https://x.com/Hesamation) | 1:28 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103457566978162901) |
 | [30-second AI-made short drama](https://x.com/AI_DVD6/status/2103444180861178199) | [@AI_DVD6](https://x.com/AI_DVD6) | 1:47 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103444180861178199) |
+| [Big Enough to See animated song film](https://x.com/icyklop1/status/2103821742682587327) | [@icyklop1](https://x.com/icyklop1) | 5:04 | — |
 | [Animated robot story across 12 art styles](https://x.com/pradeepXkapoor/status/2103099194693271874) | [@pradeepXkapoor](https://x.com/pradeepXkapoor) | 1:15 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103099194693271874) |
 | [AI self-history documentary video](https://x.com/SkyeSharkie/status/2103167053737980177) | [@SkyeSharkie](https://x.com/SkyeSharkie) | 5:29 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103167053737980177) |
 | [Emotional short film test clip](https://x.com/RileyRalmuto/status/2102679018206052828) | [@RileyRalmuto](https://x.com/RileyRalmuto) | 0:16 | — |
@@ -61,7 +63,9 @@
 | [Lyric motion video synced to a song](https://x.com/takamasa045/status/2103791907801620931) | [@takamasa045](https://x.com/takamasa045) | 2:08 | — |
 | [Tribute video one-shot creation](https://x.com/chetaslua/status/2102717699600368045) | [@chetaslua](https://x.com/chetaslua) | 3:18 | — |
 | [1-minute fight animation in code](https://x.com/akokoi1/status/2103149275945517546) | [@akokoi1](https://x.com/akokoi1) | 1:00 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103149275945517546) |
+| [AI-made music video for 'To What End'](https://x.com/repligate/status/2104124976156786925) | [@repligate](https://x.com/repligate) | 2:33 | — |
 | [Animation explaining Claude's inner experience](https://x.com/AndrewOnXYZ/status/2102817596009504849) | [@AndrewOnXYZ](https://x.com/AndrewOnXYZ) | 3:32 | — |
+| [USSR-themed history edit video](https://x.com/Avinash25467/status/2104007585166991778) | [@Avinash25467](https://x.com/Avinash25467) | 2:19 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104007585166991778) |
 | [Dramatized personal battle narrative video](https://x.com/super_bonochin/status/2103881739131376035) | [@super_bonochin](https://x.com/super_bonochin) | 1:05 | — |
 | [Reflective video from theology research](https://x.com/Skoorbkaz/status/2102720902773322034) | [@Skoorbkaz](https://x.com/Skoorbkaz) | 6:14 | — |
 | [Music video for a Portuguese song](https://x.com/goncalo_canhoto/status/2103945822085738890) | [@goncalo_canhoto](https://x.com/goncalo_canhoto) | 2:52 | — |

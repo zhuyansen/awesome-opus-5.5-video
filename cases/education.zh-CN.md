@@ -1,10 +1,11 @@
 # 科普讲解
 
-共 93 个作品，其中 33 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 96 个作品，其中 35 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|
 | [交互式相机对焦光学实验室](https://x.com/RyanSael/status/2102591147927654847) | [@RyanSael](https://x.com/RyanSael) | 0:32 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102591147927654847) |
+| [可交互猛禽3火箭发动机讲解](https://x.com/konstantinsaifo/status/2104094723887501736) | [@konstantinsaifo](https://x.com/konstantinsaifo) | 0:35 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104094723887501736) |
 | [关于超级智能的纪录片](https://x.com/gavinpurcell/status/2103304514329854102) | [@gavinpurcell](https://x.com/gavinpurcell) | 5:15 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103304514329854102) |
 | [像素风神经网络训练动画](https://x.com/DotCSV/status/2102737776219168939) | [@DotCSV](https://x.com/DotCSV) | 0:56 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102737776219168939) |
 | [超级智能风险讲解动画](https://x.com/AndrewOnXYZ/status/2103865359988125706) | [@AndrewOnXYZ](https://x.com/AndrewOnXYZ) | 5:16 | — |
@@ -24,6 +25,7 @@
 | [15秒讲述3D计算机图形史](https://x.com/jmitani/status/2103997975173439834) | [@jmitani](https://x.com/jmitani) | 0:15 | — |
 | [本能寺之变讲解视频](https://x.com/AIPlus_AISchool/status/2102701984344330458) | [@AIPlus_AISchool](https://x.com/AIPlus_AISchool) | 1:00 | — |
 | [大气环流地理知识讲解视频](https://x.com/akokoi1/status/2102606609574941028) | [@akokoi1](https://x.com/akokoi1) | 4:48 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102606609574941028) |
+| [芯片简史讲解视频](https://x.com/vctbtc/status/2104081525847605709) | [@vctbtc](https://x.com/vctbtc) | 14:20 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104081525847605709) |
 | [随机微分方程讲解视频](https://x.com/tommy_love123/status/2103263710517350418) | [@tommy_love123](https://x.com/tommy_love123) | 8:01 | — |
 | [交互式引力透镜黑洞实验室](https://x.com/Voxyz_ai/status/2103117246860345550) | [@Voxyz_ai](https://x.com/Voxyz_ai) | 0:22 | — |
 | [三分钟讲述五千年印度历史](https://x.com/HindolSengupta/status/2103489466841362886) | [@HindolSengupta](https://x.com/HindolSengupta) | 3:43 | — |
@@ -43,6 +45,7 @@
 | [城市化经济学纪录片](https://x.com/JorgeGalindo/status/2103811849129234909) | [@JorgeGalindo](https://x.com/JorgeGalindo) | 32:47 | — |
 | [接入语音合成生成的解说视频](https://x.com/doerstokyo342/status/2103034063816905109) | [@doerstokyo342](https://x.com/doerstokyo342) | 0:34 | — |
 | [双生子佯谬相对论动画讲解](https://x.com/masahirochaen/status/2102722719502704941) | [@masahirochaen](https://x.com/masahirochaen) | 0:47 | — |
+| [眼睛进化过程科普动画](https://x.com/cagrimbakirci/status/2104011756397842869) | [@cagrimbakirci](https://x.com/cagrimbakirci) | 1:10 | — |
 | [犹太历史纪录片一次生成](https://x.com/eranshir/status/2103564391170089429) | [@eranshir](https://x.com/eranshir) | 3:43 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103564391170089429) |
 | [面向机器学习学生的UMAP讲解动画](https://x.com/goodside/status/2103505085292593220) | [@goodside](https://x.com/goodside) | 5:05 | — |
 | [文档转视频讲解（Open Alignment)](https://x.com/Thom_Wolf/status/2103545533474206118) | [@Thom_Wolf](https://x.com/Thom_Wolf) | 1:24 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103545533474206118) |

@@ -1,6 +1,6 @@
 # Model comparisons
 
-104 works, 25 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+105 works, 26 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Creator | Length | Prompt |
 |---|---|---|---|
@@ -62,6 +62,7 @@
 | [Summer Palace pavilion 3D scene comparison](https://x.com/Saccc_c/status/2103778944835326223) | [@Saccc_c](https://x.com/Saccc_c) | 0:30 | — |
 | [3D modeling output comparison](https://x.com/wholyv/status/2103774009871696289) | [@wholyv](https://x.com/wholyv) | 0:15 | — |
 | [Four-model 3D rocket launch comparison](https://x.com/higgsfield_ai/status/2102565251883606206) | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:17 | — |
+| [Pineapple Jelly](https://x.com/vib3coded/status/2104103495020458415) | [@vib3coded](https://x.com/vib3coded) | 0:18 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104103495020458415) |
 | [Solarpunk city shader benchmark result](https://x.com/danveloper/status/2102483043252424986) | [@danveloper](https://x.com/danveloper) | 0:18 | — |
 | [Visual quality comparison between two AI models](https://x.com/HarshithLucky3/status/2103821120009048245) | [@HarshithLucky3](https://x.com/HarshithLucky3) | 0:45 | — |
 | [Real estate photos to 3D walkthrough comparison](https://x.com/realYunfanYe/status/2103917868287201727) | [@realYunfanYe](https://x.com/realYunfanYe) | 1:06 | — |

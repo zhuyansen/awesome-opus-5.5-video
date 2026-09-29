@@ -2,7 +2,7 @@
 
 English | [简体中文](README.zh-CN.md)
 
-Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5 and shared on X, each with 5,000+ views on the original post. **962 works**, **252 with a prompt** (94 full prompts).
+Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5 and shared on X, each with 5,000+ views on the original post. **986 works**, **259 with a prompt** (96 full prompts).
 
 **[Browse online — play the videos and copy the prompts →](https://jasonzhu.ai/en/prompts/claude-opus-5-5)**
 
@@ -25,14 +25,14 @@ Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5 and share
 
 ## Inclusion rule
 
-- The creator's own post, with a native video, and at least 5,000 views on that post (snapshot: 2026-09-28).
+- The creator's own post, with a native video, and at least 5,000 views on that post (snapshot: 2026-09-29).
 - The post states the work was made with Claude Opus 5.5. **Model attribution is as stated by each creator and was not independently reproduced.**
 - A prompt is listed only when it has a source: the post itself, the creator's own replies, a screenshot in those replies, or a link the creator shared. Prompts are kept verbatim, never rewritten or translated.
 - Works with a video but no traceable instruction are still listed, with the prompt column left empty.
 
 ## Motion graphics & UI
 
-172 works · [full list](cases/motion.md)
+177 works · [full list](cases/motion.md)
 
 | Work | Creator | Length | Prompt |
 |---|---|---|---|
@@ -47,7 +47,7 @@ Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5 and share
 
 ## Product demos & ads
 
-128 works · [full list](cases/product.md)
+132 works · [full list](cases/product.md)
 
 | Work | Creator | Length | Prompt |
 |---|---|---|---|
@@ -62,22 +62,22 @@ Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5 and share
 
 ## Explainers & education
 
-93 works · [full list](cases/education.md)
+96 works · [full list](cases/education.md)
 
 | Work | Creator | Length | Prompt |
 |---|---|---|---|
 | [Interactive camera focus lens lab](https://x.com/RyanSael/status/2102591147927654847) | [@RyanSael](https://x.com/RyanSael) | 0:32 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102591147927654847) |
+| [Interactive Raptor 3 rocket engine explainer](https://x.com/konstantinsaifo/status/2104094723887501736) | [@konstantinsaifo](https://x.com/konstantinsaifo) | 0:35 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104094723887501736) |
 | [AI documentary about superintelligence](https://x.com/gavinpurcell/status/2103304514329854102) | [@gavinpurcell](https://x.com/gavinpurcell) | 5:15 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103304514329854102) |
 | [Pixel art neural network training animation](https://x.com/DotCSV/status/2102737776219168939) | [@DotCSV](https://x.com/DotCSV) | 0:56 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102737776219168939) |
 | [History of AI documentary short film](https://x.com/kimmonismus/status/2102844654169575547) | [@kimmonismus](https://x.com/kimmonismus) | 3:00 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102844654169575547) |
 | ['What is a Transformer' explainer video](https://x.com/dotey/status/2103683057689522564) | [@dotey](https://x.com/dotey) | 12:12 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103683057689522564) |
 | [5000 years of Chinese history recap video](https://x.com/akokoi1/status/2102583898865873225) | [@akokoi1](https://x.com/akokoi1) | 2:38 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102583898865873225) |
 | [Atmospheric circulation geography explainer](https://x.com/akokoi1/status/2102606609574941028) | [@akokoi1](https://x.com/akokoi1) | 4:48 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102606609574941028) |
-| [Anime-style explainer remix video](https://x.com/emollick/status/2103272686570918334) | [@emollick](https://x.com/emollick) | 2:07 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103272686570918334) |
 
 ## Characters & stories
 
-101 works · [full list](cases/stories.md)
+105 works · [full list](cases/stories.md)
 
 | Work | Creator | Length | Prompt |
 |---|---|---|---|
@@ -92,7 +92,7 @@ Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5 and share
 
 ## 3D worlds & simulations
 
-131 works · [full list](cases/art3d.md)
+132 works · [full list](cases/art3d.md)
 
 | Work | Creator | Length | Prompt |
 |---|---|---|---|
@@ -101,13 +101,13 @@ Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5 and share
 | [Walkable Indian cities world](https://x.com/pracosm/status/2103387804281745459) | [@pracosm](https://x.com/pracosm) | 0:54 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103387804281745459) |
 | [Historic 1906 San Francisco street in 3D](https://x.com/alexalbert__/status/2102466523164274839) | [@alexalbert__](https://x.com/alexalbert__) | 0:08 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102466523164274839) |
 | [280 KB single-file HTML demoscene intro](https://x.com/JustinPerea/status/2102893186330841502) | [@JustinPerea](https://x.com/JustinPerea) | 0:43 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102893186330841502) |
+| [3D asset design, print, and robot arm removal](https://x.com/dimentary/status/2104094838035820607) | [@dimentary](https://x.com/dimentary) | 0:23 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104094838035820607) |
 | [Itsukushima Shrine 3D scene](https://x.com/Ayu_AI_0912/status/2103737014508216515) | [@Ayu_AI_0912](https://x.com/Ayu_AI_0912) | 0:24 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103737014508216515) |
 | [Interactive 3D dystopian city diorama](https://x.com/akakuma0219/status/2103820733159981151) | [@akakuma0219](https://x.com/akakuma0219) | 0:52 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103820733159981151) |
-| [Live generative code art from a typed word](https://x.com/MiaAI_lab/status/2103837519615774895) | [@MiaAI_lab](https://x.com/MiaAI_lab) | 1:37 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103837519615774895) |
 
 ## Games
 
-158 works · [full list](cases/game.md)
+163 works · [full list](cases/game.md)
 
 | Work | Creator | Length | Prompt |
 |---|---|---|---|
@@ -118,11 +118,11 @@ Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5 and share
 | [Far Cry 3 clone game (polished)](https://x.com/maxt3chno/status/2103960867327115462) | [@maxt3chno](https://x.com/maxt3chno) | 2:08 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103960867327115462) |
 | [Genshin-style game attempt](https://x.com/IHayato/status/2103043212869026013) | [@IHayato](https://x.com/IHayato) | 1:09 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103043212869026013) |
 | [Far Cry 3-style playable game prototype in Three.js](https://x.com/maxt3chno/status/2103423427939897781) | [@maxt3chno](https://x.com/maxt3chno) | 2:02 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103423427939897781) |
-| [Spear fishing browser game](https://x.com/nachat_dayo/status/2102773498037023140) | [@nachat_dayo](https://x.com/nachat_dayo) | 1:31 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102773498037023140) |
+| [Game settlement and card draw animations](https://x.com/op7418/status/2104085484347818226) | [@op7418](https://x.com/op7418) | 0:18 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104085484347818226) |
 
 ## Music, editing & production
 
-75 works · [full list](cases/production.md)
+76 works · [full list](cases/production.md)
 
 | Work | Creator | Length | Prompt |
 |---|---|---|---|
@@ -137,7 +137,7 @@ Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5 and share
 
 ## Model comparisons
 
-104 works · [full list](cases/comparison.md)
+105 works · [full list](cases/comparison.md)
 
 | Work | Creator | Length | Prompt |
 |---|---|---|---|

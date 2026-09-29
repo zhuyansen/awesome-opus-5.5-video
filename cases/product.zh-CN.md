@@ -1,6 +1,6 @@
 # 产品广告
 
-共 128 个作品，其中 24 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 132 个作品，其中 24 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|
@@ -24,6 +24,7 @@
 | [一句提示词生成的仪表盘](https://x.com/sparkpxldesign/status/2102808261389058079) | [@sparkpxldesign](https://x.com/sparkpxldesign) | 0:34 | — |
 | [为 CodePilot 制作的产品宣传片](https://x.com/op7418/status/2103148288400924827) | [@op7418](https://x.com/op7418) | 0:50 | — |
 | [iPhone Duo应用改版演示视频](https://x.com/anshuc/status/2103598854801084824) | [@anshuc](https://x.com/anshuc) | 1:00 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103598854801084824) |
+| [30秒产品宣传片](https://x.com/shownotover/status/2104124596957933687) | [@shownotover](https://x.com/shownotover) | 0:30 | — |
 | [读取自家仓库后重建的工具](https://x.com/YoheiN2023/status/2103381925671104732) | [@YoheiN2023](https://x.com/YoheiN2023) | 0:15 | — |
 | [iPhone Duo双屏钢琴应用概念演示](https://x.com/rameshsrivats/status/2103094473882509700) | [@rameshsrivats](https://x.com/rameshsrivats) | 0:26 | — |
 | [爆款推文预测分析器演示](https://x.com/0xMovez/status/2102853032698433864) | [@0xMovez](https://x.com/0xMovez) | 0:21 | — |
@@ -45,6 +46,7 @@
 | [多智能体协作搭建的CRM应用](https://x.com/adomicael/status/2103188137220427958) | [@adomicael](https://x.com/adomicael) | 0:36 | — |
 | [AI算法交易机器人演示](https://x.com/milesdeutscher/status/2103149036933165110) | [@milesdeutscher](https://x.com/milesdeutscher) | 0:13 | — |
 | [一句提示词做出的SaaS宣传视频](https://x.com/condzxyz/status/2103570367763882199) | [@condzxyz](https://x.com/condzxyz) | 0:15 | — |
+| [多行业调研服务产品演示视频](https://x.com/studio_veco/status/2104115161158291465) | [@studio_veco](https://x.com/studio_veco) | 0:30 | — |
 | [带实时预览的UI演示](https://x.com/uiNerd/status/2102745622608810010) | [@uiNerd](https://x.com/uiNerd) | 0:13 | — |
 | [编程插件演示视频](https://x.com/eliasstravik/status/2102826740951232530) | [@eliasstravik](https://x.com/eliasstravik) | 0:15 | — |
 | [深色模式销售仪表盘实现](https://x.com/salungprastyo/status/2103015120104525942) | [@salungprastyo](https://x.com/salungprastyo) | 0:33 | — |
@@ -67,6 +69,7 @@
 | [专用PR审查工具演示](https://x.com/jessethanley/status/2103981726779531444) | [@jessethanley](https://x.com/jessethanley) | 0:07 | — |
 | [AI生成的品牌指南演示](https://x.com/PancaSeptiana/status/2103024285174673413) | [@PancaSeptiana](https://x.com/PancaSeptiana) | 0:15 | — |
 | [Dub.co产品推广视频一次生成](https://x.com/steventey/status/2103625902211088880) | [@steventey](https://x.com/steventey) | 0:15 | — |
+| [土壤湿度自动灌溉物联网设备](https://x.com/sora19ai/status/2104114219235090574) | [@sora19ai](https://x.com/sora19ai) | 0:35 | — |
 | [基于Zed代码库生成的产品宣传视频](https://x.com/op7418/status/2103300490184564849) | [@op7418](https://x.com/op7418) | 0:51 | — |
 | [双比例输出的产品宣传片](https://x.com/aiwarts/status/2103419586964316483) | [@aiwarts](https://x.com/aiwarts) | 0:30 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103419586964316483) |
 | [Roblox Studio UI生成插件演示](https://x.com/MyCodeCoach/status/2103235914273370394) | [@MyCodeCoach](https://x.com/MyCodeCoach) | 6:33 | — |
@@ -82,6 +85,7 @@
 | [根据代码库生成的应用宣传片](https://x.com/akokoi1/status/2103299308460429602) | [@akokoi1](https://x.com/akokoi1) | 0:40 | — |
 | [Lightspark产品宣传视频](https://x.com/davidmarcus/status/2103275618045686217) | [@davidmarcus](https://x.com/davidmarcus) | 0:23 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103275618045686217) |
 | [波兰旅游宣传视频](https://x.com/KinasRemek/status/2102728913579327722) | [@KinasRemek](https://x.com/KinasRemek) | 1:26 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102728913579327722) |
+| [Run&Grow应用展示视频](https://x.com/utkarshbuilds_/status/2104039850060173761) | [@utkarshbuilds_](https://x.com/utkarshbuilds_) | 0:15 | — |
 | [基于科学文章创作图书的宣传视频](https://x.com/M_Adrian2/status/2103904736160120935) | [@M_Adrian2](https://x.com/M_Adrian2) | 1:00 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103904736160120935) |
 | [漫画风格产品广告](https://x.com/ladprofit/status/2103551010522399116) | [@ladprofit](https://x.com/ladprofit) | 0:32 | — |
 | [配乐自我介绍视频](https://x.com/mattn_jp/status/2103491383554445613) | [@mattn_jp](https://x.com/mattn_jp) | 0:38 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103491383554445613) |

@@ -1,10 +1,11 @@
 # Explainers & education
 
-93 works, 33 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+96 works, 35 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Creator | Length | Prompt |
 |---|---|---|---|
 | [Interactive camera focus lens lab](https://x.com/RyanSael/status/2102591147927654847) | [@RyanSael](https://x.com/RyanSael) | 0:32 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102591147927654847) |
+| [Interactive Raptor 3 rocket engine explainer](https://x.com/konstantinsaifo/status/2104094723887501736) | [@konstantinsaifo](https://x.com/konstantinsaifo) | 0:35 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104094723887501736) |
 | [AI documentary about superintelligence](https://x.com/gavinpurcell/status/2103304514329854102) | [@gavinpurcell](https://x.com/gavinpurcell) | 5:15 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103304514329854102) |
 | [Pixel art neural network training animation](https://x.com/DotCSV/status/2102737776219168939) | [@DotCSV](https://x.com/DotCSV) | 0:56 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102737776219168939) |
 | [Superintelligence risk explainer animation](https://x.com/AndrewOnXYZ/status/2103865359988125706) | [@AndrewOnXYZ](https://x.com/AndrewOnXYZ) | 5:16 | — |
@@ -24,6 +25,7 @@
 | [History of 3D computer graphics in 15 seconds](https://x.com/jmitani/status/2103997975173439834) | [@jmitani](https://x.com/jmitani) | 0:15 | — |
 | [Explainer video on the Honno-ji Incident](https://x.com/AIPlus_AISchool/status/2102701984344330458) | [@AIPlus_AISchool](https://x.com/AIPlus_AISchool) | 1:00 | — |
 | [Atmospheric circulation geography explainer](https://x.com/akokoi1/status/2102606609574941028) | [@akokoi1](https://x.com/akokoi1) | 4:48 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102606609574941028) |
+| [History of chips explainer video](https://x.com/vctbtc/status/2104081525847605709) | [@vctbtc](https://x.com/vctbtc) | 14:20 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104081525847605709) |
 | [Stochastic differential equations explainer](https://x.com/tommy_love123/status/2103263710517350418) | [@tommy_love123](https://x.com/tommy_love123) | 8:01 | — |
 | [Interactive gravitational lensing black hole lab](https://x.com/Voxyz_ai/status/2103117246860345550) | [@Voxyz_ai](https://x.com/Voxyz_ai) | 0:22 | — |
 | [5,000 years of Indian history in three minutes](https://x.com/HindolSengupta/status/2103489466841362886) | [@HindolSengupta](https://x.com/HindolSengupta) | 3:43 | — |
@@ -43,6 +45,7 @@
 | [Documentary on why people move to cities](https://x.com/JorgeGalindo/status/2103811849129234909) | [@JorgeGalindo](https://x.com/JorgeGalindo) | 32:47 | — |
 | [Narrated explainer video via a TTS integration](https://x.com/doerstokyo342/status/2103034063816905109) | [@doerstokyo342](https://x.com/doerstokyo342) | 0:34 | — |
 | [Twin paradox relativity animation explainer](https://x.com/masahirochaen/status/2102722719502704941) | [@masahirochaen](https://x.com/masahirochaen) | 0:47 | — |
+| [Evolution of the eye explainer](https://x.com/cagrimbakirci/status/2104011756397842869) | [@cagrimbakirci](https://x.com/cagrimbakirci) | 1:10 | — |
 | [Zero-shot documentary on Jewish history](https://x.com/eranshir/status/2103564391170089429) | [@eranshir](https://x.com/eranshir) | 3:43 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103564391170089429) |
 | [UMAP explainer animation for ML students](https://x.com/goodside/status/2103505085292593220) | [@goodside](https://x.com/goodside) | 5:05 | — |
 | [Doc-to-video explainer (Open Alignment)](https://x.com/Thom_Wolf/status/2103545533474206118) | [@Thom_Wolf](https://x.com/Thom_Wolf) | 1:24 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103545533474206118) |
