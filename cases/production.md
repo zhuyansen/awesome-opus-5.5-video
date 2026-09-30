@@ -1,6 +1,6 @@
 # Music, editing & production
 
-81 works, 14 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+82 works, 14 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Creator | Length | Prompt |
 |---|---|---|---|
@@ -15,6 +15,7 @@
 | [Open Edit: turning videos into editable projects](https://x.com/sab8a/status/2104627757766578399) | [@sab8a](https://x.com/sab8a) | 1:00 | — |
 | [Code-generated pop punk music video](https://x.com/aj_dev_smith/status/2102575577563570450) | [@aj_dev_smith](https://x.com/aj_dev_smith) | 2:30 | — |
 | [Fully code-based video and audio production](https://x.com/__gsk__/status/2104832372164444162) | [@__gsk__](https://x.com/__gsk__) | 0:30 | — |
+| [TTS audiovisual showcase](https://x.com/keitowebai/status/2104184011820236976) | [@keitowebai](https://x.com/keitowebai) | 0:43 | — |
 | [One-shot launch video soundtrack](https://x.com/maria_rcks/status/2103363131896635699) | [@maria_rcks](https://x.com/maria_rcks) | 1:16 | — |
 | [Code-generated video demo](https://x.com/VincentWei93/status/2103381720410333314) | [@VincentWei93](https://x.com/VincentWei93) | 3:44 | — |
 | [Auto-edited music video from footage](https://x.com/ochyai/status/2103643040326008894) | [@ochyai](https://x.com/ochyai) | 1:55 | — |

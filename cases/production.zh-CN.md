@@ -1,6 +1,6 @@
 # 制作流程
 
-共 81 个作品，其中 14 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 82 个作品，其中 14 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|
@@ -15,6 +15,7 @@
 | [Open Edit：将视频转为可编辑项目](https://x.com/sab8a/status/2104627757766578399) | [@sab8a](https://x.com/sab8a) | 1:00 | — |
 | [代码生成的朋克摇滚音乐视频](https://x.com/aj_dev_smith/status/2102575577563570450) | [@aj_dev_smith](https://x.com/aj_dev_smith) | 2:30 | — |
 | [完全代码化的影音制作](https://x.com/__gsk__/status/2104832372164444162) | [@__gsk__](https://x.com/__gsk__) | 0:30 | — |
+| [语音合成视听展示](https://x.com/keitowebai/status/2104184011820236976) | [@keitowebai](https://x.com/keitowebai) | 0:43 | — |
 | [一次生成的产品发布视频配乐](https://x.com/maria_rcks/status/2103363131896635699) | [@maria_rcks](https://x.com/maria_rcks) | 1:16 | — |
 | [代码生成的视频演示](https://x.com/VincentWei93/status/2103381720410333314) | [@VincentWei93](https://x.com/VincentWei93) | 3:44 | — |
 | [素材自动剪辑成音乐视频](https://x.com/ochyai/status/2103643040326008894) | [@ochyai](https://x.com/ochyai) | 1:55 | — |

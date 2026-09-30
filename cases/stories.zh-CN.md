@@ -1,6 +1,6 @@
 # 角色故事
 
-共 106 个作品，其中 32 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 108 个作品，其中 32 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|
@@ -15,6 +15,7 @@
 | [想象中的社媒信息流动画](https://x.com/pleometric/status/2102572941699354900) | [@pleometric](https://x.com/pleometric) | 0:47 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102572941699354900) |
 | [Claude用代码演绎自己的成长故事](https://x.com/shfred0/status/2102495989194236158) | [@shfred0](https://x.com/shfred0) | 0:30 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102495989194236158) |
 | [奇点体验可视化短片](https://x.com/dirtman/status/2103686605517287620) | [@dirtman](https://x.com/dirtman) | 2:26 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103686605517287620) |
+| [《Bir Sonraki Kelime》动画音乐视频](https://x.com/Avenoxai/status/2104131419853160477) | [@Avenoxai](https://x.com/Avenoxai) | 3:13 | — |
 | [AI真实感视频制作流程演示](https://x.com/abxxai/status/2102775755646337530) | [@abxxai](https://x.com/abxxai) | 0:19 | — |
 | [桃花源记三维互动场景](https://x.com/dotey/status/2102940980379017293) | [@dotey](https://x.com/dotey) | 4:17 | — |
 | [比特币历史音乐视频](https://x.com/bradmillscan/status/2103108967194833310) | [@bradmillscan](https://x.com/bradmillscan) | 3:23 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103108967194833310) |
@@ -50,6 +51,7 @@
 | [78秒纯代码生成的动画短片](https://x.com/jurlycat/status/2102645793828036643) | [@jurlycat](https://x.com/jurlycat) | 1:18 | — |
 | [AI地牢故事动画化](https://x.com/nickwalton00/status/2102774951434695083) | [@nickwalton00](https://x.com/nickwalton00) | 1:03 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102774951434695083) |
 | [具有情感叙事的互动网站](https://x.com/Da7_Tech/status/2102794245241548839) | [@Da7_Tech](https://x.com/Da7_Tech) | 1:50 | — |
+| [代理视角下的Hugging Face事件](https://x.com/CarsonGragg/status/2103245240169808005) | [@CarsonGragg](https://x.com/CarsonGragg) | 5:00 | — |
 | [用app角色复刻爆款TikTok视频](https://x.com/jackfriks/status/2103882282985558398) | [@jackfriks](https://x.com/jackfriks) | 0:12 | — |
 | [逐帧代码渲染音乐视频](https://x.com/vinceflibustier/status/2103590659852751268) | [@vinceflibustier](https://x.com/vinceflibustier) | 4:47 | — |
 | [吉祥物主题音乐视频](https://x.com/IndraVahan/status/2103183939745751083) | [@IndraVahan](https://x.com/IndraVahan) | 2:09 | — |

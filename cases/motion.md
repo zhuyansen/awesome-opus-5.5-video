@@ -1,6 +1,6 @@
 # Motion graphics & UI
 
-182 works, 71 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+184 works, 71 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Creator | Length | Prompt |
 |---|---|---|---|
@@ -12,6 +12,7 @@
 | [Multi-AI-tool dance motion graphics](https://x.com/sankakuten91256/status/2103483923783373039) | [@sankakuten91256](https://x.com/sankakuten91256) | 0:15 | — |
 | [Unspecified animation made in 15 minutes](https://x.com/achxvi/status/2103918792845963545) | [@achxvi](https://x.com/achxvi) | 0:15 | — |
 | [Frame replication quality test](https://x.com/AQS_kr/status/2103751625932255482) | [@AQS_kr](https://x.com/AQS_kr) | 0:23 | — |
+| [Animated rebuttal to AI doom predictions](https://x.com/_brightmirror/status/2104078568137675107) | [@_brightmirror](https://x.com/_brightmirror) | 5:00 | — |
 | [15-second motion showreel rendered with Remotion](https://x.com/ajith_io/status/2103449416325890146) | [@ajith_io](https://x.com/ajith_io) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103449416325890146) |
 | [Motion showreel generated at xhigh effort](https://x.com/kenn/status/2103337314021937232) | [@kenn](https://x.com/kenn) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103337314021937232) |
 | [High-energy motion graphics showreel](https://x.com/crvdesign0/status/2103817034618339682) | [@crvdesign0](https://x.com/crvdesign0) | 0:15 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103817034618339682) |
@@ -56,6 +57,7 @@
 | [Animation examples for promo and course videos](https://x.com/mahiru35628/status/2102802579499700704) | [@mahiru35628](https://x.com/mahiru35628) | 0:45 | — |
 | [Reusable prompt template for a product motion video](https://x.com/ann_nnng/status/2103723183899852885) | [@ann_nnng](https://x.com/ann_nnng) | 0:15 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103723183899852885) |
 | [Showreel built from AI dance clips](https://x.com/AbaneChan/status/2103903213363806575) | [@AbaneChan](https://x.com/AbaneChan) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103903213363806575) |
+| [Motion graphics video](https://x.com/pratyushrungta/status/2104525735713206557) | [@pratyushrungta](https://x.com/pratyushrungta) | 3:30 | — |
 | [15-second motion designer showreel by @leonabboud](https://x.com/leonabboud/status/2103576084499358051) | [@leonabboud](https://x.com/leonabboud) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103576084499358051) |
 | [Video generated from single prompt](https://x.com/bitfish/status/2103647787795824856) | [@bitfish](https://x.com/bitfish) | 2:55 | — |
 | [Bookmark UI micro-animation](https://x.com/kippe07/status/2103036199774585026) | [@kippe07](https://x.com/kippe07) | 0:15 | — |

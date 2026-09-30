@@ -1,6 +1,6 @@
 # Product demos & ads
 
-138 works, 26 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+139 works, 26 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Creator | Length | Prompt |
 |---|---|---|---|
@@ -11,6 +11,7 @@
 | [Virtual office for managing coding agents](https://x.com/webdevcody/status/2103653857377292720) | [@webdevcody](https://x.com/webdevcody) | 0:41 | — |
 | [Interactive recalculating slide deck](https://x.com/uchita_success/status/2103786580838420912) | [@uchita_success](https://x.com/uchita_success) | 0:31 | — |
 | [Lyric video generator app JIZURA](https://x.com/8co28/status/2102572322016370781) | [@8co28](https://x.com/8co28) | 1:46 | — |
+| [Mac app demo for auto HEIC conversion](https://x.com/okota_tsu_/status/2104211036534718882) | [@okota_tsu_](https://x.com/okota_tsu_) | 0:37 | — |
 | [Intro video for Bend 2 programming language](https://x.com/VictorTaelin/status/2104568082169749982) | [@VictorTaelin](https://x.com/VictorTaelin) | 1:30 | — |
 | [AI inference startup launch video](https://x.com/deedydas/status/2102787937482252537) | [@deedydas](https://x.com/deedydas) | 0:26 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102787937482252537) |
 | [ToDopa task-starting app demo](https://x.com/eta1ia/status/2103779108438077923) | [@eta1ia](https://x.com/eta1ia) | 0:59 | — |

@@ -1,6 +1,6 @@
 # 科普讲解
 
-共 101 个作品，其中 35 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 103 个作品，其中 35 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|
@@ -34,7 +34,9 @@
 | [三分钟讲述五千年印度历史](https://x.com/HindolSengupta/status/2103489466841362886) | [@HindolSengupta](https://x.com/HindolSengupta) | 3:43 | — |
 | [动漫风格科普讲解视频](https://x.com/emollick/status/2103272686570918334) | [@emollick](https://x.com/emollick) | 2:07 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103272686570918334) |
 | [《炸弹如何致命》科普视频](https://x.com/tobiaschneider/status/2104538351504068848) | [@tobiaschneider](https://x.com/tobiaschneider) | 18:32 | — |
+| [为什么存档点不该做成篝火](https://x.com/yoneapp/status/2103356152247615873) | [@yoneapp](https://x.com/yoneapp) | 0:30 | — |
 | [SQLite代码库解析视频](https://x.com/deedydas/status/2104391577091407965) | [@deedydas](https://x.com/deedydas) | 7:30 | — |
+| [乌克兰战线态势可视化](https://x.com/tokumei_banzai_/status/2104062022560456795) | [@tokumei_banzai_](https://x.com/tokumei_banzai_) | 1:27 | — |
 | [比特币历史纪录片视频](https://x.com/intangiblecoins/status/2103895476319969685) | [@intangiblecoins](https://x.com/intangiblecoins) | 3:35 | — |
 | [印度文明历史视频](https://x.com/rashem48/status/2103850664007028964) | [@rashem48](https://x.com/rashem48) | 1:16 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103850664007028964) |
 | [3D旁白版宜家组装说明视频](https://x.com/deedydas/status/2103174501345493197) | [@deedydas](https://x.com/deedydas) | 1:42 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103174501345493197) |

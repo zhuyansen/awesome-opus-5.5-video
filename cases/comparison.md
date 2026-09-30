@@ -1,10 +1,11 @@
 # Model comparisons
 
-113 works, 30 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+115 works, 30 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Creator | Length | Prompt |
 |---|---|---|---|
 | [Opus 5.5 vs GPT-6 Astra samurai game demo](https://x.com/higgsfield_ai/status/2102471046356177001) | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:28 | — |
+| [GPT-6 Astra vs Claude Opus 5.5 comparison](https://x.com/Rixhabh__/status/2104225147184132310) | [@Rixhabh__](https://x.com/Rixhabh__) | 0:30 | — |
 | [Grok vs Opus grass-touching simulator cost test](https://x.com/coldopn/status/2102474335172640989) | [@coldopn](https://x.com/coldopn) | 0:22 | — |
 | [Opus 5.5 vs GPT-6 Sol Unreal game dev](https://x.com/higgsfield_ai/status/2102533401110802552) | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:44 | — |
 | [Opus 5.5 vs GPT-6 Astra Blender 3D test](https://x.com/Stefan_3D_AI/status/2102471841046786153) | [@Stefan_3D_AI](https://x.com/Stefan_3D_AI) | 0:46 | — |
@@ -77,6 +78,7 @@
 | [Tokyo Tower 3D model comparison](https://x.com/seki_anos/status/2102675477257494615) | [@seki_anos](https://x.com/seki_anos) | 0:15 | — |
 | [Articulated Lamp Animation in Blender](https://x.com/zavrenn/status/2103181133198639614) | [@zavrenn](https://x.com/zavrenn) | 0:06 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103181133198639614) |
 | [Paywall mascot design comparison](https://x.com/Studiyoco/status/2102825233078157454) | [@Studiyoco](https://x.com/Studiyoco) | 0:06 | — |
+| [Black hole merger simulation comparison](https://x.com/bridgebench/status/2103091707021848921) | [@bridgebench](https://x.com/bridgebench) | 0:10 | — |
 | [Math problem-solving video comparison](https://x.com/akokoi1/status/2103708700800409972) | [@akokoi1](https://x.com/akokoi1) | 3:10 | — |
 | [Interactive planets website comparison](https://x.com/Kappaemme1926/status/2102729710174196022) | [@Kappaemme1926](https://x.com/Kappaemme1926) | 0:47 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102729710174196022) |
 | [3D model quality comparison](https://x.com/AIPlus_AISchool/status/2102628619952804168) | [@AIPlus_AISchool](https://x.com/AIPlus_AISchool) | 0:23 | — |

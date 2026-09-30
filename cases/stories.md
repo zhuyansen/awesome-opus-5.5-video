@@ -1,6 +1,6 @@
 # Characters & stories
 
-106 works, 32 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+108 works, 32 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Creator | Length | Prompt |
 |---|---|---|---|
@@ -15,6 +15,7 @@
 | [Animation of an imagined social media feed](https://x.com/pleometric/status/2102572941699354900) | [@pleometric](https://x.com/pleometric) | 0:47 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102572941699354900) |
 | [Claude animates its own life story](https://x.com/shfred0/status/2102495989194236158) | [@shfred0](https://x.com/shfred0) | 0:30 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102495989194236158) |
 | [Visualization of the singularity experience](https://x.com/dirtman/status/2103686605517287620) | [@dirtman](https://x.com/dirtman) | 2:26 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103686605517287620) |
+| [Bir Sonraki Kelime animated music video](https://x.com/Avenoxai/status/2104131419853160477) | [@Avenoxai](https://x.com/Avenoxai) | 3:13 | — |
 | [Realistic AI-generated video workflow demo](https://x.com/abxxai/status/2102775755646337530) | [@abxxai](https://x.com/abxxai) | 0:19 | — |
 | [Peach Blossom Spring interactive 3D scene](https://x.com/dotey/status/2102940980379017293) | [@dotey](https://x.com/dotey) | 4:17 | — |
 | [Bitcoin history music video](https://x.com/bradmillscan/status/2103108967194833310) | [@bradmillscan](https://x.com/bradmillscan) | 3:23 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103108967194833310) |
@@ -50,6 +51,7 @@
 | [78-second code-generated animated film](https://x.com/jurlycat/status/2102645793828036643) | [@jurlycat](https://x.com/jurlycat) | 1:18 | — |
 | [Animated AI Dungeon story](https://x.com/nickwalton00/status/2102774951434695083) | [@nickwalton00](https://x.com/nickwalton00) | 1:03 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102774951434695083) |
 | [Interactive website with a living narrative](https://x.com/Da7_Tech/status/2102794245241548839) | [@Da7_Tech](https://x.com/Da7_Tech) | 1:50 | — |
+| [The Hugging Face incident seen by an agent](https://x.com/CarsonGragg/status/2103245240169808005) | [@CarsonGragg](https://x.com/CarsonGragg) | 5:00 | — |
 | [Viral TikTok recreation with app characters](https://x.com/jackfriks/status/2103882282985558398) | [@jackfriks](https://x.com/jackfriks) | 0:12 | — |
 | [Frame-by-frame coded music video](https://x.com/vinceflibustier/status/2103590659852751268) | [@vinceflibustier](https://x.com/vinceflibustier) | 4:47 | — |
 | [Mascot-themed music video](https://x.com/IndraVahan/status/2103183939745751083) | [@IndraVahan](https://x.com/IndraVahan) | 2:09 | — |

@@ -1,6 +1,6 @@
 # 产品广告
 
-共 138 个作品，其中 26 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 139 个作品，其中 26 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|
@@ -11,6 +11,7 @@
 | [管理编程 Agent 的虚拟办公室](https://x.com/webdevcody/status/2103653857377292720) | [@webdevcody](https://x.com/webdevcody) | 0:41 | — |
 | [可交互动态演示幻灯片](https://x.com/uchita_success/status/2103786580838420912) | [@uchita_success](https://x.com/uchita_success) | 0:31 | — |
 | [歌词动态视频生成器JIZURA](https://x.com/8co28/status/2102572322016370781) | [@8co28](https://x.com/8co28) | 1:46 | — |
+| [自动转换HEIC的Mac应用演示](https://x.com/okota_tsu_/status/2104211036534718882) | [@okota_tsu_](https://x.com/okota_tsu_) | 0:37 | — |
 | [Bend 2编程语言介绍视频](https://x.com/VictorTaelin/status/2104568082169749982) | [@VictorTaelin](https://x.com/VictorTaelin) | 1:30 | — |
 | [AI推理初创公司产品发布视频](https://x.com/deedydas/status/2102787937482252537) | [@deedydas](https://x.com/deedydas) | 0:26 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102787937482252537) |
 | [强制启动任务App ToDopa演示](https://x.com/eta1ia/status/2103779108438077923) | [@eta1ia](https://x.com/eta1ia) | 0:59 | — |

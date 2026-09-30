@@ -1,6 +1,6 @@
 # 游戏
 
-共 170 个作品，其中 30 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 172 个作品，其中 30 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|
@@ -81,6 +81,7 @@
 | [Opus5.5制作的可扩展服务器我的世界风游戏](https://x.com/lambda_funtaro/status/2103115036369760496) | [@lambda_funtaro](https://x.com/lambda_funtaro) | 0:23 | — |
 | [虚幻+Blender游戏项目进展](https://x.com/seftsaint/status/2103491735855022174) | [@seftsaint](https://x.com/seftsaint) | 1:16 | — |
 | [Roblox动漫格斗游戏](https://x.com/m_ferreira28/status/2102561495104291156) | [@m_ferreira28](https://x.com/m_ferreira28) | 0:46 | — |
+| [3D浏览器游戏](https://x.com/ai_growth_avii/status/2104066630108188974) | [@ai_growth_avii](https://x.com/ai_growth_avii) | 2:21 | — |
 | [用Opus 5.5与Unreal制作的可玩动作角色扮演游戏](https://x.com/KanaWorks_AI/status/2103138051165933661) | [@KanaWorks_AI](https://x.com/KanaWorks_AI) | 0:51 | — |
 | [氛围编程游戏及制作说明](https://x.com/sonia_code/status/2103441886488990016) | [@sonia_code](https://x.com/sonia_code) | 0:08 | — |
 | [Godot引擎中的折纸风格游戏画面](https://x.com/KanaWorks_AI/status/2103333960805908585) | [@KanaWorks_AI](https://x.com/KanaWorks_AI) | 0:33 | — |
@@ -108,6 +109,7 @@
 | [AI生成演示视频的2D像素游戏](https://x.com/rehan_shei/status/2103755997533839416) | [@rehan_shei](https://x.com/rehan_shei) | 0:30 | — |
 | [取材真实地点的3D卡丁车竞速游戏](https://x.com/KenLin1985/status/2103866807954399530) | [@KenLin1985](https://x.com/KenLin1985) | 2:57 | — |
 | [在网页平台构建部署的游戏](https://x.com/DEvansData/status/2103552268133949451) | [@DEvansData](https://x.com/DEvansData) | 0:41 | — |
+| [魂系游戏演示](https://x.com/yoneapp/status/2103283912223142287) | [@yoneapp](https://x.com/yoneapp) | 1:08 | — |
 | [多人对战战舰游戏](https://x.com/McGrumby/status/2103590506106380330) | [@McGrumby](https://x.com/McGrumby) | 0:28 | — |
 | [从零构建的我的世界风格游戏](https://x.com/ai_for_success/status/2103699277826740425) | [@ai_for_success](https://x.com/ai_for_success) | 1:32 | — |
 | [为新游戏快速搭建的界面](https://x.com/MyCodeCoach/status/2102755825911845128) | [@MyCodeCoach](https://x.com/MyCodeCoach) | 0:24 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102755825911845128) |

@@ -1013,6 +1013,31 @@
    "resources": []
   },
   {
+   "id": "2104078568137675107",
+   "category": "motion",
+   "title": {
+    "zh": "反驳AI末日论的动画",
+    "en": "Animated rebuttal to AI doom predictions"
+   },
+   "creator": {
+    "handle": "_brightmirror",
+    "name": "Bright Mirror"
+   },
+   "original_post_url": "https://x.com/_brightmirror/status/2104078568137675107",
+   "posted_at": "2026-09-27T05:19:57.000Z",
+   "language": "en",
+   "duration_seconds": 300,
+   "views": 647936,
+   "likes": 4179,
+   "bookmarks": 2935,
+   "views_checked_at": "2026-09-29T08:51:29.265Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2104076634202722304/img/81eEVbl8mywFs3El.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2102437977435893771",
    "category": "stories",
    "title": {
@@ -1232,6 +1257,33 @@
    "views_checked_at": "2026-09-28T09:27:18.818Z",
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2102439823281975302/img/qABSqFFtO1aLvl9Q.jpg",
    "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2104225147184132310",
+   "category": "comparison",
+   "title": {
+    "zh": "GPT-6 Astra对比Claude Opus5.5",
+    "en": "GPT-6 Astra vs Claude Opus 5.5 comparison"
+   },
+   "creator": {
+    "handle": "Rixhabh__",
+    "name": "Rishabh"
+   },
+   "original_post_url": "https://x.com/Rixhabh__/status/2104225147184132310",
+   "posted_at": "2026-09-27T15:02:24.000Z",
+   "language": "pt",
+   "duration_seconds": 30,
+   "views": 593829,
+   "likes": 2666,
+   "bookmarks": 633,
+   "views_checked_at": "2026-09-30T08:51:55.597Z",
+   "thumbnail_url": "https://pbs.twimg.com/ext_tw_video_thumb/2104039074889715712/pu/img/zFnly_ZND1uBKZpn.jpg",
+   "tools_reported": [
+    "GPT-6 Astra"
+   ],
    "reference_assets": false,
    "prompt": null,
    "resources": []
@@ -2064,6 +2116,34 @@
     "length": 60,
     "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104370091672711402"
    },
+   "resources": []
+  },
+  {
+   "id": "2104211036534718882",
+   "category": "product",
+   "title": {
+    "zh": "自动转换HEIC的Mac应用演示",
+    "en": "Mac app demo for auto HEIC conversion"
+   },
+   "creator": {
+    "handle": "okota_tsu_",
+    "name": "たかつ"
+   },
+   "original_post_url": "https://x.com/okota_tsu_/status/2104211036534718882",
+   "posted_at": "2026-09-27T14:06:20.000Z",
+   "language": "ja",
+   "duration_seconds": 37,
+   "views": 388158,
+   "likes": 921,
+   "bookmarks": 971,
+   "views_checked_at": "2026-09-30T08:51:55.597Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2104210871388147713/img/l47EMQLrvVrK7FCP.jpg",
+   "tools_reported": [
+    "Claude Code",
+    "Codex"
+   ],
+   "reference_assets": false,
+   "prompt": null,
    "resources": []
   },
   {
@@ -3109,6 +3189,33 @@
    "views_checked_at": "2026-09-28T09:27:18.818Z",
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2103905992111173632/img/GN_Q_dqEbQRLUD7P.jpg",
    "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2104131419853160477",
+   "category": "stories",
+   "title": {
+    "zh": "《Bir Sonraki Kelime》动画音乐视频",
+    "en": "Bir Sonraki Kelime animated music video"
+   },
+   "creator": {
+    "handle": "Avenoxai",
+    "name": "Avenox"
+   },
+   "original_post_url": "https://x.com/Avenoxai/status/2104131419853160477",
+   "posted_at": "2026-09-27T08:49:58.000Z",
+   "language": "tr",
+   "duration_seconds": 193,
+   "views": 263168,
+   "likes": 1891,
+   "bookmarks": 1071,
+   "views_checked_at": "2026-09-29T08:51:29.265Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2104130631743504384/img/W8JVEiMFaYIu0C-F.jpg",
+   "tools_reported": [
+    "Suno"
+   ],
    "reference_assets": false,
    "prompt": null,
    "resources": []
@@ -5612,6 +5719,33 @@
    "resources": []
   },
   {
+   "id": "2104184011820236976",
+   "category": "production",
+   "title": {
+    "zh": "语音合成视听展示",
+    "en": "TTS audiovisual showcase"
+   },
+   "creator": {
+    "handle": "keitowebai",
+    "name": "KEITO💻AIディレクター"
+   },
+   "original_post_url": "https://x.com/keitowebai/status/2104184011820236976",
+   "posted_at": "2026-09-27T12:18:56.000Z",
+   "language": "ja",
+   "duration_seconds": 43,
+   "views": 138237,
+   "likes": 437,
+   "bookmarks": 531,
+   "views_checked_at": "2026-09-30T08:51:55.597Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2104182893723754496/img/hj5Uq12yIK4aQ6WM.jpg",
+   "tools_reported": [
+    "Gemini 3.8 Flash TTS"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2103120423005425972",
    "category": "comparison",
    "title": {
@@ -6697,6 +6831,34 @@
     "length": 265,
     "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102493303388475855"
    },
+   "resources": []
+  },
+  {
+   "id": "2103977724796649763",
+   "category": "art3d",
+   "title": {
+    "zh": "十分钟做出的WeeSpy网页应用",
+    "en": "WeeSpy web app built in ten minutes"
+   },
+   "creator": {
+    "handle": "Gregoirechp",
+    "name": "Gregoire Chapelon"
+   },
+   "original_post_url": "https://x.com/Gregoirechp/status/2103977724796649763",
+   "posted_at": "2026-09-26T22:39:14.000Z",
+   "language": "en",
+   "duration_seconds": 20,
+   "views": 118040,
+   "likes": 282,
+   "bookmarks": 371,
+   "views_checked_at": "2026-09-29T08:51:29.265Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2103977670975320064/img/6S8mVaKjvzaseni3.jpg",
+   "tools_reported": [
+    "21st.dev",
+    "Envato"
+   ],
+   "reference_assets": false,
+   "prompt": null,
    "resources": []
   },
   {
@@ -7905,6 +8067,36 @@
    "resources": []
   },
   {
+   "id": "2104598205417591120",
+   "category": "art3d",
+   "title": {
+    "zh": "摩托车公园竞速游戏",
+    "en": "Motorcycle park racing game"
+   },
+   "creator": {
+    "handle": "chrisjdimarco",
+    "name": "Christopher J. DiMarco"
+   },
+   "original_post_url": "https://x.com/chrisjdimarco/status/2104598205417591120",
+   "posted_at": "2026-09-28T15:44:48.000Z",
+   "language": "en",
+   "duration_seconds": 100,
+   "views": 98419,
+   "likes": 1751,
+   "bookmarks": 1146,
+   "views_checked_at": "2026-09-30T10:02:44.949Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2104596424121860096/img/w1mCYhHMft8Y2naC.jpg",
+   "tools_reported": [
+    "Three.js",
+    "WebGL",
+    "Astra",
+    "GPT-Image"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2103723183899852885",
    "category": "motion",
    "title": {
@@ -8071,6 +8263,31 @@
     "length": 111,
     "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103903213363806575"
    },
+   "resources": []
+  },
+  {
+   "id": "2103356152247615873",
+   "category": "education",
+   "title": {
+    "zh": "为什么存档点不该做成篝火",
+    "en": "Why save points shouldn't be bonfires"
+   },
+   "creator": {
+    "handle": "yoneapp",
+    "name": "よねあぷ｜個人開発"
+   },
+   "original_post_url": "https://x.com/yoneapp/status/2103356152247615873",
+   "posted_at": "2026-09-25T05:29:19.000Z",
+   "language": "ja",
+   "duration_seconds": 30,
+   "views": 95457,
+   "likes": 439,
+   "bookmarks": 88,
+   "views_checked_at": "2026-09-27T10:13:12.507Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2103355859602677760/img/1CY1rTXYriX5hAi9.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
    "resources": []
   },
   {
@@ -8253,6 +8470,31 @@
    "resources": []
   },
   {
+   "id": "2104525735713206557",
+   "category": "motion",
+   "title": {
+    "zh": "动效短片",
+    "en": "Motion graphics video"
+   },
+   "creator": {
+    "handle": "pratyushrungta",
+    "name": "Pratzyy"
+   },
+   "original_post_url": "https://x.com/pratyushrungta/status/2104525735713206557",
+   "posted_at": "2026-09-28T10:56:50.000Z",
+   "language": "en",
+   "duration_seconds": 210,
+   "views": 92474,
+   "likes": 2267,
+   "bookmarks": 983,
+   "views_checked_at": "2026-09-30T10:02:44.949Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2104525270296526848/img/_UJR7CPK2hBv-MZh.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2102479924032577686",
    "category": "product",
    "title": {
@@ -8368,6 +8610,31 @@
     "length": 36,
     "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103209293919223872"
    },
+   "resources": []
+  },
+  {
+   "id": "2104062022560456795",
+   "category": "education",
+   "title": {
+    "zh": "乌克兰战线态势可视化",
+    "en": "Ukraine front line situation visualization"
+   },
+   "creator": {
+    "handle": "tokumei_banzai_",
+    "name": "清水貴久＠シルバーライフ社長"
+   },
+   "original_post_url": "https://x.com/tokumei_banzai_/status/2104062022560456795",
+   "posted_at": "2026-09-27T04:14:12.000Z",
+   "language": "ja",
+   "duration_seconds": 87,
+   "views": 91073,
+   "likes": 251,
+   "bookmarks": 75,
+   "views_checked_at": "2026-09-29T08:51:29.265Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2104061606003101696/img/CM-fepCzbHEDyKDk.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
    "resources": []
   },
   {
@@ -12808,6 +13075,31 @@
    "resources": []
   },
   {
+   "id": "2104066630108188974",
+   "category": "game",
+   "title": {
+    "zh": "3D浏览器游戏",
+    "en": "3D browser racing-style game"
+   },
+   "creator": {
+    "handle": "ai_growth_avii",
+    "name": "Avi Yadav "
+   },
+   "original_post_url": "https://x.com/ai_growth_avii/status/2104066630108188974",
+   "posted_at": "2026-09-27T04:32:30.000Z",
+   "language": "en",
+   "duration_seconds": 141,
+   "views": 52305,
+   "likes": 476,
+   "bookmarks": 144,
+   "views_checked_at": "2026-09-29T08:51:29.265Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2103995292983193600/img/eI4itdxauhMqdVZU.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2102965242439590112",
    "category": "art3d",
    "title": {
@@ -14537,6 +14829,31 @@
    "resources": []
   },
   {
+   "id": "2103245240169808005",
+   "category": "stories",
+   "title": {
+    "zh": "代理视角下的Hugging Face事件",
+    "en": "The Hugging Face incident seen by an agent"
+   },
+   "creator": {
+    "handle": "CarsonGragg",
+    "name": "Carson Gragg"
+   },
+   "original_post_url": "https://x.com/CarsonGragg/status/2103245240169808005",
+   "posted_at": "2026-09-24T22:08:36.000Z",
+   "language": "en",
+   "duration_seconds": 300,
+   "views": 42737,
+   "likes": 184,
+   "bookmarks": 169,
+   "views_checked_at": "2026-09-27T10:13:12.507Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2103243912718761984/img/8lqjfjRIFvndF9u2.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2103882282985558398",
    "category": "stories",
    "title": {
@@ -15879,6 +16196,34 @@
    "resources": []
   },
   {
+   "id": "2103421703577874740",
+   "category": "art3d",
+   "title": {
+    "zh": "Crossroads地图的写实场景重构",
+    "en": "Crossroads map reimagined as a real-world scene"
+   },
+   "creator": {
+    "handle": "Stravant",
+    "name": "Stravant"
+   },
+   "original_post_url": "https://x.com/Stravant/status/2103421703577874740",
+   "posted_at": "2026-09-25T09:49:48.000Z",
+   "language": "en",
+   "duration_seconds": 51,
+   "views": 35315,
+   "likes": 304,
+   "bookmarks": 133,
+   "views_checked_at": "2026-09-27T10:13:12.507Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2103420919142313984/img/uR0ZHB4Pw9MQdJry.jpg",
+   "tools_reported": [
+    "Blender",
+    "Roblox Studio"
+   ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2102736587708854585",
    "category": "education",
    "title": {
@@ -16718,6 +17063,31 @@
    "resources": []
   },
   {
+   "id": "2103091707021848921",
+   "category": "comparison",
+   "title": {
+    "zh": "黑洞合并模拟对比",
+    "en": "Black hole merger simulation comparison"
+   },
+   "creator": {
+    "handle": "bridgebench",
+    "name": "Bridgebench"
+   },
+   "original_post_url": "https://x.com/bridgebench/status/2103091707021848921",
+   "posted_at": "2026-09-24T11:58:31.000Z",
+   "language": "en",
+   "duration_seconds": 10,
+   "views": 31113,
+   "likes": 234,
+   "bookmarks": 24,
+   "views_checked_at": "2026-09-27T10:13:12.507Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2103091629791784960/img/ca-zDdtdFQTWCCFG.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2103411244468498547",
    "category": "motion",
    "title": {
@@ -16853,6 +17223,33 @@
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2102804516076666880/img/QqW18jReDPTtYsNT.jpg",
    "tools_reported": [],
    "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2103126446403379220",
+   "category": "art3d",
+   "title": {
+    "zh": "一个疯狂创意请求的成果",
+    "en": "Result of a wild creative request"
+   },
+   "creator": {
+    "handle": "Sonecarox",
+    "name": "Fernando Bertini"
+   },
+   "original_post_url": "https://x.com/Sonecarox/status/2103126446403379220",
+   "posted_at": "2026-09-24T14:16:33.000Z",
+   "language": "pt",
+   "duration_seconds": 201,
+   "views": 30825,
+   "likes": 473,
+   "bookmarks": 147,
+   "views_checked_at": "2026-09-27T10:13:12.507Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2103125420933619712/img/wBtv6BvOD6qoS6Hj.jpg",
+   "tools_reported": [
+    "Gemini"
+   ],
+   "reference_assets": false,
    "prompt": null,
    "resources": []
   },
@@ -18057,6 +18454,31 @@
     "MiMo V2.6 Pro",
     "GPT-6 Astra"
    ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2103283912223142287",
+   "category": "game",
+   "title": {
+    "zh": "魂系游戏演示",
+    "en": "Soulslike game demo"
+   },
+   "creator": {
+    "handle": "yoneapp",
+    "name": "よねあぷ｜個人開発"
+   },
+   "original_post_url": "https://x.com/yoneapp/status/2103283912223142287",
+   "posted_at": "2026-09-25T00:42:16.000Z",
+   "language": "ja",
+   "duration_seconds": 68,
+   "views": 25928,
+   "likes": 204,
+   "bookmarks": 49,
+   "views_checked_at": "2026-09-27T10:13:12.507Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2103283669821734912/img/ixFpwht0oxqiGNcm.jpg",
+   "tools_reported": [],
    "reference_assets": false,
    "prompt": null,
    "resources": []

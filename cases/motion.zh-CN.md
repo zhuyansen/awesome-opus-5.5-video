@@ -1,6 +1,6 @@
 # 动效设计
 
-共 182 个作品，其中 71 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 184 个作品，其中 71 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|
@@ -12,6 +12,7 @@
 | [多AI工具舞蹈动效](https://x.com/sankakuten91256/status/2103483923783373039) | [@sankakuten91256](https://x.com/sankakuten91256) | 0:15 | — |
 | [15分钟内生成的动画作品](https://x.com/achxvi/status/2103918792845963545) | [@achxvi](https://x.com/achxvi) | 0:15 | — |
 | [帧复刻质量测试](https://x.com/AQS_kr/status/2103751625932255482) | [@AQS_kr](https://x.com/AQS_kr) | 0:23 | — |
+| [反驳AI末日论的动画](https://x.com/_brightmirror/status/2104078568137675107) | [@_brightmirror](https://x.com/_brightmirror) | 5:00 | — |
 | [Remotion 渲染的 15 秒动效自荐片](https://x.com/ajith_io/status/2103449416325890146) | [@ajith_io](https://x.com/ajith_io) | 0:15 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103449416325890146) |
 | [xhigh 档位生成的动效自荐片](https://x.com/kenn/status/2103337314021937232) | [@kenn](https://x.com/kenn) | 0:15 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103337314021937232) |
 | [高能动效设计展示片](https://x.com/crvdesign0/status/2103817034618339682) | [@crvdesign0](https://x.com/crvdesign0) | 0:15 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103817034618339682) |
@@ -56,6 +57,7 @@
 | [用于宣传和课程的动画示例](https://x.com/mahiru35628/status/2102802579499700704) | [@mahiru35628](https://x.com/mahiru35628) | 0:45 | — |
 | [可套用的产品动效片提示词模板](https://x.com/ann_nnng/status/2103723183899852885) | [@ann_nnng](https://x.com/ann_nnng) | 0:15 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103723183899852885) |
 | [AI舞蹈素材合成的作品集视频](https://x.com/AbaneChan/status/2103903213363806575) | [@AbaneChan](https://x.com/AbaneChan) | 0:15 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103903213363806575) |
+| [动效短片](https://x.com/pratyushrungta/status/2104525735713206557) | [@pratyushrungta](https://x.com/pratyushrungta) | 3:30 | — |
 | [15 秒动效设计师自荐片 · @leonabboud 版](https://x.com/leonabboud/status/2103576084499358051) | [@leonabboud](https://x.com/leonabboud) | 0:15 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103576084499358051) |
 | [一句话生成的视频](https://x.com/bitfish/status/2103647787795824856) | [@bitfish](https://x.com/bitfish) | 2:55 | — |
 | [书签UI微动效动画](https://x.com/kippe07/status/2103036199774585026) | [@kippe07](https://x.com/kippe07) | 0:15 | — |

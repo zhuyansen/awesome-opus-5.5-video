@@ -2,7 +2,7 @@
 
 English | [简体中文](README.zh-CN.md)
 
-Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5 and shared on X, each with 5,000+ views on the original post. **1031 works**, **272 with a prompt** (101 full prompts).
+Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5 and shared on X, each with 5,000+ views on the original post. **1047 works**, **272 with a prompt** (101 full prompts).
 
 **[Browse online — play the videos and copy the prompts →](https://jasonzhu.ai/en/prompts/claude-opus-5-5)**
 
@@ -32,7 +32,7 @@ Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5 and share
 
 ## Motion graphics & UI
 
-182 works · [full list](cases/motion.md)
+184 works · [full list](cases/motion.md)
 
 | Work | Creator | Length | Prompt |
 |---|---|---|---|
@@ -47,7 +47,7 @@ Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5 and share
 
 ## Product demos & ads
 
-138 works · [full list](cases/product.md)
+139 works · [full list](cases/product.md)
 
 | Work | Creator | Length | Prompt |
 |---|---|---|---|
@@ -62,7 +62,7 @@ Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5 and share
 
 ## Explainers & education
 
-101 works · [full list](cases/education.md)
+103 works · [full list](cases/education.md)
 
 | Work | Creator | Length | Prompt |
 |---|---|---|---|
@@ -77,7 +77,7 @@ Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5 and share
 
 ## Characters & stories
 
-106 works · [full list](cases/stories.md)
+108 works · [full list](cases/stories.md)
 
 | Work | Creator | Length | Prompt |
 |---|---|---|---|
@@ -92,7 +92,7 @@ Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5 and share
 
 ## 3D worlds & simulations
 
-140 works · [full list](cases/art3d.md)
+144 works · [full list](cases/art3d.md)
 
 | Work | Creator | Length | Prompt |
 |---|---|---|---|
@@ -107,7 +107,7 @@ Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5 and share
 
 ## Games
 
-170 works · [full list](cases/game.md)
+172 works · [full list](cases/game.md)
 
 | Work | Creator | Length | Prompt |
 |---|---|---|---|
@@ -122,7 +122,7 @@ Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5 and share
 
 ## Music, editing & production
 
-81 works · [full list](cases/production.md)
+82 works · [full list](cases/production.md)
 
 | Work | Creator | Length | Prompt |
 |---|---|---|---|
@@ -137,7 +137,7 @@ Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5 and share
 
 ## Model comparisons
 
-113 works · [full list](cases/comparison.md)
+115 works · [full list](cases/comparison.md)
 
 | Work | Creator | Length | Prompt |
 |---|---|---|---|

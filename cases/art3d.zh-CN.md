@@ -1,6 +1,6 @@
 # 3D 场景
 
-共 140 个作品，其中 34 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 144 个作品，其中 34 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|
@@ -34,11 +34,13 @@
 | [3D模型设计打印及机械臂取件](https://x.com/dimentary/status/2104094838035820607) | [@dimentary](https://x.com/dimentary) | 0:23 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104094838035820607) |
 | [旅行照片转丙烯画风动画](https://x.com/ann_nnng/status/2102573127192727704) | [@ann_nnng](https://x.com/ann_nnng) | 0:22 | — |
 | [插件集成生成的Blender场景](https://x.com/emmanuel_2m/status/2102539293122035875) | [@emmanuel_2m](https://x.com/emmanuel_2m) | 0:09 | — |
+| [十分钟做出的WeeSpy网页应用](https://x.com/Gregoirechp/status/2103977724796649763) | [@Gregoirechp](https://x.com/Gregoirechp) | 0:20 | — |
 | [严岛神社3D场景](https://x.com/Ayu_AI_0912/status/2103737014508216515) | [@Ayu_AI_0912](https://x.com/Ayu_AI_0912) | 0:24 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103737014508216515) |
 | [逼真风格的《我的世界》与《星球大战》渲染](https://x.com/ChrisGPT/status/2102644063950475477) | [@ChrisGPT](https://x.com/ChrisGPT) | 1:49 | — |
 | [指环王世界生成渲染实验](https://x.com/Layton_Gott/status/2103632815677944206) | [@Layton_Gott](https://x.com/Layton_Gott) | 2:22 | — |
 | [户型图转CAD再到3D渲染的工作流](https://x.com/hashimoto_no14/status/2104199889207038132) | [@hashimoto_no14](https://x.com/hashimoto_no14) | 0:30 | — |
 | [自我迭代出的第二版效果](https://x.com/dashiAIxz/status/2103344448696648058) | [@dashiAIxz](https://x.com/dashiAIxz) | 0:30 | — |
+| [摩托车公园竞速游戏](https://x.com/chrisjdimarco/status/2104598205417591120) | [@chrisjdimarco](https://x.com/chrisjdimarco) | 1:40 | — |
 | [音乐可视化应用与3D机器人头模型](https://x.com/kaolti/status/2103887665305391343) | [@kaolti](https://x.com/kaolti) | 0:28 | — |
 | [AI自画像与原创钢琴配乐](https://x.com/kevin_t_ngo/status/2102878288008057171) | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 0:20 | — |
 | [全息3D交易卡设计](https://x.com/MengTo/status/2104565735288938804) | [@MengTo](https://x.com/MengTo) | 0:30 | — |
@@ -86,9 +88,11 @@
 | [90年代风格C/OpenGL演示动画](https://x.com/gandamu_ml/status/2102919394775220530) | [@gandamu_ml](https://x.com/gandamu_ml) | 6:23 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102919394775220530) |
 | [像素艺术动画展示](https://x.com/SpikeRiser/status/2102888874858959029) | [@SpikeRiser](https://x.com/SpikeRiser) | 4:07 | — |
 | [根据平面图生成的3D模型](https://x.com/uncle_render/status/2103080046537904576) | [@uncle_render](https://x.com/uncle_render) | 0:52 | — |
+| [Crossroads地图的写实场景重构](https://x.com/Stravant/status/2103421703577874740) | [@Stravant](https://x.com/Stravant) | 0:51 | — |
 | [照片建模建筑倒塌模拟](https://x.com/higgsfield_ai/status/2102863017109291059) | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:30 | — |
 | [全程序化生成Three.js世界](https://x.com/AndreiProvkin/status/2103919236653428985) | [@AndreiProvkin](https://x.com/AndreiProvkin) | 1:08 | — |
 | [快速3D角色建模绑定动画流程](https://x.com/luccacerf/status/2102478608274989225) | [@luccacerf](https://x.com/luccacerf) | 0:06 | — |
+| [一个疯狂创意请求的成果](https://x.com/Sonecarox/status/2103126446403379220) | [@Sonecarox](https://x.com/Sonecarox) | 3:21 | — |
 | [用Blender制作的龙宫城](https://x.com/Ayu_AI_0912/status/2103669801554264378) | [@Ayu_AI_0912](https://x.com/Ayu_AI_0912) | 0:24 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103669801554264378) |
 | [可自由漫游的电影感 3D 世界](https://x.com/LexnLin/status/2103194052850241739) | [@LexnLin](https://x.com/LexnLin) | 1:24 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103194052850241739) |
 | [2.5D像素风雨中庭院场景](https://x.com/KanaWorks_AI/status/2102801635638673762) | [@KanaWorks_AI](https://x.com/KanaWorks_AI) | 0:57 | — |

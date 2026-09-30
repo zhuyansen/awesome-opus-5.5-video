@@ -1,10 +1,11 @@
 # 模型对比
 
-共 113 个作品，其中 30 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 115 个作品，其中 30 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|
 | [Opus 5.5 对比 GPT-6 Astra 武士游戏演示](https://x.com/higgsfield_ai/status/2102471046356177001) | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:28 | — |
+| [GPT-6 Astra对比Claude Opus5.5](https://x.com/Rixhabh__/status/2104225147184132310) | [@Rixhabh__](https://x.com/Rixhabh__) | 0:30 | — |
 | [Grok与Opus摸草模拟器成本对比](https://x.com/coldopn/status/2102474335172640989) | [@coldopn](https://x.com/coldopn) | 0:22 | — |
 | [Opus5.5对比GPT-6 Sol虚幻引擎游戏开发](https://x.com/higgsfield_ai/status/2102533401110802552) | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:44 | — |
 | [Opus 5.5 与 GPT-6 Astra Blender 3D 对比测试](https://x.com/Stefan_3D_AI/status/2102471841046786153) | [@Stefan_3D_AI](https://x.com/Stefan_3D_AI) | 0:46 | — |
@@ -77,6 +78,7 @@
 | [东京塔3D模型对比](https://x.com/seki_anos/status/2102675477257494615) | [@seki_anos](https://x.com/seki_anos) | 0:15 | — |
 | [Blender关节台灯动画](https://x.com/zavrenn/status/2103181133198639614) | [@zavrenn](https://x.com/zavrenn) | 0:06 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103181133198639614) |
 | [付费墙吉祥物设计对比](https://x.com/Studiyoco/status/2102825233078157454) | [@Studiyoco](https://x.com/Studiyoco) | 0:06 | — |
+| [黑洞合并模拟对比](https://x.com/bridgebench/status/2103091707021848921) | [@bridgebench](https://x.com/bridgebench) | 0:10 | — |
 | [数学解题视频模型对比](https://x.com/akokoi1/status/2103708700800409972) | [@akokoi1](https://x.com/akokoi1) | 3:10 | — |
 | [虚构行星互动网站模型对比](https://x.com/Kappaemme1926/status/2102729710174196022) | [@Kappaemme1926](https://x.com/Kappaemme1926) | 0:47 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102729710174196022) |
 | [3D模型效果对比](https://x.com/AIPlus_AISchool/status/2102628619952804168) | [@AIPlus_AISchool](https://x.com/AIPlus_AISchool) | 0:23 | — |

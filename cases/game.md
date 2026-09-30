@@ -1,6 +1,6 @@
 # Games
 
-170 works, 30 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+172 works, 30 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Creator | Length | Prompt |
 |---|---|---|---|
@@ -81,6 +81,7 @@
 | [Minecraft-style game with scalable server built by Opus 5.5](https://x.com/lambda_funtaro/status/2103115036369760496) | [@lambda_funtaro](https://x.com/lambda_funtaro) | 0:23 | — |
 | [Unreal/Blender game project update](https://x.com/seftsaint/status/2103491735855022174) | [@seftsaint](https://x.com/seftsaint) | 1:16 | — |
 | [Roblox anime fighting game](https://x.com/m_ferreira28/status/2102561495104291156) | [@m_ferreira28](https://x.com/m_ferreira28) | 0:46 | — |
+| [3D browser racing-style game](https://x.com/ai_growth_avii/status/2104066630108188974) | [@ai_growth_avii](https://x.com/ai_growth_avii) | 2:21 | — |
 | [Playable ARPG built with Opus 5.5 and Unreal](https://x.com/KanaWorks_AI/status/2103138051165933661) | [@KanaWorks_AI](https://x.com/KanaWorks_AI) | 0:51 | — |
 | [Vibe-coded game with process notes](https://x.com/sonia_code/status/2103441886488990016) | [@sonia_code](https://x.com/sonia_code) | 0:08 | — |
 | [Origami-style game visuals in Godot](https://x.com/KanaWorks_AI/status/2103333960805908585) | [@KanaWorks_AI](https://x.com/KanaWorks_AI) | 0:33 | — |
@@ -108,6 +109,7 @@
 | [2D pixel game with an AI-generated demo video](https://x.com/rehan_shei/status/2103755997533839416) | [@rehan_shei](https://x.com/rehan_shei) | 0:30 | — |
 | [3D kart racing game with real-world tracks](https://x.com/KenLin1985/status/2103866807954399530) | [@KenLin1985](https://x.com/KenLin1985) | 2:57 | — |
 | [Game built and deployed on a web platform](https://x.com/DEvansData/status/2103552268133949451) | [@DEvansData](https://x.com/DEvansData) | 0:41 | — |
+| [Soulslike game demo](https://x.com/yoneapp/status/2103283912223142287) | [@yoneapp](https://x.com/yoneapp) | 1:08 | — |
 | [Multiplayer capital ship game](https://x.com/McGrumby/status/2103590506106380330) | [@McGrumby](https://x.com/McGrumby) | 0:28 | — |
 | [Minecraft-style clone built from scratch](https://x.com/ai_for_success/status/2103699277826740425) | [@ai_for_success](https://x.com/ai_for_success) | 1:32 | — |
 | [Vibe-coded UI for an upcoming game](https://x.com/MyCodeCoach/status/2102755825911845128) | [@MyCodeCoach](https://x.com/MyCodeCoach) | 0:24 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102755825911845128) |

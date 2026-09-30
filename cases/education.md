@@ -1,6 +1,6 @@
 # Explainers & education
 
-101 works, 35 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+103 works, 35 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Creator | Length | Prompt |
 |---|---|---|---|
@@ -34,7 +34,9 @@
 | [5,000 years of Indian history in three minutes](https://x.com/HindolSengupta/status/2103489466841362886) | [@HindolSengupta](https://x.com/HindolSengupta) | 3:43 | — |
 | [Anime-style explainer remix video](https://x.com/emollick/status/2103272686570918334) | [@emollick](https://x.com/emollick) | 2:07 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103272686570918334) |
 | [How Bombs Kill explainer video essay](https://x.com/tobiaschneider/status/2104538351504068848) | [@tobiaschneider](https://x.com/tobiaschneider) | 18:32 | — |
+| [Why save points shouldn't be bonfires](https://x.com/yoneapp/status/2103356152247615873) | [@yoneapp](https://x.com/yoneapp) | 0:30 | — |
 | [SQLite Codebase Explainer](https://x.com/deedydas/status/2104391577091407965) | [@deedydas](https://x.com/deedydas) | 7:30 | — |
+| [Ukraine front line situation visualization](https://x.com/tokumei_banzai_/status/2104062022560456795) | [@tokumei_banzai_](https://x.com/tokumei_banzai_) | 1:27 | — |
 | [History of Bitcoin documentary video](https://x.com/intangiblecoins/status/2103895476319969685) | [@intangiblecoins](https://x.com/intangiblecoins) | 3:35 | — |
 | [Indian civilization history video](https://x.com/rashem48/status/2103850664007028964) | [@rashem48](https://x.com/rashem48) | 1:16 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103850664007028964) |
 | [3D narrated IKEA assembly instructional video](https://x.com/deedydas/status/2103174501345493197) | [@deedydas](https://x.com/deedydas) | 1:42 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103174501345493197) |
