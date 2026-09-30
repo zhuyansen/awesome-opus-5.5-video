@@ -1,6 +1,6 @@
 # 产品广告
 
-共 132 个作品，其中 24 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 138 个作品，其中 26 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|
@@ -11,12 +11,16 @@
 | [管理编程 Agent 的虚拟办公室](https://x.com/webdevcody/status/2103653857377292720) | [@webdevcody](https://x.com/webdevcody) | 0:41 | — |
 | [可交互动态演示幻灯片](https://x.com/uchita_success/status/2103786580838420912) | [@uchita_success](https://x.com/uchita_success) | 0:31 | — |
 | [歌词动态视频生成器JIZURA](https://x.com/8co28/status/2102572322016370781) | [@8co28](https://x.com/8co28) | 1:46 | — |
+| [Bend 2编程语言介绍视频](https://x.com/VictorTaelin/status/2104568082169749982) | [@VictorTaelin](https://x.com/VictorTaelin) | 1:30 | — |
 | [AI推理初创公司产品发布视频](https://x.com/deedydas/status/2102787937482252537) | [@deedydas](https://x.com/deedydas) | 0:26 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102787937482252537) |
 | [强制启动任务App ToDopa演示](https://x.com/eta1ia/status/2103779108438077923) | [@eta1ia](https://x.com/eta1ia) | 0:59 | — |
 | [AI制作的无露脸YouTube视频服务演示](https://x.com/drecamz/status/2103184506329170373) | [@drecamz](https://x.com/drecamz) | 0:54 | — |
+| [用逻辑门搭建的可运行电脑及操作系统](https://x.com/mattshumer_/status/2104301990985498783) | [@mattshumer_](https://x.com/mattshumer_) | 1:02 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104301990985498783) |
+| [交互式房间布局与室内设计工具](https://x.com/RyanSael/status/2104155582555165055) | [@RyanSael](https://x.com/RyanSael) | 0:36 | — |
 | [3D健身器材搭建应用](https://x.com/wesbos/status/2102450119975277027) | [@wesbos](https://x.com/wesbos) | 0:18 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102450119975277027) |
 | [个人网站改版预告片](https://x.com/trq212/status/2102477340920152162) | [@trq212](https://x.com/trq212) | 1:35 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102477340920152162) |
 | [Rankhog产品发布视频](https://x.com/anthonyriera/status/2103784508860305566) | [@anthonyriera](https://x.com/anthonyriera) | 0:53 | — |
+| [角色创建器滑块演示](https://x.com/magnific/status/2104587476014964879) | [@magnific](https://x.com/magnific) | 0:20 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104587476014964879) |
 | [语言学习应用Letters Abroad演示](https://x.com/anshuc/status/2102519201554690273) | [@anshuc](https://x.com/anshuc) | 0:26 | — |
 | [应用产品发布视频](https://x.com/Miguel07Code/status/2102441708395041170) | [@Miguel07Code](https://x.com/Miguel07Code) | 0:58 | — |
 | [根据营销邮件制作的动感广告视频](https://x.com/gastypm/status/2102863204472799549) | [@gastypm](https://x.com/gastypm) | 0:20 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102863204472799549) |
@@ -24,6 +28,7 @@
 | [一句提示词生成的仪表盘](https://x.com/sparkpxldesign/status/2102808261389058079) | [@sparkpxldesign](https://x.com/sparkpxldesign) | 0:34 | — |
 | [为 CodePilot 制作的产品宣传片](https://x.com/op7418/status/2103148288400924827) | [@op7418](https://x.com/op7418) | 0:50 | — |
 | [iPhone Duo应用改版演示视频](https://x.com/anshuc/status/2103598854801084824) | [@anshuc](https://x.com/anshuc) | 1:00 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103598854801084824) |
+| [开源交易日志应用编辑](https://x.com/LuxAlgo/status/2104668775798739107) | [@LuxAlgo](https://x.com/LuxAlgo) | 0:30 | — |
 | [30秒产品宣传片](https://x.com/shownotover/status/2104124596957933687) | [@shownotover](https://x.com/shownotover) | 0:30 | — |
 | [读取自家仓库后重建的工具](https://x.com/YoheiN2023/status/2103381925671104732) | [@YoheiN2023](https://x.com/YoheiN2023) | 0:15 | — |
 | [iPhone Duo双屏钢琴应用概念演示](https://x.com/rameshsrivats/status/2103094473882509700) | [@rameshsrivats](https://x.com/rameshsrivats) | 0:26 | — |
@@ -32,6 +37,7 @@
 | [用Claude编码制作的30秒扁平风宣传视频](https://x.com/mmmiyama_D/status/2103319199817064764) | [@mmmiyama_D](https://x.com/mmmiyama_D) | 0:30 | — |
 | [扁平风格自我介绍宣传视频](https://x.com/mmmiyama_D/status/2103384986661671058) | [@mmmiyama_D](https://x.com/mmmiyama_D) | 0:15 | — |
 | [苹果发布会风格产品视频](https://x.com/twoclipping/status/2103835273813496100) | [@twoclipping](https://x.com/twoclipping) | 0:29 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103835273813496100) |
+| [用Rust和Swift重构的原生迷你浏览器](https://x.com/rauchg/status/2104428800134013205) | [@rauchg](https://x.com/rauchg) | 1:02 | — |
 | [记账应用宣传视频](https://x.com/gonahmias/status/2102893439159251247) | [@gonahmias](https://x.com/gonahmias) | 0:38 | — |
 | [实时网站重设计工具演示](https://x.com/0xMovez/status/2103177715125752176) | [@0xMovez](https://x.com/0xMovez) | 0:33 | — |
 | [DocJev产品预告片](https://x.com/jerryjliu0/status/2102479924032577686) | [@jerryjliu0](https://x.com/jerryjliu0) | 0:31 | — |

@@ -1,6 +1,6 @@
 # Explainers & education
 
-96 works, 35 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+101 works, 35 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Creator | Length | Prompt |
 |---|---|---|---|
@@ -16,6 +16,7 @@
 | [Dopamine-driven math drill app](https://x.com/grmchn4ai/status/2103807453406388538) | [@grmchn4ai](https://x.com/grmchn4ai) | 0:53 | — |
 | [How browsers work animation](https://x.com/addyosmani/status/2103009037164110327) | [@addyosmani](https://x.com/addyosmani) | 0:40 | — |
 | [History of AI documentary short film](https://x.com/kimmonismus/status/2102844654169575547) | [@kimmonismus](https://x.com/kimmonismus) | 3:00 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102844654169575547) |
+| [Electromagnetic field visualization](https://x.com/thebuggeddev/status/2104402407358919124) | [@thebuggeddev](https://x.com/thebuggeddev) | 1:11 | — |
 | ['What is a Transformer' explainer video](https://x.com/dotey/status/2103683057689522564) | [@dotey](https://x.com/dotey) | 12:12 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103683057689522564) |
 | [3D tutorial for automated garden beds](https://x.com/Skylartkitchen/status/2103522230957420843) | [@Skylartkitchen](https://x.com/Skylartkitchen) | 0:41 | — |
 | [Recreated Civil War rebel yell audio](https://x.com/JaneCazneau/status/2103594794651992264) | [@JaneCazneau](https://x.com/JaneCazneau) | 0:41 | — |
@@ -24,12 +25,16 @@
 | [Visualization of solving a hard problem](https://x.com/chetaslua/status/2102478640428773861) | [@chetaslua](https://x.com/chetaslua) | 0:30 | — |
 | [History of 3D computer graphics in 15 seconds](https://x.com/jmitani/status/2103997975173439834) | [@jmitani](https://x.com/jmitani) | 0:15 | — |
 | [Explainer video on the Honno-ji Incident](https://x.com/AIPlus_AISchool/status/2102701984344330458) | [@AIPlus_AISchool](https://x.com/AIPlus_AISchool) | 1:00 | — |
+| [Investment leverage explainer video](https://x.com/bitfish/status/2104213208353628597) | [@bitfish](https://x.com/bitfish) | 3:10 | — |
 | [Atmospheric circulation geography explainer](https://x.com/akokoi1/status/2102606609574941028) | [@akokoi1](https://x.com/akokoi1) | 4:48 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102606609574941028) |
 | [History of chips explainer video](https://x.com/vctbtc/status/2104081525847605709) | [@vctbtc](https://x.com/vctbtc) | 14:20 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104081525847605709) |
+| [AI-generated history of computer chips](https://x.com/AndyL5cc/status/2104437066755125601) | [@AndyL5cc](https://x.com/AndyL5cc) | 3:29 | — |
 | [Stochastic differential equations explainer](https://x.com/tommy_love123/status/2103263710517350418) | [@tommy_love123](https://x.com/tommy_love123) | 8:01 | — |
 | [Interactive gravitational lensing black hole lab](https://x.com/Voxyz_ai/status/2103117246860345550) | [@Voxyz_ai](https://x.com/Voxyz_ai) | 0:22 | — |
 | [5,000 years of Indian history in three minutes](https://x.com/HindolSengupta/status/2103489466841362886) | [@HindolSengupta](https://x.com/HindolSengupta) | 3:43 | — |
 | [Anime-style explainer remix video](https://x.com/emollick/status/2103272686570918334) | [@emollick](https://x.com/emollick) | 2:07 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103272686570918334) |
+| [How Bombs Kill explainer video essay](https://x.com/tobiaschneider/status/2104538351504068848) | [@tobiaschneider](https://x.com/tobiaschneider) | 18:32 | — |
+| [SQLite Codebase Explainer](https://x.com/deedydas/status/2104391577091407965) | [@deedydas](https://x.com/deedydas) | 7:30 | — |
 | [History of Bitcoin documentary video](https://x.com/intangiblecoins/status/2103895476319969685) | [@intangiblecoins](https://x.com/intangiblecoins) | 3:35 | — |
 | [Indian civilization history video](https://x.com/rashem48/status/2103850664007028964) | [@rashem48](https://x.com/rashem48) | 1:16 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103850664007028964) |
 | [3D narrated IKEA assembly instructional video](https://x.com/deedydas/status/2103174501345493197) | [@deedydas](https://x.com/deedydas) | 1:42 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103174501345493197) |

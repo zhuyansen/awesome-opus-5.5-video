@@ -1,6 +1,6 @@
 # 科普讲解
 
-共 96 个作品，其中 35 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 101 个作品，其中 35 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|
@@ -16,6 +16,7 @@
 | [多巴胺激励式数学练习App](https://x.com/grmchn4ai/status/2103807453406388538) | [@grmchn4ai](https://x.com/grmchn4ai) | 0:53 | — |
 | [浏览器工作原理动画](https://x.com/addyosmani/status/2103009037164110327) | [@addyosmani](https://x.com/addyosmani) | 0:40 | — |
 | [AI发展史纪录短片](https://x.com/kimmonismus/status/2102844654169575547) | [@kimmonismus](https://x.com/kimmonismus) | 3:00 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102844654169575547) |
+| [电磁场可视化演示](https://x.com/thebuggeddev/status/2104402407358919124) | [@thebuggeddev](https://x.com/thebuggeddev) | 1:11 | — |
 | [《什么是 Transformer》讲解视频](https://x.com/dotey/status/2103683057689522564) | [@dotey](https://x.com/dotey) | 12:12 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103683057689522564) |
 | [自动化花园床3D教学动画](https://x.com/Skylartkitchen/status/2103522230957420843) | [@Skylartkitchen](https://x.com/Skylartkitchen) | 0:41 | — |
 | [重现南北战争叛军呐喊声](https://x.com/JaneCazneau/status/2103594794651992264) | [@JaneCazneau](https://x.com/JaneCazneau) | 0:41 | — |
@@ -24,12 +25,16 @@
 | [难题求解过程可视化](https://x.com/chetaslua/status/2102478640428773861) | [@chetaslua](https://x.com/chetaslua) | 0:30 | — |
 | [15秒讲述3D计算机图形史](https://x.com/jmitani/status/2103997975173439834) | [@jmitani](https://x.com/jmitani) | 0:15 | — |
 | [本能寺之变讲解视频](https://x.com/AIPlus_AISchool/status/2102701984344330458) | [@AIPlus_AISchool](https://x.com/AIPlus_AISchool) | 1:00 | — |
+| [投资杠杆原理讲解视频](https://x.com/bitfish/status/2104213208353628597) | [@bitfish](https://x.com/bitfish) | 3:10 | — |
 | [大气环流地理知识讲解视频](https://x.com/akokoi1/status/2102606609574941028) | [@akokoi1](https://x.com/akokoi1) | 4:48 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102606609574941028) |
 | [芯片简史讲解视频](https://x.com/vctbtc/status/2104081525847605709) | [@vctbtc](https://x.com/vctbtc) | 14:20 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104081525847605709) |
+| [芯片发展简史科普动画](https://x.com/AndyL5cc/status/2104437066755125601) | [@AndyL5cc](https://x.com/AndyL5cc) | 3:29 | — |
 | [随机微分方程讲解视频](https://x.com/tommy_love123/status/2103263710517350418) | [@tommy_love123](https://x.com/tommy_love123) | 8:01 | — |
 | [交互式引力透镜黑洞实验室](https://x.com/Voxyz_ai/status/2103117246860345550) | [@Voxyz_ai](https://x.com/Voxyz_ai) | 0:22 | — |
 | [三分钟讲述五千年印度历史](https://x.com/HindolSengupta/status/2103489466841362886) | [@HindolSengupta](https://x.com/HindolSengupta) | 3:43 | — |
 | [动漫风格科普讲解视频](https://x.com/emollick/status/2103272686570918334) | [@emollick](https://x.com/emollick) | 2:07 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103272686570918334) |
+| [《炸弹如何致命》科普视频](https://x.com/tobiaschneider/status/2104538351504068848) | [@tobiaschneider](https://x.com/tobiaschneider) | 18:32 | — |
+| [SQLite代码库解析视频](https://x.com/deedydas/status/2104391577091407965) | [@deedydas](https://x.com/deedydas) | 7:30 | — |
 | [比特币历史纪录片视频](https://x.com/intangiblecoins/status/2103895476319969685) | [@intangiblecoins](https://x.com/intangiblecoins) | 3:35 | — |
 | [印度文明历史视频](https://x.com/rashem48/status/2103850664007028964) | [@rashem48](https://x.com/rashem48) | 1:16 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103850664007028964) |
 | [3D旁白版宜家组装说明视频](https://x.com/deedydas/status/2103174501345493197) | [@deedydas](https://x.com/deedydas) | 1:42 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103174501345493197) |

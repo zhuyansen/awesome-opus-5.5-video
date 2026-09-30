@@ -1,12 +1,13 @@
 # 动效设计
 
-共 177 个作品，其中 70 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 182 个作品，其中 71 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|
 | [15 秒动效设计师自荐片（爆款提示词原版）](https://x.com/stephanlivera/status/2103315922098470926) | [@stephanlivera](https://x.com/stephanlivera) | 0:15 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103315922098470926) |
 | [AI制作的视频演示](https://x.com/devteamdrew/status/2102436464323661880) | [@devteamdrew](https://x.com/devteamdrew) | 0:32 | — |
 | [爆款一句话提示词的动效自荐片（Skia + Blender）](https://x.com/shneural/status/2103151003272962130) | [@shneural](https://x.com/shneural) | 0:32 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103151003272962130) |
+| [动态设计发布视频](https://x.com/uxmiles/status/2104618175803609305) | [@uxmiles](https://x.com/uxmiles) | 0:15 | — |
 | [纯代码UI动效设计短片](https://x.com/twoclipping/status/2103273003555402193) | [@twoclipping](https://x.com/twoclipping) | 0:14 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103273003555402193) |
 | [多AI工具舞蹈动效](https://x.com/sankakuten91256/status/2103483923783373039) | [@sankakuten91256](https://x.com/sankakuten91256) | 0:15 | — |
 | [15分钟内生成的动画作品](https://x.com/achxvi/status/2103918792845963545) | [@achxvi](https://x.com/achxvi) | 0:15 | — |
@@ -15,6 +16,7 @@
 | [xhigh 档位生成的动效自荐片](https://x.com/kenn/status/2103337314021937232) | [@kenn](https://x.com/kenn) | 0:15 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103337314021937232) |
 | [高能动效设计展示片](https://x.com/crvdesign0/status/2103817034618339682) | [@crvdesign0](https://x.com/crvdesign0) | 0:15 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103817034618339682) |
 | [像素风巫师施法动画](https://x.com/majidmanzarpour/status/2102476258948927543) | [@majidmanzarpour](https://x.com/majidmanzarpour) | 0:11 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102476258948927543) |
+| [动态设计发布视频](https://x.com/gauravsbuilding/status/2104370091672711402) | [@gauravsbuilding](https://x.com/gauravsbuilding) | 0:15 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104370091672711402) |
 | [多智能体生成的旁白视频](https://x.com/AndrewOnXYZ/status/2102512879258009818) | [@AndrewOnXYZ](https://x.com/AndrewOnXYZ) | 3:59 | — |
 | [土耳其语提示词生成的动效自荐片](https://x.com/leodavincs3/status/2103425994610643203) | [@leodavincs3](https://x.com/leodavincs3) | 0:15 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103425994610643203) |
 | [英伟达Blackwell GPU穿梭动画](https://x.com/lucian__03/status/2103494418477260830) | [@lucian__03](https://x.com/lucian__03) | 0:49 | — |
@@ -22,7 +24,10 @@
 | [像素角色在太空彩虹跑道上躲避陨石](https://x.com/riku720720/status/2102515055116063144) | [@riku720720](https://x.com/riku720720) | 0:19 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102515055116063144) |
 | [Rick Astley 经典舞步的 HTML 色块动画](https://x.com/petergostev/status/2103033635397898433) | [@petergostev](https://x.com/petergostev) | 0:58 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103033635397898433) |
 | [节拍同步动效与技术解析](https://x.com/aiehon_aya/status/2103403361022419005) | [@aiehon_aya](https://x.com/aiehon_aya) | 0:15 | — |
+| [配音与动效](https://x.com/tu_u_k/status/2104629219607114206) | [@tu_u_k](https://x.com/tu_u_k) | 0:34 | — |
+| [UX决策讲解动画](https://x.com/moguzbulbul/status/2104206095313215591) | [@moguzbulbul](https://x.com/moguzbulbul) | 0:42 | — |
 | [TypingMind 产品介绍动效片](https://x.com/tdinh_me/status/2103703135902740699) | [@tdinh_me](https://x.com/tdinh_me) | 0:15 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103703135902740699) |
+| [果冻抖动透明效果网站](https://x.com/MatoToushi/status/2104778232683999363) | [@MatoToushi](https://x.com/MatoToushi) | 0:41 | — |
 | [尝试复刻舞团视频的动画](https://x.com/2irl4u/status/2102707564215755116) | [@2irl4u](https://x.com/2irl4u) | 0:15 | — |
 | [程序化绘制的奔马动画](https://x.com/victormustar/status/2102707412704919910) | [@victormustar](https://x.com/victormustar) | 0:10 | — |
 | [Apple Liquid Glass 风格 UI 动效展示](https://x.com/motion_conquest/status/2103510103622308152) | [@motion_conquest](https://x.com/motion_conquest) | 0:16 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103510103622308152) |

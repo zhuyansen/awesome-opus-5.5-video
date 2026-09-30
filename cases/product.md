@@ -1,6 +1,6 @@
 # Product demos & ads
 
-132 works, 24 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+138 works, 26 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Creator | Length | Prompt |
 |---|---|---|---|
@@ -11,12 +11,16 @@
 | [Virtual office for managing coding agents](https://x.com/webdevcody/status/2103653857377292720) | [@webdevcody](https://x.com/webdevcody) | 0:41 | — |
 | [Interactive recalculating slide deck](https://x.com/uchita_success/status/2103786580838420912) | [@uchita_success](https://x.com/uchita_success) | 0:31 | — |
 | [Lyric video generator app JIZURA](https://x.com/8co28/status/2102572322016370781) | [@8co28](https://x.com/8co28) | 1:46 | — |
+| [Intro video for Bend 2 programming language](https://x.com/VictorTaelin/status/2104568082169749982) | [@VictorTaelin](https://x.com/VictorTaelin) | 1:30 | — |
 | [AI inference startup launch video](https://x.com/deedydas/status/2102787937482252537) | [@deedydas](https://x.com/deedydas) | 0:26 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102787937482252537) |
 | [ToDopa task-starting app demo](https://x.com/eta1ia/status/2103779108438077923) | [@eta1ia](https://x.com/eta1ia) | 0:59 | — |
 | [AI-produced faceless YouTube video service demo](https://x.com/drecamz/status/2103184506329170373) | [@drecamz](https://x.com/drecamz) | 0:54 | — |
+| [Working computer built from logic gates with OS](https://x.com/mattshumer_/status/2104301990985498783) | [@mattshumer_](https://x.com/mattshumer_) | 1:02 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104301990985498783) |
+| [Interactive room layout and interior design tool](https://x.com/RyanSael/status/2104155582555165055) | [@RyanSael](https://x.com/RyanSael) | 0:36 | — |
 | [3D gym equipment builder app](https://x.com/wesbos/status/2102450119975277027) | [@wesbos](https://x.com/wesbos) | 0:18 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102450119975277027) |
 | [Personal website redesign trailer](https://x.com/trq212/status/2102477340920152162) | [@trq212](https://x.com/trq212) | 1:35 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102477340920152162) |
 | [Product launch video for Rankhog](https://x.com/anthonyriera/status/2103784508860305566) | [@anthonyriera](https://x.com/anthonyriera) | 0:53 | — |
+| [Character builder with sliders demo](https://x.com/magnific/status/2104587476014964879) | [@magnific](https://x.com/magnific) | 0:20 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104587476014964879) |
 | [Letters Abroad language-learning app demo](https://x.com/anshuc/status/2102519201554690273) | [@anshuc](https://x.com/anshuc) | 0:26 | — |
 | [Product launch video for an app](https://x.com/Miguel07Code/status/2102441708395041170) | [@Miguel07Code](https://x.com/Miguel07Code) | 0:58 | — |
 | [Punchy ad video from a marketing email](https://x.com/gastypm/status/2102863204472799549) | [@gastypm](https://x.com/gastypm) | 0:20 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102863204472799549) |
@@ -24,6 +28,7 @@
 | [Dashboard built with one prompt](https://x.com/sparkpxldesign/status/2102808261389058079) | [@sparkpxldesign](https://x.com/sparkpxldesign) | 0:34 | — |
 | [Product promo video for CodePilot](https://x.com/op7418/status/2103148288400924827) | [@op7418](https://x.com/op7418) | 0:50 | — |
 | [iPhone Duo app redesign demo video](https://x.com/anshuc/status/2103598854801084824) | [@anshuc](https://x.com/anshuc) | 1:00 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103598854801084824) |
+| [Trade Journal open-source app edit](https://x.com/LuxAlgo/status/2104668775798739107) | [@LuxAlgo](https://x.com/LuxAlgo) | 0:30 | — |
 | [30-Second Product Promo](https://x.com/shownotover/status/2104124596957933687) | [@shownotover](https://x.com/shownotover) | 0:30 | — |
 | [Company tool rebuilt from its own repository](https://x.com/YoheiN2023/status/2103381925671104732) | [@YoheiN2023](https://x.com/YoheiN2023) | 0:15 | — |
 | [iPhone Duo piano app concept demo](https://x.com/rameshsrivats/status/2103094473882509700) | [@rameshsrivats](https://x.com/rameshsrivats) | 0:26 | — |
@@ -32,6 +37,7 @@
 | [30-second flat design promo video coded with Claude](https://x.com/mmmiyama_D/status/2103319199817064764) | [@mmmiyama_D](https://x.com/mmmiyama_D) | 0:30 | — |
 | [Self-introduction PR video in flat design](https://x.com/mmmiyama_D/status/2103384986661671058) | [@mmmiyama_D](https://x.com/mmmiyama_D) | 0:15 | — |
 | [Apple-style product launch video](https://x.com/twoclipping/status/2103835273813496100) | [@twoclipping](https://x.com/twoclipping) | 0:29 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103835273813496100) |
+| [Native mini browser rebuilt in Rust and Swift](https://x.com/rauchg/status/2104428800134013205) | [@rauchg](https://x.com/rauchg) | 1:02 | — |
 | [Promo video for an expense-tracking app](https://x.com/gonahmias/status/2102893439159251247) | [@gonahmias](https://x.com/gonahmias) | 0:38 | — |
 | [Live website redesign tool demo](https://x.com/0xMovez/status/2103177715125752176) | [@0xMovez](https://x.com/0xMovez) | 0:33 | — |
 | [DocJev product teaser video](https://x.com/jerryjliu0/status/2102479924032577686) | [@jerryjliu0](https://x.com/jerryjliu0) | 0:31 | — |

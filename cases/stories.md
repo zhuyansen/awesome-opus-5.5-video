@@ -1,11 +1,12 @@
 # Characters & stories
 
-105 works, 32 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+106 works, 32 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Creator | Length | Prompt |
 |---|---|---|---|
 | [Video predicting the next 50 years](https://x.com/andrewjiang/status/2102987981695132140) | [@andrewjiang](https://x.com/andrewjiang) | 4:00 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102987981695132140) |
 | [Music video for an AI-generated song](https://x.com/eudaemonea/status/2102610626321490404) | [@eudaemonea](https://x.com/eudaemonea) | 6:13 | — |
+| [French theory essay turned into video](https://x.com/brivael/status/2104216601864106226) | [@brivael](https://x.com/brivael) | 5:32 | — |
 | [Animated story about what you love](https://x.com/kevin_t_ngo/status/2102437977435893771) | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 0:28 | — |
 | [Battle of Austerlitz procedural film](https://x.com/WinterArc2125/status/2103116235009347650) | [@WinterArc2125](https://x.com/WinterArc2125) | 5:01 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103116235009347650) |
 | [AI self-introduction song and video](https://x.com/johnknopf/status/2103698854399099057) | [@johnknopf](https://x.com/johnknopf) | 5:25 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103698854399099057) |

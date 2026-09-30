@@ -1,12 +1,15 @@
 # Games
 
-163 works, 28 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+170 works, 30 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Creator | Length | Prompt |
 |---|---|---|---|
+| [Browser-based Fallout game built with code](https://x.com/chrisfirst/status/2104644598626934858) | [@chrisfirst](https://x.com/chrisfirst) | 2:51 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104644598626934858) |
 | [Old-school MMO RPG built by AI](https://x.com/Stefan_3D_AI/status/2103778468660162615) | [@Stefan_3D_AI](https://x.com/Stefan_3D_AI) | 1:17 | — |
 | [Browser game world (third iteration)](https://x.com/xikhar/status/2104001664793600012) | [@xikhar](https://x.com/xikhar) | 2:21 | — |
+| [Zelda-style paintbrush adventure game](https://x.com/DannyLimanseta/status/2104215873120764032) | [@DannyLimanseta](https://x.com/DannyLimanseta) | 1:44 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104215873120764032) |
 | [Airplane simulator game](https://x.com/karankendre/status/2103821040174698674) | [@karankendre](https://x.com/karankendre) | 0:32 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103821040174698674) |
+| [Reverse-engineered Terraria clone with new features](https://x.com/rehan_shei/status/2104662849624981571) | [@rehan_shei](https://x.com/rehan_shei) | 0:31 | — |
 | [Splatoon-style browser game](https://x.com/JaydenDavisNC/status/2103357848961036304) | [@JaydenDavisNC](https://x.com/JaydenDavisNC) | 2:28 | — |
 | [Trolley problem game](https://x.com/soyukke_game/status/2102641525071155565) | [@soyukke_game](https://x.com/soyukke_game) | 0:28 | — |
 | [3D shooting mini-game](https://x.com/karankendre/status/2103456630679773669) | [@karankendre](https://x.com/karankendre) | 0:22 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103456630679773669) |
@@ -18,8 +21,10 @@
 | [Splatoon-style game from one prompt](https://x.com/JaydenDavisNC/status/2102828630615421223) | [@JaydenDavisNC](https://x.com/JaydenDavisNC) | 0:59 | — |
 | [One-shot metaverse-style gaming demo](https://x.com/siamakfr/status/2103971690057437648) | [@siamakfr](https://x.com/siamakfr) | 0:10 | — |
 | [Roblox anime fighting game](https://x.com/WoahWurdz/status/2102487879809126834) | [@WoahWurdz](https://x.com/WoahWurdz) | 2:13 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102487879809126834) |
+| [Seamless multi-planet space exploration game](https://x.com/Rubzem/status/2104253584737230926) | [@Rubzem](https://x.com/Rubzem) | 4:30 | — |
 | [Antikythera-mechanism-inspired browser game](https://x.com/edwinarbus/status/2102463453176979794) | [@edwinarbus](https://x.com/edwinarbus) | 1:00 | — |
 | [One-shot Mario Kart style game](https://x.com/bridgemindai/status/2102451997395866021) | [@bridgemindai](https://x.com/bridgemindai) | 0:52 | — |
+| [Browser-based Rocket League clone](https://x.com/BlendiByl/status/2104800823620632641) | [@BlendiByl](https://x.com/BlendiByl) | 0:39 | — |
 | [Trolley problem game](https://x.com/soyukke_game/status/2102899404336493045) | [@soyukke_game](https://x.com/soyukke_game) | 0:19 | — |
 | [Panzer Dragoon recreation](https://x.com/yasei_no_otoko/status/2103868553242058933) | [@yasei_no_otoko](https://x.com/yasei_no_otoko) | 2:47 | — |
 | [Browser-based Dark Souls style game](https://x.com/BlendiByl/status/2103664212715454476) | [@BlendiByl](https://x.com/BlendiByl) | 0:41 | — |
@@ -39,10 +44,12 @@
 | [Beekeeping game made from code](https://x.com/oguzthedev/status/2102476490344730950) | [@oguzthedev](https://x.com/oguzthedev) | 0:34 | — |
 | [Browser-based basketball game demo](https://x.com/genex_games/status/2102695292113981770) | [@genex_games](https://x.com/genex_games) | 0:29 | — |
 | [Browser-based Minecraft clone](https://x.com/buildwithsid/status/2102461886247948571) | [@buildwithsid](https://x.com/buildwithsid) | 1:10 | — |
+| [Simple browser game](https://x.com/sonia_code/status/2104768377356988782) | [@sonia_code](https://x.com/sonia_code) | 0:15 | — |
 | [Small fishing game prototype](https://x.com/ForkedPush/status/2103911086541951003) | [@ForkedPush](https://x.com/ForkedPush) | 1:41 | — |
 | [Game settlement and card draw animations](https://x.com/op7418/status/2104085484347818226) | [@op7418](https://x.com/op7418) | 0:18 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104085484347818226) |
 | [Spear fishing browser game](https://x.com/nachat_dayo/status/2102773498037023140) | [@nachat_dayo](https://x.com/nachat_dayo) | 1:31 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102773498037023140) |
 | [Custom Zombies map ported to PS4](https://x.com/luckeyfaraday/status/2102921580120625251) | [@luckeyfaraday](https://x.com/luckeyfaraday) | 2:27 | — |
+| [3rd person MOBA with crossover heroes](https://x.com/Izkimar/status/2104675408222536122) | [@Izkimar](https://x.com/Izkimar) | 1:40 | — |
 | [One-shot game demo](https://x.com/inlovewithgo/status/2102502712621531543) | [@inlovewithgo](https://x.com/inlovewithgo) | 0:17 | — |
 | [Opus 5.5 game generation run with full economy loop](https://x.com/theo/status/2102877145399975952) | [@theo](https://x.com/theo) | 1:16 | — |
 | [Three.js game built with Opus](https://x.com/xikhar/status/2102588571442188577) | [@xikhar](https://x.com/xikhar) | 3:07 | — |

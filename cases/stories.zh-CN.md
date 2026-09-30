@@ -1,11 +1,12 @@
 # 角色故事
 
-共 105 个作品，其中 32 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 106 个作品，其中 32 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|
 | [预测未来50年的视频](https://x.com/andrewjiang/status/2102987981695132140) | [@andrewjiang](https://x.com/andrewjiang) | 4:00 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102987981695132140) |
 | [为AI歌曲制作的音乐视频](https://x.com/eudaemonea/status/2102610626321490404) | [@eudaemonea](https://x.com/eudaemonea) | 6:13 | — |
+| [法国理论分析转成视频](https://x.com/brivael/status/2104216601864106226) | [@brivael](https://x.com/brivael) | 5:32 | — |
 | [关于挚爱之物的动画故事](https://x.com/kevin_t_ngo/status/2102437977435893771) | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 0:28 | — |
 | [奥斯特里茨战役程序化生成影片](https://x.com/WinterArc2125/status/2103116235009347650) | [@WinterArc2125](https://x.com/WinterArc2125) | 5:01 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103116235009347650) |
 | [AI自我介绍歌曲与视频](https://x.com/johnknopf/status/2103698854399099057) | [@johnknopf](https://x.com/johnknopf) | 5:25 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103698854399099057) |

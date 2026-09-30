@@ -2,7 +2,7 @@
 
 English | [简体中文](README.zh-CN.md)
 
-Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5 and shared on X, each with 5,000+ views on the original post. **986 works**, **259 with a prompt** (96 full prompts).
+Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5 and shared on X, each with 5,000+ views on the original post. **1031 works**, **272 with a prompt** (101 full prompts).
 
 **[Browse online — play the videos and copy the prompts →](https://jasonzhu.ai/en/prompts/claude-opus-5-5)**
 
@@ -15,9 +15,9 @@ Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5 and share
   </tr>
   <tr>
     <td width="25%" align="center"><a href="https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103698854399099057"><img src="https://pbs.twimg.com/amplify_video_thumb/2103697667910168576/img/cqLRqTw7vVpTectN.jpg" width="200" alt="AI self-introduction song and video"></a><br><sub>AI self-introduction song and video</sub></td>
+    <td width="25%" align="center"><a href="https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104285370951012504"><img src="https://pbs.twimg.com/amplify_video_thumb/2104285268907859968/img/J8ePMThjFdD0EuEa.jpg" width="200" alt="Jelly watermelon slicing simulation"></a><br><sub>Jelly watermelon slicing simulation</sub></td>
     <td width="25%" align="center"><a href="https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102470200415166699"><img src="https://pbs.twimg.com/amplify_video_thumb/2102469320001404928/img/Ia2Kpwxmz6rwLE1r.jpg" width="200" alt="Minecraft clone in browser"></a><br><sub>Minecraft clone in browser</sub></td>
     <td width="25%" align="center"><a href="https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102760783344189761"><img src="https://pbs.twimg.com/amplify_video_thumb/2102760366745010177/img/8_z3VSBLv9sfV3C8.jpg" width="200" alt="Playable boat scene through Japanese landscapes"></a><br><sub>Playable boat scene through Japanese landscapes</sub></td>
-    <td width="25%" align="center"><a href="https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102487879809126834"><img src="https://pbs.twimg.com/amplify_video_thumb/2102487713282686976/img/zdQTFvcXlXdqN7qP.jpg" width="200" alt="Roblox anime fighting game"></a><br><sub>Roblox anime fighting game</sub></td>
   </tr>
 </table>
 
@@ -25,14 +25,14 @@ Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5 and share
 
 ## Inclusion rule
 
-- The creator's own post, with a native video, and at least 5,000 views on that post (snapshot: 2026-09-29).
+- The creator's own post, with a native video, and at least 5,000 views on that post (snapshot: 2026-09-30).
 - The post states the work was made with Claude Opus 5.5. **Model attribution is as stated by each creator and was not independently reproduced.**
 - A prompt is listed only when it has a source: the post itself, the creator's own replies, a screenshot in those replies, or a link the creator shared. Prompts are kept verbatim, never rewritten or translated.
 - Works with a video but no traceable instruction are still listed, with the prompt column left empty.
 
 ## Motion graphics & UI
 
-177 works · [full list](cases/motion.md)
+182 works · [full list](cases/motion.md)
 
 | Work | Creator | Length | Prompt |
 |---|---|---|---|
@@ -43,26 +43,26 @@ Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5 and share
 | [Motion showreel generated at xhigh effort](https://x.com/kenn/status/2103337314021937232) | [@kenn](https://x.com/kenn) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103337314021937232) |
 | [High-energy motion graphics showreel](https://x.com/crvdesign0/status/2103817034618339682) | [@crvdesign0](https://x.com/crvdesign0) | 0:15 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103817034618339682) |
 | [Animated pixel art wizard casting a spell](https://x.com/majidmanzarpour/status/2102476258948927543) | [@majidmanzarpour](https://x.com/majidmanzarpour) | 0:11 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102476258948927543) |
-| [Motion showreel from a Turkish prompt](https://x.com/leodavincs3/status/2103425994610643203) | [@leodavincs3](https://x.com/leodavincs3) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103425994610643203) |
+| [Motion design launch video](https://x.com/gauravsbuilding/status/2104370091672711402) | [@gauravsbuilding](https://x.com/gauravsbuilding) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104370091672711402) |
 
 ## Product demos & ads
 
-132 works · [full list](cases/product.md)
+138 works · [full list](cases/product.md)
 
 | Work | Creator | Length | Prompt |
 |---|---|---|---|
 | [Buildable life-size LEGO duck design](https://x.com/victormustar/status/2103110908444631120) | [@victormustar](https://x.com/victormustar) | 0:24 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103110908444631120) |
 | [AI inference startup launch video](https://x.com/deedydas/status/2102787937482252537) | [@deedydas](https://x.com/deedydas) | 0:26 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102787937482252537) |
+| [Working computer built from logic gates with OS](https://x.com/mattshumer_/status/2104301990985498783) | [@mattshumer_](https://x.com/mattshumer_) | 1:02 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104301990985498783) |
 | [3D gym equipment builder app](https://x.com/wesbos/status/2102450119975277027) | [@wesbos](https://x.com/wesbos) | 0:18 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102450119975277027) |
 | [Personal website redesign trailer](https://x.com/trq212/status/2102477340920152162) | [@trq212](https://x.com/trq212) | 1:35 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102477340920152162) |
+| [Character builder with sliders demo](https://x.com/magnific/status/2104587476014964879) | [@magnific](https://x.com/magnific) | 0:20 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104587476014964879) |
 | [Punchy ad video from a marketing email](https://x.com/gastypm/status/2102863204472799549) | [@gastypm](https://x.com/gastypm) | 0:20 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102863204472799549) |
 | [iPhone Duo app redesign demo video](https://x.com/anshuc/status/2103598854801084824) | [@anshuc](https://x.com/anshuc) | 1:00 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103598854801084824) |
-| [Apple-style product launch video](https://x.com/twoclipping/status/2103835273813496100) | [@twoclipping](https://x.com/twoclipping) | 0:29 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103835273813496100) |
-| [One-prompt SaaS launch video](https://x.com/moritzkremb/status/2103066071838466494) | [@moritzkremb](https://x.com/moritzkremb) | 0:46 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103066071838466494) |
 
 ## Explainers & education
 
-96 works · [full list](cases/education.md)
+101 works · [full list](cases/education.md)
 
 | Work | Creator | Length | Prompt |
 |---|---|---|---|
@@ -77,7 +77,7 @@ Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5 and share
 
 ## Characters & stories
 
-105 works · [full list](cases/stories.md)
+106 works · [full list](cases/stories.md)
 
 | Work | Creator | Length | Prompt |
 |---|---|---|---|
@@ -92,63 +92,63 @@ Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5 and share
 
 ## 3D worlds & simulations
 
-132 works · [full list](cases/art3d.md)
+140 works · [full list](cases/art3d.md)
 
 | Work | Creator | Length | Prompt |
 |---|---|---|---|
+| [Jelly watermelon slicing simulation](https://x.com/vib3coded/status/2104285370951012504) | [@vib3coded](https://x.com/vib3coded) | 0:18 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104285370951012504) |
 | [Playable boat scene through Japanese landscapes](https://x.com/MengTo/status/2102760783344189761) | [@MengTo](https://x.com/MengTo) | 1:00 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102760783344189761) |
 | [Pelican riding a bike in Three.js](https://x.com/addyosmani/status/2102436416437580159) | [@addyosmani](https://x.com/addyosmani) | 1:31 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102436416437580159) |
+| [Floor plan to 3D interior design tool](https://x.com/akokoi1/status/2104520072014508316) | [@akokoi1](https://x.com/akokoi1) | 0:33 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104520072014508316) |
 | [Walkable Indian cities world](https://x.com/pracosm/status/2103387804281745459) | [@pracosm](https://x.com/pracosm) | 0:54 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103387804281745459) |
+| [Real-time coastal simulation scene](https://x.com/hajimetwi3/status/2104381179151753464) | [@hajimetwi3](https://x.com/hajimetwi3) | 2:02 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104381179151753464) |
 | [Historic 1906 San Francisco street in 3D](https://x.com/alexalbert__/status/2102466523164274839) | [@alexalbert__](https://x.com/alexalbert__) | 0:08 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102466523164274839) |
 | [280 KB single-file HTML demoscene intro](https://x.com/JustinPerea/status/2102893186330841502) | [@JustinPerea](https://x.com/JustinPerea) | 0:43 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102893186330841502) |
-| [3D asset design, print, and robot arm removal](https://x.com/dimentary/status/2104094838035820607) | [@dimentary](https://x.com/dimentary) | 0:23 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104094838035820607) |
-| [Itsukushima Shrine 3D scene](https://x.com/Ayu_AI_0912/status/2103737014508216515) | [@Ayu_AI_0912](https://x.com/Ayu_AI_0912) | 0:24 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103737014508216515) |
-| [Interactive 3D dystopian city diorama](https://x.com/akakuma0219/status/2103820733159981151) | [@akakuma0219](https://x.com/akakuma0219) | 0:52 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103820733159981151) |
 
 ## Games
 
-163 works · [full list](cases/game.md)
+170 works · [full list](cases/game.md)
 
 | Work | Creator | Length | Prompt |
 |---|---|---|---|
+| [Browser-based Fallout game built with code](https://x.com/chrisfirst/status/2104644598626934858) | [@chrisfirst](https://x.com/chrisfirst) | 2:51 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104644598626934858) |
+| [Zelda-style paintbrush adventure game](https://x.com/DannyLimanseta/status/2104215873120764032) | [@DannyLimanseta](https://x.com/DannyLimanseta) | 1:44 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104215873120764032) |
 | [Airplane simulator game](https://x.com/karankendre/status/2103821040174698674) | [@karankendre](https://x.com/karankendre) | 0:32 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103821040174698674) |
 | [3D shooting mini-game](https://x.com/karankendre/status/2103456630679773669) | [@karankendre](https://x.com/karankendre) | 0:22 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103456630679773669) |
 | [Minecraft clone in browser](https://x.com/noahwachnik/status/2102470200415166699) | [@noahwachnik](https://x.com/noahwachnik) | 0:23 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102470200415166699) |
 | [Roblox anime fighting game](https://x.com/WoahWurdz/status/2102487879809126834) | [@WoahWurdz](https://x.com/WoahWurdz) | 2:13 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102487879809126834) |
 | [Far Cry 3 clone game (polished)](https://x.com/maxt3chno/status/2103960867327115462) | [@maxt3chno](https://x.com/maxt3chno) | 2:08 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103960867327115462) |
 | [Genshin-style game attempt](https://x.com/IHayato/status/2103043212869026013) | [@IHayato](https://x.com/IHayato) | 1:09 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103043212869026013) |
-| [Far Cry 3-style playable game prototype in Three.js](https://x.com/maxt3chno/status/2103423427939897781) | [@maxt3chno](https://x.com/maxt3chno) | 2:02 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103423427939897781) |
-| [Game settlement and card draw animations](https://x.com/op7418/status/2104085484347818226) | [@op7418](https://x.com/op7418) | 0:18 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104085484347818226) |
 
 ## Music, editing & production
 
-76 works · [full list](cases/production.md)
+81 works · [full list](cases/production.md)
 
 | Work | Creator | Length | Prompt |
 |---|---|---|---|
 | [Remake of the 'Claude Pop' music video](https://x.com/donaldjewkes/status/2102801274173587569) | [@donaldjewkes](https://x.com/donaldjewkes) | 2:22 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102801274173587569) |
 | [Bach-style fugue composition](https://x.com/aug5thmusic/status/2102758849619062796) | [@aug5thmusic](https://x.com/aug5thmusic) | 2:10 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102758849619062796) |
+| [Autonomous 3D printer bed-clearing solution](https://x.com/mattshumer_/status/2104777202684301750) | [@mattshumer_](https://x.com/mattshumer_) | 0:25 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104777202684301750) |
 | [AI-edited talking-head video](https://x.com/sab8a/status/2103144778481475686) | [@sab8a](https://x.com/sab8a) | 0:37 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103144778481475686) |
 | [Bass music generated with code](https://x.com/aj_dev_smith/status/2102504509637587339) | [@aj_dev_smith](https://x.com/aj_dev_smith) | 2:00 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102504509637587339) |
 | [Opus 5.5 plus Gemini TTS demo](https://x.com/YoheiN2023/status/2103590367518171295) | [@YoheiN2023](https://x.com/YoheiN2023) | 0:15 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103590367518171295) |
 | [Talking-head video converted to line-art B-roll](https://x.com/AxtonLiu/status/2102827887732932956) | [@AxtonLiu](https://x.com/AxtonLiu) | 1:24 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102827887732932956) |
 | [Video editor automation via AI control](https://x.com/FantasistaAI/status/2103117722741854377) | [@FantasistaAI](https://x.com/FantasistaAI) | 0:25 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103117722741854377) |
-| [AI-composed Baroque trio sonata](https://x.com/aug5thmusic/status/2103549625076752493) | [@aug5thmusic](https://x.com/aug5thmusic) | 1:46 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103549625076752493) |
 
 ## Model comparisons
 
-105 works · [full list](cases/comparison.md)
+113 works · [full list](cases/comparison.md)
 
 | Work | Creator | Length | Prompt |
 |---|---|---|---|
+| [Glitter sticker effect comparison](https://x.com/ann_nnng/status/2104159923886244176) | [@ann_nnng](https://x.com/ann_nnng) | 0:13 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104159923886244176) |
 | [Jelly candy simulation comparison](https://x.com/vib3coded/status/2103741107225907467) | [@vib3coded](https://x.com/vib3coded) | 0:18 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103741107225907467) |
 | [Bluetooth speaker design comparison](https://x.com/seveibar/status/2102465517403636216) | [@seveibar](https://x.com/seveibar) | 0:38 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102465517403636216) |
 | [Blender pelican-on-bicycle animation comparison](https://x.com/atomic_chat_hq/status/2102492834485895265) | [@atomic_chat_hq](https://x.com/atomic_chat_hq) | 0:10 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102492834485895265) |
 | [Four-model lava lamp build comparison](https://x.com/bridgebench/status/2102770788319310302) | [@bridgebench](https://x.com/bridgebench) | 0:10 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102770788319310302) |
 | [How a language model answers a prompt: 20-second motion graphic](https://x.com/TheHunterBohm/status/2102724864205566388) | [@TheHunterBohm](https://x.com/TheHunterBohm) | 0:20 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102724864205566388) |
 | [Animated welcome screen for the Nova crypto wallet](https://x.com/vvarrdi/status/2102681647720395115) | [@vvarrdi](https://x.com/vvarrdi) | 0:07 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102681647720395115) |
-| [Eiffel Tower Three.js model comparison](https://x.com/Bhavani_00007/status/2102795814355763277) | [@Bhavani_00007](https://x.com/Bhavani_00007) | 0:30 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102795814355763277) |
-| [Trojan Horse story painted around a Greek vase](https://x.com/arena/status/2102854430454669767) | [@arena](https://x.com/arena) | 0:22 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102854430454669767) |
+| [Elon Musk portrait drawing comparison](https://x.com/EvoLinkAi/status/2104405255329132694) | [@EvoLinkAi](https://x.com/EvoLinkAi) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104405255329132694) |
 
 ## Data
 

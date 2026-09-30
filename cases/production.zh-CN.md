@@ -1,19 +1,24 @@
 # 制作流程
 
-共 76 个作品，其中 13 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 81 个作品，其中 14 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|
 | [《Claude Pop》音乐视频重制版](https://x.com/donaldjewkes/status/2102801274173587569) | [@donaldjewkes](https://x.com/donaldjewkes) | 2:22 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102801274173587569) |
+| [动画发布视频](https://x.com/higgsfield/status/2104573404552819196) | [@higgsfield](https://x.com/higgsfield) | 1:10 | — |
 | [巴赫风格赋格曲创作](https://x.com/aug5thmusic/status/2102758849619062796) | [@aug5thmusic](https://x.com/aug5thmusic) | 2:10 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102758849619062796) |
 | [用Synthesizer V和Opus制作的歌曲](https://x.com/qibiz_me/status/2102594977264234578) | [@qibiz_me](https://x.com/qibiz_me) | 2:23 | — |
 | [自建剪辑软件自我剪辑演示](https://x.com/NFT_Chen/status/2102681172367323300) | [@NFT_Chen](https://x.com/NFT_Chen) | 0:30 | — |
 | [用骨骼追踪驱动AE文字动效测试](https://x.com/aicreataro/status/2103757144789221819) | [@aicreataro](https://x.com/aicreataro) | 0:32 | — |
+| [自动清理3D打印机打印床的方案](https://x.com/mattshumer_/status/2104777202684301750) | [@mattshumer_](https://x.com/mattshumer_) | 0:25 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104777202684301750) |
 | [重新剪辑的Instagram发布视频](https://x.com/joshaeeee/status/2103386096411553888) | [@joshaeeee](https://x.com/joshaeeee) | 0:25 | — |
+| [Open Edit：将视频转为可编辑项目](https://x.com/sab8a/status/2104627757766578399) | [@sab8a](https://x.com/sab8a) | 1:00 | — |
 | [代码生成的朋克摇滚音乐视频](https://x.com/aj_dev_smith/status/2102575577563570450) | [@aj_dev_smith](https://x.com/aj_dev_smith) | 2:30 | — |
+| [完全代码化的影音制作](https://x.com/__gsk__/status/2104832372164444162) | [@__gsk__](https://x.com/__gsk__) | 0:30 | — |
 | [一次生成的产品发布视频配乐](https://x.com/maria_rcks/status/2103363131896635699) | [@maria_rcks](https://x.com/maria_rcks) | 1:16 | — |
 | [代码生成的视频演示](https://x.com/VincentWei93/status/2103381720410333314) | [@VincentWei93](https://x.com/VincentWei93) | 3:44 | — |
 | [素材自动剪辑成音乐视频](https://x.com/ochyai/status/2103643040326008894) | [@ochyai](https://x.com/ochyai) | 1:55 | — |
+| [TTS语音对比解说视频制作](https://x.com/nakazakifam/status/2104803180877906110) | [@nakazakifam](https://x.com/nakazakifam) | 5:12 | — |
 | [无限生成的LoFi音乐网站](https://x.com/SafaElmali/status/2103581911016685882) | [@SafaElmali](https://x.com/SafaElmali) | 0:12 | — |
 | [iPhone素材自动剪辑成片](https://x.com/shupeiman/status/2102686671422840985) | [@shupeiman](https://x.com/shupeiman) | 4:01 | — |
 | [自动生成的代码提交演示视频](https://x.com/theo/status/2103245685688771044) | [@theo](https://x.com/theo) | 0:11 | — |

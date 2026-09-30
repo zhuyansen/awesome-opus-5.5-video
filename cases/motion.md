@@ -1,12 +1,13 @@
 # Motion graphics & UI
 
-177 works, 70 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+182 works, 71 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Creator | Length | Prompt |
 |---|---|---|---|
 | [15-second motion designer showreel (the original viral prompt)](https://x.com/stephanlivera/status/2103315922098470926) | [@stephanlivera](https://x.com/stephanlivera) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103315922098470926) |
 | [AI-made video demo](https://x.com/devteamdrew/status/2102436464323661880) | [@devteamdrew](https://x.com/devteamdrew) | 0:32 | — |
 | [Showreel from the viral one-liner (Skia + Blender)](https://x.com/shneural/status/2103151003272962130) | [@shneural](https://x.com/shneural) | 0:32 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103151003272962130) |
+| [Motion Design Launch Video](https://x.com/uxmiles/status/2104618175803609305) | [@uxmiles](https://x.com/uxmiles) | 0:15 | — |
 | [Code-based UI motion design showreel](https://x.com/twoclipping/status/2103273003555402193) | [@twoclipping](https://x.com/twoclipping) | 0:14 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103273003555402193) |
 | [Multi-AI-tool dance motion graphics](https://x.com/sankakuten91256/status/2103483923783373039) | [@sankakuten91256](https://x.com/sankakuten91256) | 0:15 | — |
 | [Unspecified animation made in 15 minutes](https://x.com/achxvi/status/2103918792845963545) | [@achxvi](https://x.com/achxvi) | 0:15 | — |
@@ -15,6 +16,7 @@
 | [Motion showreel generated at xhigh effort](https://x.com/kenn/status/2103337314021937232) | [@kenn](https://x.com/kenn) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103337314021937232) |
 | [High-energy motion graphics showreel](https://x.com/crvdesign0/status/2103817034618339682) | [@crvdesign0](https://x.com/crvdesign0) | 0:15 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103817034618339682) |
 | [Animated pixel art wizard casting a spell](https://x.com/majidmanzarpour/status/2102476258948927543) | [@majidmanzarpour](https://x.com/majidmanzarpour) | 0:11 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102476258948927543) |
+| [Motion design launch video](https://x.com/gauravsbuilding/status/2104370091672711402) | [@gauravsbuilding](https://x.com/gauravsbuilding) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104370091672711402) |
 | [Multi-agent generated narrated video](https://x.com/AndrewOnXYZ/status/2102512879258009818) | [@AndrewOnXYZ](https://x.com/AndrewOnXYZ) | 3:59 | — |
 | [Motion showreel from a Turkish prompt](https://x.com/leodavincs3/status/2103425994610643203) | [@leodavincs3](https://x.com/leodavincs3) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103425994610643203) |
 | [NVIDIA Blackwell GPU zoom-through animation](https://x.com/lucian__03/status/2103494418477260830) | [@lucian__03](https://x.com/lucian__03) | 0:49 | — |
@@ -22,7 +24,10 @@
 | [Pixel character dodging meteors on a rainbow space track](https://x.com/riku720720/status/2102515055116063144) | [@riku720720](https://x.com/riku720720) | 0:19 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102515055116063144) |
 | [Rick Astley's dance as moving blocks in HTML](https://x.com/petergostev/status/2103033635397898433) | [@petergostev](https://x.com/petergostev) | 0:58 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103033635397898433) |
 | [Beat-synced motion graphics with code breakdown](https://x.com/aiehon_aya/status/2103403361022419005) | [@aiehon_aya](https://x.com/aiehon_aya) | 0:15 | — |
+| [Voiceover with Motion Graphics](https://x.com/tu_u_k/status/2104629219607114206) | [@tu_u_k](https://x.com/tu_u_k) | 0:34 | — |
+| [UX decision explainer animation](https://x.com/moguzbulbul/status/2104206095313215591) | [@moguzbulbul](https://x.com/moguzbulbul) | 0:42 | — |
 | [TypingMind product intro motion video](https://x.com/tdinh_me/status/2103703135902740699) | [@tdinh_me](https://x.com/tdinh_me) | 0:15 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103703135902740699) |
+| [Jelly wobble transparency effect site](https://x.com/MatoToushi/status/2104778232683999363) | [@MatoToushi](https://x.com/MatoToushi) | 0:41 | — |
 | [Attempt to recreate a dance team's video](https://x.com/2irl4u/status/2102707564215755116) | [@2irl4u](https://x.com/2irl4u) | 0:15 | — |
 | [Procedurally drawn galloping horse animation](https://x.com/victormustar/status/2102707412704919910) | [@victormustar](https://x.com/victormustar) | 0:10 | — |
 | [Apple Liquid Glass style UI motion showcase](https://x.com/motion_conquest/status/2103510103622308152) | [@motion_conquest](https://x.com/motion_conquest) | 0:16 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103510103622308152) |

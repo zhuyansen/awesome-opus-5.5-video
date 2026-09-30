@@ -1,26 +1,32 @@
 # 3D 场景
 
-共 132 个作品，其中 31 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 140 个作品，其中 34 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|
 | [用共享提示词一夜生成的精致场景](https://x.com/anabology/status/2103534482930491441) | [@anabology](https://x.com/anabology) | 5:06 | — |
 | [视频转4D高斯点云重建](https://x.com/bilawalsidhu/status/2102598907817587141) | [@bilawalsidhu](https://x.com/bilawalsidhu) | 0:22 | — |
 | [程序化生成的海岛模拟场景](https://x.com/dangreenheck/status/2102878170089169235) | [@dangreenheck](https://x.com/dangreenheck) | 3:47 | — |
+| [果冻西瓜切片模拟](https://x.com/vib3coded/status/2104285370951012504) | [@vib3coded](https://x.com/vib3coded) | 0:18 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104285370951012504) |
 | [根据流传提示词制作的场景](https://x.com/pleometric/status/2103082510607610023) | [@pleometric](https://x.com/pleometric) | 2:37 | — |
 | [日式风景中的可玩船只场景](https://x.com/MengTo/status/2102760783344189761) | [@MengTo](https://x.com/MengTo) | 1:00 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102760783344189761) |
+| [沙丘沙虫变身机器人概念](https://x.com/DilumSanjaya/status/2104253761137127597) | [@DilumSanjaya](https://x.com/DilumSanjaya) | 1:19 | — |
 | [Three.js骑车鹈鹕演示](https://x.com/addyosmani/status/2102436416437580159) | [@addyosmani](https://x.com/addyosmani) | 1:31 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102436416437580159) |
 | [在虚幻引擎中重建旧金山](https://x.com/MatthewBerman/status/2102483668468195539) | [@MatthewBerman](https://x.com/MatthewBerman) | 0:54 | — |
 | [新床摆放的3D房间预览](https://x.com/scheemunai/status/2103059885361598633) | [@scheemunai](https://x.com/scheemunai) | 1:27 | — |
 | [Three.js制作的清澈溪流场景](https://x.com/hayashimon1/status/2102576886182453454) | [@hayashimon1](https://x.com/hayashimon1) | 0:15 | — |
 | [草图到房屋三维建模动画](https://x.com/techartist_/status/2102503719762018434) | [@techartist_](https://x.com/techartist_) | 0:19 | — |
 | [参考视频还原3D水面效果](https://x.com/Aurelien_Gz/status/2102479887495758076) | [@Aurelien_Gz](https://x.com/Aurelien_Gz) | 0:22 | — |
+| [户型图转3D室内设计工具](https://x.com/akokoi1/status/2104520072014508316) | [@akokoi1](https://x.com/akokoi1) | 0:33 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104520072014508316) |
+| [虚拟世界中的热带水面模拟](https://x.com/Data01/status/2104406657216237990) | [@Data01](https://x.com/Data01) | 0:21 | — |
+| [交互式水面模拟效果](https://x.com/sonia_code/status/2104320172815503463) | [@sonia_code](https://x.com/sonia_code) | 0:18 | — |
 | [单句提示词生成的黏土动画](https://x.com/alexalbert__/status/2102458348511879448) | [@alexalbert__](https://x.com/alexalbert__) | 0:22 | — |
 | [樱花季日本小镇可探索场景](https://x.com/gmi_cloud/status/2102950788641501367) | [@gmi_cloud](https://x.com/gmi_cloud) | 1:21 | — |
 | [鹈鹕骑自行车动画基准测试](https://x.com/alin_zone/status/2102608618751508947) | [@alin_zone](https://x.com/alin_zone) | 0:54 | — |
 | [草图转物理模拟动画](https://x.com/poolio/status/2102445641205248145) | [@poolio](https://x.com/poolio) | 1:20 | — |
 | [可漫游的印度城市世界](https://x.com/pracosm/status/2103387804281745459) | [@pracosm](https://x.com/pracosm) | 0:54 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103387804281745459) |
 | [开源的3D水面模拟效果](https://x.com/Aurelien_Gz/status/2102786378282987591) | [@Aurelien_Gz](https://x.com/Aurelien_Gz) | 0:27 | — |
+| [实时海岸模拟场景](https://x.com/hajimetwi3/status/2104381179151753464) | [@hajimetwi3](https://x.com/hajimetwi3) | 2:02 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104381179151753464) |
 | [1906年旧金山街道3D复原](https://x.com/alexalbert__/status/2102466523164274839) | [@alexalbert__](https://x.com/alexalbert__) | 0:08 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102466523164274839) |
 | [新干线高精度3D建模](https://x.com/higgsfield_ai/status/2102507018372436264) | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:18 | — |
 | [用Blender制作的3D场景](https://x.com/superalesha/status/2102487989381156991) | [@superalesha](https://x.com/superalesha) | 1:01 | — |
@@ -31,9 +37,11 @@
 | [严岛神社3D场景](https://x.com/Ayu_AI_0912/status/2103737014508216515) | [@Ayu_AI_0912](https://x.com/Ayu_AI_0912) | 0:24 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103737014508216515) |
 | [逼真风格的《我的世界》与《星球大战》渲染](https://x.com/ChrisGPT/status/2102644063950475477) | [@ChrisGPT](https://x.com/ChrisGPT) | 1:49 | — |
 | [指环王世界生成渲染实验](https://x.com/Layton_Gott/status/2103632815677944206) | [@Layton_Gott](https://x.com/Layton_Gott) | 2:22 | — |
+| [户型图转CAD再到3D渲染的工作流](https://x.com/hashimoto_no14/status/2104199889207038132) | [@hashimoto_no14](https://x.com/hashimoto_no14) | 0:30 | — |
 | [自我迭代出的第二版效果](https://x.com/dashiAIxz/status/2103344448696648058) | [@dashiAIxz](https://x.com/dashiAIxz) | 0:30 | — |
 | [音乐可视化应用与3D机器人头模型](https://x.com/kaolti/status/2103887665305391343) | [@kaolti](https://x.com/kaolti) | 0:28 | — |
 | [AI自画像与原创钢琴配乐](https://x.com/kevin_t_ngo/status/2102878288008057171) | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 0:20 | — |
+| [全息3D交易卡设计](https://x.com/MengTo/status/2104565735288938804) | [@MengTo](https://x.com/MengTo) | 0:30 | — |
 | [Tripo与Opus制作的3D角色动画](https://x.com/manaimovie/status/2103138089790996843) | [@manaimovie](https://x.com/manaimovie) | 0:05 | — |
 | [可交互的反乌托邦3D箱庭都市](https://x.com/akakuma0219/status/2103820733159981151) | [@akakuma0219](https://x.com/akakuma0219) | 0:52 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103820733159981151) |
 | [输入词语实时生成的代码艺术作品](https://x.com/MiaAI_lab/status/2103837519615774895) | [@MiaAI_lab](https://x.com/MiaAI_lab) | 1:37 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103837519615774895) |

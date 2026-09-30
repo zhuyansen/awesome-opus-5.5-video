@@ -1,26 +1,32 @@
 # 3D worlds & simulations
 
-132 works, 31 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+140 works, 34 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Creator | Length | Prompt |
 |---|---|---|---|
 | [Elaborate overnight scene from shared prompt](https://x.com/anabology/status/2103534482930491441) | [@anabology](https://x.com/anabology) | 5:06 | — |
 | [4D gaussian splat reconstruction from video](https://x.com/bilawalsidhu/status/2102598907817587141) | [@bilawalsidhu](https://x.com/bilawalsidhu) | 0:22 | — |
 | [Procedural ocean island simulation](https://x.com/dangreenheck/status/2102878170089169235) | [@dangreenheck](https://x.com/dangreenheck) | 3:47 | — |
+| [Jelly watermelon slicing simulation](https://x.com/vib3coded/status/2104285370951012504) | [@vib3coded](https://x.com/vib3coded) | 0:18 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104285370951012504) |
 | [Scene built from a shared viral prompt](https://x.com/pleometric/status/2103082510607610023) | [@pleometric](https://x.com/pleometric) | 2:37 | — |
 | [Playable boat scene through Japanese landscapes](https://x.com/MengTo/status/2102760783344189761) | [@MengTo](https://x.com/MengTo) | 1:00 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102760783344189761) |
+| [Dune sandworm turned into robot concept](https://x.com/DilumSanjaya/status/2104253761137127597) | [@DilumSanjaya](https://x.com/DilumSanjaya) | 1:19 | — |
 | [Pelican riding a bike in Three.js](https://x.com/addyosmani/status/2102436416437580159) | [@addyosmani](https://x.com/addyosmani) | 1:31 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102436416437580159) |
 | [San Francisco recreated in Unreal Engine](https://x.com/MatthewBerman/status/2102483668468195539) | [@MatthewBerman](https://x.com/MatthewBerman) | 0:54 | — |
 | [3D bed placement room visualization](https://x.com/scheemunai/status/2103059885361598633) | [@scheemunai](https://x.com/scheemunai) | 1:27 | — |
 | [Realistic flowing river Three.js scene](https://x.com/hayashimon1/status/2102576886182453454) | [@hayashimon1](https://x.com/hayashimon1) | 0:15 | — |
 | [Sketch-to-3D house design animation](https://x.com/techartist_/status/2102503719762018434) | [@techartist_](https://x.com/techartist_) | 0:19 | — |
 | [3D water simulation from video reference](https://x.com/Aurelien_Gz/status/2102479887495758076) | [@Aurelien_Gz](https://x.com/Aurelien_Gz) | 0:22 | — |
+| [Floor plan to 3D interior design tool](https://x.com/akokoi1/status/2104520072014508316) | [@akokoi1](https://x.com/akokoi1) | 0:33 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104520072014508316) |
+| [Tropical water simulation in virtual world](https://x.com/Data01/status/2104406657216237990) | [@Data01](https://x.com/Data01) | 0:21 | — |
+| [Interactive water surface simulation](https://x.com/sonia_code/status/2104320172815503463) | [@sonia_code](https://x.com/sonia_code) | 0:18 | — |
 | [Blender claymation from a single prompt](https://x.com/alexalbert__/status/2102458348511879448) | [@alexalbert__](https://x.com/alexalbert__) | 0:22 | — |
 | [Explorable Japanese town in blossom season](https://x.com/gmi_cloud/status/2102950788641501367) | [@gmi_cloud](https://x.com/gmi_cloud) | 1:21 | — |
 | [Pelican riding a bicycle animation benchmark](https://x.com/alin_zone/status/2102608618751508947) | [@alin_zone](https://x.com/alin_zone) | 0:54 | — |
 | [Sketch-to-physics simulation](https://x.com/poolio/status/2102445641205248145) | [@poolio](https://x.com/poolio) | 1:20 | — |
 | [Walkable Indian cities world](https://x.com/pracosm/status/2103387804281745459) | [@pracosm](https://x.com/pracosm) | 0:54 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103387804281745459) |
 | [Open-sourced 3D water simulation](https://x.com/Aurelien_Gz/status/2102786378282987591) | [@Aurelien_Gz](https://x.com/Aurelien_Gz) | 0:27 | — |
+| [Real-time coastal simulation scene](https://x.com/hajimetwi3/status/2104381179151753464) | [@hajimetwi3](https://x.com/hajimetwi3) | 2:02 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104381179151753464) |
 | [Historic 1906 San Francisco street in 3D](https://x.com/alexalbert__/status/2102466523164274839) | [@alexalbert__](https://x.com/alexalbert__) | 0:08 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102466523164274839) |
 | [Detailed 3D model of a bullet train](https://x.com/higgsfield_ai/status/2102507018372436264) | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:18 | — |
 | [3D scene created in Blender](https://x.com/superalesha/status/2102487989381156991) | [@superalesha](https://x.com/superalesha) | 1:01 | — |
@@ -31,9 +37,11 @@
 | [Itsukushima Shrine 3D scene](https://x.com/Ayu_AI_0912/status/2103737014508216515) | [@Ayu_AI_0912](https://x.com/Ayu_AI_0912) | 0:24 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103737014508216515) |
 | [Realistic Minecraft and Star Wars renders](https://x.com/ChrisGPT/status/2102644063950475477) | [@ChrisGPT](https://x.com/ChrisGPT) | 1:49 | — |
 | [Lord of the Rings world-building render](https://x.com/Layton_Gott/status/2103632815677944206) | [@Layton_Gott](https://x.com/Layton_Gott) | 2:22 | — |
+| [Floor plan to CAD to 3D render workflow](https://x.com/hashimoto_no14/status/2104199889207038132) | [@hashimoto_no14](https://x.com/hashimoto_no14) | 0:30 | — |
 | [Self-iterated second version output](https://x.com/dashiAIxz/status/2103344448696648058) | [@dashiAIxz](https://x.com/dashiAIxz) | 0:30 | — |
 | [Music visualizer app with a 3D robot head](https://x.com/kaolti/status/2103887665305391343) | [@kaolti](https://x.com/kaolti) | 0:28 | — |
 | [AI self-portraits with an original piano score](https://x.com/kevin_t_ngo/status/2102878288008057171) | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 0:20 | — |
+| [Holographic 3D trading card design](https://x.com/MengTo/status/2104565735288938804) | [@MengTo](https://x.com/MengTo) | 0:30 | — |
 | [3D character animation via Tripo and Opus](https://x.com/manaimovie/status/2103138089790996843) | [@manaimovie](https://x.com/manaimovie) | 0:05 | — |
 | [Interactive 3D dystopian city diorama](https://x.com/akakuma0219/status/2103820733159981151) | [@akakuma0219](https://x.com/akakuma0219) | 0:52 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103820733159981151) |
 | [Live generative code art from a typed word](https://x.com/MiaAI_lab/status/2103837519615774895) | [@MiaAI_lab](https://x.com/MiaAI_lab) | 1:37 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103837519615774895) |

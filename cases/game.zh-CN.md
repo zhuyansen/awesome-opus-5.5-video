@@ -1,12 +1,15 @@
 # 游戏
 
-共 163 个作品，其中 28 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 170 个作品，其中 30 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|
+| [用代码构建的浏览器版辐射游戏](https://x.com/chrisfirst/status/2104644598626934858) | [@chrisfirst](https://x.com/chrisfirst) | 2:51 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104644598626934858) |
 | [AI打造的老式MMORPG游戏](https://x.com/Stefan_3D_AI/status/2103778468660162615) | [@Stefan_3D_AI](https://x.com/Stefan_3D_AI) | 1:17 | — |
 | [浏览器游戏世界（第三版迭代）](https://x.com/xikhar/status/2104001664793600012) | [@xikhar](https://x.com/xikhar) | 2:21 | — |
+| [塞尔达风格画笔冒险游戏](https://x.com/DannyLimanseta/status/2104215873120764032) | [@DannyLimanseta](https://x.com/DannyLimanseta) | 1:44 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104215873120764032) |
 | [飞机模拟器游戏](https://x.com/karankendre/status/2103821040174698674) | [@karankendre](https://x.com/karankendre) | 0:32 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103821040174698674) |
+| [逆向工程重制的泰拉瑞亚及新功能](https://x.com/rehan_shei/status/2104662849624981571) | [@rehan_shei](https://x.com/rehan_shei) | 0:31 | — |
 | [仿splatoon风格网页游戏](https://x.com/JaydenDavisNC/status/2103357848961036304) | [@JaydenDavisNC](https://x.com/JaydenDavisNC) | 2:28 | — |
 | [电车难题游戏](https://x.com/soyukke_game/status/2102641525071155565) | [@soyukke_game](https://x.com/soyukke_game) | 0:28 | — |
 | [3D射击小游戏](https://x.com/karankendre/status/2103456630679773669) | [@karankendre](https://x.com/karankendre) | 0:22 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103456630679773669) |
@@ -18,8 +21,10 @@
 | [一句提示词做出的斯普拉遁风格游戏](https://x.com/JaydenDavisNC/status/2102828630615421223) | [@JaydenDavisNC](https://x.com/JaydenDavisNC) | 0:59 | — |
 | [一次生成的元宇宙风格游戏演示](https://x.com/siamakfr/status/2103971690057437648) | [@siamakfr](https://x.com/siamakfr) | 0:10 | — |
 | [Roblox动漫格斗游戏](https://x.com/WoahWurdz/status/2102487879809126834) | [@WoahWurdz](https://x.com/WoahWurdz) | 2:13 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102487879809126834) |
+| [无缝多星球太空探索游戏](https://x.com/Rubzem/status/2104253584737230926) | [@Rubzem](https://x.com/Rubzem) | 4:30 | — |
 | [安提基特拉机械装置主题游戏](https://x.com/edwinarbus/status/2102463453176979794) | [@edwinarbus](https://x.com/edwinarbus) | 1:00 | — |
 | [一次生成的马里奥赛车风格游戏](https://x.com/bridgemindai/status/2102451997395866021) | [@bridgemindai](https://x.com/bridgemindai) | 0:52 | — |
+| [浏览器版火箭联盟克隆游戏](https://x.com/BlendiByl/status/2104800823620632641) | [@BlendiByl](https://x.com/BlendiByl) | 0:39 | — |
 | [电车难题游戏](https://x.com/soyukke_game/status/2102899404336493045) | [@soyukke_game](https://x.com/soyukke_game) | 0:19 | — |
 | [《铁甲飞龙》重制演示](https://x.com/yasei_no_otoko/status/2103868553242058933) | [@yasei_no_otoko](https://x.com/yasei_no_otoko) | 2:47 | — |
 | [浏览器版黑暗之魂风格游戏](https://x.com/BlendiByl/status/2103664212715454476) | [@BlendiByl](https://x.com/BlendiByl) | 0:41 | — |
@@ -39,10 +44,12 @@
 | [纯代码制作的养蜂游戏](https://x.com/oguzthedev/status/2102476490344730950) | [@oguzthedev](https://x.com/oguzthedev) | 0:34 | — |
 | [浏览器篮球游戏演示](https://x.com/genex_games/status/2102695292113981770) | [@genex_games](https://x.com/genex_games) | 0:29 | — |
 | [浏览器版我的世界克隆](https://x.com/buildwithsid/status/2102461886247948571) | [@buildwithsid](https://x.com/buildwithsid) | 1:10 | — |
+| [简单网页游戏](https://x.com/sonia_code/status/2104768377356988782) | [@sonia_code](https://x.com/sonia_code) | 0:15 | — |
 | [小型钓鱼游戏原型](https://x.com/ForkedPush/status/2103911086541951003) | [@ForkedPush](https://x.com/ForkedPush) | 1:41 | — |
 | [游戏结算与抽卡动画](https://x.com/op7418/status/2104085484347818226) | [@op7418](https://x.com/op7418) | 0:18 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104085484347818226) |
 | [鱼叉捕鱼网页小游戏](https://x.com/nachat_dayo/status/2102773498037023140) | [@nachat_dayo](https://x.com/nachat_dayo) | 1:31 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102773498037023140) |
 | [定制丧尸地图移植到PS4](https://x.com/luckeyfaraday/status/2102921580120625251) | [@luckeyfaraday](https://x.com/luckeyfaraday) | 2:27 | — |
+| [第三人称跨游戏英雄MOBA](https://x.com/Izkimar/status/2104675408222536122) | [@Izkimar](https://x.com/Izkimar) | 1:40 | — |
 | [一键生成游戏演示](https://x.com/inlovewithgo/status/2102502712621531543) | [@inlovewithgo](https://x.com/inlovewithgo) | 0:17 | — |
 | [Opus 5.5生成带完整经济系统的游戏](https://x.com/theo/status/2102877145399975952) | [@theo](https://x.com/theo) | 1:16 | — |
 | [用Opus打造的Three.js游戏](https://x.com/xikhar/status/2102588571442188577) | [@xikhar](https://x.com/xikhar) | 3:07 | — |

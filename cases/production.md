@@ -1,19 +1,24 @@
 # Music, editing & production
 
-76 works, 13 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+81 works, 14 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Creator | Length | Prompt |
 |---|---|---|---|
 | [Remake of the 'Claude Pop' music video](https://x.com/donaldjewkes/status/2102801274173587569) | [@donaldjewkes](https://x.com/donaldjewkes) | 2:22 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102801274173587569) |
+| [Animated Launch Video](https://x.com/higgsfield/status/2104573404552819196) | [@higgsfield](https://x.com/higgsfield) | 1:10 | — |
 | [Bach-style fugue composition](https://x.com/aug5thmusic/status/2102758849619062796) | [@aug5thmusic](https://x.com/aug5thmusic) | 2:10 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102758849619062796) |
 | [Song made with Synthesizer V and Opus](https://x.com/qibiz_me/status/2102594977264234578) | [@qibiz_me](https://x.com/qibiz_me) | 2:23 | — |
 | [Self-built video editor animates its own edit](https://x.com/NFT_Chen/status/2102681172367323300) | [@NFT_Chen](https://x.com/NFT_Chen) | 0:30 | — |
 | [AE motion-tracked typography test via dance video](https://x.com/aicreataro/status/2103757144789221819) | [@aicreataro](https://x.com/aicreataro) | 0:32 | — |
+| [Autonomous 3D printer bed-clearing solution](https://x.com/mattshumer_/status/2104777202684301750) | [@mattshumer_](https://x.com/mattshumer_) | 0:25 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104777202684301750) |
 | [Re-edited Instagram launch video](https://x.com/joshaeeee/status/2103386096411553888) | [@joshaeeee](https://x.com/joshaeeee) | 0:25 | — |
+| [Open Edit: turning videos into editable projects](https://x.com/sab8a/status/2104627757766578399) | [@sab8a](https://x.com/sab8a) | 1:00 | — |
 | [Code-generated pop punk music video](https://x.com/aj_dev_smith/status/2102575577563570450) | [@aj_dev_smith](https://x.com/aj_dev_smith) | 2:30 | — |
+| [Fully code-based video and audio production](https://x.com/__gsk__/status/2104832372164444162) | [@__gsk__](https://x.com/__gsk__) | 0:30 | — |
 | [One-shot launch video soundtrack](https://x.com/maria_rcks/status/2103363131896635699) | [@maria_rcks](https://x.com/maria_rcks) | 1:16 | — |
 | [Code-generated video demo](https://x.com/VincentWei93/status/2103381720410333314) | [@VincentWei93](https://x.com/VincentWei93) | 3:44 | — |
 | [Auto-edited music video from footage](https://x.com/ochyai/status/2103643040326008894) | [@ochyai](https://x.com/ochyai) | 1:55 | — |
+| [TTS comparison explainer video production](https://x.com/nakazakifam/status/2104803180877906110) | [@nakazakifam](https://x.com/nakazakifam) | 5:12 | — |
 | [Endless generative lofi music site](https://x.com/SafaElmali/status/2103581911016685882) | [@SafaElmali](https://x.com/SafaElmali) | 0:12 | — |
 | [iPhone footage auto-edited into finished video](https://x.com/shupeiman/status/2102686671422840985) | [@shupeiman](https://x.com/shupeiman) | 4:01 | — |
 | [Auto-generated pull request demo video](https://x.com/theo/status/2103245685688771044) | [@theo](https://x.com/theo) | 0:11 | — |

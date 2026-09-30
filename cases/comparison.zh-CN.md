@@ -1,6 +1,6 @@
 # 模型对比
 
-共 105 个作品，其中 26 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 113 个作品，其中 30 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|
@@ -8,6 +8,8 @@
 | [Grok与Opus摸草模拟器成本对比](https://x.com/coldopn/status/2102474335172640989) | [@coldopn](https://x.com/coldopn) | 0:22 | — |
 | [Opus5.5对比GPT-6 Sol虚幻引擎游戏开发](https://x.com/higgsfield_ai/status/2102533401110802552) | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:44 | — |
 | [Opus 5.5 与 GPT-6 Astra Blender 3D 对比测试](https://x.com/Stefan_3D_AI/status/2102471841046786153) | [@Stefan_3D_AI](https://x.com/Stefan_3D_AI) | 0:46 | — |
+| [3D打印承重桥梁](https://x.com/rpnickson/status/2104234974350111108) | [@rpnickson](https://x.com/rpnickson) | 1:19 | — |
+| [闪粉贴纸效果对比](https://x.com/ann_nnng/status/2104159923886244176) | [@ann_nnng](https://x.com/ann_nnng) | 0:13 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104159923886244176) |
 | [绘画任务的模型对比测试](https://x.com/thermalpastor/status/2103842737032458567) | [@thermalpastor](https://x.com/thermalpastor) | 0:15 | — |
 | [Opus 5.5对比GPT-6 Sol](https://x.com/mehulmpt/status/2102470633846341990) | [@mehulmpt](https://x.com/mehulmpt) | 1:03 | — |
 | [果冻糖果模拟对比](https://x.com/vib3coded/status/2103741107225907467) | [@vib3coded](https://x.com/vib3coded) | 0:18 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103741107225907467) |
@@ -21,6 +23,8 @@
 | [蚂蚁大战园丁3D游戏对比](https://x.com/higgsfield_ai/status/2102898409028161644) | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:13 | — |
 | [Opus与Astra重现发布视频成本对比](https://x.com/trymirage/status/2102502794003677373) | [@trymirage](https://x.com/trymirage) | 0:32 | — |
 | [加密钱包 Nova 的开屏欢迎动效](https://x.com/vvarrdi/status/2102681647720395115) | [@vvarrdi](https://x.com/vvarrdi) | 0:07 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102681647720395115) |
+| [单文件网站生成对比](https://x.com/filicroval/status/2104681499798938034) | [@filicroval](https://x.com/filicroval) | 1:02 | — |
+| [埃隆·马斯克肖像绘画对比](https://x.com/EvoLinkAi/status/2104405255329132694) | [@EvoLinkAi](https://x.com/EvoLinkAi) | 0:15 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104405255329132694) |
 | [发布视频模型对比](https://x.com/israelfemiojo/status/2102642002613481939) | [@israelfemiojo](https://x.com/israelfemiojo) | 0:40 | — |
 | [AI场景细节对比](https://x.com/scheemunai/status/2102515382556954935) | [@scheemunai](https://x.com/scheemunai) | 1:11 | — |
 | [水上飞机物理模拟：Gemini对比Opus](https://x.com/AI_Screening/status/2103730716853117183) | [@AI_Screening](https://x.com/AI_Screening) | 0:36 | — |
@@ -31,17 +35,21 @@
 | [Astra与Opus同一3D任务对比](https://x.com/AdityaJhajhar12/status/2103487909131391180) | [@AdityaJhajhar12](https://x.com/AdityaJhajhar12) | 0:11 | — |
 | [希腊陶瓶上的特洛伊木马 20 秒动画](https://x.com/arena/status/2102854430454669767) | [@arena](https://x.com/arena) | 0:22 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102854430454669767) |
 | [心灵感应测试：Opus5.5对比GPT-6 Astra](https://x.com/v16v_vlad/status/2103173135944024193) | [@v16v_vlad](https://x.com/v16v_vlad) | 0:42 | — |
+| [软糖章鱼物理效果对比](https://x.com/vib3coded/status/2104466170275324190) | [@vib3coded](https://x.com/vib3coded) | 0:18 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104466170275324190) |
 | [模型成本对比演示](https://x.com/bridgemindai/status/2103477810295697865) | [@bridgemindai](https://x.com/bridgemindai) | 0:10 | — |
 | [USB温度传感器电路板设计对比](https://x.com/VectorCrossProd/status/2102948414824812739) | [@VectorCrossProd](https://x.com/VectorCrossProd) | 0:10 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102948414824812739) |
 | [像素猎豹Opus与Astra对比](https://x.com/HarshithLucky3/status/2103120423005425972) | [@HarshithLucky3](https://x.com/HarshithLucky3) | 0:12 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103120423005425972) |
 | [蒙古征服数据可视化对比](https://x.com/YanqingCheng/status/2102566466121797767) | [@YanqingCheng](https://x.com/YanqingCheng) | 0:27 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102566466121797767) |
+| [画图软件绘制的马斯克肖像](https://x.com/EvoLinkAi/status/2104617133820850379) | [@EvoLinkAi](https://x.com/EvoLinkAi) | 0:15 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104617133820850379) |
 | [夜间列车建造：四模型对比](https://x.com/EnvolDev/status/2103282586055213355) | [@EnvolDev](https://x.com/EnvolDev) | 0:25 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103282586055213355) |
 | [Opus 5.5 与 GPT-6 Astra 虚幻引擎游戏对比](https://x.com/higgsfield_ai/status/2102552885531926914) | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:12 | — |
 | [3D火箭发射场景多模型对比](https://x.com/bridgebench/status/2102476831031017581) | [@bridgebench](https://x.com/bridgebench) | 0:10 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102476831031017581) |
 | [火山岛3D场景版本对比](https://x.com/vib3coded/status/2102450239923720440) | [@vib3coded](https://x.com/vib3coded) | 0:20 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102450239923720440) |
 | [真人与 Opus 5.5 对比视频](https://x.com/Papaocus/status/2103188829004050700) | [@Papaocus](https://x.com/Papaocus) | 0:48 | — |
 | [游戏构建模型对比](https://x.com/quadcode_ai/status/2103493431238570124) | [@quadcode_ai](https://x.com/quadcode_ai) | 0:25 | — |
+| [果冻物理效果对比](https://x.com/MatoToushi/status/2104819480664936749) | [@MatoToushi](https://x.com/MatoToushi) | 0:31 | — |
 | [不同模型的着色器对比测试](https://x.com/emollick/status/2102441628661080384) | [@emollick](https://x.com/emollick) | 0:10 | — |
+| [多款AI模型设计3D打印桥梁对比](https://x.com/ilkergirit/status/2104624142754398714) | [@ilkergirit](https://x.com/ilkergirit) | 1:19 | — |
 | [电脑操作画图测试：Opus5.5对比GPT-6 Sol](https://x.com/superalesha/status/2103209293919223872) | [@superalesha](https://x.com/superalesha) | 0:45 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103209293919223872) |
 | [3D鹈鹕骑车测试：Opus5.5对比GPT-6 Sol（Blender）](https://x.com/akshdeeps_001/status/2103105995606282719) | [@akshdeeps_001](https://x.com/akshdeeps_001) | 0:10 | — |
 | [笔记本手绘草图动画化对比](https://x.com/higgsfield_ai/status/2102838124288283008) | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:18 | — |

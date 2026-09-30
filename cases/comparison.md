@@ -1,6 +1,6 @@
 # Model comparisons
 
-105 works, 26 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+113 works, 30 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Creator | Length | Prompt |
 |---|---|---|---|
@@ -8,6 +8,8 @@
 | [Grok vs Opus grass-touching simulator cost test](https://x.com/coldopn/status/2102474335172640989) | [@coldopn](https://x.com/coldopn) | 0:22 | — |
 | [Opus 5.5 vs GPT-6 Sol Unreal game dev](https://x.com/higgsfield_ai/status/2102533401110802552) | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:44 | — |
 | [Opus 5.5 vs GPT-6 Astra Blender 3D test](https://x.com/Stefan_3D_AI/status/2102471841046786153) | [@Stefan_3D_AI](https://x.com/Stefan_3D_AI) | 0:46 | — |
+| [3D-printed load-bearing bridge](https://x.com/rpnickson/status/2104234974350111108) | [@rpnickson](https://x.com/rpnickson) | 1:19 | — |
+| [Glitter sticker effect comparison](https://x.com/ann_nnng/status/2104159923886244176) | [@ann_nnng](https://x.com/ann_nnng) | 0:13 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104159923886244176) |
 | [Drawing task speed and quality comparison](https://x.com/thermalpastor/status/2103842737032458567) | [@thermalpastor](https://x.com/thermalpastor) | 0:15 | — |
 | [Opus 5.5 versus GPT-6 Sol comparison](https://x.com/mehulmpt/status/2102470633846341990) | [@mehulmpt](https://x.com/mehulmpt) | 1:03 | — |
 | [Jelly candy simulation comparison](https://x.com/vib3coded/status/2103741107225907467) | [@vib3coded](https://x.com/vib3coded) | 0:18 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103741107225907467) |
@@ -21,6 +23,8 @@
 | [Ant vs gardener 3D game comparison](https://x.com/higgsfield_ai/status/2102898409028161644) | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:13 | — |
 | [Opus vs Astra cost comparison recreating launch video](https://x.com/trymirage/status/2102502794003677373) | [@trymirage](https://x.com/trymirage) | 0:32 | — |
 | [Animated welcome screen for the Nova crypto wallet](https://x.com/vvarrdi/status/2102681647720395115) | [@vvarrdi](https://x.com/vvarrdi) | 0:07 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102681647720395115) |
+| [Single-File Website Comparison](https://x.com/filicroval/status/2104681499798938034) | [@filicroval](https://x.com/filicroval) | 1:02 | — |
+| [Elon Musk portrait drawing comparison](https://x.com/EvoLinkAi/status/2104405255329132694) | [@EvoLinkAi](https://x.com/EvoLinkAi) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104405255329132694) |
 | [Launch video model comparison](https://x.com/israelfemiojo/status/2102642002613481939) | [@israelfemiojo](https://x.com/israelfemiojo) | 0:40 | — |
 | [Side-by-side AI scene detail comparison](https://x.com/scheemunai/status/2102515382556954935) | [@scheemunai](https://x.com/scheemunai) | 1:11 | — |
 | [Floatplane physics: Gemini vs Opus](https://x.com/AI_Screening/status/2103730716853117183) | [@AI_Screening](https://x.com/AI_Screening) | 0:36 | — |
@@ -31,17 +35,21 @@
 | [Astra vs Opus same 3D task comparison](https://x.com/AdityaJhajhar12/status/2103487909131391180) | [@AdityaJhajhar12](https://x.com/AdityaJhajhar12) | 0:11 | — |
 | [Trojan Horse story painted around a Greek vase](https://x.com/arena/status/2102854430454669767) | [@arena](https://x.com/arena) | 0:22 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102854430454669767) |
 | [Telepathy test: Opus 5.5 vs GPT-6 Astra](https://x.com/v16v_vlad/status/2103173135944024193) | [@v16v_vlad](https://x.com/v16v_vlad) | 0:42 | — |
+| [Gummy octopus physics comparison](https://x.com/vib3coded/status/2104466170275324190) | [@vib3coded](https://x.com/vib3coded) | 0:18 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104466170275324190) |
 | [Model cost comparison demo](https://x.com/bridgemindai/status/2103477810295697865) | [@bridgemindai](https://x.com/bridgemindai) | 0:10 | — |
 | [USB temperature sensor PCB design comparison](https://x.com/VectorCrossProd/status/2102948414824812739) | [@VectorCrossProd](https://x.com/VectorCrossProd) | 0:10 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102948414824812739) |
 | [Pixel art cheetah comparison Opus vs Astra](https://x.com/HarshithLucky3/status/2103120423005425972) | [@HarshithLucky3](https://x.com/HarshithLucky3) | 0:12 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103120423005425972) |
 | [Mongol conquest data visualization comparison](https://x.com/YanqingCheng/status/2102566466121797767) | [@YanqingCheng](https://x.com/YanqingCheng) | 0:27 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102566466121797767) |
+| [Elon Musk Paintbrush portrait](https://x.com/EvoLinkAi/status/2104617133820850379) | [@EvoLinkAi](https://x.com/EvoLinkAi) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104617133820850379) |
 | [Night train build: four-model comparison](https://x.com/EnvolDev/status/2103282586055213355) | [@EnvolDev](https://x.com/EnvolDev) | 0:25 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103282586055213355) |
 | [Opus 5.5 vs GPT-6 Astra Unreal Engine game build](https://x.com/higgsfield_ai/status/2102552885531926914) | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:12 | — |
 | [3D rocket launch scene model comparison](https://x.com/bridgebench/status/2102476831031017581) | [@bridgebench](https://x.com/bridgebench) | 0:10 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102476831031017581) |
 | [Volcanic island 3D scene version comparison](https://x.com/vib3coded/status/2102450239923720440) | [@vib3coded](https://x.com/vib3coded) | 0:20 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102450239923720440) |
 | [Human vs Opus 5.5 side-by-side comparison](https://x.com/Papaocus/status/2103188829004050700) | [@Papaocus](https://x.com/Papaocus) | 0:48 | — |
 | [Game build comparison](https://x.com/quadcode_ai/status/2103493431238570124) | [@quadcode_ai](https://x.com/quadcode_ai) | 0:25 | — |
+| [Jiggly slime physics comparison](https://x.com/MatoToushi/status/2104819480664936749) | [@MatoToushi](https://x.com/MatoToushi) | 0:31 | — |
 | [Shader benchmark comparison across models](https://x.com/emollick/status/2102441628661080384) | [@emollick](https://x.com/emollick) | 0:10 | — |
+| [AI models design a 3D-printed bridge](https://x.com/ilkergirit/status/2104624142754398714) | [@ilkergirit](https://x.com/ilkergirit) | 1:19 | — |
 | [Paint drawing test: Opus 5.5 vs GPT-6 Sol via computer use](https://x.com/superalesha/status/2103209293919223872) | [@superalesha](https://x.com/superalesha) | 0:45 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103209293919223872) |
 | [3D pelican riding bike test: Opus 5.5 vs GPT-6 Sol in Blender](https://x.com/akshdeeps_001/status/2103105995606282719) | [@akshdeeps_001](https://x.com/akshdeeps_001) | 0:10 | — |
 | [Notebook sketch animated, model comparison](https://x.com/higgsfield_ai/status/2102838124288283008) | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:18 | — |

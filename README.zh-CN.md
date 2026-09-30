@@ -2,7 +2,7 @@
 
 [English](README.md) | 简体中文
 
-X 上用 Claude Opus 5.5 做出来的视频、动效、3D 场景和游戏，原帖播放量都过 5,000。共 **986 个作品**，其中 **259 个附提示词**（96 条完整提示词）。
+X 上用 Claude Opus 5.5 做出来的视频、动效、3D 场景和游戏，原帖播放量都过 5,000。共 **1031 个作品**，其中 **272 个附提示词**（101 条完整提示词）。
 
 **[在线浏览，可直接播放和复制提示词 →](https://jasonzhu.ai/zh/prompts/claude-opus-5-5)**
 
@@ -15,9 +15,9 @@ X 上用 Claude Opus 5.5 做出来的视频、动效、3D 场景和游戏，原�
   </tr>
   <tr>
     <td width="25%" align="center"><a href="https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103698854399099057"><img src="https://pbs.twimg.com/amplify_video_thumb/2103697667910168576/img/cqLRqTw7vVpTectN.jpg" width="200" alt="AI自我介绍歌曲与视频"></a><br><sub>AI自我介绍歌曲与视频</sub></td>
+    <td width="25%" align="center"><a href="https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104285370951012504"><img src="https://pbs.twimg.com/amplify_video_thumb/2104285268907859968/img/J8ePMThjFdD0EuEa.jpg" width="200" alt="果冻西瓜切片模拟"></a><br><sub>果冻西瓜切片模拟</sub></td>
     <td width="25%" align="center"><a href="https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102470200415166699"><img src="https://pbs.twimg.com/amplify_video_thumb/2102469320001404928/img/Ia2Kpwxmz6rwLE1r.jpg" width="200" alt="浏览器版我的世界克隆"></a><br><sub>浏览器版我的世界克隆</sub></td>
     <td width="25%" align="center"><a href="https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102760783344189761"><img src="https://pbs.twimg.com/amplify_video_thumb/2102760366745010177/img/8_z3VSBLv9sfV3C8.jpg" width="200" alt="日式风景中的可玩船只场景"></a><br><sub>日式风景中的可玩船只场景</sub></td>
-    <td width="25%" align="center"><a href="https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102487879809126834"><img src="https://pbs.twimg.com/amplify_video_thumb/2102487713282686976/img/zdQTFvcXlXdqN7qP.jpg" width="200" alt="Roblox动漫格斗游戏"></a><br><sub>Roblox动漫格斗游戏</sub></td>
   </tr>
 </table>
 
@@ -25,14 +25,14 @@ X 上用 Claude Opus 5.5 做出来的视频、动效、3D 场景和游戏，原�
 
 ## 收录标准
 
-- 创作者本人的原帖，帖子自带视频，原帖播放量不低于 5,000（快照时间 2026-09-29）。
+- 创作者本人的原帖，帖子自带视频，原帖播放量不低于 5,000（快照时间 2026-09-30）。
 - 帖子明确说作品是用 Claude Opus 5.5 做的。**模型归属以作者自述为准，没有逐条复现。**
 - 提示词只收有出处的：主帖正文、作者本人的回复、作者回复里的截图、作者给出的链接。提示词一律原文照录，不改写、不翻译。
 - 有视频但找不到指令来源的作品照常收录，提示词一栏留空。
 
 ## 动效设计
 
-177 个作品 · [完整清单](cases/motion.zh-CN.md)
+182 个作品 · [完整清单](cases/motion.zh-CN.md)
 
 | 作品 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|
@@ -43,26 +43,26 @@ X 上用 Claude Opus 5.5 做出来的视频、动效、3D 场景和游戏，原�
 | [xhigh 档位生成的动效自荐片](https://x.com/kenn/status/2103337314021937232) | [@kenn](https://x.com/kenn) | 0:15 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103337314021937232) |
 | [高能动效设计展示片](https://x.com/crvdesign0/status/2103817034618339682) | [@crvdesign0](https://x.com/crvdesign0) | 0:15 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103817034618339682) |
 | [像素风巫师施法动画](https://x.com/majidmanzarpour/status/2102476258948927543) | [@majidmanzarpour](https://x.com/majidmanzarpour) | 0:11 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102476258948927543) |
-| [土耳其语提示词生成的动效自荐片](https://x.com/leodavincs3/status/2103425994610643203) | [@leodavincs3](https://x.com/leodavincs3) | 0:15 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103425994610643203) |
+| [动态设计发布视频](https://x.com/gauravsbuilding/status/2104370091672711402) | [@gauravsbuilding](https://x.com/gauravsbuilding) | 0:15 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104370091672711402) |
 
 ## 产品广告
 
-132 个作品 · [完整清单](cases/product.zh-CN.md)
+138 个作品 · [完整清单](cases/product.zh-CN.md)
 
 | 作品 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|
 | [可实拼真人尺寸乐高鸭设计](https://x.com/victormustar/status/2103110908444631120) | [@victormustar](https://x.com/victormustar) | 0:24 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103110908444631120) |
 | [AI推理初创公司产品发布视频](https://x.com/deedydas/status/2102787937482252537) | [@deedydas](https://x.com/deedydas) | 0:26 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102787937482252537) |
+| [用逻辑门搭建的可运行电脑及操作系统](https://x.com/mattshumer_/status/2104301990985498783) | [@mattshumer_](https://x.com/mattshumer_) | 1:02 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104301990985498783) |
 | [3D健身器材搭建应用](https://x.com/wesbos/status/2102450119975277027) | [@wesbos](https://x.com/wesbos) | 0:18 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102450119975277027) |
 | [个人网站改版预告片](https://x.com/trq212/status/2102477340920152162) | [@trq212](https://x.com/trq212) | 1:35 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102477340920152162) |
+| [角色创建器滑块演示](https://x.com/magnific/status/2104587476014964879) | [@magnific](https://x.com/magnific) | 0:20 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104587476014964879) |
 | [根据营销邮件制作的动感广告视频](https://x.com/gastypm/status/2102863204472799549) | [@gastypm](https://x.com/gastypm) | 0:20 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102863204472799549) |
 | [iPhone Duo应用改版演示视频](https://x.com/anshuc/status/2103598854801084824) | [@anshuc](https://x.com/anshuc) | 1:00 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103598854801084824) |
-| [苹果发布会风格产品视频](https://x.com/twoclipping/status/2103835273813496100) | [@twoclipping](https://x.com/twoclipping) | 0:29 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103835273813496100) |
-| [一句提示词生成的SaaS发布视频](https://x.com/moritzkremb/status/2103066071838466494) | [@moritzkremb](https://x.com/moritzkremb) | 0:46 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103066071838466494) |
 
 ## 科普讲解
 
-96 个作品 · [完整清单](cases/education.zh-CN.md)
+101 个作品 · [完整清单](cases/education.zh-CN.md)
 
 | 作品 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|
@@ -77,7 +77,7 @@ X 上用 Claude Opus 5.5 做出来的视频、动效、3D 场景和游戏，原�
 
 ## 角色故事
 
-105 个作品 · [完整清单](cases/stories.zh-CN.md)
+106 个作品 · [完整清单](cases/stories.zh-CN.md)
 
 | 作品 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|
@@ -92,63 +92,63 @@ X 上用 Claude Opus 5.5 做出来的视频、动效、3D 场景和游戏，原�
 
 ## 3D 场景
 
-132 个作品 · [完整清单](cases/art3d.zh-CN.md)
+140 个作品 · [完整清单](cases/art3d.zh-CN.md)
 
 | 作品 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|
+| [果冻西瓜切片模拟](https://x.com/vib3coded/status/2104285370951012504) | [@vib3coded](https://x.com/vib3coded) | 0:18 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104285370951012504) |
 | [日式风景中的可玩船只场景](https://x.com/MengTo/status/2102760783344189761) | [@MengTo](https://x.com/MengTo) | 1:00 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102760783344189761) |
 | [Three.js骑车鹈鹕演示](https://x.com/addyosmani/status/2102436416437580159) | [@addyosmani](https://x.com/addyosmani) | 1:31 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102436416437580159) |
+| [户型图转3D室内设计工具](https://x.com/akokoi1/status/2104520072014508316) | [@akokoi1](https://x.com/akokoi1) | 0:33 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104520072014508316) |
 | [可漫游的印度城市世界](https://x.com/pracosm/status/2103387804281745459) | [@pracosm](https://x.com/pracosm) | 0:54 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103387804281745459) |
+| [实时海岸模拟场景](https://x.com/hajimetwi3/status/2104381179151753464) | [@hajimetwi3](https://x.com/hajimetwi3) | 2:02 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104381179151753464) |
 | [1906年旧金山街道3D复原](https://x.com/alexalbert__/status/2102466523164274839) | [@alexalbert__](https://x.com/alexalbert__) | 0:08 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102466523164274839) |
 | [280KB 单文件 HTML 演示程序](https://x.com/JustinPerea/status/2102893186330841502) | [@JustinPerea](https://x.com/JustinPerea) | 0:43 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102893186330841502) |
-| [3D模型设计打印及机械臂取件](https://x.com/dimentary/status/2104094838035820607) | [@dimentary](https://x.com/dimentary) | 0:23 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104094838035820607) |
-| [严岛神社3D场景](https://x.com/Ayu_AI_0912/status/2103737014508216515) | [@Ayu_AI_0912](https://x.com/Ayu_AI_0912) | 0:24 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103737014508216515) |
-| [可交互的反乌托邦3D箱庭都市](https://x.com/akakuma0219/status/2103820733159981151) | [@akakuma0219](https://x.com/akakuma0219) | 0:52 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103820733159981151) |
 
 ## 游戏
 
-163 个作品 · [完整清单](cases/game.zh-CN.md)
+170 个作品 · [完整清单](cases/game.zh-CN.md)
 
 | 作品 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|
+| [用代码构建的浏览器版辐射游戏](https://x.com/chrisfirst/status/2104644598626934858) | [@chrisfirst](https://x.com/chrisfirst) | 2:51 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104644598626934858) |
+| [塞尔达风格画笔冒险游戏](https://x.com/DannyLimanseta/status/2104215873120764032) | [@DannyLimanseta](https://x.com/DannyLimanseta) | 1:44 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104215873120764032) |
 | [飞机模拟器游戏](https://x.com/karankendre/status/2103821040174698674) | [@karankendre](https://x.com/karankendre) | 0:32 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103821040174698674) |
 | [3D射击小游戏](https://x.com/karankendre/status/2103456630679773669) | [@karankendre](https://x.com/karankendre) | 0:22 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103456630679773669) |
 | [浏览器版我的世界克隆](https://x.com/noahwachnik/status/2102470200415166699) | [@noahwachnik](https://x.com/noahwachnik) | 0:23 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102470200415166699) |
 | [Roblox动漫格斗游戏](https://x.com/WoahWurdz/status/2102487879809126834) | [@WoahWurdz](https://x.com/WoahWurdz) | 2:13 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102487879809126834) |
 | [孤岛惊魂3克隆游戏（优化版）](https://x.com/maxt3chno/status/2103960867327115462) | [@maxt3chno](https://x.com/maxt3chno) | 2:08 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103960867327115462) |
 | [尝试用AI做原神级游戏](https://x.com/IHayato/status/2103043212869026013) | [@IHayato](https://x.com/IHayato) | 1:09 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103043212869026013) |
-| [用Three.js制作的孤岛惊魂3风格游戏原型](https://x.com/maxt3chno/status/2103423427939897781) | [@maxt3chno](https://x.com/maxt3chno) | 2:02 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103423427939897781) |
-| [游戏结算与抽卡动画](https://x.com/op7418/status/2104085484347818226) | [@op7418](https://x.com/op7418) | 0:18 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104085484347818226) |
 
 ## 制作流程
 
-76 个作品 · [完整清单](cases/production.zh-CN.md)
+81 个作品 · [完整清单](cases/production.zh-CN.md)
 
 | 作品 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|
 | [《Claude Pop》音乐视频重制版](https://x.com/donaldjewkes/status/2102801274173587569) | [@donaldjewkes](https://x.com/donaldjewkes) | 2:22 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102801274173587569) |
 | [巴赫风格赋格曲创作](https://x.com/aug5thmusic/status/2102758849619062796) | [@aug5thmusic](https://x.com/aug5thmusic) | 2:10 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102758849619062796) |
+| [自动清理3D打印机打印床的方案](https://x.com/mattshumer_/status/2104777202684301750) | [@mattshumer_](https://x.com/mattshumer_) | 0:25 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104777202684301750) |
 | [AI剪辑的口播视频](https://x.com/sab8a/status/2103144778481475686) | [@sab8a](https://x.com/sab8a) | 0:37 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103144778481475686) |
 | [用代码生成的低音音乐](https://x.com/aj_dev_smith/status/2102504509637587339) | [@aj_dev_smith](https://x.com/aj_dev_smith) | 2:00 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102504509637587339) |
 | [Opus5.5配合Gemini语音合成演示](https://x.com/YoheiN2023/status/2103590367518171295) | [@YoheiN2023](https://x.com/YoheiN2023) | 0:15 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103590367518171295) |
 | [真人口播转线稿动画B-roll](https://x.com/AxtonLiu/status/2102827887732932956) | [@AxtonLiu](https://x.com/AxtonLiu) | 1:24 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102827887732932956) |
 | [AI控制视频编辑软件自动化](https://x.com/FantasistaAI/status/2103117722741854377) | [@FantasistaAI](https://x.com/FantasistaAI) | 0:25 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103117722741854377) |
-| [AI创作的巴洛克风格三重奏奏鸣曲](https://x.com/aug5thmusic/status/2103549625076752493) | [@aug5thmusic](https://x.com/aug5thmusic) | 1:46 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103549625076752493) |
 
 ## 模型对比
 
-105 个作品 · [完整清单](cases/comparison.zh-CN.md)
+113 个作品 · [完整清单](cases/comparison.zh-CN.md)
 
 | 作品 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|
+| [闪粉贴纸效果对比](https://x.com/ann_nnng/status/2104159923886244176) | [@ann_nnng](https://x.com/ann_nnng) | 0:13 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104159923886244176) |
 | [果冻糖果模拟对比](https://x.com/vib3coded/status/2103741107225907467) | [@vib3coded](https://x.com/vib3coded) | 0:18 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103741107225907467) |
 | [蓝牙音箱设计模型对比](https://x.com/seveibar/status/2102465517403636216) | [@seveibar](https://x.com/seveibar) | 0:38 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102465517403636216) |
 | [Blender骑车鹈鹕动画对比](https://x.com/atomic_chat_hq/status/2102492834485895265) | [@atomic_chat_hq](https://x.com/atomic_chat_hq) | 0:10 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102492834485895265) |
 | [四款模型制作熔岩灯对比](https://x.com/bridgebench/status/2102770788319310302) | [@bridgebench](https://x.com/bridgebench) | 0:10 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102770788319310302) |
 | [语言模型如何把提示词变成答案：20 秒动效图解](https://x.com/TheHunterBohm/status/2102724864205566388) | [@TheHunterBohm](https://x.com/TheHunterBohm) | 0:20 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102724864205566388) |
 | [加密钱包 Nova 的开屏欢迎动效](https://x.com/vvarrdi/status/2102681647720395115) | [@vvarrdi](https://x.com/vvarrdi) | 0:07 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102681647720395115) |
-| [埃菲尔铁塔Three.js模型对比](https://x.com/Bhavani_00007/status/2102795814355763277) | [@Bhavani_00007](https://x.com/Bhavani_00007) | 0:30 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102795814355763277) |
-| [希腊陶瓶上的特洛伊木马 20 秒动画](https://x.com/arena/status/2102854430454669767) | [@arena](https://x.com/arena) | 0:22 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102854430454669767) |
+| [埃隆·马斯克肖像绘画对比](https://x.com/EvoLinkAi/status/2104405255329132694) | [@EvoLinkAi](https://x.com/EvoLinkAi) | 0:15 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104405255329132694) |
 
 ## 数据
 
