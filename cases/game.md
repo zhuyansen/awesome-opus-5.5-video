@@ -1,10 +1,11 @@
 # Games
 
-187 works, 33 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+193 works, 34 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
 | [Browser-based Fallout game built with code](https://x.com/chrisfirst/status/2104644598626934858) | Opus 5.5 | [@chrisfirst](https://x.com/chrisfirst) | 2:51 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104644598626934858) |
+| [Porting Call of Duty WaW Zombies map to the web](https://x.com/p_e_cooper/status/2104980433972703483) | Opus 5.5 | [@p_e_cooper](https://x.com/p_e_cooper) | 0:37 | — |
 | [Old-school MMO RPG built by AI](https://x.com/Stefan_3D_AI/status/2103778468660162615) | Opus 5.5 | [@Stefan_3D_AI](https://x.com/Stefan_3D_AI) | 1:17 | — |
 | [Browser game world (third iteration)](https://x.com/xikhar/status/2104001664793600012) | Opus 5.5 | [@xikhar](https://x.com/xikhar) | 2:21 | — |
 | [Zelda-style paintbrush adventure game](https://x.com/DannyLimanseta/status/2104215873120764032) | Opus 5.5 | [@DannyLimanseta](https://x.com/DannyLimanseta) | 1:44 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104215873120764032) |
@@ -47,6 +48,8 @@
 | [Browser-based basketball game demo](https://x.com/genex_games/status/2102695292113981770) | Opus 5.5 | [@genex_games](https://x.com/genex_games) | 0:29 | — |
 | [Browser-based Minecraft clone](https://x.com/buildwithsid/status/2102461886247948571) | Opus 5.5 | [@buildwithsid](https://x.com/buildwithsid) | 1:10 | — |
 | [Simple browser game](https://x.com/sonia_code/status/2104768377356988782) | Opus 5.5 | [@sonia_code](https://x.com/sonia_code) | 0:15 | — |
+| [Browser-based open-world game](https://x.com/AravSrinivas/status/2104941391272956125) | Opus 5.5 | [@AravSrinivas](https://x.com/AravSrinivas) | 1:28 | — |
+| [3D open world built solo with Opus 5.5 and Sonnet 5.5](https://x.com/maxt3chno/status/2105216139647127750) | Opus 5.5 / Sonnet 5.5 | [@maxt3chno](https://x.com/maxt3chno) | 2:41 | — |
 | [Small fishing game prototype](https://x.com/ForkedPush/status/2103911086541951003) | Opus 5.5 | [@ForkedPush](https://x.com/ForkedPush) | 1:41 | — |
 | [Game settlement and card draw animations](https://x.com/op7418/status/2104085484347818226) | Opus 5.5 | [@op7418](https://x.com/op7418) | 0:18 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104085484347818226) |
 | [Spear fishing browser game](https://x.com/nachat_dayo/status/2102773498037023140) | Opus 5.5 | [@nachat_dayo](https://x.com/nachat_dayo) | 1:31 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102773498037023140) |
@@ -98,9 +101,11 @@
 | [Procedural magic FPS game evolution](https://x.com/izumisatoshi05/status/2103438227885703299) | Opus 5.5 | [@izumisatoshi05](https://x.com/izumisatoshi05) | 1:12 | — |
 | [Cyberpunk roguelike shooter built via MCP tools](https://x.com/VORTEX_Promos/status/2103622389573505119) | Opus 5.5 | [@VORTEX_Promos](https://x.com/VORTEX_Promos) | 11:57 | — |
 | [Rocket League-style clone with cinematic](https://x.com/LLMJunky/status/2102847543042343072) | Opus 5.5 | [@LLMJunky](https://x.com/LLMJunky) | 1:07 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102847543042343072) |
+| [Arena boss fight built with Sonnet 5.5](https://x.com/quadcode_ai/status/2105011219824275831) | Sonnet 5.5 | [@quadcode_ai](https://x.com/quadcode_ai) | 0:29 | — |
 | [Worms Armageddon recreation](https://x.com/emmanuel_2m/status/2104009685271814193) | Opus 5.5 | [@emmanuel_2m](https://x.com/emmanuel_2m) | 0:46 | — |
 | [Splatoon-style game recreation](https://x.com/mahiru35628/status/2103527254085243340) | Opus 5.5 | [@mahiru35628](https://x.com/mahiru35628) | 4:02 | — |
 | [Hogwarts-themed Roblox game trailer](https://x.com/m_ferreira28/status/2103795282798428303) | Opus 5.5 | [@m_ferreira28](https://x.com/m_ferreira28) | 0:30 | — |
+| [Horse-racing character game built with Opus 5.5](https://x.com/AbaneChan/status/2104926657425678643) | Opus 5.5 | [@AbaneChan](https://x.com/AbaneChan) | 1:58 | — |
 | [Construction battle game prototype](https://x.com/asobodesign/status/2102552980818182512) | Opus 5.5 | [@asobodesign](https://x.com/asobodesign) | 1:14 | — |
 | [Minecraft-Style Browser Game](https://x.com/oviniciuslana/status/2103086714772463953) | Opus 5.5 | [@oviniciuslana](https://x.com/oviniciuslana) | 1:05 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103086714772463953) |
 | [Willowmere procedural game engine](https://x.com/jurlycat/status/2104002281641542008) | Opus 5.5 | [@jurlycat](https://x.com/jurlycat) | 1:01 | — |
@@ -112,6 +117,7 @@
 | [Game made by Claude Opus 5.5](https://x.com/Dr_Singularity/status/2102490803503264062) | Opus 5.5 | [@Dr_Singularity](https://x.com/Dr_Singularity) | 2:11 | — |
 | [Pod racer game with graphics and sound](https://x.com/Aurelien_Gz/status/2103195122422755563) | Opus 5.5 | [@Aurelien_Gz](https://x.com/Aurelien_Gz) | 0:33 | — |
 | [Fox game motion showcase upgrade](https://x.com/AmirAnonn/status/2103410995272020375) | Opus 5.5 | [@AmirAnonn](https://x.com/AmirAnonn) | 0:20 | — |
+| [Playable JS guitar made with Opus 5.5](https://x.com/notargs/status/2104952295335370855) | Opus 5.5 | [@notargs](https://x.com/notargs) | 0:57 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104952295335370855) |
 | [AI city news photography game](https://x.com/vamonke/status/2103176132585717823) | Opus 5.5 | [@vamonke](https://x.com/vamonke) | 0:34 | — |
 | [2D pixel game with an AI-generated demo video](https://x.com/rehan_shei/status/2103755997533839416) | Opus 5.5 | [@rehan_shei](https://x.com/rehan_shei) | 0:30 | — |
 | [3D kart racing game with real-world tracks](https://x.com/KenLin1985/status/2103866807954399530) | Opus 5.5 | [@KenLin1985](https://x.com/KenLin1985) | 2:57 | — |

@@ -2,7 +2,7 @@
 
 [English](README.md) | 简体中文
 
-X 上用 Claude Opus 5.5 和 Sonnet 5.5 做出来的视频、动效、3D 场景和游戏，原帖播放量都过 5,000。共 **1088 个作品**（Opus 5.5 1051 个 · Sonnet 5.5 42 个，对比帖两边都计），其中 **282 个附提示词**（107 条完整提示词）。
+X 上用 Claude Opus 5.5 和 Sonnet 5.5 做出来的视频、动效、3D 场景和游戏，原帖播放量都过 5,000。共 **1138 个作品**（Opus 5.5 1089 个 · Sonnet 5.5 61 个，对比帖两边都计），其中 **292 个附提示词**（111 条完整提示词）。
 
 **[在线浏览，可直接播放和复制提示词 →](https://jasonzhu.ai/zh/prompts/claude-opus-5-5)**
 
@@ -25,7 +25,7 @@ X 上用 Claude Opus 5.5 和 Sonnet 5.5 做出来的视频、动效、3D 场景�
 
 ## 收录标准
 
-- 创作者本人的原帖，帖子自带视频，原帖播放量不低于 5,000（快照时间 2026-09-30）。
+- 创作者本人的原帖，帖子自带视频，原帖播放量不低于 5,000（快照时间 2026-10-02）。
 - 帖子明确说作品是用 Claude Opus 5.5 或 Sonnet 5.5 做的，「模型」一栏按作者的说法标注。**模型归属以作者自述为准，没有逐条复现。**
 - 提示词只收有出处的：主帖正文、作者本人的回复、作者回复里的截图、作者给出的链接。提示词一律原文照录，不改写、不翻译。
 - 有视频但找不到指令来源的作品照常收录，提示词一栏留空。
@@ -47,7 +47,7 @@ X 上用 Claude Opus 5.5 和 Sonnet 5.5 做出来的视频、动效、3D 场景�
 
 ## 产品广告
 
-143 个作品 · [完整清单](cases/product.zh-CN.md)
+151 个作品 · [完整清单](cases/product.zh-CN.md)
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ X 上用 Claude Opus 5.5 和 Sonnet 5.5 做出来的视频、动效、3D 场景�
 
 ## 科普讲解
 
-104 个作品 · [完整清单](cases/education.zh-CN.md)
+110 个作品 · [完整清单](cases/education.zh-CN.md)
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ X 上用 Claude Opus 5.5 和 Sonnet 5.5 做出来的视频、动效、3D 场景�
 
 ## 角色故事
 
-110 个作品 · [完整清单](cases/stories.zh-CN.md)
+116 个作品 · [完整清单](cases/stories.zh-CN.md)
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -92,22 +92,22 @@ X 上用 Claude Opus 5.5 和 Sonnet 5.5 做出来的视频、动效、3D 场景�
 
 ## 3D 场景
 
-150 个作品 · [完整清单](cases/art3d.zh-CN.md)
+153 个作品 · [完整清单](cases/art3d.zh-CN.md)
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
 | [果冻西瓜切片模拟](https://x.com/vib3coded/status/2104285370951012504) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:18 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104285370951012504) |
 | [日式风景中的可玩船只场景](https://x.com/MengTo/status/2102760783344189761) | Opus 5.5 | [@MengTo](https://x.com/MengTo) | 1:00 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102760783344189761) |
 | [Three.js骑车鹈鹕演示](https://x.com/addyosmani/status/2102436416437580159) | Opus 5.5 | [@addyosmani](https://x.com/addyosmani) | 1:31 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102436416437580159) |
+| [橡皮筋压爆西瓜模拟](https://x.com/vib3coded/status/2104928244382277727) | Sonnet 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:17 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104928244382277727) |
 | [户型图转3D室内设计工具](https://x.com/akokoi1/status/2104520072014508316) | Opus 5.5 | [@akokoi1](https://x.com/akokoi1) | 0:33 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104520072014508316) |
 | [可漫游的印度城市世界](https://x.com/pracosm/status/2103387804281745459) | Opus 5.5 | [@pracosm](https://x.com/pracosm) | 0:54 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103387804281745459) |
 | [实时海岸模拟场景](https://x.com/hajimetwi3/status/2104381179151753464) | Opus 5.5 | [@hajimetwi3](https://x.com/hajimetwi3) | 2:02 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104381179151753464) |
 | [1906年旧金山街道3D复原](https://x.com/alexalbert__/status/2102466523164274839) | Opus 5.5 | [@alexalbert__](https://x.com/alexalbert__) | 0:08 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102466523164274839) |
-| [280KB 单文件 HTML 演示程序](https://x.com/JustinPerea/status/2102893186330841502) | Opus 5.5 | [@JustinPerea](https://x.com/JustinPerea) | 0:43 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102893186330841502) |
 
 ## 游戏
 
-187 个作品 · [完整清单](cases/game.zh-CN.md)
+193 个作品 · [完整清单](cases/game.zh-CN.md)
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -122,7 +122,7 @@ X 上用 Claude Opus 5.5 和 Sonnet 5.5 做出来的视频、动效、3D 场景�
 
 ## 制作流程
 
-82 个作品 · [完整清单](cases/production.zh-CN.md)
+85 个作品 · [完整清单](cases/production.zh-CN.md)
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -137,18 +137,18 @@ X 上用 Claude Opus 5.5 和 Sonnet 5.5 做出来的视频、动效、3D 场景�
 
 ## 模型对比
 
-124 个作品 · [完整清单](cases/comparison.zh-CN.md)
+142 个作品 · [完整清单](cases/comparison.zh-CN.md)
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
+| [AI自画像挑战：Sonnet5.5对比GPT-6 Astra](https://x.com/siyabuilt/status/2104924603126603893) | Sonnet 5.5 | [@siyabuilt](https://x.com/siyabuilt) | 0:42 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104924603126603893) |
 | [闪粉贴纸效果对比](https://x.com/ann_nnng/status/2104159923886244176) | Opus 5.5 | [@ann_nnng](https://x.com/ann_nnng) | 0:13 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104159923886244176) |
+| [橡皮筋西瓜测试：Opus5.5对比GPT-6 Astra](https://x.com/vib3coded/status/2104994617573970308) | Opus 5.5 / Sonnet 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:18 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104994617573970308) |
 | [果冻糖果模拟对比](https://x.com/vib3coded/status/2103741107225907467) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:18 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103741107225907467) |
 | [蓝牙音箱设计模型对比](https://x.com/seveibar/status/2102465517403636216) | Opus 5.5 | [@seveibar](https://x.com/seveibar) | 0:38 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102465517403636216) |
 | [Blender骑车鹈鹕动画对比](https://x.com/atomic_chat_hq/status/2102492834485895265) | Opus 5.5 | [@atomic_chat_hq](https://x.com/atomic_chat_hq) | 0:10 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102492834485895265) |
 | [四款模型制作熔岩灯对比](https://x.com/bridgebench/status/2102770788319310302) | Opus 5.5 | [@bridgebench](https://x.com/bridgebench) | 0:10 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102770788319310302) |
 | [语言模型如何把提示词变成答案：20 秒动效图解](https://x.com/TheHunterBohm/status/2102724864205566388) | Opus 5.5 | [@TheHunterBohm](https://x.com/TheHunterBohm) | 0:20 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102724864205566388) |
-| [加密钱包 Nova 的开屏欢迎动效](https://x.com/vvarrdi/status/2102681647720395115) | Opus 5.5 | [@vvarrdi](https://x.com/vvarrdi) | 0:07 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102681647720395115) |
-| [埃隆·马斯克肖像绘画对比](https://x.com/EvoLinkAi/status/2104405255329132694) | Opus 5.5 | [@EvoLinkAi](https://x.com/EvoLinkAi) | 0:15 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104405255329132694) |
 
 ## 数据
 

@@ -1,6 +1,6 @@
 # 3D worlds & simulations
 
-150 works, 36 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+153 works, 37 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Playable boat scene through Japanese landscapes](https://x.com/MengTo/status/2102760783344189761) | Opus 5.5 | [@MengTo](https://x.com/MengTo) | 1:00 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102760783344189761) |
 | [Dune sandworm turned into robot concept](https://x.com/DilumSanjaya/status/2104253761137127597) | Opus 5.5 | [@DilumSanjaya](https://x.com/DilumSanjaya) | 1:19 | — |
 | [Pelican riding a bike in Three.js](https://x.com/addyosmani/status/2102436416437580159) | Opus 5.5 | [@addyosmani](https://x.com/addyosmani) | 1:31 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102436416437580159) |
+| [Watermelon rubber band burst simulation](https://x.com/vib3coded/status/2104928244382277727) | Sonnet 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:17 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104928244382277727) |
 | [San Francisco recreated in Unreal Engine](https://x.com/MatthewBerman/status/2102483668468195539) | Opus 5.5 | [@MatthewBerman](https://x.com/MatthewBerman) | 0:54 | — |
 | [3D bed placement room visualization](https://x.com/scheemunai/status/2103059885361598633) | Opus 5.5 | [@scheemunai](https://x.com/scheemunai) | 1:27 | — |
 | [Realistic flowing river Three.js scene](https://x.com/hayashimon1/status/2102576886182453454) | Opus 5.5 | [@hayashimon1](https://x.com/hayashimon1) | 0:15 | — |
@@ -74,6 +75,7 @@
 | [Animated windmill built in Blender](https://x.com/higgsfield_ai/status/2102453658889953717) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:21 | — |
 | [Pixel art scene with sound](https://x.com/peekcell/status/2102796895982878850) | Opus 5.5 | [@peekcell](https://x.com/peekcell) | 0:15 | — |
 | [Playable three.js scene](https://x.com/aokocax/status/2103011071820996673) | Opus 5.5 | [@aokocax](https://x.com/aokocax) | 0:21 | — |
+| [Behind-the-scenes look at a code-drawn mosaic animation](https://x.com/dfeinition/status/2105098626213327008) | Opus 5.5 | [@dfeinition](https://x.com/dfeinition) | 1:15 | — |
 | [Low-effort impressive Opus 5.5 output clip](https://x.com/wolfie_/status/2103472862757896486) | Opus 5.5 | [@wolfie_](https://x.com/wolfie_) | 2:26 | — |
 | [Cow riding a bicycle 3D animation](https://x.com/yupi996/status/2102632124994191682) | Opus 5.5 | [@yupi996](https://x.com/yupi996) | 2:18 | — |
 | [Scenario Blender plugin demo](https://x.com/emmanuel_2m/status/2102767332116316380) | Opus 5.5 | [@emmanuel_2m](https://x.com/emmanuel_2m) | 0:16 | — |
@@ -88,6 +90,7 @@
 | [Three.js generative 3D experience](https://x.com/chetanankola/status/2103008022369099992) | Opus 5.5 | [@chetanankola](https://x.com/chetanankola) | 0:28 | — |
 | [90s-style demoscene demo in C/OpenGL](https://x.com/gandamu_ml/status/2102919394775220530) | Opus 5.5 | [@gandamu_ml](https://x.com/gandamu_ml) | 6:23 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102919394775220530) |
 | [Pixel art animation showcase](https://x.com/SpikeRiser/status/2102888874858959029) | Opus 5.5 | [@SpikeRiser](https://x.com/SpikeRiser) | 4:07 | — |
+| [Browser-built pond scene with lotus and koi](https://x.com/sonia_code/status/2105131016918577190) | Sonnet 5.5 | [@sonia_code](https://x.com/sonia_code) | 0:10 | — |
 | [3D model generated from a floor plan](https://x.com/uncle_render/status/2103080046537904576) | Opus 5.5 | [@uncle_render](https://x.com/uncle_render) | 0:52 | — |
 | [Crossroads map reimagined as a real-world scene](https://x.com/Stravant/status/2103421703577874740) | Opus 5.5 | [@Stravant](https://x.com/Stravant) | 0:51 | — |
 | [Photo to 3D building collapse simulation](https://x.com/higgsfield_ai/status/2102863017109291059) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:30 | — |

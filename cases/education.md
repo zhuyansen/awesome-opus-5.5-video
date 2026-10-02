@@ -1,6 +1,6 @@
 # Explainers & education
 
-104 works, 35 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+110 works, 36 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Ukraine front line situation visualization](https://x.com/tokumei_banzai_/status/2104062022560456795) | Opus 5.5 | [@tokumei_banzai_](https://x.com/tokumei_banzai_) | 1:27 | — |
 | [History of Bitcoin documentary video](https://x.com/intangiblecoins/status/2103895476319969685) | Opus 5.5 | [@intangiblecoins](https://x.com/intangiblecoins) | 3:35 | — |
 | [History of dinosaurs animation in JavaScript](https://x.com/kevin_t_ngo/status/2104638743634391408) | Sonnet 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 0:48 | — |
+| [Interactive orbital elements learning tool](https://x.com/getBack_1969_/status/2105200070446751750) | Opus 5.5 | [@getBack_1969_](https://x.com/getBack_1969_) | 1:00 | — |
 | [Indian civilization history video](https://x.com/rashem48/status/2103850664007028964) | Opus 5.5 | [@rashem48](https://x.com/rashem48) | 1:16 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103850664007028964) |
 | [3D narrated IKEA assembly instructional video](https://x.com/deedydas/status/2103174501345493197) | Opus 5.5 | [@deedydas](https://x.com/deedydas) | 1:42 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103174501345493197) |
 | [Whiteboard animation explaining Leidenfrost effect](https://x.com/realYunfanYe/status/2103496245343916158) | Opus 5.5 | [@realYunfanYe](https://x.com/realYunfanYe) | 1:00 | — |
@@ -53,11 +54,13 @@
 | [Documentary on why people move to cities](https://x.com/JorgeGalindo/status/2103811849129234909) | Opus 5.5 | [@JorgeGalindo](https://x.com/JorgeGalindo) | 32:47 | — |
 | [Narrated explainer video via a TTS integration](https://x.com/doerstokyo342/status/2103034063816905109) | Opus 5.5 | [@doerstokyo342](https://x.com/doerstokyo342) | 0:34 | — |
 | [Twin paradox relativity animation explainer](https://x.com/masahirochaen/status/2102722719502704941) | Opus 5.5 | [@masahirochaen](https://x.com/masahirochaen) | 0:47 | — |
+| [Article Explainer Video](https://x.com/noa_gpt/status/2104938147016765836) | Opus 5.5 / Sonnet 5.5 | [@noa_gpt](https://x.com/noa_gpt) | 1:34 | — |
 | [Evolution of the eye explainer](https://x.com/cagrimbakirci/status/2104011756397842869) | Opus 5.5 | [@cagrimbakirci](https://x.com/cagrimbakirci) | 1:10 | — |
 | [Zero-shot documentary on Jewish history](https://x.com/eranshir/status/2103564391170089429) | Opus 5.5 | [@eranshir](https://x.com/eranshir) | 3:43 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103564391170089429) |
 | [UMAP explainer animation for ML students](https://x.com/goodside/status/2103505085292593220) | Opus 5.5 | [@goodside](https://x.com/goodside) | 5:05 | — |
 | [Doc-to-video explainer (Open Alignment)](https://x.com/Thom_Wolf/status/2103545533474206118) | Opus 5.5 | [@Thom_Wolf](https://x.com/Thom_Wolf) | 1:24 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103545533474206118) |
 | [Physics competition problem explainer video](https://x.com/akokoi1/status/2102680453912449223) | Opus 5.5 | [@akokoi1](https://x.com/akokoi1) | 3:09 | — |
+| [Explainer video about the Dots AI agent](https://x.com/seiiiiiiiiiiru/status/2105187157841445314) | Sonnet 5.5 | [@seiiiiiiiiiiru](https://x.com/seiiiiiiiiiiru) | 2:11 | — |
 | [1-minute margin trading explainer](https://x.com/RtSubPozrT8wmsN/status/2102764115500687573) | Opus 5.5 | [@RtSubPozrT8wmsN](https://x.com/RtSubPozrT8wmsN) | 0:57 | — |
 | [How browsers work explainer animation](https://x.com/DataChaz/status/2103020750060028222) | Opus 5.5 | [@DataChaz](https://x.com/DataChaz) | 0:40 | — |
 | [Password vs passkey interactive explainer](https://x.com/Tz_2022/status/2102838830285898214) | Opus 5.5 | [@Tz_2022](https://x.com/Tz_2022) | 4:09 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102838830285898214) |
@@ -65,12 +68,15 @@
 | [Kinesin motor protein claymation](https://x.com/JacobMolBio/status/2102569129026916389) | Opus 5.5 | [@JacobMolBio](https://x.com/JacobMolBio) | 0:23 | — |
 | [Explainer video about Opus 5.5 made by itself](https://x.com/_caty2_/status/2102473582333050959) | Opus 5.5 | [@_caty2_](https://x.com/_caty2_) | 1:18 | — |
 | [Educational material visual animation](https://x.com/0x0funky/status/2102736587708854585) | Opus 5.5 | [@0x0funky](https://x.com/0x0funky) | 6:34 | — |
+| [BBC-style Three.js explainer video](https://x.com/Tz_2022/status/2104978414465945696) | Opus 5.5 | [@Tz_2022](https://x.com/Tz_2022) | 5:02 | — |
 | [Volcano explainer video for kids](https://x.com/nishanthps/status/2103272493658353765) | Opus 5.5 | [@nishanthps](https://x.com/nishanthps) | 3:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103272493658353765) |
+| [Interactive 5-axis CNC machine explainer](https://x.com/konstantinsaifo/status/2104963500988916032) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 0:45 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104963500988916032) |
 | [Explorable museum of AI history](https://x.com/RyanSael/status/2103021886045348073) | Opus 5.5 | [@RyanSael](https://x.com/RyanSael) | 0:44 | — |
 | [Interactive tsunami disaster-preparedness simulation site](https://x.com/akira_papa_IT/status/2103121980685955247) | Opus 5.5 | [@akira_papa_IT](https://x.com/akira_papa_IT) | 0:53 | — |
 | [Epic documentary: History of Chinese Civilization](https://x.com/dotey/status/2103964025683927166) | Opus 5.5 | [@dotey](https://x.com/dotey) | 3:37 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103964025683927166) |
 | [GPT model history explainer animation](https://x.com/yanhua1010/status/2102610348427911592) | Opus 5.5 | [@yanhua1010](https://x.com/yanhua1010) | 1:30 | — |
 | [Netflix-style explainer reel about El Nino](https://x.com/hanifproduktif/status/2103656501579862155) | Opus 5.5 | [@hanifproduktif](https://x.com/hanifproduktif) | 2:30 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103656501579862155) |
+| [Trace rarity system explainer video](https://x.com/traceforms/status/2105029763421147460) | Opus 5.5 | [@traceforms](https://x.com/traceforms) | 1:18 | — |
 | [Galaxy Star-Formation Explorer](https://x.com/jwuphysics/status/2103290186268365205) | Opus 5.5 | [@jwuphysics](https://x.com/jwuphysics) | 2:55 | — |
 | [Explainer animation about Claude usage workflows](https://x.com/daniel_mac8/status/2103666105461924131) | Opus 5.5 | [@daniel_mac8](https://x.com/daniel_mac8) | 0:29 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103666105461924131) |
 | [Chinese architecture history explainer](https://x.com/akokoi1/status/2103650399773475318) | Opus 5.5 | [@akokoi1](https://x.com/akokoi1) | 1:35 | — |

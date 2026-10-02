@@ -1,9 +1,10 @@
 # Characters & stories
 
-110 works, 33 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+116 works, 33 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
+| [Recreating the Girl with a Pearl Earring painting moment](https://x.com/EHuanglu/status/2105027077548429557) | Opus 5.5 | [@EHuanglu](https://x.com/EHuanglu) | 0:30 | — |
 | [Video predicting the next 50 years](https://x.com/andrewjiang/status/2102987981695132140) | Opus 5.5 | [@andrewjiang](https://x.com/andrewjiang) | 4:00 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102987981695132140) |
 | [Music video for an AI-generated song](https://x.com/eudaemonea/status/2102610626321490404) | Opus 5.5 | [@eudaemonea](https://x.com/eudaemonea) | 6:13 | — |
 | [French theory essay turned into video](https://x.com/brivael/status/2104216601864106226) | Opus 5.5 | [@brivael](https://x.com/brivael) | 5:32 | — |
@@ -46,10 +47,13 @@
 | [Long-form AI video with audio and sound](https://x.com/dhruvalgolakiya/status/2102733714845491558) | Opus 5.5 | [@dhruvalgolakiya](https://x.com/dhruvalgolakiya) | 2:04 | — |
 | [Mid-Autumn collage-style animated short](https://x.com/ring_hyacinth/status/2102986085328716066) | Opus 5.5 | [@ring_hyacinth](https://x.com/ring_hyacinth) | 0:40 | — |
 | [Animated episode drawn entirely in code](https://x.com/shfred0/status/2102879301876031808) | Opus 5.5 | [@shfred0](https://x.com/shfred0) | 2:00 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102879301876031808) |
+| [p(Bloom) extended music video](https://x.com/PuppyPriestess/status/2105116325794488736) | Opus 5.5 | [@PuppyPriestess](https://x.com/PuppyPriestess) | 3:15 | — |
 | [Music video from personal old material](https://x.com/jtevesobs/status/2103330749495787928) | Opus 5.5 | [@jtevesobs](https://x.com/jtevesobs) | 4:49 | — |
 | [Short film chapter titled Mind](https://x.com/RileyRalmuto/status/2103233597679296586) | Opus 5.5 | [@RileyRalmuto](https://x.com/RileyRalmuto) | 0:33 | — |
 | [2D animated narrative video (AI fable)](https://x.com/Tz_2022/status/2103468826364948584) | Opus 5.5 | [@Tz_2022](https://x.com/Tz_2022) | 7:40 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103468826364948584) |
+| [Animated day-in-the-life narration by an AI](https://x.com/kevin_t_ngo/status/2105004703906218366) | Sonnet 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 0:48 | — |
 | [Mid-Autumn paper-collage animation](https://x.com/NFT_Chen/status/2103380404791333144) | Opus 5.5 | [@NFT_Chen](https://x.com/NFT_Chen) | 0:39 | — |
+| [Music Video for a Song Stuck in My Head](https://x.com/_NathanCalvin/status/2105062906291167432) | Opus 5.5 | [@_NathanCalvin](https://x.com/_NathanCalvin) | 2:22 | — |
 | [78-second code-generated animated film](https://x.com/jurlycat/status/2102645793828036643) | Opus 5.5 | [@jurlycat](https://x.com/jurlycat) | 1:18 | — |
 | [Animated AI Dungeon story](https://x.com/nickwalton00/status/2102774951434695083) | Opus 5.5 | [@nickwalton00](https://x.com/nickwalton00) | 1:03 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102774951434695083) |
 | [Interactive website with a living narrative](https://x.com/Da7_Tech/status/2102794245241548839) | Opus 5.5 | [@Da7_Tech](https://x.com/Da7_Tech) | 1:50 | — |
@@ -67,6 +71,8 @@
 | [Claude parody song animated video](https://x.com/eudaemonea/status/2103159823407722893) | Opus 5.5 | [@eudaemonea](https://x.com/eudaemonea) | 6:02 | — |
 | [Lyric motion video synced to a song](https://x.com/takamasa045/status/2103791907801620931) | Opus 5.5 | [@takamasa045](https://x.com/takamasa045) | 2:08 | — |
 | [Tribute video one-shot creation](https://x.com/chetaslua/status/2102717699600368045) | Opus 5.5 | [@chetaslua](https://x.com/chetaslua) | 3:18 | — |
+| [Hold Swarm music video with Hatsune Miku](https://x.com/chaotictransfem/status/2105011559756181620) | Opus 5.5 | [@chaotictransfem](https://x.com/chaotictransfem) | 3:58 | — |
+| [Arcane-Style Animation](https://x.com/ChrisGPT/status/2105045818046808380) | Opus 5.5 | [@ChrisGPT](https://x.com/ChrisGPT) | 0:09 | — |
 | [1-minute fight animation in code](https://x.com/akokoi1/status/2103149275945517546) | Opus 5.5 | [@akokoi1](https://x.com/akokoi1) | 1:00 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103149275945517546) |
 | [AI-made music video for 'To What End'](https://x.com/repligate/status/2104124976156786925) | Opus 5.5 | [@repligate](https://x.com/repligate) | 2:33 | — |
 | [Animation explaining Claude's inner experience](https://x.com/AndrewOnXYZ/status/2102817596009504849) | Opus 5.5 | [@AndrewOnXYZ](https://x.com/AndrewOnXYZ) | 3:32 | — |

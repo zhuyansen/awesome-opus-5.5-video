@@ -2,7 +2,7 @@
 
 English | [简体中文](README.zh-CN.md)
 
-Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5 and Sonnet 5.5 and shared on X, each with 5,000+ views on the original post. **1088 works** (Opus 5.5: 1051 · Sonnet 5.5: 42; comparisons count for both), **282 with a prompt** (107 full prompts).
+Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5 and Sonnet 5.5 and shared on X, each with 5,000+ views on the original post. **1138 works** (Opus 5.5: 1089 · Sonnet 5.5: 61; comparisons count for both), **292 with a prompt** (111 full prompts).
 
 **[Browse online — play the videos and copy the prompts →](https://jasonzhu.ai/en/prompts/claude-opus-5-5)**
 
@@ -25,7 +25,7 @@ Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5 and Sonne
 
 ## Inclusion rule
 
-- The creator's own post, with a native video, and at least 5,000 views on that post (snapshot: 2026-09-30).
+- The creator's own post, with a native video, and at least 5,000 views on that post (snapshot: 2026-10-02).
 - The post states the work was made with Claude Opus 5.5 or Sonnet 5.5; the Model column follows the creator's own words. **Model attribution is as stated by each creator and was not independently reproduced.**
 - A prompt is listed only when it has a source: the post itself, the creator's own replies, a screenshot in those replies, or a link the creator shared. Prompts are kept verbatim, never rewritten or translated.
 - Works with a video but no traceable instruction are still listed, with the prompt column left empty.
@@ -47,7 +47,7 @@ Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5 and Sonne
 
 ## Product demos & ads
 
-143 works · [full list](cases/product.md)
+151 works · [full list](cases/product.md)
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5 and Sonne
 
 ## Explainers & education
 
-104 works · [full list](cases/education.md)
+110 works · [full list](cases/education.md)
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5 and Sonne
 
 ## Characters & stories
 
-110 works · [full list](cases/stories.md)
+116 works · [full list](cases/stories.md)
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -92,22 +92,22 @@ Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5 and Sonne
 
 ## 3D worlds & simulations
 
-150 works · [full list](cases/art3d.md)
+153 works · [full list](cases/art3d.md)
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
 | [Jelly watermelon slicing simulation](https://x.com/vib3coded/status/2104285370951012504) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:18 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104285370951012504) |
 | [Playable boat scene through Japanese landscapes](https://x.com/MengTo/status/2102760783344189761) | Opus 5.5 | [@MengTo](https://x.com/MengTo) | 1:00 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102760783344189761) |
 | [Pelican riding a bike in Three.js](https://x.com/addyosmani/status/2102436416437580159) | Opus 5.5 | [@addyosmani](https://x.com/addyosmani) | 1:31 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102436416437580159) |
+| [Watermelon rubber band burst simulation](https://x.com/vib3coded/status/2104928244382277727) | Sonnet 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:17 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104928244382277727) |
 | [Floor plan to 3D interior design tool](https://x.com/akokoi1/status/2104520072014508316) | Opus 5.5 | [@akokoi1](https://x.com/akokoi1) | 0:33 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104520072014508316) |
 | [Walkable Indian cities world](https://x.com/pracosm/status/2103387804281745459) | Opus 5.5 | [@pracosm](https://x.com/pracosm) | 0:54 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103387804281745459) |
 | [Real-time coastal simulation scene](https://x.com/hajimetwi3/status/2104381179151753464) | Opus 5.5 | [@hajimetwi3](https://x.com/hajimetwi3) | 2:02 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104381179151753464) |
 | [Historic 1906 San Francisco street in 3D](https://x.com/alexalbert__/status/2102466523164274839) | Opus 5.5 | [@alexalbert__](https://x.com/alexalbert__) | 0:08 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102466523164274839) |
-| [280 KB single-file HTML demoscene intro](https://x.com/JustinPerea/status/2102893186330841502) | Opus 5.5 | [@JustinPerea](https://x.com/JustinPerea) | 0:43 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102893186330841502) |
 
 ## Games
 
-187 works · [full list](cases/game.md)
+193 works · [full list](cases/game.md)
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -122,7 +122,7 @@ Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5 and Sonne
 
 ## Music, editing & production
 
-82 works · [full list](cases/production.md)
+85 works · [full list](cases/production.md)
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -137,18 +137,18 @@ Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5 and Sonne
 
 ## Model comparisons
 
-124 works · [full list](cases/comparison.md)
+142 works · [full list](cases/comparison.md)
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
+| [AI self-portrait challenge: Sonnet 5.5 vs GPT-6 Astra](https://x.com/siyabuilt/status/2104924603126603893) | Sonnet 5.5 | [@siyabuilt](https://x.com/siyabuilt) | 0:42 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104924603126603893) |
 | [Glitter sticker effect comparison](https://x.com/ann_nnng/status/2104159923886244176) | Opus 5.5 | [@ann_nnng](https://x.com/ann_nnng) | 0:13 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104159923886244176) |
+| [Watermelon rubber band test: Opus 5.5 vs GPT-6 Astra](https://x.com/vib3coded/status/2104994617573970308) | Opus 5.5 / Sonnet 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:18 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104994617573970308) |
 | [Jelly candy simulation comparison](https://x.com/vib3coded/status/2103741107225907467) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:18 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103741107225907467) |
 | [Bluetooth speaker design comparison](https://x.com/seveibar/status/2102465517403636216) | Opus 5.5 | [@seveibar](https://x.com/seveibar) | 0:38 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102465517403636216) |
 | [Blender pelican-on-bicycle animation comparison](https://x.com/atomic_chat_hq/status/2102492834485895265) | Opus 5.5 | [@atomic_chat_hq](https://x.com/atomic_chat_hq) | 0:10 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102492834485895265) |
 | [Four-model lava lamp build comparison](https://x.com/bridgebench/status/2102770788319310302) | Opus 5.5 | [@bridgebench](https://x.com/bridgebench) | 0:10 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102770788319310302) |
 | [How a language model answers a prompt: 20-second motion graphic](https://x.com/TheHunterBohm/status/2102724864205566388) | Opus 5.5 | [@TheHunterBohm](https://x.com/TheHunterBohm) | 0:20 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102724864205566388) |
-| [Animated welcome screen for the Nova crypto wallet](https://x.com/vvarrdi/status/2102681647720395115) | Opus 5.5 | [@vvarrdi](https://x.com/vvarrdi) | 0:07 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102681647720395115) |
-| [Elon Musk portrait drawing comparison](https://x.com/EvoLinkAi/status/2104405255329132694) | Opus 5.5 | [@EvoLinkAi](https://x.com/EvoLinkAi) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104405255329132694) |
 
 ## Data
 

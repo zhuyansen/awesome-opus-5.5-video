@@ -1,6 +1,6 @@
 # Music, editing & production
 
-82 works, 14 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+85 works, 14 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Realistic AI video scenes written then rendered](https://x.com/abxxai/status/2103500130066518199) | Opus 5.5 | [@abxxai](https://x.com/abxxai) | 0:21 | — |
 | [Automated talking-head video editing pipeline](https://x.com/leaf_sanren/status/2102745561732419772) | Opus 5.5 | [@leaf_sanren](https://x.com/leaf_sanren) | 0:18 | — |
 | [Archival footage music video edit](https://x.com/bitstein/status/2104040489301295502) | Opus 5.5 | [@bitstein](https://x.com/bitstein) | 1:54 | — |
+| [AI-generated video animatics for lesson planning](https://x.com/mattpocockuk/status/2105212971307667862) | Opus 5.5 | [@mattpocockuk](https://x.com/mattpocockuk) | 8:31 | — |
 | [AI-edited talking-head video](https://x.com/sab8a/status/2103144778481475686) | Opus 5.5 | [@sab8a](https://x.com/sab8a) | 0:37 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103144778481475686) |
 | [Bass music generated with code](https://x.com/aj_dev_smith/status/2102504509637587339) | Opus 5.5 | [@aj_dev_smith](https://x.com/aj_dev_smith) | 2:00 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102504509637587339) |
 | [AI-edited launch video from raw takes](https://x.com/gregpr07/status/2102984873351037161) | Opus 5.5 | [@gregpr07](https://x.com/gregpr07) | 0:18 | — |
@@ -34,6 +35,7 @@
 | [AI ad video with voice and AE editing pipeline](https://x.com/seiiiiiiiiiiru/status/2103227982592831846) | Opus 5.5 | [@seiiiiiiiiiiru](https://x.com/seiiiiiiiiiiru) | 0:29 | — |
 | [Opus 5.5 plus Gemini TTS demo](https://x.com/YoheiN2023/status/2103590367518171295) | Opus 5.5 | [@YoheiN2023](https://x.com/YoheiN2023) | 0:15 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103590367518171295) |
 | [After Effects automation test on AI video](https://x.com/aicreataro/status/2102656273112326609) | Opus 5.5 | [@aicreataro](https://x.com/aicreataro) | 0:15 | — |
+| [Pivot-style YouTube video made without editing software](https://x.com/shupeiman/status/2105191698523729997) | Opus 5.5 | [@shupeiman](https://x.com/shupeiman) | 1:01 | — |
 | [One-shot AI video edit](https://x.com/FxChaos/status/2102990431940415738) | Opus 5.5 | [@FxChaos](https://x.com/FxChaos) | 1:09 | — |
 | [Visual coding-agent harness demo](https://x.com/adocomplete/status/2103293477912268813) | Opus 5.5 | [@adocomplete](https://x.com/adocomplete) | 0:43 | — |
 | [Generative music theory composition in code](https://x.com/dadabots/status/2103039181266338276) | Opus 5.5 | [@dadabots](https://x.com/dadabots) | 0:24 | — |
@@ -45,6 +47,7 @@
 | [Fully automated video editing demo](https://x.com/AIPlus_AISchool/status/2103441866717073637) | Opus 5.5 | [@AIPlus_AISchool](https://x.com/AIPlus_AISchool) | 1:00 | — |
 | [AI-made hopeful song sequel](https://x.com/nssharpe/status/2103549676234637516) | Opus 5.5 | [@nssharpe](https://x.com/nssharpe) | 2:20 | — |
 | [One-shot video outdoing a 2-month editing pipeline](https://x.com/SimonHoiberg/status/2103916672080097521) | Opus 5.5 | [@SimonHoiberg](https://x.com/SimonHoiberg) | 0:15 | — |
+| [Dance pose VFX test using Opus 5.5 with Blender](https://x.com/aicreataro/status/2105070161908957633) | Opus 5.5 | [@aicreataro](https://x.com/aicreataro) | 0:17 | — |
 | [Talking-head video converted to line-art B-roll](https://x.com/AxtonLiu/status/2102827887732932956) | Opus 5.5 | [@AxtonLiu](https://x.com/AxtonLiu) | 1:24 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102827887732932956) |
 | [High-energy code-made video edit](https://x.com/pleometric/status/2102804821623386523) | Opus 5.5 | [@pleometric](https://x.com/pleometric) | 0:23 | — |
 | [Opus 5.5 video production demo](https://x.com/dabit3/status/2103523033264656464) | Opus 5.5 | [@dabit3](https://x.com/dabit3) | 0:44 | — |

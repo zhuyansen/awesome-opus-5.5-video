@@ -1,11 +1,12 @@
 # 产品广告
 
-共 143 个作品，其中 28 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 151 个作品，其中 29 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
 | [云端AI平台3D游戏生成演示](https://x.com/abacusai/status/2102996347171524614) | Opus 5.5 | [@abacusai](https://x.com/abacusai) | 1:07 | — |
 | [可实拼真人尺寸乐高鸭设计](https://x.com/victormustar/status/2103110908444631120) | Opus 5.5 | [@victormustar](https://x.com/victormustar) | 0:24 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103110908444631120) |
+| [三条提示词搭建的作品集网站](https://x.com/cambreedesigns/status/2104999693113766152) | Opus 5.5 | [@cambreedesigns](https://x.com/cambreedesigns) | 0:19 | — |
 | [After Effects制作的产品发布视频](https://x.com/higgsfield_ai/status/2103875279588602225) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:10 | — |
 | [东京末班车地图互动网站](https://x.com/MatoToushi/status/2103643548163928183) | Opus 5.5 | [@MatoToushi](https://x.com/MatoToushi) | 1:02 | — |
 | [管理编程 Agent 的虚拟办公室](https://x.com/webdevcody/status/2103653857377292720) | Opus 5.5 | [@webdevcody](https://x.com/webdevcody) | 0:41 | — |
@@ -13,6 +14,7 @@
 | [歌词动态视频生成器JIZURA](https://x.com/8co28/status/2102572322016370781) | Opus 5.5 | [@8co28](https://x.com/8co28) | 1:46 | — |
 | [自动转换HEIC的Mac应用演示](https://x.com/okota_tsu_/status/2104211036534718882) | Opus 5.5 | [@okota_tsu_](https://x.com/okota_tsu_) | 0:37 | — |
 | [Bend 2编程语言介绍视频](https://x.com/VictorTaelin/status/2104568082169749982) | Opus 5.5 | [@VictorTaelin](https://x.com/VictorTaelin) | 1:30 | — |
+| [UI生成质量演示](https://x.com/fayazara/status/2104915749206896758) | Opus 5.5 | [@fayazara](https://x.com/fayazara) | 0:28 | — |
 | [AI推理初创公司产品发布视频](https://x.com/deedydas/status/2102787937482252537) | Opus 5.5 | [@deedydas](https://x.com/deedydas) | 0:26 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102787937482252537) |
 | [强制启动任务App ToDopa演示](https://x.com/eta1ia/status/2103779108438077923) | Opus 5.5 | [@eta1ia](https://x.com/eta1ia) | 0:59 | — |
 | [AI制作的无露脸YouTube视频服务演示](https://x.com/drecamz/status/2103184506329170373) | Opus 5.5 | [@drecamz](https://x.com/drecamz) | 0:54 | — |
@@ -50,15 +52,18 @@
 | [虚拟主播直播系统搭建](https://x.com/manaimovie/status/2104008163561451923) | Opus 5.5 | [@manaimovie](https://x.com/manaimovie) | 0:55 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104008163561451923) |
 | [Opus 5.5 生成的产品宣传视频](https://x.com/decohack/status/2102621064518160485) | Opus 5.5 | [@decohack](https://x.com/decohack) | 0:39 | — |
 | [一句话生成的宣传片](https://x.com/berryxia/status/2103391717894566368) | Opus 5.5 | [@berryxia](https://x.com/berryxia) | 0:29 | — |
+| [Stock Slayer应用介绍音乐视频](https://x.com/FABYMETAL4/status/2105205875870924824) | Opus 5.5 | [@FABYMETAL4](https://x.com/FABYMETAL4) | 1:38 | — |
 | [多智能体协作搭建的CRM应用](https://x.com/adomicael/status/2103188137220427958) | Opus 5.5 | [@adomicael](https://x.com/adomicael) | 0:36 | — |
 | [AI算法交易机器人演示](https://x.com/milesdeutscher/status/2103149036933165110) | Opus 5.5 | [@milesdeutscher](https://x.com/milesdeutscher) | 0:13 | — |
 | [一句提示词做出的SaaS宣传视频](https://x.com/condzxyz/status/2103570367763882199) | Opus 5.5 | [@condzxyz](https://x.com/condzxyz) | 0:15 | — |
+| [设想的西班牙政府门户网站](https://x.com/jgarcelan/status/2105198801623409043) | Opus 5.5 | [@jgarcelan](https://x.com/jgarcelan) | 0:50 | — |
 | [多行业调研服务产品演示视频](https://x.com/studio_veco/status/2104115161158291465) | Opus 5.5 | [@studio_veco](https://x.com/studio_veco) | 0:30 | — |
 | [带实时预览的UI演示](https://x.com/uiNerd/status/2102745622608810010) | Opus 5.5 | [@uiNerd](https://x.com/uiNerd) | 0:13 | — |
 | [编程插件演示视频](https://x.com/eliasstravik/status/2102826740951232530) | Opus 5.5 | [@eliasstravik](https://x.com/eliasstravik) | 0:15 | — |
 | [深色模式销售仪表盘实现](https://x.com/salungprastyo/status/2103015120104525942) | Opus 5.5 | [@salungprastyo](https://x.com/salungprastyo) | 0:33 | — |
 | [Designship2026 30秒广告](https://x.com/hajipion/status/2103766842024362220) | Opus 5.5 | [@hajipion](https://x.com/hajipion) | 0:30 | — |
 | [两小时搭建的网站](https://x.com/ShivaGupta4639/status/2103840021447110673) | Opus 5.5 | [@ShivaGupta4639](https://x.com/ShivaGupta4639) | 0:27 | — |
+| [水瓶营销网站演示](https://x.com/zarazhangrui/status/2105096296831017078) | Opus 5.5 | [@zarazhangrui](https://x.com/zarazhangrui) | 0:39 | — |
 | [单条提示生成的设计成果](https://x.com/PancaSeptiana/status/2103395361058664888) | Opus 5.5 | [@PancaSeptiana](https://x.com/PancaSeptiana) | 0:06 | — |
 | [Storycast旁白解说视频生成器上线](https://x.com/ailker/status/2103235288306774127) | Opus 5.5 | [@ailker](https://x.com/ailker) | 0:10 | — |
 | [SaaS产品预告片](https://x.com/javiiarchive/status/2103501151438323850) | Opus 5.5 | [@javiiarchive](https://x.com/javiiarchive) | 0:15 | — |
@@ -70,6 +75,7 @@
 | [细节可控的产品宣传PV](https://x.com/yoshifujidesign/status/2103989912676741479) | Opus 5.5 | [@yoshifujidesign](https://x.com/yoshifujidesign) | 0:30 | — |
 | [重建的FPV飞控板设计](https://x.com/Peter05704721/status/2102725548229456351) | Opus 5.5 | [@Peter05704721](https://x.com/Peter05704721) | 0:12 | — |
 | [密室逃脱游戏介绍视频](https://x.com/moya_vc/status/2103681038862147977) | Opus 5.5 | [@moya_vc](https://x.com/moya_vc) | 1:41 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103681038862147977) |
+| [Roblox游戏宣传视频](https://x.com/dataX_e/status/2104967024812118196) | Opus 5.5 | [@dataX_e](https://x.com/dataX_e) | 0:15 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104967024812118196) |
 | [AI操控AE制作的发布视频](https://x.com/seiiiiiiiiiiru/status/2102636308707287201) | Opus 5.5 | [@seiiiiiiiiiiru](https://x.com/seiiiiiiiiiiru) | 0:30 | — |
 | [从网页生成的房产展示视频](https://x.com/kiarohidawa/status/2103661278300610623) | Opus 5.5 | [@kiarohidawa](https://x.com/kiarohidawa) | 1:40 | — |
 | [一天内搭建的OpsLoop仪表盘](https://x.com/jubayer6910/status/2103496352005296635) | Opus 5.5 | [@jubayer6910](https://x.com/jubayer6910) | 1:59 | — |
@@ -78,6 +84,7 @@
 | [Dub.co产品推广视频一次生成](https://x.com/steventey/status/2103625902211088880) | Opus 5.5 | [@steventey](https://x.com/steventey) | 0:15 | — |
 | [土壤湿度自动灌溉物联网设备](https://x.com/sora19ai/status/2104114219235090574) | Opus 5.5 | [@sora19ai](https://x.com/sora19ai) | 0:35 | — |
 | [基于Zed代码库生成的产品宣传视频](https://x.com/op7418/status/2103300490184564849) | Opus 5.5 | [@op7418](https://x.com/op7418) | 0:51 | — |
+| [用一句Opus 5.5提示词复刻的改装车应用](https://x.com/ErnestoSOFTWARE/status/2104955803492864077) | Opus 5.5 | [@ErnestoSOFTWARE](https://x.com/ErnestoSOFTWARE) | 0:14 | — |
 | [双比例输出的产品宣传片](https://x.com/aiwarts/status/2103419586964316483) | Opus 5.5 | [@aiwarts](https://x.com/aiwarts) | 0:30 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103419586964316483) |
 | [Roblox Studio UI生成插件演示](https://x.com/MyCodeCoach/status/2103235914273370394) | Opus 5.5 | [@MyCodeCoach](https://x.com/MyCodeCoach) | 6:33 | — |
 | [AI辅助的加密货币交易台工作流](https://x.com/leopardracer/status/2103783920248528997) | Opus 5.5 | [@leopardracer](https://x.com/leopardracer) | 0:30 | — |
@@ -89,6 +96,7 @@
 | [根据软件代码生成的介绍视频](https://x.com/gesoikuo3/status/2103723885204254734) | Opus 5.5 | [@gesoikuo3](https://x.com/gesoikuo3) | 0:50 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103723885204254734) |
 | [Wrapscribe产品视频](https://x.com/shribuilds/status/2102827288190689364) | Opus 5.5 | [@shribuilds](https://x.com/shribuilds) | 0:41 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102827288190689364) |
 | [电影感产品发布影片](https://x.com/AbhinavXJ/status/2104805179401068964) | Opus 5.5 / Sonnet 5.5 | [@AbhinavXJ](https://x.com/AbhinavXJ) | 1:40 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104805179401068964) |
+| [Clucky闹钟应用演示](https://x.com/adrianabelarde/status/2105195481874002217) | Opus 5.5 | [@adrianabelarde](https://x.com/adrianabelarde) | 0:12 | — |
 | [可交互动画涂鸦板应用](https://x.com/ChrisGPT/status/2102615272054231093) | Opus 5.5 | [@ChrisGPT](https://x.com/ChrisGPT) | 1:51 | — |
 | [根据代码库生成的应用宣传片](https://x.com/akokoi1/status/2103299308460429602) | Opus 5.5 | [@akokoi1](https://x.com/akokoi1) | 0:40 | — |
 | [Lightspark产品宣传视频](https://x.com/davidmarcus/status/2103275618045686217) | Opus 5.5 | [@davidmarcus](https://x.com/davidmarcus) | 0:23 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103275618045686217) |

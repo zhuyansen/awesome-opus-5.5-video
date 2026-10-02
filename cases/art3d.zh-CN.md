@@ -1,6 +1,6 @@
 # 3D 场景
 
-共 150 个作品，其中 36 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 153 个作品，其中 37 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [日式风景中的可玩船只场景](https://x.com/MengTo/status/2102760783344189761) | Opus 5.5 | [@MengTo](https://x.com/MengTo) | 1:00 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102760783344189761) |
 | [沙丘沙虫变身机器人概念](https://x.com/DilumSanjaya/status/2104253761137127597) | Opus 5.5 | [@DilumSanjaya](https://x.com/DilumSanjaya) | 1:19 | — |
 | [Three.js骑车鹈鹕演示](https://x.com/addyosmani/status/2102436416437580159) | Opus 5.5 | [@addyosmani](https://x.com/addyosmani) | 1:31 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102436416437580159) |
+| [橡皮筋压爆西瓜模拟](https://x.com/vib3coded/status/2104928244382277727) | Sonnet 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:17 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104928244382277727) |
 | [在虚幻引擎中重建旧金山](https://x.com/MatthewBerman/status/2102483668468195539) | Opus 5.5 | [@MatthewBerman](https://x.com/MatthewBerman) | 0:54 | — |
 | [新床摆放的3D房间预览](https://x.com/scheemunai/status/2103059885361598633) | Opus 5.5 | [@scheemunai](https://x.com/scheemunai) | 1:27 | — |
 | [Three.js制作的清澈溪流场景](https://x.com/hayashimon1/status/2102576886182453454) | Opus 5.5 | [@hayashimon1](https://x.com/hayashimon1) | 0:15 | — |
@@ -74,6 +75,7 @@
 | [Blender制作的动画风车](https://x.com/higgsfield_ai/status/2102453658889953717) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:21 | — |
 | [带音效的像素艺术场景](https://x.com/peekcell/status/2102796895982878850) | Opus 5.5 | [@peekcell](https://x.com/peekcell) | 0:15 | — |
 | [可交互的three.js场景](https://x.com/aokocax/status/2103011071820996673) | Opus 5.5 | [@aokocax](https://x.com/aokocax) | 0:21 | — |
+| [代码绘制马赛克动画的幕后揭秘](https://x.com/dfeinition/status/2105098626213327008) | Opus 5.5 | [@dfeinition](https://x.com/dfeinition) | 1:15 | — |
 | [轻松产出的令人惊艳的Opus 5.5作品](https://x.com/wolfie_/status/2103472862757896486) | Opus 5.5 | [@wolfie_](https://x.com/wolfie_) | 2:26 | — |
 | [《牛来骑车》3D动画](https://x.com/yupi996/status/2102632124994191682) | Opus 5.5 | [@yupi996](https://x.com/yupi996) | 2:18 | — |
 | [Scenario Blender插件演示](https://x.com/emmanuel_2m/status/2102767332116316380) | Opus 5.5 | [@emmanuel_2m](https://x.com/emmanuel_2m) | 0:16 | — |
@@ -88,6 +90,7 @@
 | [Three.js生成式3D体验](https://x.com/chetanankola/status/2103008022369099992) | Opus 5.5 | [@chetanankola](https://x.com/chetanankola) | 0:28 | — |
 | [90年代风格C/OpenGL演示动画](https://x.com/gandamu_ml/status/2102919394775220530) | Opus 5.5 | [@gandamu_ml](https://x.com/gandamu_ml) | 6:23 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102919394775220530) |
 | [像素艺术动画展示](https://x.com/SpikeRiser/status/2102888874858959029) | Opus 5.5 | [@SpikeRiser](https://x.com/SpikeRiser) | 4:07 | — |
+| [浏览器中构建的荷叶鲤鱼水景](https://x.com/sonia_code/status/2105131016918577190) | Sonnet 5.5 | [@sonia_code](https://x.com/sonia_code) | 0:10 | — |
 | [根据平面图生成的3D模型](https://x.com/uncle_render/status/2103080046537904576) | Opus 5.5 | [@uncle_render](https://x.com/uncle_render) | 0:52 | — |
 | [Crossroads地图的写实场景重构](https://x.com/Stravant/status/2103421703577874740) | Opus 5.5 | [@Stravant](https://x.com/Stravant) | 0:51 | — |
 | [照片建模建筑倒塌模拟](https://x.com/higgsfield_ai/status/2102863017109291059) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:30 | — |

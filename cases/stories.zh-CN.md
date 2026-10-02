@@ -1,9 +1,10 @@
 # 角色故事
 
-共 110 个作品，其中 33 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 116 个作品，其中 33 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
+| [《戴珍珠耳环的少女》创作瞬间复原](https://x.com/EHuanglu/status/2105027077548429557) | Opus 5.5 | [@EHuanglu](https://x.com/EHuanglu) | 0:30 | — |
 | [预测未来50年的视频](https://x.com/andrewjiang/status/2102987981695132140) | Opus 5.5 | [@andrewjiang](https://x.com/andrewjiang) | 4:00 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102987981695132140) |
 | [为AI歌曲制作的音乐视频](https://x.com/eudaemonea/status/2102610626321490404) | Opus 5.5 | [@eudaemonea](https://x.com/eudaemonea) | 6:13 | — |
 | [法国理论分析转成视频](https://x.com/brivael/status/2104216601864106226) | Opus 5.5 | [@brivael](https://x.com/brivael) | 5:32 | — |
@@ -46,10 +47,13 @@
 | [带音效配乐的长篇AI视频](https://x.com/dhruvalgolakiya/status/2102733714845491558) | Opus 5.5 | [@dhruvalgolakiya](https://x.com/dhruvalgolakiya) | 2:04 | — |
 | [中秋节拼贴风格动画短片](https://x.com/ring_hyacinth/status/2102986085328716066) | Opus 5.5 | [@ring_hyacinth](https://x.com/ring_hyacinth) | 0:40 | — |
 | [纯代码绘制的动画短片](https://x.com/shfred0/status/2102879301876031808) | Opus 5.5 | [@shfred0](https://x.com/shfred0) | 2:00 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102879301876031808) |
+| [p(Bloom）加长版音乐视频](https://x.com/PuppyPriestess/status/2105116325794488736) | Opus 5.5 | [@PuppyPriestess](https://x.com/PuppyPriestess) | 3:15 | — |
 | [用个人旧素材制作的音乐视频](https://x.com/jtevesobs/status/2103330749495787928) | Opus 5.5 | [@jtevesobs](https://x.com/jtevesobs) | 4:49 | — |
 | [短片《心智》章节](https://x.com/RileyRalmuto/status/2103233597679296586) | Opus 5.5 | [@RileyRalmuto](https://x.com/RileyRalmuto) | 0:33 | — |
 | [硅基寓言2D动画视频](https://x.com/Tz_2022/status/2103468826364948584) | Opus 5.5 | [@Tz_2022](https://x.com/Tz_2022) | 7:40 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103468826364948584) |
+| [AI讲述训练者一天生活的动画](https://x.com/kevin_t_ngo/status/2105004703906218366) | Sonnet 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 0:48 | — |
 | [中秋剪纸拼贴动画](https://x.com/NFT_Chen/status/2103380404791333144) | Opus 5.5 | [@NFT_Chen](https://x.com/NFT_Chen) | 0:39 | — |
+| [脑海中挥之不去的歌曲音乐视频](https://x.com/_NathanCalvin/status/2105062906291167432) | Opus 5.5 | [@_NathanCalvin](https://x.com/_NathanCalvin) | 2:22 | — |
 | [78秒纯代码生成的动画短片](https://x.com/jurlycat/status/2102645793828036643) | Opus 5.5 | [@jurlycat](https://x.com/jurlycat) | 1:18 | — |
 | [AI地牢故事动画化](https://x.com/nickwalton00/status/2102774951434695083) | Opus 5.5 | [@nickwalton00](https://x.com/nickwalton00) | 1:03 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102774951434695083) |
 | [具有情感叙事的互动网站](https://x.com/Da7_Tech/status/2102794245241548839) | Opus 5.5 | [@Da7_Tech](https://x.com/Da7_Tech) | 1:50 | — |
@@ -67,6 +71,8 @@
 | [Claude拟人恶搞歌曲动画视频](https://x.com/eudaemonea/status/2103159823407722893) | Opus 5.5 | [@eudaemonea](https://x.com/eudaemonea) | 6:02 | — |
 | [配合歌曲的歌词动态视频](https://x.com/takamasa045/status/2103791907801620931) | Opus 5.5 | [@takamasa045](https://x.com/takamasa045) | 2:08 | — |
 | [致敬视频一次性生成](https://x.com/chetaslua/status/2102717699600368045) | Opus 5.5 | [@chetaslua](https://x.com/chetaslua) | 3:18 | — |
+| [初音未来《Hold Swarm》音乐视频](https://x.com/chaotictransfem/status/2105011559756181620) | Opus 5.5 | [@chaotictransfem](https://x.com/chaotictransfem) | 3:58 | — |
+| [奥术风格动画](https://x.com/ChrisGPT/status/2105045818046808380) | Opus 5.5 | [@ChrisGPT](https://x.com/ChrisGPT) | 0:09 | — |
 | [代码实现的1分钟打斗动画](https://x.com/akokoi1/status/2103149275945517546) | Opus 5.5 | [@akokoi1](https://x.com/akokoi1) | 1:00 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103149275945517546) |
 | [《To What End》AI音乐视频](https://x.com/repligate/status/2104124976156786925) | Opus 5.5 | [@repligate](https://x.com/repligate) | 2:33 | — |
 | [讲述Claude内心感受的动画](https://x.com/AndrewOnXYZ/status/2102817596009504849) | Opus 5.5 | [@AndrewOnXYZ](https://x.com/AndrewOnXYZ) | 3:32 | — |

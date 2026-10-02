@@ -1,6 +1,6 @@
 # 制作流程
 
-共 82 个作品，其中 14 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 85 个作品，其中 14 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [先写场景再渲染成真实感AI视频](https://x.com/abxxai/status/2103500130066518199) | Opus 5.5 | [@abxxai](https://x.com/abxxai) | 0:21 | — |
 | [口播视频自动化剪辑流水线](https://x.com/leaf_sanren/status/2102745561732419772) | Opus 5.5 | [@leaf_sanren](https://x.com/leaf_sanren) | 0:18 | — |
 | [档案影像混剪音乐短片](https://x.com/bitstein/status/2104040489301295502) | Opus 5.5 | [@bitstein](https://x.com/bitstein) | 1:54 | — |
+| [用于课程规划的AI动态分镜视频](https://x.com/mattpocockuk/status/2105212971307667862) | Opus 5.5 | [@mattpocockuk](https://x.com/mattpocockuk) | 8:31 | — |
 | [AI剪辑的口播视频](https://x.com/sab8a/status/2103144778481475686) | Opus 5.5 | [@sab8a](https://x.com/sab8a) | 0:37 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103144778481475686) |
 | [用代码生成的低音音乐](https://x.com/aj_dev_smith/status/2102504509637587339) | Opus 5.5 | [@aj_dev_smith](https://x.com/aj_dev_smith) | 2:00 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102504509637587339) |
 | [AI剪辑生成的发布视频](https://x.com/gregpr07/status/2102984873351037161) | Opus 5.5 | [@gregpr07](https://x.com/gregpr07) | 0:18 | — |
@@ -34,6 +35,7 @@
 | [AI配音配合AE剪辑的广告视频流程](https://x.com/seiiiiiiiiiiru/status/2103227982592831846) | Opus 5.5 | [@seiiiiiiiiiiru](https://x.com/seiiiiiiiiiiru) | 0:29 | — |
 | [Opus5.5配合Gemini语音合成演示](https://x.com/YoheiN2023/status/2103590367518171295) | Opus 5.5 | [@YoheiN2023](https://x.com/YoheiN2023) | 0:15 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103590367518171295) |
 | [After Effects自动化处理AI视频测试](https://x.com/aicreataro/status/2102656273112326609) | Opus 5.5 | [@aicreataro](https://x.com/aicreataro) | 0:15 | — |
+| [未用剪辑软件制作的Pivot风格视频](https://x.com/shupeiman/status/2105191698523729997) | Opus 5.5 | [@shupeiman](https://x.com/shupeiman) | 1:01 | — |
 | [一次性生成的AI视频剪辑](https://x.com/FxChaos/status/2102990431940415738) | Opus 5.5 | [@FxChaos](https://x.com/FxChaos) | 1:09 | — |
 | [可视化编程智能体管理界面演示](https://x.com/adocomplete/status/2103293477912268813) | Opus 5.5 | [@adocomplete](https://x.com/adocomplete) | 0:43 | — |
 | [代码生成的音乐理论作品](https://x.com/dadabots/status/2103039181266338276) | Opus 5.5 | [@dadabots](https://x.com/dadabots) | 0:24 | — |
@@ -45,6 +47,7 @@
 | [全自动视频剪辑流程演示](https://x.com/AIPlus_AISchool/status/2103441866717073637) | Opus 5.5 | [@AIPlus_AISchool](https://x.com/AIPlus_AISchool) | 1:00 | — |
 | [AI制作的乐观续作歌曲](https://x.com/nssharpe/status/2103549676234637516) | Opus 5.5 | [@nssharpe](https://x.com/nssharpe) | 2:20 | — |
 | [一镜胜过两个月剪辑流程的视频](https://x.com/SimonHoiberg/status/2103916672080097521) | Opus 5.5 | [@SimonHoiberg](https://x.com/SimonHoiberg) | 0:15 | — |
+| [用Opus 5.5操控Blender制作的舞蹈残影特效测试](https://x.com/aicreataro/status/2105070161908957633) | Opus 5.5 | [@aicreataro](https://x.com/aicreataro) | 0:17 | — |
 | [真人口播转线稿动画B-roll](https://x.com/AxtonLiu/status/2102827887732932956) | Opus 5.5 | [@AxtonLiu](https://x.com/AxtonLiu) | 1:24 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102827887732932956) |
 | [代码制作的燃向视频剪辑](https://x.com/pleometric/status/2102804821623386523) | Opus 5.5 | [@pleometric](https://x.com/pleometric) | 0:23 | — |
 | [Opus 5.5视频制作演示](https://x.com/dabit3/status/2103523033264656464) | Opus 5.5 | [@dabit3](https://x.com/dabit3) | 0:44 | — |
