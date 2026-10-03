@@ -100,7 +100,7 @@
 | [Godot引擎中的折纸风格游戏画面](https://x.com/KanaWorks_AI/status/2103333960805908585) | Opus 5.5 | [@KanaWorks_AI](https://x.com/KanaWorks_AI) | 0:33 | — |
 | [浏览器开放世界游戏预告片](https://x.com/LexnLin/status/2102834362530079093) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 3:02 | — |
 | [程序化生成岛屿的开放世界生存游戏](https://x.com/aipulseda1ly/status/2103352533657719230) | Opus 5.5 | [@aipulseda1ly](https://x.com/aipulseda1ly) | 1:03 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103352533657719230) |
-| [50人大逃杀浏览器游戏](https://x.com/_MaxBlade/status/2103847223557529606) | Opus 5.5 | [@_MaxBlade](https://x.com/_MaxBlade) | 0:53 | — |
+| [50人大逃杀浏览器游戏](https://x.com/_MaxBlade/status/2103847223557529606) | Opus 5.5 / Fable 5.5 (preview) | [@_MaxBlade](https://x.com/_MaxBlade) | 0:53 | — |
 | [墨迹跑者绘画平台游戏](https://x.com/ZryMiller/status/2105730942753190165) | Opus 5.5 | [@ZryMiller](https://x.com/ZryMiller) | 0:27 | — |
 | [程序化魔法FPS游戏进化](https://x.com/izumisatoshi05/status/2103438227885703299) | Opus 5.5 | [@izumisatoshi05](https://x.com/izumisatoshi05) | 1:12 | — |
 | [通过MCP工具制作的赛博朋克类肉鸽射击游戏](https://x.com/VORTEX_Promos/status/2103622389573505119) | Opus 5.5 | [@VORTEX_Promos](https://x.com/VORTEX_Promos) | 11:57 | — |

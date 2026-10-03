@@ -1,6 +1,6 @@
 # 动效设计
 
-共 202 个作品，其中 76 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 204 个作品，其中 77 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [实时显示代理状态的卡通动画小图标](https://x.com/anshuc/status/2105773281936650247) | Sonnet 5.5 | [@anshuc](https://x.com/anshuc) | 1:51 | — |
 | [Apple Liquid Glass 风格 UI 动效展示](https://x.com/motion_conquest/status/2103510103622308152) | Opus 5.5 | [@motion_conquest](https://x.com/motion_conquest) | 0:16 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103510103622308152) |
 | [一次生成的动画演示视频](https://x.com/shapelayer/status/2102562623824757136) | Opus 5.5 | [@shapelayer](https://x.com/shapelayer) | 0:21 | — |
+| [简单提示生成的酷炫动画](https://x.com/cherry_mx_reds/status/2105816670896009224) | Fable 5.5 (preview) | [@cherry_mx_reds](https://x.com/cherry_mx_reds) | 0:17 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2105816670896009224) |
 | [逐帧绘制的JavaScript动画](https://x.com/strawhatsu4/status/2102457111787745405) | Opus 5.5 | [@strawhatsu4](https://x.com/strawhatsu4) | 0:14 | — |
 | [用静态图制作角色动画](https://x.com/adriankuleszo/status/2103452143055483132) | Opus 5.5 | [@adriankuleszo](https://x.com/adriankuleszo) | 0:14 | — |
 | [一次成型的动态视频演示](https://x.com/chhddavid/status/2102666619029999989) | Opus 5.5 | [@chhddavid](https://x.com/chhddavid) | 0:50 | — |
@@ -45,6 +46,7 @@
 | [代码生成的视听动画](https://x.com/AndyL5cc/status/2104060535415476361) | Opus 5.5 | [@AndyL5cc](https://x.com/AndyL5cc) | 2:48 | — |
 | [JS动画配钢琴曲创作](https://x.com/kevin_t_ngo/status/2103482164193165711) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 0:45 | — |
 | [纯代码生成的视频演示](https://x.com/bridgemindai/status/2103530750767206626) | Opus 5.5 | [@bridgemindai](https://x.com/bridgemindai) | 1:00 | — |
+| [生成的动画短片](https://x.com/imjustnewatai/status/2105808539495354669) | Fable 5.5 (preview) | [@imjustnewatai](https://x.com/imjustnewatai) | 1:02 | — |
 | [小提琴配乐动画](https://x.com/Hesamation/status/2103535326325055843) | Opus 5.5 | [@Hesamation](https://x.com/Hesamation) | 1:02 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103535326325055843) |
 | [一句提示词做出的图文与动画](https://x.com/nazmijavierl/status/2102712897701097828) | Opus 5.5 | [@nazmijavierl](https://x.com/nazmijavierl) | 0:16 | — |
 | [20种动画风格合集](https://x.com/yasinozmeen/status/2104086740600254919) | Opus 5.5 | [@yasinozmeen](https://x.com/yasinozmeen) | 3:46 | — |

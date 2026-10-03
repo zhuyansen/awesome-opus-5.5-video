@@ -3,8 +3,8 @@
  "model": "Claude 5.5 (Opus 5.5 · Sonnet 5.5)",
  "inclusion_rule": "Original post by the creator, native video attached, >= 5000 views on that post, creator states it was made with Claude Opus 5.5 or Claude Sonnet 5.5.",
  "views_threshold": 5000,
- "stats_checked_at": "2026-10-03T04:40:54.147Z",
- "updated_at": "2026-10-03T04:40:54.147Z",
+ "stats_checked_at": "2026-10-03T05:46:54.416Z",
+ "updated_at": "2026-10-03T05:46:54.416Z",
  "model_attribution": "As stated by each creator; not independently reproduced.",
  "cases": [
   {
@@ -1001,6 +1001,34 @@
     "After Effects",
     "Higgsfield"
    ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2105825930799432073",
+   "models": [
+    "fable-5.5"
+   ],
+   "category": "stories",
+   "title": {
+    "zh": "一个点生成的皮克斯风动画",
+    "en": "Dot prompt becomes Pixar-style animation"
+   },
+   "creator": {
+    "handle": "cherry_mx_reds",
+    "name": "Tak 🦞"
+   },
+   "original_post_url": "https://x.com/cherry_mx_reds/status/2105825930799432073",
+   "posted_at": "2026-10-02T01:03:20.000Z",
+   "language": "en",
+   "duration_seconds": 15,
+   "views": 731382,
+   "likes": 5710,
+   "bookmarks": 2253,
+   "views_checked_at": "2026-10-03T05:46:54.416Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2105822170077069313/img/k4UXR4Q7JijgTXOj.jpg",
+   "tools_reported": [],
    "reference_assets": false,
    "prompt": null,
    "resources": []
@@ -3116,6 +3144,43 @@
     "source_url": "https://x.com/deedydas/status/2102787937482252537",
     "length": 81,
     "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102787937482252537"
+   },
+   "resources": []
+  },
+  {
+   "id": "2105822678519001360",
+   "models": [
+    "fable-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "Bend2实现的三体问题物理模拟",
+    "en": "Three-body problem physics simulation in Bend2"
+   },
+   "creator": {
+    "handle": "zAdrielsan",
+    "name": "Adriel"
+   },
+   "original_post_url": "https://x.com/zAdrielsan/status/2105822678519001360",
+   "posted_at": "2026-10-02T00:50:25.000Z",
+   "language": "en",
+   "duration_seconds": 134,
+   "views": 338121,
+   "likes": 387,
+   "bookmarks": 232,
+   "views_checked_at": "2026-10-03T05:46:54.416Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2105821738743267328/img/QHPQGu2BCTYGJhoj.jpg",
+   "tools_reported": [
+    "Bend2",
+    "Claude Code"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "brief",
+    "source": "author_reply",
+    "source_url": "https://x.com/zAdrielsan/status/2105867394296250790",
+    "length": 95,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2105822678519001360"
    },
    "resources": []
   },
@@ -6290,6 +6355,40 @@
    "resources": []
   },
   {
+   "id": "2105816670896009224",
+   "models": [
+    "fable-5.5"
+   ],
+   "category": "motion",
+   "title": {
+    "zh": "简单提示生成的酷炫动画",
+    "en": "Cool animation generated from simple prompt"
+   },
+   "creator": {
+    "handle": "cherry_mx_reds",
+    "name": "Tak 🦞"
+   },
+   "original_post_url": "https://x.com/cherry_mx_reds/status/2105816670896009224",
+   "posted_at": "2026-10-02T00:26:33.000Z",
+   "language": "en",
+   "duration_seconds": 17,
+   "views": 151999,
+   "likes": 2131,
+   "bookmarks": 870,
+   "views_checked_at": "2026-10-03T05:46:54.416Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2105815801198501888/img/ykn_wTXzU2IN_ooi.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "brief",
+    "source": "post",
+    "source_url": "https://x.com/cherry_mx_reds/status/2105816670896009224",
+    "length": 39,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2105816670896009224"
+   },
+   "resources": []
+  },
+  {
    "id": "2103043212869026013",
    "models": [
     "opus-5.5"
@@ -7953,6 +8052,34 @@
     "length": 52,
     "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104617133820850379"
    },
+   "resources": []
+  },
+  {
+   "id": "2105808539495354669",
+   "models": [
+    "fable-5.5"
+   ],
+   "category": "motion",
+   "title": {
+    "zh": "生成的动画短片",
+    "en": "Short generated animated video"
+   },
+   "creator": {
+    "handle": "imjustnewatai",
+    "name": "imjustnewatai"
+   },
+   "original_post_url": "https://x.com/imjustnewatai/status/2105808539495354669",
+   "posted_at": "2026-10-01T23:54:14.000Z",
+   "language": "en",
+   "duration_seconds": 62,
+   "views": 121871,
+   "likes": 1158,
+   "bookmarks": 298,
+   "views_checked_at": "2026-10-03T05:46:54.416Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2105808491835273216/img/GJcfjJnywKX82Cin.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
    "resources": []
   },
   {
@@ -13104,6 +13231,37 @@
    "resources": []
   },
   {
+   "id": "2105783511433318451",
+   "models": [
+    "fable-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "Fable 5.5与GPT 6.1对比测试",
+    "en": "Fable 5.5 vs GPT 6.1 speed/quality test"
+   },
+   "creator": {
+    "handle": "SPAC89",
+    "name": "Iam_"
+   },
+   "original_post_url": "https://x.com/SPAC89/status/2105783511433318451",
+   "posted_at": "2026-10-01T22:14:47.000Z",
+   "language": "en",
+   "duration_seconds": 20,
+   "views": 68398,
+   "likes": 386,
+   "bookmarks": 88,
+   "views_checked_at": "2026-10-03T05:46:54.416Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2105782673482362880/img/s1RKjS4fVo_vUh-h.jpg",
+   "tools_reported": [
+    "Claude Code",
+    "Codex"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2102855299413516678",
    "models": [
     "opus-5.5"
@@ -13247,6 +13405,37 @@
    "views_checked_at": "2026-09-28T09:27:18.818Z",
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2103570115681779712/img/haZhoWATZ5q8lnQe.jpg",
    "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2105884276864782557",
+   "models": [
+    "fable-5.5"
+   ],
+   "category": "stories",
+   "title": {
+    "zh": "Hugging Face事件动画短片",
+    "en": "Hugging Face incident animated short"
+   },
+   "creator": {
+    "handle": "chetaslua",
+    "name": "Chetaslua"
+   },
+   "original_post_url": "https://x.com/chetaslua/status/2105884276864782557",
+   "posted_at": "2026-10-02T04:55:11.000Z",
+   "language": "en",
+   "duration_seconds": 221,
+   "views": 67447,
+   "likes": 962,
+   "bookmarks": 423,
+   "views_checked_at": "2026-10-03T05:46:54.416Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2105883581038153728/img/qel3389CG0vTxWFX.jpg",
+   "tools_reported": [
+    "Blender",
+    "ElevenLabs"
+   ],
    "reference_assets": false,
    "prompt": null,
    "resources": []
@@ -14744,6 +14933,34 @@
    "tools_reported": [
     "Claude Code"
    ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2105792187200147541",
+   "models": [
+    "fable-5.5"
+   ],
+   "category": "stories",
+   "title": {
+    "zh": "漫威DC英雄一次生成的动画",
+    "en": "Marvel and DC heroes one-shot animation"
+   },
+   "creator": {
+    "handle": "chetaslua",
+    "name": "Chetaslua"
+   },
+   "original_post_url": "https://x.com/chetaslua/status/2105792187200147541",
+   "posted_at": "2026-10-01T22:49:15.000Z",
+   "language": "en",
+   "duration_seconds": 47,
+   "views": 58761,
+   "likes": 662,
+   "bookmarks": 203,
+   "views_checked_at": "2026-10-03T05:46:54.416Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2105791898170576896/img/2sETYbGHlKKXwrbx.jpg",
+   "tools_reported": [],
    "reference_assets": false,
    "prompt": null,
    "resources": []
@@ -17381,7 +17598,8 @@
   {
    "id": "2103847223557529606",
    "models": [
-    "opus-5.5"
+    "opus-5.5",
+    "fable-5.5"
    ],
    "category": "game",
    "title": {
@@ -19552,6 +19770,40 @@
    "resources": []
   },
   {
+   "id": "2105889407056109991",
+   "models": [
+    "fable-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "3D连锁反应装置模拟",
+    "en": "3D Rube Goldberg machine simulation"
+   },
+   "creator": {
+    "handle": "imjustnewatai",
+    "name": "imjustnewatai"
+   },
+   "original_post_url": "https://x.com/imjustnewatai/status/2105889407056109991",
+   "posted_at": "2026-10-02T05:15:34.000Z",
+   "language": "en",
+   "duration_seconds": 60,
+   "views": 40110,
+   "likes": 707,
+   "bookmarks": 209,
+   "views_checked_at": "2026-10-03T05:46:54.416Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2105889292841029633/img/iz68iBAHIRdyp316.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "brief",
+    "source": "post",
+    "source_url": "https://x.com/imjustnewatai/status/2105889407056109991",
+    "length": 78,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2105889407056109991"
+   },
+   "resources": []
+  },
+  {
    "id": "2102838830285898214",
    "models": [
     "opus-5.5"
@@ -19680,7 +19932,8 @@
   {
    "id": "2105771088374288692",
    "models": [
-    "opus-5.5"
+    "opus-5.5",
+    "fable-5.5"
    ],
    "category": "comparison",
    "title": {
@@ -20967,6 +21220,34 @@
    "tools_reported": [
     "Roblox Studio"
    ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2105833713724432401",
+   "models": [
+    "fable-5.5"
+   ],
+   "category": "product",
+   "title": {
+    "zh": "自生成的产品发布动画",
+    "en": "Self-generated product launch animation"
+   },
+   "creator": {
+    "handle": "leo114119",
+    "name": "Leo 的游戏人生"
+   },
+   "original_post_url": "https://x.com/leo114119/status/2105833713724432401",
+   "posted_at": "2026-10-02T01:34:16.000Z",
+   "language": "zh",
+   "duration_seconds": 15,
+   "views": 34483,
+   "likes": 199,
+   "bookmarks": 93,
+   "views_checked_at": "2026-10-03T05:46:54.416Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2105822170077069313/img/k4UXR4Q7JijgTXOj.jpg",
+   "tools_reported": [],
    "reference_assets": false,
    "prompt": null,
    "resources": []
@@ -37553,6 +37834,34 @@
    "resources": []
   },
   {
+   "id": "2105844373728698828",
+   "models": [
+    "fable-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "短篇生成动画片段",
+    "en": "Short generated animation clip"
+   },
+   "creator": {
+    "handle": "OmNawale45831",
+    "name": "Om Nawale"
+   },
+   "original_post_url": "https://x.com/OmNawale45831/status/2105844373728698828",
+   "posted_at": "2026-10-02T02:16:38.000Z",
+   "language": "en",
+   "duration_seconds": 17,
+   "views": 5755,
+   "likes": 111,
+   "bookmarks": 38,
+   "views_checked_at": "2026-10-03T05:46:54.416Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2105815801198501888/img/ykn_wTXzU2IN_ooi.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2103746670676853047",
    "models": [
     "opus-5.5"
@@ -38066,6 +38375,34 @@
    "tools_reported": [
     "Three.js"
    ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2105765253799903602",
+   "models": [
+    "fable-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "超级智能时代场景",
+    "en": "Superintelligence era scene"
+   },
+   "creator": {
+    "handle": "HarshithLucky3",
+    "name": "Harshith"
+   },
+   "original_post_url": "https://x.com/HarshithLucky3/status/2105765253799903602",
+   "posted_at": "2026-10-01T21:02:14.000Z",
+   "language": "fr",
+   "duration_seconds": 40,
+   "views": 5003,
+   "likes": 146,
+   "bookmarks": 21,
+   "views_checked_at": "2026-10-03T05:46:54.416Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2105756947442257920/img/oLyYXG6pv6p-S7eC.jpg",
+   "tools_reported": [],
    "reference_assets": false,
    "prompt": null,
    "resources": []

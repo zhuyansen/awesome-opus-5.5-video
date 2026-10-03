@@ -1,6 +1,6 @@
 # 模型对比
 
-共 161 个作品，其中 43 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 162 个作品，其中 43 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [AI实验室像素画风格对比](https://x.com/DotCSV/status/2102896366909358276) | Opus 5.5 | [@DotCSV](https://x.com/DotCSV) | 2:38 | — |
 | [多模型生成生物竞速对比](https://x.com/muratomo_app/status/2103677323090505926) | Opus 5.5 | [@muratomo_app](https://x.com/muratomo_app) | 0:15 | — |
 | [果冻物理效果迭代对比](https://x.com/vib3coded/status/2103822857155313953) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:20 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103822857155313953) |
+| [Fable 5.5与GPT 6.1对比测试](https://x.com/SPAC89/status/2105783511433318451) | Fable 5.5 (preview) | [@SPAC89](https://x.com/SPAC89) | 0:20 | — |
 | [Opus5.5对比GPT-6 Sol雪橇犬竞速游戏](https://x.com/higgsfield_ai/status/2102605729039605826) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:37 | — |
 | [埃菲尔铁塔场景生成对比](https://x.com/EnvolDev/status/2103535619603567054) | Opus 5.5 | [@EnvolDev](https://x.com/EnvolDev) | 0:20 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103535619603567054) |
 | [最可怕的噩梦可视化](https://x.com/siyabuilt/status/2105197258970906976) | Sonnet 5.5 | [@siyabuilt](https://x.com/siyabuilt) | 0:42 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2105197258970906976) |
@@ -97,7 +98,7 @@
 | [两款AI模型视觉效果对比](https://x.com/HarshithLucky3/status/2103821120009048245) | Opus 5.5 | [@HarshithLucky3](https://x.com/HarshithLucky3) | 0:45 | — |
 | [机械生物竞速模型对比](https://x.com/muratomo_app/status/2104879078956507640) | Opus 5.5 / Sonnet 5.5 | [@muratomo_app](https://x.com/muratomo_app) | 0:09 | — |
 | [无尽行走动画测试对比](https://x.com/fre4kspace/status/2105168676534280689) | Opus 5.5 / Sonnet 5.5 | [@fre4kspace](https://x.com/fre4kspace) | 0:16 | — |
-| [两个模型生成的发布宣传片对比](https://x.com/mesmerlord/status/2105771088374288692) | Opus 5.5 | [@mesmerlord](https://x.com/mesmerlord) | 1:20 | — |
+| [两个模型生成的发布宣传片对比](https://x.com/mesmerlord/status/2105771088374288692) | Opus 5.5 / Fable 5.5 (preview) | [@mesmerlord](https://x.com/mesmerlord) | 1:20 | — |
 | [金属吊饰特效：Sonnet 5.5对比GPT 6 Sol](https://x.com/ann_nnng/status/2104933959067226165) | Sonnet 5.5 | [@ann_nnng](https://x.com/ann_nnng) | 0:26 | — |
 | [奇幻科幻游戏关卡：Opus 5.5对比GPT 6.1 Sol](https://x.com/aniketjart/status/2105102068818362637) | Opus 5.5 | [@aniketjart](https://x.com/aniketjart) | 0:50 | — |
 | [房产照片转3D带看视频对比](https://x.com/realYunfanYe/status/2103917868287201727) | Opus 5.5 | [@realYunfanYe](https://x.com/realYunfanYe) | 1:06 | — |

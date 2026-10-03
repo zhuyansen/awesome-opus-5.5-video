@@ -1,6 +1,6 @@
 # Model comparisons
 
-161 works, 43 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+162 works, 43 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Pixel art comparison between AI labs](https://x.com/DotCSV/status/2102896366909358276) | Opus 5.5 | [@DotCSV](https://x.com/DotCSV) | 2:38 | — |
 | [AI-model creature race simulation](https://x.com/muratomo_app/status/2103677323090505926) | Opus 5.5 | [@muratomo_app](https://x.com/muratomo_app) | 0:15 | — |
 | [Jelly physics simulation improvement comparison](https://x.com/vib3coded/status/2103822857155313953) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:20 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103822857155313953) |
+| [Fable 5.5 vs GPT 6.1 speed/quality test](https://x.com/SPAC89/status/2105783511433318451) | Fable 5.5 (preview) | [@SPAC89](https://x.com/SPAC89) | 0:20 | — |
 | [Opus 5.5 vs GPT-6 Sol dogsled game](https://x.com/higgsfield_ai/status/2102605729039605826) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:37 | — |
 | [Eiffel Tower recreation comparison](https://x.com/EnvolDev/status/2103535619603567054) | Opus 5.5 | [@EnvolDev](https://x.com/EnvolDev) | 0:20 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103535619603567054) |
 | [Worst Nightmare Visualizations](https://x.com/siyabuilt/status/2105197258970906976) | Sonnet 5.5 | [@siyabuilt](https://x.com/siyabuilt) | 0:42 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2105197258970906976) |
@@ -97,7 +98,7 @@
 | [Visual quality comparison between two AI models](https://x.com/HarshithLucky3/status/2103821120009048245) | Opus 5.5 | [@HarshithLucky3](https://x.com/HarshithLucky3) | 0:45 | — |
 | [Robot creature race model comparison](https://x.com/muratomo_app/status/2104879078956507640) | Opus 5.5 / Sonnet 5.5 | [@muratomo_app](https://x.com/muratomo_app) | 0:09 | — |
 | [Endless walk cycle animation test](https://x.com/fre4kspace/status/2105168676534280689) | Opus 5.5 / Sonnet 5.5 | [@fre4kspace](https://x.com/fre4kspace) | 0:16 | — |
-| [Release trailer comparison between two models](https://x.com/mesmerlord/status/2105771088374288692) | Opus 5.5 | [@mesmerlord](https://x.com/mesmerlord) | 1:20 | — |
+| [Release trailer comparison between two models](https://x.com/mesmerlord/status/2105771088374288692) | Opus 5.5 / Fable 5.5 (preview) | [@mesmerlord](https://x.com/mesmerlord) | 1:20 | — |
 | [Metal charm effect: Sonnet 5.5 vs GPT 6 Sol](https://x.com/ann_nnng/status/2104933959067226165) | Sonnet 5.5 | [@ann_nnng](https://x.com/ann_nnng) | 0:26 | — |
 | [Fantasy sci-fi game level: Opus 5.5 vs GPT 6.1 Sol](https://x.com/aniketjart/status/2105102068818362637) | Opus 5.5 | [@aniketjart](https://x.com/aniketjart) | 0:50 | — |
 | [Real estate photos to 3D walkthrough comparison](https://x.com/realYunfanYe/status/2103917868287201727) | Opus 5.5 | [@realYunfanYe](https://x.com/realYunfanYe) | 1:06 | — |

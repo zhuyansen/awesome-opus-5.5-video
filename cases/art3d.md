@@ -1,6 +1,6 @@
 # 3D worlds & simulations
 
-169 works, 40 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+173 works, 42 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [San Francisco recreated in Unreal Engine](https://x.com/MatthewBerman/status/2102483668468195539) | Opus 5.5 | [@MatthewBerman](https://x.com/MatthewBerman) | 0:54 | — |
 | [3D bed placement room visualization](https://x.com/scheemunai/status/2103059885361598633) | Opus 5.5 | [@scheemunai](https://x.com/scheemunai) | 1:27 | — |
 | [Realistic flowing river Three.js scene](https://x.com/hayashimon1/status/2102576886182453454) | Opus 5.5 | [@hayashimon1](https://x.com/hayashimon1) | 0:15 | — |
+| [Three-body problem physics simulation in Bend2](https://x.com/zAdrielsan/status/2105822678519001360) | Fable 5.5 (preview) | [@zAdrielsan](https://x.com/zAdrielsan) | 2:14 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2105822678519001360) |
 | [Sketch-to-3D house design animation](https://x.com/techartist_/status/2102503719762018434) | Opus 5.5 | [@techartist_](https://x.com/techartist_) | 0:19 | — |
 | [3D water simulation from video reference](https://x.com/Aurelien_Gz/status/2102479887495758076) | Opus 5.5 | [@Aurelien_Gz](https://x.com/Aurelien_Gz) | 0:22 | — |
 | [Floor plan to 3D interior design tool](https://x.com/akokoi1/status/2104520072014508316) | Opus 5.5 | [@akokoi1](https://x.com/akokoi1) | 0:33 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104520072014508316) |
@@ -93,6 +94,7 @@
 | [3D creature rig and bite animation](https://x.com/Stefan_3D_AI/status/2102641562824135022) | Opus 5.5 | [@Stefan_3D_AI](https://x.com/Stefan_3D_AI) | 0:25 | — |
 | [Japanese architecture built with code](https://x.com/yoshifujidesign/status/2105746986339283305) | Opus 5.5 | [@yoshifujidesign](https://x.com/yoshifujidesign) | 0:16 | — |
 | [Live water simulation demo](https://x.com/Avenoxai/status/2102500841097756743) | Opus 5.5 | [@Avenoxai](https://x.com/Avenoxai) | 1:01 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102500841097756743) |
+| [3D Rube Goldberg machine simulation](https://x.com/imjustnewatai/status/2105889407056109991) | Fable 5.5 (preview) | [@imjustnewatai](https://x.com/imjustnewatai) | 1:00 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2105889407056109991) |
 | [Adaptive micro apartment 3D scene](https://x.com/techartist_/status/2102813614797472162) | Opus 5.5 | [@techartist_](https://x.com/techartist_) | 0:19 | — |
 | [Three.js generative 3D experience](https://x.com/chetanankola/status/2103008022369099992) | Opus 5.5 | [@chetanankola](https://x.com/chetanankola) | 0:28 | — |
 | [90s-style demoscene demo in C/OpenGL](https://x.com/gandamu_ml/status/2102919394775220530) | Opus 5.5 | [@gandamu_ml](https://x.com/gandamu_ml) | 6:23 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102919394775220530) |
@@ -170,6 +172,8 @@
 | [Cyberpunk pixel art animation](https://x.com/L_ARCH_01/status/2103137546662515107) | Opus 5.5 | [@L_ARCH_01](https://x.com/L_ARCH_01) | 1:04 | — |
 | [Rainy Japanese garden deer scarer simulation](https://x.com/mizugame_22/status/2103822799580307674) | Opus 5.5 | [@mizugame_22](https://x.com/mizugame_22) | 0:15 | — |
 | [JRPG-style voxel scene made in Blender](https://x.com/gunsturn_tw/status/2103089094666686850) | Opus 5.5 | [@gunsturn_tw](https://x.com/gunsturn_tw) | 1:00 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103089094666686850) |
+| [Short generated animation clip](https://x.com/OmNawale45831/status/2105844373728698828) | Fable 5.5 (preview) | [@OmNawale45831](https://x.com/OmNawale45831) | 0:17 | — |
 | [Teaching Opus pixel art skills](https://x.com/BeamManP/status/2103555482095149320) | Opus 5.5 | [@BeamManP](https://x.com/BeamManP) | 0:45 | — |
 | [Particle water simulation with raymarching](https://x.com/hartspecs/status/2105715231884468384) | Opus 5.5 | [@hartspecs](https://x.com/hartspecs) | 0:21 | — |
 | [Procedurally generated concept car in code](https://x.com/techartist_/status/2104715277120180702) | Sonnet 5.5 | [@techartist_](https://x.com/techartist_) | 0:18 | — |
+| [Superintelligence era scene](https://x.com/HarshithLucky3/status/2105765253799903602) | Fable 5.5 (preview) | [@HarshithLucky3](https://x.com/HarshithLucky3) | 0:40 | — |

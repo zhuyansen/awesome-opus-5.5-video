@@ -1,6 +1,6 @@
 # 产品广告
 
-共 164 个作品，其中 29 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 165 个作品，其中 29 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [用一句Opus 5.5提示词复刻的改装车应用](https://x.com/ErnestoSOFTWARE/status/2104955803492864077) | Opus 5.5 | [@ErnestoSOFTWARE](https://x.com/ErnestoSOFTWARE) | 0:14 | — |
 | [双比例输出的产品宣传片](https://x.com/aiwarts/status/2103419586964316483) | Opus 5.5 | [@aiwarts](https://x.com/aiwarts) | 0:30 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103419586964316483) |
 | [Roblox Studio UI生成插件演示](https://x.com/MyCodeCoach/status/2103235914273370394) | Opus 5.5 | [@MyCodeCoach](https://x.com/MyCodeCoach) | 6:33 | — |
+| [自生成的产品发布动画](https://x.com/leo114119/status/2105833713724432401) | Fable 5.5 (preview) | [@leo114119](https://x.com/leo114119) | 0:15 | — |
 | [AI辅助的加密货币交易台工作流](https://x.com/leopardracer/status/2103783920248528997) | Opus 5.5 | [@leopardracer](https://x.com/leopardracer) | 0:30 | — |
 | [家具照片转3D室内设计应用](https://x.com/higgsfield_ai/status/2102618445489795448) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:32 | — |
 | [Mac应用设计系统改版](https://x.com/dprophecyguy/status/2102735000177451446) | Opus 5.5 | [@dprophecyguy](https://x.com/dprophecyguy) | 0:45 | — |

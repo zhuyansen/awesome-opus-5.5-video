@@ -1,12 +1,13 @@
 # Characters & stories
 
-125 works, 34 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+128 works, 34 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
 | [Recreating the Girl with a Pearl Earring painting moment](https://x.com/EHuanglu/status/2105027077548429557) | Opus 5.5 | [@EHuanglu](https://x.com/EHuanglu) | 0:30 | — |
 | [Video predicting the next 50 years](https://x.com/andrewjiang/status/2102987981695132140) | Opus 5.5 | [@andrewjiang](https://x.com/andrewjiang) | 4:00 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102987981695132140) |
 | [Music video for an AI-generated song](https://x.com/eudaemonea/status/2102610626321490404) | Opus 5.5 | [@eudaemonea](https://x.com/eudaemonea) | 6:13 | — |
+| [Dot prompt becomes Pixar-style animation](https://x.com/cherry_mx_reds/status/2105825930799432073) | Fable 5.5 (preview) | [@cherry_mx_reds](https://x.com/cherry_mx_reds) | 0:15 | — |
 | [French theory essay turned into video](https://x.com/brivael/status/2104216601864106226) | Opus 5.5 | [@brivael](https://x.com/brivael) | 5:32 | — |
 | [Animated story about what you love](https://x.com/kevin_t_ngo/status/2102437977435893771) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 0:28 | — |
 | [Battle of Austerlitz procedural film](https://x.com/WinterArc2125/status/2103116235009347650) | Opus 5.5 | [@WinterArc2125](https://x.com/WinterArc2125) | 5:01 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103116235009347650) |
@@ -41,11 +42,13 @@
 | [30-second AI-made short drama](https://x.com/AI_DVD6/status/2103444180861178199) | Opus 5.5 | [@AI_DVD6](https://x.com/AI_DVD6) | 1:47 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103444180861178199) |
 | [Arcane-style Blender animation](https://x.com/xikhar/status/2105315982525014067) | Opus 5.5 | [@xikhar](https://x.com/xikhar) | 0:15 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2105315982525014067) |
 | [Big Enough to See animated song film](https://x.com/icyklop1/status/2103821742682587327) | Opus 5.5 | [@icyklop1](https://x.com/icyklop1) | 5:04 | — |
+| [Hugging Face incident animated short](https://x.com/chetaslua/status/2105884276864782557) | Fable 5.5 (preview) | [@chetaslua](https://x.com/chetaslua) | 3:41 | — |
 | [Animated robot story across 12 art styles](https://x.com/pradeepXkapoor/status/2103099194693271874) | Opus 5.5 | [@pradeepXkapoor](https://x.com/pradeepXkapoor) | 1:15 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103099194693271874) |
 | [Fire in Cyberspace music video](https://x.com/bradmillscan/status/2105313153202672055) | Opus 5.5 | [@bradmillscan](https://x.com/bradmillscan) | 4:49 | — |
 | [AI self-history documentary video](https://x.com/SkyeSharkie/status/2103167053737980177) | Opus 5.5 | [@SkyeSharkie](https://x.com/SkyeSharkie) | 5:29 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103167053737980177) |
 | [Emotional short film test clip](https://x.com/RileyRalmuto/status/2102679018206052828) | Opus 5.5 | [@RileyRalmuto](https://x.com/RileyRalmuto) | 0:16 | — |
 | [Satirical animated short film](https://x.com/dtzy_88/status/2102955827971883165) | Opus 5.5 | [@dtzy_88](https://x.com/dtzy_88) | 0:51 | — |
+| [Marvel and DC heroes one-shot animation](https://x.com/chetaslua/status/2105792187200147541) | Fable 5.5 (preview) | [@chetaslua](https://x.com/chetaslua) | 0:47 | — |
 | [Japanese folktale narrated video](https://x.com/AIPlus_AISchool/status/2103316853271769126) | Opus 5.5 | [@AIPlus_AISchool](https://x.com/AIPlus_AISchool) | 3:30 | — |
 | [Long-form AI video with audio and sound](https://x.com/dhruvalgolakiya/status/2102733714845491558) | Opus 5.5 | [@dhruvalgolakiya](https://x.com/dhruvalgolakiya) | 2:04 | — |
 | [Mid-Autumn collage-style animated short](https://x.com/ring_hyacinth/status/2102986085328716066) | Opus 5.5 | [@ring_hyacinth](https://x.com/ring_hyacinth) | 0:40 | — |

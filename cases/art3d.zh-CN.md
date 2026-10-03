@@ -1,6 +1,6 @@
 # 3D 场景
 
-共 169 个作品，其中 40 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 173 个作品，其中 42 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [在虚幻引擎中重建旧金山](https://x.com/MatthewBerman/status/2102483668468195539) | Opus 5.5 | [@MatthewBerman](https://x.com/MatthewBerman) | 0:54 | — |
 | [新床摆放的3D房间预览](https://x.com/scheemunai/status/2103059885361598633) | Opus 5.5 | [@scheemunai](https://x.com/scheemunai) | 1:27 | — |
 | [Three.js制作的清澈溪流场景](https://x.com/hayashimon1/status/2102576886182453454) | Opus 5.5 | [@hayashimon1](https://x.com/hayashimon1) | 0:15 | — |
+| [Bend2实现的三体问题物理模拟](https://x.com/zAdrielsan/status/2105822678519001360) | Fable 5.5 (preview) | [@zAdrielsan](https://x.com/zAdrielsan) | 2:14 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2105822678519001360) |
 | [草图到房屋三维建模动画](https://x.com/techartist_/status/2102503719762018434) | Opus 5.5 | [@techartist_](https://x.com/techartist_) | 0:19 | — |
 | [参考视频还原3D水面效果](https://x.com/Aurelien_Gz/status/2102479887495758076) | Opus 5.5 | [@Aurelien_Gz](https://x.com/Aurelien_Gz) | 0:22 | — |
 | [户型图转3D室内设计工具](https://x.com/akokoi1/status/2104520072014508316) | Opus 5.5 | [@akokoi1](https://x.com/akokoi1) | 0:33 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104520072014508316) |
@@ -93,6 +94,7 @@
 | [3D生物骨骼绑定与撕咬动画](https://x.com/Stefan_3D_AI/status/2102641562824135022) | Opus 5.5 | [@Stefan_3D_AI](https://x.com/Stefan_3D_AI) | 0:25 | — |
 | [用代码搭建的日本建筑](https://x.com/yoshifujidesign/status/2105746986339283305) | Opus 5.5 | [@yoshifujidesign](https://x.com/yoshifujidesign) | 0:16 | — |
 | [直播制作的水面模拟](https://x.com/Avenoxai/status/2102500841097756743) | Opus 5.5 | [@Avenoxai](https://x.com/Avenoxai) | 1:01 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102500841097756743) |
+| [3D连锁反应装置模拟](https://x.com/imjustnewatai/status/2105889407056109991) | Fable 5.5 (preview) | [@imjustnewatai](https://x.com/imjustnewatai) | 1:00 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2105889407056109991) |
 | [可变形迷你公寓3D场景](https://x.com/techartist_/status/2102813614797472162) | Opus 5.5 | [@techartist_](https://x.com/techartist_) | 0:19 | — |
 | [Three.js生成式3D体验](https://x.com/chetanankola/status/2103008022369099992) | Opus 5.5 | [@chetanankola](https://x.com/chetanankola) | 0:28 | — |
 | [90年代风格C/OpenGL演示动画](https://x.com/gandamu_ml/status/2102919394775220530) | Opus 5.5 | [@gandamu_ml](https://x.com/gandamu_ml) | 6:23 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102919394775220530) |
@@ -170,6 +172,8 @@
 | [赛博朋克像素艺术动画](https://x.com/L_ARCH_01/status/2103137546662515107) | Opus 5.5 | [@L_ARCH_01](https://x.com/L_ARCH_01) | 1:04 | — |
 | [雨中日式庭院鹿威模拟](https://x.com/mizugame_22/status/2103822799580307674) | Opus 5.5 | [@mizugame_22](https://x.com/mizugame_22) | 0:15 | — |
 | [Blender制作的JRPG风格体素场景](https://x.com/gunsturn_tw/status/2103089094666686850) | Opus 5.5 | [@gunsturn_tw](https://x.com/gunsturn_tw) | 1:00 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103089094666686850) |
+| [短篇生成动画片段](https://x.com/OmNawale45831/status/2105844373728698828) | Fable 5.5 (preview) | [@OmNawale45831](https://x.com/OmNawale45831) | 0:17 | — |
 | [训练Opus绘制像素画技能](https://x.com/BeamManP/status/2103555482095149320) | Opus 5.5 | [@BeamManP](https://x.com/BeamManP) | 0:45 | — |
 | [粒子水模拟与光线行进渲染](https://x.com/hartspecs/status/2105715231884468384) | Opus 5.5 | [@hartspecs](https://x.com/hartspecs) | 0:21 | — |
 | [纯代码生成的概念车模型](https://x.com/techartist_/status/2104715277120180702) | Sonnet 5.5 | [@techartist_](https://x.com/techartist_) | 0:18 | — |
+| [超级智能时代场景](https://x.com/HarshithLucky3/status/2105765253799903602) | Fable 5.5 (preview) | [@HarshithLucky3](https://x.com/HarshithLucky3) | 0:40 | — |

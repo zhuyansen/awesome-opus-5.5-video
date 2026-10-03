@@ -1,6 +1,6 @@
 # Motion graphics & UI
 
-202 works, 76 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+204 works, 77 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Real-time cartoon spinner for agent activity](https://x.com/anshuc/status/2105773281936650247) | Sonnet 5.5 | [@anshuc](https://x.com/anshuc) | 1:51 | — |
 | [Apple Liquid Glass style UI motion showcase](https://x.com/motion_conquest/status/2103510103622308152) | Opus 5.5 | [@motion_conquest](https://x.com/motion_conquest) | 0:16 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103510103622308152) |
 | [One-shot animated video demo](https://x.com/shapelayer/status/2102562623824757136) | Opus 5.5 | [@shapelayer](https://x.com/shapelayer) | 0:21 | — |
+| [Cool animation generated from simple prompt](https://x.com/cherry_mx_reds/status/2105816670896009224) | Fable 5.5 (preview) | [@cherry_mx_reds](https://x.com/cherry_mx_reds) | 0:17 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2105816670896009224) |
 | [Frame-by-frame JavaScript animation](https://x.com/strawhatsu4/status/2102457111787745405) | Opus 5.5 | [@strawhatsu4](https://x.com/strawhatsu4) | 0:14 | — |
 | [Animating a hero design from static images](https://x.com/adriankuleszo/status/2103452143055483132) | Opus 5.5 | [@adriankuleszo](https://x.com/adriankuleszo) | 0:14 | — |
 | [One-shot motion video demo](https://x.com/chhddavid/status/2102666619029999989) | Opus 5.5 | [@chhddavid](https://x.com/chhddavid) | 0:50 | — |
@@ -45,6 +46,7 @@
 | [Code-Generated Audiovisual Animation](https://x.com/AndyL5cc/status/2104060535415476361) | Opus 5.5 | [@AndyL5cc](https://x.com/AndyL5cc) | 2:48 | — |
 | [Piano composition with JS-drawn animation](https://x.com/kevin_t_ngo/status/2103482164193165711) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 0:45 | — |
 | [Code-generated video demo](https://x.com/bridgemindai/status/2103530750767206626) | Opus 5.5 | [@bridgemindai](https://x.com/bridgemindai) | 1:00 | — |
+| [Short generated animated video](https://x.com/imjustnewatai/status/2105808539495354669) | Fable 5.5 (preview) | [@imjustnewatai](https://x.com/imjustnewatai) | 1:02 | — |
 | [Violin score with animation](https://x.com/Hesamation/status/2103535326325055843) | Opus 5.5 | [@Hesamation](https://x.com/Hesamation) | 1:02 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103535326325055843) |
 | [Graphic posts and animation from one prompt](https://x.com/nazmijavierl/status/2102712897701097828) | Opus 5.5 | [@nazmijavierl](https://x.com/nazmijavierl) | 0:16 | — |
 | [20 animation styles compilation](https://x.com/yasinozmeen/status/2104086740600254919) | Opus 5.5 | [@yasinozmeen](https://x.com/yasinozmeen) | 3:46 | — |

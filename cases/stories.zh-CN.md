@@ -1,12 +1,13 @@
 # 角色故事
 
-共 125 个作品，其中 34 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 128 个作品，其中 34 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
 | [《戴珍珠耳环的少女》创作瞬间复原](https://x.com/EHuanglu/status/2105027077548429557) | Opus 5.5 | [@EHuanglu](https://x.com/EHuanglu) | 0:30 | — |
 | [预测未来50年的视频](https://x.com/andrewjiang/status/2102987981695132140) | Opus 5.5 | [@andrewjiang](https://x.com/andrewjiang) | 4:00 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102987981695132140) |
 | [为AI歌曲制作的音乐视频](https://x.com/eudaemonea/status/2102610626321490404) | Opus 5.5 | [@eudaemonea](https://x.com/eudaemonea) | 6:13 | — |
+| [一个点生成的皮克斯风动画](https://x.com/cherry_mx_reds/status/2105825930799432073) | Fable 5.5 (preview) | [@cherry_mx_reds](https://x.com/cherry_mx_reds) | 0:15 | — |
 | [法国理论分析转成视频](https://x.com/brivael/status/2104216601864106226) | Opus 5.5 | [@brivael](https://x.com/brivael) | 5:32 | — |
 | [关于挚爱之物的动画故事](https://x.com/kevin_t_ngo/status/2102437977435893771) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 0:28 | — |
 | [奥斯特里茨战役程序化生成影片](https://x.com/WinterArc2125/status/2103116235009347650) | Opus 5.5 | [@WinterArc2125](https://x.com/WinterArc2125) | 5:01 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103116235009347650) |
@@ -41,11 +42,13 @@
 | [30秒AI短剧作品](https://x.com/AI_DVD6/status/2103444180861178199) | Opus 5.5 | [@AI_DVD6](https://x.com/AI_DVD6) | 1:47 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103444180861178199) |
 | [Arcane风格Blender动画](https://x.com/xikhar/status/2105315982525014067) | Opus 5.5 | [@xikhar](https://x.com/xikhar) | 0:15 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2105315982525014067) |
 | [《Big Enough to See》动画歌曲短片](https://x.com/icyklop1/status/2103821742682587327) | Opus 5.5 | [@icyklop1](https://x.com/icyklop1) | 5:04 | — |
+| [Hugging Face事件动画短片](https://x.com/chetaslua/status/2105884276864782557) | Fable 5.5 (preview) | [@chetaslua](https://x.com/chetaslua) | 3:41 | — |
 | [机器人故事十二种画风演绎](https://x.com/pradeepXkapoor/status/2103099194693271874) | Opus 5.5 | [@pradeepXkapoor](https://x.com/pradeepXkapoor) | 1:15 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103099194693271874) |
 | [《赛博空间之火》音乐视频](https://x.com/bradmillscan/status/2105313153202672055) | Opus 5.5 | [@bradmillscan](https://x.com/bradmillscan) | 4:49 | — |
 | [AI自述身世纪录片](https://x.com/SkyeSharkie/status/2103167053737980177) | Opus 5.5 | [@SkyeSharkie](https://x.com/SkyeSharkie) | 5:29 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103167053737980177) |
 | [令人动容的短片测试片段](https://x.com/RileyRalmuto/status/2102679018206052828) | Opus 5.5 | [@RileyRalmuto](https://x.com/RileyRalmuto) | 0:16 | — |
 | [讽刺题材动画短片](https://x.com/dtzy_88/status/2102955827971883165) | Opus 5.5 | [@dtzy_88](https://x.com/dtzy_88) | 0:51 | — |
+| [漫威DC英雄一次生成的动画](https://x.com/chetaslua/status/2105792187200147541) | Fable 5.5 (preview) | [@chetaslua](https://x.com/chetaslua) | 0:47 | — |
 | [日本民间故事叙事视频](https://x.com/AIPlus_AISchool/status/2103316853271769126) | Opus 5.5 | [@AIPlus_AISchool](https://x.com/AIPlus_AISchool) | 3:30 | — |
 | [带音效配乐的长篇AI视频](https://x.com/dhruvalgolakiya/status/2102733714845491558) | Opus 5.5 | [@dhruvalgolakiya](https://x.com/dhruvalgolakiya) | 2:04 | — |
 | [中秋节拼贴风格动画短片](https://x.com/ring_hyacinth/status/2102986085328716066) | Opus 5.5 | [@ring_hyacinth](https://x.com/ring_hyacinth) | 0:40 | — |

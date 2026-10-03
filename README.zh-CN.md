@@ -1,8 +1,8 @@
-# Awesome Claude 5.5 Video（Opus 5.5 · Sonnet 5.5）
+# Awesome Claude 5.5 Video（Opus 5.5 · Sonnet 5.5 · Fable 5.5）
 
 [English](README.md) | 简体中文
 
-X 上用 Claude Opus 5.5 和 Sonnet 5.5 做出来的视频、动效、3D 场景和游戏，原帖播放量都过 5,000。共 **1237 个作品**（Opus 5.5 1178 个 · Sonnet 5.5 80 个，对比帖两边都计），其中 **311 个附提示词**（123 条完整提示词）。
+X 上用 Claude Opus 5.5、Sonnet 5.5 和 Fable 5.5（内测中、未官宣）做出来的视频、动效、3D 场景和游戏，原帖播放量都过 5,000。共 **1248 个作品**（Opus 5.5 1178 个 · Sonnet 5.5 80 个 · Fable 5.5 13 个，对比帖各边都计），其中 **314 个附提示词**（123 条完整提示词）。
 
 **[在线浏览，可直接播放和复制提示词 →](https://jasonzhu.ai/zh/prompts/claude-opus-5-5)**
 
@@ -26,13 +26,13 @@ X 上用 Claude Opus 5.5 和 Sonnet 5.5 做出来的视频、动效、3D 场景�
 ## 收录标准
 
 - 创作者本人的原帖，帖子自带视频，原帖播放量不低于 5,000（快照时间 2026-10-03）。
-- 帖子明确说作品是用 Claude Opus 5.5 或 Sonnet 5.5 做的，「模型」一栏按作者的说法标注。**模型归属以作者自述为准，没有逐条复现。**
+- 帖子明确说作品是用 Claude Opus 5.5、Sonnet 5.5 或 Fable 5.5 做的，「模型」一栏按作者的说法标注。**Fable 5.5 截至 10 月初只在内测、尚未官宣**，作者自己说「可能是」的不收。**模型归属以作者自述为准，没有逐条复现。**
 - 提示词只收有出处的：主帖正文、作者本人的回复、作者回复里的截图、作者给出的链接。提示词一律原文照录，不改写、不翻译。
 - 有视频但找不到指令来源的作品照常收录，提示词一栏留空。
 
 ## 动效设计
 
-202 个作品 · [完整清单](cases/motion.zh-CN.md)
+204 个作品 · [完整清单](cases/motion.zh-CN.md)
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ X 上用 Claude Opus 5.5 和 Sonnet 5.5 做出来的视频、动效、3D 场景�
 
 ## 产品广告
 
-164 个作品 · [完整清单](cases/product.zh-CN.md)
+165 个作品 · [完整清单](cases/product.zh-CN.md)
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ X 上用 Claude Opus 5.5 和 Sonnet 5.5 做出来的视频、动效、3D 场景�
 
 ## 角色故事
 
-125 个作品 · [完整清单](cases/stories.zh-CN.md)
+128 个作品 · [完整清单](cases/stories.zh-CN.md)
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ X 上用 Claude Opus 5.5 和 Sonnet 5.5 做出来的视频、动效、3D 场景�
 
 ## 3D 场景
 
-169 个作品 · [完整清单](cases/art3d.zh-CN.md)
+173 个作品 · [完整清单](cases/art3d.zh-CN.md)
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -101,9 +101,9 @@ X 上用 Claude Opus 5.5 和 Sonnet 5.5 做出来的视频、动效、3D 场景�
 | [Three.js骑车鹈鹕演示](https://x.com/addyosmani/status/2102436416437580159) | Opus 5.5 | [@addyosmani](https://x.com/addyosmani) | 1:31 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102436416437580159) |
 | [橡皮筋压爆西瓜模拟](https://x.com/vib3coded/status/2104928244382277727) | Sonnet 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:17 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104928244382277727) |
 | [人类最大骗局的可视化动画](https://x.com/ivanainai/status/2105764877986099545) | Opus 5.5 | [@ivanainai](https://x.com/ivanainai) | 0:15 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2105764877986099545) |
+| [Bend2实现的三体问题物理模拟](https://x.com/zAdrielsan/status/2105822678519001360) | Fable 5.5 (preview) | [@zAdrielsan](https://x.com/zAdrielsan) | 2:14 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2105822678519001360) |
 | [户型图转3D室内设计工具](https://x.com/akokoi1/status/2104520072014508316) | Opus 5.5 | [@akokoi1](https://x.com/akokoi1) | 0:33 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104520072014508316) |
 | [可漫游的印度城市世界](https://x.com/pracosm/status/2103387804281745459) | Opus 5.5 | [@pracosm](https://x.com/pracosm) | 0:54 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103387804281745459) |
-| [实时海岸模拟场景](https://x.com/hajimetwi3/status/2104381179151753464) | Opus 5.5 | [@hajimetwi3](https://x.com/hajimetwi3) | 2:02 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104381179151753464) |
 
 ## 游戏
 
@@ -137,7 +137,7 @@ X 上用 Claude Opus 5.5 和 Sonnet 5.5 做出来的视频、动效、3D 场景�
 
 ## 模型对比
 
-161 个作品 · [完整清单](cases/comparison.zh-CN.md)
+162 个作品 · [完整清单](cases/comparison.zh-CN.md)
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
