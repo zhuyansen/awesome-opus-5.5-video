@@ -1,6 +1,6 @@
 # Music, editing & production
 
-92 works, 16 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+93 works, 16 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [CAD drafting workflow demo](https://x.com/hAru_mAki_ch/status/2103698137730924839) | Opus 5.5 | [@hAru_mAki_ch](https://x.com/hAru_mAki_ch) | 0:21 | — |
 | [FreeCAD making-of video](https://x.com/hAru_mAki_ch/status/2103645693265219838) | Opus 5.5 | [@hAru_mAki_ch](https://x.com/hAru_mAki_ch) | 1:46 | — |
 | [AI-composed Baroque trio sonata](https://x.com/aug5thmusic/status/2103549625076752493) | Opus 5.5 | [@aug5thmusic](https://x.com/aug5thmusic) | 1:46 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103549625076752493) |
+| [AI avatar Japanese voice comparison video](https://x.com/nakazakifam/status/2105898430967009547) | Opus 5.5 | [@nakazakifam](https://x.com/nakazakifam) | 5:13 | — |
 | [Automated Blender scene builder demo](https://x.com/higgsfield_ai/status/2103537802688463269) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:12 | — |
 | [Rebuilt space-time VFX shot through a cafe window](https://x.com/higgsfield_ai/status/2102600213361983655) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:17 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102600213361983655) |
 | [Upbeat remix of a Buddhist chant](https://x.com/nishio/status/2103903175631880308) | Opus 5.5 | [@nishio](https://x.com/nishio) | 3:04 | — |

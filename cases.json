@@ -3,8 +3,8 @@
  "model": "Claude 5.5 (Opus 5.5 · Sonnet 5.5 · Fable 5.5)",
  "inclusion_rule": "Original post by the creator, native video attached, >= 5000 views on that post, creator states it was made with Claude Opus 5.5, Sonnet 5.5 or Fable 5.5 (Fable 5.5 is in limited preview, not yet announced). Later posts that embed another account's upload are excluded.",
  "views_threshold": 5000,
- "stats_checked_at": "2026-10-03T06:00:02.633Z",
- "updated_at": "2026-10-03T06:00:02.633Z",
+ "stats_checked_at": "2026-10-03T08:25:54.472Z",
+ "updated_at": "2026-10-03T08:25:54.472Z",
  "model_attribution": "As stated by each creator; not independently reproduced.",
  "cases": [
   {
@@ -8596,6 +8596,40 @@
    ],
    "reference_assets": false,
    "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2105922366190784915",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "motion",
+   "title": {
+    "zh": "带背景音乐的星期提示动效",
+    "en": "Day-of-week kinetic motion graphic with BGM"
+   },
+   "creator": {
+    "handle": "nokonoko_1203",
+    "name": "のこのこ / Satoru Nishio"
+   },
+   "original_post_url": "https://x.com/nokonoko_1203/status/2105922366190784915",
+   "posted_at": "2026-10-02T07:26:32.000Z",
+   "language": "ja",
+   "duration_seconds": 30,
+   "views": 116645,
+   "likes": 1133,
+   "bookmarks": 778,
+   "views_checked_at": "2026-10-03T08:25:54.472Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2105922303586701312/img/ic2ULzCP5kYGwDux.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "brief",
+    "source": "post",
+    "source_url": "https://x.com/nokonoko_1203/status/2105922366190784915",
+    "length": 52,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2105922366190784915"
+   },
    "resources": []
   },
   {
@@ -26636,6 +26670,40 @@
    "resources": []
   },
   {
+   "id": "2105910487015674058",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "无文字呈现人类史上最大骗局的画面",
+    "en": "Wordless visual of history's biggest scam"
+   },
+   "creator": {
+    "handle": "Kadiner_ir",
+    "name": "Kadiner | کادینر"
+   },
+   "original_post_url": "https://x.com/Kadiner_ir/status/2105910487015674058",
+   "posted_at": "2026-10-02T06:39:20.000Z",
+   "language": "fa",
+   "duration_seconds": 15,
+   "views": 20178,
+   "likes": 165,
+   "bookmarks": 73,
+   "views_checked_at": "2026-10-03T08:25:54.472Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2105910025298247681/img/PVbWFf6c0yKVqiNv.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "brief",
+    "source": "post",
+    "source_url": "https://x.com/Kadiner_ir/status/2105910487015674058",
+    "length": 76,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2105910487015674058"
+   },
+   "resources": []
+  },
+  {
    "id": "2102626930977870238",
    "models": [
     "opus-5.5"
@@ -27767,6 +27835,43 @@
     "length": 48,
     "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103678798827020298"
    },
+   "resources": []
+  },
+  {
+   "id": "2105898430967009547",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "production",
+   "title": {
+    "zh": "AI虚拟主播日语语音对比视频",
+    "en": "AI avatar Japanese voice comparison video"
+   },
+   "creator": {
+    "handle": "nakazakifam",
+    "name": "中崎工房 | AIで1時間の仕事を5分で終わらせる人"
+   },
+   "original_post_url": "https://x.com/nakazakifam/status/2105898430967009547",
+   "posted_at": "2026-10-02T05:51:26.000Z",
+   "language": "ja",
+   "duration_seconds": 313,
+   "views": 17504,
+   "likes": 180,
+   "bookmarks": 133,
+   "views_checked_at": "2026-10-03T08:25:54.472Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2105898131837603842/img/kqY_XupUGmUu5y2Z.jpg",
+   "tools_reported": [
+    "ElevenLabs",
+    "Gemini",
+    "GPT-Image-2.5",
+    "LTX",
+    "Soniox",
+    "HyperFrames",
+    "Claude Code",
+    "Codex CLI"
+   ],
+   "reference_assets": true,
+   "prompt": null,
    "resources": []
   },
   {
@@ -31642,6 +31747,45 @@
    "resources": []
   },
   {
+   "id": "2105922894924501283",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "education",
+   "title": {
+    "zh": "讲解9条足球规则的科普视频",
+    "en": "Explainer video of 9 football rules"
+   },
+   "creator": {
+    "handle": "lukasersil",
+    "name": "Lukáš Eršil"
+   },
+   "original_post_url": "https://x.com/lukasersil/status/2105922894924501283",
+   "posted_at": "2026-10-02T07:28:38.000Z",
+   "language": "cs",
+   "duration_seconds": 69,
+   "views": 12528,
+   "likes": 132,
+   "bookmarks": 156,
+   "views_checked_at": "2026-10-03T08:25:54.472Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2105921779478691840/img/QYm_3-KAgORYR8-H.jpg",
+   "tools_reported": [
+    "Claude Code",
+    "Three.js",
+    "ffmpeg",
+    "Puppeteer"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "full",
+    "source": "author_reply",
+    "source_url": "https://x.com/lukasersil/status/2105922900343623773",
+    "length": 11085,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2105922894924501283"
+   },
+   "resources": []
+  },
+  {
    "id": "2103086491157336249",
    "models": [
     "opus-5.5"
@@ -33066,6 +33210,42 @@
    ],
    "reference_assets": false,
    "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2105927781678747965",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "motion",
+   "title": {
+    "zh": "循环播放的产品发布动态模板",
+    "en": "Looping product launch motion template"
+   },
+   "creator": {
+    "handle": "twoclipping",
+    "name": "zero"
+   },
+   "original_post_url": "https://x.com/twoclipping/status/2105927781678747965",
+   "posted_at": "2026-10-02T07:48:04.000Z",
+   "language": "en",
+   "duration_seconds": 24,
+   "views": 11093,
+   "likes": 173,
+   "bookmarks": 335,
+   "views_checked_at": "2026-10-03T08:25:54.472Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2105927334729502720/img/yZZvvWv1sOfR0LdS.jpg",
+   "tools_reported": [
+    "Playwright"
+   ],
+   "reference_assets": true,
+   "prompt": {
+    "kind": "full",
+    "source": "post",
+    "source_url": "https://x.com/twoclipping/status/2105927781678747965",
+    "length": 4397,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2105927781678747965"
+   },
    "resources": []
   },
   {
@@ -35772,6 +35952,34 @@
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2103549080920338432/img/erH5B62WJFcgf5jN.jpg",
    "tools_reported": [],
    "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2105930067717357724",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "game",
+   "title": {
+    "zh": "用代码制作的我的世界克隆游戏预告片",
+    "en": "In-game trailer for coded Minecraft clone"
+   },
+   "creator": {
+    "handle": "ai_for_success",
+    "name": "AshutoshShrivastava"
+   },
+   "original_post_url": "https://x.com/ai_for_success/status/2105930067717357724",
+   "posted_at": "2026-10-02T07:57:09.000Z",
+   "language": "en",
+   "duration_seconds": 99,
+   "views": 8501,
+   "likes": 139,
+   "bookmarks": 17,
+   "views_checked_at": "2026-10-03T08:25:54.472Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2105928008557375488/img/Sw-fCUePEEbbrplh.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
    "prompt": null,
    "resources": []
   },

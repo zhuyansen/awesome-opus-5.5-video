@@ -1,6 +1,6 @@
 # 制作流程
 
-共 92 个作品，其中 16 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 93 个作品，其中 16 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [CAD制图工作流演示](https://x.com/hAru_mAki_ch/status/2103698137730924839) | Opus 5.5 | [@hAru_mAki_ch](https://x.com/hAru_mAki_ch) | 0:21 | — |
 | [FreeCAD制作过程视频](https://x.com/hAru_mAki_ch/status/2103645693265219838) | Opus 5.5 | [@hAru_mAki_ch](https://x.com/hAru_mAki_ch) | 1:46 | — |
 | [AI创作的巴洛克风格三重奏奏鸣曲](https://x.com/aug5thmusic/status/2103549625076752493) | Opus 5.5 | [@aug5thmusic](https://x.com/aug5thmusic) | 1:46 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103549625076752493) |
+| [AI虚拟主播日语语音对比视频](https://x.com/nakazakifam/status/2105898430967009547) | Opus 5.5 | [@nakazakifam](https://x.com/nakazakifam) | 5:13 | — |
 | [自动化Blender场景搭建演示](https://x.com/higgsfield_ai/status/2103537802688463269) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:12 | — |
 | [咖啡馆窗口时空特效镜头重制](https://x.com/higgsfield_ai/status/2102600213361983655) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:17 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102600213361983655) |
 | [佛经动感remix版本](https://x.com/nishio/status/2103903175631880308) | Opus 5.5 | [@nishio](https://x.com/nishio) | 3:04 | — |

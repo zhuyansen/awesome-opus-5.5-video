@@ -1,6 +1,6 @@
 # Motion graphics & UI
 
-204 works, 76 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+206 works, 78 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Graphic posts and animation from one prompt](https://x.com/nazmijavierl/status/2102712897701097828) | Opus 5.5 | [@nazmijavierl](https://x.com/nazmijavierl) | 0:16 | — |
 | [20 animation styles compilation](https://x.com/yasinozmeen/status/2104086740600254919) | Opus 5.5 | [@yasinozmeen](https://x.com/yasinozmeen) | 3:46 | — |
 | [15-second motion designer showreel by @robj3d3](https://x.com/robj3d3/status/2103875898349088830) | Opus 5.5 | [@robj3d3](https://x.com/robj3d3) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103875898349088830) |
+| [Day-of-week kinetic motion graphic with BGM](https://x.com/nokonoko_1203/status/2105922366190784915) | Opus 5.5 | [@nokonoko_1203](https://x.com/nokonoko_1203) | 0:30 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2105922366190784915) |
 | [Attempt to match a reference motion design](https://x.com/makwanatejas170/status/2103922986155917592) | Opus 5.5 | [@makwanatejas170](https://x.com/makwanatejas170) | 0:16 | — |
 | [Design brought to life with animation](https://x.com/Onethirdesigner/status/2103749509616648627) | Opus 5.5 | [@Onethirdesigner](https://x.com/Onethirdesigner) | 0:07 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103749509616648627) |
 | [Preferred AI workflow demo](https://x.com/nikolay_dp/status/2103906337998696678) | Opus 5.5 | [@nikolay_dp](https://x.com/nikolay_dp) | 0:31 | — |
@@ -180,6 +181,7 @@
 | [Website hero section animation](https://x.com/sabosugi/status/2105341635878084863) | Opus 5.5 | [@sabosugi](https://x.com/sabosugi) | 0:47 | — |
 | [Cinemagraph remake of an old illustration with Opus 5.5](https://x.com/shironagasu_ai/status/2105688303655632974) | Opus 5.5 | [@shironagasu_ai](https://x.com/shironagasu_ai) | 0:10 | — |
 | [Documentary opening titles about Bitcoin](https://x.com/cyrilXBT/status/2103677214135124053) | Opus 5.5 | [@cyrilXBT](https://x.com/cyrilXBT) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103677214135124053) |
+| [Looping product launch motion template](https://x.com/twoclipping/status/2105927781678747965) | Opus 5.5 | [@twoclipping](https://x.com/twoclipping) | 0:24 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2105927781678747965) |
 | [Quick visual effect demo](https://x.com/shironagasu_ai/status/2103542106841075992) | Opus 5.5 | [@shironagasu_ai](https://x.com/shironagasu_ai) | 0:05 | — |
 | [AITuber avatar system built with Opus 5.5](https://x.com/lnkiai/status/2105607195224354898) | Opus 5.5 | [@lnkiai](https://x.com/lnkiai) | 0:09 | — |
 | [Two-sentence prompt animation result](https://x.com/tomcupr/status/2103776902960042359) | Opus 5.5 | [@tomcupr](https://x.com/tomcupr) | 0:30 | — |

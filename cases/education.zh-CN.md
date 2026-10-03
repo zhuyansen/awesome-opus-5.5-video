@@ -1,6 +1,6 @@
 # 科普讲解
 
-共 119 个作品，其中 40 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 120 个作品，其中 41 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [一分钟看懂股票投资讲解](https://x.com/RtSubPozrT8wmsN/status/2102763227629375648) | Opus 5.5 | [@RtSubPozrT8wmsN](https://x.com/RtSubPozrT8wmsN) | 0:59 | — |
 | [将文章核心思想可视化的视频](https://x.com/Lonely__MH/status/2103637675609870374) | Opus 5.5 | [@Lonely__MH](https://x.com/Lonely__MH) | 1:01 | — |
 | [植物生理3D水族箱式可视化](https://x.com/sonia_code/status/2103774074505949448) | Opus 5.5 | [@sonia_code](https://x.com/sonia_code) | 0:21 | — |
+| [讲解9条足球规则的科普视频](https://x.com/lukasersil/status/2105922894924501283) | Opus 5.5 | [@lukasersil](https://x.com/lukasersil) | 1:09 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2105922894924501283) |
 | [古斯巴达行军歌曲重现](https://x.com/iosif_lazaridis/status/2103948875929358687) | Opus 5.5 | [@iosif_lazaridis](https://x.com/iosif_lazaridis) | 3:08 | — |
 | [伊斯坦布尔历史地图互动项目](https://x.com/cahidarda/status/2103218970115678497) | Opus 5.5 | [@cahidarda](https://x.com/cahidarda) | 0:10 | — |
 | [查询扇出讲解视频](https://x.com/harpreetchatha_/status/2103591810253914585) | Opus 5.5 | [@harpreetchatha_](https://x.com/harpreetchatha_) | 0:20 | — |

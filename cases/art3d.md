@@ -1,6 +1,6 @@
 # 3D worlds & simulations
 
-171 works, 42 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+172 works, 43 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Step-by-step 3D kitchen remodel plan](https://x.com/Skylartkitchen/status/2103468829859020824) | Opus 5.5 | [@Skylartkitchen](https://x.com/Skylartkitchen) | 1:02 | — |
 | [Spiritual-style generative art](https://x.com/sato_neet/status/2102652916335296913) | Opus 5.5 | [@sato_neet](https://x.com/sato_neet) | 1:04 | — |
 | [Walkable 3D museum tour](https://x.com/mohamedbakuly/status/2102746374450094323) | Opus 5.5 | [@mohamedbakuly](https://x.com/mohamedbakuly) | 1:59 | — |
+| [Wordless visual of history's biggest scam](https://x.com/Kadiner_ir/status/2105910487015674058) | Opus 5.5 | [@Kadiner_ir](https://x.com/Kadiner_ir) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2105910487015674058) |
 | [Image-to-Unreal Engine 3D scene](https://x.com/onofumi_AI/status/2102746676268351570) | Opus 5.5 | [@onofumi_AI](https://x.com/onofumi_AI) | 0:12 | — |
 | [Particle physics engine in one HTML file](https://x.com/cyrilXBT/status/2103532793406149036) | Opus 5.5 | [@cyrilXBT](https://x.com/cyrilXBT) | 0:44 | — |
 | [Tiny harbor Three.js scene](https://x.com/chetanankola/status/2103649622963237261) | Opus 5.5 | [@chetanankola](https://x.com/chetanankola) | 0:25 | — |

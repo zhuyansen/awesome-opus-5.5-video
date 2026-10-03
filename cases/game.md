@@ -1,6 +1,6 @@
 # Games
 
-201 works, 35 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+202 works, 35 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [Custom-character Smash Bros-like game](https://x.com/shi3z/status/2102693511124713497) | Opus 5.5 | [@shi3z](https://x.com/shi3z) | 0:37 | — |
 | [Arcade-style game recreation in progress](https://x.com/dave392750/status/2103252008321024478) | Opus 5.5 | [@dave392750](https://x.com/dave392750) | 0:15 | — |
 | [F-Zero-style racing game in Unreal](https://x.com/ForwardEditor/status/2104633533981491575) | Sonnet 5.5 | [@ForwardEditor](https://x.com/ForwardEditor) | 1:57 | — |
+| [In-game trailer for coded Minecraft clone](https://x.com/ai_for_success/status/2105930067717357724) | Opus 5.5 | [@ai_for_success](https://x.com/ai_for_success) | 1:39 | — |
 | [CoD Zombies clone built in Three.js](https://x.com/intheworldofai/status/2104689634080882967) | Sonnet 5.5 | [@intheworldofai](https://x.com/intheworldofai) | 2:11 | — |
 | [Indie game combat animation update](https://x.com/ShadeLurk/status/2102620856740720761) | Opus 5.5 | [@ShadeLurk](https://x.com/ShadeLurk) | 0:21 | — |
 | [Space civilization browser game](https://x.com/konstantinsaifo/status/2105261985235444072) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 1:01 | — |

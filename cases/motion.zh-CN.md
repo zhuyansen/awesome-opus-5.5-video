@@ -1,6 +1,6 @@
 # 动效设计
 
-共 204 个作品，其中 76 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 206 个作品，其中 78 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [一句提示词做出的图文与动画](https://x.com/nazmijavierl/status/2102712897701097828) | Opus 5.5 | [@nazmijavierl](https://x.com/nazmijavierl) | 0:16 | — |
 | [20种动画风格合集](https://x.com/yasinozmeen/status/2104086740600254919) | Opus 5.5 | [@yasinozmeen](https://x.com/yasinozmeen) | 3:46 | — |
 | [15 秒动效设计师自荐片 · @robj3d3 版](https://x.com/robj3d3/status/2103875898349088830) | Opus 5.5 | [@robj3d3](https://x.com/robj3d3) | 0:15 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103875898349088830) |
+| [带背景音乐的星期提示动效](https://x.com/nokonoko_1203/status/2105922366190784915) | Opus 5.5 | [@nokonoko_1203](https://x.com/nokonoko_1203) | 0:30 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2105922366190784915) |
 | [模仿参考动效质量的尝试作品](https://x.com/makwanatejas170/status/2103922986155917592) | Opus 5.5 | [@makwanatejas170](https://x.com/makwanatejas170) | 0:16 | — |
 | [静态设计动画化演示](https://x.com/Onethirdesigner/status/2103749509616648627) | Opus 5.5 | [@Onethirdesigner](https://x.com/Onethirdesigner) | 0:07 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103749509616648627) |
 | [偏好AI工作流演示](https://x.com/nikolay_dp/status/2103906337998696678) | Opus 5.5 | [@nikolay_dp](https://x.com/nikolay_dp) | 0:31 | — |
@@ -180,6 +181,7 @@
 | [网站首页动画区块](https://x.com/sabosugi/status/2105341635878084863) | Opus 5.5 | [@sabosugi](https://x.com/sabosugi) | 0:47 | — |
 | [用Opus 5.5制作旧插画的电影图效果](https://x.com/shironagasu_ai/status/2105688303655632974) | Opus 5.5 | [@shironagasu_ai](https://x.com/shironagasu_ai) | 0:10 | — |
 | [比特币纪录片开场片头](https://x.com/cyrilXBT/status/2103677214135124053) | Opus 5.5 | [@cyrilXBT](https://x.com/cyrilXBT) | 0:15 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103677214135124053) |
+| [循环播放的产品发布动态模板](https://x.com/twoclipping/status/2105927781678747965) | Opus 5.5 | [@twoclipping](https://x.com/twoclipping) | 0:24 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2105927781678747965) |
 | [快速生成的视觉特效演示](https://x.com/shironagasu_ai/status/2103542106841075992) | Opus 5.5 | [@shironagasu_ai](https://x.com/shironagasu_ai) | 0:05 | — |
 | [用Opus 5.5打造的AITuber虚拟形象系统](https://x.com/lnkiai/status/2105607195224354898) | Opus 5.5 | [@lnkiai](https://x.com/lnkiai) | 0:09 | — |
 | [两句提示词生成的动画](https://x.com/tomcupr/status/2103776902960042359) | Opus 5.5 | [@tomcupr](https://x.com/tomcupr) | 0:30 | — |
