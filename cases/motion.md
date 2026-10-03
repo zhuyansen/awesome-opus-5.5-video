@@ -1,6 +1,6 @@
 # Motion graphics & UI
 
-207 works, 77 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+204 works, 76 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -84,7 +84,6 @@
 | [Cosmos motion piece via HyperFrames](https://x.com/kaolti/status/2103481296018092204) | Opus 5.5 | [@kaolti](https://x.com/kaolti) | 0:40 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103481296018092204) |
 | [Personalized motion showreel using memory](https://x.com/tetumemo/status/2103407771102421285) | Opus 5.5 | [@tetumemo](https://x.com/tetumemo) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103407771102421285) |
 | [JavaScript animation via Replit Animation](https://x.com/samuel_spitz/status/2103293794594816100) | Opus 5.5 | [@samuel_spitz](https://x.com/samuel_spitz) | 0:28 | — |
-| [Hand-drawn coloring doodle animation](https://x.com/Tz_2022/status/2102501726431687055) | Opus 5.5 | [@Tz_2022](https://x.com/Tz_2022) | 0:14 | — |
 | [Typography motion graphics animation](https://x.com/higgsfield_ai/status/2103963588012744859) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:15 | — |
 | [Marketing video made with Opus 5.5](https://x.com/cocona_ailab/status/2102752076107497980) | Opus 5.5 | [@cocona_ailab](https://x.com/cocona_ailab) | 0:10 | — |
 | [Behind the scenes: coded motion graphics video](https://x.com/shneural/status/2103472385563459833) | Opus 5.5 | [@shneural](https://x.com/shneural) | 0:56 | — |
@@ -98,13 +97,11 @@
 | [Short motion design video](https://x.com/blueemi99/status/2106031355922387163) | Opus 5.5 / Fable 5.5 (preview) | [@blueemi99](https://x.com/blueemi99) | 0:15 | — |
 | [Open-ended surprise-me AI video](https://x.com/mhmtycllll/status/2102552313134973187) | Opus 5.5 | [@mhmtycllll](https://x.com/mhmtycllll) | 0:54 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102552313134973187) |
 | [Beat-synced showreel from real clips](https://x.com/twoclipping/status/2102554209166000267) | Opus 5.5 | [@twoclipping](https://x.com/twoclipping) | 0:20 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102554209166000267) |
-| [Code-generated animation showcase](https://x.com/Hesamation/status/2102472597170528449) | Opus 5.5 | [@Hesamation](https://x.com/Hesamation) | 0:28 | — |
 | [Animated Midjourney image montage](https://x.com/ciguleva/status/2104051187825946929) | Opus 5.5 | [@ciguleva](https://x.com/ciguleva) | 0:48 | — |
 | [Layered motion graphics via Tesseract](https://x.com/trymirage/status/2103542300844474452) | Opus 5.5 | [@trymirage](https://x.com/trymirage) | 0:15 | — |
 | [Motion graphics video from designer showreel prompt](https://x.com/konmari_tweet/status/2103639233693159742) | Opus 5.5 | [@konmari_tweet](https://x.com/konmari_tweet) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103639233693159742) |
 | [Reels made with Opus 5.5](https://x.com/javiiarchive/status/2105283486487896448) | Opus 5.5 | [@javiiarchive](https://x.com/javiiarchive) | 0:23 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2105283486487896448) |
 | [Agency intro motion design video](https://x.com/baptistelcx/status/2103437700783038710) | Opus 5.5 | [@baptistelcx](https://x.com/baptistelcx) | 1:18 | — |
-| [Motion showreel from the Japanese version of the viral prompt](https://x.com/shikamarurobo/status/2103824752058216485) | Opus 5.5 | [@shikamarurobo](https://x.com/shikamarurobo) | 0:32 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103824752058216485) |
 | [15-second motion graphics showreel (product update)](https://x.com/SebastianRoehl/status/2103912457836323096) | Opus 5.5 | [@SebastianRoehl](https://x.com/SebastianRoehl) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103912457836323096) |
 | [Motion design and sound engineering demo](https://x.com/kloss_xyz/status/2103557735086428547) | Opus 5.5 | [@kloss_xyz](https://x.com/kloss_xyz) | 1:30 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103557735086428547) |
 | [VRM model character intro animation](https://x.com/tegnike/status/2103588966834245694) | Opus 5.5 | [@tegnike](https://x.com/tegnike) | 0:44 | — |

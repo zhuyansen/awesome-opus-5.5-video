@@ -1,6 +1,6 @@
 # Games
 
-208 works, 35 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+201 works, 35 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -60,7 +60,6 @@
 | [Three.js game built with Opus](https://x.com/xikhar/status/2102588571442188577) | Opus 5.5 | [@xikhar](https://x.com/xikhar) | 3:07 | — |
 | [Mobile-ad-style game clone](https://x.com/rsensui/status/2102796039468253230) | Opus 5.5 | [@rsensui](https://x.com/rsensui) | 1:57 | — |
 | [Illustration to rigged 3D game character pipeline](https://x.com/akakuma0219/status/2103506875165859922) | Opus 5.5 | [@akakuma0219](https://x.com/akakuma0219) | 0:26 | — |
-| [NBA 2K style web game demo](https://x.com/xingbugengming/status/2102768464893181963) | Opus 5.5 | [@xingbugengming](https://x.com/xingbugengming) | 0:29 | — |
 | [Kerala snake boat race game](https://x.com/jessinvibe/status/2103565292198838314) | Opus 5.5 | [@jessinvibe](https://x.com/jessinvibe) | 0:51 | — |
 | [Pokeidle idle game promo clip](https://x.com/pedrofasi/status/2103631509773025717) | Opus 5.5 | [@pedrofasi](https://x.com/pedrofasi) | 0:15 | — |
 | [Overnight Roblox game build](https://x.com/albie_io/status/2102823486439973305) | Opus 5.5 | [@albie_io](https://x.com/albie_io) | 1:30 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102823486439973305) |
@@ -80,9 +79,7 @@
 | [Pressure Wash Panic mobile game](https://x.com/chongdashu/status/2102674509593796808) | Opus 5.5 | [@chongdashu](https://x.com/chongdashu) | 0:15 | — |
 | [One-shot Mario Kart game demo](https://x.com/matthewmillerai/status/2104668017258872907) | Sonnet 5.5 | [@matthewmillerai](https://x.com/matthewmillerai) | 1:30 | — |
 | [3D game development with Godot](https://x.com/KanaWorks_AI/status/2102955708321062975) | Opus 5.5 | [@KanaWorks_AI](https://x.com/KanaWorks_AI) | 0:32 | — |
-| [Splatoon-style game clone](https://x.com/halukik_0520/status/2103479541528481823) | Opus 5.5 | [@halukik_0520](https://x.com/halukik_0520) | 2:28 | — |
 | [Roblox game made for young players](https://x.com/IHayato/status/2103997319284940856) | Opus 5.5 | [@IHayato](https://x.com/IHayato) | 0:33 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103997319284940856) |
-| [Wolverine game built with simple prompts](https://x.com/AboDantee/status/2104718259539062906) | Sonnet 5.5 | [@AboDantee](https://x.com/AboDantee) | 3:00 | — |
 | [Cozy browser fishing game update](https://x.com/dangreenheck/status/2103004432786993341) | Opus 5.5 | [@dangreenheck](https://x.com/dangreenheck) | 4:52 | — |
 | [Video game built with a self-improvement loop](https://x.com/jorge_coder/status/2103966645588984183) | Opus 5.5 | [@jorge_coder](https://x.com/jorge_coder) | 2:36 | — |
 | [One-shot zombies game build](https://x.com/bridgemindai/status/2104662073561264283) | Sonnet 5.5 | [@bridgemindai](https://x.com/bridgemindai) | 0:54 | — |
@@ -95,7 +92,6 @@
 | [Unreal/Blender game project update](https://x.com/seftsaint/status/2103491735855022174) | Opus 5.5 | [@seftsaint](https://x.com/seftsaint) | 1:16 | — |
 | [Roblox anime fighting game](https://x.com/m_ferreira28/status/2102561495104291156) | Opus 5.5 | [@m_ferreira28](https://x.com/m_ferreira28) | 0:46 | — |
 | [Waymo drive down Lombard Street](https://x.com/mindblown_ai/status/2106112279079199037) | Fable 5.5 (preview) | [@mindblown_ai](https://x.com/mindblown_ai) | 1:13 | — |
-| [3D browser racing-style game](https://x.com/ai_growth_avii/status/2104066630108188974) | Opus 5.5 | [@ai_growth_avii](https://x.com/ai_growth_avii) | 2:21 | — |
 | [Playable ARPG built with Opus 5.5 and Unreal](https://x.com/KanaWorks_AI/status/2103138051165933661) | Opus 5.5 | [@KanaWorks_AI](https://x.com/KanaWorks_AI) | 0:51 | — |
 | [Vibe-coded game with process notes](https://x.com/sonia_code/status/2103441886488990016) | Opus 5.5 | [@sonia_code](https://x.com/sonia_code) | 0:08 | — |
 | [Origami-style game visuals in Godot](https://x.com/KanaWorks_AI/status/2103333960805908585) | Opus 5.5 | [@KanaWorks_AI](https://x.com/KanaWorks_AI) | 0:33 | — |
@@ -108,7 +104,6 @@
 | [Rocket League-style clone with cinematic](https://x.com/LLMJunky/status/2102847543042343072) | Opus 5.5 | [@LLMJunky](https://x.com/LLMJunky) | 1:07 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102847543042343072) |
 | [Arena boss fight built with Sonnet 5.5](https://x.com/quadcode_ai/status/2105011219824275831) | Sonnet 5.5 | [@quadcode_ai](https://x.com/quadcode_ai) | 0:29 | — |
 | [Worms Armageddon recreation](https://x.com/emmanuel_2m/status/2104009685271814193) | Opus 5.5 | [@emmanuel_2m](https://x.com/emmanuel_2m) | 0:46 | — |
-| [Splatoon-style game recreation](https://x.com/mahiru35628/status/2103527254085243340) | Opus 5.5 | [@mahiru35628](https://x.com/mahiru35628) | 4:02 | — |
 | [Hogwarts-themed Roblox game trailer](https://x.com/m_ferreira28/status/2103795282798428303) | Opus 5.5 | [@m_ferreira28](https://x.com/m_ferreira28) | 0:30 | — |
 | [Horse-racing character game built with Opus 5.5](https://x.com/AbaneChan/status/2104926657425678643) | Opus 5.5 | [@AbaneChan](https://x.com/AbaneChan) | 1:58 | — |
 | [Construction battle game prototype](https://x.com/asobodesign/status/2102552980818182512) | Opus 5.5 | [@asobodesign](https://x.com/asobodesign) | 1:14 | — |
@@ -119,7 +114,6 @@
 | [Retro space pixel game with mascot](https://x.com/riku720720/status/2102547249834385584) | Opus 5.5 | [@riku720720](https://x.com/riku720720) | 1:00 | — |
 | [Roguelike naval battle game trailer](https://x.com/ootamato/status/2103752104892612736) | Opus 5.5 | [@ootamato](https://x.com/ootamato) | 0:22 | — |
 | [New area added to a game-recompilation mod](https://x.com/davis7/status/2103567411782078485) | Opus 5.5 | [@davis7](https://x.com/davis7) | 1:03 | — |
-| [Game made by Claude Opus 5.5](https://x.com/Dr_Singularity/status/2102490803503264062) | Opus 5.5 | [@Dr_Singularity](https://x.com/Dr_Singularity) | 2:11 | — |
 | [Pod racer game with graphics and sound](https://x.com/Aurelien_Gz/status/2103195122422755563) | Opus 5.5 | [@Aurelien_Gz](https://x.com/Aurelien_Gz) | 0:33 | — |
 | [Fox game motion showcase upgrade](https://x.com/AmirAnonn/status/2103410995272020375) | Opus 5.5 | [@AmirAnonn](https://x.com/AmirAnonn) | 0:20 | — |
 | [Playable JS guitar made with Opus 5.5](https://x.com/notargs/status/2104952295335370855) | Opus 5.5 | [@notargs](https://x.com/notargs) | 0:57 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104952295335370855) |
@@ -144,7 +138,6 @@
 | [Fantasy sci-fi game visual update](https://x.com/aniketjart/status/2105793038048182737) | Opus 5.5 | [@aniketjart](https://x.com/aniketjart) | 0:36 | — |
 | [In-progress three.js game after seven-hour build](https://x.com/cryptomanavan/status/2102772685541347618) | Opus 5.5 | [@cryptomanavan](https://x.com/cryptomanavan) | 1:56 | — |
 | [Roblox game one-shot (5 minutes)](https://x.com/JohnKlerAI/status/2103593367284408448) | Opus 5.5 | [@JohnKlerAI](https://x.com/JohnKlerAI) | 0:06 | — |
-| [Mario Kart-style game one-shot](https://x.com/mahiru35628/status/2103298852619182540) | Opus 5.5 | [@mahiru35628](https://x.com/mahiru35628) | 0:52 | — |
 | [Card game direction redesign for a Steam festival](https://x.com/ShadeLurk/status/2102626930977870238) | Opus 5.5 | [@ShadeLurk](https://x.com/ShadeLurk) | 0:31 | — |
 | [Realistic snow scene game build](https://x.com/jumperz/status/2102486361068425247) | Opus 5.5 | [@jumperz](https://x.com/jumperz) | 2:01 | — |
 | [Side-scrolling siege game with intro video](https://x.com/KanaWorks_AI/status/2102684116525437206) | Opus 5.5 | [@KanaWorks_AI](https://x.com/KanaWorks_AI) | 1:00 | — |

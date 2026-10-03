@@ -1,6 +1,6 @@
 # 模型对比
 
-共 167 个作品，其中 45 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 163 个作品，其中 45 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -57,7 +57,6 @@
 | [游戏构建模型对比](https://x.com/quadcode_ai/status/2103493431238570124) | Opus 5.5 | [@quadcode_ai](https://x.com/quadcode_ai) | 0:25 | — |
 | [果冻物理效果对比](https://x.com/MatoToushi/status/2104819480664936749) | Opus 5.5 | [@MatoToushi](https://x.com/MatoToushi) | 0:31 | — |
 | [不同模型的着色器对比测试](https://x.com/emollick/status/2102441628661080384) | Opus 5.5 | [@emollick](https://x.com/emollick) | 0:10 | — |
-| [多款AI模型设计3D打印桥梁对比](https://x.com/ilkergirit/status/2104624142754398714) | Opus 5.5 | [@ilkergirit](https://x.com/ilkergirit) | 1:19 | — |
 | [电脑操作画图测试：Opus5.5对比GPT-6 Sol](https://x.com/superalesha/status/2103209293919223872) | Opus 5.5 | [@superalesha](https://x.com/superalesha) | 0:45 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103209293919223872) |
 | [3D鹈鹕骑车测试：Opus5.5对比GPT-6 Sol（Blender）](https://x.com/akshdeeps_001/status/2103105995606282719) | Opus 5.5 | [@akshdeeps_001](https://x.com/akshdeeps_001) | 0:10 | — |
 | [笔记本手绘草图动画化对比](https://x.com/higgsfield_ai/status/2102838124288283008) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:18 | — |
@@ -151,7 +150,6 @@
 | [交互式3D眼球解剖模型对比](https://x.com/higgsfield_ai/status/2102536138884092185) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:20 | — |
 | [Three.js 体素风日本庭园](https://x.com/vikktorrrre/status/2105955048018588084) | Opus 5.5 / Fable 5.5 (preview) | [@vikktorrrre](https://x.com/vikktorrrre) | 1:04 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2105955048018588084) |
 | [Opus与Codex制作视频用量成本对比](https://x.com/xilo2991/status/2103702707764883592) | Opus 5.5 | [@xilo2991](https://x.com/xilo2991) | 3:44 | — |
-| [Opus 5.5与GPT-6 Astra 3D测试对比](https://x.com/Rocketesla_KR/status/2102531379443679518) | Opus 5.5 | [@Rocketesla_KR](https://x.com/Rocketesla_KR) | 0:46 | — |
 | [Opus 5.5 与 GPT-6 Astra 配音动画同步测试](https://x.com/erhanmeydan/status/2103917581103169729) | Opus 5.5 | [@erhanmeydan](https://x.com/erhanmeydan) | 0:48 | — |
 | [可交互3D软糖水母双模型对比](https://x.com/vib3coded/status/2104651061336117614) | Sonnet 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:18 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104651061336117614) |
 | [互动果冻火龙果对比测试](https://x.com/noclipepe/status/2103529884173664387) | Opus 5.5 | [@noclipepe](https://x.com/noclipepe) | 0:25 | — |
@@ -166,8 +164,6 @@
 | [3D控制器模型版本对比](https://x.com/notjazii/status/2106050222828998967) | Fable 5.5 (preview) | [@notjazii](https://x.com/notjazii) | 0:34 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2106050222828998967) |
 | [配音技能与无技能视频效果对比](https://x.com/VincentWei93/status/2103549280082612377) | Opus 5.5 | [@VincentWei93](https://x.com/VincentWei93) | 1:35 | — |
 | [Opus 5.5 与 Astra 作为机器人策略的token对比](https://x.com/dimentary/status/2103574284576977325) | Opus 5.5 | [@dimentary](https://x.com/dimentary) | 1:16 | — |
-| [Opus 5.5对比GPT-6 Sol游戏](https://x.com/RealFedeURU/status/2103551956098674957) | Opus 5.5 | [@RealFedeURU](https://x.com/RealFedeURU) | 0:25 | — |
-| [同一3D任务的双模型对比](https://x.com/RealFedeURU/status/2103545845706551364) | Opus 5.5 | [@RealFedeURU](https://x.com/RealFedeURU) | 0:11 | — |
 | [落地页生成双模型对比](https://x.com/blueemi99/status/2104682412840284410) | Sonnet 5.5 | [@blueemi99](https://x.com/blueemi99) | 0:45 | — |
 | [柏青哥特效：Opus5.5版本对比](https://x.com/priketsu_game/status/2102567925622411695) | Opus 5.5 | [@priketsu_game](https://x.com/priketsu_game) | 0:30 | — |
 | [Opus对比Astra立体模型制作（Blender)](https://x.com/sino1782013/status/2103449301838078098) | Opus 5.5 | [@sino1782013](https://x.com/sino1782013) | 0:56 | — |

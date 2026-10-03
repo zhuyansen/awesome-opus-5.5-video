@@ -1,6 +1,6 @@
 # 科普讲解
 
-共 122 个作品，其中 40 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 119 个作品，其中 40 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -94,11 +94,9 @@
 | [关于三种物理理论风格的讲解视频](https://x.com/bukuro8810/status/2103739912591929851) | Opus 5.5 | [@bukuro8810](https://x.com/bukuro8810) | 5:04 | — |
 | [Manim制作的导数概念教学视频](https://x.com/LinearUncle/status/2103128559174971663) | Opus 5.5 | [@LinearUncle](https://x.com/LinearUncle) | 7:37 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103128559174971663) |
 | [个人风格讲解詹森不等式](https://x.com/prathoshap/status/2103843937735888898) | Opus 5.5 | [@prathoshap](https://x.com/prathoshap) | 0:30 | — |
-| [带奖励机制的数学练习App演示](https://x.com/sora19ai/status/2103957310288826613) | Opus 5.5 | [@sora19ai](https://x.com/sora19ai) | 0:53 | — |
 | [研究平台起源故事视频](https://x.com/sreeramkannan/status/2104027910004949132) | Opus 5.5 | [@sreeramkannan](https://x.com/sreeramkannan) | 0:53 | — |
 | [神秘东方文明介绍动画](https://x.com/yanhua1010/status/2103712543168680363) | Opus 5.5 | [@yanhua1010](https://x.com/yanhua1010) | 2:15 | — |
 | [榫卯结构科普视频](https://x.com/op7418/status/2105675440409174160) | Opus 5.5 | [@op7418](https://x.com/op7418) | 0:48 | — |
-| [像素风神经网络训练可视化](https://x.com/Tz_2022/status/2102800251820343753) | Opus 5.5 | [@Tz_2022](https://x.com/Tz_2022) | 0:56 | — |
 | [二十四节气动画与八卦图](https://x.com/threeaus/status/2103518455404396927) | Opus 5.5 | [@threeaus](https://x.com/threeaus) | 1:03 | — |
 | [给孩子讲解四季与昼夜循环的科普视频](https://x.com/KashPrime/status/2103862007208591605) | Opus 5.5 | [@KashPrime](https://x.com/KashPrime) | 3:06 | — |
 | [个人基准测试重要性讲解视频](https://x.com/danshipper/status/2103678798827020298) | Opus 5.5 | [@danshipper](https://x.com/danshipper) | 2:52 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103678798827020298) |
@@ -121,7 +119,6 @@
 | [环面胞腔分解数学讲解动画](https://x.com/yohaku121244/status/2103744418977358021) | Opus 5.5 | [@yohaku121244](https://x.com/yohaku121244) | 2:21 | — |
 | [地球恐龙时代到绳纹时代科普动画](https://x.com/mellow_neet2000/status/2103487198758834408) | Opus 5.5 | [@mellow_neet2000](https://x.com/mellow_neet2000) | 2:20 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103487198758834408) |
 | [《中途岛海战》3D讲解影片](https://x.com/wshuyi/status/2103644455916175505) | Opus 5.5 | [@wshuyi](https://x.com/wshuyi) | 8:29 | — |
-| [从数据中心缩放到原子的动画](https://x.com/ai_ba_reza/status/2103792451551113363) | Opus 5.5 | [@ai_ba_reza](https://x.com/ai_ba_reza) | 0:49 | — |
 | [加密货币交易概念动画](https://x.com/Dan_Kostecki/status/2103761581871964592) | Opus 5.5 | [@Dan_Kostecki](https://x.com/Dan_Kostecki) | 2:43 | — |
 | [呼吁"终结美联储"的15秒说明视频](https://x.com/cboyack/status/2103617085402407181) | Opus 5.5 | [@cboyack](https://x.com/cboyack) | 0:15 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103617085402407181) |
 | [为Anthropic科学博客制作的讲解视频](https://x.com/deepwhitman/status/2103562764929389035) | Opus 5.5 | [@deepwhitman](https://x.com/deepwhitman) | 1:39 | — |

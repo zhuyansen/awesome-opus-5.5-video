@@ -1,6 +1,6 @@
 # 3D 场景
 
-共 173 个作品，其中 42 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 171 个作品，其中 42 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -140,7 +140,6 @@
 | [乐天世界主题公园3D重现](https://x.com/Neetfujisub/status/2103658660874621079) | Opus 5.5 | [@Neetfujisub](https://x.com/Neetfujisub) | 1:35 | — |
 | [吹泡泡看田园风光的互动场景](https://x.com/akakuma0219/status/2103045683452490054) | Opus 5.5 | [@akakuma0219](https://x.com/akakuma0219) | 0:39 | — |
 | [开源哥特式大教堂3D场景](https://x.com/TokenGremlin/status/2103145953859375539) | Opus 5.5 | [@TokenGremlin](https://x.com/TokenGremlin) | 1:54 | — |
-| [自画像与配乐钢琴曲](https://x.com/Tz_2022/status/2103186710506917892) | Opus 5.5 | [@Tz_2022](https://x.com/Tz_2022) | 0:20 | — |
 | [为自制3D软件开发的卡通渲染器](https://x.com/sekiun_creation/status/2103462799976575323) | Opus 5.5 | [@sekiun_creation](https://x.com/sekiun_creation) | 0:29 | — |
 | [上海顶层公寓Vision Pro场景](https://x.com/ivanfioravanti/status/2103701018450288657) | Opus 5.5 | [@ivanfioravanti](https://x.com/ivanfioravanti) | 1:39 | — |
 | [3D工具VFX精度测试](https://x.com/MattiaMerenda2/status/2103864218449559853) | Opus 5.5 | [@MattiaMerenda2](https://x.com/MattiaMerenda2) | 0:10 | — |
@@ -172,7 +171,6 @@
 | [赛博朋克像素艺术动画](https://x.com/L_ARCH_01/status/2103137546662515107) | Opus 5.5 | [@L_ARCH_01](https://x.com/L_ARCH_01) | 1:04 | — |
 | [雨中日式庭院鹿威模拟](https://x.com/mizugame_22/status/2103822799580307674) | Opus 5.5 | [@mizugame_22](https://x.com/mizugame_22) | 0:15 | — |
 | [Blender制作的JRPG风格体素场景](https://x.com/gunsturn_tw/status/2103089094666686850) | Opus 5.5 | [@gunsturn_tw](https://x.com/gunsturn_tw) | 1:00 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103089094666686850) |
-| [短篇生成动画片段](https://x.com/OmNawale45831/status/2105844373728698828) | Fable 5.5 (preview) | [@OmNawale45831](https://x.com/OmNawale45831) | 0:17 | — |
 | [训练Opus绘制像素画技能](https://x.com/BeamManP/status/2103555482095149320) | Opus 5.5 | [@BeamManP](https://x.com/BeamManP) | 0:45 | — |
 | [粒子水模拟与光线行进渲染](https://x.com/hartspecs/status/2105715231884468384) | Opus 5.5 | [@hartspecs](https://x.com/hartspecs) | 0:21 | — |
 | [纯代码生成的概念车模型](https://x.com/techartist_/status/2104715277120180702) | Sonnet 5.5 | [@techartist_](https://x.com/techartist_) | 0:18 | — |

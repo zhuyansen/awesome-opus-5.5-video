@@ -1,6 +1,6 @@
 # 产品广告
 
-共 167 个作品，其中 29 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 164 个作品，其中 29 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -44,7 +44,6 @@
 | [记账应用宣传视频](https://x.com/gonahmias/status/2102893439159251247) | Opus 5.5 | [@gonahmias](https://x.com/gonahmias) | 0:38 | — |
 | [实时网站重设计工具演示](https://x.com/0xMovez/status/2103177715125752176) | Opus 5.5 | [@0xMovez](https://x.com/0xMovez) | 0:33 | — |
 | [DocJev产品预告片](https://x.com/jerryjliu0/status/2102479924032577686) | Opus 5.5 | [@jerryjliu0](https://x.com/jerryjliu0) | 0:31 | — |
-| [X平台热度预测分析工具](https://x.com/tatsuki_nowave/status/2103043510580793578) | Opus 5.5 | [@tatsuki_nowave](https://x.com/tatsuki_nowave) | 0:21 | — |
 | [一句提示词生成的SaaS发布视频](https://x.com/moritzkremb/status/2103066071838466494) | Opus 5.5 | [@moritzkremb](https://x.com/moritzkremb) | 0:46 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103066071838466494) |
 | [基于参考图迭代的App设计](https://x.com/premiumtantan/status/2102474993783468529) | Opus 5.5 | [@premiumtantan](https://x.com/premiumtantan) | 0:32 | — |
 | [Mac应用引导流程演示](https://x.com/dhruvalgolakiya/status/2102719130726285784) | Opus 5.5 | [@dhruvalgolakiya](https://x.com/dhruvalgolakiya) | 0:13 | — |
@@ -63,7 +62,6 @@
 | [编程插件演示视频](https://x.com/eliasstravik/status/2102826740951232530) | Opus 5.5 | [@eliasstravik](https://x.com/eliasstravik) | 0:15 | — |
 | [深色模式销售仪表盘实现](https://x.com/salungprastyo/status/2103015120104525942) | Opus 5.5 | [@salungprastyo](https://x.com/salungprastyo) | 0:33 | — |
 | [Designship2026 30秒广告](https://x.com/hajipion/status/2103766842024362220) | Opus 5.5 | [@hajipion](https://x.com/hajipion) | 0:30 | — |
-| [品牌广告宣传片](https://x.com/satori_sz9/status/2106007762128007332) | Fable 5.5 (preview) | [@satori_sz9](https://x.com/satori_sz9) | 1:02 | — |
 | [两小时搭建的网站](https://x.com/ShivaGupta4639/status/2103840021447110673) | Opus 5.5 | [@ShivaGupta4639](https://x.com/ShivaGupta4639) | 0:27 | — |
 | [水瓶营销网站演示](https://x.com/zarazhangrui/status/2105096296831017078) | Opus 5.5 | [@zarazhangrui](https://x.com/zarazhangrui) | 0:39 | — |
 | [单条提示生成的设计成果](https://x.com/PancaSeptiana/status/2103395361058664888) | Opus 5.5 | [@PancaSeptiana](https://x.com/PancaSeptiana) | 0:06 | — |
@@ -92,7 +90,6 @@
 | [用一句Opus 5.5提示词复刻的改装车应用](https://x.com/ErnestoSOFTWARE/status/2104955803492864077) | Opus 5.5 | [@ErnestoSOFTWARE](https://x.com/ErnestoSOFTWARE) | 0:14 | — |
 | [双比例输出的产品宣传片](https://x.com/aiwarts/status/2103419586964316483) | Opus 5.5 | [@aiwarts](https://x.com/aiwarts) | 0:30 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103419586964316483) |
 | [Roblox Studio UI生成插件演示](https://x.com/MyCodeCoach/status/2103235914273370394) | Opus 5.5 | [@MyCodeCoach](https://x.com/MyCodeCoach) | 6:33 | — |
-| [自生成的产品发布动画](https://x.com/leo114119/status/2105833713724432401) | Fable 5.5 (preview) | [@leo114119](https://x.com/leo114119) | 0:15 | — |
 | [AI辅助的加密货币交易台工作流](https://x.com/leopardracer/status/2103783920248528997) | Opus 5.5 | [@leopardracer](https://x.com/leopardracer) | 0:30 | — |
 | [家具照片转3D室内设计应用](https://x.com/higgsfield_ai/status/2102618445489795448) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:32 | — |
 | [Mac应用设计系统改版](https://x.com/dprophecyguy/status/2102735000177451446) | Opus 5.5 | [@dprophecyguy](https://x.com/dprophecyguy) | 0:45 | — |

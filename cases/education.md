@@ -1,6 +1,6 @@
 # Explainers & education
 
-122 works, 40 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+119 works, 40 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -94,11 +94,9 @@
 | [Video on three physics theory styles](https://x.com/bukuro8810/status/2103739912591929851) | Opus 5.5 | [@bukuro8810](https://x.com/bukuro8810) | 5:04 | — |
 | [Manim derivative concept teaching video](https://x.com/LinearUncle/status/2103128559174971663) | Opus 5.5 | [@LinearUncle](https://x.com/LinearUncle) | 7:37 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103128559174971663) |
 | [Jensen's inequality lecture in personal style](https://x.com/prathoshap/status/2103843937735888898) | Opus 5.5 | [@prathoshap](https://x.com/prathoshap) | 0:30 | — |
-| [Reward-based math drill app demo](https://x.com/sora19ai/status/2103957310288826613) | Opus 5.5 | [@sora19ai](https://x.com/sora19ai) | 0:53 | — |
 | [Research platform origin story video](https://x.com/sreeramkannan/status/2104027910004949132) | Opus 5.5 | [@sreeramkannan](https://x.com/sreeramkannan) | 0:53 | — |
 | [Explainer on an ancient eastern civilization](https://x.com/yanhua1010/status/2103712543168680363) | Opus 5.5 | [@yanhua1010](https://x.com/yanhua1010) | 2:15 | — |
 | [Mortise and tenon joinery explainer video](https://x.com/op7418/status/2105675440409174160) | Opus 5.5 | [@op7418](https://x.com/op7418) | 0:48 | — |
-| [Pixel-style neural network training visualization](https://x.com/Tz_2022/status/2102800251820343753) | Opus 5.5 | [@Tz_2022](https://x.com/Tz_2022) | 0:56 | — |
 | [24 solar terms animation with Bagua diagram](https://x.com/threeaus/status/2103518455404396927) | Opus 5.5 | [@threeaus](https://x.com/threeaus) | 1:03 | — |
 | [Seasons and day/night cycle explainer for kids](https://x.com/KashPrime/status/2103862007208591605) | Opus 5.5 | [@KashPrime](https://x.com/KashPrime) | 3:06 | — |
 | [Explainer on personal benchmarks](https://x.com/danshipper/status/2103678798827020298) | Opus 5.5 | [@danshipper](https://x.com/danshipper) | 2:52 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103678798827020298) |
@@ -121,7 +119,6 @@
 | [Torus cell decomposition math explainer](https://x.com/yohaku121244/status/2103744418977358021) | Opus 5.5 | [@yohaku121244](https://x.com/yohaku121244) | 2:21 | — |
 | [Earth's dinosaur-to-Jomon-era explainer](https://x.com/mellow_neet2000/status/2103487198758834408) | Opus 5.5 | [@mellow_neet2000](https://x.com/mellow_neet2000) | 2:20 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103487198758834408) |
 | [Battle of Midway 3D explainer film](https://x.com/wshuyi/status/2103644455916175505) | Opus 5.5 | [@wshuyi](https://x.com/wshuyi) | 8:29 | — |
-| [Data center to atom zoom animation](https://x.com/ai_ba_reza/status/2103792451551113363) | Opus 5.5 | [@ai_ba_reza](https://x.com/ai_ba_reza) | 0:49 | — |
 | [Crypto trading concept animation](https://x.com/Dan_Kostecki/status/2103761581871964592) | Opus 5.5 | [@Dan_Kostecki](https://x.com/Dan_Kostecki) | 2:43 | — |
 | [15-second persuasive explainer on ending the Fed](https://x.com/cboyack/status/2103617085402407181) | Opus 5.5 | [@cboyack](https://x.com/cboyack) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103617085402407181) |
 | [Explainer video for an Anthropic science blog post](https://x.com/deepwhitman/status/2103562764929389035) | Opus 5.5 | [@deepwhitman](https://x.com/deepwhitman) | 1:39 | — |

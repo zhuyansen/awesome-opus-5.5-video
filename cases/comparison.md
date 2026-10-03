@@ -1,6 +1,6 @@
 # Model comparisons
 
-167 works, 45 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+163 works, 45 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -57,7 +57,6 @@
 | [Game build comparison](https://x.com/quadcode_ai/status/2103493431238570124) | Opus 5.5 | [@quadcode_ai](https://x.com/quadcode_ai) | 0:25 | — |
 | [Jiggly slime physics comparison](https://x.com/MatoToushi/status/2104819480664936749) | Opus 5.5 | [@MatoToushi](https://x.com/MatoToushi) | 0:31 | — |
 | [Shader benchmark comparison across models](https://x.com/emollick/status/2102441628661080384) | Opus 5.5 | [@emollick](https://x.com/emollick) | 0:10 | — |
-| [AI models design a 3D-printed bridge](https://x.com/ilkergirit/status/2104624142754398714) | Opus 5.5 | [@ilkergirit](https://x.com/ilkergirit) | 1:19 | — |
 | [Paint drawing test: Opus 5.5 vs GPT-6 Sol via computer use](https://x.com/superalesha/status/2103209293919223872) | Opus 5.5 | [@superalesha](https://x.com/superalesha) | 0:45 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103209293919223872) |
 | [3D pelican riding bike test: Opus 5.5 vs GPT-6 Sol in Blender](https://x.com/akshdeeps_001/status/2103105995606282719) | Opus 5.5 | [@akshdeeps_001](https://x.com/akshdeeps_001) | 0:10 | — |
 | [Notebook sketch animated, model comparison](https://x.com/higgsfield_ai/status/2102838124288283008) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:18 | — |
@@ -151,7 +150,6 @@
 | [Interactive 3D eye anatomy model comparison](https://x.com/higgsfield_ai/status/2102536138884092185) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:20 | — |
 | [Voxel Japanese garden in Three.js](https://x.com/vikktorrrre/status/2105955048018588084) | Opus 5.5 / Fable 5.5 (preview) | [@vikktorrrre](https://x.com/vikktorrrre) | 1:04 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2105955048018588084) |
 | [Opus vs Codex usage cost for a video task](https://x.com/xilo2991/status/2103702707764883592) | Opus 5.5 | [@xilo2991](https://x.com/xilo2991) | 3:44 | — |
-| [Opus 5.5 vs GPT-6 Astra 3D test](https://x.com/Rocketesla_KR/status/2102531379443679518) | Opus 5.5 | [@Rocketesla_KR](https://x.com/Rocketesla_KR) | 0:46 | — |
 | [Opus 5.5 vs GPT-6 Astra narrated animation sync test](https://x.com/erhanmeydan/status/2103917581103169729) | Opus 5.5 | [@erhanmeydan](https://x.com/erhanmeydan) | 0:48 | — |
 | [Interactive 3D gummy jellyfish, two-model build](https://x.com/vib3coded/status/2104651061336117614) | Sonnet 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:18 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104651061336117614) |
 | [Interactive jelly dragon fruit comparison](https://x.com/noclipepe/status/2103529884173664387) | Opus 5.5 | [@noclipepe](https://x.com/noclipepe) | 0:25 | — |
@@ -166,8 +164,6 @@
 | [3D controller model comparison](https://x.com/notjazii/status/2106050222828998967) | Fable 5.5 (preview) | [@notjazii](https://x.com/notjazii) | 0:34 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2106050222828998967) |
 | [Skill versus no-skill voiceover video comparison](https://x.com/VincentWei93/status/2103549280082612377) | Opus 5.5 | [@VincentWei93](https://x.com/VincentWei93) | 1:35 | — |
 | [Opus 5.5 vs Astra token usage as robotic policy](https://x.com/dimentary/status/2103574284576977325) | Opus 5.5 | [@dimentary](https://x.com/dimentary) | 1:16 | — |
-| [Opus 5.5 vs GPT-6 Sol game comparison](https://x.com/RealFedeURU/status/2103551956098674957) | Opus 5.5 | [@RealFedeURU](https://x.com/RealFedeURU) | 0:25 | — |
-| [Same 3D task compared across two models](https://x.com/RealFedeURU/status/2103545845706551364) | Opus 5.5 | [@RealFedeURU](https://x.com/RealFedeURU) | 0:11 | — |
 | [Landing page build, two-model comparison](https://x.com/blueemi99/status/2104682412840284410) | Sonnet 5.5 | [@blueemi99](https://x.com/blueemi99) | 0:45 | — |
 | [Pachinko effect: Opus 5.5 version](https://x.com/priketsu_game/status/2102567925622411695) | Opus 5.5 | [@priketsu_game](https://x.com/priketsu_game) | 0:30 | — |
 | [Opus vs Astra diorama comparison (Blender)](https://x.com/sino1782013/status/2103449301838078098) | Opus 5.5 | [@sino1782013](https://x.com/sino1782013) | 0:56 | — |

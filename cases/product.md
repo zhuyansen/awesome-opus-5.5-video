@@ -1,6 +1,6 @@
 # Product demos & ads
 
-167 works, 29 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+164 works, 29 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -44,7 +44,6 @@
 | [Promo video for an expense-tracking app](https://x.com/gonahmias/status/2102893439159251247) | Opus 5.5 | [@gonahmias](https://x.com/gonahmias) | 0:38 | — |
 | [Live website redesign tool demo](https://x.com/0xMovez/status/2103177715125752176) | Opus 5.5 | [@0xMovez](https://x.com/0xMovez) | 0:33 | — |
 | [DocJev product teaser video](https://x.com/jerryjliu0/status/2102479924032577686) | Opus 5.5 | [@jerryjliu0](https://x.com/jerryjliu0) | 0:31 | — |
-| [X buzz-prediction analyzer tool](https://x.com/tatsuki_nowave/status/2103043510580793578) | Opus 5.5 | [@tatsuki_nowave](https://x.com/tatsuki_nowave) | 0:21 | — |
 | [One-prompt SaaS launch video](https://x.com/moritzkremb/status/2103066071838466494) | Opus 5.5 | [@moritzkremb](https://x.com/moritzkremb) | 0:46 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103066071838466494) |
 | [App design iteration using image references](https://x.com/premiumtantan/status/2102474993783468529) | Opus 5.5 | [@premiumtantan](https://x.com/premiumtantan) | 0:32 | — |
 | [Mac app onboarding flow demo](https://x.com/dhruvalgolakiya/status/2102719130726285784) | Opus 5.5 | [@dhruvalgolakiya](https://x.com/dhruvalgolakiya) | 0:13 | — |
@@ -63,7 +62,6 @@
 | [Coding plugin demo video](https://x.com/eliasstravik/status/2102826740951232530) | Opus 5.5 | [@eliasstravik](https://x.com/eliasstravik) | 0:15 | — |
 | [Dark-mode sales dashboard build](https://x.com/salungprastyo/status/2103015120104525942) | Opus 5.5 | [@salungprastyo](https://x.com/salungprastyo) | 0:33 | — |
 | [30-second conference ad (Designship 2026)](https://x.com/hajipion/status/2103766842024362220) | Opus 5.5 | [@hajipion](https://x.com/hajipion) | 0:30 | — |
-| [Commercial-style brand ad spot](https://x.com/satori_sz9/status/2106007762128007332) | Fable 5.5 (preview) | [@satori_sz9](https://x.com/satori_sz9) | 1:02 | — |
 | [Website built in two hours](https://x.com/ShivaGupta4639/status/2103840021447110673) | Opus 5.5 | [@ShivaGupta4639](https://x.com/ShivaGupta4639) | 0:27 | — |
 | [Water bottle marketing website demo](https://x.com/zarazhangrui/status/2105096296831017078) | Opus 5.5 | [@zarazhangrui](https://x.com/zarazhangrui) | 0:39 | — |
 | [Single-prompt design result](https://x.com/PancaSeptiana/status/2103395361058664888) | Opus 5.5 | [@PancaSeptiana](https://x.com/PancaSeptiana) | 0:06 | — |
@@ -92,7 +90,6 @@
 | [Car-modifying app recreated with one Opus 5.5 prompt](https://x.com/ErnestoSOFTWARE/status/2104955803492864077) | Opus 5.5 | [@ErnestoSOFTWARE](https://x.com/ErnestoSOFTWARE) | 0:14 | — |
 | [Product promo video in two aspect ratios](https://x.com/aiwarts/status/2103419586964316483) | Opus 5.5 | [@aiwarts](https://x.com/aiwarts) | 0:30 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103419586964316483) |
 | [Roblox Studio UI builder plugin demo](https://x.com/MyCodeCoach/status/2103235914273370394) | Opus 5.5 | [@MyCodeCoach](https://x.com/MyCodeCoach) | 6:33 | — |
-| [Self-generated product launch animation](https://x.com/leo114119/status/2105833713724432401) | Fable 5.5 (preview) | [@leo114119](https://x.com/leo114119) | 0:15 | — |
 | [AI-assisted crypto trading desk workflow](https://x.com/leopardracer/status/2103783920248528997) | Opus 5.5 | [@leopardracer](https://x.com/leopardracer) | 0:30 | — |
 | [Furniture-to-3D interior design app](https://x.com/higgsfield_ai/status/2102618445489795448) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:32 | — |
 | [Mac app design system overhaul](https://x.com/dprophecyguy/status/2102735000177451446) | Opus 5.5 | [@dprophecyguy](https://x.com/dprophecyguy) | 0:45 | — |

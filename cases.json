@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "model": "Claude 5.5 (Opus 5.5 · Sonnet 5.5)",
- "inclusion_rule": "Original post by the creator, native video attached, >= 5000 views on that post, creator states it was made with Claude Opus 5.5 or Claude Sonnet 5.5.",
+ "model": "Claude 5.5 (Opus 5.5 · Sonnet 5.5 · Fable 5.5)",
+ "inclusion_rule": "Original post by the creator, native video attached, >= 5000 views on that post, creator states it was made with Claude Opus 5.5, Sonnet 5.5 or Fable 5.5 (Fable 5.5 is in limited preview, not yet announced). Later posts that embed another account's upload are excluded.",
  "views_threshold": 5000,
  "stats_checked_at": "2026-10-03T06:00:02.633Z",
  "updated_at": "2026-10-03T06:00:02.633Z",
@@ -10208,34 +10208,6 @@
    "resources": []
   },
   {
-   "id": "2104624142754398714",
-   "models": [
-    "opus-5.5"
-   ],
-   "category": "comparison",
-   "title": {
-    "zh": "多款AI模型设计3D打印桥梁对比",
-    "en": "AI models design a 3D-printed bridge"
-   },
-   "creator": {
-    "handle": "ilkergirit",
-    "name": "İlker Girit"
-   },
-   "original_post_url": "https://x.com/ilkergirit/status/2104624142754398714",
-   "posted_at": "2026-09-28T17:27:52.000Z",
-   "language": "tr",
-   "duration_seconds": 79,
-   "views": 94345,
-   "likes": 1046,
-   "bookmarks": 315,
-   "views_checked_at": "2026-09-30T10:02:44.949Z",
-   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2104233888411193344/img/w3G9mrZZvVv_eqXZ.jpg",
-   "tools_reported": [],
-   "reference_assets": false,
-   "prompt": null,
-   "resources": []
-  },
-  {
    "id": "2103887665305391343",
    "models": [
     "opus-5.5"
@@ -10428,36 +10400,6 @@
    "bookmarks": 1227,
    "views_checked_at": "2026-09-28T09:27:18.818Z",
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2102479606909636608/img/ir4DEV6u1VcpfLuN.jpg",
-   "tools_reported": [
-    "Jev"
-   ],
-   "reference_assets": false,
-   "prompt": null,
-   "resources": []
-  },
-  {
-   "id": "2103043510580793578",
-   "models": [
-    "opus-5.5"
-   ],
-   "category": "product",
-   "title": {
-    "zh": "X平台热度预测分析工具",
-    "en": "X buzz-prediction analyzer tool"
-   },
-   "creator": {
-    "handle": "tatsuki_nowave",
-    "name": "tatsuki | AI駆動ラボ"
-   },
-   "original_post_url": "https://x.com/tatsuki_nowave/status/2103043510580793578",
-   "posted_at": "2026-09-24T08:47:00.000Z",
-   "language": "ja",
-   "duration_seconds": 21,
-   "views": 92247,
-   "likes": 437,
-   "bookmarks": 607,
-   "views_checked_at": "2026-09-28T09:27:18.818Z",
-   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2102852886325493760/img/eg0JGD7_d3rYN2Kn.jpg",
    "tools_reported": [
     "Jev"
    ],
@@ -11391,36 +11333,6 @@
    "resources": [
     "https://github.com/yihui-dev/awesome-opus5-5-videos"
    ]
-  },
-  {
-   "id": "2102768464893181963",
-   "models": [
-    "opus-5.5"
-   ],
-   "category": "game",
-   "title": {
-    "zh": "NBA 2K风格网页游戏演示",
-    "en": "NBA 2K style web game demo"
-   },
-   "creator": {
-    "handle": "xingbugengming",
-    "name": "小奇说"
-   },
-   "original_post_url": "https://x.com/xingbugengming/status/2102768464893181963",
-   "posted_at": "2026-09-23T14:34:04.000Z",
-   "language": "zh",
-   "duration_seconds": 29,
-   "views": 80804,
-   "likes": 448,
-   "bookmarks": 205,
-   "views_checked_at": "2026-09-28T09:27:18.818Z",
-   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2102648890176454656/img/x0xHaWhn7b1Rj_SR.jpg",
-   "tools_reported": [
-    "three.js"
-   ],
-   "reference_assets": false,
-   "prompt": null,
-   "resources": []
   },
   {
    "id": "2105368838699204717",
@@ -14016,34 +13928,6 @@
    "resources": []
   },
   {
-   "id": "2103479541528481823",
-   "models": [
-    "opus-5.5"
-   ],
-   "category": "game",
-   "title": {
-    "zh": "喷射战士风格游戏复刻",
-    "en": "Splatoon-style game clone"
-   },
-   "creator": {
-    "handle": "halukik_0520",
-    "name": "コンドウハルキ｜AIデザインフェスティバル開催中"
-   },
-   "original_post_url": "https://x.com/halukik_0520/status/2103479541528481823",
-   "posted_at": "2026-09-25T13:39:38.000Z",
-   "language": "ja",
-   "duration_seconds": 148,
-   "views": 63766,
-   "likes": 249,
-   "bookmarks": 78,
-   "views_checked_at": "2026-09-28T09:27:18.818Z",
-   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2103357145110474752/img/MidQpU-3UgFCBxmB.jpg",
-   "tools_reported": [],
-   "reference_assets": false,
-   "prompt": null,
-   "resources": []
-  },
-  {
    "id": "2105212971307667862",
    "models": [
     "opus-5.5"
@@ -14423,34 +14307,6 @@
    "resources": []
   },
   {
-   "id": "2106007762128007332",
-   "models": [
-    "fable-5.5"
-   ],
-   "category": "product",
-   "title": {
-    "zh": "品牌广告宣传片",
-    "en": "Commercial-style brand ad spot"
-   },
-   "creator": {
-    "handle": "satori_sz9",
-    "name": "さとり"
-   },
-   "original_post_url": "https://x.com/satori_sz9/status/2106007762128007332",
-   "posted_at": "2026-10-02T13:05:52.000Z",
-   "language": "ja",
-   "duration_seconds": 62,
-   "views": 61779,
-   "likes": 325,
-   "bookmarks": 240,
-   "views_checked_at": "2026-10-03T06:00:02.633Z",
-   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2105808491835273216/img/GJcfjJnywKX82Cin.jpg",
-   "tools_reported": [],
-   "reference_assets": false,
-   "prompt": null,
-   "resources": []
-  },
-  {
    "id": "2103293794594816100",
    "models": [
     "opus-5.5"
@@ -14577,62 +14433,6 @@
     "length": 86,
     "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103144778481475686"
    },
-   "resources": []
-  },
-  {
-   "id": "2102501726431687055",
-   "models": [
-    "opus-5.5"
-   ],
-   "category": "motion",
-   "title": {
-    "zh": "手绘填色涂鸦动画",
-    "en": "Hand-drawn coloring doodle animation"
-   },
-   "creator": {
-    "handle": "Tz_2022",
-    "name": "Tz"
-   },
-   "original_post_url": "https://x.com/Tz_2022/status/2102501726431687055",
-   "posted_at": "2026-09-22T20:54:08.000Z",
-   "language": "zh",
-   "duration_seconds": 14,
-   "views": 60786,
-   "likes": 387,
-   "bookmarks": 196,
-   "views_checked_at": "2026-09-28T09:27:18.818Z",
-   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2102457077390299136/img/HzOxACxWaSHvlmBw.jpg",
-   "tools_reported": [],
-   "reference_assets": false,
-   "prompt": null,
-   "resources": []
-  },
-  {
-   "id": "2104718259539062906",
-   "models": [
-    "sonnet-5.5"
-   ],
-   "category": "game",
-   "title": {
-    "zh": "用简单提示词制作的金刚狼游戏",
-    "en": "Wolverine game built with simple prompts"
-   },
-   "creator": {
-    "handle": "AboDantee",
-    "name": "ابو دانتي | Majed Al-Harbi"
-   },
-   "original_post_url": "https://x.com/AboDantee/status/2104718259539062906",
-   "posted_at": "2026-09-28T23:41:51.000Z",
-   "language": "ar",
-   "duration_seconds": 180,
-   "views": 60735,
-   "likes": 110,
-   "bookmarks": 70,
-   "views_checked_at": "2026-09-30T10:57:36.089Z",
-   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2104633340422926336/img/KMiKu_IHnFweMUma.jpg",
-   "tools_reported": [],
-   "reference_assets": false,
-   "prompt": null,
    "resources": []
   },
   {
@@ -16604,34 +16404,6 @@
    "resources": []
   },
   {
-   "id": "2104066630108188974",
-   "models": [
-    "opus-5.5"
-   ],
-   "category": "game",
-   "title": {
-    "zh": "3D浏览器游戏",
-    "en": "3D browser racing-style game"
-   },
-   "creator": {
-    "handle": "ai_growth_avii",
-    "name": "Avi Yadav "
-   },
-   "original_post_url": "https://x.com/ai_growth_avii/status/2104066630108188974",
-   "posted_at": "2026-09-27T04:32:30.000Z",
-   "language": "en",
-   "duration_seconds": 141,
-   "views": 52305,
-   "likes": 476,
-   "bookmarks": 144,
-   "views_checked_at": "2026-09-29T08:51:29.265Z",
-   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2103995292983193600/img/eI4itdxauhMqdVZU.jpg",
-   "tools_reported": [],
-   "reference_assets": false,
-   "prompt": null,
-   "resources": []
-  },
-  {
    "id": "2102965242439590112",
    "models": [
     "opus-5.5"
@@ -17191,34 +16963,6 @@
    "resources": [
     "https://claude.ai/code/session_01EDqKuj1DA5BK6LJxMYGvZZ"
    ]
-  },
-  {
-   "id": "2102472597170528449",
-   "models": [
-    "opus-5.5"
-   ],
-   "category": "motion",
-   "title": {
-    "zh": "代码生成的动画展示",
-    "en": "Code-generated animation showcase"
-   },
-   "creator": {
-    "handle": "Hesamation",
-    "name": "ℏεsam"
-   },
-   "original_post_url": "https://x.com/Hesamation/status/2102472597170528449",
-   "posted_at": "2026-09-22T18:58:23.000Z",
-   "language": "en",
-   "duration_seconds": 28,
-   "views": 49905,
-   "likes": 1113,
-   "bookmarks": 534,
-   "views_checked_at": "2026-09-28T09:27:18.818Z",
-   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2102437792425070592/img/H7fyRYmlzFr2osoV.jpg",
-   "tools_reported": [],
-   "reference_assets": false,
-   "prompt": null,
-   "resources": []
   },
   {
    "id": "2102802914024845385",
@@ -18343,40 +18087,6 @@
    ],
    "reference_assets": false,
    "prompt": null,
-   "resources": []
-  },
-  {
-   "id": "2103824752058216485",
-   "models": [
-    "opus-5.5"
-   ],
-   "category": "motion",
-   "title": {
-    "zh": "日文版爆款提示词的动效自荐片",
-    "en": "Motion showreel from the Japanese version of the viral prompt"
-   },
-   "creator": {
-    "handle": "shikamarurobo",
-    "name": "福田卓馬｜EXTAGE株式会社代表"
-   },
-   "original_post_url": "https://x.com/shikamarurobo/status/2103824752058216485",
-   "posted_at": "2026-09-26T12:31:22.000Z",
-   "language": "ja",
-   "duration_seconds": 32,
-   "views": 45682,
-   "likes": 216,
-   "bookmarks": 387,
-   "views_checked_at": "2026-09-28T09:27:18.818Z",
-   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2103149570440024064/img/QKgvRP_unggJVH6M.jpg",
-   "tools_reported": [],
-   "reference_assets": false,
-   "prompt": {
-    "kind": "brief",
-    "source": "author_reply",
-    "source_url": "https://x.com/shikamarurobo/status/2103824753823990006",
-    "length": 90,
-    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103824752058216485"
-   },
    "resources": []
   },
   {
@@ -20712,34 +20422,6 @@
    "resources": []
   },
   {
-   "id": "2103527254085243340",
-   "models": [
-    "opus-5.5"
-   ],
-   "category": "game",
-   "title": {
-    "zh": "斯普拉遁风格游戏复刻",
-    "en": "Splatoon-style game recreation"
-   },
-   "creator": {
-    "handle": "mahiru35628",
-    "name": "せんくう"
-   },
-   "original_post_url": "https://x.com/mahiru35628/status/2103527254085243340",
-   "posted_at": "2026-09-25T16:49:13.000Z",
-   "language": "ja",
-   "duration_seconds": 242,
-   "views": 36754,
-   "likes": 70,
-   "bookmarks": 51,
-   "views_checked_at": "2026-09-28T09:27:18.818Z",
-   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2103351604422328320/img/yA4_Qm4GsKyHbFIv.jpg",
-   "tools_reported": [],
-   "reference_assets": false,
-   "prompt": null,
-   "resources": []
-  },
-  {
    "id": "2103573891629371497",
    "models": [
     "opus-5.5"
@@ -21435,34 +21117,6 @@
    "tools_reported": [
     "Roblox Studio"
    ],
-   "reference_assets": false,
-   "prompt": null,
-   "resources": []
-  },
-  {
-   "id": "2105833713724432401",
-   "models": [
-    "fable-5.5"
-   ],
-   "category": "product",
-   "title": {
-    "zh": "自生成的产品发布动画",
-    "en": "Self-generated product launch animation"
-   },
-   "creator": {
-    "handle": "leo114119",
-    "name": "Leo 的游戏人生"
-   },
-   "original_post_url": "https://x.com/leo114119/status/2105833713724432401",
-   "posted_at": "2026-10-02T01:34:16.000Z",
-   "language": "zh",
-   "duration_seconds": 15,
-   "views": 34483,
-   "likes": 199,
-   "bookmarks": 93,
-   "views_checked_at": "2026-10-03T05:46:54.416Z",
-   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2105822170077069313/img/k4UXR4Q7JijgTXOj.jpg",
-   "tools_reported": [],
    "reference_assets": false,
    "prompt": null,
    "resources": []
@@ -22970,34 +22624,6 @@
     "length": 52,
     "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102729710174196022"
    },
-   "resources": []
-  },
-  {
-   "id": "2102490803503264062",
-   "models": [
-    "opus-5.5"
-   ],
-   "category": "game",
-   "title": {
-    "zh": "Claude Opus 5.5制作的游戏",
-    "en": "Game made by Claude Opus 5.5"
-   },
-   "creator": {
-    "handle": "Dr_Singularity",
-    "name": "Dr Singularity"
-   },
-   "original_post_url": "https://x.com/Dr_Singularity/status/2102490803503264062",
-   "posted_at": "2026-09-22T20:10:44.000Z",
-   "language": "en",
-   "duration_seconds": 131,
-   "views": 30299,
-   "likes": 587,
-   "bookmarks": 120,
-   "views_checked_at": "2026-09-28T09:27:18.818Z",
-   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2102439823281975302/img/qABSqFFtO1aLvl9Q.jpg",
-   "tools_reported": [],
-   "reference_assets": false,
-   "prompt": null,
    "resources": []
   },
   {
@@ -26506,34 +26132,6 @@
    "resources": []
   },
   {
-   "id": "2103957310288826613",
-   "models": [
-    "opus-5.5"
-   ],
-   "category": "education",
-   "title": {
-    "zh": "带奖励机制的数学练习App演示",
-    "en": "Reward-based math drill app demo"
-   },
-   "creator": {
-    "handle": "sora19ai",
-    "name": "そら ☁️ AgentSwarm 自動化オタク📱"
-   },
-   "original_post_url": "https://x.com/sora19ai/status/2103957310288826613",
-   "posted_at": "2026-09-26T21:18:07.000Z",
-   "language": "ja",
-   "duration_seconds": 53,
-   "views": 21269,
-   "likes": 161,
-   "bookmarks": 168,
-   "views_checked_at": "2026-09-28T09:27:18.818Z",
-   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2103801953084112896/img/kOLLCvsAG2azgbaD.jpg",
-   "tools_reported": [],
-   "reference_assets": false,
-   "prompt": null,
-   "resources": []
-  },
-  {
    "id": "2104027910004949132",
    "models": [
     "opus-5.5"
@@ -27010,34 +26608,6 @@
    "resources": []
   },
   {
-   "id": "2103298852619182540",
-   "models": [
-    "opus-5.5"
-   ],
-   "category": "game",
-   "title": {
-    "zh": "马里奥赛车风格游戏一次生成",
-    "en": "Mario Kart-style game one-shot"
-   },
-   "creator": {
-    "handle": "mahiru35628",
-    "name": "せんくう"
-   },
-   "original_post_url": "https://x.com/mahiru35628/status/2103298852619182540",
-   "posted_at": "2026-09-25T01:41:38.000Z",
-   "language": "ja",
-   "duration_seconds": 52,
-   "views": 20237,
-   "likes": 58,
-   "bookmarks": 39,
-   "views_checked_at": "2026-09-28T09:27:18.818Z",
-   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2102451221483180032/img/BQwMUSYV3GBBqVAm.jpg",
-   "tools_reported": [],
-   "reference_assets": false,
-   "prompt": null,
-   "resources": []
-  },
-  {
    "id": "2103557513962745923",
    "models": [
     "opus-5.5"
@@ -27152,34 +26722,6 @@
    "bookmarks": 14,
    "views_checked_at": "2026-09-28T09:27:18.818Z",
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2102501942907809792/img/60TZXyZla4N1_LWE.jpg",
-   "tools_reported": [],
-   "reference_assets": false,
-   "prompt": null,
-   "resources": []
-  },
-  {
-   "id": "2102800251820343753",
-   "models": [
-    "opus-5.5"
-   ],
-   "category": "education",
-   "title": {
-    "zh": "像素风神经网络训练可视化",
-    "en": "Pixel-style neural network training visualization"
-   },
-   "creator": {
-    "handle": "Tz_2022",
-    "name": "Tz"
-   },
-   "original_post_url": "https://x.com/Tz_2022/status/2102800251820343753",
-   "posted_at": "2026-09-23T16:40:22.000Z",
-   "language": "zh",
-   "duration_seconds": 56,
-   "views": 20041,
-   "likes": 123,
-   "bookmarks": 88,
-   "views_checked_at": "2026-09-28T09:27:18.818Z",
-   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2102736360750579712/img/dCHBu9qqCypGbT9v.jpg",
    "tools_reported": [],
    "reference_assets": false,
    "prompt": null,
@@ -30896,36 +30438,6 @@
    "resources": []
   },
   {
-   "id": "2102531379443679518",
-   "models": [
-    "opus-5.5"
-   ],
-   "category": "comparison",
-   "title": {
-    "zh": "Opus 5.5与GPT-6 Astra 3D测试对比",
-    "en": "Opus 5.5 vs GPT-6 Astra 3D test"
-   },
-   "creator": {
-    "handle": "Rocketesla_KR",
-    "name": "로켓슬라"
-   },
-   "original_post_url": "https://x.com/Rocketesla_KR/status/2102531379443679518",
-   "posted_at": "2026-09-22T22:51:58.000Z",
-   "language": "ko",
-   "duration_seconds": 46,
-   "views": 14045,
-   "likes": 63,
-   "bookmarks": 7,
-   "views_checked_at": "2026-09-28T09:27:18.818Z",
-   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2102468034124464128/img/sgfsA79kpK8w2mCE.jpg",
-   "tools_reported": [
-    "GPT-6 Astra"
-   ],
-   "reference_assets": false,
-   "prompt": null,
-   "resources": []
-  },
-  {
    "id": "2103917581103169729",
    "models": [
     "opus-5.5"
@@ -31584,34 +31096,6 @@
     "length": 186,
     "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103467539485671862"
    },
-   "resources": []
-  },
-  {
-   "id": "2103186710506917892",
-   "models": [
-    "opus-5.5"
-   ],
-   "category": "art3d",
-   "title": {
-    "zh": "自画像与配乐钢琴曲",
-    "en": "Self-portrait with matching piano piece"
-   },
-   "creator": {
-    "handle": "Tz_2022",
-    "name": "Tz"
-   },
-   "original_post_url": "https://x.com/Tz_2022/status/2103186710506917892",
-   "posted_at": "2026-09-24T18:16:01.000Z",
-   "language": "zh",
-   "duration_seconds": 20,
-   "views": 13368,
-   "likes": 151,
-   "bookmarks": 72,
-   "views_checked_at": "2026-09-28T09:27:18.818Z",
-   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2102877608849690624/img/PpZn6iqV5LYiNDnl.jpg",
-   "tools_reported": [],
-   "reference_assets": false,
-   "prompt": null,
    "resources": []
   },
   {
@@ -36554,34 +36038,6 @@
    "resources": []
   },
   {
-   "id": "2103551956098674957",
-   "models": [
-    "opus-5.5"
-   ],
-   "category": "comparison",
-   "title": {
-    "zh": "Opus 5.5对比GPT-6 Sol游戏",
-    "en": "Opus 5.5 vs GPT-6 Sol game comparison"
-   },
-   "creator": {
-    "handle": "RealFedeURU",
-    "name": "Fede(URU) 🇺🇾"
-   },
-   "original_post_url": "https://x.com/RealFedeURU/status/2103551956098674957",
-   "posted_at": "2026-09-25T18:27:23.000Z",
-   "language": "en",
-   "duration_seconds": 25,
-   "views": 8223,
-   "likes": 76,
-   "bookmarks": 31,
-   "views_checked_at": "2026-09-28T09:27:18.818Z",
-   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2103493001955663872/img/D4A46xTCQnkjKUhi.jpg",
-   "tools_reported": [],
-   "reference_assets": false,
-   "prompt": null,
-   "resources": []
-  },
-  {
    "id": "2103621603628306747",
    "models": [
     "opus-5.5"
@@ -36633,36 +36089,6 @@
    "views_checked_at": "2026-09-28T09:27:18.818Z",
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2103045061768515584/img/QR2pHpzuUG0bgTKT.jpg",
    "tools_reported": [],
-   "reference_assets": false,
-   "prompt": null,
-   "resources": []
-  },
-  {
-   "id": "2103545845706551364",
-   "models": [
-    "opus-5.5"
-   ],
-   "category": "comparison",
-   "title": {
-    "zh": "同一3D任务的双模型对比",
-    "en": "Same 3D task compared across two models"
-   },
-   "creator": {
-    "handle": "RealFedeURU",
-    "name": "Fede(URU) 🇺🇾"
-   },
-   "original_post_url": "https://x.com/RealFedeURU/status/2103545845706551364",
-   "posted_at": "2026-09-25T18:03:06.000Z",
-   "language": "en",
-   "duration_seconds": 11,
-   "views": 8139,
-   "likes": 22,
-   "bookmarks": 12,
-   "views_checked_at": "2026-09-28T09:27:18.818Z",
-   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2103487867830124544/img/EHfK1PBB8AbQqgDr.jpg",
-   "tools_reported": [
-    "Astra 6"
-   ],
    "reference_assets": false,
    "prompt": null,
    "resources": []
@@ -36943,34 +36369,6 @@
     "length": 883,
     "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103570879619686717"
    },
-   "resources": []
-  },
-  {
-   "id": "2103792451551113363",
-   "models": [
-    "opus-5.5"
-   ],
-   "category": "education",
-   "title": {
-    "zh": "从数据中心缩放到原子的动画",
-    "en": "Data center to atom zoom animation"
-   },
-   "creator": {
-    "handle": "ai_ba_reza",
-    "name": "Reza"
-   },
-   "original_post_url": "https://x.com/ai_ba_reza/status/2103792451551113363",
-   "posted_at": "2026-09-26T10:23:01.000Z",
-   "language": "fa",
-   "duration_seconds": 49,
-   "views": 7791,
-   "likes": 131,
-   "bookmarks": 88,
-   "views_checked_at": "2026-09-28T09:27:18.818Z",
-   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2103494270854557696/img/q0pGY8xVOwOfHch7.jpg",
-   "tools_reported": [],
-   "reference_assets": false,
-   "prompt": null,
    "resources": []
   },
   {
@@ -38438,34 +37836,6 @@
     "GPT image2.5",
     "ElevenLabs"
    ],
-   "reference_assets": false,
-   "prompt": null,
-   "resources": []
-  },
-  {
-   "id": "2105844373728698828",
-   "models": [
-    "fable-5.5"
-   ],
-   "category": "art3d",
-   "title": {
-    "zh": "短篇生成动画片段",
-    "en": "Short generated animation clip"
-   },
-   "creator": {
-    "handle": "OmNawale45831",
-    "name": "Om Nawale"
-   },
-   "original_post_url": "https://x.com/OmNawale45831/status/2105844373728698828",
-   "posted_at": "2026-10-02T02:16:38.000Z",
-   "language": "en",
-   "duration_seconds": 17,
-   "views": 5755,
-   "likes": 111,
-   "bookmarks": 38,
-   "views_checked_at": "2026-10-03T05:46:54.416Z",
-   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2105815801198501888/img/ykn_wTXzU2IN_ooi.jpg",
-   "tools_reported": [],
    "reference_assets": false,
    "prompt": null,
    "resources": []

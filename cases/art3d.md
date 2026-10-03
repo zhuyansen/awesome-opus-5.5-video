@@ -1,6 +1,6 @@
 # 3D worlds & simulations
 
-173 works, 42 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+171 works, 42 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -140,7 +140,6 @@
 | [Paradise City theme park 3D recreation](https://x.com/Neetfujisub/status/2103658660874621079) | Opus 5.5 | [@Neetfujisub](https://x.com/Neetfujisub) | 1:35 | — |
 | [Interactive bubble-blowing countryside scene](https://x.com/akakuma0219/status/2103045683452490054) | Opus 5.5 | [@akakuma0219](https://x.com/akakuma0219) | 0:39 | — |
 | [Open-source Gothic basilica 3D scene](https://x.com/TokenGremlin/status/2103145953859375539) | Opus 5.5 | [@TokenGremlin](https://x.com/TokenGremlin) | 1:54 | — |
-| [Self-portrait with matching piano piece](https://x.com/Tz_2022/status/2103186710506917892) | Opus 5.5 | [@Tz_2022](https://x.com/Tz_2022) | 0:20 | — |
 | [Toon shader built for custom 3D software](https://x.com/sekiun_creation/status/2103462799976575323) | Opus 5.5 | [@sekiun_creation](https://x.com/sekiun_creation) | 0:29 | — |
 | [Shanghai penthouse scene for Vision Pro](https://x.com/ivanfioravanti/status/2103701018450288657) | Opus 5.5 | [@ivanfioravanti](https://x.com/ivanfioravanti) | 1:39 | — |
 | [VFX tolerance test in a 3D tool](https://x.com/MattiaMerenda2/status/2103864218449559853) | Opus 5.5 | [@MattiaMerenda2](https://x.com/MattiaMerenda2) | 0:10 | — |
@@ -172,7 +171,6 @@
 | [Cyberpunk pixel art animation](https://x.com/L_ARCH_01/status/2103137546662515107) | Opus 5.5 | [@L_ARCH_01](https://x.com/L_ARCH_01) | 1:04 | — |
 | [Rainy Japanese garden deer scarer simulation](https://x.com/mizugame_22/status/2103822799580307674) | Opus 5.5 | [@mizugame_22](https://x.com/mizugame_22) | 0:15 | — |
 | [JRPG-style voxel scene made in Blender](https://x.com/gunsturn_tw/status/2103089094666686850) | Opus 5.5 | [@gunsturn_tw](https://x.com/gunsturn_tw) | 1:00 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103089094666686850) |
-| [Short generated animation clip](https://x.com/OmNawale45831/status/2105844373728698828) | Fable 5.5 (preview) | [@OmNawale45831](https://x.com/OmNawale45831) | 0:17 | — |
 | [Teaching Opus pixel art skills](https://x.com/BeamManP/status/2103555482095149320) | Opus 5.5 | [@BeamManP](https://x.com/BeamManP) | 0:45 | — |
 | [Particle water simulation with raymarching](https://x.com/hartspecs/status/2105715231884468384) | Opus 5.5 | [@hartspecs](https://x.com/hartspecs) | 0:21 | — |
 | [Procedurally generated concept car in code](https://x.com/techartist_/status/2104715277120180702) | Sonnet 5.5 | [@techartist_](https://x.com/techartist_) | 0:18 | — |

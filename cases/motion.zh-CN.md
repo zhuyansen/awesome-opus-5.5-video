@@ -1,6 +1,6 @@
 # 动效设计
 
-共 207 个作品，其中 77 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 204 个作品，其中 76 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -84,7 +84,6 @@
 | [HyperFrames制作的Cosmos动效短片](https://x.com/kaolti/status/2103481296018092204) | Opus 5.5 | [@kaolti](https://x.com/kaolti) | 0:40 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103481296018092204) |
 | [结合个人记忆定制的动效设计展示片](https://x.com/tetumemo/status/2103407771102421285) | Opus 5.5 | [@tetumemo](https://x.com/tetumemo) | 0:15 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103407771102421285) |
 | [Replit Animation结合Opus的JS动画](https://x.com/samuel_spitz/status/2103293794594816100) | Opus 5.5 | [@samuel_spitz](https://x.com/samuel_spitz) | 0:28 | — |
-| [手绘填色涂鸦动画](https://x.com/Tz_2022/status/2102501726431687055) | Opus 5.5 | [@Tz_2022](https://x.com/Tz_2022) | 0:14 | — |
 | [文字排版动效动画](https://x.com/higgsfield_ai/status/2103963588012744859) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:15 | — |
 | [用Opus5.5制作的营销视频](https://x.com/cocona_ailab/status/2102752076107497980) | Opus 5.5 | [@cocona_ailab](https://x.com/cocona_ailab) | 0:10 | — |
 | [代码生成动效视频的幕后过程](https://x.com/shneural/status/2103472385563459833) | Opus 5.5 | [@shneural](https://x.com/shneural) | 0:56 | — |
@@ -98,13 +97,11 @@
 | [简短动效设计视频](https://x.com/blueemi99/status/2106031355922387163) | Opus 5.5 / Fable 5.5 (preview) | [@blueemi99](https://x.com/blueemi99) | 0:15 | — |
 | [随你决定的开放式AI生成视频](https://x.com/mhmtycllll/status/2102552313134973187) | Opus 5.5 | [@mhmtycllll](https://x.com/mhmtycllll) | 0:54 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102552313134973187) |
 | [节拍同步的实拍混剪展示片](https://x.com/twoclipping/status/2102554209166000267) | Opus 5.5 | [@twoclipping](https://x.com/twoclipping) | 0:20 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102554209166000267) |
-| [代码生成的动画展示](https://x.com/Hesamation/status/2102472597170528449) | Opus 5.5 | [@Hesamation](https://x.com/Hesamation) | 0:28 | — |
 | [Midjourney图像动态混剪](https://x.com/ciguleva/status/2104051187825946929) | Opus 5.5 | [@ciguleva](https://x.com/ciguleva) | 0:48 | — |
 | [Opus5.5+Tesseract制作的多层动效](https://x.com/trymirage/status/2103542300844474452) | Opus 5.5 | [@trymirage](https://x.com/trymirage) | 0:15 | — |
 | [设计师展示片提示词生成的动效视频](https://x.com/konmari_tweet/status/2103639233693159742) | Opus 5.5 | [@konmari_tweet](https://x.com/konmari_tweet) | 0:15 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103639233693159742) |
 | [用Opus 5.5制作的短视频](https://x.com/javiiarchive/status/2105283486487896448) | Opus 5.5 | [@javiiarchive](https://x.com/javiiarchive) | 0:23 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2105283486487896448) |
 | [代理机构介绍动态设计视频](https://x.com/baptistelcx/status/2103437700783038710) | Opus 5.5 | [@baptistelcx](https://x.com/baptistelcx) | 1:18 | — |
-| [日文版爆款提示词的动效自荐片](https://x.com/shikamarurobo/status/2103824752058216485) | Opus 5.5 | [@shikamarurobo](https://x.com/shikamarurobo) | 0:32 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103824752058216485) |
 | [展示近期更新的15秒动效视频](https://x.com/SebastianRoehl/status/2103912457836323096) | Opus 5.5 | [@SebastianRoehl](https://x.com/SebastianRoehl) | 0:15 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103912457836323096) |
 | [动态设计与音效工程演示](https://x.com/kloss_xyz/status/2103557735086428547) | Opus 5.5 | [@kloss_xyz](https://x.com/kloss_xyz) | 1:30 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103557735086428547) |
 | [VRM模型角色出场动画](https://x.com/tegnike/status/2103588966834245694) | Opus 5.5 | [@tegnike](https://x.com/tegnike) | 0:44 | — |
