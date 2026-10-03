@@ -1,6 +1,6 @@
 # Motion graphics & UI
 
-204 works, 77 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+207 works, 77 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Live2D-style rigging from a single illustration](https://x.com/manaimovie/status/2102797971570196520) | Opus 5.5 | [@manaimovie](https://x.com/manaimovie) | 0:25 | — |
 | [Another Opus 5.5 showreel-style video](https://x.com/americanhodl8/status/2103959107862663337) | Opus 5.5 | [@americanhodl8](https://x.com/americanhodl8) | 2:59 | — |
 | [Compilation of film visual technique demos](https://x.com/Kutinawa_VGamer/status/2103476071018766790) | Opus 5.5 | [@Kutinawa_VGamer](https://x.com/Kutinawa_VGamer) | 1:20 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103476071018766790) |
+| [Short motion design video](https://x.com/blueemi99/status/2106031355922387163) | Opus 5.5 / Fable 5.5 (preview) | [@blueemi99](https://x.com/blueemi99) | 0:15 | — |
 | [Open-ended surprise-me AI video](https://x.com/mhmtycllll/status/2102552313134973187) | Opus 5.5 | [@mhmtycllll](https://x.com/mhmtycllll) | 0:54 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102552313134973187) |
 | [Beat-synced showreel from real clips](https://x.com/twoclipping/status/2102554209166000267) | Opus 5.5 | [@twoclipping](https://x.com/twoclipping) | 0:20 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102554209166000267) |
 | [Code-generated animation showcase](https://x.com/Hesamation/status/2102472597170528449) | Opus 5.5 | [@Hesamation](https://x.com/Hesamation) | 0:28 | — |
@@ -107,6 +108,7 @@
 | [15-second motion graphics showreel (product update)](https://x.com/SebastianRoehl/status/2103912457836323096) | Opus 5.5 | [@SebastianRoehl](https://x.com/SebastianRoehl) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103912457836323096) |
 | [Motion design and sound engineering demo](https://x.com/kloss_xyz/status/2103557735086428547) | Opus 5.5 | [@kloss_xyz](https://x.com/kloss_xyz) | 1:30 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103557735086428547) |
 | [VRM model character intro animation](https://x.com/tegnike/status/2103588966834245694) | Opus 5.5 | [@tegnike](https://x.com/tegnike) | 0:44 | — |
+| [One-prompt motion demo clip](https://x.com/Saccc_c/status/2105985484472377531) | Opus 5.5 / Fable 5.5 (preview) | [@Saccc_c](https://x.com/Saccc_c) | 0:15 | — |
 | [Quick 15-minute motion design piece](https://x.com/vikktorrrre/status/2103829638799618407) | Opus 5.5 | [@vikktorrrre](https://x.com/vikktorrrre) | 0:26 | — |
 | [Pro-AI accelerationist code-made edit](https://x.com/holytrinity/status/2102894936316420109) | Opus 5.5 | [@holytrinity](https://x.com/holytrinity) | 0:32 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102894936316420109) |
 | ['The First Spark' procedural hand-drawn short](https://x.com/morpheusdv/status/2102910531560731063) | Opus 5.5 | [@morpheusdv](https://x.com/morpheusdv) | 1:00 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102910531560731063) |
@@ -204,6 +206,7 @@
 | [PayBox logo brand-sting animation](https://x.com/0xValure/status/2103603025579331584) | Opus 5.5 | [@0xValure](https://x.com/0xValure) | 0:10 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103603025579331584) |
 | [Impressive AI demo reaction video](https://x.com/dcbruck/status/2103549268321783859) | Opus 5.5 | [@dcbruck](https://x.com/dcbruck) | 0:15 | — |
 | [Opus 5.5 animation quality demo](https://x.com/makisuo/status/2103613318497997215) | Opus 5.5 | [@makisuo](https://x.com/makisuo) | 0:15 | — |
+| [Watercolor fall animation](https://x.com/ishuagra02/status/2106000055706784118) | Fable 5.5 (preview) | [@ishuagra02](https://x.com/ishuagra02) | 0:25 | — |
 | [Code-drawn animation pipeline demo](https://x.com/p2ecoin91/status/2103398218793168921) | Opus 5.5 | [@p2ecoin91](https://x.com/p2ecoin91) | 2:37 | — |
 | [Unspecified video creation showcase](https://x.com/GPTabby/status/2103581801490809069) | Opus 5.5 | [@GPTabby](https://x.com/GPTabby) | 3:51 | — |
 | [Google Apps Script themed video](https://x.com/kimura_0314/status/2102682159668720109) | Opus 5.5 | [@kimura_0314](https://x.com/kimura_0314) | 0:34 | — |

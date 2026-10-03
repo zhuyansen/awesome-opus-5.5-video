@@ -1,6 +1,6 @@
 # Games
 
-206 works, 35 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+208 works, 35 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Minecraft-style game with scalable server built by Opus 5.5](https://x.com/lambda_funtaro/status/2103115036369760496) | Opus 5.5 | [@lambda_funtaro](https://x.com/lambda_funtaro) | 0:23 | — |
 | [Unreal/Blender game project update](https://x.com/seftsaint/status/2103491735855022174) | Opus 5.5 | [@seftsaint](https://x.com/seftsaint) | 1:16 | — |
 | [Roblox anime fighting game](https://x.com/m_ferreira28/status/2102561495104291156) | Opus 5.5 | [@m_ferreira28](https://x.com/m_ferreira28) | 0:46 | — |
+| [Waymo drive down Lombard Street](https://x.com/mindblown_ai/status/2106112279079199037) | Fable 5.5 (preview) | [@mindblown_ai](https://x.com/mindblown_ai) | 1:13 | — |
 | [3D browser racing-style game](https://x.com/ai_growth_avii/status/2104066630108188974) | Opus 5.5 | [@ai_growth_avii](https://x.com/ai_growth_avii) | 2:21 | — |
 | [Playable ARPG built with Opus 5.5 and Unreal](https://x.com/KanaWorks_AI/status/2103138051165933661) | Opus 5.5 | [@KanaWorks_AI](https://x.com/KanaWorks_AI) | 0:51 | — |
 | [Vibe-coded game with process notes](https://x.com/sonia_code/status/2103441886488990016) | Opus 5.5 | [@sonia_code](https://x.com/sonia_code) | 0:08 | — |
@@ -170,6 +171,7 @@
 | [Procedural mountain flight simulator](https://x.com/cyrilXBT/status/2103801828744061307) | Opus 5.5 | [@cyrilXBT](https://x.com/cyrilXBT) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103801828744061307) |
 | [Rocket League clone in Three.js](https://x.com/thoughtcrime___/status/2103946340598501771) | Opus 5.5 | [@thoughtcrime___](https://x.com/thoughtcrime___) | 0:16 | — |
 | [Retro game remake in a modern engine](https://x.com/AIandDesign/status/2103327470485459444) | Opus 5.5 | [@AIandDesign](https://x.com/AIandDesign) | 4:00 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103327470485459444) |
+| [21-world boss battle game](https://x.com/EMostaque/status/2106065029850091943) | Fable 5.5 (preview) | [@EMostaque](https://x.com/EMostaque) | 0:59 | — |
 | [Horror game built with Sonnet 5.5](https://x.com/The_Alex/status/2104640571004567617) | Sonnet 5.5 | [@The_Alex](https://x.com/The_Alex) | 5:13 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104640571004567617) |
 | [SCP-096 horror game built in Godot with Claude Opus 5.5](https://x.com/imjustnewatai/status/2105596869720322429) | Opus 5.5 | [@imjustnewatai](https://x.com/imjustnewatai) | 1:53 | — |
 | [Sword-fighting game in development](https://x.com/R_Nikaido/status/2103462848303378834) | Opus 5.5 | [@R_Nikaido](https://x.com/R_Nikaido) | 0:35 | — |

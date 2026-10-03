@@ -1,6 +1,6 @@
 # 动效设计
 
-共 204 个作品，其中 77 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 207 个作品，其中 77 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [从单张插画生成的Live2D风格建模](https://x.com/manaimovie/status/2102797971570196520) | Opus 5.5 | [@manaimovie](https://x.com/manaimovie) | 0:25 | — |
 | [另一段Opus 5.5展示片风格视频](https://x.com/americanhodl8/status/2103959107862663337) | Opus 5.5 | [@americanhodl8](https://x.com/americanhodl8) | 2:59 | — |
 | [影视视觉技法合集演示](https://x.com/Kutinawa_VGamer/status/2103476071018766790) | Opus 5.5 | [@Kutinawa_VGamer](https://x.com/Kutinawa_VGamer) | 1:20 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103476071018766790) |
+| [简短动效设计视频](https://x.com/blueemi99/status/2106031355922387163) | Opus 5.5 / Fable 5.5 (preview) | [@blueemi99](https://x.com/blueemi99) | 0:15 | — |
 | [随你决定的开放式AI生成视频](https://x.com/mhmtycllll/status/2102552313134973187) | Opus 5.5 | [@mhmtycllll](https://x.com/mhmtycllll) | 0:54 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102552313134973187) |
 | [节拍同步的实拍混剪展示片](https://x.com/twoclipping/status/2102554209166000267) | Opus 5.5 | [@twoclipping](https://x.com/twoclipping) | 0:20 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102554209166000267) |
 | [代码生成的动画展示](https://x.com/Hesamation/status/2102472597170528449) | Opus 5.5 | [@Hesamation](https://x.com/Hesamation) | 0:28 | — |
@@ -107,6 +108,7 @@
 | [展示近期更新的15秒动效视频](https://x.com/SebastianRoehl/status/2103912457836323096) | Opus 5.5 | [@SebastianRoehl](https://x.com/SebastianRoehl) | 0:15 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103912457836323096) |
 | [动态设计与音效工程演示](https://x.com/kloss_xyz/status/2103557735086428547) | Opus 5.5 | [@kloss_xyz](https://x.com/kloss_xyz) | 1:30 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103557735086428547) |
 | [VRM模型角色出场动画](https://x.com/tegnike/status/2103588966834245694) | Opus 5.5 | [@tegnike](https://x.com/tegnike) | 0:44 | — |
+| [一句提示词生成的动效演示](https://x.com/Saccc_c/status/2105985484472377531) | Opus 5.5 / Fable 5.5 (preview) | [@Saccc_c](https://x.com/Saccc_c) | 0:15 | — |
 | [15分钟完成的动效设计作品](https://x.com/vikktorrrre/status/2103829638799618407) | Opus 5.5 | [@vikktorrrre](https://x.com/vikktorrrre) | 0:26 | — |
 | [纯代码制作的AI加速主义剪辑](https://x.com/holytrinity/status/2102894936316420109) | Opus 5.5 | [@holytrinity](https://x.com/holytrinity) | 0:32 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102894936316420109) |
 | [《The First Spark》程序化手绘动画短片](https://x.com/morpheusdv/status/2102910531560731063) | Opus 5.5 | [@morpheusdv](https://x.com/morpheusdv) | 1:00 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102910531560731063) |
@@ -204,6 +206,7 @@
 | [PayBox品牌Logo动效广告](https://x.com/0xValure/status/2103603025579331584) | Opus 5.5 | [@0xValure](https://x.com/0xValure) | 0:10 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103603025579331584) |
 | [令人惊叹的AI演示反应视频](https://x.com/dcbruck/status/2103549268321783859) | Opus 5.5 | [@dcbruck](https://x.com/dcbruck) | 0:15 | — |
 | [Opus 5.5动画质量演示](https://x.com/makisuo/status/2103613318497997215) | Opus 5.5 | [@makisuo](https://x.com/makisuo) | 0:15 | — |
+| [水彩秋天动画](https://x.com/ishuagra02/status/2106000055706784118) | Fable 5.5 (preview) | [@ishuagra02](https://x.com/ishuagra02) | 0:25 | — |
 | [代码绘图动画制作流程演示](https://x.com/p2ecoin91/status/2103398218793168921) | Opus 5.5 | [@p2ecoin91](https://x.com/p2ecoin91) | 2:37 | — |
 | [未说明内容的视频作品展示](https://x.com/GPTabby/status/2103581801490809069) | Opus 5.5 | [@GPTabby](https://x.com/GPTabby) | 3:51 | — |
 | [Google Apps Script主题视频](https://x.com/kimura_0314/status/2102682159668720109) | Opus 5.5 | [@kimura_0314](https://x.com/kimura_0314) | 0:34 | — |

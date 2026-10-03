@@ -1,6 +1,6 @@
 # 游戏
 
-共 206 个作品，其中 35 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 208 个作品，其中 35 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Opus5.5制作的可扩展服务器我的世界风游戏](https://x.com/lambda_funtaro/status/2103115036369760496) | Opus 5.5 | [@lambda_funtaro](https://x.com/lambda_funtaro) | 0:23 | — |
 | [虚幻+Blender游戏项目进展](https://x.com/seftsaint/status/2103491735855022174) | Opus 5.5 | [@seftsaint](https://x.com/seftsaint) | 1:16 | — |
 | [Roblox动漫格斗游戏](https://x.com/m_ferreira28/status/2102561495104291156) | Opus 5.5 | [@m_ferreira28](https://x.com/m_ferreira28) | 0:46 | — |
+| [自动驾驶驶过伦巴底街](https://x.com/mindblown_ai/status/2106112279079199037) | Fable 5.5 (preview) | [@mindblown_ai](https://x.com/mindblown_ai) | 1:13 | — |
 | [3D浏览器游戏](https://x.com/ai_growth_avii/status/2104066630108188974) | Opus 5.5 | [@ai_growth_avii](https://x.com/ai_growth_avii) | 2:21 | — |
 | [用Opus 5.5与Unreal制作的可玩动作角色扮演游戏](https://x.com/KanaWorks_AI/status/2103138051165933661) | Opus 5.5 | [@KanaWorks_AI](https://x.com/KanaWorks_AI) | 0:51 | — |
 | [氛围编程游戏及制作说明](https://x.com/sonia_code/status/2103441886488990016) | Opus 5.5 | [@sonia_code](https://x.com/sonia_code) | 0:08 | — |
@@ -170,6 +171,7 @@
 | [程序化山脉飞行模拟器](https://x.com/cyrilXBT/status/2103801828744061307) | Opus 5.5 | [@cyrilXBT](https://x.com/cyrilXBT) | 0:15 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103801828744061307) |
 | [Three.js版火箭联盟克隆](https://x.com/thoughtcrime___/status/2103946340598501771) | Opus 5.5 | [@thoughtcrime___](https://x.com/thoughtcrime___) | 0:16 | — |
 | [复古游戏在现代引擎中的复刻](https://x.com/AIandDesign/status/2103327470485459444) | Opus 5.5 | [@AIandDesign](https://x.com/AIandDesign) | 4:00 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103327470485459444) |
+| [21个世界的Boss战游戏](https://x.com/EMostaque/status/2106065029850091943) | Fable 5.5 (preview) | [@EMostaque](https://x.com/EMostaque) | 0:59 | — |
 | [用Sonnet 5.5制作的恐怖游戏](https://x.com/The_Alex/status/2104640571004567617) | Sonnet 5.5 | [@The_Alex](https://x.com/The_Alex) | 5:13 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104640571004567617) |
 | [用Claude Opus 5.5在Godot制作的SCP-096恐怖游戏](https://x.com/imjustnewatai/status/2105596869720322429) | Opus 5.5 | [@imjustnewatai](https://x.com/imjustnewatai) | 1:53 | — |
 | [剑戟对战游戏开发中](https://x.com/R_Nikaido/status/2103462848303378834) | Opus 5.5 | [@R_Nikaido](https://x.com/R_Nikaido) | 0:35 | — |

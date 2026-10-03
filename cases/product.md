@@ -1,6 +1,6 @@
 # Product demos & ads
 
-165 works, 29 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+167 works, 29 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Coding plugin demo video](https://x.com/eliasstravik/status/2102826740951232530) | Opus 5.5 | [@eliasstravik](https://x.com/eliasstravik) | 0:15 | — |
 | [Dark-mode sales dashboard build](https://x.com/salungprastyo/status/2103015120104525942) | Opus 5.5 | [@salungprastyo](https://x.com/salungprastyo) | 0:33 | — |
 | [30-second conference ad (Designship 2026)](https://x.com/hajipion/status/2103766842024362220) | Opus 5.5 | [@hajipion](https://x.com/hajipion) | 0:30 | — |
+| [Commercial-style brand ad spot](https://x.com/satori_sz9/status/2106007762128007332) | Fable 5.5 (preview) | [@satori_sz9](https://x.com/satori_sz9) | 1:02 | — |
 | [Website built in two hours](https://x.com/ShivaGupta4639/status/2103840021447110673) | Opus 5.5 | [@ShivaGupta4639](https://x.com/ShivaGupta4639) | 0:27 | — |
 | [Water bottle marketing website demo](https://x.com/zarazhangrui/status/2105096296831017078) | Opus 5.5 | [@zarazhangrui](https://x.com/zarazhangrui) | 0:39 | — |
 | [Single-prompt design result](https://x.com/PancaSeptiana/status/2103395361058664888) | Opus 5.5 | [@PancaSeptiana](https://x.com/PancaSeptiana) | 0:06 | — |
@@ -138,6 +139,7 @@
 | [App demo with prompt-generated audio and visuals](https://x.com/surucudev/status/2103520477428027482) | Opus 5.5 | [@surucudev](https://x.com/surucudev) | 0:30 | — |
 | [Obsidian introduction video](https://x.com/pkm_tk111/status/2103521677259026878) | Opus 5.5 | [@pkm_tk111](https://x.com/pkm_tk111) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103521677259026878) |
 | [Product launch video replicating brand UI](https://x.com/steventey/status/2103843311807349148) | Opus 5.5 | [@steventey](https://x.com/steventey) | 0:15 | — |
+| [Claude mascot coworker mod demo](https://x.com/ishuagra02/status/2106138602073641241) | Fable 5.5 (preview) | [@ishuagra02](https://x.com/ishuagra02) | 0:37 | — |
 | [Custom flame branding effect demo](https://x.com/nusretuzman/status/2103582679358718050) | Opus 5.5 | [@nusretuzman](https://x.com/nusretuzman) | 0:04 | — |
 | [Exploded view animation of a product model](https://x.com/higgsfield_ai/status/2103516954447462586) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:03 | — |
 | [Motion-heavy product launch video](https://x.com/higgsfield_ai/status/2103955965733462505) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:09 | — |

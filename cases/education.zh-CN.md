@@ -1,6 +1,6 @@
 # 科普讲解
 
-共 118 个作品，其中 38 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 122 个作品，其中 40 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [机场车流对比可视化](https://x.com/ConorNeu/status/2103528147220349271) | Opus 5.5 | [@ConorNeu](https://x.com/ConorNeu) | 1:07 | — |
 | [中华上下五千年回顾视频](https://x.com/akokoi1/status/2102583898865873225) | Opus 5.5 | [@akokoi1](https://x.com/akokoi1) | 2:38 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102583898865873225) |
 | [难题求解过程可视化](https://x.com/chetaslua/status/2102478640428773861) | Opus 5.5 | [@chetaslua](https://x.com/chetaslua) | 0:30 | — |
+| [人类进步未来动画短片](https://x.com/imjustnewatai/status/2106081142143168580) | Fable 5.5 (preview) | [@imjustnewatai](https://x.com/imjustnewatai) | 3:09 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2106081142143168580) |
 | [15秒讲述3D计算机图形史](https://x.com/jmitani/status/2103997975173439834) | Opus 5.5 | [@jmitani](https://x.com/jmitani) | 0:15 | — |
 | [本能寺之变讲解视频](https://x.com/AIPlus_AISchool/status/2102701984344330458) | Opus 5.5 | [@AIPlus_AISchool](https://x.com/AIPlus_AISchool) | 1:00 | — |
 | [投资杠杆原理讲解视频](https://x.com/bitfish/status/2104213208353628597) | Opus 5.5 | [@bitfish](https://x.com/bitfish) | 3:10 | — |
@@ -68,12 +69,14 @@
 | [一分钟看懂信用交易讲解](https://x.com/RtSubPozrT8wmsN/status/2102764115500687573) | Opus 5.5 | [@RtSubPozrT8wmsN](https://x.com/RtSubPozrT8wmsN) | 0:57 | — |
 | [浏览器工作原理讲解动画](https://x.com/DataChaz/status/2103020750060028222) | Opus 5.5 | [@DataChaz](https://x.com/DataChaz) | 0:40 | — |
 | [密码与通行密钥互动讲解视频](https://x.com/Tz_2022/status/2102838830285898214) | Opus 5.5 | [@Tz_2022](https://x.com/Tz_2022) | 4:09 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102838830285898214) |
+| [文明史动画短片](https://x.com/ziwenxu_/status/2105983571848741045) | Fable 5.5 (preview) | [@ziwenxu_](https://x.com/ziwenxu_) | 3:06 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2105983571848741045) |
 | [燃气轮机历史讲解视频](https://x.com/Xaraphim/status/2103576037426917779) | Opus 5.5 | [@Xaraphim](https://x.com/Xaraphim) | 2:08 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103576037426917779) |
 | [驱动蛋白粘土动画讲解](https://x.com/JacobMolBio/status/2102569129026916389) | Opus 5.5 | [@JacobMolBio](https://x.com/JacobMolBio) | 0:23 | — |
 | [Opus 5.5自我介绍讲解视频](https://x.com/_caty2_/status/2102473582333050959) | Opus 5.5 | [@_caty2_](https://x.com/_caty2_) | 1:18 | — |
 | [教材视觉动画生成展示](https://x.com/0x0funky/status/2102736587708854585) | Opus 5.5 | [@0x0funky](https://x.com/0x0funky) | 6:34 | — |
 | [BBC风格的Three.js科普视频](https://x.com/Tz_2022/status/2104978414465945696) | Opus 5.5 | [@Tz_2022](https://x.com/Tz_2022) | 5:02 | — |
 | [面向儿童的火山原理讲解视频](https://x.com/nishanthps/status/2103272493658353765) | Opus 5.5 | [@nishanthps](https://x.com/nishanthps) | 3:15 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103272493658353765) |
+| [四万年艺术史动画](https://x.com/cherry_mx_reds/status/2106095190285144331) | Fable 5.5 (preview) | [@cherry_mx_reds](https://x.com/cherry_mx_reds) | 0:15 | — |
 | [可拆解的五轴数控机床互动讲解](https://x.com/konstantinsaifo/status/2104963500988916032) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 0:45 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104963500988916032) |
 | [可探索的AI历史博物馆](https://x.com/RyanSael/status/2103021886045348073) | Opus 5.5 | [@RyanSael](https://x.com/RyanSael) | 0:44 | — |
 | [互动式海啸防灾模拟网站](https://x.com/akira_papa_IT/status/2103121980685955247) | Opus 5.5 | [@akira_papa_IT](https://x.com/akira_papa_IT) | 0:53 | — |
@@ -103,6 +106,7 @@
 | [印度尼西亚历史动画纪录片](https://x.com/sonnylazuardi/status/2103511590884815282) | Opus 5.5 | [@sonnylazuardi](https://x.com/sonnylazuardi) | 0:53 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103511590884815282) |
 | [以太坊抗量子路线图讲解视频](https://x.com/0xmamedai/status/2102715649185423426) | Opus 5.5 | [@0xmamedai](https://x.com/0xmamedai) | 2:17 | — |
 | [Gemini语音合成选项讲解视频](https://x.com/seiiiiiiiiiiru/status/2103590369816375359) | Opus 5.5 | [@seiiiiiiiiiiru](https://x.com/seiiiiiiiiiiru) | 0:30 | — |
+| [人类历史动画](https://x.com/blueemi99/status/2106041578204655748) | Fable 5.5 (preview) | [@blueemi99](https://x.com/blueemi99) | 2:00 | — |
 | [一分钟看懂股票投资讲解](https://x.com/RtSubPozrT8wmsN/status/2102763227629375648) | Opus 5.5 | [@RtSubPozrT8wmsN](https://x.com/RtSubPozrT8wmsN) | 0:59 | — |
 | [将文章核心思想可视化的视频](https://x.com/Lonely__MH/status/2103637675609870374) | Opus 5.5 | [@Lonely__MH](https://x.com/Lonely__MH) | 1:01 | — |
 | [植物生理3D水族箱式可视化](https://x.com/sonia_code/status/2103774074505949448) | Opus 5.5 | [@sonia_code](https://x.com/sonia_code) | 0:21 | — |

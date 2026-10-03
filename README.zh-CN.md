@@ -2,7 +2,7 @@
 
 [English](README.md) | 简体中文
 
-X 上用 Claude Opus 5.5、Sonnet 5.5 和 Fable 5.5（内测中、未官宣）做出来的视频、动效、3D 场景和游戏，原帖播放量都过 5,000。共 **1248 个作品**（Opus 5.5 1178 个 · Sonnet 5.5 80 个 · Fable 5.5 13 个，对比帖各边都计），其中 **314 个附提示词**（123 条完整提示词）。
+X 上用 Claude Opus 5.5、Sonnet 5.5 和 Fable 5.5（内测中、未官宣）做出来的视频、动效、3D 场景和游戏，原帖播放量都过 5,000。共 **1269 个作品**（Opus 5.5 1183 个 · Sonnet 5.5 80 个 · Fable 5.5 33 个，对比帖各边都计），其中 **319 个附提示词**（125 条完整提示词）。
 
 **[在线浏览，可直接播放和复制提示词 →](https://jasonzhu.ai/zh/prompts/claude-opus-5-5)**
 
@@ -32,7 +32,7 @@ X 上用 Claude Opus 5.5、Sonnet 5.5 和 Fable 5.5（内测中、未官宣）�
 
 ## 动效设计
 
-204 个作品 · [完整清单](cases/motion.zh-CN.md)
+207 个作品 · [完整清单](cases/motion.zh-CN.md)
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ X 上用 Claude Opus 5.5、Sonnet 5.5 和 Fable 5.5（内测中、未官宣）�
 
 ## 产品广告
 
-165 个作品 · [完整清单](cases/product.zh-CN.md)
+167 个作品 · [完整清单](cases/product.zh-CN.md)
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ X 上用 Claude Opus 5.5、Sonnet 5.5 和 Fable 5.5（内测中、未官宣）�
 
 ## 科普讲解
 
-118 个作品 · [完整清单](cases/education.zh-CN.md)
+122 个作品 · [完整清单](cases/education.zh-CN.md)
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ X 上用 Claude Opus 5.5、Sonnet 5.5 和 Fable 5.5（内测中、未官宣）�
 
 ## 角色故事
 
-128 个作品 · [完整清单](cases/stories.zh-CN.md)
+133 个作品 · [完整清单](cases/stories.zh-CN.md)
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -107,7 +107,7 @@ X 上用 Claude Opus 5.5、Sonnet 5.5 和 Fable 5.5（内测中、未官宣）�
 
 ## 游戏
 
-206 个作品 · [完整清单](cases/game.zh-CN.md)
+208 个作品 · [完整清单](cases/game.zh-CN.md)
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -137,7 +137,7 @@ X 上用 Claude Opus 5.5、Sonnet 5.5 和 Fable 5.5（内测中、未官宣）�
 
 ## 模型对比
 
-162 个作品 · [完整清单](cases/comparison.zh-CN.md)
+167 个作品 · [完整清单](cases/comparison.zh-CN.md)
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|

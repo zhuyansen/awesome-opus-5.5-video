@@ -1,6 +1,6 @@
 # 模型对比
 
-共 162 个作品，其中 43 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 167 个作品，其中 45 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [人类动效设计师与AI效果并排对比](https://x.com/motionbynick/status/2103515295839404113) | Opus 5.5 | [@motionbynick](https://x.com/motionbynick) | 0:11 | — |
 | [动效设计Opus与Astra对比](https://x.com/melvynx/status/2103726589334921517) | Opus 5.5 | [@melvynx](https://x.com/melvynx) | 0:49 | — |
 | [两款AI模型效果模式对比](https://x.com/SPAC89/status/2103909432102961575) | Opus 5.5 | [@SPAC89](https://x.com/SPAC89) | 0:15 | — |
+| [Fable 5.5对比GPT-6.1测试](https://x.com/SPAC89/status/2105968361725202591) | Fable 5.5 (preview) | [@SPAC89](https://x.com/SPAC89) | 0:29 | — |
 | [交互式3D景观模型对比](https://x.com/alin_zone/status/2102701111090008066) | Opus 5.5 | [@alin_zone](https://x.com/alin_zone) | 1:33 | — |
 | [鹈鹕骑车基准测试历代对比](https://x.com/leo114119/status/2103807463292367248) | Opus 5.5 | [@leo114119](https://x.com/leo114119) | 1:05 | — |
 | [经典网页游戏重制版模型对比](https://x.com/noclipepe/status/2103767411870535868) | Opus 5.5 | [@noclipepe](https://x.com/noclipepe) | 0:38 | — |
@@ -148,17 +149,21 @@
 | [夜间火车场景对比：Sonnet5.5与Opus5.5](https://x.com/EnvolDev/status/2105331703145443681) | Opus 5.5 / Sonnet 5.5 | [@EnvolDev](https://x.com/EnvolDev) | 0:25 | — |
 | [海盗船3D场景对比](https://x.com/vib3coded/status/2102533729746882985) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:22 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102533729746882985) |
 | [交互式3D眼球解剖模型对比](https://x.com/higgsfield_ai/status/2102536138884092185) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:20 | — |
+| [Three.js 体素风日本庭园](https://x.com/vikktorrrre/status/2105955048018588084) | Opus 5.5 / Fable 5.5 (preview) | [@vikktorrrre](https://x.com/vikktorrrre) | 1:04 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2105955048018588084) |
 | [Opus与Codex制作视频用量成本对比](https://x.com/xilo2991/status/2103702707764883592) | Opus 5.5 | [@xilo2991](https://x.com/xilo2991) | 3:44 | — |
 | [Opus 5.5与GPT-6 Astra 3D测试对比](https://x.com/Rocketesla_KR/status/2102531379443679518) | Opus 5.5 | [@Rocketesla_KR](https://x.com/Rocketesla_KR) | 0:46 | — |
 | [Opus 5.5 与 GPT-6 Astra 配音动画同步测试](https://x.com/erhanmeydan/status/2103917581103169729) | Opus 5.5 | [@erhanmeydan](https://x.com/erhanmeydan) | 0:48 | — |
 | [可交互3D软糖水母双模型对比](https://x.com/vib3coded/status/2104651061336117614) | Sonnet 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:18 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104651061336117614) |
 | [互动果冻火龙果对比测试](https://x.com/noclipepe/status/2103529884173664387) | Opus 5.5 | [@noclipepe](https://x.com/noclipepe) | 0:25 | — |
+| [体素自画像对比](https://x.com/blueemi99/status/2106019592451789105) | Opus 5.5 | [@blueemi99](https://x.com/blueemi99) | 0:26 | — |
 | [两款AI设计的MOBA英雄对战](https://x.com/Izkimar/status/2105377751846809800) | Opus 5.5 | [@Izkimar](https://x.com/Izkimar) | 3:09 | — |
 | [达斯维达3D模型对比：Sonnet 5.5对比GPT-6-Sol](https://x.com/AiBattle_/status/2104658130655211552) | Sonnet 5.5 | [@AiBattle_](https://x.com/AiBattle_) | 0:10 | — |
 | [四模型图像对比](https://x.com/abhinavflac/status/2105300298483019839) | Opus 5.5 / Sonnet 5.5 | [@abhinavflac](https://x.com/abhinavflac) | 0:28 | — |
 | [三模型机械花对比测试](https://x.com/alannnfx/status/2103750054607565014) | Opus 5.5 | [@alannnfx](https://x.com/alannnfx) | 0:14 | — |
 | [动效对比：Opus5.5与Astra](https://x.com/shownotover/status/2103903798691606616) | Opus 5.5 | [@shownotover](https://x.com/shownotover) | 0:30 | — |
+| [设计输出并排对比](https://x.com/badboyfoxy/status/2106073473361543348) | Opus 5.5 / Fable 5.5 (preview) | [@badboyfoxy](https://x.com/badboyfoxy) | 0:35 | — |
 | [Sonnet 5.5对比GPT-6 Astra的产出对比](https://x.com/notjazii/status/2104657634775486794) | Sonnet 5.5 | [@notjazii](https://x.com/notjazii) | 0:50 | — |
+| [3D控制器模型版本对比](https://x.com/notjazii/status/2106050222828998967) | Fable 5.5 (preview) | [@notjazii](https://x.com/notjazii) | 0:34 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2106050222828998967) |
 | [配音技能与无技能视频效果对比](https://x.com/VincentWei93/status/2103549280082612377) | Opus 5.5 | [@VincentWei93](https://x.com/VincentWei93) | 1:35 | — |
 | [Opus 5.5 与 Astra 作为机器人策略的token对比](https://x.com/dimentary/status/2103574284576977325) | Opus 5.5 | [@dimentary](https://x.com/dimentary) | 1:16 | — |
 | [Opus 5.5对比GPT-6 Sol游戏](https://x.com/RealFedeURU/status/2103551956098674957) | Opus 5.5 | [@RealFedeURU](https://x.com/RealFedeURU) | 0:25 | — |

@@ -1,6 +1,6 @@
 # 产品广告
 
-共 165 个作品，其中 29 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 167 个作品，其中 29 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [编程插件演示视频](https://x.com/eliasstravik/status/2102826740951232530) | Opus 5.5 | [@eliasstravik](https://x.com/eliasstravik) | 0:15 | — |
 | [深色模式销售仪表盘实现](https://x.com/salungprastyo/status/2103015120104525942) | Opus 5.5 | [@salungprastyo](https://x.com/salungprastyo) | 0:33 | — |
 | [Designship2026 30秒广告](https://x.com/hajipion/status/2103766842024362220) | Opus 5.5 | [@hajipion](https://x.com/hajipion) | 0:30 | — |
+| [品牌广告宣传片](https://x.com/satori_sz9/status/2106007762128007332) | Fable 5.5 (preview) | [@satori_sz9](https://x.com/satori_sz9) | 1:02 | — |
 | [两小时搭建的网站](https://x.com/ShivaGupta4639/status/2103840021447110673) | Opus 5.5 | [@ShivaGupta4639](https://x.com/ShivaGupta4639) | 0:27 | — |
 | [水瓶营销网站演示](https://x.com/zarazhangrui/status/2105096296831017078) | Opus 5.5 | [@zarazhangrui](https://x.com/zarazhangrui) | 0:39 | — |
 | [单条提示生成的设计成果](https://x.com/PancaSeptiana/status/2103395361058664888) | Opus 5.5 | [@PancaSeptiana](https://x.com/PancaSeptiana) | 0:06 | — |
@@ -138,6 +139,7 @@
 | [提示词生成音视频的应用演示](https://x.com/surucudev/status/2103520477428027482) | Opus 5.5 | [@surucudev](https://x.com/surucudev) | 0:30 | — |
 | [Obsidian软件介绍视频](https://x.com/pkm_tk111/status/2103521677259026878) | Opus 5.5 | [@pkm_tk111](https://x.com/pkm_tk111) | 0:15 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103521677259026878) |
 | [复刻品牌界面的产品发布视频](https://x.com/steventey/status/2103843311807349148) | Opus 5.5 | [@steventey](https://x.com/steventey) | 0:15 | — |
+| [Claude 吉祥物同事插件演示](https://x.com/ishuagra02/status/2106138602073641241) | Fable 5.5 (preview) | [@ishuagra02](https://x.com/ishuagra02) | 0:37 | — |
 | [定制火焰品牌特效演示](https://x.com/nusretuzman/status/2103582679358718050) | Opus 5.5 | [@nusretuzman](https://x.com/nusretuzman) | 0:04 | — |
 | [产品模型爆炸视图动画](https://x.com/higgsfield_ai/status/2103516954447462586) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:03 | — |
 | [动感十足的产品发布视频](https://x.com/higgsfield_ai/status/2103955965733462505) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:09 | — |

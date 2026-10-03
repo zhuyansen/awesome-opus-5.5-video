@@ -3,8 +3,8 @@
  "model": "Claude 5.5 (Opus 5.5 · Sonnet 5.5)",
  "inclusion_rule": "Original post by the creator, native video attached, >= 5000 views on that post, creator states it was made with Claude Opus 5.5 or Claude Sonnet 5.5.",
  "views_threshold": 5000,
- "stats_checked_at": "2026-10-03T05:46:54.416Z",
- "updated_at": "2026-10-03T05:46:54.416Z",
+ "stats_checked_at": "2026-10-03T06:00:02.633Z",
+ "updated_at": "2026-10-03T06:00:02.633Z",
  "model_attribution": "As stated by each creator; not independently reproduced.",
  "cases": [
   {
@@ -6616,6 +6616,40 @@
    "tools_reported": [],
    "reference_assets": false,
    "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2106081142143168580",
+   "models": [
+    "fable-5.5"
+   ],
+   "category": "education",
+   "title": {
+    "zh": "人类进步未来动画短片",
+    "en": "Human progress to future animated film"
+   },
+   "creator": {
+    "handle": "imjustnewatai",
+    "name": "imjustnewatai"
+   },
+   "original_post_url": "https://x.com/imjustnewatai/status/2106081142143168580",
+   "posted_at": "2026-10-02T17:57:28.000Z",
+   "language": "en",
+   "duration_seconds": 189,
+   "views": 148384,
+   "likes": 2416,
+   "bookmarks": 1424,
+   "views_checked_at": "2026-10-03T06:00:02.633Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2106080680471834624/img/XbejF3z_IpBdCzsz.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "brief",
+    "source": "post",
+    "source_url": "https://x.com/imjustnewatai/status/2106081142143168580",
+    "length": 60,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2106081142143168580"
+   },
    "resources": []
   },
   {
@@ -14389,6 +14423,34 @@
    "resources": []
   },
   {
+   "id": "2106007762128007332",
+   "models": [
+    "fable-5.5"
+   ],
+   "category": "product",
+   "title": {
+    "zh": "品牌广告宣传片",
+    "en": "Commercial-style brand ad spot"
+   },
+   "creator": {
+    "handle": "satori_sz9",
+    "name": "さとり"
+   },
+   "original_post_url": "https://x.com/satori_sz9/status/2106007762128007332",
+   "posted_at": "2026-10-02T13:05:52.000Z",
+   "language": "ja",
+   "duration_seconds": 62,
+   "views": 61779,
+   "likes": 325,
+   "bookmarks": 240,
+   "views_checked_at": "2026-10-03T06:00:02.633Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2105808491835273216/img/GJcfjJnywKX82Cin.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2103293794594816100",
    "models": [
     "opus-5.5"
@@ -15352,6 +15414,34 @@
     "video-use"
    ],
    "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2106045364868419727",
+   "models": [
+    "fable-5.5"
+   ],
+   "category": "stories",
+   "title": {
+    "zh": "克劳德日常生活动画",
+    "en": "Day in the life of Claude animation"
+   },
+   "creator": {
+    "handle": "ishuagra02",
+    "name": "Ishu Agrawal"
+   },
+   "original_post_url": "https://x.com/ishuagra02/status/2106045364868419727",
+   "posted_at": "2026-10-02T15:35:18.000Z",
+   "language": "en",
+   "duration_seconds": 91,
+   "views": 56588,
+   "likes": 1137,
+   "bookmarks": 451,
+   "views_checked_at": "2026-10-03T06:00:02.633Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2106045285017268224/img/Yr994w97L5tMD6u1.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
    "prompt": null,
    "resources": []
   },
@@ -16389,6 +16479,36 @@
    "resources": []
   },
   {
+   "id": "2106112279079199037",
+   "models": [
+    "fable-5.5"
+   ],
+   "category": "game",
+   "title": {
+    "zh": "自动驾驶驶过伦巴底街",
+    "en": "Waymo drive down Lombard Street"
+   },
+   "creator": {
+    "handle": "mindblown_ai",
+    "name": "Mindblown 🤯"
+   },
+   "original_post_url": "https://x.com/mindblown_ai/status/2106112279079199037",
+   "posted_at": "2026-10-02T20:01:11.000Z",
+   "language": "en",
+   "duration_seconds": 73,
+   "views": 52622,
+   "likes": 536,
+   "bookmarks": 289,
+   "views_checked_at": "2026-10-03T06:00:02.633Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2106111913264611328/img/-gl_fHBWEzxZh4bI.jpg",
+   "tools_reported": [
+    "Three.js"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2103590367518171295",
    "models": [
     "opus-5.5"
@@ -16637,6 +16757,35 @@
     "length": 554,
     "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103564391170089429"
    },
+   "resources": []
+  },
+  {
+   "id": "2106031355922387163",
+   "models": [
+    "opus-5.5",
+    "fable-5.5"
+   ],
+   "category": "motion",
+   "title": {
+    "zh": "简短动效设计视频",
+    "en": "Short motion design video"
+   },
+   "creator": {
+    "handle": "blueemi99",
+    "name": "bluedev"
+   },
+   "original_post_url": "https://x.com/blueemi99/status/2106031355922387163",
+   "posted_at": "2026-10-02T14:39:38.000Z",
+   "language": "en",
+   "duration_seconds": 15,
+   "views": 51626,
+   "likes": 595,
+   "bookmarks": 318,
+   "views_checked_at": "2026-10-03T06:00:02.633Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2106031233612283904/img/XBSPhOXO_Pi8cUJH.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
    "resources": []
   },
   {
@@ -18518,6 +18667,38 @@
    "resources": []
   },
   {
+   "id": "2105985484472377531",
+   "models": [
+    "opus-5.5",
+    "fable-5.5"
+   ],
+   "category": "motion",
+   "title": {
+    "zh": "一句提示词生成的动效演示",
+    "en": "One-prompt motion demo clip"
+   },
+   "creator": {
+    "handle": "Saccc_c",
+    "name": "Sac"
+   },
+   "original_post_url": "https://x.com/Saccc_c/status/2105985484472377531",
+   "posted_at": "2026-10-02T11:37:21.000Z",
+   "language": "zh",
+   "duration_seconds": 15,
+   "views": 44077,
+   "likes": 334,
+   "bookmarks": 241,
+   "views_checked_at": "2026-10-03T06:00:02.633Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2105984187492966400/img/XlRr63H1BRicADFj.jpg",
+   "tools_reported": [
+    "Remotion",
+    "HyperFrames"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2102990431940415738",
    "models": [
     "opus-5.5"
@@ -20257,6 +20438,40 @@
    "resources": []
   },
   {
+   "id": "2105983571848741045",
+   "models": [
+    "fable-5.5"
+   ],
+   "category": "education",
+   "title": {
+    "zh": "文明史动画短片",
+    "en": "Civilization history animated film"
+   },
+   "creator": {
+    "handle": "ziwenxu_",
+    "name": "Ziwen"
+   },
+   "original_post_url": "https://x.com/ziwenxu_/status/2105983571848741045",
+   "posted_at": "2026-10-02T11:29:45.000Z",
+   "language": "en",
+   "duration_seconds": 186,
+   "views": 37851,
+   "likes": 395,
+   "bookmarks": 207,
+   "views_checked_at": "2026-10-03T06:00:02.633Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2105974025167982592/img/FOfKC5764KT75uQi.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "brief",
+    "source": "post",
+    "source_url": "https://x.com/ziwenxu_/status/2105983571848741045",
+    "length": 50,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2105983571848741045"
+   },
+   "resources": []
+  },
+  {
    "id": "2103576037426917779",
    "models": [
     "opus-5.5"
@@ -21479,6 +21694,37 @@
    "resources": []
   },
   {
+   "id": "2105934928483701214",
+   "models": [
+    "fable-5.5"
+   ],
+   "category": "stories",
+   "title": {
+    "zh": "Hugging Face事件音乐动画",
+    "en": "Hugging Face incident music video"
+   },
+   "creator": {
+    "handle": "chetaslua",
+    "name": "Chetaslua"
+   },
+   "original_post_url": "https://x.com/chetaslua/status/2105934928483701214",
+   "posted_at": "2026-10-02T08:16:27.000Z",
+   "language": "en",
+   "duration_seconds": 157,
+   "views": 33681,
+   "likes": 417,
+   "bookmarks": 157,
+   "views_checked_at": "2026-10-03T06:00:02.633Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2105934145163792384/img/uq9tFHS_cJ7IEgGh.jpg",
+   "tools_reported": [
+    "Blender",
+    "ElevenLabs"
+   ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2103638102333858193",
    "models": [
     "opus-5.5"
@@ -21833,6 +22079,34 @@
    "resources": [
     "https://motionsites.ai"
    ]
+  },
+  {
+   "id": "2106095190285144331",
+   "models": [
+    "fable-5.5"
+   ],
+   "category": "education",
+   "title": {
+    "zh": "四万年艺术史动画",
+    "en": "40,000 years of art history video"
+   },
+   "creator": {
+    "handle": "cherry_mx_reds",
+    "name": "Tak 🦞"
+   },
+   "original_post_url": "https://x.com/cherry_mx_reds/status/2106095190285144331",
+   "posted_at": "2026-10-02T18:53:17.000Z",
+   "language": "en",
+   "duration_seconds": 15,
+   "views": 32516,
+   "likes": 698,
+   "bookmarks": 326,
+   "views_checked_at": "2026-10-03T06:00:02.633Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2106095106004570112/img/5996q48lBINY-B-o.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
   },
   {
    "id": "2104963500988916032",
@@ -27796,6 +28070,40 @@
    "resources": []
   },
   {
+   "id": "2106076940558082297",
+   "models": [
+    "fable-5.5"
+   ],
+   "category": "stories",
+   "title": {
+    "zh": "2010-2026网络热梗动画",
+    "en": "Viral memes 2010-2026 timeline video"
+   },
+   "creator": {
+    "handle": "chetaslua",
+    "name": "Chetaslua"
+   },
+   "original_post_url": "https://x.com/chetaslua/status/2106076940558082297",
+   "posted_at": "2026-10-02T17:40:46.000Z",
+   "language": "en",
+   "duration_seconds": 98,
+   "views": 17729,
+   "likes": 260,
+   "bookmarks": 68,
+   "views_checked_at": "2026-10-03T06:00:02.633Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2106076390227615744/img/DZ2vEQf5P9eZjpdE.jpg",
+   "tools_reported": [],
+   "reference_assets": true,
+   "prompt": {
+    "kind": "brief",
+    "source": "author_reply",
+    "source_url": "https://x.com/chetaslua/status/2106089370889687274",
+    "length": 61,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2106076940558082297"
+   },
+   "resources": []
+  },
+  {
    "id": "2103850415930708437",
    "models": [
     "opus-5.5"
@@ -28099,6 +28407,36 @@
     "length": 245,
     "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103925420211229164"
    },
+   "resources": []
+  },
+  {
+   "id": "2105968361725202591",
+   "models": [
+    "fable-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "Fable 5.5对比GPT-6.1测试",
+    "en": "Fable 5.5 vs GPT-6.1 comparison"
+   },
+   "creator": {
+    "handle": "SPAC89",
+    "name": "Iam_"
+   },
+   "original_post_url": "https://x.com/SPAC89/status/2105968361725202591",
+   "posted_at": "2026-10-02T10:29:19.000Z",
+   "language": "en",
+   "duration_seconds": 29,
+   "views": 17225,
+   "likes": 187,
+   "bookmarks": 60,
+   "views_checked_at": "2026-10-03T06:00:02.633Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2105966519758798848/img/au8x-eulgSlYgxT-.jpg",
+   "tools_reported": [
+    "Claude CLI"
+   ],
+   "reference_assets": false,
+   "prompt": null,
    "resources": []
   },
   {
@@ -29601,6 +29939,34 @@
    "resources": []
   },
   {
+   "id": "2106041578204655748",
+   "models": [
+    "fable-5.5"
+   ],
+   "category": "education",
+   "title": {
+    "zh": "人类历史动画",
+    "en": "History of humanity animation"
+   },
+   "creator": {
+    "handle": "blueemi99",
+    "name": "bluedev"
+   },
+   "original_post_url": "https://x.com/blueemi99/status/2106041578204655748",
+   "posted_at": "2026-10-02T15:20:15.000Z",
+   "language": "en",
+   "duration_seconds": 120,
+   "views": 15306,
+   "likes": 251,
+   "bookmarks": 69,
+   "views_checked_at": "2026-10-03T06:00:02.633Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2106041378530643968/img/rdnAvItxcQSG2Q6b.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2103549144606572886",
    "models": [
     "opus-5.5"
@@ -30251,6 +30617,44 @@
    ],
    "reference_assets": true,
    "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2105955048018588084",
+   "models": [
+    "opus-5.5",
+    "fable-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "Three.js 体素风日本庭园",
+    "en": "Voxel Japanese garden in Three.js"
+   },
+   "creator": {
+    "handle": "vikktorrrre",
+    "name": "Veee"
+   },
+   "original_post_url": "https://x.com/vikktorrrre/status/2105955048018588084",
+   "posted_at": "2026-10-02T09:36:24.000Z",
+   "language": "en",
+   "duration_seconds": 64,
+   "views": 14508,
+   "likes": 126,
+   "bookmarks": 26,
+   "views_checked_at": "2026-10-03T06:00:02.633Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2105954256339513344/img/kHVCz8EvQn0QJ-0G.jpg",
+   "tools_reported": [
+    "Three.js",
+    "Claude Code"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "full",
+    "source": "author_reply",
+    "source_url": "https://x.com/vikktorrrre/status/2105955386259907033",
+    "length": 129,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2105955048018588084"
+   },
    "resources": []
   },
   {
@@ -31267,6 +31671,34 @@
    "resources": []
   },
   {
+   "id": "2106065029850091943",
+   "models": [
+    "fable-5.5"
+   ],
+   "category": "game",
+   "title": {
+    "zh": "21个世界的Boss战游戏",
+    "en": "21-world boss battle game"
+   },
+   "creator": {
+    "handle": "EMostaque",
+    "name": "Emad"
+   },
+   "original_post_url": "https://x.com/EMostaque/status/2106065029850091943",
+   "posted_at": "2026-10-02T16:53:26.000Z",
+   "language": "en",
+   "duration_seconds": 59,
+   "views": 13258,
+   "likes": 135,
+   "bookmarks": 30,
+   "views_checked_at": "2026-10-03T06:00:02.633Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2106064884798566400/img/NzZmyt4cTpUHGxBC.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2104651061336117614",
    "models": [
     "sonnet-5.5"
@@ -31838,6 +32270,34 @@
    "bookmarks": 167,
    "views_checked_at": "2026-09-28T09:27:18.818Z",
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2103591579260698626/img/VfHsW_nvwja1zzoI.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2106019592451789105",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "体素自画像对比",
+    "en": "Voxel self-portrait comparison"
+   },
+   "creator": {
+    "handle": "blueemi99",
+    "name": "bluedev"
+   },
+   "original_post_url": "https://x.com/blueemi99/status/2106019592451789105",
+   "posted_at": "2026-10-02T13:52:53.000Z",
+   "language": "en",
+   "duration_seconds": 26,
+   "views": 12426,
+   "likes": 145,
+   "bookmarks": 25,
+   "views_checked_at": "2026-10-03T06:00:02.633Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2106019468941955072/img/yh7xq2AEYG7N2nRX.jpg",
    "tools_reported": [],
    "reference_assets": false,
    "prompt": null,
@@ -32437,6 +32897,34 @@
     "length": 102,
     "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102810710791401883"
    },
+   "resources": []
+  },
+  {
+   "id": "2106097745098395712",
+   "models": [
+    "fable-5.5"
+   ],
+   "category": "stories",
+   "title": {
+    "zh": "自称AGI的动画短片",
+    "en": "Animated AGI declaration short"
+   },
+   "creator": {
+    "handle": "AndrewOnXYZ",
+    "name": "AndrewOnXYZ"
+   },
+   "original_post_url": "https://x.com/AndrewOnXYZ/status/2106097745098395712",
+   "posted_at": "2026-10-02T19:03:26.000Z",
+   "language": "en",
+   "duration_seconds": 266,
+   "views": 11782,
+   "likes": 126,
+   "bookmarks": 75,
+   "views_checked_at": "2026-10-03T06:00:02.633Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2106096409908817920/img/0MS8hMxuskXHjM6D.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
    "resources": []
   },
   {
@@ -33249,6 +33737,34 @@
    "resources": []
   },
   {
+   "id": "2106060047805792415",
+   "models": [
+    "fable-5.5"
+   ],
+   "category": "stories",
+   "title": {
+    "zh": "霍尔木兹海峡辩论动画",
+    "en": "Strait of Hormuz debate animation"
+   },
+   "creator": {
+    "handle": "chetaslua",
+    "name": "Chetaslua"
+   },
+   "original_post_url": "https://x.com/chetaslua/status/2106060047805792415",
+   "posted_at": "2026-10-02T16:33:38.000Z",
+   "language": "en",
+   "duration_seconds": 64,
+   "views": 10964,
+   "likes": 142,
+   "bookmarks": 27,
+   "views_checked_at": "2026-10-03T06:00:02.633Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2106059746075951105/img/PLE9FyhDWCTF_Ll5.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2104763837777854923",
    "models": [
     "sonnet-5.5"
@@ -33622,6 +34138,36 @@
    "resources": []
   },
   {
+   "id": "2106138602073641241",
+   "models": [
+    "fable-5.5"
+   ],
+   "category": "product",
+   "title": {
+    "zh": "Claude 吉祥物同事插件演示",
+    "en": "Claude mascot coworker mod demo"
+   },
+   "creator": {
+    "handle": "ishuagra02",
+    "name": "Ishu Agrawal"
+   },
+   "original_post_url": "https://x.com/ishuagra02/status/2106138602073641241",
+   "posted_at": "2026-10-02T21:45:47.000Z",
+   "language": "en",
+   "duration_seconds": 37,
+   "views": 10571,
+   "likes": 144,
+   "bookmarks": 90,
+   "views_checked_at": "2026-10-03T06:00:02.633Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2106137509080039424/img/eZtr7zSVFZQO1nCz.jpg",
+   "tools_reported": [
+    "Claude Code"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2103781641613439104",
    "models": [
     "opus-5.5"
@@ -33858,6 +34404,35 @@
    "tools_reported": [
     "Higgsfield"
    ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2106073473361543348",
+   "models": [
+    "opus-5.5",
+    "fable-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "设计输出并排对比",
+    "en": "Side-by-side design output comparison"
+   },
+   "creator": {
+    "handle": "badboyfoxy",
+    "name": "badboyfoxy"
+   },
+   "original_post_url": "https://x.com/badboyfoxy/status/2106073473361543348",
+   "posted_at": "2026-10-02T17:26:59.000Z",
+   "language": "en",
+   "duration_seconds": 35,
+   "views": 10389,
+   "likes": 196,
+   "bookmarks": 25,
+   "views_checked_at": "2026-10-03T06:00:02.633Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2106073333821317120/img/1X2nFZ6qVC6lKYEg.jpg",
+   "tools_reported": [],
    "reference_assets": false,
    "prompt": null,
    "resources": []
@@ -35534,6 +36109,40 @@
    ],
    "reference_assets": false,
    "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2106050222828998967",
+   "models": [
+    "fable-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "3D控制器模型版本对比",
+    "en": "3D controller model comparison"
+   },
+   "creator": {
+    "handle": "notjazii",
+    "name": "J A Z I I"
+   },
+   "original_post_url": "https://x.com/notjazii/status/2106050222828998967",
+   "posted_at": "2026-10-02T15:54:36.000Z",
+   "language": "en",
+   "duration_seconds": 34,
+   "views": 8607,
+   "likes": 178,
+   "bookmarks": 17,
+   "views_checked_at": "2026-10-03T06:00:02.633Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2106049835120103425/img/9CoAE_ICGOXfLuFB.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "full",
+    "source": "author_reply",
+    "source_url": "https://x.com/notjazii/status/2106077214861328781",
+    "length": 534,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2106050222828998967"
+   },
    "resources": []
   },
   {
@@ -38067,6 +38676,34 @@
     "length": 9,
     "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102581759733121421"
    },
+   "resources": []
+  },
+  {
+   "id": "2106000055706784118",
+   "models": [
+    "fable-5.5"
+   ],
+   "category": "motion",
+   "title": {
+    "zh": "水彩秋天动画",
+    "en": "Watercolor fall animation"
+   },
+   "creator": {
+    "handle": "ishuagra02",
+    "name": "Ishu Agrawal"
+   },
+   "original_post_url": "https://x.com/ishuagra02/status/2106000055706784118",
+   "posted_at": "2026-10-02T12:35:15.000Z",
+   "language": "en",
+   "duration_seconds": 25,
+   "views": 5452,
+   "likes": 147,
+   "bookmarks": 43,
+   "views_checked_at": "2026-10-03T06:00:02.633Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2105903123424296960/img/VVKtJchJvM-4u_-2.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
    "resources": []
   },
   {

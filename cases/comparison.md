@@ -1,6 +1,6 @@
 # Model comparisons
 
-162 works, 43 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+167 works, 45 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Human vs AI motion design side by side](https://x.com/motionbynick/status/2103515295839404113) | Opus 5.5 | [@motionbynick](https://x.com/motionbynick) | 0:11 | — |
 | [Motion design comparison Opus vs Astra](https://x.com/melvynx/status/2103726589334921517) | Opus 5.5 | [@melvynx](https://x.com/melvynx) | 0:49 | — |
 | [Effort-mode comparison between two AI models](https://x.com/SPAC89/status/2103909432102961575) | Opus 5.5 | [@SPAC89](https://x.com/SPAC89) | 0:15 | — |
+| [Fable 5.5 vs GPT-6.1 comparison](https://x.com/SPAC89/status/2105968361725202591) | Fable 5.5 (preview) | [@SPAC89](https://x.com/SPAC89) | 0:29 | — |
 | [Interactive 3D landscape model comparison](https://x.com/alin_zone/status/2102701111090008066) | Opus 5.5 | [@alin_zone](https://x.com/alin_zone) | 1:33 | — |
 | [Pelican-on-bicycle benchmark across model generations](https://x.com/leo114119/status/2103807463292367248) | Opus 5.5 | [@leo114119](https://x.com/leo114119) | 1:05 | — |
 | [Classic browser game remake comparison](https://x.com/noclipepe/status/2103767411870535868) | Opus 5.5 | [@noclipepe](https://x.com/noclipepe) | 0:38 | — |
@@ -148,17 +149,21 @@
 | [Night train scene: Sonnet 5.5 vs Opus 5.5](https://x.com/EnvolDev/status/2105331703145443681) | Opus 5.5 / Sonnet 5.5 | [@EnvolDev](https://x.com/EnvolDev) | 0:25 | — |
 | [Pirate ship 3D scene comparison](https://x.com/vib3coded/status/2102533729746882985) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:22 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102533729746882985) |
 | [Interactive 3D eye anatomy model comparison](https://x.com/higgsfield_ai/status/2102536138884092185) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:20 | — |
+| [Voxel Japanese garden in Three.js](https://x.com/vikktorrrre/status/2105955048018588084) | Opus 5.5 / Fable 5.5 (preview) | [@vikktorrrre](https://x.com/vikktorrrre) | 1:04 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2105955048018588084) |
 | [Opus vs Codex usage cost for a video task](https://x.com/xilo2991/status/2103702707764883592) | Opus 5.5 | [@xilo2991](https://x.com/xilo2991) | 3:44 | — |
 | [Opus 5.5 vs GPT-6 Astra 3D test](https://x.com/Rocketesla_KR/status/2102531379443679518) | Opus 5.5 | [@Rocketesla_KR](https://x.com/Rocketesla_KR) | 0:46 | — |
 | [Opus 5.5 vs GPT-6 Astra narrated animation sync test](https://x.com/erhanmeydan/status/2103917581103169729) | Opus 5.5 | [@erhanmeydan](https://x.com/erhanmeydan) | 0:48 | — |
 | [Interactive 3D gummy jellyfish, two-model build](https://x.com/vib3coded/status/2104651061336117614) | Sonnet 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:18 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104651061336117614) |
 | [Interactive jelly dragon fruit comparison](https://x.com/noclipepe/status/2103529884173664387) | Opus 5.5 | [@noclipepe](https://x.com/noclipepe) | 0:25 | — |
+| [Voxel self-portrait comparison](https://x.com/blueemi99/status/2106019592451789105) | Opus 5.5 | [@blueemi99](https://x.com/blueemi99) | 0:26 | — |
 | [AI-designed MOBA champions face off](https://x.com/Izkimar/status/2105377751846809800) | Opus 5.5 | [@Izkimar](https://x.com/Izkimar) | 3:09 | — |
 | [Darth Vader 3D model: Sonnet 5.5 vs GPT-6-Sol](https://x.com/AiBattle_/status/2104658130655211552) | Sonnet 5.5 | [@AiBattle_](https://x.com/AiBattle_) | 0:10 | — |
 | [Four-model image comparison](https://x.com/abhinavflac/status/2105300298483019839) | Opus 5.5 / Sonnet 5.5 | [@abhinavflac](https://x.com/abhinavflac) | 0:28 | — |
 | [Three-way model comparison on a mechanical flower](https://x.com/alannnfx/status/2103750054607565014) | Opus 5.5 | [@alannnfx](https://x.com/alannnfx) | 0:14 | — |
 | [Motion graphics: Opus 5.5 vs Astra](https://x.com/shownotover/status/2103903798691606616) | Opus 5.5 | [@shownotover](https://x.com/shownotover) | 0:30 | — |
+| [Side-by-side design output comparison](https://x.com/badboyfoxy/status/2106073473361543348) | Opus 5.5 / Fable 5.5 (preview) | [@badboyfoxy](https://x.com/badboyfoxy) | 0:35 | — |
 | [Sonnet 5.5 vs GPT-6 Astra artifact comparison](https://x.com/notjazii/status/2104657634775486794) | Sonnet 5.5 | [@notjazii](https://x.com/notjazii) | 0:50 | — |
+| [3D controller model comparison](https://x.com/notjazii/status/2106050222828998967) | Fable 5.5 (preview) | [@notjazii](https://x.com/notjazii) | 0:34 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2106050222828998967) |
 | [Skill versus no-skill voiceover video comparison](https://x.com/VincentWei93/status/2103549280082612377) | Opus 5.5 | [@VincentWei93](https://x.com/VincentWei93) | 1:35 | — |
 | [Opus 5.5 vs Astra token usage as robotic policy](https://x.com/dimentary/status/2103574284576977325) | Opus 5.5 | [@dimentary](https://x.com/dimentary) | 1:16 | — |
 | [Opus 5.5 vs GPT-6 Sol game comparison](https://x.com/RealFedeURU/status/2103551956098674957) | Opus 5.5 | [@RealFedeURU](https://x.com/RealFedeURU) | 0:25 | — |

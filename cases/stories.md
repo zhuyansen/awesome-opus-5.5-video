@@ -1,6 +1,6 @@
 # Characters & stories
 
-128 works, 34 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+133 works, 35 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Satirical animated short film](https://x.com/dtzy_88/status/2102955827971883165) | Opus 5.5 | [@dtzy_88](https://x.com/dtzy_88) | 0:51 | — |
 | [Marvel and DC heroes one-shot animation](https://x.com/chetaslua/status/2105792187200147541) | Fable 5.5 (preview) | [@chetaslua](https://x.com/chetaslua) | 0:47 | — |
 | [Japanese folktale narrated video](https://x.com/AIPlus_AISchool/status/2103316853271769126) | Opus 5.5 | [@AIPlus_AISchool](https://x.com/AIPlus_AISchool) | 3:30 | — |
+| [Day in the life of Claude animation](https://x.com/ishuagra02/status/2106045364868419727) | Fable 5.5 (preview) | [@ishuagra02](https://x.com/ishuagra02) | 1:31 | — |
 | [Long-form AI video with audio and sound](https://x.com/dhruvalgolakiya/status/2102733714845491558) | Opus 5.5 | [@dhruvalgolakiya](https://x.com/dhruvalgolakiya) | 2:04 | — |
 | [Mid-Autumn collage-style animated short](https://x.com/ring_hyacinth/status/2102986085328716066) | Opus 5.5 | [@ring_hyacinth](https://x.com/ring_hyacinth) | 0:40 | — |
 | [Animated episode drawn entirely in code](https://x.com/shfred0/status/2102879301876031808) | Opus 5.5 | [@shfred0](https://x.com/shfred0) | 2:00 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102879301876031808) |
@@ -73,6 +74,7 @@
 | [From Rocks to AI short film](https://x.com/devteamdrew/status/2103523994440012086) | Opus 5.5 | [@devteamdrew](https://x.com/devteamdrew) | 3:00 | — |
 | [AI-directed emotional short video](https://x.com/nanyuan0412/status/2103823355983905278) | Opus 5.5 | [@nanyuan0412](https://x.com/nanyuan0412) | 0:16 | — |
 | [Eight-minute documentary on London's underground infrastructure](https://x.com/maxescu/status/2105619319220511010) | Opus 5.5 | [@maxescu](https://x.com/maxescu) | 7:55 | — |
+| [Hugging Face incident music video](https://x.com/chetaslua/status/2105934928483701214) | Fable 5.5 (preview) | [@chetaslua](https://x.com/chetaslua) | 2:37 | — |
 | [Animated self-narrative of Claude's future](https://x.com/shfred0/status/2102653868911817153) | Opus 5.5 | [@shfred0](https://x.com/shfred0) | 1:00 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102653868911817153) |
 | [Bitcoin Faith animated short film](https://x.com/oxpsats/status/2102927498858369282) | Opus 5.5 | [@oxpsats](https://x.com/oxpsats) | 0:49 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102927498858369282) |
 | [Linear algebra fear music video](https://x.com/doubleunplussed/status/2103697580421181894) | Opus 5.5 | [@doubleunplussed](https://x.com/doubleunplussed) | 4:22 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103697580421181894) |
@@ -96,6 +98,7 @@
 | [3D set AITuber camera-switching demo](https://x.com/ivy432hz/status/2105269408537235572) | Opus 5.5 | [@ivy432hz](https://x.com/ivy432hz) | 0:06 | — |
 | [Ink-wash animation: Little Tadpole Finds Mother](https://x.com/akokoi1/status/2102699703309898026) | Opus 5.5 | [@akokoi1](https://x.com/akokoi1) | 3:55 | — |
 | [Animated music video for a Claude-written song](https://x.com/Skoorbkaz/status/2102973119115690211) | Opus 5.5 | [@Skoorbkaz](https://x.com/Skoorbkaz) | 5:13 | — |
+| [Viral memes 2010-2026 timeline video](https://x.com/chetaslua/status/2106076940558082297) | Fable 5.5 (preview) | [@chetaslua](https://x.com/chetaslua) | 1:38 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2106076940558082297) |
 | [Plato's Protagoras adapted into a film scene](https://x.com/danshipper/status/2103850415930708437) | Opus 5.5 | [@danshipper](https://x.com/danshipper) | 3:10 | — |
 | [Mid-Autumn animated short official release](https://x.com/ring_hyacinth/status/2103476866917290441) | Opus 5.5 | [@ring_hyacinth](https://x.com/ring_hyacinth) | 0:41 | — |
 | [Rap music video explaining a research paper](https://x.com/Tz_2022/status/2103683260144292176) | Opus 5.5 | [@Tz_2022](https://x.com/Tz_2022) | 3:43 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103683260144292176) |
@@ -111,9 +114,11 @@
 | [Reimagined music video rendered by AI](https://x.com/LLMJunky/status/2103903916383744025) | Opus 5.5 | [@LLMJunky](https://x.com/LLMJunky) | 3:12 | — |
 | [Super Robot Wars style mecha battle animation](https://x.com/PDyv9gdatT4132/status/2105401665360986275) | Opus 5.5 | [@PDyv9gdatT4132](https://x.com/PDyv9gdatT4132) | 0:32 | — |
 | [Sketch-to-3D battle animation](https://x.com/MinLiBuilds/status/2102756822990180387) | Opus 5.5 | [@MinLiBuilds](https://x.com/MinLiBuilds) | 1:43 | — |
+| [Animated AGI declaration short](https://x.com/AndrewOnXYZ/status/2106097745098395712) | Fable 5.5 (preview) | [@AndrewOnXYZ](https://x.com/AndrewOnXYZ) | 4:26 | — |
 | [Claude reacting to silly questions video](https://x.com/belltyler/status/2103879008261931055) | Opus 5.5 | [@belltyler](https://x.com/belltyler) | 1:30 | — |
 | [Short animated mini film](https://x.com/jackfriks/status/2103525576912855363) | Opus 5.5 | [@jackfriks](https://x.com/jackfriks) | 0:35 | — |
 | [Lyric music video for a cover song](https://x.com/nemumusitocha/status/2102637652063461744) | Opus 5.5 | [@nemumusitocha](https://x.com/nemumusitocha) | 1:29 | — |
+| [Strait of Hormuz debate animation](https://x.com/chetaslua/status/2106060047805792415) | Fable 5.5 (preview) | [@chetaslua](https://x.com/chetaslua) | 1:04 | — |
 | [Extended animation demo praised as unreal](https://x.com/AndrewOnXYZ/status/2103687133433086358) | Opus 5.5 | [@AndrewOnXYZ](https://x.com/AndrewOnXYZ) | 3:44 | — |
 | [Hand-drawn cartoon animation starter kit](https://x.com/GoSailGlobal/status/2103650801684262994) | Opus 5.5 | [@GoSailGlobal](https://x.com/GoSailGlobal) | 1:04 | — |
 | [Cinematic 2D storyboard short film "Rain Station"](https://x.com/zhu185178/status/2103757767727255661) | Opus 5.5 | [@zhu185178](https://x.com/zhu185178) | 0:30 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103757767727255661) |
