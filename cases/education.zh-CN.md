@@ -1,6 +1,6 @@
 # 科普讲解
 
-共 110 个作品，其中 36 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 118 个作品，其中 38 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -15,8 +15,10 @@
 | [本能寺之变历史讲解视频](https://x.com/AIPlus_AISchool/status/2102960034431070563) | Opus 5.5 | [@AIPlus_AISchool](https://x.com/AIPlus_AISchool) | 1:00 | — |
 | [多巴胺激励式数学练习App](https://x.com/grmchn4ai/status/2103807453406388538) | Opus 5.5 | [@grmchn4ai](https://x.com/grmchn4ai) | 0:53 | — |
 | [浏览器工作原理动画](https://x.com/addyosmani/status/2103009037164110327) | Opus 5.5 | [@addyosmani](https://x.com/addyosmani) | 0:40 | — |
+| [Claude努力等级可视化](https://x.com/devteamdrew/status/2105353836638744578) | Opus 5.5 / Sonnet 5.5 | [@devteamdrew](https://x.com/devteamdrew) | 0:59 | — |
 | [AI发展史纪录短片](https://x.com/kimmonismus/status/2102844654169575547) | Opus 5.5 | [@kimmonismus](https://x.com/kimmonismus) | 3:00 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102844654169575547) |
 | [电磁场可视化演示](https://x.com/thebuggeddev/status/2104402407358919124) | Opus 5.5 | [@thebuggeddev](https://x.com/thebuggeddev) | 1:11 | — |
+| [可缩放的应用架构可视化画布](https://x.com/robinebers/status/2105309987983745060) | Opus 5.5 | [@robinebers](https://x.com/robinebers) | 0:12 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2105309987983745060) |
 | [《什么是 Transformer》讲解视频](https://x.com/dotey/status/2103683057689522564) | Opus 5.5 | [@dotey](https://x.com/dotey) | 12:12 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103683057689522564) |
 | [自动化花园床3D教学动画](https://x.com/Skylartkitchen/status/2103522230957420843) | Opus 5.5 | [@Skylartkitchen](https://x.com/Skylartkitchen) | 0:41 | — |
 | [重现南北战争叛军呐喊声](https://x.com/JaneCazneau/status/2103594794651992264) | Opus 5.5 | [@JaneCazneau](https://x.com/JaneCazneau) | 0:41 | — |
@@ -39,6 +41,7 @@
 | [乌克兰战线态势可视化](https://x.com/tokumei_banzai_/status/2104062022560456795) | Opus 5.5 | [@tokumei_banzai_](https://x.com/tokumei_banzai_) | 1:27 | — |
 | [比特币历史纪录片视频](https://x.com/intangiblecoins/status/2103895476319969685) | Opus 5.5 | [@intangiblecoins](https://x.com/intangiblecoins) | 3:35 | — |
 | [用JavaScript制作的恐龙历史动画](https://x.com/kevin_t_ngo/status/2104638743634391408) | Sonnet 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 0:48 | — |
+| [《学习如何学习》方法总结视频](https://x.com/momoflilbit/status/2105276821214532096) | Opus 5.5 | [@momoflilbit](https://x.com/momoflilbit) | 10:40 | — |
 | [轨道六要素互动学习工具](https://x.com/getBack_1969_/status/2105200070446751750) | Opus 5.5 | [@getBack_1969_](https://x.com/getBack_1969_) | 1:00 | — |
 | [印度文明历史视频](https://x.com/rashem48/status/2103850664007028964) | Opus 5.5 | [@rashem48](https://x.com/rashem48) | 1:16 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103850664007028964) |
 | [3D旁白版宜家组装说明视频](https://x.com/deedydas/status/2103174501345493197) | Opus 5.5 | [@deedydas](https://x.com/deedydas) | 1:42 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103174501345493197) |
@@ -55,6 +58,7 @@
 | [接入语音合成生成的解说视频](https://x.com/doerstokyo342/status/2103034063816905109) | Opus 5.5 | [@doerstokyo342](https://x.com/doerstokyo342) | 0:34 | — |
 | [双生子佯谬相对论动画讲解](https://x.com/masahirochaen/status/2102722719502704941) | Opus 5.5 | [@masahirochaen](https://x.com/masahirochaen) | 0:47 | — |
 | [文章解说视频](https://x.com/noa_gpt/status/2104938147016765836) | Opus 5.5 / Sonnet 5.5 | [@noa_gpt](https://x.com/noa_gpt) | 1:34 | — |
+| [无字动画：人们对AI的误解](https://x.com/TheSpacerr/status/2105253140765479341) | Sonnet 5.5 | [@TheSpacerr](https://x.com/TheSpacerr) | 0:45 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2105253140765479341) |
 | [眼睛进化过程科普动画](https://x.com/cagrimbakirci/status/2104011756397842869) | Opus 5.5 | [@cagrimbakirci](https://x.com/cagrimbakirci) | 1:10 | — |
 | [犹太历史纪录片一次生成](https://x.com/eranshir/status/2103564391170089429) | Opus 5.5 | [@eranshir](https://x.com/eranshir) | 3:43 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103564391170089429) |
 | [面向机器学习学生的UMAP讲解动画](https://x.com/goodside/status/2103505085292593220) | Opus 5.5 | [@goodside](https://x.com/goodside) | 5:05 | — |
@@ -73,13 +77,16 @@
 | [可拆解的五轴数控机床互动讲解](https://x.com/konstantinsaifo/status/2104963500988916032) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 0:45 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104963500988916032) |
 | [可探索的AI历史博物馆](https://x.com/RyanSael/status/2103021886045348073) | Opus 5.5 | [@RyanSael](https://x.com/RyanSael) | 0:44 | — |
 | [互动式海啸防灾模拟网站](https://x.com/akira_papa_IT/status/2103121980685955247) | Opus 5.5 | [@akira_papa_IT](https://x.com/akira_papa_IT) | 0:53 | — |
+| [关原之战动画解说视频](https://x.com/tkz_aiart/status/2105271839698428235) | Opus 5.5 | [@tkz_aiart](https://x.com/tkz_aiart) | 2:15 | — |
 | [《中华文明史》编年纪录片](https://x.com/dotey/status/2103964025683927166) | Opus 5.5 | [@dotey](https://x.com/dotey) | 3:37 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103964025683927166) |
 | [GPT模型发展史解说动画](https://x.com/yanhua1010/status/2102610348427911592) | Opus 5.5 | [@yanhua1010](https://x.com/yanhua1010) | 1:30 | — |
 | [讲解厄尔尼诺现象的纪录片风格短片](https://x.com/hanifproduktif/status/2103656501579862155) | Opus 5.5 | [@hanifproduktif](https://x.com/hanifproduktif) | 2:30 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103656501579862155) |
 | [Trace稀有度系统讲解视频](https://x.com/traceforms/status/2105029763421147460) | Opus 5.5 | [@traceforms](https://x.com/traceforms) | 1:18 | — |
 | [星系恒星形成率探索器](https://x.com/jwuphysics/status/2103290186268365205) | Opus 5.5 | [@jwuphysics](https://x.com/jwuphysics) | 2:55 | — |
 | [讲解Claude用量管理工作流的动画](https://x.com/daniel_mac8/status/2103666105461924131) | Opus 5.5 | [@daniel_mac8](https://x.com/daniel_mac8) | 0:29 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103666105461924131) |
+| [IDOR漏洞讲解视频](https://x.com/BourAbdelhadi/status/2105236146246586434) | Sonnet 5.5 | [@BourAbdelhadi](https://x.com/BourAbdelhadi) | 0:35 | — |
 | [中国建筑史知识点讲解视频](https://x.com/akokoi1/status/2103650399773475318) | Opus 5.5 | [@akokoi1](https://x.com/akokoi1) | 1:35 | — |
+| [医疗体系演讲内容总结视频](https://x.com/agaviriau/status/2105769916288930215) | Opus 5.5 | [@agaviriau](https://x.com/agaviriau) | 2:06 | — |
 | [旋转轴主题工程历史动画](https://x.com/ootamato/status/2103099960069873856) | Opus 5.5 | [@ootamato](https://x.com/ootamato) | 0:31 | — |
 | [关于三种物理理论风格的讲解视频](https://x.com/bukuro8810/status/2103739912591929851) | Opus 5.5 | [@bukuro8810](https://x.com/bukuro8810) | 5:04 | — |
 | [Manim制作的导数概念教学视频](https://x.com/LinearUncle/status/2103128559174971663) | Opus 5.5 | [@LinearUncle](https://x.com/LinearUncle) | 7:37 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103128559174971663) |
@@ -87,6 +94,7 @@
 | [带奖励机制的数学练习App演示](https://x.com/sora19ai/status/2103957310288826613) | Opus 5.5 | [@sora19ai](https://x.com/sora19ai) | 0:53 | — |
 | [研究平台起源故事视频](https://x.com/sreeramkannan/status/2104027910004949132) | Opus 5.5 | [@sreeramkannan](https://x.com/sreeramkannan) | 0:53 | — |
 | [神秘东方文明介绍动画](https://x.com/yanhua1010/status/2103712543168680363) | Opus 5.5 | [@yanhua1010](https://x.com/yanhua1010) | 2:15 | — |
+| [榫卯结构科普视频](https://x.com/op7418/status/2105675440409174160) | Opus 5.5 | [@op7418](https://x.com/op7418) | 0:48 | — |
 | [像素风神经网络训练可视化](https://x.com/Tz_2022/status/2102800251820343753) | Opus 5.5 | [@Tz_2022](https://x.com/Tz_2022) | 0:56 | — |
 | [二十四节气动画与八卦图](https://x.com/threeaus/status/2103518455404396927) | Opus 5.5 | [@threeaus](https://x.com/threeaus) | 1:03 | — |
 | [给孩子讲解四季与昼夜循环的科普视频](https://x.com/KashPrime/status/2103862007208591605) | Opus 5.5 | [@KashPrime](https://x.com/KashPrime) | 3:06 | — |
