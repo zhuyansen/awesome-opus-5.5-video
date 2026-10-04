@@ -1,6 +1,6 @@
 # 科普讲解
 
-共 120 个作品，其中 41 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 126 个作品，其中 42 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [论文改编的3Blue1Brown风格视频](https://x.com/deedydas/status/2103141339651350646) | Opus 5.5 | [@deedydas](https://x.com/deedydas) | 8:39 | — |
 | [诺兰风格的4位ALU讲解视频](https://x.com/mustafaakin/status/2103574428475154635) | Opus 5.5 | [@mustafaakin](https://x.com/mustafaakin) | 1:10 | — |
 | [印度神明历史纪录片](https://x.com/HindolSengupta/status/2103906559109787845) | Opus 5.5 | [@HindolSengupta](https://x.com/HindolSengupta) | 4:52 | — |
+| [互动式交通拥堵原理课](https://x.com/Lattice_Node/status/2105946058417389840) | Opus 5.5 | [@Lattice_Node](https://x.com/Lattice_Node) | 0:34 | — |
 | [本能寺之变历史讲解视频](https://x.com/AIPlus_AISchool/status/2102960034431070563) | Opus 5.5 | [@AIPlus_AISchool](https://x.com/AIPlus_AISchool) | 1:00 | — |
 | [多巴胺激励式数学练习App](https://x.com/grmchn4ai/status/2103807453406388538) | Opus 5.5 | [@grmchn4ai](https://x.com/grmchn4ai) | 0:53 | — |
 | [浏览器工作原理动画](https://x.com/addyosmani/status/2103009037164110327) | Opus 5.5 | [@addyosmani](https://x.com/addyosmani) | 0:40 | — |
@@ -24,6 +25,7 @@
 | [重现南北战争叛军呐喊声](https://x.com/JaneCazneau/status/2103594794651992264) | Opus 5.5 | [@JaneCazneau](https://x.com/JaneCazneau) | 0:41 | — |
 | [机场车流对比可视化](https://x.com/ConorNeu/status/2103528147220349271) | Opus 5.5 | [@ConorNeu](https://x.com/ConorNeu) | 1:07 | — |
 | [中华上下五千年回顾视频](https://x.com/akokoi1/status/2102583898865873225) | Opus 5.5 | [@akokoi1](https://x.com/akokoi1) | 2:38 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102583898865873225) |
+| [互动式喷气发动机原理课](https://x.com/techartist_/status/2106064200535859685) | Opus 5.5 | [@techartist_](https://x.com/techartist_) | 0:24 | — |
 | [难题求解过程可视化](https://x.com/chetaslua/status/2102478640428773861) | Opus 5.5 | [@chetaslua](https://x.com/chetaslua) | 0:30 | — |
 | [人类进步未来动画短片](https://x.com/imjustnewatai/status/2106081142143168580) | Fable 5.5 (preview) | [@imjustnewatai](https://x.com/imjustnewatai) | 3:09 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2106081142143168580) |
 | [15秒讲述3D计算机图形史](https://x.com/jmitani/status/2103997975173439834) | Opus 5.5 | [@jmitani](https://x.com/jmitani) | 0:15 | — |
@@ -55,6 +57,7 @@
 | [聚焦美国的文明纪录片](https://x.com/frontierism/status/2103738204411379949) | Opus 5.5 | [@frontierism](https://x.com/frontierism) | 1:59 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103738204411379949) |
 | [风格多变的递归讲解视频](https://x.com/emollick/status/2103688362960019567) | Opus 5.5 | [@emollick](https://x.com/emollick) | 1:15 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103688362960019567) |
 | [动画鹈鹕讲解Shell命令](https://x.com/goodside/status/2103149526244618682) | Opus 5.5 | [@goodside](https://x.com/goodside) | 0:30 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103149526244618682) |
+| [摆线原理动画课](https://x.com/AIMevzulari/status/2106052083040256293) | Opus 5.5 | [@AIMevzulari](https://x.com/AIMevzulari) | 2:08 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2106052083040256293) |
 | [城市化经济学纪录片](https://x.com/JorgeGalindo/status/2103811849129234909) | Opus 5.5 | [@JorgeGalindo](https://x.com/JorgeGalindo) | 32:47 | — |
 | [接入语音合成生成的解说视频](https://x.com/doerstokyo342/status/2103034063816905109) | Opus 5.5 | [@doerstokyo342](https://x.com/doerstokyo342) | 0:34 | — |
 | [双生子佯谬相对论动画讲解](https://x.com/masahirochaen/status/2102722719502704941) | Opus 5.5 | [@masahirochaen](https://x.com/masahirochaen) | 0:47 | — |
@@ -92,11 +95,13 @@
 | [医疗体系演讲内容总结视频](https://x.com/agaviriau/status/2105769916288930215) | Opus 5.5 | [@agaviriau](https://x.com/agaviriau) | 2:06 | — |
 | [旋转轴主题工程历史动画](https://x.com/ootamato/status/2103099960069873856) | Opus 5.5 | [@ootamato](https://x.com/ootamato) | 0:31 | — |
 | [关于三种物理理论风格的讲解视频](https://x.com/bukuro8810/status/2103739912591929851) | Opus 5.5 | [@bukuro8810](https://x.com/bukuro8810) | 5:04 | — |
+| [记忆系统可视化](https://x.com/RileyRalmuto/status/2106067156949520616) | Opus 5.5 | [@RileyRalmuto](https://x.com/RileyRalmuto) | 0:56 | — |
 | [Manim制作的导数概念教学视频](https://x.com/LinearUncle/status/2103128559174971663) | Opus 5.5 | [@LinearUncle](https://x.com/LinearUncle) | 7:37 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103128559174971663) |
 | [个人风格讲解詹森不等式](https://x.com/prathoshap/status/2103843937735888898) | Opus 5.5 | [@prathoshap](https://x.com/prathoshap) | 0:30 | — |
 | [研究平台起源故事视频](https://x.com/sreeramkannan/status/2104027910004949132) | Opus 5.5 | [@sreeramkannan](https://x.com/sreeramkannan) | 0:53 | — |
 | [神秘东方文明介绍动画](https://x.com/yanhua1010/status/2103712543168680363) | Opus 5.5 | [@yanhua1010](https://x.com/yanhua1010) | 2:15 | — |
 | [榫卯结构科普视频](https://x.com/op7418/status/2105675440409174160) | Opus 5.5 | [@op7418](https://x.com/op7418) | 0:48 | — |
+| [大语言模型内部运作可视化](https://x.com/KimizLlm/status/2106089511411409081) | Opus 5.5 | [@KimizLlm](https://x.com/KimizLlm) | 4:44 | — |
 | [二十四节气动画与八卦图](https://x.com/threeaus/status/2103518455404396927) | Opus 5.5 | [@threeaus](https://x.com/threeaus) | 1:03 | — |
 | [给孩子讲解四季与昼夜循环的科普视频](https://x.com/KashPrime/status/2103862007208591605) | Opus 5.5 | [@KashPrime](https://x.com/KashPrime) | 3:06 | — |
 | [个人基准测试重要性讲解视频](https://x.com/danshipper/status/2103678798827020298) | Opus 5.5 | [@danshipper](https://x.com/danshipper) | 2:52 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103678798827020298) |
@@ -105,6 +110,7 @@
 | [以太坊抗量子路线图讲解视频](https://x.com/0xmamedai/status/2102715649185423426) | Opus 5.5 | [@0xmamedai](https://x.com/0xmamedai) | 2:17 | — |
 | [Gemini语音合成选项讲解视频](https://x.com/seiiiiiiiiiiru/status/2103590369816375359) | Opus 5.5 | [@seiiiiiiiiiiru](https://x.com/seiiiiiiiiiiru) | 0:30 | — |
 | [人类历史动画](https://x.com/blueemi99/status/2106041578204655748) | Fable 5.5 (preview) | [@blueemi99](https://x.com/blueemi99) | 2:00 | — |
+| [罗马帝国纪录片](https://x.com/tkz_aiart/status/2105983802367688910) | Opus 5.5 | [@tkz_aiart](https://x.com/tkz_aiart) | 2:16 | — |
 | [一分钟看懂股票投资讲解](https://x.com/RtSubPozrT8wmsN/status/2102763227629375648) | Opus 5.5 | [@RtSubPozrT8wmsN](https://x.com/RtSubPozrT8wmsN) | 0:59 | — |
 | [将文章核心思想可视化的视频](https://x.com/Lonely__MH/status/2103637675609870374) | Opus 5.5 | [@Lonely__MH](https://x.com/Lonely__MH) | 1:01 | — |
 | [植物生理3D水族箱式可视化](https://x.com/sonia_code/status/2103774074505949448) | Opus 5.5 | [@sonia_code](https://x.com/sonia_code) | 0:21 | — |

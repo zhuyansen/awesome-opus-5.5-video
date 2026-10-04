@@ -1,6 +1,6 @@
 # 产品广告
 
-共 164 个作品，其中 29 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 171 个作品，其中 33 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [用Rust和Swift重构的原生迷你浏览器](https://x.com/rauchg/status/2104428800134013205) | Opus 5.5 | [@rauchg](https://x.com/rauchg) | 1:02 | — |
 | [记账应用宣传视频](https://x.com/gonahmias/status/2102893439159251247) | Opus 5.5 | [@gonahmias](https://x.com/gonahmias) | 0:38 | — |
 | [实时网站重设计工具演示](https://x.com/0xMovez/status/2103177715125752176) | Opus 5.5 | [@0xMovez](https://x.com/0xMovez) | 0:33 | — |
+| [用自然语言制作产品原型](https://x.com/bunkaich/status/2106315094070362272) | Opus 5.5 | [@bunkaich](https://x.com/bunkaich) | 1:11 | — |
 | [DocJev产品预告片](https://x.com/jerryjliu0/status/2102479924032577686) | Opus 5.5 | [@jerryjliu0](https://x.com/jerryjliu0) | 0:31 | — |
 | [一句提示词生成的SaaS发布视频](https://x.com/moritzkremb/status/2103066071838466494) | Opus 5.5 | [@moritzkremb](https://x.com/moritzkremb) | 0:46 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103066071838466494) |
 | [基于参考图迭代的App设计](https://x.com/premiumtantan/status/2102474993783468529) | Opus 5.5 | [@premiumtantan](https://x.com/premiumtantan) | 0:32 | — |
@@ -51,6 +52,7 @@
 | [照片转乐高说明书工具演示](https://x.com/johnkarp/status/2103802201739256312) | Opus 5.5 | [@johnkarp](https://x.com/johnkarp) | 0:24 | — |
 | [虚拟主播直播系统搭建](https://x.com/manaimovie/status/2104008163561451923) | Opus 5.5 | [@manaimovie](https://x.com/manaimovie) | 0:55 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104008163561451923) |
 | [Opus 5.5 生成的产品宣传视频](https://x.com/decohack/status/2102621064518160485) | Opus 5.5 | [@decohack](https://x.com/decohack) | 0:39 | — |
+| [快节奏品牌广告](https://x.com/LexnLin/status/2106101651010449796) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 0:14 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2106101651010449796) |
 | [一句话生成的宣传片](https://x.com/berryxia/status/2103391717894566368) | Opus 5.5 | [@berryxia](https://x.com/berryxia) | 0:29 | — |
 | [Stock Slayer应用介绍音乐视频](https://x.com/FABYMETAL4/status/2105205875870924824) | Opus 5.5 | [@FABYMETAL4](https://x.com/FABYMETAL4) | 1:38 | — |
 | [多智能体协作搭建的CRM应用](https://x.com/adomicael/status/2103188137220427958) | Opus 5.5 | [@adomicael](https://x.com/adomicael) | 0:36 | — |
@@ -99,6 +101,7 @@
 | [Snapchat品牌广告片](https://x.com/zentalksai/status/2105355973460369912) | Opus 5.5 | [@zentalksai](https://x.com/zentalksai) | 0:32 | — |
 | [根据软件代码生成的介绍视频](https://x.com/gesoikuo3/status/2103723885204254734) | Opus 5.5 | [@gesoikuo3](https://x.com/gesoikuo3) | 0:50 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103723885204254734) |
 | [Wrapscribe产品视频](https://x.com/shribuilds/status/2102827288190689364) | Opus 5.5 | [@shribuilds](https://x.com/shribuilds) | 0:41 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102827288190689364) |
+| [Awwwards风格网站](https://x.com/YildizDikme/status/2106281015152976146) | Opus 5.5 | [@YildizDikme](https://x.com/YildizDikme) | 0:40 | — |
 | [电影感产品发布影片](https://x.com/AbhinavXJ/status/2104805179401068964) | Opus 5.5 / Sonnet 5.5 | [@AbhinavXJ](https://x.com/AbhinavXJ) | 1:40 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104805179401068964) |
 | [Clucky闹钟应用演示](https://x.com/adrianabelarde/status/2105195481874002217) | Opus 5.5 | [@adrianabelarde](https://x.com/adrianabelarde) | 0:12 | — |
 | [用three.js重构的设计工具原型](https://x.com/MengTo/status/2105680287854440715) | Opus 5.5 | [@MengTo](https://x.com/MengTo) | 1:14 | — |
@@ -115,6 +118,7 @@
 | [CapLog应用更新宣传视频](https://x.com/mommmkan/status/2105242269536354704) | Opus 5.5 | [@mommmkan](https://x.com/mommmkan) | 0:26 | — |
 | [用Opus5.5制作的网站](https://x.com/xevrion_the1/status/2103557513962745923) | Opus 5.5 | [@xevrion_the1](https://x.com/xevrion_the1) | 0:15 | — |
 | [图表样式库发布视频](https://x.com/mhmazur/status/2105300597888970901) | Opus 5.5 | [@mhmazur](https://x.com/mhmazur) | 0:30 | — |
+| [实时日历仪表板](https://x.com/_insan18/status/2106268513644273809) | Opus 5.5 | [@_insan18](https://x.com/_insan18) | 0:20 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2106268513644273809) |
 | [交易者画像分析工作流演示](https://x.com/immortalhowwl/status/2103890985650422006) | Opus 5.5 | [@immortalhowwl](https://x.com/immortalhowwl) | 0:33 | — |
 | [1分钟AI能力展示视频](https://x.com/showheyohtaki/status/2103552919249563691) | Opus 5.5 | [@showheyohtaki](https://x.com/showheyohtaki) | 0:54 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103552919249563691) |
 | [纯代码一次生成的营销视频](https://x.com/matthewmillerai/status/2103532155481833538) | Opus 5.5 | [@matthewmillerai](https://x.com/matthewmillerai) | 1:00 | — |
@@ -136,6 +140,7 @@
 | [提示词生成音视频的应用演示](https://x.com/surucudev/status/2103520477428027482) | Opus 5.5 | [@surucudev](https://x.com/surucudev) | 0:30 | — |
 | [Obsidian软件介绍视频](https://x.com/pkm_tk111/status/2103521677259026878) | Opus 5.5 | [@pkm_tk111](https://x.com/pkm_tk111) | 0:15 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103521677259026878) |
 | [复刻品牌界面的产品发布视频](https://x.com/steventey/status/2103843311807349148) | Opus 5.5 | [@steventey](https://x.com/steventey) | 0:15 | — |
+| [液态玻璃网页首屏](https://x.com/viktoroddy/status/2106061619176620344) | Opus 5.5 | [@viktoroddy](https://x.com/viktoroddy) | 12:52 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2106061619176620344) |
 | [Claude 吉祥物同事插件演示](https://x.com/ishuagra02/status/2106138602073641241) | Fable 5.5 (preview) | [@ishuagra02](https://x.com/ishuagra02) | 0:37 | — |
 | [定制火焰品牌特效演示](https://x.com/nusretuzman/status/2103582679358718050) | Opus 5.5 | [@nusretuzman](https://x.com/nusretuzman) | 0:04 | — |
 | [产品模型爆炸视图动画](https://x.com/higgsfield_ai/status/2103516954447462586) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:03 | — |
@@ -154,9 +159,11 @@
 | [用Sonnet 5.5重新设计的个人网站](https://x.com/_tenZdhon_/status/2104680469451157900) | Sonnet 5.5 | [@_tenZdhon_](https://x.com/_tenZdhon_) | 0:27 | — |
 | [磁盘空间分析实用工具应用](https://x.com/SonofNun/status/2103589196472766505) | Opus 5.5 | [@SonofNun](https://x.com/SonofNun) | 1:40 | — |
 | [书籍宣传介绍视频](https://x.com/ama_ch/status/2103621603628306747) | Opus 5.5 | [@ama_ch](https://x.com/ama_ch) | 1:06 | — |
+| [Claude 产品介绍视频](https://x.com/devteamdrew/status/2106155815707021549) | Fable 5.5 (preview) | [@devteamdrew](https://x.com/devteamdrew) | 0:30 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2106155815707021549) |
 | [法比漫画风格咖啡广告](https://x.com/jeanalexandre_b/status/2103514734716977599) | Opus 5.5 | [@jeanalexandre_b](https://x.com/jeanalexandre_b) | 1:25 | — |
 | [自动化平台一键演示视频](https://x.com/getlindy/status/2103596650401018048) | Opus 5.5 | [@getlindy](https://x.com/getlindy) | 0:12 | — |
 | [根据品牌指南与网站生成的品牌展示片](https://x.com/AidinShahi/status/2103898861177880665) | Opus 5.5 | [@AidinShahi](https://x.com/AidinShahi) | 0:55 | — |
+| [虚构洗发水广告](https://x.com/seiiiiiiiiiiru/status/2106310907899105704) | Opus 5.5 | [@seiiiiiiiiiiru](https://x.com/seiiiiiiiiiiru) | 0:30 | — |
 | [粉丝站宣传视频](https://x.com/nek0n0tem0/status/2103637250420658403) | Opus 5.5 | [@nek0n0tem0](https://x.com/nek0n0tem0) | 0:15 | — |
 | [用自定义Skill生成产品宣传片](https://x.com/berryxia/status/2103419787565216023) | Opus 5.5 | [@berryxia](https://x.com/berryxia) | 1:01 | — |
 | [简单需求生成的网站宣传片](https://x.com/sankenainai/status/2103340873773916491) | Opus 5.5 | [@sankenainai](https://x.com/sankenainai) | 0:29 | — |
