@@ -1,6 +1,6 @@
 # Motion graphics & UI
 
-213 works, 78 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+215 works, 78 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Viral video based on trending topics](https://x.com/DrClownPhD/status/2103510971046096906) | Opus 5.5 | [@DrClownPhD](https://x.com/DrClownPhD) | 0:34 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103510971046096906) |
 | [15-second motion graphics showreel for a website](https://x.com/melvynx/status/2103714680577638493) | Opus 5.5 | [@melvynx](https://x.com/melvynx) | 0:45 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103714680577638493) |
 | [Quick ad video from one prompt](https://x.com/Nour_Sofanati/status/2103653780327641130) | Opus 5.5 | [@Nour_Sofanati](https://x.com/Nour_Sofanati) | 0:35 | — |
+| [Collaborative Short Video](https://x.com/AiwithSaif7/status/2106268181413429416) | Opus 5.5 | [@AiwithSaif7](https://x.com/AiwithSaif7) | 0:46 | — |
 | [Retro game card-reveal UX experiment](https://x.com/nickfromlater/status/2102504454721347822) | Opus 5.5 | [@nickfromlater](https://x.com/nickfromlater) | 0:16 | — |
 | [Impressive motion design output](https://x.com/rjrazzle/status/2103413999421509764) | Opus 5.5 | [@rjrazzle](https://x.com/rjrazzle) | 0:15 | — |
 | [Professional-quality single-prompt creation](https://x.com/ailker/status/2103523453810921944) | Opus 5.5 | [@ailker](https://x.com/ailker) | 0:24 | — |
@@ -169,6 +170,7 @@
 | [Higgsfield styleframe animation](https://x.com/higgsfield_ai/status/2104742106015449428) | Sonnet 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:10 | — |
 | [Motion graphics promo video made in under 40 minutes](https://x.com/ElitzaVasileva/status/2103856583667052674) | Opus 5.5 | [@ElitzaVasileva](https://x.com/ElitzaVasileva) | 0:30 | — |
 | [SuperX MCP replies recap video](https://x.com/robj3d3/status/2103949734520279060) | Opus 5.5 | [@robj3d3](https://x.com/robj3d3) | 0:20 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103949734520279060) |
+| [Mini Animated Scenes](https://x.com/nusretuzman/status/2106125405602123850) | Opus 5.5 | [@nusretuzman](https://x.com/nusretuzman) | 0:11 | — |
 | [UI animation sequence made with Sonnet 5.5](https://x.com/higgsfield_ai/status/2104655851529392363) | Sonnet 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:10 | — |
 | [Motion showreel with a fully code-synthesized soundtrack](https://x.com/prasenx/status/2103538744695693512) | Opus 5.5 | [@prasenx](https://x.com/prasenx) | 0:15 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103538744695693512) |
 | [Video built with Remotion and Three.js](https://x.com/lnkiai/status/2103759350330544254) | Opus 5.5 | [@lnkiai](https://x.com/lnkiai) | 0:32 | — |

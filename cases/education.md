@@ -1,6 +1,6 @@
 # Explainers & education
 
-126 works, 42 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+128 works, 42 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -10,6 +10,7 @@
 | [Pixel art neural network training animation](https://x.com/DotCSV/status/2102737776219168939) | Opus 5.5 | [@DotCSV](https://x.com/DotCSV) | 0:56 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102737776219168939) |
 | [Superintelligence risk explainer animation](https://x.com/AndrewOnXYZ/status/2103865359988125706) | Opus 5.5 | [@AndrewOnXYZ](https://x.com/AndrewOnXYZ) | 5:16 | — |
 | [3Blue1Brown-style video from a research paper](https://x.com/deedydas/status/2103141339651350646) | Opus 5.5 | [@deedydas](https://x.com/deedydas) | 8:39 | — |
+| [How Many Tries to Hit a 1% Chance](https://x.com/Lattice_Node/status/2106313749846249487) | Opus 5.5 | [@Lattice_Node](https://x.com/Lattice_Node) | 0:42 | — |
 | [Nolan-style video explaining a 4-bit ALU](https://x.com/mustafaakin/status/2103574428475154635) | Opus 5.5 | [@mustafaakin](https://x.com/mustafaakin) | 1:10 | — |
 | [History of God in India documentary](https://x.com/HindolSengupta/status/2103906559109787845) | Opus 5.5 | [@HindolSengupta](https://x.com/HindolSengupta) | 4:52 | — |
 | [Interactive traffic jam lesson](https://x.com/Lattice_Node/status/2105946058417389840) | Opus 5.5 | [@Lattice_Node](https://x.com/Lattice_Node) | 0:34 | — |
@@ -122,6 +123,7 @@
 | [History of AI animated timeline video](https://x.com/kloss_xyz/status/2103652674336067876) | Opus 5.5 | [@kloss_xyz](https://x.com/kloss_xyz) | 2:52 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103652674336067876) |
 | [3Blue1Brown-style paper explainer animations](https://x.com/BrianCChao/status/2103553398738219450) | Opus 5.5 | [@BrianCChao](https://x.com/BrianCChao) | 0:59 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103553398738219450) |
 | [Water cycle looping animation](https://x.com/higgsfield_ai/status/2102781807179735211) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:32 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102781807179735211) |
+| [Atomic bomb history 3D film](https://x.com/imjustnewatai/status/2106238699872956427) | Fable 5.5 (preview) | [@imjustnewatai](https://x.com/imjustnewatai) | 3:00 | — |
 | [Pointers explainer video (Manim)](https://x.com/Hesamation/status/2103822595993018838) | Opus 5.5 | [@Hesamation](https://x.com/Hesamation) | 1:32 | — |
 | [Torus cell decomposition math explainer](https://x.com/yohaku121244/status/2103744418977358021) | Opus 5.5 | [@yohaku121244](https://x.com/yohaku121244) | 2:21 | — |
 | [Earth's dinosaur-to-Jomon-era explainer](https://x.com/mellow_neet2000/status/2103487198758834408) | Opus 5.5 | [@mellow_neet2000](https://x.com/mellow_neet2000) | 2:20 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103487198758834408) |

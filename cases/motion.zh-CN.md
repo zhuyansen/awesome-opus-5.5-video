@@ -1,6 +1,6 @@
 # 动效设计
 
-共 213 个作品，其中 78 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 215 个作品，其中 78 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [基于热门话题生成的病毒视频](https://x.com/DrClownPhD/status/2103510971046096906) | Opus 5.5 | [@DrClownPhD](https://x.com/DrClownPhD) | 0:34 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103510971046096906) |
 | [网站15秒动效展示视频](https://x.com/melvynx/status/2103714680577638493) | Opus 5.5 | [@melvynx](https://x.com/melvynx) | 0:45 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103714680577638493) |
 | [一句提示词生成的广告视频](https://x.com/Nour_Sofanati/status/2103653780327641130) | Opus 5.5 | [@Nour_Sofanati](https://x.com/Nour_Sofanati) | 0:35 | — |
+| [合作短视频](https://x.com/AiwithSaif7/status/2106268181413429416) | Opus 5.5 | [@AiwithSaif7](https://x.com/AiwithSaif7) | 0:46 | — |
 | [复古游戏卡片揭示UX实验](https://x.com/nickfromlater/status/2102504454721347822) | Opus 5.5 | [@nickfromlater](https://x.com/nickfromlater) | 0:16 | — |
 | [令人惊艳的动效设计作品](https://x.com/rjrazzle/status/2103413999421509764) | Opus 5.5 | [@rjrazzle](https://x.com/rjrazzle) | 0:15 | — |
 | [单条提示词生成的专业级作品](https://x.com/ailker/status/2103523453810921944) | Opus 5.5 | [@ailker](https://x.com/ailker) | 0:24 | — |
@@ -169,6 +170,7 @@
 | [Higgsfield风格帧动画](https://x.com/higgsfield_ai/status/2104742106015449428) | Sonnet 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:10 | — |
 | [四十分钟内做出的动效宣传视频](https://x.com/ElitzaVasileva/status/2103856583667052674) | Opus 5.5 | [@ElitzaVasileva](https://x.com/ElitzaVasileva) | 0:30 | — |
 | [SuperX MCP回复整理视频](https://x.com/robj3d3/status/2103949734520279060) | Opus 5.5 | [@robj3d3](https://x.com/robj3d3) | 0:20 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103949734520279060) |
+| [迷你动画场景集](https://x.com/nusretuzman/status/2106125405602123850) | Opus 5.5 | [@nusretuzman](https://x.com/nusretuzman) | 0:11 | — |
 | [使用Sonnet 5.5制作的UI动画序列](https://x.com/higgsfield_ai/status/2104655851529392363) | Sonnet 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:10 | — |
 | [配乐全由代码合成的动效自荐片](https://x.com/prasenx/status/2103538744695693512) | Opus 5.5 | [@prasenx](https://x.com/prasenx) | 0:15 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103538744695693512) |
 | [用Remotion与Three.js制作的视频](https://x.com/lnkiai/status/2103759350330544254) | Opus 5.5 | [@lnkiai](https://x.com/lnkiai) | 0:32 | — |

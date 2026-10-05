@@ -1,6 +1,6 @@
 # 科普讲解
 
-共 126 个作品，其中 42 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 128 个作品，其中 42 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -10,6 +10,7 @@
 | [像素风神经网络训练动画](https://x.com/DotCSV/status/2102737776219168939) | Opus 5.5 | [@DotCSV](https://x.com/DotCSV) | 0:56 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102737776219168939) |
 | [超级智能风险讲解动画](https://x.com/AndrewOnXYZ/status/2103865359988125706) | Opus 5.5 | [@AndrewOnXYZ](https://x.com/AndrewOnXYZ) | 5:16 | — |
 | [论文改编的3Blue1Brown风格视频](https://x.com/deedydas/status/2103141339651350646) | Opus 5.5 | [@deedydas](https://x.com/deedydas) | 8:39 | — |
+| [1%概率需要多少次才能命中](https://x.com/Lattice_Node/status/2106313749846249487) | Opus 5.5 | [@Lattice_Node](https://x.com/Lattice_Node) | 0:42 | — |
 | [诺兰风格的4位ALU讲解视频](https://x.com/mustafaakin/status/2103574428475154635) | Opus 5.5 | [@mustafaakin](https://x.com/mustafaakin) | 1:10 | — |
 | [印度神明历史纪录片](https://x.com/HindolSengupta/status/2103906559109787845) | Opus 5.5 | [@HindolSengupta](https://x.com/HindolSengupta) | 4:52 | — |
 | [互动式交通拥堵原理课](https://x.com/Lattice_Node/status/2105946058417389840) | Opus 5.5 | [@Lattice_Node](https://x.com/Lattice_Node) | 0:34 | — |
@@ -122,6 +123,7 @@
 | [AI发展史动画时间线视频](https://x.com/kloss_xyz/status/2103652674336067876) | Opus 5.5 | [@kloss_xyz](https://x.com/kloss_xyz) | 2:52 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103652674336067876) |
 | [3Blue1Brown风格论文讲解动画](https://x.com/BrianCChao/status/2103553398738219450) | Opus 5.5 | [@BrianCChao](https://x.com/BrianCChao) | 0:59 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103553398738219450) |
 | [水循环无缝循环动画](https://x.com/higgsfield_ai/status/2102781807179735211) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:32 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102781807179735211) |
+| [原子弹历史三维短片](https://x.com/imjustnewatai/status/2106238699872956427) | Fable 5.5 (preview) | [@imjustnewatai](https://x.com/imjustnewatai) | 3:00 | — |
 | [用Manim讲解指针概念的视频](https://x.com/Hesamation/status/2103822595993018838) | Opus 5.5 | [@Hesamation](https://x.com/Hesamation) | 1:32 | — |
 | [环面胞腔分解数学讲解动画](https://x.com/yohaku121244/status/2103744418977358021) | Opus 5.5 | [@yohaku121244](https://x.com/yohaku121244) | 2:21 | — |
 | [地球恐龙时代到绳纹时代科普动画](https://x.com/mellow_neet2000/status/2103487198758834408) | Opus 5.5 | [@mellow_neet2000](https://x.com/mellow_neet2000) | 2:20 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103487198758834408) |

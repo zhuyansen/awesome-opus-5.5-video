@@ -3311,6 +3311,34 @@
    "resources": []
   },
   {
+   "id": "2106313749846249487",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "education",
+   "title": {
+    "zh": "1%概率需要多少次才能命中",
+    "en": "How Many Tries to Hit a 1% Chance"
+   },
+   "creator": {
+    "handle": "Lattice_Node",
+    "name": "Lattice"
+   },
+   "original_post_url": "https://x.com/Lattice_Node/status/2106313749846249487",
+   "posted_at": "2026-10-03T09:21:46.000Z",
+   "language": "ja",
+   "duration_seconds": 42,
+   "views": 318207,
+   "likes": 1188,
+   "bookmarks": 382,
+   "views_checked_at": "2026-10-04T09:48:50.773Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2106313471709327360/img/nF0Ye3nsvZAKabwu.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2103574428475154635",
    "models": [
     "opus-5.5"
@@ -15957,6 +15985,36 @@
    "resources": []
   },
   {
+   "id": "2105973747975094648",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "Opus 5.5 与 Astra 6 Ultra 视频复刻对比",
+    "en": "Opus 5.5 vs Astra 6 Ultra Video Recreation"
+   },
+   "creator": {
+    "handle": "YxzRainy",
+    "name": "兴雨"
+   },
+   "original_post_url": "https://x.com/YxzRainy/status/2105973747975094648",
+   "posted_at": "2026-10-02T10:50:43.000Z",
+   "language": "zh",
+   "duration_seconds": 180,
+   "views": 55255,
+   "likes": 213,
+   "bookmarks": 114,
+   "views_checked_at": "2026-10-04T08:38:45.200Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2105973345993003008/img/Fifkxhtv5TrHeBMO.jpg",
+   "tools_reported": [
+    "Astra 6 Ultra"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2104662114275344474",
    "models": [
     "sonnet-5.5"
@@ -21208,6 +21266,34 @@
    "resources": []
   },
   {
+   "id": "2106130557310468364",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "SVG骑车鹈鹕：Gemini 4 与 Opus 5.5 对比",
+    "en": "SVG Pelican on Bike: Gemini 4 vs Opus 5.5"
+   },
+   "creator": {
+    "handle": "LuminaBench",
+    "name": "Lumina"
+   },
+   "original_post_url": "https://x.com/LuminaBench/status/2106130557310468364",
+   "posted_at": "2026-10-02T21:13:49.000Z",
+   "language": "en",
+   "duration_seconds": 11,
+   "views": 35924,
+   "likes": 140,
+   "bookmarks": 14,
+   "views_checked_at": "2026-10-04T08:38:45.200Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2106127606571515904/img/wIge5Xkamjzt3kAb.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2103795282798428303",
    "models": [
     "opus-5.5"
@@ -21876,6 +21962,36 @@
     "Jev"
    ],
    "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2106060890407915571",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "星际主题视频：Opus 5.5 与 GPT-6.1 Sol Max 对比",
+    "en": "Interstellar Video: Opus 5.5 vs GPT-6.1 Sol Max"
+   },
+   "creator": {
+    "handle": "ITangieff",
+    "name": "Ibra Tangieff"
+   },
+   "original_post_url": "https://x.com/ITangieff/status/2106060890407915571",
+   "posted_at": "2026-10-02T16:36:59.000Z",
+   "language": "en",
+   "duration_seconds": 25,
+   "views": 34183,
+   "likes": 155,
+   "bookmarks": 45,
+   "views_checked_at": "2026-10-04T08:38:45.200Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2106056356218486789/img/B-a5Lma26WtOZ-6N.jpg",
+   "tools_reported": [
+    "GPT-6.1 Sol Max"
+   ],
+   "reference_assets": false,
    "prompt": null,
    "resources": []
   },
@@ -23816,6 +23932,34 @@
    "resources": []
   },
   {
+   "id": "2106156060163620924",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "体素宝塔：Gemini 4 Argon 与 Opus 5.5 对比",
+    "en": "Voxel Pagoda: Gemini 4 Argon vs Opus 5.5"
+   },
+   "creator": {
+    "handle": "LuminaBench",
+    "name": "Lumina"
+   },
+   "original_post_url": "https://x.com/LuminaBench/status/2106156060163620924",
+   "posted_at": "2026-10-02T22:55:09.000Z",
+   "language": "en",
+   "duration_seconds": 21,
+   "views": 29142,
+   "likes": 286,
+   "bookmarks": 38,
+   "views_checked_at": "2026-10-04T08:38:45.200Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2106153164386775041/img/SzVGT8VlWZDCOJ4H.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2102801635638673762",
    "models": [
     "opus-5.5"
@@ -24802,6 +24946,36 @@
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2105043732428922880/img/STHf457bB0bOyr_t.jpg",
    "tools_reported": [
     "Blender"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2106268181413429416",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "motion",
+   "title": {
+    "zh": "合作短视频",
+    "en": "Collaborative Short Video"
+   },
+   "creator": {
+    "handle": "AiwithSaif7",
+    "name": "Saif Ai"
+   },
+   "original_post_url": "https://x.com/AiwithSaif7/status/2106268181413429416",
+   "posted_at": "2026-10-03T06:20:41.000Z",
+   "language": "en",
+   "duration_seconds": 46,
+   "views": 26386,
+   "likes": 587,
+   "bookmarks": 221,
+   "views_checked_at": "2026-10-04T08:38:45.200Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2106266034562818048/img/8fZjEdDjlMOWrZw3.jpg",
+   "tools_reported": [
+    "Seedance 2.5"
    ],
    "reference_assets": false,
    "prompt": null,
@@ -32070,6 +32244,34 @@
    "resources": []
   },
   {
+   "id": "2106125405602123850",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "motion",
+   "title": {
+    "zh": "迷你动画场景集",
+    "en": "Mini Animated Scenes"
+   },
+   "creator": {
+    "handle": "nusretuzman",
+    "name": "Nusret Uzman"
+   },
+   "original_post_url": "https://x.com/nusretuzman/status/2106125405602123850",
+   "posted_at": "2026-10-02T20:53:21.000Z",
+   "language": "tr",
+   "duration_seconds": 11,
+   "views": 13642,
+   "likes": 222,
+   "bookmarks": 209,
+   "views_checked_at": "2026-10-04T08:38:45.200Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2106124443013500928/img/n57uS27Dk6s87LdT.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2104655851529392363",
    "models": [
     "sonnet-5.5"
@@ -36428,6 +36630,34 @@
    "resources": []
   },
   {
+   "id": "2106238699872956427",
+   "models": [
+    "fable-5.5"
+   ],
+   "category": "education",
+   "title": {
+    "zh": "原子弹历史三维短片",
+    "en": "Atomic bomb history 3D film"
+   },
+   "creator": {
+    "handle": "imjustnewatai",
+    "name": "imjustnewatai"
+   },
+   "original_post_url": "https://x.com/imjustnewatai/status/2106238699872956427",
+   "posted_at": "2026-10-03T04:23:32.000Z",
+   "language": "en",
+   "duration_seconds": 180,
+   "views": 9110,
+   "likes": 123,
+   "bookmarks": 62,
+   "views_checked_at": "2026-10-04T08:38:45.200Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2106238624052158464/img/-Uoj55wHLhBdJvnh.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2103522997978255704",
    "models": [
     "opus-5.5"
@@ -36646,6 +36876,39 @@
     "length": 100,
     "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103520155640938565"
    },
+   "resources": []
+  },
+  {
+   "id": "2106083195578122697",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "火山模拟器模型对比",
+    "en": "Volcano simulator model comparison"
+   },
+   "creator": {
+    "handle": "TokenGremlin",
+    "name": "Token Gremlin"
+   },
+   "original_post_url": "https://x.com/TokenGremlin/status/2106083195578122697",
+   "posted_at": "2026-10-02T18:05:37.000Z",
+   "language": "en",
+   "duration_seconds": 61,
+   "views": 8895,
+   "likes": 111,
+   "bookmarks": 27,
+   "views_checked_at": "2026-10-04T08:38:45.200Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2106082655045337090/img/shqVKureIMn-KtuU.jpg",
+   "tools_reported": [
+    "GPT-6.1 Sol",
+    "GPT-6 Astra",
+    "Three.js",
+    "Blender"
+   ],
+   "reference_assets": false,
+   "prompt": null,
    "resources": []
   },
   {
@@ -38396,6 +38659,40 @@
     "Claude Code"
    ],
    "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2105949902274453766",
+   "models": [
+    "sonnet-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "机器人软件与营销方案对比",
+    "en": "Robot software and marketing comparison"
+   },
+   "creator": {
+    "handle": "bijanbowen",
+    "name": "BijanBowen"
+   },
+   "original_post_url": "https://x.com/bijanbowen/status/2105949902274453766",
+   "posted_at": "2026-10-02T09:15:58.000Z",
+   "language": "en",
+   "duration_seconds": 181,
+   "views": 7312,
+   "likes": 191,
+   "bookmarks": 17,
+   "views_checked_at": "2026-10-04T08:38:45.200Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2105949018329079808/img/Cw6a6dQS49C5QeOj.jpg",
+   "tools_reported": [
+    "Sonnet 5.5",
+    "GPT 6.1 Sol",
+    "GPT-4",
+    "Raspberry Pi 4B",
+    "Waveshare round display"
+   ],
+   "reference_assets": true,
    "prompt": null,
    "resources": []
   },
