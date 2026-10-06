@@ -2,7 +2,7 @@
 
 English | [简体中文](README.zh-CN.md)
 
-Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5, Sonnet 5.5 and Fable 5.5 (limited preview, not yet announced) and shared on X, each with 5,000+ views on the original post. **1326 works** (Opus 5.5: 1238 · Sonnet 5.5: 82 · Fable 5.5: 37; comparisons count for each), **340 with a prompt** (136 full prompts).
+Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5, Sonnet 5.5 and Fable 5.5 (limited preview, not yet announced) and shared on X, each with 5,000+ views on the original post. **1352 works** (Opus 5.5: 1261 · Sonnet 5.5: 84 · Fable 5.5: 40; comparisons count for each), **347 with a prompt** (141 full prompts).
 
 **[Browse online — play the videos and copy the prompts →](https://jasonzhu.ai/en/prompts/claude-opus-5-5)**
 
@@ -25,14 +25,14 @@ Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5, Sonnet 5
 
 ## Inclusion rule
 
-- The creator's own post, with a native video, and at least 5,000 views on that post (snapshot: 2026-10-05).
+- The creator's own post, with a native video, and at least 5,000 views on that post (snapshot: 2026-10-06).
 - The post states the work was made with Claude Opus 5.5, Sonnet 5.5 or Fable 5.5; the Model column follows the creator's own words. **As of early October Fable 5.5 is in limited preview and not yet announced**; posts where the creator is unsure are excluded. **Model attribution is as stated by each creator and was not independently reproduced.**
 - A prompt is listed only when it has a source: the post itself, the creator's own replies, a screenshot in those replies, or a link the creator shared. Prompts are kept verbatim, never rewritten or translated.
 - Works with a video but no traceable instruction are still listed, with the prompt column left empty.
 
 ## Motion graphics & UI
 
-221 works · [full list](cases/motion.md)
+226 works · [full list](cases/motion.md)
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5, Sonnet 5
 
 ## Product demos & ads
 
-171 works · [full list](cases/product.md)
+174 works · [full list](cases/product.md)
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5, Sonnet 5
 
 ## Explainers & education
 
-128 works · [full list](cases/education.md)
+132 works · [full list](cases/education.md)
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5, Sonnet 5
 
 ## Characters & stories
 
-138 works · [full list](cases/stories.md)
+139 works · [full list](cases/stories.md)
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5, Sonnet 5
 
 ## 3D worlds & simulations
 
-178 works · [full list](cases/art3d.md)
+182 works · [full list](cases/art3d.md)
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -107,7 +107,7 @@ Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5, Sonnet 5
 
 ## Games
 
-219 works · [full list](cases/game.md)
+222 works · [full list](cases/game.md)
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -137,7 +137,7 @@ Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5, Sonnet 5
 
 ## Model comparisons
 
-172 works · [full list](cases/comparison.md)
+178 works · [full list](cases/comparison.md)
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|

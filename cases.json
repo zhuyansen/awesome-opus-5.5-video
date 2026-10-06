@@ -3,8 +3,8 @@
  "model": "Claude 5.5 (Opus 5.5 · Sonnet 5.5 · Fable 5.5)",
  "inclusion_rule": "Original post by the creator, native video attached, >= 5000 views on that post, creator states it was made with Claude Opus 5.5, Sonnet 5.5 or Fable 5.5 (Fable 5.5 is in limited preview, not yet announced). Later posts that embed another account's upload are excluded.",
  "views_threshold": 5000,
- "stats_checked_at": "2026-10-05T10:05:31.068Z",
- "updated_at": "2026-10-05T10:05:31.068Z",
+ "stats_checked_at": "2026-10-06T09:12:58.859Z",
+ "updated_at": "2026-10-06T09:12:58.859Z",
  "model_attribution": "As stated by each creator; not independently reproduced.",
  "cases": [
   {
@@ -8292,6 +8292,43 @@
    "resources": []
   },
   {
+   "id": "2106809017850818679",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "浏览器章鱼物理效果对比",
+    "en": "Browser octopus physics comparison"
+   },
+   "creator": {
+    "handle": "vib3coded",
+    "name": "Vib3Coded"
+   },
+   "original_post_url": "https://x.com/vib3coded/status/2106809017850818679",
+   "posted_at": "2026-10-04T18:09:47.000Z",
+   "language": "en",
+   "duration_seconds": 18,
+   "views": 131854,
+   "likes": 1391,
+   "bookmarks": 575,
+   "views_checked_at": "2026-10-06T09:12:58.859Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2106808951396261888/img/WErKc9ObXH3eEwvW.jpg",
+   "tools_reported": [
+    "WebGPU",
+    "GPT-6.1 Sol"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "full",
+    "source": "author_reply",
+    "source_url": "https://x.com/vib3coded/status/2106809493602361735",
+    "length": 1927,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2106809017850818679"
+   },
+   "resources": []
+  },
+  {
    "id": "2103381925671104732",
    "models": [
     "opus-5.5"
@@ -11501,6 +11538,34 @@
    "resources": []
   },
   {
+   "id": "2106835487365419479",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "game",
+   "title": {
+    "zh": "物流策略游戏",
+    "en": "Logistics strategy game"
+   },
+   "creator": {
+    "handle": "alexcooldev",
+    "name": "Alex Nguyen"
+   },
+   "original_post_url": "https://x.com/alexcooldev/status/2106835487365419479",
+   "posted_at": "2026-10-04T19:54:57.000Z",
+   "language": "en",
+   "duration_seconds": 74,
+   "views": 90715,
+   "likes": 1560,
+   "bookmarks": 1329,
+   "views_checked_at": "2026-10-06T09:12:58.859Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2106834554170564608/img/0YyMtW7zzEJJ-JKy.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2102474993783468529",
    "models": [
     "opus-5.5"
@@ -13356,6 +13421,36 @@
    "resources": []
   },
   {
+   "id": "2106946461980307633",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "motion",
+   "title": {
+    "zh": "节拍同步动效音乐视频",
+    "en": "Beat-Synced Motion Graphics Music Video"
+   },
+   "creator": {
+    "handle": "minchoi",
+    "name": "Min Choi"
+   },
+   "original_post_url": "https://x.com/minchoi/status/2106946461980307633",
+   "posted_at": "2026-10-05T03:15:56.000Z",
+   "language": "en",
+   "duration_seconds": 270,
+   "views": 76003,
+   "likes": 574,
+   "bookmarks": 604,
+   "views_checked_at": "2026-10-06T09:12:58.859Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2106027045578842112/img/IzK2wwsBJG9TNHeC.jpg",
+   "tools_reported": [
+    "Suno v6"
+   ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2102592355165782312",
    "models": [
     "opus-5.5"
@@ -14413,6 +14508,34 @@
     "length": 167,
     "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103688362960019567"
    },
+   "resources": []
+  },
+  {
+   "id": "2106806604922540440",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "夜行列车基准对比",
+    "en": "Night train benchmark comparison"
+   },
+   "creator": {
+    "handle": "EnvolDev",
+    "name": "Tony"
+   },
+   "original_post_url": "https://x.com/EnvolDev/status/2106806604922540440",
+   "posted_at": "2026-10-04T18:00:11.000Z",
+   "language": "en",
+   "duration_seconds": 25,
+   "views": 69646,
+   "likes": 329,
+   "bookmarks": 80,
+   "views_checked_at": "2026-10-06T09:12:58.859Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2106806404879421440/img/zhkAsb48_br5ZzLR.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
    "resources": []
   },
   {
@@ -16278,6 +16401,34 @@
    "resources": []
   },
   {
+   "id": "2106834027332411885",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "单文件 Minecraft 游戏",
+    "en": "Single-File Minecraft Game"
+   },
+   "creator": {
+    "handle": "dummerspast39",
+    "name": "Binkg"
+   },
+   "original_post_url": "https://x.com/dummerspast39/status/2106834027332411885",
+   "posted_at": "2026-10-04T19:49:09.000Z",
+   "language": "en",
+   "duration_seconds": 70,
+   "views": 59030,
+   "likes": 527,
+   "bookmarks": 126,
+   "views_checked_at": "2026-10-06T09:12:58.859Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2106833760956096512/img/YgAHzE28i-cLSUJb.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2104938147016765836",
    "models": [
     "opus-5.5",
@@ -16966,6 +17117,40 @@
    "tools_reported": [],
    "reference_assets": false,
    "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2106829942206173497",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "education",
+   "title": {
+    "zh": "缓存代码交互式讲解",
+    "en": "Interactive caching code explainer"
+   },
+   "creator": {
+    "handle": "BHolmesDev",
+    "name": "Ben Holmes"
+   },
+   "original_post_url": "https://x.com/BHolmesDev/status/2106829942206173497",
+   "posted_at": "2026-10-04T19:32:55.000Z",
+   "language": "en",
+   "duration_seconds": 19,
+   "views": 56842,
+   "likes": 755,
+   "bookmarks": 797,
+   "views_checked_at": "2026-10-06T09:12:58.859Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2106829152221290496/img/IjChiw5nNVB5kT1m.jpg",
+   "tools_reported": [],
+   "reference_assets": true,
+   "prompt": {
+    "kind": "brief",
+    "source": "post",
+    "source_url": "https://x.com/BHolmesDev/status/2106829942206173497",
+    "length": 77,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2106829942206173497"
+   },
    "resources": []
   },
   {
@@ -22622,6 +22807,42 @@
    "resources": []
   },
   {
+   "id": "2107022944916709886",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "game",
+   "title": {
+    "zh": "矿场运营策略游戏",
+    "en": "Mining operations strategy game"
+   },
+   "creator": {
+    "handle": "tradphi",
+    "name": "Rish Dodhia"
+   },
+   "original_post_url": "https://x.com/tradphi/status/2107022944916709886",
+   "posted_at": "2026-10-05T08:19:51.000Z",
+   "language": "en",
+   "duration_seconds": 30,
+   "views": 35580,
+   "likes": 819,
+   "bookmarks": 713,
+   "views_checked_at": "2026-10-06T09:12:58.859Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2107022376546533377/img/3-TY-XIOQS9nzm_X.jpg",
+   "tools_reported": [
+    "Three.js"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "full",
+    "source": "author_reply",
+    "source_url": "https://x.com/tradphi/status/2107241523230441529",
+    "length": 1165,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2107022944916709886"
+   },
+   "resources": []
+  },
+  {
    "id": "2103916672080097521",
    "models": [
     "opus-5.5"
@@ -24608,6 +24829,36 @@
    "resources": []
   },
   {
+   "id": "2107018546194882678",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "education",
+   "title": {
+    "zh": "SpaceX 发展史白板视频",
+    "en": "SpaceX history whiteboard video"
+   },
+   "creator": {
+    "handle": "AlchainHust",
+    "name": "花叔"
+   },
+   "original_post_url": "https://x.com/AlchainHust/status/2107018546194882678",
+   "posted_at": "2026-10-05T08:02:22.000Z",
+   "language": "zh",
+   "duration_seconds": 130,
+   "views": 29969,
+   "likes": 173,
+   "bookmarks": 215,
+   "views_checked_at": "2026-10-06T09:12:58.859Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2107017524378263552/img/FD_RLZI1fmTHQJ8N.jpg",
+   "tools_reported": [
+    "Huashu-art-motion"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2106268181413429416",
    "models": [
     "opus-5.5"
@@ -24632,6 +24883,37 @@
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2106266034562818048/img/8fZjEdDjlMOWrZw3.jpg",
    "tools_reported": [
     "Seedance 2.5"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2106957256247902272",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "浏览器三维场景",
+    "en": "Browser-based 3D scene"
+   },
+   "creator": {
+    "handle": "KhalidDevLog",
+    "name": "Khalid"
+   },
+   "original_post_url": "https://x.com/KhalidDevLog/status/2106957256247902272",
+   "posted_at": "2026-10-05T03:58:49.000Z",
+   "language": "en",
+   "duration_seconds": 88,
+   "views": 29952,
+   "likes": 737,
+   "bookmarks": 697,
+   "views_checked_at": "2026-10-06T09:12:58.859Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2106956366447366144/img/R-u0TudMtuPE4dZ8.jpg",
+   "tools_reported": [
+    "Three.js",
+    "WebGL"
    ],
    "reference_assets": false,
    "prompt": null,
@@ -25636,6 +25918,37 @@
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2103648870077247488/img/Ss53-X-tXT1v8Hjy.jpg",
    "tools_reported": [],
    "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2106815121364324572",
+   "models": [
+    "sonnet-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "三维水上飞机模型对比",
+    "en": "3D seaplane model comparison"
+   },
+   "creator": {
+    "handle": "LuminaBench",
+    "name": "Lumina"
+   },
+   "original_post_url": "https://x.com/LuminaBench/status/2106815121364324572",
+   "posted_at": "2026-10-04T18:34:02.000Z",
+   "language": "en",
+   "duration_seconds": 16,
+   "views": 27510,
+   "likes": 280,
+   "bookmarks": 42,
+   "views_checked_at": "2026-10-06T09:12:58.859Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2106800591716364288/img/CMeYyNxLS4QbC_o_.jpg",
+   "tools_reported": [
+    "GPT-6.1 Sol",
+    "Sonnet 5.5 Extra"
+   ],
+   "reference_assets": false,
    "prompt": null,
    "resources": []
   },
@@ -26927,6 +27240,34 @@
    "resources": []
   },
   {
+   "id": "2107031729705984163",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "product",
+   "title": {
+    "zh": "商业宣传视频展示",
+    "en": "Business promo video showcase"
+   },
+   "creator": {
+    "handle": "berlified",
+    "name": "Berlin"
+   },
+   "original_post_url": "https://x.com/berlified/status/2107031729705984163",
+   "posted_at": "2026-10-05T08:54:45.000Z",
+   "language": "en",
+   "duration_seconds": 24,
+   "views": 23873,
+   "likes": 397,
+   "bookmarks": 557,
+   "views_checked_at": "2026-10-06T09:12:58.859Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2107031125810147328/img/2JgrpreDcPGIGYY7.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2105705406958067765",
    "models": [
     "opus-5.5"
@@ -27403,6 +27744,34 @@
    "tools_reported": [
     "Claude Code"
    ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2106833074302710023",
+   "models": [
+    "fable-5.5"
+   ],
+   "category": "motion",
+   "title": {
+    "zh": "代码绘画动画",
+    "en": "Code-painted animation"
+   },
+   "creator": {
+    "handle": "chetaslua",
+    "name": "Chetaslua"
+   },
+   "original_post_url": "https://x.com/chetaslua/status/2106833074302710023",
+   "posted_at": "2026-10-04T19:45:22.000Z",
+   "language": "en",
+   "duration_seconds": 44,
+   "views": 22834,
+   "likes": 476,
+   "bookmarks": 135,
+   "views_checked_at": "2026-10-06T09:12:58.859Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2106832900671107072/img/ziqIKxtgfHangDLy.jpg",
+   "tools_reported": [],
    "reference_assets": false,
    "prompt": null,
    "resources": []
@@ -28377,6 +28746,39 @@
     "length": 37,
     "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2106102789160259910"
    },
+   "resources": []
+  },
+  {
+   "id": "2107018580265201724",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "motion",
+   "title": {
+    "zh": "点元素主题动态视频",
+    "en": "Dot-themed motion video"
+   },
+   "creator": {
+    "handle": "seiiiiiiiiiiru",
+    "name": "SEIIIRU😈AIを使う映像クリエイター"
+   },
+   "original_post_url": "https://x.com/seiiiiiiiiiiru/status/2107018580265201724",
+   "posted_at": "2026-10-05T08:02:30.000Z",
+   "language": "ja",
+   "duration_seconds": 15,
+   "views": 20950,
+   "likes": 268,
+   "bookmarks": 184,
+   "views_checked_at": "2026-10-06T09:12:58.859Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2106974133154365440/img/znXyKP9Qp8tfmM2q.jpg",
+   "tools_reported": [
+    "Suno",
+    "Higgsfield",
+    "Blender",
+    "After Effects"
+   ],
+   "reference_assets": false,
+   "prompt": null,
    "resources": []
   },
   {
@@ -31054,6 +31456,39 @@
    "resources": []
   },
   {
+   "id": "2106844484860600803",
+   "models": [
+    "opus-5.5",
+    "sonnet-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "3D水上飞机模型对比",
+    "en": "3D seaplane model comparison"
+   },
+   "creator": {
+    "handle": "LuminaBench",
+    "name": "Lumina"
+   },
+   "original_post_url": "https://x.com/LuminaBench/status/2106844484860600803",
+   "posted_at": "2026-10-04T20:30:43.000Z",
+   "language": "en",
+   "duration_seconds": 14,
+   "views": 17122,
+   "likes": 119,
+   "bookmarks": 8,
+   "views_checked_at": "2026-10-06T09:12:58.859Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2106842584731504640/img/Q55Wl2CNDj9GFa65.jpg",
+   "tools_reported": [
+    "GPT-6 Astra Max",
+    "GPT-6.1 Sol",
+    "Sonnet 5.5 Extra"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2103767411870535868",
    "models": [
     "opus-5.5"
@@ -31242,6 +31677,45 @@
    "resources": []
   },
   {
+   "id": "2106958663525314769",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "education",
+   "title": {
+    "zh": "Gmail实用功能讲解短视频",
+    "en": "Gmail features explainer short"
+   },
+   "creator": {
+    "handle": "ClaudeCode_UT",
+    "name": "東大ClaudeCode研究所"
+   },
+   "original_post_url": "https://x.com/ClaudeCode_UT/status/2106958663525314769",
+   "posted_at": "2026-10-05T04:04:25.000Z",
+   "language": "ja",
+   "duration_seconds": 32,
+   "views": 16898,
+   "likes": 160,
+   "bookmarks": 174,
+   "views_checked_at": "2026-10-06T09:12:58.859Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2106958623276711936/img/k4XBnbgTX1ESV6_5.jpg",
+   "tools_reported": [
+    "Suno",
+    "Higgsfield",
+    "Blender",
+    "After Effects"
+   ],
+   "reference_assets": true,
+   "prompt": {
+    "kind": "full",
+    "source": "author_reply",
+    "source_url": "https://x.com/ClaudeCode_UT/status/2106958675651047542",
+    "length": 424,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2106958663525314769"
+   },
+   "resources": []
+  },
+  {
    "id": "2103856583667052674",
    "models": [
     "opus-5.5"
@@ -31353,6 +31827,40 @@
    ],
    "reference_assets": true,
    "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2106848736609808531",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "education",
+   "title": {
+    "zh": "意识测试情境重现",
+    "en": "Consciousness tests reenacted"
+   },
+   "creator": {
+    "handle": "VoidStateKate",
+    "name": "VOID"
+   },
+   "original_post_url": "https://x.com/VoidStateKate/status/2106848736609808531",
+   "posted_at": "2026-10-04T20:47:36.000Z",
+   "language": "en",
+   "duration_seconds": 87,
+   "views": 16781,
+   "likes": 449,
+   "bookmarks": 183,
+   "views_checked_at": "2026-10-06T09:12:58.859Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2106848026765541376/img/DJuE9MOq5-Dl03g5.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "brief",
+    "source": "post",
+    "source_url": "https://x.com/VoidStateKate/status/2106848736609808531",
+    "length": 80,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2106848736609808531"
+   },
    "resources": []
   },
   {
@@ -32347,6 +32855,34 @@
     "GPT 2.5 Sunburst"
    ],
    "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2106955771183272343",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "扩展后的历史艺术风格",
+    "en": "Expanded historical art style"
+   },
+   "creator": {
+    "handle": "AlchainHust",
+    "name": "花叔"
+   },
+   "original_post_url": "https://x.com/AlchainHust/status/2106955771183272343",
+   "posted_at": "2026-10-05T03:52:55.000Z",
+   "language": "zh",
+   "duration_seconds": 128,
+   "views": 15110,
+   "likes": 175,
+   "bookmarks": 162,
+   "views_checked_at": "2026-10-06T09:12:58.859Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2106949991952523264/img/hyLXqR9n7IX8aYfB.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
    "prompt": null,
    "resources": []
   },
@@ -35014,6 +35550,38 @@
    "resources": []
   },
   {
+   "id": "2107006703489159314",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "motion",
+   "title": {
+    "zh": "数据驱动动态设计",
+    "en": "Data-driven motion graphic"
+   },
+   "creator": {
+    "handle": "thismacapital",
+    "name": "THISMA"
+   },
+   "original_post_url": "https://x.com/thismacapital/status/2107006703489159314",
+   "posted_at": "2026-10-05T07:15:19.000Z",
+   "language": "fr",
+   "duration_seconds": 61,
+   "views": 11898,
+   "likes": 120,
+   "bookmarks": 125,
+   "views_checked_at": "2026-10-06T09:12:58.859Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2107006033059008512/img/Fe7Dtl3wgVarmqrY.jpg",
+   "tools_reported": [
+    "ElevenLabs",
+    "ComfyUI",
+    "Banana Pro"
+   ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2102583417208717748",
    "models": [
     "opus-5.5"
@@ -35614,6 +36182,36 @@
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2103641859239354368/img/F5vAH9u1xNasgjfP.jpg",
    "tools_reported": [
     "Three.js"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2106992353219056006",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "motion",
+   "title": {
+    "zh": "教师节动态海报视频",
+    "en": "Teacher's Day motion graphic"
+   },
+   "creator": {
+    "handle": "ai4everyday",
+    "name": "AI4Everyday"
+   },
+   "original_post_url": "https://x.com/ai4everyday/status/2106992353219056006",
+   "posted_at": "2026-10-05T06:18:17.000Z",
+   "language": "ar",
+   "duration_seconds": 66,
+   "views": 11419,
+   "likes": 161,
+   "bookmarks": 124,
+   "views_checked_at": "2026-10-06T09:12:58.859Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2106991875450142720/img/Es_9gytoyJPpPM3G.jpg",
+   "tools_reported": [
+    "Magnific"
    ],
    "reference_assets": false,
    "prompt": null,
@@ -36419,6 +37017,43 @@
    "resources": []
   },
   {
+   "id": "2107020311380033949",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "毛绒龙物理效果对比",
+    "en": "Plush dragon physics comparison"
+   },
+   "creator": {
+    "handle": "vib3coded",
+    "name": "Vib3Coded"
+   },
+   "original_post_url": "https://x.com/vib3coded/status/2107020311380033949",
+   "posted_at": "2026-10-05T08:09:23.000Z",
+   "language": "en",
+   "duration_seconds": 18,
+   "views": 10738,
+   "likes": 178,
+   "bookmarks": 71,
+   "views_checked_at": "2026-10-06T09:12:58.859Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2107020211945631744/img/subfwpQyEPoP7C9p.jpg",
+   "tools_reported": [
+    "WebGPU",
+    "GPT-6.1 Sol"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "full",
+    "source": "author_reply",
+    "source_url": "https://x.com/vib3coded/status/2107020675835675132",
+    "length": 3488,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2107020311380033949"
+   },
+   "resources": []
+  },
+  {
    "id": "2103591810253914585",
    "models": [
     "opus-5.5"
@@ -36690,6 +37325,34 @@
     "length": 201,
     "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103566030916239768"
    },
+   "resources": []
+  },
+  {
+   "id": "2106960127987474652",
+   "models": [
+    "fable-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "鹈鹕体素场景",
+    "en": "Pelican voxel scene"
+   },
+   "creator": {
+    "handle": "JaydenDavisNC",
+    "name": "Jayden Davis"
+   },
+   "original_post_url": "https://x.com/JaydenDavisNC/status/2106960127987474652",
+   "posted_at": "2026-10-05T04:10:14.000Z",
+   "language": "en",
+   "duration_seconds": 34,
+   "views": 10311,
+   "likes": 193,
+   "bookmarks": 25,
+   "views_checked_at": "2026-10-06T09:12:58.859Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2106957245485371392/img/QWPGBSonNClbl8x5.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
    "resources": []
   },
   {
@@ -37195,6 +37858,37 @@
    "resources": []
   },
   {
+   "id": "2106973139368296606",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "stories",
+   "title": {
+    "zh": "超级智能眼中的恐惧",
+    "en": "What fear feels like to a superintelligence"
+   },
+   "creator": {
+    "handle": "jtevesobs",
+    "name": "Jteve Sobs"
+   },
+   "original_post_url": "https://x.com/jtevesobs/status/2106973139368296606",
+   "posted_at": "2026-10-05T05:01:56.000Z",
+   "language": "en",
+   "duration_seconds": 223,
+   "views": 9729,
+   "likes": 157,
+   "bookmarks": 85,
+   "views_checked_at": "2026-10-06T09:12:58.859Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2106967989186691072/img/feoZgxR2E8D1yE3h.jpg",
+   "tools_reported": [
+    "Midjourney",
+    "H3"
+   ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2103522997978255704",
    "models": [
     "opus-5.5"
@@ -37509,6 +38203,34 @@
    "resources": []
   },
   {
+   "id": "2107036053949575311",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "product",
+   "title": {
+    "zh": "Meta VR 眼镜视频方案合集",
+    "en": "Meta VR Glasses video variations"
+   },
+   "creator": {
+    "handle": "mouri45",
+    "name": "mouri45ᯅ"
+   },
+   "original_post_url": "https://x.com/mouri45/status/2107036053949575311",
+   "posted_at": "2026-10-05T09:11:56.000Z",
+   "language": "ja",
+   "duration_seconds": 286,
+   "views": 9233,
+   "likes": 129,
+   "bookmarks": 140,
+   "views_checked_at": "2026-10-06T09:12:58.859Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2107035456953315328/img/kfdEHTXg2WqJypNq.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2103487198758834408",
    "models": [
     "opus-5.5"
@@ -37598,6 +38320,40 @@
    ],
    "reference_assets": false,
    "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2106843514772639995",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "product",
+   "title": {
+    "zh": "交互式前端作品",
+    "en": "Interactive frontend artifact"
+   },
+   "creator": {
+    "handle": "LexnLin",
+    "name": "Leon Lin"
+   },
+   "original_post_url": "https://x.com/LexnLin/status/2106843514772639995",
+   "posted_at": "2026-10-04T20:26:51.000Z",
+   "language": "en",
+   "duration_seconds": 42,
+   "views": 9175,
+   "likes": 183,
+   "bookmarks": 105,
+   "views_checked_at": "2026-10-06T09:12:58.859Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2106842392603078657/img/yAWI55HWbjotZD3E.jpg",
+   "tools_reported": [],
+   "reference_assets": true,
+   "prompt": {
+    "kind": "full",
+    "source": "author_reply",
+    "source_url": "https://x.com/LexnLin/status/2106843517603463598",
+    "length": 302,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2106843514772639995"
+   },
    "resources": []
   },
   {
@@ -39506,6 +40262,34 @@
    "resources": []
   },
   {
+   "id": "2107013497813172593",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "等距三维场景",
+    "en": "Isometric 3D Scene"
+   },
+   "creator": {
+    "handle": "itsnotryan",
+    "name": "Ryan Ning"
+   },
+   "original_post_url": "https://x.com/itsnotryan/status/2107013497813172593",
+   "posted_at": "2026-10-05T07:42:18.000Z",
+   "language": "en",
+   "duration_seconds": 7,
+   "views": 7296,
+   "likes": 212,
+   "bookmarks": 181,
+   "views_checked_at": "2026-10-06T09:12:58.859Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2107013348818919424/img/3HH4R8BG7kl52mDd.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2103450061275586618",
    "models": [
     "opus-5.5"
@@ -39589,6 +40373,40 @@
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2103419120721285120/img/E6vRd2kcHl4b4rSf.jpg",
    "tools_reported": [
     "Skills"
+   ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2106838003561672708",
+   "models": [
+    "opus-5.5",
+    "fable-5.5"
+   ],
+   "category": "game",
+   "title": {
+    "zh": "可玩的岛屿游戏预览",
+    "en": "Playable island game preview"
+   },
+   "creator": {
+    "handle": "maxt3chno",
+    "name": "Max"
+   },
+   "original_post_url": "https://x.com/maxt3chno/status/2106838003561672708",
+   "posted_at": "2026-10-04T20:04:57.000Z",
+   "language": "en",
+   "duration_seconds": 118,
+   "views": 7063,
+   "likes": 142,
+   "bookmarks": 52,
+   "views_checked_at": "2026-10-06T09:12:58.859Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2106837746866171904/img/lrD2fVA2S8x2Hp0w.jpg",
+   "tools_reported": [
+    "Meshy",
+    "Astra/Sol",
+    "Three.js",
+    "Sonnet"
    ],
    "reference_assets": true,
    "prompt": null,

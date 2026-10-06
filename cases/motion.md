@@ -1,6 +1,6 @@
 # Motion graphics & UI
 
-221 works, 80 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+226 works, 80 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [One-prompt motion demo clip](https://x.com/Saccc_c/status/2105985484472377531) | Opus 5.5 / Fable 5.5 (preview) | [@Saccc_c](https://x.com/Saccc_c) | 0:15 | — |
 | [Short motion design video](https://x.com/blueemi99/status/2106031355922387163) | Opus 5.5 / Fable 5.5 (preview) | [@blueemi99](https://x.com/blueemi99) | 0:15 | — |
 | [Cocktail recipe explainer motion graphic](https://x.com/Ror_Fly/status/2102853258582880547) | Opus 5.5 | [@Ror_Fly](https://x.com/Ror_Fly) | 0:30 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102853258582880547) |
+| [Beat-Synced Motion Graphics Music Video](https://x.com/minchoi/status/2106946461980307633) | Opus 5.5 | [@minchoi](https://x.com/minchoi) | 4:30 | — |
 | [Motion graphic video made for a friend](https://x.com/Saeiid/status/2103823130057757180) | Opus 5.5 | [@Saeiid](https://x.com/Saeiid) | 1:05 | — |
 | [Image-based motion graphics](https://x.com/ponzponz15/status/2106307178579857797) | Opus 5.5 | [@ponzponz15](https://x.com/ponzponz15) | 0:36 | — |
 | [One-shot video from a casual instruction](https://x.com/Suzacque/status/2102677738066956688) | Opus 5.5 | [@Suzacque](https://x.com/Suzacque) | 0:31 | — |
@@ -144,8 +145,10 @@
 | [Unity particle VFX logo transformation](https://x.com/_3912657840/status/2103417471063736729) | Opus 5.5 | [@_3912657840](https://x.com/_3912657840) | 0:07 | — |
 | [Logo reveal motion design for TypingMind](https://x.com/tdinh_me/status/2103704250329301409) | Opus 5.5 | [@tdinh_me](https://x.com/tdinh_me) | 0:21 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103704250329301409) |
 | [Motion design built in After Effects via MCP](https://x.com/higgsfield_ai/status/2103853474098352326) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:12 | — |
+| [Code-painted animation](https://x.com/chetaslua/status/2106833074302710023) | Fable 5.5 (preview) | [@chetaslua](https://x.com/chetaslua) | 0:44 | — |
 | [YouTube intro animation](https://x.com/franperez_fp/status/2104709328238199145) | Sonnet 5.5 | [@franperez_fp](https://x.com/franperez_fp) | 0:09 | — |
 | [Self-introduction motion graphics from a script](https://x.com/kumiko_shiraki/status/2103771566982959414) | Opus 5.5 | [@kumiko_shiraki](https://x.com/kumiko_shiraki) | 0:48 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103771566982959414) |
+| [Dot-themed motion video](https://x.com/seiiiiiiiiiiru/status/2107018580265201724) | Opus 5.5 | [@seiiiiiiiiiiru](https://x.com/seiiiiiiiiiiru) | 0:15 | — |
 | [10-second motion showreel remake](https://x.com/mattiapomelli/status/2103757371357229129) | Opus 5.5 | [@mattiapomelli](https://x.com/mattiapomelli) | 0:10 | — |
 | [Motion design piece with custom 3D models](https://x.com/MengTo/status/2103825139964227999) | Opus 5.5 | [@MengTo](https://x.com/MengTo) | 0:41 | — |
 | [15-second motion designer showreel by @jasonzhou1993](https://x.com/jasonzhou1993/status/2103663364958515541) | Opus 5.5 | [@jasonzhou1993](https://x.com/jasonzhou1993) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103663364958515541) |
@@ -190,9 +193,11 @@
 | [Coffee history motion graphic](https://x.com/ai4everyday/status/2106130713439256844) | Opus 5.5 | [@ai4everyday](https://x.com/ai4everyday) | 1:00 | — |
 | [One-shot AI video without reference assets](https://x.com/Charles_SEO/status/2103703459782660599) | Opus 5.5 | [@Charles_SEO](https://x.com/Charles_SEO) | 2:00 | — |
 | [Impressive AI output reaction video](https://x.com/antonioleivag/status/2103484611531866467) | Opus 5.5 | [@antonioleivag](https://x.com/antonioleivag) | 0:15 | — |
+| [Data-driven motion graphic](https://x.com/thismacapital/status/2107006703489159314) | Opus 5.5 | [@thismacapital](https://x.com/thismacapital) | 1:01 | — |
 | [Motion graphics template app](https://x.com/techhalla/status/2103923805098070477) | Opus 5.5 | [@techhalla](https://x.com/techhalla) | 0:24 | — |
 | [Website hero section animation](https://x.com/sabosugi/status/2105341635878084863) | Opus 5.5 | [@sabosugi](https://x.com/sabosugi) | 0:47 | — |
 | [Documentary opening titles about Bitcoin](https://x.com/cyrilXBT/status/2103677214135124053) | Opus 5.5 | [@cyrilXBT](https://x.com/cyrilXBT) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103677214135124053) |
+| [Teacher's Day motion graphic](https://x.com/ai4everyday/status/2106992353219056006) | Opus 5.5 | [@ai4everyday](https://x.com/ai4everyday) | 1:06 | — |
 | [HTML motion graphics without After Effects](https://x.com/seiiiiiiiiiiru/status/2103764908764791286) | Opus 5.5 | [@seiiiiiiiiiiru](https://x.com/seiiiiiiiiiiru) | 0:12 | — |
 | [AITuber avatar system built with Opus 5.5](https://x.com/lnkiai/status/2105607195224354898) | Opus 5.5 | [@lnkiai](https://x.com/lnkiai) | 0:09 | — |
 | [Quick visual effect demo](https://x.com/shironagasu_ai/status/2103542106841075992) | Opus 5.5 | [@shironagasu_ai](https://x.com/shironagasu_ai) | 0:05 | — |

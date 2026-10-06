@@ -1,6 +1,6 @@
 # 游戏
 
-共 219 个作品，其中 43 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 222 个作品，其中 44 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [用Opus打造的Three.js游戏](https://x.com/xikhar/status/2102588571442188577) | Opus 5.5 | [@xikhar](https://x.com/xikhar) | 3:07 | — |
 | [多人战术竞技游戏原型](https://x.com/bridgemindai/status/2106071883137392798) | Opus 5.5 | [@bridgemindai](https://x.com/bridgemindai) | 1:57 | — |
 | [GTA风格班加罗尔城市构建](https://x.com/0xaxit/status/2106375041269342691) | Opus 5.5 | [@0xaxit](https://x.com/0xaxit) | 1:01 | — |
+| [物流策略游戏](https://x.com/alexcooldev/status/2106835487365419479) | Opus 5.5 | [@alexcooldev](https://x.com/alexcooldev) | 1:14 | — |
 | [仿广告风格小游戏](https://x.com/rsensui/status/2102796039468253230) | Opus 5.5 | [@rsensui](https://x.com/rsensui) | 1:57 | — |
 | [用Opus 5.5与Unreal制作的可玩动作角色扮演游戏](https://x.com/KanaWorks_AI/status/2103138051165933661) | Opus 5.5 | [@KanaWorks_AI](https://x.com/KanaWorks_AI) | 0:51 | — |
 | [插画转带骨骼3D游戏角色流程](https://x.com/akakuma0219/status/2103506875165859922) | Opus 5.5 | [@akakuma0219](https://x.com/akakuma0219) | 0:26 | — |
@@ -121,6 +122,7 @@
 | [用Opus 5.5制作的赛马角色游戏](https://x.com/AbaneChan/status/2104926657425678643) | Opus 5.5 | [@AbaneChan](https://x.com/AbaneChan) | 1:58 | — |
 | [Willowmere程序化生成游戏引擎](https://x.com/jurlycat/status/2104002281641542008) | Opus 5.5 | [@jurlycat](https://x.com/jurlycat) | 1:01 | — |
 | [建筑对战游戏原型](https://x.com/asobodesign/status/2102552980818182512) | Opus 5.5 | [@asobodesign](https://x.com/asobodesign) | 1:14 | — |
+| [矿场运营策略游戏](https://x.com/tradphi/status/2107022944916709886) | Opus 5.5 | [@tradphi](https://x.com/tradphi) | 0:30 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2107022944916709886) |
 | [我的世界风格浏览器游戏](https://x.com/oviniciuslana/status/2103086714772463953) | Opus 5.5 | [@oviniciuslana](https://x.com/oviniciuslana) | 1:05 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103086714772463953) |
 | [多人对战战舰游戏](https://x.com/McGrumby/status/2103590506106380330) | Opus 5.5 | [@McGrumby](https://x.com/McGrumby) | 0:28 | — |
 | [自制丧尸地图移植至主机](https://x.com/luckeyfaraday/status/2103653262037520542) | Opus 5.5 | [@luckeyfaraday](https://x.com/luckeyfaraday) | 2:46 | — |
@@ -218,6 +220,7 @@
 | [带多人模式的帝国时代重制版](https://x.com/ForwardEditor/status/2104665557144322555) | Sonnet 5.5 | [@ForwardEditor](https://x.com/ForwardEditor) | 0:28 | — |
 | [泳池派对水花游戏原型](https://x.com/bijanbowen/status/2104717700836753573) | Sonnet 5.5 | [@bijanbowen](https://x.com/bijanbowen) | 1:21 | — |
 | [《另一个世界》ZX Next移植](https://x.com/em00k_/status/2103837016186339466) | Opus 5.5 | [@em00k_](https://x.com/em00k_) | 4:48 | — |
+| [可玩的岛屿游戏预览](https://x.com/maxt3chno/status/2106838003561672708) | Opus 5.5 / Fable 5.5 (preview) | [@maxt3chno](https://x.com/maxt3chno) | 1:58 | — |
 | [歧路旅人风格麻将肉鸽游戏](https://x.com/ezshine/status/2103574793262141636) | Opus 5.5 | [@ezshine](https://x.com/ezshine) | 0:40 | — |
 | [单指可玩的《只狼》克隆](https://x.com/plum_very/status/2103481769999876528) | Opus 5.5 | [@plum_very](https://x.com/plum_very) | 1:08 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103481769999876528) |
 | [氛围编码的平台跳跃体验](https://x.com/chetanankola/status/2103730428901498972) | Opus 5.5 | [@chetanankola](https://x.com/chetanankola) | 1:04 | — |

@@ -1,6 +1,6 @@
 # Product demos & ads
 
-171 works, 33 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+174 works, 34 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Lightspark product promo video](https://x.com/davidmarcus/status/2103275618045686217) | Opus 5.5 | [@davidmarcus](https://x.com/davidmarcus) | 0:23 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103275618045686217) |
 | [Promotional travel video about Poland](https://x.com/KinasRemek/status/2102728913579327722) | Opus 5.5 | [@KinasRemek](https://x.com/KinasRemek) | 1:26 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102728913579327722) |
 | [Run&Grow app showcase](https://x.com/utkarshbuilds_/status/2104039850060173761) | Opus 5.5 | [@utkarshbuilds_](https://x.com/utkarshbuilds_) | 0:15 | — |
+| [Business promo video showcase](https://x.com/berlified/status/2107031729705984163) | Opus 5.5 | [@berlified](https://x.com/berlified) | 0:24 | — |
 | [Promo video for a science-based book](https://x.com/M_Adrian2/status/2103904736160120935) | Opus 5.5 | [@M_Adrian2](https://x.com/M_Adrian2) | 1:00 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103904736160120935) |
 | [Comic-book style product ad](https://x.com/ladprofit/status/2103551010522399116) | Opus 5.5 | [@ladprofit](https://x.com/ladprofit) | 0:32 | — |
 | [Claude mascot coworker mod demo](https://x.com/ishuagra02/status/2106138602073641241) | Fable 5.5 (preview) | [@ishuagra02](https://x.com/ishuagra02) | 0:37 | — |
@@ -152,7 +153,9 @@
 | [AI compatibility quiz app](https://x.com/hituji_1234/status/2103088141439787502) | Opus 5.5 | [@hituji_1234](https://x.com/hituji_1234) | 0:51 | — |
 | [MotionSites AI launch video](https://x.com/viktoroddy/status/2103802280617402509) | Opus 5.5 | [@viktoroddy](https://x.com/viktoroddy) | 0:54 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103802280617402509) |
 | [Claymation-style ad for Remote Control feature](https://x.com/noahzweben/status/2103522997978255704) | Opus 5.5 | [@noahzweben](https://x.com/noahzweben) | 0:12 | — |
+| [Meta VR Glasses video variations](https://x.com/mouri45/status/2107036053949575311) | Opus 5.5 | [@mouri45](https://x.com/mouri45) | 4:46 | — |
 | [Demo video for a Claude mods tool](https://x.com/oikon48/status/2103756961938633159) | Opus 5.5 | [@oikon48](https://x.com/oikon48) | 0:25 | — |
+| [Interactive frontend artifact](https://x.com/LexnLin/status/2106843514772639995) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 0:42 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2106843514772639995) |
 | [Flowith Canvas AI-made piece](https://x.com/DerekNee/status/2103729728549220815) | Opus 5.5 | [@DerekNee](https://x.com/DerekNee) | 0:45 | — |
 | [AI drama-style commercial](https://x.com/unikoukokun/status/2102991418860184057) | Opus 5.5 | [@unikoukokun](https://x.com/unikoukokun) | 2:34 | — |
 | [Personal website redesign with Sonnet 5.5](https://x.com/_tenZdhon_/status/2104680469451157900) | Sonnet 5.5 | [@_tenZdhon_](https://x.com/_tenZdhon_) | 0:27 | — |

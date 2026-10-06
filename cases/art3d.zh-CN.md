@@ -1,6 +1,6 @@
 # 3D 场景
 
-共 178 个作品，其中 43 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 182 个作品，其中 43 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Unreal与Blender渲染场景](https://x.com/HamidoFx1/status/2105626720573468818) | Opus 5.5 | [@HamidoFx1](https://x.com/HamidoFx1) | 0:20 | — |
 | [一个疯狂创意请求的成果](https://x.com/Sonecarox/status/2103126446403379220) | Opus 5.5 | [@Sonecarox](https://x.com/Sonecarox) | 3:21 | — |
 | [用Blender制作的龙宫城](https://x.com/Ayu_AI_0912/status/2103669801554264378) | Opus 5.5 | [@Ayu_AI_0912](https://x.com/Ayu_AI_0912) | 0:24 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103669801554264378) |
+| [浏览器三维场景](https://x.com/KhalidDevLog/status/2106957256247902272) | Opus 5.5 | [@KhalidDevLog](https://x.com/KhalidDevLog) | 1:28 | — |
 | [2.5D像素风雨中庭院场景](https://x.com/KanaWorks_AI/status/2102801635638673762) | Opus 5.5 | [@KanaWorks_AI](https://x.com/KanaWorks_AI) | 0:57 | — |
 | [可自由漫游的电影感 3D 世界](https://x.com/LexnLin/status/2103194052850241739) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 1:24 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103194052850241739) |
 | [实时光线追踪球体WebGL演示](https://x.com/akiy_8/status/2103434383218872503) | Opus 5.5 | [@akiy_8](https://x.com/akiy_8) | 0:15 | — |
@@ -140,6 +141,7 @@
 | [根据三视图生成的3D模型](https://x.com/npaka123/status/2102695787721584792) | Opus 5.5 | [@npaka123](https://x.com/npaka123) | 0:04 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102695787721584792) |
 | [刺绣风格锦鱼动画作品](https://x.com/nicekate8888/status/2103308087319007283) | Opus 5.5 | [@nicekate8888](https://x.com/nicekate8888) | 1:00 | — |
 | [由插画生成的神社视频](https://x.com/kenchiku__girl/status/2103479968890273982) | Opus 5.5 | [@kenchiku__girl](https://x.com/kenchiku__girl) | 0:15 | — |
+| [扩展后的历史艺术风格](https://x.com/AlchainHust/status/2106955771183272343) | Opus 5.5 | [@AlchainHust](https://x.com/AlchainHust) | 2:08 | — |
 | [Three.js场景效果测试](https://x.com/thoughtcrime___/status/2103598324687442284) | Opus 5.5 | [@thoughtcrime___](https://x.com/thoughtcrime___) | 0:40 | — |
 | [带拍照亭结尾的像素动画](https://x.com/ria_aicreator/status/2102543016389144975) | Opus 5.5 | [@ria_aicreator](https://x.com/ria_aicreator) | 0:23 | — |
 | [乐天世界主题公园3D重现](https://x.com/Neetfujisub/status/2103658660874621079) | Opus 5.5 | [@Neetfujisub](https://x.com/Neetfujisub) | 1:35 | — |
@@ -164,6 +166,7 @@
 | [VR眼镜3D模型与宣传片](https://x.com/3DVR3/status/2103756080480387096) | Opus 5.5 | [@3DVR3](https://x.com/3DVR3) | 1:33 | — |
 | [交互式等离子球桌面壁纸](https://x.com/chaseleantj/status/2104669620871536998) | Sonnet 5.5 | [@chaseleantj](https://x.com/chaseleantj) | 0:15 | — |
 | [无限延伸的里斯本电车程序化漫游](https://x.com/thebuggeddev/status/2103465304039076319) | Opus 5.5 | [@thebuggeddev](https://x.com/thebuggeddev) | 0:53 | — |
+| [鹈鹕体素场景](https://x.com/JaydenDavisNC/status/2106960127987474652) | Fable 5.5 (preview) | [@JaydenDavisNC](https://x.com/JaydenDavisNC) | 0:34 | — |
 | [Three.js破坏引擎演示](https://x.com/Ben__Springer/status/2103517427749241133) | Opus 5.5 | [@Ben__Springer](https://x.com/Ben__Springer) | 2:31 | — |
 | [3D空间测试场景](https://x.com/studio_veco/status/2102650069136933039) | Opus 5.5 | [@studio_veco](https://x.com/studio_veco) | 0:51 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102650069136933039) |
 | [战舰周围旋转刀刃3D模型](https://x.com/ShadeLurk/status/2102462310224900476) | Opus 5.5 | [@ShadeLurk](https://x.com/ShadeLurk) | 0:06 | — |
@@ -174,6 +177,7 @@
 | [平面图转制的3D模型与视频](https://x.com/uncle_render/status/2103707225646936402) | Opus 5.5 | [@uncle_render](https://x.com/uncle_render) | 0:47 | — |
 | [大阪城线条生成3D动画](https://x.com/ria_aicreator/status/2102574373886697648) | Opus 5.5 | [@ria_aicreator](https://x.com/ria_aicreator) | 0:37 | — |
 | [黑洞吞噬恒星动画](https://x.com/adonis_singh/status/2103816126778003746) | Opus 5.5 | [@adonis_singh](https://x.com/adonis_singh) | 0:28 | — |
+| [等距三维场景](https://x.com/itsnotryan/status/2107013497813172593) | Opus 5.5 | [@itsnotryan](https://x.com/itsnotryan) | 0:07 | — |
 | [基于像素画制作的3D直播间](https://x.com/balaena01/status/2103450061275586618) | Opus 5.5 | [@balaena01](https://x.com/balaena01) | 0:14 | — |
 | [赛博朋克像素艺术动画](https://x.com/L_ARCH_01/status/2103137546662515107) | Opus 5.5 | [@L_ARCH_01](https://x.com/L_ARCH_01) | 1:04 | — |
 | [雨中日式庭院鹿威模拟](https://x.com/mizugame_22/status/2103822799580307674) | Opus 5.5 | [@mizugame_22](https://x.com/mizugame_22) | 0:15 | — |

@@ -1,6 +1,6 @@
 # Explainers & education
 
-128 works, 42 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+132 works, 45 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Narrated explainer video via a TTS integration](https://x.com/doerstokyo342/status/2103034063816905109) | Opus 5.5 | [@doerstokyo342](https://x.com/doerstokyo342) | 0:34 | — |
 | [Twin paradox relativity animation explainer](https://x.com/masahirochaen/status/2102722719502704941) | Opus 5.5 | [@masahirochaen](https://x.com/masahirochaen) | 0:47 | — |
 | [Article Explainer Video](https://x.com/noa_gpt/status/2104938147016765836) | Opus 5.5 / Sonnet 5.5 | [@noa_gpt](https://x.com/noa_gpt) | 1:34 | — |
+| [Interactive caching code explainer](https://x.com/BHolmesDev/status/2106829942206173497) | Opus 5.5 | [@BHolmesDev](https://x.com/BHolmesDev) | 0:19 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2106829942206173497) |
 | [UMAP explainer animation for ML students](https://x.com/goodside/status/2103505085292593220) | Opus 5.5 | [@goodside](https://x.com/goodside) | 5:05 | — |
 | [Wordless animation on AI misconceptions](https://x.com/TheSpacerr/status/2105253140765479341) | Sonnet 5.5 | [@TheSpacerr](https://x.com/TheSpacerr) | 0:45 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2105253140765479341) |
 | [Zero-shot documentary on Jewish history](https://x.com/eranshir/status/2103564391170089429) | Opus 5.5 | [@eranshir](https://x.com/eranshir) | 3:43 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103564391170089429) |
@@ -91,6 +92,7 @@
 | [Battle of Sekigahara animated explainer](https://x.com/tkz_aiart/status/2105271839698428235) | Opus 5.5 | [@tkz_aiart](https://x.com/tkz_aiart) | 2:15 | — |
 | [GPT model history explainer animation](https://x.com/yanhua1010/status/2102610348427911592) | Opus 5.5 | [@yanhua1010](https://x.com/yanhua1010) | 1:30 | — |
 | [Trace rarity system explainer video](https://x.com/traceforms/status/2105029763421147460) | Opus 5.5 | [@traceforms](https://x.com/traceforms) | 1:18 | — |
+| [SpaceX history whiteboard video](https://x.com/AlchainHust/status/2107018546194882678) | Opus 5.5 | [@AlchainHust](https://x.com/AlchainHust) | 2:10 | — |
 | [Galaxy Star-Formation Explorer](https://x.com/jwuphysics/status/2103290186268365205) | Opus 5.5 | [@jwuphysics](https://x.com/jwuphysics) | 2:55 | — |
 | [Chinese architecture history explainer](https://x.com/akokoi1/status/2103650399773475318) | Opus 5.5 | [@akokoi1](https://x.com/akokoi1) | 1:35 | — |
 | [Explainer animation about Claude usage workflows](https://x.com/daniel_mac8/status/2103666105461924131) | Opus 5.5 | [@daniel_mac8](https://x.com/daniel_mac8) | 0:29 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103666105461924131) |
@@ -110,6 +112,8 @@
 | [Explainer on personal benchmarks](https://x.com/danshipper/status/2103678798827020298) | Opus 5.5 | [@danshipper](https://x.com/danshipper) | 2:52 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103678798827020298) |
 | [3Blue1Brown-style explainer of the attention mechanism](https://x.com/Michaelzsguo/status/2103433947040415996) | Opus 5.5 | [@Michaelzsguo](https://x.com/Michaelzsguo) | 4:40 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103433947040415996) |
 | [Explainer video comparing Gemini TTS options](https://x.com/seiiiiiiiiiiru/status/2103590369816375359) | Opus 5.5 | [@seiiiiiiiiiiru](https://x.com/seiiiiiiiiiiru) | 0:30 | — |
+| [Gmail features explainer short](https://x.com/ClaudeCode_UT/status/2106958663525314769) | Opus 5.5 | [@ClaudeCode_UT](https://x.com/ClaudeCode_UT) | 0:32 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2106958663525314769) |
+| [Consciousness tests reenacted](https://x.com/VoidStateKate/status/2106848736609808531) | Opus 5.5 | [@VoidStateKate](https://x.com/VoidStateKate) | 1:27 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2106848736609808531) |
 | [Ethereum quantum-resistance roadmap explainer](https://x.com/0xmamedai/status/2102715649185423426) | Opus 5.5 | [@0xmamedai](https://x.com/0xmamedai) | 2:17 | — |
 | [Roman Empire Documentary](https://x.com/tkz_aiart/status/2105983802367688910) | Opus 5.5 | [@tkz_aiart](https://x.com/tkz_aiart) | 2:16 | — |
 | [Article core ideas visualized as video](https://x.com/Lonely__MH/status/2103637675609870374) | Opus 5.5 | [@Lonely__MH](https://x.com/Lonely__MH) | 1:01 | — |

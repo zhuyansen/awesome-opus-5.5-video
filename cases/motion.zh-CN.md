@@ -1,6 +1,6 @@
 # 动效设计
 
-共 221 个作品，其中 80 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 226 个作品，其中 80 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [一句提示词生成的动效演示](https://x.com/Saccc_c/status/2105985484472377531) | Opus 5.5 / Fable 5.5 (preview) | [@Saccc_c](https://x.com/Saccc_c) | 0:15 | — |
 | [简短动效设计视频](https://x.com/blueemi99/status/2106031355922387163) | Opus 5.5 / Fable 5.5 (preview) | [@blueemi99](https://x.com/blueemi99) | 0:15 | — |
 | [鸡尾酒配方讲解动效](https://x.com/Ror_Fly/status/2102853258582880547) | Opus 5.5 | [@Ror_Fly](https://x.com/Ror_Fly) | 0:30 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102853258582880547) |
+| [节拍同步动效音乐视频](https://x.com/minchoi/status/2106946461980307633) | Opus 5.5 | [@minchoi](https://x.com/minchoi) | 4:30 | — |
 | [为朋友制作的动效视频](https://x.com/Saeiid/status/2103823130057757180) | Opus 5.5 | [@Saeiid](https://x.com/Saeiid) | 1:05 | — |
 | [单图生成动态视觉](https://x.com/ponzponz15/status/2106307178579857797) | Opus 5.5 | [@ponzponz15](https://x.com/ponzponz15) | 0:36 | — |
 | [随意指令一次生成的视频](https://x.com/Suzacque/status/2102677738066956688) | Opus 5.5 | [@Suzacque](https://x.com/Suzacque) | 0:31 | — |
@@ -144,8 +145,10 @@
 | [Unity粒子特效Logo变形动画](https://x.com/_3912657840/status/2103417471063736729) | Opus 5.5 | [@_3912657840](https://x.com/_3912657840) | 0:07 | — |
 | [TypingMind的Logo揭示动效视频](https://x.com/tdinh_me/status/2103704250329301409) | Opus 5.5 | [@tdinh_me](https://x.com/tdinh_me) | 0:21 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103704250329301409) |
 | [通过MCP在After Effects中制作的动效](https://x.com/higgsfield_ai/status/2103853474098352326) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:12 | — |
+| [代码绘画动画](https://x.com/chetaslua/status/2106833074302710023) | Fable 5.5 (preview) | [@chetaslua](https://x.com/chetaslua) | 0:44 | — |
 | [YouTube片头动画](https://x.com/franperez_fp/status/2104709328238199145) | Sonnet 5.5 | [@franperez_fp](https://x.com/franperez_fp) | 0:09 | — |
 | [由文稿生成的自我介绍动效视频](https://x.com/kumiko_shiraki/status/2103771566982959414) | Opus 5.5 | [@kumiko_shiraki](https://x.com/kumiko_shiraki) | 0:48 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103771566982959414) |
+| [点元素主题动态视频](https://x.com/seiiiiiiiiiiru/status/2107018580265201724) | Opus 5.5 | [@seiiiiiiiiiiru](https://x.com/seiiiiiiiiiiru) | 0:15 | — |
 | [10秒版动感设计展示视频](https://x.com/mattiapomelli/status/2103757371357229129) | Opus 5.5 | [@mattiapomelli](https://x.com/mattiapomelli) | 0:10 | — |
 | [含自制3D模型的动态设计作品](https://x.com/MengTo/status/2103825139964227999) | Opus 5.5 | [@MengTo](https://x.com/MengTo) | 0:41 | — |
 | [15 秒动效设计师自荐片 · @jasonzhou1993 版](https://x.com/jasonzhou1993/status/2103663364958515541) | Opus 5.5 | [@jasonzhou1993](https://x.com/jasonzhou1993) | 0:15 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103663364958515541) |
@@ -190,9 +193,11 @@
 | [咖啡历史动态信息图](https://x.com/ai4everyday/status/2106130713439256844) | Opus 5.5 | [@ai4everyday](https://x.com/ai4everyday) | 1:00 | — |
 | [无参考素材一次生成的AI视频](https://x.com/Charles_SEO/status/2103703459782660599) | Opus 5.5 | [@Charles_SEO](https://x.com/Charles_SEO) | 2:00 | — |
 | [令人惊叹的AI输出反应视频](https://x.com/antonioleivag/status/2103484611531866467) | Opus 5.5 | [@antonioleivag](https://x.com/antonioleivag) | 0:15 | — |
+| [数据驱动动态设计](https://x.com/thismacapital/status/2107006703489159314) | Opus 5.5 | [@thismacapital](https://x.com/thismacapital) | 1:01 | — |
 | [动效模板应用](https://x.com/techhalla/status/2103923805098070477) | Opus 5.5 | [@techhalla](https://x.com/techhalla) | 0:24 | — |
 | [网站首页动画区块](https://x.com/sabosugi/status/2105341635878084863) | Opus 5.5 | [@sabosugi](https://x.com/sabosugi) | 0:47 | — |
 | [比特币纪录片开场片头](https://x.com/cyrilXBT/status/2103677214135124053) | Opus 5.5 | [@cyrilXBT](https://x.com/cyrilXBT) | 0:15 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103677214135124053) |
+| [教师节动态海报视频](https://x.com/ai4everyday/status/2106992353219056006) | Opus 5.5 | [@ai4everyday](https://x.com/ai4everyday) | 1:06 | — |
 | [不用After Effects制作的HTML动效](https://x.com/seiiiiiiiiiiru/status/2103764908764791286) | Opus 5.5 | [@seiiiiiiiiiiru](https://x.com/seiiiiiiiiiiru) | 0:12 | — |
 | [用Opus 5.5打造的AITuber虚拟形象系统](https://x.com/lnkiai/status/2105607195224354898) | Opus 5.5 | [@lnkiai](https://x.com/lnkiai) | 0:09 | — |
 | [快速生成的视觉特效演示](https://x.com/shironagasu_ai/status/2103542106841075992) | Opus 5.5 | [@shironagasu_ai](https://x.com/shironagasu_ai) | 0:05 | — |

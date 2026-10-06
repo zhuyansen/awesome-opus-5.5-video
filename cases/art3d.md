@@ -1,6 +1,6 @@
 # 3D worlds & simulations
 
-178 works, 43 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+182 works, 43 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Unreal and Blender rendered scene](https://x.com/HamidoFx1/status/2105626720573468818) | Opus 5.5 | [@HamidoFx1](https://x.com/HamidoFx1) | 0:20 | — |
 | [Result of a wild creative request](https://x.com/Sonecarox/status/2103126446403379220) | Opus 5.5 | [@Sonecarox](https://x.com/Sonecarox) | 3:21 | — |
 | [Underwater palace built in Blender](https://x.com/Ayu_AI_0912/status/2103669801554264378) | Opus 5.5 | [@Ayu_AI_0912](https://x.com/Ayu_AI_0912) | 0:24 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103669801554264378) |
+| [Browser-based 3D scene](https://x.com/KhalidDevLog/status/2106957256247902272) | Opus 5.5 | [@KhalidDevLog](https://x.com/KhalidDevLog) | 1:28 | — |
 | [2.5D pixel art rainy courtyard scene](https://x.com/KanaWorks_AI/status/2102801635638673762) | Opus 5.5 | [@KanaWorks_AI](https://x.com/KanaWorks_AI) | 0:57 | — |
 | [Cinematic 3D world with a free camera](https://x.com/LexnLin/status/2103194052850241739) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 1:24 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103194052850241739) |
 | [Real-time ray-traced spheres WebGL demo](https://x.com/akiy_8/status/2103434383218872503) | Opus 5.5 | [@akiy_8](https://x.com/akiy_8) | 0:15 | — |
@@ -140,6 +141,7 @@
 | [3D model built from a three-view reference drawing](https://x.com/npaka123/status/2102695787721584792) | Opus 5.5 | [@npaka123](https://x.com/npaka123) | 0:04 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102695787721584792) |
 | [Embroidery-style animated koi artwork](https://x.com/nicekate8888/status/2103308087319007283) | Opus 5.5 | [@nicekate8888](https://x.com/nicekate8888) | 1:00 | — |
 | [Shrine video generated from an illustration](https://x.com/kenchiku__girl/status/2103479968890273982) | Opus 5.5 | [@kenchiku__girl](https://x.com/kenchiku__girl) | 0:15 | — |
+| [Expanded historical art style](https://x.com/AlchainHust/status/2106955771183272343) | Opus 5.5 | [@AlchainHust](https://x.com/AlchainHust) | 2:08 | — |
 | [Three.js scene quality test](https://x.com/thoughtcrime___/status/2103598324687442284) | Opus 5.5 | [@thoughtcrime___](https://x.com/thoughtcrime___) | 0:40 | — |
 | [Pixel art animation with photo booth ending](https://x.com/ria_aicreator/status/2102543016389144975) | Opus 5.5 | [@ria_aicreator](https://x.com/ria_aicreator) | 0:23 | — |
 | [Paradise City theme park 3D recreation](https://x.com/Neetfujisub/status/2103658660874621079) | Opus 5.5 | [@Neetfujisub](https://x.com/Neetfujisub) | 1:35 | — |
@@ -164,6 +166,7 @@
 | [VR glasses 3D model and promo video](https://x.com/3DVR3/status/2103756080480387096) | Opus 5.5 | [@3DVR3](https://x.com/3DVR3) | 1:33 | — |
 | [Interactive plasma globe desktop wallpaper](https://x.com/chaseleantj/status/2104669620871536998) | Sonnet 5.5 | [@chaseleantj](https://x.com/chaseleantj) | 0:15 | — |
 | [Endless procedural tram ride through Lisbon](https://x.com/thebuggeddev/status/2103465304039076319) | Opus 5.5 | [@thebuggeddev](https://x.com/thebuggeddev) | 0:53 | — |
+| [Pelican voxel scene](https://x.com/JaydenDavisNC/status/2106960127987474652) | Fable 5.5 (preview) | [@JaydenDavisNC](https://x.com/JaydenDavisNC) | 0:34 | — |
 | [Three.js destruction engine demo](https://x.com/Ben__Springer/status/2103517427749241133) | Opus 5.5 | [@Ben__Springer](https://x.com/Ben__Springer) | 2:31 | — |
 | [3D space test scene](https://x.com/studio_veco/status/2102650069136933039) | Opus 5.5 | [@studio_veco](https://x.com/studio_veco) | 0:51 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102650069136933039) |
 | [Rotating blade around a battleship model](https://x.com/ShadeLurk/status/2102462310224900476) | Opus 5.5 | [@ShadeLurk](https://x.com/ShadeLurk) | 0:06 | — |
@@ -174,6 +177,7 @@
 | [Floor plan turned into 3D model and video](https://x.com/uncle_render/status/2103707225646936402) | Opus 5.5 | [@uncle_render](https://x.com/uncle_render) | 0:47 | — |
 | [Osaka Castle rising 3D animation](https://x.com/ria_aicreator/status/2102574373886697648) | Opus 5.5 | [@ria_aicreator](https://x.com/ria_aicreator) | 0:37 | — |
 | [Black hole swallowing a star animation](https://x.com/adonis_singh/status/2103816126778003746) | Opus 5.5 | [@adonis_singh](https://x.com/adonis_singh) | 0:28 | — |
+| [Isometric 3D Scene](https://x.com/itsnotryan/status/2107013497813172593) | Opus 5.5 | [@itsnotryan](https://x.com/itsnotryan) | 0:07 | — |
 | [3D streaming room built from pixel art](https://x.com/balaena01/status/2103450061275586618) | Opus 5.5 | [@balaena01](https://x.com/balaena01) | 0:14 | — |
 | [Cyberpunk pixel art animation](https://x.com/L_ARCH_01/status/2103137546662515107) | Opus 5.5 | [@L_ARCH_01](https://x.com/L_ARCH_01) | 1:04 | — |
 | [Rainy Japanese garden deer scarer simulation](https://x.com/mizugame_22/status/2103822799580307674) | Opus 5.5 | [@mizugame_22](https://x.com/mizugame_22) | 0:15 | — |

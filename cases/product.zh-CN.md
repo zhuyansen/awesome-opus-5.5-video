@@ -1,6 +1,6 @@
 # 产品广告
 
-共 171 个作品，其中 33 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 174 个作品，其中 34 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Lightspark产品宣传视频](https://x.com/davidmarcus/status/2103275618045686217) | Opus 5.5 | [@davidmarcus](https://x.com/davidmarcus) | 0:23 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103275618045686217) |
 | [波兰旅游宣传视频](https://x.com/KinasRemek/status/2102728913579327722) | Opus 5.5 | [@KinasRemek](https://x.com/KinasRemek) | 1:26 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102728913579327722) |
 | [Run&Grow应用展示视频](https://x.com/utkarshbuilds_/status/2104039850060173761) | Opus 5.5 | [@utkarshbuilds_](https://x.com/utkarshbuilds_) | 0:15 | — |
+| [商业宣传视频展示](https://x.com/berlified/status/2107031729705984163) | Opus 5.5 | [@berlified](https://x.com/berlified) | 0:24 | — |
 | [基于科学文章创作图书的宣传视频](https://x.com/M_Adrian2/status/2103904736160120935) | Opus 5.5 | [@M_Adrian2](https://x.com/M_Adrian2) | 1:00 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103904736160120935) |
 | [漫画风格产品广告](https://x.com/ladprofit/status/2103551010522399116) | Opus 5.5 | [@ladprofit](https://x.com/ladprofit) | 0:32 | — |
 | [Claude 吉祥物同事插件演示](https://x.com/ishuagra02/status/2106138602073641241) | Fable 5.5 (preview) | [@ishuagra02](https://x.com/ishuagra02) | 0:37 | — |
@@ -152,7 +153,9 @@
 | [AI相性测试小应用](https://x.com/hituji_1234/status/2103088141439787502) | Opus 5.5 | [@hituji_1234](https://x.com/hituji_1234) | 0:51 | — |
 | [MotionSites AI发布视频](https://x.com/viktoroddy/status/2103802280617402509) | Opus 5.5 | [@viktoroddy](https://x.com/viktoroddy) | 0:54 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103802280617402509) |
 | [Remote Control功能的定格动画风格广告](https://x.com/noahzweben/status/2103522997978255704) | Opus 5.5 | [@noahzweben](https://x.com/noahzweben) | 0:12 | — |
+| [Meta VR 眼镜视频方案合集](https://x.com/mouri45/status/2107036053949575311) | Opus 5.5 | [@mouri45](https://x.com/mouri45) | 4:46 | — |
 | [Claude模组工具演示视频](https://x.com/oikon48/status/2103756961938633159) | Opus 5.5 | [@oikon48](https://x.com/oikon48) | 0:25 | — |
+| [交互式前端作品](https://x.com/LexnLin/status/2106843514772639995) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 0:42 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2106843514772639995) |
 | [Flowith Canvas AI创作作品](https://x.com/DerekNee/status/2103729728549220815) | Opus 5.5 | [@DerekNee](https://x.com/DerekNee) | 0:45 | — |
 | [AI剧情风格广告片](https://x.com/unikoukokun/status/2102991418860184057) | Opus 5.5 | [@unikoukokun](https://x.com/unikoukokun) | 2:34 | — |
 | [用Sonnet 5.5重新设计的个人网站](https://x.com/_tenZdhon_/status/2104680469451157900) | Sonnet 5.5 | [@_tenZdhon_](https://x.com/_tenZdhon_) | 0:27 | — |

@@ -1,6 +1,6 @@
 # Games
 
-219 works, 43 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+222 works, 44 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Three.js game built with Opus](https://x.com/xikhar/status/2102588571442188577) | Opus 5.5 | [@xikhar](https://x.com/xikhar) | 3:07 | — |
 | [Multiplayer battle royale prototype](https://x.com/bridgemindai/status/2106071883137392798) | Opus 5.5 | [@bridgemindai](https://x.com/bridgemindai) | 1:57 | — |
 | [GTA-style Bangalore city build](https://x.com/0xaxit/status/2106375041269342691) | Opus 5.5 | [@0xaxit](https://x.com/0xaxit) | 1:01 | — |
+| [Logistics strategy game](https://x.com/alexcooldev/status/2106835487365419479) | Opus 5.5 | [@alexcooldev](https://x.com/alexcooldev) | 1:14 | — |
 | [Mobile-ad-style game clone](https://x.com/rsensui/status/2102796039468253230) | Opus 5.5 | [@rsensui](https://x.com/rsensui) | 1:57 | — |
 | [Playable ARPG built with Opus 5.5 and Unreal](https://x.com/KanaWorks_AI/status/2103138051165933661) | Opus 5.5 | [@KanaWorks_AI](https://x.com/KanaWorks_AI) | 0:51 | — |
 | [Illustration to rigged 3D game character pipeline](https://x.com/akakuma0219/status/2103506875165859922) | Opus 5.5 | [@akakuma0219](https://x.com/akakuma0219) | 0:26 | — |
@@ -121,6 +122,7 @@
 | [Horse-racing character game built with Opus 5.5](https://x.com/AbaneChan/status/2104926657425678643) | Opus 5.5 | [@AbaneChan](https://x.com/AbaneChan) | 1:58 | — |
 | [Willowmere procedural game engine](https://x.com/jurlycat/status/2104002281641542008) | Opus 5.5 | [@jurlycat](https://x.com/jurlycat) | 1:01 | — |
 | [Construction battle game prototype](https://x.com/asobodesign/status/2102552980818182512) | Opus 5.5 | [@asobodesign](https://x.com/asobodesign) | 1:14 | — |
+| [Mining operations strategy game](https://x.com/tradphi/status/2107022944916709886) | Opus 5.5 | [@tradphi](https://x.com/tradphi) | 0:30 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2107022944916709886) |
 | [Minecraft-Style Browser Game](https://x.com/oviniciuslana/status/2103086714772463953) | Opus 5.5 | [@oviniciuslana](https://x.com/oviniciuslana) | 1:05 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103086714772463953) |
 | [Multiplayer capital ship game](https://x.com/McGrumby/status/2103590506106380330) | Opus 5.5 | [@McGrumby](https://x.com/McGrumby) | 0:28 | — |
 | [Custom Zombies map ported to a console](https://x.com/luckeyfaraday/status/2103653262037520542) | Opus 5.5 | [@luckeyfaraday](https://x.com/luckeyfaraday) | 2:46 | — |
@@ -218,6 +220,7 @@
 | [Age of Empires remake with multiplayer](https://x.com/ForwardEditor/status/2104665557144322555) | Sonnet 5.5 | [@ForwardEditor](https://x.com/ForwardEditor) | 0:28 | — |
 | [Pool party splash game prototype](https://x.com/bijanbowen/status/2104717700836753573) | Sonnet 5.5 | [@bijanbowen](https://x.com/bijanbowen) | 1:21 | — |
 | [Another World ZX Spectrum Next port](https://x.com/em00k_/status/2103837016186339466) | Opus 5.5 | [@em00k_](https://x.com/em00k_) | 4:48 | — |
+| [Playable island game preview](https://x.com/maxt3chno/status/2106838003561672708) | Opus 5.5 / Fable 5.5 (preview) | [@maxt3chno](https://x.com/maxt3chno) | 1:58 | — |
 | [Octopath-style mahjong roguelike game](https://x.com/ezshine/status/2103574793262141636) | Opus 5.5 | [@ezshine](https://x.com/ezshine) | 0:40 | — |
 | [One-finger playable Sekiro clone](https://x.com/plum_very/status/2103481769999876528) | Opus 5.5 | [@plum_very](https://x.com/plum_very) | 1:08 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103481769999876528) |
 | [Vibe-coded platformer experience](https://x.com/chetanankola/status/2103730428901498972) | Opus 5.5 | [@chetanankola](https://x.com/chetanankola) | 1:04 | — |

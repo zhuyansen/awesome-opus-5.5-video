@@ -1,6 +1,6 @@
 # 角色故事
 
-共 138 个作品，其中 35 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 139 个作品，其中 35 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [手绘卡通动画起手包演示](https://x.com/GoSailGlobal/status/2103650801684262994) | Opus 5.5 | [@GoSailGlobal](https://x.com/GoSailGlobal) | 1:04 | — |
 | [配原创音乐的AI短片](https://x.com/notargs/status/2103790246102188069) | Opus 5.5 | [@notargs](https://x.com/notargs) | 2:00 | — |
 | [代码生成的木偶动画音乐视频](https://x.com/vinceflibustier/status/2103567196882399606) | Opus 5.5 | [@vinceflibustier](https://x.com/vinceflibustier) | 3:01 | — |
+| [超级智能眼中的恐惧](https://x.com/jtevesobs/status/2106973139368296606) | Opus 5.5 | [@jtevesobs](https://x.com/jtevesobs) | 3:43 | — |
 | [Clawd(Claude吉祥物）的一天](https://x.com/vikktorrrre/status/2102702170986463421) | Opus 5.5 | [@vikktorrrre](https://x.com/vikktorrrre) | 1:04 | — |
 | [魔性版般若心经音乐视频](https://x.com/nishio/status/2103494810720198914) | Opus 5.5 | [@nishio](https://x.com/nishio) | 3:04 | — |
 | [波斯诗歌的可视化短片](https://x.com/kimziify/status/2103784499125559530) | Opus 5.5 | [@kimziify](https://x.com/kimziify) | 0:16 | — |

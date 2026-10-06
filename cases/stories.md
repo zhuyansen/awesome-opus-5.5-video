@@ -1,6 +1,6 @@
 # Characters & stories
 
-138 works, 35 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+139 works, 35 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Hand-drawn cartoon animation starter kit](https://x.com/GoSailGlobal/status/2103650801684262994) | Opus 5.5 | [@GoSailGlobal](https://x.com/GoSailGlobal) | 1:04 | — |
 | [AI-made short film with original music](https://x.com/notargs/status/2103790246102188069) | Opus 5.5 | [@notargs](https://x.com/notargs) | 2:00 | — |
 | [Coded animated music video with puppets](https://x.com/vinceflibustier/status/2103567196882399606) | Opus 5.5 | [@vinceflibustier](https://x.com/vinceflibustier) | 3:01 | — |
+| [What fear feels like to a superintelligence](https://x.com/jtevesobs/status/2106973139368296606) | Opus 5.5 | [@jtevesobs](https://x.com/jtevesobs) | 3:43 | — |
 | [Day in the life of Clawd (Claude mascot)](https://x.com/vikktorrrre/status/2102702170986463421) | Opus 5.5 | [@vikktorrrre](https://x.com/vikktorrrre) | 1:04 | — |
 | [Upbeat Heart Sutra music video](https://x.com/nishio/status/2103494810720198914) | Opus 5.5 | [@nishio](https://x.com/nishio) | 3:04 | — |
 | [Visualization of Persian poems](https://x.com/kimziify/status/2103784499125559530) | Opus 5.5 | [@kimziify](https://x.com/kimziify) | 0:16 | — |
