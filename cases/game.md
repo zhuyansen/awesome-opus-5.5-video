@@ -1,6 +1,6 @@
 # Games
 
-222 works, 44 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+230 works, 46 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [3D shooting mini-game](https://x.com/karankendre/status/2103456630679773669) | Opus 5.5 | [@karankendre](https://x.com/karankendre) | 0:22 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103456630679773669) |
 | [Zelda Ocarina of Time recreation built from scratch](https://x.com/LexnLin/status/2103282610948464811) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 0:37 | — |
 | [Splatoon-style browser game](https://x.com/JaydenDavisNC/status/2103352441886425310) | Opus 5.5 | [@JaydenDavisNC](https://x.com/JaydenDavisNC) | 4:02 | — |
+| [League of Legends MMO prototype](https://x.com/GamefxAI/status/2107116106280485047) | Opus 5.5 | [@GamefxAI](https://x.com/GamefxAI) | 0:12 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2107116106280485047) |
 | [Dark Souls-inspired demo showcase](https://x.com/The_Alex/status/2102440678282412195) | Opus 5.5 | [@The_Alex](https://x.com/The_Alex) | 2:11 | — |
 | [Browser-based Rocket League clone](https://x.com/BlendiByl/status/2104800823620632641) | Opus 5.5 | [@BlendiByl](https://x.com/BlendiByl) | 0:39 | — |
 | [Fortnite-style game built with Sonnet 5.5](https://x.com/ericmaskfr/status/2104680817272500562) | Sonnet 5.5 | [@ericmaskfr](https://x.com/ericmaskfr) | 0:42 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104680817272500562) |
@@ -88,6 +89,7 @@
 | [One-shot Mario Kart game demo](https://x.com/matthewmillerai/status/2104668017258872907) | Sonnet 5.5 | [@matthewmillerai](https://x.com/matthewmillerai) | 1:30 | — |
 | [3D game development with Godot](https://x.com/KanaWorks_AI/status/2102955708321062975) | Opus 5.5 | [@KanaWorks_AI](https://x.com/KanaWorks_AI) | 0:32 | — |
 | [Cozy browser fishing game update](https://x.com/dangreenheck/status/2103004432786993341) | Opus 5.5 | [@dangreenheck](https://x.com/dangreenheck) | 4:52 | — |
+| [Pixel art boss-battle game](https://x.com/blueemi99/status/2107108802440900621) | Fable 5.5 (preview) | [@blueemi99](https://x.com/blueemi99) | 1:24 | — |
 | [Little Habitats mini-game](https://x.com/DannyLimanseta/status/2103493389778125083) | Opus 5.5 | [@DannyLimanseta](https://x.com/DannyLimanseta) | 1:14 | — |
 | [Video game built with a self-improvement loop](https://x.com/jorge_coder/status/2103966645588984183) | Opus 5.5 | [@jorge_coder](https://x.com/jorge_coder) | 2:36 | — |
 | [League of Legends x Dragon Ball FighterZ Mashup Game](https://x.com/GamefxAI/status/2106670299731149160) | Opus 5.5 | [@GamefxAI](https://x.com/GamefxAI) | 10:00 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2106670299731149160) |
@@ -155,6 +157,7 @@
 | [In-progress three.js game after seven-hour build](https://x.com/cryptomanavan/status/2102772685541347618) | Opus 5.5 | [@cryptomanavan](https://x.com/cryptomanavan) | 1:56 | — |
 | [LLM-controlled AI avatar test in UE5](https://x.com/L_ARCH_01/status/2106656783221899534) | Opus 5.5 | [@L_ARCH_01](https://x.com/L_ARCH_01) | 0:22 | — |
 | [Realistic fighter jet game](https://x.com/klattkev/status/2106102789160259910) | Opus 5.5 | [@klattkev](https://x.com/klattkev) | 0:43 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2106102789160259910) |
+| [Native Swift FPS game](https://x.com/solotechdev/status/2107155466987987309) | Opus 5.5 | [@solotechdev](https://x.com/solotechdev) | 0:49 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2107155466987987309) |
 | [Zero-gravity movement shooter](https://x.com/0xPBIT/status/2106048668826546247) | Opus 5.5 | [@0xPBIT](https://x.com/0xPBIT) | 1:28 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2106048668826546247) |
 | [Realistic snow scene game build](https://x.com/jumperz/status/2102486361068425247) | Opus 5.5 | [@jumperz](https://x.com/jumperz) | 2:01 | — |
 | [Card game direction redesign for a Steam festival](https://x.com/ShadeLurk/status/2102626930977870238) | Opus 5.5 | [@ShadeLurk](https://x.com/ShadeLurk) | 0:31 | — |
@@ -184,7 +187,9 @@
 | [Character-based game demo](https://x.com/AiFreak_tool/status/2102582031213613452) | Opus 5.5 | [@AiFreak_tool](https://x.com/AiFreak_tool) | 1:22 | — |
 | [Rocket League clone in Three.js](https://x.com/thoughtcrime___/status/2103946340598501771) | Opus 5.5 | [@thoughtcrime___](https://x.com/thoughtcrime___) | 0:16 | — |
 | [Procedural mountain flight simulator](https://x.com/cyrilXBT/status/2103801828744061307) | Opus 5.5 | [@cyrilXBT](https://x.com/cyrilXBT) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103801828744061307) |
+| [Open-world samurai-style game prototype](https://x.com/ilseccoz/status/2107099373251239970) | Opus 5.5 | [@ilseccoz](https://x.com/ilseccoz) | 1:40 | — |
 | [Retro game remake in a modern engine](https://x.com/AIandDesign/status/2103327470485459444) | Opus 5.5 | [@AIandDesign](https://x.com/AIandDesign) | 4:00 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103327470485459444) |
+| [Fighting game reimagined as MMO](https://x.com/GamefxAI/status/2107115159403773963) | Opus 5.5 | [@GamefxAI](https://x.com/GamefxAI) | 0:36 | — |
 | [Horror game built with Sonnet 5.5](https://x.com/The_Alex/status/2104640571004567617) | Sonnet 5.5 | [@The_Alex](https://x.com/The_Alex) | 5:13 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104640571004567617) |
 | [Sword-fighting game in development](https://x.com/R_Nikaido/status/2103462848303378834) | Opus 5.5 | [@R_Nikaido](https://x.com/R_Nikaido) | 0:35 | — |
 | [SCP-096 horror game built in Godot with Claude Opus 5.5](https://x.com/imjustnewatai/status/2105596869720322429) | Opus 5.5 | [@imjustnewatai](https://x.com/imjustnewatai) | 1:53 | — |
@@ -196,6 +201,7 @@
 | [Space-themed multiplayer racing game](https://x.com/Rubzem/status/2105346334069063963) | Opus 5.5 | [@Rubzem](https://x.com/Rubzem) | 0:26 | — |
 | [Open-world fantasy sci-fi game](https://x.com/aniketjart/status/2103642635726680460) | Opus 5.5 | [@aniketjart](https://x.com/aniketjart) | 0:20 | — |
 | [Pokemon-inspired browser game](https://x.com/Rubzem/status/2103547220922663048) | Opus 5.5 | [@Rubzem](https://x.com/Rubzem) | 1:17 | — |
+| [Japanese boat scene Three.js game](https://x.com/mdaman010/status/2107100320816095625) | Opus 5.5 | [@mdaman010](https://x.com/mdaman010) | 1:00 | — |
 | [Crimson Oath 40-hour playable game build](https://x.com/benchmark_lb900/status/2103541534906052944) | Opus 5.5 | [@benchmark_lb900](https://x.com/benchmark_lb900) | 25:05 | — |
 | [Stickman game with character customization](https://x.com/notjazii/status/2102831012686573744) | Opus 5.5 | [@notjazii](https://x.com/notjazii) | 1:54 | — |
 | [F-Zero-style racing game in Unreal](https://x.com/ForwardEditor/status/2104633533981491575) | Sonnet 5.5 | [@ForwardEditor](https://x.com/ForwardEditor) | 1:57 | — |
@@ -222,7 +228,9 @@
 | [Another World ZX Spectrum Next port](https://x.com/em00k_/status/2103837016186339466) | Opus 5.5 | [@em00k_](https://x.com/em00k_) | 4:48 | — |
 | [Playable island game preview](https://x.com/maxt3chno/status/2106838003561672708) | Opus 5.5 / Fable 5.5 (preview) | [@maxt3chno](https://x.com/maxt3chno) | 1:58 | — |
 | [Octopath-style mahjong roguelike game](https://x.com/ezshine/status/2103574793262141636) | Opus 5.5 | [@ezshine](https://x.com/ezshine) | 0:40 | — |
+| [Rocket Squadron rail shooter](https://x.com/guidorosso/status/2107146407790666085) | Opus 5.5 | [@guidorosso](https://x.com/guidorosso) | 3:02 | — |
 | [One-finger playable Sekiro clone](https://x.com/plum_very/status/2103481769999876528) | Opus 5.5 | [@plum_very](https://x.com/plum_very) | 1:08 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103481769999876528) |
+| [3D Snakeboard game](https://x.com/thebuggeddev/status/2107106516918743153) | Opus 5.5 | [@thebuggeddev](https://x.com/thebuggeddev) | 0:58 | — |
 | [Vibe-coded platformer experience](https://x.com/chetanankola/status/2103730428901498972) | Opus 5.5 | [@chetanankola](https://x.com/chetanankola) | 1:04 | — |
 | [Indie game development progress](https://x.com/iritec_jp/status/2102651240685744597) | Opus 5.5 | [@iritec_jp](https://x.com/iritec_jp) | 0:39 | — |
 | [Fighting game inspired by a mecha series](https://x.com/elefolo2/status/2103310890716266620) | Opus 5.5 | [@elefolo2](https://x.com/elefolo2) | 0:34 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103310890716266620) |

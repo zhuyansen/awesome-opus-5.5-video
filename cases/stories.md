@@ -1,6 +1,6 @@
 # Characters & stories
 
-139 works, 35 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+141 works, 35 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Day in the life of Claude animation](https://x.com/ishuagra02/status/2106045364868419727) | Fable 5.5 (preview) | [@ishuagra02](https://x.com/ishuagra02) | 1:31 | — |
 | [AI self-history documentary video](https://x.com/SkyeSharkie/status/2103167053737980177) | Opus 5.5 | [@SkyeSharkie](https://x.com/SkyeSharkie) | 5:29 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103167053737980177) |
 | [Hugging Face incident animated short](https://x.com/chetaslua/status/2105884276864782557) | Fable 5.5 (preview) | [@chetaslua](https://x.com/chetaslua) | 3:41 | — |
+| [Retro anime mech pilot sequence](https://x.com/emmanuel_2m/status/2107142680782438466) | Opus 5.5 | [@emmanuel_2m](https://x.com/emmanuel_2m) | 0:25 | — |
 | [Music video from personal old material](https://x.com/jtevesobs/status/2103330749495787928) | Opus 5.5 | [@jtevesobs](https://x.com/jtevesobs) | 4:49 | — |
 | [Animated robot story across 12 art styles](https://x.com/pradeepXkapoor/status/2103099194693271874) | Opus 5.5 | [@pradeepXkapoor](https://x.com/pradeepXkapoor) | 1:15 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103099194693271874) |
 | [Arcane-style Blender animation](https://x.com/xikhar/status/2105315982525014067) | Opus 5.5 | [@xikhar](https://x.com/xikhar) | 0:15 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2105315982525014067) |
@@ -97,6 +98,7 @@
 | [Dramatized personal battle narrative video](https://x.com/super_bonochin/status/2103881739131376035) | Opus 5.5 | [@super_bonochin](https://x.com/super_bonochin) | 1:05 | — |
 | [Spider-Man comic eras](https://x.com/chetaslua/status/2106248621519978867) | Fable 5.5 (preview) | [@chetaslua](https://x.com/chetaslua) | 0:38 | — |
 | [Sketch-to-3D battle animation](https://x.com/MinLiBuilds/status/2102756822990180387) | Opus 5.5 | [@MinLiBuilds](https://x.com/MinLiBuilds) | 1:43 | — |
+| [Gremlins screenplay movie trailer](https://x.com/JoshDaws/status/2107108840797811032) | Opus 5.5 | [@JoshDaws](https://x.com/JoshDaws) | 1:54 | — |
 | [Audience-directed choose-your-own-adventure movie](https://x.com/henloitsjoyce/status/2103261956375466225) | Opus 5.5 | [@henloitsjoyce](https://x.com/henloitsjoyce) | 0:42 | — |
 | [Music video for a Portuguese song](https://x.com/goncalo_canhoto/status/2103945822085738890) | Opus 5.5 | [@goncalo_canhoto](https://x.com/goncalo_canhoto) | 2:52 | — |
 | [Creation-myth style story on how the world formed](https://x.com/Iamshankhadeep/status/2103087123503177752) | Opus 5.5 | [@Iamshankhadeep](https://x.com/Iamshankhadeep) | 1:00 | — |

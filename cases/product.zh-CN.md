@@ -1,6 +1,6 @@
 # 产品广告
 
-共 174 个作品，其中 34 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 175 个作品，其中 34 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [随处飞行应用发布预告片](https://x.com/ai_for_success/status/2105289786647007685) | Opus 5.5 | [@ai_for_success](https://x.com/ai_for_success) | 0:30 | — |
 | [动感十足的产品发布视频](https://x.com/higgsfield_ai/status/2103955965733462505) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:09 | — |
 | [提示词生成音视频的应用演示](https://x.com/surucudev/status/2103520477428027482) | Opus 5.5 | [@surucudev](https://x.com/surucudev) | 0:30 | — |
+| [Motion MCP 产品发布视频](https://x.com/motion_so/status/2107136416342061418) | Opus 5.5 | [@motion_so](https://x.com/motion_so) | 0:26 | — |
 | [仿Higgsfield竞品产品搭建](https://x.com/viktoroddy/status/2103533275834896657) | Opus 5.5 | [@viktoroddy](https://x.com/viktoroddy) | 10:04 | — |
 | [液态玻璃网页首屏](https://x.com/viktoroddy/status/2106061619176620344) | Opus 5.5 | [@viktoroddy](https://x.com/viktoroddy) | 12:52 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2106061619176620344) |
 | [复刻品牌界面的产品发布视频](https://x.com/steventey/status/2103843311807349148) | Opus 5.5 | [@steventey](https://x.com/steventey) | 0:15 | — |

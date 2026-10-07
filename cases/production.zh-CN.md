@@ -1,6 +1,6 @@
 # 制作流程
 
-共 99 个作品，其中 18 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 101 个作品，其中 18 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [代码生成的音乐理论作品](https://x.com/dadabots/status/2103039181266338276) | Opus 5.5 | [@dadabots](https://x.com/dadabots) | 0:24 | — |
 | [可视化编程智能体管理界面演示](https://x.com/adocomplete/status/2103293477912268813) | Opus 5.5 | [@adocomplete](https://x.com/adocomplete) | 0:43 | — |
 | [电子音乐（Techno）创作](https://x.com/Dr_Singularity/status/2104013854909116657) | Opus 5.5 | [@Dr_Singularity](https://x.com/Dr_Singularity) | 5:02 | — |
+| [Tapnow短音乐视频](https://x.com/akuai33/status/2107131775592157694) | Opus 5.5 | [@akuai33](https://x.com/akuai33) | 1:32 | — |
 | [全自动视频剪辑流程演示](https://x.com/AIPlus_AISchool/status/2103441866717073637) | Opus 5.5 | [@AIPlus_AISchool](https://x.com/AIPlus_AISchool) | 1:00 | — |
 | [多工具流水线制作的克隆声音短视频](https://x.com/masahirochaen/status/2103872865770836012) | Opus 5.5 | [@masahirochaen](https://x.com/masahirochaen) | 0:57 | — |
 | [Opus生成的工业电子BGM](https://x.com/mochitaro_de/status/2103343950996345191) | Opus 5.5 | [@mochitaro_de](https://x.com/mochitaro_de) | 0:15 | — |
@@ -66,6 +67,7 @@
 | [AI虚拟主播日语语音对比视频](https://x.com/nakazakifam/status/2105898430967009547) | Opus 5.5 | [@nakazakifam](https://x.com/nakazakifam) | 5:13 | — |
 | [AI控制视频编辑软件自动化](https://x.com/FantasistaAI/status/2103117722741854377) | Opus 5.5 | [@FantasistaAI](https://x.com/FantasistaAI) | 0:25 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103117722741854377) |
 | [CAD制图工作流演示](https://x.com/hAru_mAki_ch/status/2103698137730924839) | Opus 5.5 | [@hAru_mAki_ch](https://x.com/hAru_mAki_ch) | 0:21 | — |
+| [用代码剪辑制作的品牌音乐视频](https://x.com/gkxspace/status/2107108561851445324) | Opus 5.5 | [@gkxspace](https://x.com/gkxspace) | 0:15 | — |
 | [FreeCAD制作过程视频](https://x.com/hAru_mAki_ch/status/2103645693265219838) | Opus 5.5 | [@hAru_mAki_ch](https://x.com/hAru_mAki_ch) | 1:46 | — |
 | [AI创作的巴洛克风格三重奏奏鸣曲](https://x.com/aug5thmusic/status/2103549625076752493) | Opus 5.5 | [@aug5thmusic](https://x.com/aug5thmusic) | 1:46 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103549625076752493) |
 | [自动化Blender场景搭建演示](https://x.com/higgsfield_ai/status/2103537802688463269) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:12 | — |
