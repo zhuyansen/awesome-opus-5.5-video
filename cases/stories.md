@@ -1,6 +1,6 @@
 # Characters & stories
 
-141 works, 35 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+142 works, 36 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Ink-wash animation: Little Tadpole Finds Mother](https://x.com/akokoi1/status/2102699703309898026) | Opus 5.5 | [@akokoi1](https://x.com/akokoi1) | 3:55 | — |
 | [Mid-Autumn animated short official release](https://x.com/ring_hyacinth/status/2103476866917290441) | Opus 5.5 | [@ring_hyacinth](https://x.com/ring_hyacinth) | 0:41 | — |
 | [Rap music video explaining a research paper](https://x.com/Tz_2022/status/2103683260144292176) | Opus 5.5 | [@Tz_2022](https://x.com/Tz_2022) | 3:43 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103683260144292176) |
+| [Running fried-chicken character animation](https://x.com/whydeso/status/2107754210746134748) | Opus 5.5 | [@whydeso](https://x.com/whydeso) | 0:17 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2107754210746134748) |
 | [AI anime music video from a song](https://x.com/spawn/status/2103601538551918743) | Opus 5.5 | [@spawn](https://x.com/spawn) | 3:16 | — |
 | [Alien explores the Library of Babel](https://x.com/jackclarkSF/status/2103569043836027339) | Opus 5.5 | [@jackclarkSF](https://x.com/jackclarkSF) | 1:00 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103569043836027339) |
 | [LEGO Star Wars intro recreation](https://x.com/ChrisGPT/status/2103976291699728742) | Opus 5.5 | [@ChrisGPT](https://x.com/ChrisGPT) | 1:37 | — |

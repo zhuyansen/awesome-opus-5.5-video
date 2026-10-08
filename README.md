@@ -1,8 +1,8 @@
-# Awesome Claude 5.5 Video (Opus 5.5 · Sonnet 5.5 · Fable 5.5)
+# Awesome Claude 5.5 Video (Opus 5.5 · Sonnet 5.5 · Haiku 5.5 · Fable 5.5)
 
 English | [简体中文](README.zh-CN.md)
 
-Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5, Sonnet 5.5 and Fable 5.5 (limited preview, not yet announced) and shared on X, each with 5,000+ views on the original post. **1381 works** (Opus 5.5: 1288 · Sonnet 5.5: 84 · Fable 5.5: 42; comparisons count for each), **356 with a prompt** (146 full prompts).
+Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5, Sonnet 5.5, Haiku 5.5 and Fable 5.5 (limited preview, not yet announced) and shared on X, each with 5,000+ views on the original post. **1402 works** (Opus 5.5: 1308 · Sonnet 5.5: 84 · Fable 5.5: 44; comparisons count for each), **361 with a prompt** (148 full prompts).
 
 **[Browse online — play the videos and copy the prompts →](https://jasonzhu.ai/en/prompts/claude-opus-5-5)**
 
@@ -25,14 +25,14 @@ Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5, Sonnet 5
 
 ## Inclusion rule
 
-- The creator's own post, with a native video, and at least 5,000 views on that post (snapshot: 2026-10-07).
-- The post states the work was made with Claude Opus 5.5, Sonnet 5.5 or Fable 5.5; the Model column follows the creator's own words. **As of early October Fable 5.5 is in limited preview and not yet announced**; posts where the creator is unsure are excluded. **Model attribution is as stated by each creator and was not independently reproduced.**
+- The creator's own post, with a native video, and at least 5,000 views on that post (snapshot: 2026-10-08).
+- The post states the work was made with Claude Opus 5.5, Sonnet 5.5, Haiku 5.5 or Fable 5.5; the Model column follows the creator's own words. **As of early October Fable 5.5 is in limited preview and not yet announced**; posts where the creator is unsure are excluded. **Model attribution is as stated by each creator and was not independently reproduced.**
 - A prompt is listed only when it has a source: the post itself, the creator's own replies, a screenshot in those replies, or a link the creator shared. Prompts are kept verbatim, never rewritten or translated.
 - Works with a video but no traceable instruction are still listed, with the prompt column left empty.
 
 ## Motion graphics & UI
 
-230 works · [full list](cases/motion.md)
+231 works · [full list](cases/motion.md)
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5, Sonnet 5
 
 ## Product demos & ads
 
-175 works · [full list](cases/product.md)
+176 works · [full list](cases/product.md)
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5, Sonnet 5
 
 ## Characters & stories
 
-141 works · [full list](cases/stories.md)
+142 works · [full list](cases/stories.md)
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -92,10 +92,11 @@ Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5, Sonnet 5
 
 ## 3D worlds & simulations
 
-188 works · [full list](cases/art3d.md)
+195 works · [full list](cases/art3d.md)
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
+| [AI-generated running cow animation](https://x.com/AIMind_Ai/status/2107435499686154557) | Opus 5.5 | [@AIMind_Ai](https://x.com/AIMind_Ai) | 0:17 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2107435499686154557) |
 | [Jelly watermelon slicing simulation](https://x.com/vib3coded/status/2104285370951012504) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:18 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104285370951012504) |
 | [Playable boat scene through Japanese landscapes](https://x.com/MengTo/status/2102760783344189761) | Opus 5.5 | [@MengTo](https://x.com/MengTo) | 1:00 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102760783344189761) |
 | [Watermelon rubber band burst simulation](https://x.com/vib3coded/status/2104928244382277727) | Sonnet 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:17 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104928244382277727) |
@@ -103,11 +104,10 @@ Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5, Sonnet 5
 | [Pelican riding a bike in Three.js](https://x.com/addyosmani/status/2102436416437580159) | Opus 5.5 | [@addyosmani](https://x.com/addyosmani) | 1:31 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102436416437580159) |
 | [Three-body problem physics simulation in Bend2](https://x.com/zAdrielsan/status/2105822678519001360) | Fable 5.5 (preview) | [@zAdrielsan](https://x.com/zAdrielsan) | 2:14 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2105822678519001360) |
 | [Floor plan to 3D interior design tool](https://x.com/akokoi1/status/2104520072014508316) | Opus 5.5 | [@akokoi1](https://x.com/akokoi1) | 0:33 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104520072014508316) |
-| [Walkable Indian cities world](https://x.com/pracosm/status/2103387804281745459) | Opus 5.5 | [@pracosm](https://x.com/pracosm) | 0:54 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103387804281745459) |
 
 ## Games
 
-230 works · [full list](cases/game.md)
+233 works · [full list](cases/game.md)
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -122,7 +122,7 @@ Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5, Sonnet 5
 
 ## Music, editing & production
 
-101 works · [full list](cases/production.md)
+105 works · [full list](cases/production.md)
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -137,7 +137,7 @@ Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5, Sonnet 5
 
 ## Model comparisons
 
-182 works · [full list](cases/comparison.md)
+186 works · [full list](cases/comparison.md)
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|

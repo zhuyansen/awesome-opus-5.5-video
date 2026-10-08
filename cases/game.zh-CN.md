@@ -1,6 +1,6 @@
 # 游戏
 
-共 230 个作品，其中 46 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 233 个作品，其中 46 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [一次生成的马里奥赛车风格游戏](https://x.com/bridgemindai/status/2102451997395866021) | Opus 5.5 | [@bridgemindai](https://x.com/bridgemindai) | 0:52 | — |
 | [《铁甲飞龙》重制演示](https://x.com/yasei_no_otoko/status/2103868553242058933) | Opus 5.5 | [@yasei_no_otoko](https://x.com/yasei_no_otoko) | 2:47 | — |
 | [电车难题游戏](https://x.com/soyukke_game/status/2102899404336493045) | Opus 5.5 | [@soyukke_game](https://x.com/soyukke_game) | 0:19 | — |
+| [AI通过截图自我修正游戏画面](https://x.com/prasenx/status/2107451914954911838) | Opus 5.5 | [@prasenx](https://x.com/prasenx) | 5:20 | — |
 | [1v1篮球游戏ISO](https://x.com/databallr/status/2103592504386101512) | Opus 5.5 | [@databallr](https://x.com/databallr) | 0:15 | — |
 | [无尽射击手机游戏](https://x.com/Andrew_Blumson/status/2103861788987068922) | Opus 5.5 | [@Andrew_Blumson](https://x.com/Andrew_Blumson) | 2:06 | — |
 | [日式划船游戏](https://x.com/buildwithsid/status/2103198490746900830) | Opus 5.5 | [@buildwithsid](https://x.com/buildwithsid) | 1:11 | — |
@@ -197,6 +198,7 @@
 | [复古风格机器人动作游戏](https://x.com/shi3z/status/2102671033224622469) | Opus 5.5 | [@shi3z](https://x.com/shi3z) | 0:48 | — |
 | [格斗游戏物理机制演示](https://x.com/onofumi_AI/status/2102583417208717748) | Opus 5.5 | [@onofumi_AI](https://x.com/onofumi_AI) | 0:31 | — |
 | [「世界上最有趣的游戏」浏览器游戏](https://x.com/coyane_ai/status/2103668069801624015) | Opus 5.5 | [@coyane_ai](https://x.com/coyane_ai) | 1:00 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103668069801624015) |
+| [用3D重建的《泰拉瑞亚》](https://x.com/ai_growth_avii/status/2107673916550627508) | Opus 5.5 | [@ai_growth_avii](https://x.com/ai_growth_avii) | 1:05 | — |
 | [多人在线爬塔游戏克隆版](https://x.com/_MaxBlade/status/2104763837777854923) | Sonnet 5.5 | [@_MaxBlade](https://x.com/_MaxBlade) | 0:57 | — |
 | [太空主题多人赛车游戏](https://x.com/Rubzem/status/2105346334069063963) | Opus 5.5 | [@Rubzem](https://x.com/Rubzem) | 0:26 | — |
 | [开放世界奇幻科幻游戏](https://x.com/aniketjart/status/2103642635726680460) | Opus 5.5 | [@aniketjart](https://x.com/aniketjart) | 0:20 | — |
@@ -231,6 +233,7 @@
 | [火箭中队轨道射击游戏](https://x.com/guidorosso/status/2107146407790666085) | Opus 5.5 | [@guidorosso](https://x.com/guidorosso) | 3:02 | — |
 | [单指可玩的《只狼》克隆](https://x.com/plum_very/status/2103481769999876528) | Opus 5.5 | [@plum_very](https://x.com/plum_very) | 1:08 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103481769999876528) |
 | [3D滑板蛇游戏](https://x.com/thebuggeddev/status/2107106516918743153) | Opus 5.5 | [@thebuggeddev](https://x.com/thebuggeddev) | 0:58 | — |
+| [《我的世界》内容融入《荒野大镖客：救赎2》](https://x.com/Roxx_0x/status/2107698613379838294) | Opus 5.5 | [@Roxx_0x](https://x.com/Roxx_0x) | 1:11 | — |
 | [氛围编码的平台跳跃体验](https://x.com/chetanankola/status/2103730428901498972) | Opus 5.5 | [@chetanankola](https://x.com/chetanankola) | 1:04 | — |
 | [独立游戏开发进展](https://x.com/iritec_jp/status/2102651240685744597) | Opus 5.5 | [@iritec_jp](https://x.com/iritec_jp) | 0:39 | — |
 | [仿机甲系列格斗游戏](https://x.com/elefolo2/status/2103310890716266620) | Opus 5.5 | [@elefolo2](https://x.com/elefolo2) | 0:34 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103310890716266620) |

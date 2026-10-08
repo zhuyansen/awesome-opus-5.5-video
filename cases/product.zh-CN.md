@@ -1,6 +1,6 @@
 # 产品广告
 
-共 175 个作品，其中 34 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 176 个作品，其中 34 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Meta广告MCP驱动的AI广告工作流](https://x.com/PrajwalTomar_/status/2103862956211704144) | Opus 5.5 | [@PrajwalTomar_](https://x.com/PrajwalTomar_) | 0:25 | — |
 | [一句提示词生成的仪表盘](https://x.com/sparkpxldesign/status/2102808261389058079) | Opus 5.5 | [@sparkpxldesign](https://x.com/sparkpxldesign) | 0:34 | — |
 | [30秒产品宣传片](https://x.com/shownotover/status/2104124596957933687) | Opus 5.5 | [@shownotover](https://x.com/shownotover) | 0:30 | — |
+| [BlitzClean Mac 工具演示视频](https://x.com/virgilerietsch/status/2107463995070291985) | Opus 5.5 | [@virgilerietsch](https://x.com/virgilerietsch) | 0:15 | — |
 | [iPhone Duo应用改版演示视频](https://x.com/anshuc/status/2103598854801084824) | Opus 5.5 | [@anshuc](https://x.com/anshuc) | 1:00 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103598854801084824) |
 | [开源交易日志应用编辑](https://x.com/LuxAlgo/status/2104668775798739107) | Opus 5.5 | [@LuxAlgo](https://x.com/LuxAlgo) | 0:30 | — |
 | [苹果发布会风格产品视频](https://x.com/twoclipping/status/2103835273813496100) | Opus 5.5 | [@twoclipping](https://x.com/twoclipping) | 0:29 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103835273813496100) |
@@ -97,7 +98,7 @@
 | [产品改版展示视频](https://x.com/Groovy_HQ/status/2103597420873646509) | Opus 5.5 | [@Groovy_HQ](https://x.com/Groovy_HQ) | 0:15 | — |
 | [互动案例研究动画演示](https://x.com/arjmahesh/status/2103201004850172258) | Opus 5.5 | [@arjmahesh](https://x.com/arjmahesh) | 0:29 | — |
 | [家具照片转3D室内设计应用](https://x.com/higgsfield_ai/status/2102618445489795448) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:32 | — |
-| [电影感产品发布影片](https://x.com/AbhinavXJ/status/2104805179401068964) | Opus 5.5 / Sonnet 5.5 | [@AbhinavXJ](https://x.com/AbhinavXJ) | 1:40 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104805179401068964) |
+| [电影感产品发布影片](https://x.com/AbhinavXJ/status/2104805179401068964) | Opus 5.5 / Sonnet 5.5 / Haiku 5.5 | [@AbhinavXJ](https://x.com/AbhinavXJ) | 1:40 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104805179401068964) |
 | [根据软件代码生成的介绍视频](https://x.com/gesoikuo3/status/2103723885204254734) | Opus 5.5 | [@gesoikuo3](https://x.com/gesoikuo3) | 0:50 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103723885204254734) |
 | [用代码免费生成的AI广告视频](https://x.com/Lucas_IA_/status/2102757164158689759) | Opus 5.5 | [@Lucas_IA_](https://x.com/Lucas_IA_) | 1:12 | — |
 | [多版本App设计方案演示](https://x.com/heycape_/status/2102671212598132975) | Opus 5.5 | [@heycape_](https://x.com/heycape_) | 0:18 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102671212598132975) |

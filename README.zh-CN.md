@@ -1,8 +1,8 @@
-# Awesome Claude 5.5 Video（Opus 5.5 · Sonnet 5.5 · Fable 5.5）
+# Awesome Claude 5.5 Video（Opus 5.5 · Sonnet 5.5 · Haiku 5.5 · Fable 5.5）
 
 [English](README.md) | 简体中文
 
-X 上用 Claude Opus 5.5、Sonnet 5.5 和 Fable 5.5（内测中、未官宣）做出来的视频、动效、3D 场景和游戏，原帖播放量都过 5,000。共 **1381 个作品**（Opus 5.5 1288 个 · Sonnet 5.5 84 个 · Fable 5.5 42 个，对比帖各边都计），其中 **356 个附提示词**（146 条完整提示词）。
+X 上用 Claude Opus 5.5、Sonnet 5.5、Haiku 5.5 和 Fable 5.5（内测中、未官宣）做出来的视频、动效、3D 场景和游戏，原帖播放量都过 5,000。共 **1402 个作品**（Opus 5.5 1308 个 · Sonnet 5.5 84 个 · Fable 5.5 44 个，对比帖各边都计），其中 **361 个附提示词**（148 条完整提示词）。
 
 **[在线浏览，可直接播放和复制提示词 →](https://jasonzhu.ai/zh/prompts/claude-opus-5-5)**
 
@@ -25,14 +25,14 @@ X 上用 Claude Opus 5.5、Sonnet 5.5 和 Fable 5.5（内测中、未官宣）�
 
 ## 收录标准
 
-- 创作者本人的原帖，帖子自带视频，原帖播放量不低于 5,000（快照时间 2026-10-07）。
-- 帖子明确说作品是用 Claude Opus 5.5、Sonnet 5.5 或 Fable 5.5 做的，「模型」一栏按作者的说法标注。**Fable 5.5 截至 10 月初只在内测、尚未官宣**，作者自己说「可能是」的不收。**模型归属以作者自述为准，没有逐条复现。**
+- 创作者本人的原帖，帖子自带视频，原帖播放量不低于 5,000（快照时间 2026-10-08）。
+- 帖子明确说作品是用 Claude Opus 5.5、Sonnet 5.5、Haiku 5.5 或 Fable 5.5 做的，「模型」一栏按作者的说法标注。**Fable 5.5 截至 10 月初只在内测、尚未官宣**，作者自己说「可能是」的不收。**模型归属以作者自述为准，没有逐条复现。**
 - 提示词只收有出处的：主帖正文、作者本人的回复、作者回复里的截图、作者给出的链接。提示词一律原文照录，不改写、不翻译。
 - 有视频但找不到指令来源的作品照常收录，提示词一栏留空。
 
 ## 动效设计
 
-230 个作品 · [完整清单](cases/motion.zh-CN.md)
+231 个作品 · [完整清单](cases/motion.zh-CN.md)
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ X 上用 Claude Opus 5.5、Sonnet 5.5 和 Fable 5.5（内测中、未官宣）�
 
 ## 产品广告
 
-175 个作品 · [完整清单](cases/product.zh-CN.md)
+176 个作品 · [完整清单](cases/product.zh-CN.md)
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ X 上用 Claude Opus 5.5、Sonnet 5.5 和 Fable 5.5（内测中、未官宣）�
 
 ## 角色故事
 
-141 个作品 · [完整清单](cases/stories.zh-CN.md)
+142 个作品 · [完整清单](cases/stories.zh-CN.md)
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -92,10 +92,11 @@ X 上用 Claude Opus 5.5、Sonnet 5.5 和 Fable 5.5（内测中、未官宣）�
 
 ## 3D 场景
 
-188 个作品 · [完整清单](cases/art3d.zh-CN.md)
+195 个作品 · [完整清单](cases/art3d.zh-CN.md)
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
+| [AI生成的奔跑奶牛动画](https://x.com/AIMind_Ai/status/2107435499686154557) | Opus 5.5 | [@AIMind_Ai](https://x.com/AIMind_Ai) | 0:17 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2107435499686154557) |
 | [果冻西瓜切片模拟](https://x.com/vib3coded/status/2104285370951012504) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:18 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104285370951012504) |
 | [日式风景中的可玩船只场景](https://x.com/MengTo/status/2102760783344189761) | Opus 5.5 | [@MengTo](https://x.com/MengTo) | 1:00 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102760783344189761) |
 | [橡皮筋压爆西瓜模拟](https://x.com/vib3coded/status/2104928244382277727) | Sonnet 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:17 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104928244382277727) |
@@ -103,11 +104,10 @@ X 上用 Claude Opus 5.5、Sonnet 5.5 和 Fable 5.5（内测中、未官宣）�
 | [Three.js骑车鹈鹕演示](https://x.com/addyosmani/status/2102436416437580159) | Opus 5.5 | [@addyosmani](https://x.com/addyosmani) | 1:31 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102436416437580159) |
 | [Bend2实现的三体问题物理模拟](https://x.com/zAdrielsan/status/2105822678519001360) | Fable 5.5 (preview) | [@zAdrielsan](https://x.com/zAdrielsan) | 2:14 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2105822678519001360) |
 | [户型图转3D室内设计工具](https://x.com/akokoi1/status/2104520072014508316) | Opus 5.5 | [@akokoi1](https://x.com/akokoi1) | 0:33 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104520072014508316) |
-| [可漫游的印度城市世界](https://x.com/pracosm/status/2103387804281745459) | Opus 5.5 | [@pracosm](https://x.com/pracosm) | 0:54 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103387804281745459) |
 
 ## 游戏
 
-230 个作品 · [完整清单](cases/game.zh-CN.md)
+233 个作品 · [完整清单](cases/game.zh-CN.md)
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -122,7 +122,7 @@ X 上用 Claude Opus 5.5、Sonnet 5.5 和 Fable 5.5（内测中、未官宣）�
 
 ## 制作流程
 
-101 个作品 · [完整清单](cases/production.zh-CN.md)
+105 个作品 · [完整清单](cases/production.zh-CN.md)
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -137,7 +137,7 @@ X 上用 Claude Opus 5.5、Sonnet 5.5 和 Fable 5.5（内测中、未官宣）�
 
 ## 模型对比
 
-182 个作品 · [完整清单](cases/comparison.zh-CN.md)
+186 个作品 · [完整清单](cases/comparison.zh-CN.md)
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|

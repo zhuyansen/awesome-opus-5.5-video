@@ -1,6 +1,6 @@
 # Music, editing & production
 
-101 works, 18 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+105 works, 18 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Opus 5.5 plus Gemini TTS demo](https://x.com/YoheiN2023/status/2103590367518171295) | Opus 5.5 | [@YoheiN2023](https://x.com/YoheiN2023) | 0:15 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103590367518171295) |
 | [After Effects automation test on AI video](https://x.com/aicreataro/status/2102656273112326609) | Opus 5.5 | [@aicreataro](https://x.com/aicreataro) | 0:15 | — |
 | [Pivot-style YouTube video made without editing software](https://x.com/shupeiman/status/2105191698523729997) | Opus 5.5 | [@shupeiman](https://x.com/shupeiman) | 1:01 | — |
+| [Brainrot Video Edit](https://x.com/blueemi99/status/2107459553369760024) | Fable 5.5 (preview) | [@blueemi99](https://x.com/blueemi99) | 0:30 | — |
 | [Locally produced animated music video](https://x.com/anshuc/status/2106131543752122774) | Opus 5.5 | [@anshuc](https://x.com/anshuc) | 3:20 | — |
 | [One-shot AI video edit](https://x.com/FxChaos/status/2102990431940415738) | Opus 5.5 | [@FxChaos](https://x.com/FxChaos) | 1:09 | — |
 | [Generative music theory composition in code](https://x.com/dadabots/status/2103039181266338276) | Opus 5.5 | [@dadabots](https://x.com/dadabots) | 0:24 | — |
@@ -59,9 +60,11 @@
 | [Opus 5.5 video production demo](https://x.com/dabit3/status/2103523033264656464) | Opus 5.5 | [@dabit3](https://x.com/dabit3) | 0:44 | — |
 | [Digital human video generated from a long article](https://x.com/ai_xiaomu/status/2103841202055548972) | Opus 5.5 | [@ai_xiaomu](https://x.com/ai_xiaomu) | 1:26 | — |
 | [AI video editing demo](https://x.com/paji_a/status/2103640596959392141) | Opus 5.5 | [@paji_a](https://x.com/paji_a) | 0:52 | — |
+| [RISC-V emulator built in VRChat shader](https://x.com/Michael_Moroz_/status/2107713497224130638) | Opus 5.5 | [@Michael_Moroz_](https://x.com/Michael_Moroz_) | 3:11 | — |
 | [Multi-agent context management workflow](https://x.com/FornYapayZeka/status/2103586049327079885) | Opus 5.5 | [@FornYapayZeka](https://x.com/FornYapayZeka) | 0:59 | — |
 | [Design workflow from Cinema4D to live Shopify theme](https://x.com/StefanoMahfuz/status/2105677733472653380) | Opus 5.5 | [@StefanoMahfuz](https://x.com/StefanoMahfuz) | 0:29 | — |
 | [AI pipeline short video with Opus 5.5](https://x.com/AIWarper/status/2105370568178479476) | Opus 5.5 | [@AIWarper](https://x.com/AIWarper) | 0:30 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2105370568178479476) |
+| [Automated VFX generation pipeline for games](https://x.com/KanaWorks_AI/status/2107752774423511539) | Opus 5.5 | [@KanaWorks_AI](https://x.com/KanaWorks_AI) | 0:32 | — |
 | [AI-edited travel vlog](https://x.com/dashiAIxz/status/2106091485125091695) | Opus 5.5 | [@dashiAIxz](https://x.com/dashiAIxz) | 4:25 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2106091485125091695) |
 | [Anime-style MAD video mashup](https://x.com/VincentWei93/status/2103415186086674920) | Opus 5.5 | [@VincentWei93](https://x.com/VincentWei93) | 0:59 | — |
 | [AI avatar Japanese voice comparison video](https://x.com/nakazakifam/status/2105898430967009547) | Opus 5.5 | [@nakazakifam](https://x.com/nakazakifam) | 5:13 | — |
@@ -103,5 +106,6 @@
 | [AI Music Video with Automated Production](https://x.com/maxescu/status/2106395987996536913) | Opus 5.5 | [@maxescu](https://x.com/maxescu) | 3:20 | — |
 | [Custom video editor app built with AI](https://x.com/SoyMrBro/status/2103135398226735139) | Opus 5.5 | [@SoyMrBro](https://x.com/SoyMrBro) | 0:31 | — |
 | [Article-to-video generation for social posting](https://x.com/affnom_y/status/2103722878697083380) | Opus 5.5 | [@affnom_y](https://x.com/affnom_y) | 0:26 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103722878697083380) |
+| [Lyric music video built with Opus 5.5 and EffectCraft](https://x.com/wtry1102/status/2107744155007062101) | Opus 5.5 | [@wtry1102](https://x.com/wtry1102) | 1:51 | — |
 | [Multi-tool AI video production piece](https://x.com/MakeAI_CEO/status/2102955436957983065) | Opus 5.5 | [@MakeAI_CEO](https://x.com/MakeAI_CEO) | 9:28 | — |
 | [Channel intro video edited from clips](https://x.com/kazunoko575/status/2103390803192352888) | Opus 5.5 | [@kazunoko575](https://x.com/kazunoko575) | 0:52 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103390803192352888) |

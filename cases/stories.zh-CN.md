@@ -1,6 +1,6 @@
 # 角色故事
 
-共 141 个作品，其中 35 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 142 个作品，其中 36 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [水墨动画《小蝌蚪找妈妈》](https://x.com/akokoi1/status/2102699703309898026) | Opus 5.5 | [@akokoi1](https://x.com/akokoi1) | 3:55 | — |
 | [中秋动画短片正式版发布](https://x.com/ring_hyacinth/status/2103476866917290441) | Opus 5.5 | [@ring_hyacinth](https://x.com/ring_hyacinth) | 0:41 | — |
 | [用说唱MV演绎的论文解读视频](https://x.com/Tz_2022/status/2103683260144292176) | Opus 5.5 | [@Tz_2022](https://x.com/Tz_2022) | 3:43 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103683260144292176) |
+| [奔跑的炸鸡腿角色动画](https://x.com/whydeso/status/2107754210746134748) | Opus 5.5 | [@whydeso](https://x.com/whydeso) | 0:17 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2107754210746134748) |
 | [由歌曲生成的AI动漫音乐视频](https://x.com/spawn/status/2103601538551918743) | Opus 5.5 | [@spawn](https://x.com/spawn) | 3:16 | — |
 | [外星人探索巴别图书馆](https://x.com/jackclarkSF/status/2103569043836027339) | Opus 5.5 | [@jackclarkSF](https://x.com/jackclarkSF) | 1:00 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103569043836027339) |
 | [乐高星球大战片头重现](https://x.com/ChrisGPT/status/2103976291699728742) | Opus 5.5 | [@ChrisGPT](https://x.com/ChrisGPT) | 1:37 | — |

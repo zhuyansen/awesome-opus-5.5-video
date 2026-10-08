@@ -1,6 +1,6 @@
 # Product demos & ads
 
-175 works, 34 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+176 works, 34 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [AI ad agency workflow with Meta Ads MCP](https://x.com/PrajwalTomar_/status/2103862956211704144) | Opus 5.5 | [@PrajwalTomar_](https://x.com/PrajwalTomar_) | 0:25 | — |
 | [Dashboard built with one prompt](https://x.com/sparkpxldesign/status/2102808261389058079) | Opus 5.5 | [@sparkpxldesign](https://x.com/sparkpxldesign) | 0:34 | — |
 | [30-Second Product Promo](https://x.com/shownotover/status/2104124596957933687) | Opus 5.5 | [@shownotover](https://x.com/shownotover) | 0:30 | — |
+| [BlitzClean Mac utility demo video](https://x.com/virgilerietsch/status/2107463995070291985) | Opus 5.5 | [@virgilerietsch](https://x.com/virgilerietsch) | 0:15 | — |
 | [iPhone Duo app redesign demo video](https://x.com/anshuc/status/2103598854801084824) | Opus 5.5 | [@anshuc](https://x.com/anshuc) | 1:00 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103598854801084824) |
 | [Trade Journal open-source app edit](https://x.com/LuxAlgo/status/2104668775798739107) | Opus 5.5 | [@LuxAlgo](https://x.com/LuxAlgo) | 0:30 | — |
 | [Apple-style product launch video](https://x.com/twoclipping/status/2103835273813496100) | Opus 5.5 | [@twoclipping](https://x.com/twoclipping) | 0:29 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103835273813496100) |
@@ -97,7 +98,7 @@
 | [Product redesign showcase video](https://x.com/Groovy_HQ/status/2103597420873646509) | Opus 5.5 | [@Groovy_HQ](https://x.com/Groovy_HQ) | 0:15 | — |
 | [Interactive case-study animation](https://x.com/arjmahesh/status/2103201004850172258) | Opus 5.5 | [@arjmahesh](https://x.com/arjmahesh) | 0:29 | — |
 | [Furniture-to-3D interior design app](https://x.com/higgsfield_ai/status/2102618445489795448) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:32 | — |
-| [Cinematic product launch film](https://x.com/AbhinavXJ/status/2104805179401068964) | Opus 5.5 / Sonnet 5.5 | [@AbhinavXJ](https://x.com/AbhinavXJ) | 1:40 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104805179401068964) |
+| [Cinematic product launch film](https://x.com/AbhinavXJ/status/2104805179401068964) | Opus 5.5 / Sonnet 5.5 / Haiku 5.5 | [@AbhinavXJ](https://x.com/AbhinavXJ) | 1:40 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104805179401068964) |
 | [Software intro video generated from codebase](https://x.com/gesoikuo3/status/2103723885204254734) | Opus 5.5 | [@gesoikuo3](https://x.com/gesoikuo3) | 0:50 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103723885204254734) |
 | [Free AI ad video generated in code](https://x.com/Lucas_IA_/status/2102757164158689759) | Opus 5.5 | [@Lucas_IA_](https://x.com/Lucas_IA_) | 1:12 | — |
 | [Multiple app design variations demo](https://x.com/heycape_/status/2102671212598132975) | Opus 5.5 | [@heycape_](https://x.com/heycape_) | 0:18 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102671212598132975) |

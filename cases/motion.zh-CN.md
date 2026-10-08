@@ -1,6 +1,6 @@
 # 动效设计
 
-共 230 个作品，其中 82 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 231 个作品，其中 82 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -220,6 +220,7 @@
 | [带品牌视觉的动效设计师展示片](https://x.com/lukasersil/status/2103742861971726495) | Opus 5.5 | [@lukasersil](https://x.com/lukasersil) | 0:15 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103742861971726495) |
 | [mounis.app 应用发布动效片](https://x.com/MustaphaFenzar/status/2103708363074973906) | Opus 5.5 | [@MustaphaFenzar](https://x.com/MustaphaFenzar) | 0:15 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103708363074973906) |
 | [PUNCTUM点阵字体互动网站](https://x.com/sundyme/status/2107108673407627533) | Opus 5.5 | [@sundyme](https://x.com/sundyme) | 1:06 | — |
+| [教师节主题手写动效短片](https://x.com/youssef_aymanc/status/2107466191178711054) | Opus 5.5 | [@youssef_aymanc](https://x.com/youssef_aymanc) | 0:33 | — |
 | [代码生成的扁平插画鼹鼠动画](https://x.com/onofumi_AI/status/2102696204249526348) | Opus 5.5 | [@onofumi_AI](https://x.com/onofumi_AI) | 0:20 | — |
 | [混乱风格的短视频动效](https://x.com/kloss_xyz/status/2103664956482941143) | Opus 5.5 | [@kloss_xyz](https://x.com/kloss_xyz) | 2:34 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103664956482941143) |
 | [搞怪表情照片代码动画化](https://x.com/jAlpha_create/status/2103787665569272247) | Opus 5.5 | [@jAlpha_create](https://x.com/jAlpha_create) | 0:15 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103787665569272247) |

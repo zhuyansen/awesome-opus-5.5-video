@@ -1,6 +1,6 @@
 # 制作流程
 
-共 101 个作品，其中 18 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 105 个作品，其中 18 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Opus5.5配合Gemini语音合成演示](https://x.com/YoheiN2023/status/2103590367518171295) | Opus 5.5 | [@YoheiN2023](https://x.com/YoheiN2023) | 0:15 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103590367518171295) |
 | [After Effects自动化处理AI视频测试](https://x.com/aicreataro/status/2102656273112326609) | Opus 5.5 | [@aicreataro](https://x.com/aicreataro) | 0:15 | — |
 | [未用剪辑软件制作的Pivot风格视频](https://x.com/shupeiman/status/2105191698523729997) | Opus 5.5 | [@shupeiman](https://x.com/shupeiman) | 1:01 | — |
+| [梗图风格视频剪辑](https://x.com/blueemi99/status/2107459553369760024) | Fable 5.5 (preview) | [@blueemi99](https://x.com/blueemi99) | 0:30 | — |
 | [本地制作的动画音乐视频](https://x.com/anshuc/status/2106131543752122774) | Opus 5.5 | [@anshuc](https://x.com/anshuc) | 3:20 | — |
 | [一次性生成的AI视频剪辑](https://x.com/FxChaos/status/2102990431940415738) | Opus 5.5 | [@FxChaos](https://x.com/FxChaos) | 1:09 | — |
 | [代码生成的音乐理论作品](https://x.com/dadabots/status/2103039181266338276) | Opus 5.5 | [@dadabots](https://x.com/dadabots) | 0:24 | — |
@@ -59,9 +60,11 @@
 | [Opus 5.5视频制作演示](https://x.com/dabit3/status/2103523033264656464) | Opus 5.5 | [@dabit3](https://x.com/dabit3) | 0:44 | — |
 | [由长文一键生成的数字人视频](https://x.com/ai_xiaomu/status/2103841202055548972) | Opus 5.5 | [@ai_xiaomu](https://x.com/ai_xiaomu) | 1:26 | — |
 | [AI视频剪辑演示](https://x.com/paji_a/status/2103640596959392141) | Opus 5.5 | [@paji_a](https://x.com/paji_a) | 0:52 | — |
+| [VRChat着色器中构建的RISC-V模拟器](https://x.com/Michael_Moroz_/status/2107713497224130638) | Opus 5.5 | [@Michael_Moroz_](https://x.com/Michael_Moroz_) | 3:11 | — |
 | [多智能体上下文管理工作流](https://x.com/FornYapayZeka/status/2103586049327079885) | Opus 5.5 | [@FornYapayZeka](https://x.com/FornYapayZeka) | 0:59 | — |
 | [从Cinema4D到Shopify主题的设计流程](https://x.com/StefanoMahfuz/status/2105677733472653380) | Opus 5.5 | [@StefanoMahfuz](https://x.com/StefanoMahfuz) | 0:29 | — |
 | [Opus 5.5多工具协作生成短视频](https://x.com/AIWarper/status/2105370568178479476) | Opus 5.5 | [@AIWarper](https://x.com/AIWarper) | 0:30 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2105370568178479476) |
+| [游戏自动VFX生成流水线](https://x.com/KanaWorks_AI/status/2107752774423511539) | Opus 5.5 | [@KanaWorks_AI](https://x.com/KanaWorks_AI) | 0:32 | — |
 | [AI剪辑旅行视频日志](https://x.com/dashiAIxz/status/2106091485125091695) | Opus 5.5 | [@dashiAIxz](https://x.com/dashiAIxz) | 4:25 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2106091485125091695) |
 | [动漫风格剪辑混剪视频](https://x.com/VincentWei93/status/2103415186086674920) | Opus 5.5 | [@VincentWei93](https://x.com/VincentWei93) | 0:59 | — |
 | [AI虚拟主播日语语音对比视频](https://x.com/nakazakifam/status/2105898430967009547) | Opus 5.5 | [@nakazakifam](https://x.com/nakazakifam) | 5:13 | — |
@@ -103,5 +106,6 @@
 | [自动化制作的AI音乐视频](https://x.com/maxescu/status/2106395987996536913) | Opus 5.5 | [@maxescu](https://x.com/maxescu) | 3:20 | — |
 | [AI搭建的自制视频编辑器](https://x.com/SoyMrBro/status/2103135398226735139) | Opus 5.5 | [@SoyMrBro](https://x.com/SoyMrBro) | 0:31 | — |
 | [根据文章自动生成视频并发布](https://x.com/affnom_y/status/2103722878697083380) | Opus 5.5 | [@affnom_y](https://x.com/affnom_y) | 0:26 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103722878697083380) |
+| [用Opus 5.5和EffectCraft制作的歌词MV](https://x.com/wtry1102/status/2107744155007062101) | Opus 5.5 | [@wtry1102](https://x.com/wtry1102) | 1:51 | — |
 | [多工具AI视频制作作品](https://x.com/MakeAI_CEO/status/2102955436957983065) | Opus 5.5 | [@MakeAI_CEO](https://x.com/MakeAI_CEO) | 9:28 | — |
 | [用素材剪辑的频道介绍视频](https://x.com/kazunoko575/status/2103390803192352888) | Opus 5.5 | [@kazunoko575](https://x.com/kazunoko575) | 0:52 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103390803192352888) |

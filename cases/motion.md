@@ -1,6 +1,6 @@
 # Motion graphics & UI
 
-230 works, 82 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+231 works, 82 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -220,6 +220,7 @@
 | [Motion designer showreel with custom brand kit](https://x.com/lukasersil/status/2103742861971726495) | Opus 5.5 | [@lukasersil](https://x.com/lukasersil) | 0:15 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103742861971726495) |
 | [Launch motion video for mounis.app](https://x.com/MustaphaFenzar/status/2103708363074973906) | Opus 5.5 | [@MustaphaFenzar](https://x.com/MustaphaFenzar) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103708363074973906) |
 | [PUNCTUM dot font interactive site](https://x.com/sundyme/status/2107108673407627533) | Opus 5.5 | [@sundyme](https://x.com/sundyme) | 1:06 | — |
+| [Teacher's Day tribute animation with handwriting effect](https://x.com/youssef_aymanc/status/2107466191178711054) | Opus 5.5 | [@youssef_aymanc](https://x.com/youssef_aymanc) | 0:33 | — |
 | [Flat illustration mole animation via code](https://x.com/onofumi_AI/status/2102696204249526348) | Opus 5.5 | [@onofumi_AI](https://x.com/onofumi_AI) | 0:20 | — |
 | [Chaotic brain-rot style motion video](https://x.com/kloss_xyz/status/2103664956482941143) | Opus 5.5 | [@kloss_xyz](https://x.com/kloss_xyz) | 2:34 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103664956482941143) |
 | [Funny face photos animated with code](https://x.com/jAlpha_create/status/2103787665569272247) | Opus 5.5 | [@jAlpha_create](https://x.com/jAlpha_create) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103787665569272247) |

@@ -1,6 +1,6 @@
 # Games
 
-230 works, 46 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+233 works, 46 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [One-shot Mario Kart style game](https://x.com/bridgemindai/status/2102451997395866021) | Opus 5.5 | [@bridgemindai](https://x.com/bridgemindai) | 0:52 | — |
 | [Panzer Dragoon recreation](https://x.com/yasei_no_otoko/status/2103868553242058933) | Opus 5.5 | [@yasei_no_otoko](https://x.com/yasei_no_otoko) | 2:47 | — |
 | [Trolley problem game](https://x.com/soyukke_game/status/2102899404336493045) | Opus 5.5 | [@soyukke_game](https://x.com/soyukke_game) | 0:19 | — |
+| [AI iteratively fixes its own game via screenshots](https://x.com/prasenx/status/2107451914954911838) | Opus 5.5 | [@prasenx](https://x.com/prasenx) | 5:20 | — |
 | [1v1 basketball game ISO](https://x.com/databallr/status/2103592504386101512) | Opus 5.5 | [@databallr](https://x.com/databallr) | 0:15 | — |
 | [Endless shooter mobile game](https://x.com/Andrew_Blumson/status/2103861788987068922) | Opus 5.5 | [@Andrew_Blumson](https://x.com/Andrew_Blumson) | 2:06 | — |
 | [Japanese-style boating game](https://x.com/buildwithsid/status/2103198490746900830) | Opus 5.5 | [@buildwithsid](https://x.com/buildwithsid) | 1:11 | — |
@@ -197,6 +198,7 @@
 | [Robot action game in a retro style](https://x.com/shi3z/status/2102671033224622469) | Opus 5.5 | [@shi3z](https://x.com/shi3z) | 0:48 | — |
 | [Fighting game physics mechanics demo](https://x.com/onofumi_AI/status/2102583417208717748) | Opus 5.5 | [@onofumi_AI](https://x.com/onofumi_AI) | 0:31 | — |
 | [Browser game from 'make the most fun game in the world'](https://x.com/coyane_ai/status/2103668069801624015) | Opus 5.5 | [@coyane_ai](https://x.com/coyane_ai) | 1:00 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103668069801624015) |
+| [Terraria rebuilt in 3D](https://x.com/ai_growth_avii/status/2107673916550627508) | Opus 5.5 | [@ai_growth_avii](https://x.com/ai_growth_avii) | 1:05 | — |
 | [Multiplayer browser climbing game clone](https://x.com/_MaxBlade/status/2104763837777854923) | Sonnet 5.5 | [@_MaxBlade](https://x.com/_MaxBlade) | 0:57 | — |
 | [Space-themed multiplayer racing game](https://x.com/Rubzem/status/2105346334069063963) | Opus 5.5 | [@Rubzem](https://x.com/Rubzem) | 0:26 | — |
 | [Open-world fantasy sci-fi game](https://x.com/aniketjart/status/2103642635726680460) | Opus 5.5 | [@aniketjart](https://x.com/aniketjart) | 0:20 | — |
@@ -231,6 +233,7 @@
 | [Rocket Squadron rail shooter](https://x.com/guidorosso/status/2107146407790666085) | Opus 5.5 | [@guidorosso](https://x.com/guidorosso) | 3:02 | — |
 | [One-finger playable Sekiro clone](https://x.com/plum_very/status/2103481769999876528) | Opus 5.5 | [@plum_very](https://x.com/plum_very) | 1:08 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103481769999876528) |
 | [3D Snakeboard game](https://x.com/thebuggeddev/status/2107106516918743153) | Opus 5.5 | [@thebuggeddev](https://x.com/thebuggeddev) | 0:58 | — |
+| [Minecraft Content in Red Dead Redemption 2](https://x.com/Roxx_0x/status/2107698613379838294) | Opus 5.5 | [@Roxx_0x](https://x.com/Roxx_0x) | 1:11 | — |
 | [Vibe-coded platformer experience](https://x.com/chetanankola/status/2103730428901498972) | Opus 5.5 | [@chetanankola](https://x.com/chetanankola) | 1:04 | — |
 | [Indie game development progress](https://x.com/iritec_jp/status/2102651240685744597) | Opus 5.5 | [@iritec_jp](https://x.com/iritec_jp) | 0:39 | — |
 | [Fighting game inspired by a mecha series](https://x.com/elefolo2/status/2103310890716266620) | Opus 5.5 | [@elefolo2](https://x.com/elefolo2) | 0:34 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103310890716266620) |
