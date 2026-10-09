@@ -1,6 +1,6 @@
 # Characters & stories
 
-142 works, 36 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+144 works, 37 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [LEGO Star Wars intro recreation](https://x.com/ChrisGPT/status/2103976291699728742) | Opus 5.5 | [@ChrisGPT](https://x.com/ChrisGPT) | 1:37 | — |
 | [AI travel journal animation](https://x.com/arni0x9053/status/2103143902723096848) | Opus 5.5 | [@arni0x9053](https://x.com/arni0x9053) | 1:34 | — |
 | [AI capability growth training montage](https://x.com/ishuagra02/status/2102788371114246177) | Opus 5.5 | [@ishuagra02](https://x.com/ishuagra02) | 0:30 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102788371114246177) |
+| [Character select screen fight video](https://x.com/aimikoda/status/2107828212042473886) | Opus 5.5 | [@aimikoda](https://x.com/aimikoda) | 0:44 | — |
 | [Anime character animation drawn in JavaScript](https://x.com/doerstokyo342/status/2105794894383968649) | Opus 5.5 | [@doerstokyo342](https://x.com/doerstokyo342) | 0:30 | — |
 | [Artificial Creativity](https://x.com/IntuitMachine/status/2105941630885016018) | Opus 5.5 | [@IntuitMachine](https://x.com/IntuitMachine) | 34:19 | — |
 | [Strait of Hormuz debate animation](https://x.com/chetaslua/status/2106060047805792415) | Fable 5.5 (preview) | [@chetaslua](https://x.com/chetaslua) | 1:04 | — |
@@ -136,6 +137,7 @@
 | [What fear feels like to a superintelligence](https://x.com/jtevesobs/status/2106973139368296606) | Opus 5.5 | [@jtevesobs](https://x.com/jtevesobs) | 3:43 | — |
 | [Day in the life of Clawd (Claude mascot)](https://x.com/vikktorrrre/status/2102702170986463421) | Opus 5.5 | [@vikktorrrre](https://x.com/vikktorrrre) | 1:04 | — |
 | [Upbeat Heart Sutra music video](https://x.com/nishio/status/2103494810720198914) | Opus 5.5 | [@nishio](https://x.com/nishio) | 3:04 | — |
+| [History of humanity sketch animation](https://x.com/oalanicolas/status/2107958931230241037) | Fable 5.5 (preview) | [@oalanicolas](https://x.com/oalanicolas) | 1:29 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2107958931230241037) |
 | [Visualization of Persian poems](https://x.com/kimziify/status/2103784499125559530) | Opus 5.5 | [@kimziify](https://x.com/kimziify) | 0:16 | — |
 | [Cthulhu mythos animated short (code-only)](https://x.com/yachimat_manga/status/2102531524663099868) | Opus 5.5 | [@yachimat_manga](https://x.com/yachimat_manga) | 1:01 | — |
 | [Pixel-art character rigged and animated by code](https://x.com/MindGate_dev/status/2103712991409774609) | Opus 5.5 | [@MindGate_dev](https://x.com/MindGate_dev) | 0:25 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103712991409774609) |

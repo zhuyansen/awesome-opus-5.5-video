@@ -1,6 +1,6 @@
 # Model comparisons
 
-186 works, 53 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+189 works, 54 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Interactive 3D stained-glass hibiscus flower](https://x.com/ivanainai/status/2105328178051092804) | Opus 5.5 | [@ivanainai](https://x.com/ivanainai) | 1:00 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2105328178051092804) |
 | [Night train build: four-model comparison](https://x.com/EnvolDev/status/2103282586055213355) | Opus 5.5 | [@EnvolDev](https://x.com/EnvolDev) | 0:25 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103282586055213355) |
 | [Opus 5.5 vs GPT-6 Astra Unreal Engine game build](https://x.com/higgsfield_ai/status/2102552885531926914) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:12 | — |
+| [Interactive plush shark side-by-side](https://x.com/vib3coded/status/2107773295676227691) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:18 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2107773295676227691) |
 | [3D rocket launch scene model comparison](https://x.com/bridgebench/status/2102476831031017581) | Opus 5.5 | [@bridgebench](https://x.com/bridgebench) | 0:10 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102476831031017581) |
 | [Open-world India game: launch day vs now](https://x.com/BuildFastWithAI/status/2105866257174298841) | Opus 5.5 / Sonnet 5.5 | [@BuildFastWithAI](https://x.com/BuildFastWithAI) | 1:24 | — |
 | [Volcanic island 3D scene version comparison](https://x.com/vib3coded/status/2102450239923720440) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:20 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102450239923720440) |
@@ -188,5 +189,7 @@
 | [Opus 5.5 vs Astra token usage as robotic policy](https://x.com/dimentary/status/2103574284576977325) | Opus 5.5 | [@dimentary](https://x.com/dimentary) | 1:16 | — |
 | [Landing page build, two-model comparison](https://x.com/blueemi99/status/2104682412840284410) | Sonnet 5.5 | [@blueemi99](https://x.com/blueemi99) | 0:45 | — |
 | [Robot software and marketing comparison](https://x.com/bijanbowen/status/2105949902274453766) | Sonnet 5.5 | [@bijanbowen](https://x.com/bijanbowen) | 3:01 | — |
+| [Neon shooter video model comparison](https://x.com/kepochnik/status/2107769950068998375) | Opus 5.5 | [@kepochnik](https://x.com/kepochnik) | 0:30 | — |
 | [Pachinko effect: Opus 5.5 version](https://x.com/priketsu_game/status/2102567925622411695) | Opus 5.5 | [@priketsu_game](https://x.com/priketsu_game) | 0:30 | — |
 | [Opus vs Astra diorama comparison (Blender)](https://x.com/sino1782013/status/2103449301838078098) | Opus 5.5 | [@sino1782013](https://x.com/sino1782013) | 0:56 | — |
+| [Code painting model comparison](https://x.com/kickingkeys/status/2107930687592624268) | Sonnet 5.5 / Haiku 5.5 | [@kickingkeys](https://x.com/kickingkeys) | 0:08 | — |

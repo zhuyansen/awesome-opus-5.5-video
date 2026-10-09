@@ -1,6 +1,6 @@
 # Music, editing & production
 
-105 works, 18 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+107 works, 18 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -29,9 +29,11 @@
 | [Reply song and music video](https://x.com/sayashk/status/2105704922499150308) | Opus 5.5 | [@sayashk](https://x.com/sayashk) | 3:27 | — |
 | [Automated talking-head video editing pipeline](https://x.com/leaf_sanren/status/2102745561732419772) | Opus 5.5 | [@leaf_sanren](https://x.com/leaf_sanren) | 0:18 | — |
 | [Archival footage music video edit](https://x.com/bitstein/status/2104040489301295502) | Opus 5.5 | [@bitstein](https://x.com/bitstein) | 1:54 | — |
+| [Custom eye-blink transition preset for Premiere Pro](https://x.com/jboogx_creative/status/2107779118091943941) | Opus 5.5 | [@jboogx_creative](https://x.com/jboogx_creative) | 1:04 | — |
 | [AI-generated video animatics for lesson planning](https://x.com/mattpocockuk/status/2105212971307667862) | Opus 5.5 | [@mattpocockuk](https://x.com/mattpocockuk) | 8:31 | — |
 | [AI-edited talking-head video](https://x.com/sab8a/status/2103144778481475686) | Opus 5.5 | [@sab8a](https://x.com/sab8a) | 0:37 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103144778481475686) |
 | [AI-made hopeful song sequel](https://x.com/nssharpe/status/2103549676234637516) | Opus 5.5 | [@nssharpe](https://x.com/nssharpe) | 2:20 | — |
+| [Recreating a video as an editable After Effects project](https://x.com/gmharhar/status/2107936315081986480) | Opus 5.5 | [@gmharhar](https://x.com/gmharhar) | 0:20 | — |
 | [Bilingual Gossip Video](https://x.com/dotey/status/2106144184449085474) | Opus 5.5 | [@dotey](https://x.com/dotey) | 5:51 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2106144184449085474) |
 | [Live2D motion generation via Claude Code](https://x.com/rotejin/status/2103384608301830297) | Opus 5.5 | [@rotejin](https://x.com/rotejin) | 0:27 | — |
 | [Bass music generated with code](https://x.com/aj_dev_smith/status/2102504509637587339) | Opus 5.5 | [@aj_dev_smith](https://x.com/aj_dev_smith) | 2:00 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102504509637587339) |

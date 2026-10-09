@@ -1,6 +1,6 @@
 # Product demos & ads
 
-176 works, 34 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+180 works, 34 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Self-introduction PR video in flat design](https://x.com/mmmiyama_D/status/2103384986661671058) | Opus 5.5 | [@mmmiyama_D](https://x.com/mmmiyama_D) | 0:15 | — |
 | [Natural-language product prototype](https://x.com/bunkaich/status/2106315094070362272) | Opus 5.5 | [@bunkaich](https://x.com/bunkaich) | 1:11 | — |
 | [30-second flat design promo video coded with Claude](https://x.com/mmmiyama_D/status/2103319199817064764) | Opus 5.5 | [@mmmiyama_D](https://x.com/mmmiyama_D) | 0:30 | — |
+| [Interior design redesign visualization](https://x.com/Antonio_RodriIA/status/2107858567952749025) | Opus 5.5 | [@Antonio_RodriIA](https://x.com/Antonio_RodriIA) | 0:40 | — |
 | [Native mini browser rebuilt in Rust and Swift](https://x.com/rauchg/status/2104428800134013205) | Opus 5.5 | [@rauchg](https://x.com/rauchg) | 1:02 | — |
 | [Live website redesign tool demo](https://x.com/0xMovez/status/2103177715125752176) | Opus 5.5 | [@0xMovez](https://x.com/0xMovez) | 0:33 | — |
 | [Promo video for an expense-tracking app](https://x.com/gonahmias/status/2102893439159251247) | Opus 5.5 | [@gonahmias](https://x.com/gonahmias) | 0:38 | — |
@@ -71,6 +72,7 @@
 | [Single-prompt design result](https://x.com/PancaSeptiana/status/2103395361058664888) | Opus 5.5 | [@PancaSeptiana](https://x.com/PancaSeptiana) | 0:06 | — |
 | [Storycast narrated explainer video generator launch](https://x.com/ailker/status/2103235288306774127) | Opus 5.5 | [@ailker](https://x.com/ailker) | 0:10 | — |
 | [Promo video recreated from a reference clip](https://x.com/servasyy_ai/status/2103785302288687268) | Opus 5.5 | [@servasyy_ai](https://x.com/servasyy_ai) | 0:29 | — |
+| [UGC fashion try-on video](https://x.com/abxxai/status/2107847831168196890) | Sonnet 5.5 | [@abxxai](https://x.com/abxxai) | 0:30 | — |
 | [SaaS product trailer](https://x.com/javiiarchive/status/2103501151438323850) | Opus 5.5 | [@javiiarchive](https://x.com/javiiarchive) | 0:15 | — |
 | [Pig Love Notes: An Animated App Promo](https://x.com/jackfriks/status/2103132260589338762) | Opus 5.5 | [@jackfriks](https://x.com/jackfriks) | 0:20 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103132260589338762) |
 | [SaaS product launch video (one shot)](https://x.com/pbteja1998/status/2103176101497651644) | Opus 5.5 | [@pbteja1998](https://x.com/pbteja1998) | 1:05 | — |
@@ -98,7 +100,7 @@
 | [Product redesign showcase video](https://x.com/Groovy_HQ/status/2103597420873646509) | Opus 5.5 | [@Groovy_HQ](https://x.com/Groovy_HQ) | 0:15 | — |
 | [Interactive case-study animation](https://x.com/arjmahesh/status/2103201004850172258) | Opus 5.5 | [@arjmahesh](https://x.com/arjmahesh) | 0:29 | — |
 | [Furniture-to-3D interior design app](https://x.com/higgsfield_ai/status/2102618445489795448) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:32 | — |
-| [Cinematic product launch film](https://x.com/AbhinavXJ/status/2104805179401068964) | Opus 5.5 / Sonnet 5.5 / Haiku 5.5 | [@AbhinavXJ](https://x.com/AbhinavXJ) | 1:40 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104805179401068964) |
+| [Cinematic product launch film](https://x.com/AbhinavXJ/status/2104805179401068964) | Sonnet 5.5 | [@AbhinavXJ](https://x.com/AbhinavXJ) | 1:40 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104805179401068964) |
 | [Software intro video generated from codebase](https://x.com/gesoikuo3/status/2103723885204254734) | Opus 5.5 | [@gesoikuo3](https://x.com/gesoikuo3) | 0:50 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103723885204254734) |
 | [Free AI ad video generated in code](https://x.com/Lucas_IA_/status/2102757164158689759) | Opus 5.5 | [@Lucas_IA_](https://x.com/Lucas_IA_) | 1:12 | — |
 | [Multiple app design variations demo](https://x.com/heycape_/status/2102671212598132975) | Opus 5.5 | [@heycape_](https://x.com/heycape_) | 0:18 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102671212598132975) |
@@ -124,6 +126,7 @@
 | [Website made with Opus 5.5](https://x.com/xevrion_the1/status/2103557513962745923) | Opus 5.5 | [@xevrion_the1](https://x.com/xevrion_the1) | 0:15 | — |
 | [CapLog app update promo video](https://x.com/mommmkan/status/2105242269536354704) | Opus 5.5 | [@mommmkan](https://x.com/mommmkan) | 0:26 | — |
 | [Chart style gallery launch video](https://x.com/mhmazur/status/2105300597888970901) | Opus 5.5 | [@mhmazur](https://x.com/mhmazur) | 0:30 | — |
+| [Bluey voice-controlled Mac app and 3D box](https://x.com/rileybrown/status/2107960241065263265) | Opus 5.5 | [@rileybrown](https://x.com/rileybrown) | 0:40 | — |
 | [Live calendar dashboard](https://x.com/_insan18/status/2106268513644273809) | Opus 5.5 | [@_insan18](https://x.com/_insan18) | 0:20 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2106268513644273809) |
 | [App promotional animation in one prompt](https://x.com/yz_chow/status/2103747696620093644) | Opus 5.5 | [@yz_chow](https://x.com/yz_chow) | 0:42 | — |
 | [Trader profiling and analysis workflow demo](https://x.com/immortalhowwl/status/2103890985650422006) | Opus 5.5 | [@immortalhowwl](https://x.com/immortalhowwl) | 0:33 | — |
@@ -180,3 +183,4 @@
 | [Account introduction video from pinned tweet info](https://x.com/gin1910410/status/2103746670676853047) | Opus 5.5 | [@gin1910410](https://x.com/gin1910410) | 0:54 | — |
 | [Notes app built with Sonnet 5.5](https://x.com/CodingNoobie/status/2104642394503409862) | Sonnet 5.5 | [@CodingNoobie](https://x.com/CodingNoobie) | 0:16 | — |
 | [Sponsorship promo video cut via MCP tools](https://x.com/Ror_Fly/status/2103549390933610685) | Opus 5.5 | [@Ror_Fly](https://x.com/Ror_Fly) | 1:00 | — |
+| [Isometric landing page design](https://x.com/itsnotryan/status/2107842500715065664) | Opus 5.5 | [@itsnotryan](https://x.com/itsnotryan) | 0:08 | — |

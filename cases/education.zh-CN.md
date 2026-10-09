@@ -1,6 +1,6 @@
 # 科普讲解
 
-共 134 个作品，其中 45 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 135 个作品，其中 45 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Manim制作的导数概念教学视频](https://x.com/LinearUncle/status/2103128559174971663) | Opus 5.5 | [@LinearUncle](https://x.com/LinearUncle) | 7:37 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103128559174971663) |
 | [神秘东方文明介绍动画](https://x.com/yanhua1010/status/2103712543168680363) | Opus 5.5 | [@yanhua1010](https://x.com/yanhua1010) | 2:15 | — |
 | [大语言模型内部运作可视化](https://x.com/KimizLlm/status/2106089511411409081) | Opus 5.5 | [@KimizLlm](https://x.com/KimizLlm) | 4:44 | — |
+| [讲解嵌入向量的动画幻灯片](https://x.com/antonioleivag/status/2107833536669532671) | Opus 5.5 | [@antonioleivag](https://x.com/antonioleivag) | 0:42 | — |
 | [二十四节气动画与八卦图](https://x.com/threeaus/status/2103518455404396927) | Opus 5.5 | [@threeaus](https://x.com/threeaus) | 1:03 | — |
 | [印度尼西亚历史动画纪录片](https://x.com/sonnylazuardi/status/2103511590884815282) | Opus 5.5 | [@sonnylazuardi](https://x.com/sonnylazuardi) | 0:53 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103511590884815282) |
 | [给孩子讲解四季与昼夜循环的科普视频](https://x.com/KashPrime/status/2103862007208591605) | Opus 5.5 | [@KashPrime](https://x.com/KashPrime) | 3:06 | — |

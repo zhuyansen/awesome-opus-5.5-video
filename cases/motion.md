@@ -1,6 +1,6 @@
 # Motion graphics & UI
 
-231 works, 82 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+232 works, 83 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -206,6 +206,7 @@
 | [Quick visual effect demo](https://x.com/shironagasu_ai/status/2103542106841075992) | Opus 5.5 | [@shironagasu_ai](https://x.com/shironagasu_ai) | 0:05 | — |
 | [Two-sentence prompt animation result](https://x.com/tomcupr/status/2103776902960042359) | Opus 5.5 | [@tomcupr](https://x.com/tomcupr) | 0:30 | — |
 | [15-second motion designer showreel by @tequilafunks](https://x.com/tequilafunks/status/2103528644828127728) | Opus 5.5 | [@tequilafunks](https://x.com/tequilafunks) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103528644828127728) |
+| [Code-generated pixel art life story film](https://x.com/twoclipping/status/2107822293653041659) | Opus 5.5 | [@twoclipping](https://x.com/twoclipping) | 0:20 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2107822293653041659) |
 | [Motion design showreel exploring "overthinking"](https://x.com/gizakdag/status/2103566030916239768) | Opus 5.5 | [@gizakdag](https://x.com/gizakdag) | 0:15 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103566030916239768) |
 | [Illustrated cinemagraph scene](https://x.com/shironagasu_ai/status/2106299981875347740) | Opus 5.5 | [@shironagasu_ai](https://x.com/shironagasu_ai) | 0:10 | — |
 | [AI-assisted motion graphics video](https://x.com/ai4everyday/status/2105715960220983304) | Opus 5.5 | [@ai4everyday](https://x.com/ai4everyday) | 0:10 | — |

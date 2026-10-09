@@ -1,6 +1,6 @@
 # 动效设计
 
-共 231 个作品，其中 82 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 232 个作品，其中 83 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -206,6 +206,7 @@
 | [快速生成的视觉特效演示](https://x.com/shironagasu_ai/status/2103542106841075992) | Opus 5.5 | [@shironagasu_ai](https://x.com/shironagasu_ai) | 0:05 | — |
 | [两句提示词生成的动画](https://x.com/tomcupr/status/2103776902960042359) | Opus 5.5 | [@tomcupr](https://x.com/tomcupr) | 0:30 | — |
 | [15 秒动效设计师自荐片 · @tequilafunks 版](https://x.com/tequilafunks/status/2103528644828127728) | Opus 5.5 | [@tequilafunks](https://x.com/tequilafunks) | 0:15 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103528644828127728) |
+| [代码生成的像素艺术人生故事短片](https://x.com/twoclipping/status/2107822293653041659) | Opus 5.5 | [@twoclipping](https://x.com/twoclipping) | 0:20 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2107822293653041659) |
 | [以"过度思考"为主题的动效展示片](https://x.com/gizakdag/status/2103566030916239768) | Opus 5.5 | [@gizakdag](https://x.com/gizakdag) | 0:15 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103566030916239768) |
 | [插画电影感动态场景](https://x.com/shironagasu_ai/status/2106299981875347740) | Opus 5.5 | [@shironagasu_ai](https://x.com/shironagasu_ai) | 0:10 | — |
 | [AI辅助制作的动效视频](https://x.com/ai4everyday/status/2105715960220983304) | Opus 5.5 | [@ai4everyday](https://x.com/ai4everyday) | 0:10 | — |

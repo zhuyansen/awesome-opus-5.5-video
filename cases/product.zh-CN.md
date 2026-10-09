@@ -1,6 +1,6 @@
 # 产品广告
 
-共 176 个作品，其中 34 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 180 个作品，其中 34 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [扁平风格自我介绍宣传视频](https://x.com/mmmiyama_D/status/2103384986661671058) | Opus 5.5 | [@mmmiyama_D](https://x.com/mmmiyama_D) | 0:15 | — |
 | [用自然语言制作产品原型](https://x.com/bunkaich/status/2106315094070362272) | Opus 5.5 | [@bunkaich](https://x.com/bunkaich) | 1:11 | — |
 | [用Claude编码制作的30秒扁平风宣传视频](https://x.com/mmmiyama_D/status/2103319199817064764) | Opus 5.5 | [@mmmiyama_D](https://x.com/mmmiyama_D) | 0:30 | — |
+| [室内设计改造可视化](https://x.com/Antonio_RodriIA/status/2107858567952749025) | Opus 5.5 | [@Antonio_RodriIA](https://x.com/Antonio_RodriIA) | 0:40 | — |
 | [用Rust和Swift重构的原生迷你浏览器](https://x.com/rauchg/status/2104428800134013205) | Opus 5.5 | [@rauchg](https://x.com/rauchg) | 1:02 | — |
 | [实时网站重设计工具演示](https://x.com/0xMovez/status/2103177715125752176) | Opus 5.5 | [@0xMovez](https://x.com/0xMovez) | 0:33 | — |
 | [记账应用宣传视频](https://x.com/gonahmias/status/2102893439159251247) | Opus 5.5 | [@gonahmias](https://x.com/gonahmias) | 0:38 | — |
@@ -71,6 +72,7 @@
 | [单条提示生成的设计成果](https://x.com/PancaSeptiana/status/2103395361058664888) | Opus 5.5 | [@PancaSeptiana](https://x.com/PancaSeptiana) | 0:06 | — |
 | [Storycast旁白解说视频生成器上线](https://x.com/ailker/status/2103235288306774127) | Opus 5.5 | [@ailker](https://x.com/ailker) | 0:10 | — |
 | [参考视频复刻的宣传片](https://x.com/servasyy_ai/status/2103785302288687268) | Opus 5.5 | [@servasyy_ai](https://x.com/servasyy_ai) | 0:29 | — |
+| [UGC风格服装试穿短片](https://x.com/abxxai/status/2107847831168196890) | Sonnet 5.5 | [@abxxai](https://x.com/abxxai) | 0:30 | — |
 | [SaaS产品预告片](https://x.com/javiiarchive/status/2103501151438323850) | Opus 5.5 | [@javiiarchive](https://x.com/javiiarchive) | 0:15 | — |
 | [小猪寄情书：应用宣传动画](https://x.com/jackfriks/status/2103132260589338762) | Opus 5.5 | [@jackfriks](https://x.com/jackfriks) | 0:20 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103132260589338762) |
 | [SaaS产品发布视频（一次生成）](https://x.com/pbteja1998/status/2103176101497651644) | Opus 5.5 | [@pbteja1998](https://x.com/pbteja1998) | 1:05 | — |
@@ -98,7 +100,7 @@
 | [产品改版展示视频](https://x.com/Groovy_HQ/status/2103597420873646509) | Opus 5.5 | [@Groovy_HQ](https://x.com/Groovy_HQ) | 0:15 | — |
 | [互动案例研究动画演示](https://x.com/arjmahesh/status/2103201004850172258) | Opus 5.5 | [@arjmahesh](https://x.com/arjmahesh) | 0:29 | — |
 | [家具照片转3D室内设计应用](https://x.com/higgsfield_ai/status/2102618445489795448) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:32 | — |
-| [电影感产品发布影片](https://x.com/AbhinavXJ/status/2104805179401068964) | Opus 5.5 / Sonnet 5.5 / Haiku 5.5 | [@AbhinavXJ](https://x.com/AbhinavXJ) | 1:40 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104805179401068964) |
+| [电影感产品发布影片](https://x.com/AbhinavXJ/status/2104805179401068964) | Sonnet 5.5 | [@AbhinavXJ](https://x.com/AbhinavXJ) | 1:40 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104805179401068964) |
 | [根据软件代码生成的介绍视频](https://x.com/gesoikuo3/status/2103723885204254734) | Opus 5.5 | [@gesoikuo3](https://x.com/gesoikuo3) | 0:50 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103723885204254734) |
 | [用代码免费生成的AI广告视频](https://x.com/Lucas_IA_/status/2102757164158689759) | Opus 5.5 | [@Lucas_IA_](https://x.com/Lucas_IA_) | 1:12 | — |
 | [多版本App设计方案演示](https://x.com/heycape_/status/2102671212598132975) | Opus 5.5 | [@heycape_](https://x.com/heycape_) | 0:18 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102671212598132975) |
@@ -124,6 +126,7 @@
 | [用Opus5.5制作的网站](https://x.com/xevrion_the1/status/2103557513962745923) | Opus 5.5 | [@xevrion_the1](https://x.com/xevrion_the1) | 0:15 | — |
 | [CapLog应用更新宣传视频](https://x.com/mommmkan/status/2105242269536354704) | Opus 5.5 | [@mommmkan](https://x.com/mommmkan) | 0:26 | — |
 | [图表样式库发布视频](https://x.com/mhmazur/status/2105300597888970901) | Opus 5.5 | [@mhmazur](https://x.com/mhmazur) | 0:30 | — |
+| [Bluey语音控制Mac应用与3D打印盒](https://x.com/rileybrown/status/2107960241065263265) | Opus 5.5 | [@rileybrown](https://x.com/rileybrown) | 0:40 | — |
 | [实时日历仪表板](https://x.com/_insan18/status/2106268513644273809) | Opus 5.5 | [@_insan18](https://x.com/_insan18) | 0:20 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2106268513644273809) |
 | [一句话生成的App宣传动画](https://x.com/yz_chow/status/2103747696620093644) | Opus 5.5 | [@yz_chow](https://x.com/yz_chow) | 0:42 | — |
 | [交易者画像分析工作流演示](https://x.com/immortalhowwl/status/2103890985650422006) | Opus 5.5 | [@immortalhowwl](https://x.com/immortalhowwl) | 0:33 | — |
@@ -180,3 +183,4 @@
 | [根据置顶推文信息制作的账号介绍视频](https://x.com/gin1910410/status/2103746670676853047) | Opus 5.5 | [@gin1910410](https://x.com/gin1910410) | 0:54 | — |
 | [用Sonnet 5.5搭建的笔记应用](https://x.com/CodingNoobie/status/2104642394503409862) | Sonnet 5.5 | [@CodingNoobie](https://x.com/CodingNoobie) | 0:16 | — |
 | [通过MCP工具剪辑的赞助宣传片](https://x.com/Ror_Fly/status/2103549390933610685) | Opus 5.5 | [@Ror_Fly](https://x.com/Ror_Fly) | 1:00 | — |
+| [等距风格落地页设计](https://x.com/itsnotryan/status/2107842500715065664) | Opus 5.5 | [@itsnotryan](https://x.com/itsnotryan) | 0:08 | — |
