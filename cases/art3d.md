@@ -1,6 +1,6 @@
 # 3D worlds & simulations
 
-200 works, 48 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+204 works, 49 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -9,6 +9,7 @@
 | [4D gaussian splat reconstruction from video](https://x.com/bilawalsidhu/status/2102598907817587141) | Opus 5.5 | [@bilawalsidhu](https://x.com/bilawalsidhu) | 0:22 | — |
 | [Procedural ocean island simulation](https://x.com/dangreenheck/status/2102878170089169235) | Opus 5.5 | [@dangreenheck](https://x.com/dangreenheck) | 3:47 | — |
 | [Scene built from a shared viral prompt](https://x.com/pleometric/status/2103082510607610023) | Opus 5.5 | [@pleometric](https://x.com/pleometric) | 2:37 | — |
+| [Procedural endless city running in browser](https://x.com/RyanSael/status/2108203997480063196) | Opus 5.5 | [@RyanSael](https://x.com/RyanSael) | 0:53 | — |
 | [Jelly watermelon slicing simulation](https://x.com/vib3coded/status/2104285370951012504) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:18 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104285370951012504) |
 | [Tropical water simulation in virtual world](https://x.com/Data01/status/2104406657216237990) | Opus 5.5 | [@Data01](https://x.com/Data01) | 0:21 | — |
 | [Playable boat scene through Japanese landscapes](https://x.com/MengTo/status/2102760783344189761) | Opus 5.5 | [@MengTo](https://x.com/MengTo) | 1:00 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102760783344189761) |
@@ -120,6 +121,7 @@
 | [Unreal and Blender rendered scene](https://x.com/HamidoFx1/status/2105626720573468818) | Opus 5.5 | [@HamidoFx1](https://x.com/HamidoFx1) | 0:20 | — |
 | [Result of a wild creative request](https://x.com/Sonecarox/status/2103126446403379220) | Opus 5.5 | [@Sonecarox](https://x.com/Sonecarox) | 3:21 | — |
 | [Underwater palace built in Blender](https://x.com/Ayu_AI_0912/status/2103669801554264378) | Opus 5.5 | [@Ayu_AI_0912](https://x.com/Ayu_AI_0912) | 0:24 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103669801554264378) |
+| [Interactive weather world in a glass box](https://x.com/LexnLin/status/2108159248148611292) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 1:02 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2108159248148611292) |
 | [Browser-based 3D scene](https://x.com/KhalidDevLog/status/2106957256247902272) | Opus 5.5 | [@KhalidDevLog](https://x.com/KhalidDevLog) | 1:28 | — |
 | [2.5D pixel art rainy courtyard scene](https://x.com/KanaWorks_AI/status/2102801635638673762) | Opus 5.5 | [@KanaWorks_AI](https://x.com/KanaWorks_AI) | 0:57 | — |
 | [Cinematic 3D world with a free camera](https://x.com/LexnLin/status/2103194052850241739) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 1:24 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103194052850241739) |
@@ -196,6 +198,7 @@
 | [Isometric 3D Scene](https://x.com/itsnotryan/status/2107013497813172593) | Opus 5.5 | [@itsnotryan](https://x.com/itsnotryan) | 0:07 | — |
 | [3D streaming room built from pixel art](https://x.com/balaena01/status/2103450061275586618) | Opus 5.5 | [@balaena01](https://x.com/balaena01) | 0:14 | — |
 | [Cyberpunk pixel art animation](https://x.com/L_ARCH_01/status/2103137546662515107) | Opus 5.5 | [@L_ARCH_01](https://x.com/L_ARCH_01) | 1:04 | — |
+| [Interactive humanoid robot teardown model](https://x.com/techartist_/status/2108233726094365172) | Opus 5.5 | [@techartist_](https://x.com/techartist_) | 0:40 | — |
 | [Marble music machine 3D animation](https://x.com/aj_dev_smith/status/2107956617337885077) | Opus 5.5 | [@aj_dev_smith](https://x.com/aj_dev_smith) | 1:06 | — |
 | [Rainy Japanese garden deer scarer simulation](https://x.com/mizugame_22/status/2103822799580307674) | Opus 5.5 | [@mizugame_22](https://x.com/mizugame_22) | 0:15 | — |
 | [JRPG-style voxel scene made in Blender](https://x.com/gunsturn_tw/status/2103089094666686850) | Opus 5.5 | [@gunsturn_tw](https://x.com/gunsturn_tw) | 1:00 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103089094666686850) |
@@ -204,3 +207,4 @@
 | [Voxel pagoda](https://x.com/LuminaBench/status/2107965327040475264) | Haiku 5.5 | [@LuminaBench](https://x.com/LuminaBench) | 0:13 | — |
 | [Particle water simulation with raymarching](https://x.com/hartspecs/status/2105715231884468384) | Opus 5.5 | [@hartspecs](https://x.com/hartspecs) | 0:21 | — |
 | [Superintelligence era scene](https://x.com/HarshithLucky3/status/2105765253799903602) | Fable 5.5 (preview) | [@HarshithLucky3](https://x.com/HarshithLucky3) | 0:40 | — |
+| [Real-time UE5 VJ visuals excerpt](https://x.com/MasanoriYoshii/status/2108198854017606086) | Opus 5.5 | [@MasanoriYoshii](https://x.com/MasanoriYoshii) | 1:00 | — |

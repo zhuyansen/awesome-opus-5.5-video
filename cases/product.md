@@ -1,6 +1,6 @@
 # Product demos & ads
 
-180 works, 34 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+185 works, 34 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [CRM app built via a multi-agent workflow](https://x.com/adomicael/status/2103188137220427958) | Opus 5.5 | [@adomicael](https://x.com/adomicael) | 0:36 | — |
 | [AI algorithmic trading bot demo](https://x.com/milesdeutscher/status/2103149036933165110) | Opus 5.5 | [@milesdeutscher](https://x.com/milesdeutscher) | 0:13 | — |
 | [Multi-industry survey service demo video](https://x.com/studio_veco/status/2104115161158291465) | Opus 5.5 | [@studio_veco](https://x.com/studio_veco) | 0:30 | — |
+| [Wildfire progression tracking tool](https://x.com/DilumSanjaya/status/2108241054298415258) | Opus 5.5 | [@DilumSanjaya](https://x.com/DilumSanjaya) | 1:55 | — |
 | [Interactive UI demo with live preview](https://x.com/uiNerd/status/2102745622608810010) | Opus 5.5 | [@uiNerd](https://x.com/uiNerd) | 0:13 | — |
 | [Coding plugin demo video](https://x.com/eliasstravik/status/2102826740951232530) | Opus 5.5 | [@eliasstravik](https://x.com/eliasstravik) | 0:15 | — |
 | [30-second conference ad (Designship 2026)](https://x.com/hajipion/status/2103766842024362220) | Opus 5.5 | [@hajipion](https://x.com/hajipion) | 0:30 | — |
@@ -74,12 +75,14 @@
 | [Promo video recreated from a reference clip](https://x.com/servasyy_ai/status/2103785302288687268) | Opus 5.5 | [@servasyy_ai](https://x.com/servasyy_ai) | 0:29 | — |
 | [UGC fashion try-on video](https://x.com/abxxai/status/2107847831168196890) | Sonnet 5.5 | [@abxxai](https://x.com/abxxai) | 0:30 | — |
 | [SaaS product trailer](https://x.com/javiiarchive/status/2103501151438323850) | Opus 5.5 | [@javiiarchive](https://x.com/javiiarchive) | 0:15 | — |
+| [Short animated demo clip](https://x.com/devteamdrew/status/2108254006036296116) | Sonnet 5.5 / Haiku 5.5 | [@devteamdrew](https://x.com/devteamdrew) | 0:32 | — |
 | [Pig Love Notes: An Animated App Promo](https://x.com/jackfriks/status/2103132260589338762) | Opus 5.5 | [@jackfriks](https://x.com/jackfriks) | 0:20 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103132260589338762) |
 | [SaaS product launch video (one shot)](https://x.com/pbteja1998/status/2103176101497651644) | Opus 5.5 | [@pbteja1998](https://x.com/pbteja1998) | 1:05 | — |
 | [Escape-room game intro video](https://x.com/moya_vc/status/2103681038862147977) | Opus 5.5 | [@moya_vc](https://x.com/moya_vc) | 1:41 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103681038862147977) |
 | [Landing page UI built quickly](https://x.com/dhruvalgolakiya/status/2102802914024845385) | Opus 5.5 | [@dhruvalgolakiya](https://x.com/dhruvalgolakiya) | 0:33 | — |
 | [Product promo video variation using 3D data](https://x.com/yoshifujidesign/status/2103988134069617127) | Opus 5.5 | [@yoshifujidesign](https://x.com/yoshifujidesign) | 0:30 | — |
 | [Product PV with fine-tuned instructions](https://x.com/yoshifujidesign/status/2103989912676741479) | Opus 5.5 | [@yoshifujidesign](https://x.com/yoshifujidesign) | 0:30 | — |
+| [Isometric landing page design](https://x.com/itsnotryan/status/2108228989063991575) | Opus 5.5 | [@itsnotryan](https://x.com/itsnotryan) | 0:06 | — |
 | [FPV flight controller PCB rebuild](https://x.com/Peter05704721/status/2102725548229456351) | Opus 5.5 | [@Peter05704721](https://x.com/Peter05704721) | 0:12 | — |
 | [Olipop ad made with Opus 5.5 and Boreal-H3](https://x.com/marcusyul/status/2105355809677001180) | Opus 5.5 | [@marcusyul](https://x.com/marcusyul) | 0:46 | — |
 | [Promotional video for a Roblox game](https://x.com/dataX_e/status/2104967024812118196) | Opus 5.5 | [@dataX_e](https://x.com/dataX_e) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104967024812118196) |
@@ -135,6 +138,7 @@
 | ["Touch grass" concept website](https://x.com/skpnky/status/2103744630433190009) | Opus 5.5 | [@skpnky](https://x.com/skpnky) | 0:18 | — |
 | [Real estate video from 2D floor plan](https://x.com/techhalla/status/2105376621737746716) | Opus 5.5 | [@techhalla](https://x.com/techhalla) | 0:37 | — |
 | [Small ad made with Opus and ElevenLabs](https://x.com/pivi___/status/2103820692500156664) | Opus 5.5 | [@pivi___](https://x.com/pivi___) | 0:30 | — |
+| [One-prompt product launch video](https://x.com/javiiarchive/status/2108149080568545694) | Opus 5.5 | [@javiiarchive](https://x.com/javiiarchive) | 0:31 | — |
 | [Self-made introduction video for the model](https://x.com/nemumusitocha/status/2102528528613019932) | Opus 5.5 | [@nemumusitocha](https://x.com/nemumusitocha) | 6:37 | — |
 | [PR video for a sticker creation kit](https://x.com/OoChihiroOO/status/2103821686164615243) | Opus 5.5 | [@OoChihiroOO](https://x.com/OoChihiroOO) | 0:17 | — |
 | [PR video generated via a prompt with image gathering](https://x.com/hituji_1234/status/2102634536660316557) | Opus 5.5 | [@hituji_1234](https://x.com/hituji_1234) | 0:34 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102634536660316557) |
@@ -164,6 +168,7 @@
 | [Flowith Canvas AI-made piece](https://x.com/DerekNee/status/2103729728549220815) | Opus 5.5 | [@DerekNee](https://x.com/DerekNee) | 0:45 | — |
 | [AI drama-style commercial](https://x.com/unikoukokun/status/2102991418860184057) | Opus 5.5 | [@unikoukokun](https://x.com/unikoukokun) | 2:34 | — |
 | [Personal website redesign with Sonnet 5.5](https://x.com/_tenZdhon_/status/2104680469451157900) | Sonnet 5.5 | [@_tenZdhon_](https://x.com/_tenZdhon_) | 0:27 | — |
+| [Effort slider UI feature in MyGo](https://x.com/localhost_5173/status/2108236225291407435) | Opus 5.5 | [@localhost_5173](https://x.com/localhost_5173) | 0:07 | — |
 | [App introduction video demo](https://x.com/hinata877889737/status/2102753427747168436) | Opus 5.5 | [@hinata877889737](https://x.com/hinata877889737) | 0:30 | — |
 | [Disk space analyzer utility app](https://x.com/SonofNun/status/2103589196472766505) | Opus 5.5 | [@SonofNun](https://x.com/SonofNun) | 1:40 | — |
 | [Claude introduction video](https://x.com/devteamdrew/status/2106155815707021549) | Fable 5.5 (preview) | [@devteamdrew](https://x.com/devteamdrew) | 0:30 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2106155815707021549) |

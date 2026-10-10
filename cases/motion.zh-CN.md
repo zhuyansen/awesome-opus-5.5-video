@@ -1,6 +1,6 @@
 # 动效设计
 
-共 232 个作品，其中 83 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 235 个作品，其中 85 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [符号歌词生成的图形动效](https://x.com/8co28/status/2102680701762216081) | Opus 5.5 | [@8co28](https://x.com/8co28) | 0:30 | — |
 | [公司宣传动效广告](https://x.com/showheyohtaki/status/2104095944686051492) | Opus 5.5 | [@showheyohtaki](https://x.com/showheyohtaki) | 0:30 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104095944686051492) |
 | [苹果发布会风格宣传动画](https://x.com/ultimaxbt/status/2107123710251434330) | Opus 5.5 | [@ultimaxbt](https://x.com/ultimaxbt) | 0:29 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2107123710251434330) |
+| [美食App产品发布短片](https://x.com/ultimaxbt/status/2108210884799549714) | Opus 5.5 | [@ultimaxbt](https://x.com/ultimaxbt) | 0:16 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2108210884799549714) |
 | [令人惊艳的AI生成视频](https://x.com/GregorySchier/status/2103573891629371497) | Opus 5.5 | [@GregorySchier](https://x.com/GregorySchier) | 0:30 | — |
 | [橙色圆点动态设计系统](https://x.com/rossaxbt/status/2107121188027707651) | Opus 5.5 | [@rossaxbt](https://x.com/rossaxbt) | 0:15 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2107121188027707651) |
 | [文件加密传输原理可视化](https://x.com/SyntaxDiffusion/status/2103182358635532377) | Opus 5.5 | [@SyntaxDiffusion](https://x.com/SyntaxDiffusion) | 1:36 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103182358635532377) |
@@ -174,6 +175,7 @@
 | [工程草图动画化为机械装置](https://x.com/higgsfield_ai/status/2102831492024172840) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:29 | — |
 | [股市主题宣传视频](https://x.com/Capybara_Stock/status/2103627768521281672) | Opus 5.5 | [@Capybara_Stock](https://x.com/Capybara_Stock) | 0:15 | — |
 | [复刻爆款视频风格](https://x.com/servasyy_ai/status/2103830430189486358) | Opus 5.5 | [@servasyy_ai](https://x.com/servasyy_ai) | 1:00 | — |
+| [任务分派主题动态短片](https://x.com/kelanoo/status/2108199183983497433) | Opus 5.5 | [@kelanoo](https://x.com/kelanoo) | 0:20 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2108199183983497433) |
 | [纯JS生成的视频](https://x.com/chetaslua/status/2103599163804098708) | Opus 5.5 | [@chetaslua](https://x.com/chetaslua) | 0:12 | — |
 | [一句提示词惊艳演示视频](https://x.com/viktoroddy/status/2102986525185343563) | Opus 5.5 | [@viktoroddy](https://x.com/viktoroddy) | 0:06 | — |
 | [Higgsfield风格帧动画](https://x.com/higgsfield_ai/status/2104742106015449428) | Sonnet 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:10 | — |
@@ -192,6 +194,7 @@
 | [循环播放的产品发布动态模板](https://x.com/twoclipping/status/2105927781678747965) | Opus 5.5 | [@twoclipping](https://x.com/twoclipping) | 0:24 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2105927781678747965) |
 | [Netlify AI Gateway结合Opus的动效视频](https://x.com/thisiskp_/status/2103540805575278645) | Opus 5.5 | [@thisiskp_](https://x.com/thisiskp_) | 0:30 | — |
 | [视频动画转像素风格](https://x.com/iritec_jp/status/2102870197598367809) | Opus 5.5 | [@iritec_jp](https://x.com/iritec_jp) | 0:08 | — |
+| [动态设计视频演示](https://x.com/code_kartik/status/2108276280328331748) | Opus 5.5 | [@code_kartik](https://x.com/code_kartik) | 1:26 | — |
 | [单条提示词生成AE动画](https://x.com/0xCrosss/status/2103841408977150450) | Opus 5.5 | [@0xCrosss](https://x.com/0xCrosss) | 0:16 | — |
 | [咖啡历史动态信息图](https://x.com/ai4everyday/status/2106130713439256844) | Opus 5.5 | [@ai4everyday](https://x.com/ai4everyday) | 1:00 | — |
 | [无参考素材一次生成的AI视频](https://x.com/Charles_SEO/status/2103703459782660599) | Opus 5.5 | [@Charles_SEO](https://x.com/Charles_SEO) | 2:00 | — |

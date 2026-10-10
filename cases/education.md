@@ -1,6 +1,6 @@
 # Explainers & education
 
-135 works, 45 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+137 works, 46 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Video on three physics theory styles](https://x.com/bukuro8810/status/2103739912591929851) | Opus 5.5 | [@bukuro8810](https://x.com/bukuro8810) | 5:04 | — |
 | [Jensen's inequality lecture in personal style](https://x.com/prathoshap/status/2103843937735888898) | Opus 5.5 | [@prathoshap](https://x.com/prathoshap) | 0:30 | — |
 | [Mortise and tenon joinery explainer video](https://x.com/op7418/status/2105675440409174160) | Opus 5.5 | [@op7418](https://x.com/op7418) | 0:48 | — |
+| [Nobel Prize science explainer video](https://x.com/KeWai386772/status/2108143447496679553) | Opus 5.5 | [@KeWai386772](https://x.com/KeWai386772) | 13:00 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2108143447496679553) |
 | [Manim derivative concept teaching video](https://x.com/LinearUncle/status/2103128559174971663) | Opus 5.5 | [@LinearUncle](https://x.com/LinearUncle) | 7:37 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103128559174971663) |
 | [Explainer on an ancient eastern civilization](https://x.com/yanhua1010/status/2103712543168680363) | Opus 5.5 | [@yanhua1010](https://x.com/yanhua1010) | 2:15 | — |
 | [Interactive view inside an LLM](https://x.com/KimizLlm/status/2106089511411409081) | Opus 5.5 | [@KimizLlm](https://x.com/KimizLlm) | 4:44 | — |
@@ -134,6 +135,7 @@
 | [Pointers explainer video (Manim)](https://x.com/Hesamation/status/2103822595993018838) | Opus 5.5 | [@Hesamation](https://x.com/Hesamation) | 1:32 | — |
 | [Torus cell decomposition math explainer](https://x.com/yohaku121244/status/2103744418977358021) | Opus 5.5 | [@yohaku121244](https://x.com/yohaku121244) | 2:21 | — |
 | [Relativity bike ride 3D explainer](https://x.com/techartist_/status/2107151400472088835) | Opus 5.5 | [@techartist_](https://x.com/techartist_) | 0:28 | — |
+| [Plate tectonics music video animation](https://x.com/kevin_t_ngo/status/2108208479358026208) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 2:21 | — |
 | [Battle of Midway 3D explainer film](https://x.com/wshuyi/status/2103644455916175505) | Opus 5.5 | [@wshuyi](https://x.com/wshuyi) | 8:29 | — |
 | [Crypto trading concept animation](https://x.com/Dan_Kostecki/status/2103761581871964592) | Opus 5.5 | [@Dan_Kostecki](https://x.com/Dan_Kostecki) | 2:43 | — |
 | [15-second persuasive explainer on ending the Fed](https://x.com/cboyack/status/2103617085402407181) | Opus 5.5 | [@cboyack](https://x.com/cboyack) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103617085402407181) |

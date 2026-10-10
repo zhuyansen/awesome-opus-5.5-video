@@ -1,6 +1,6 @@
 # 3D 场景
 
-共 200 个作品，其中 48 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 204 个作品，其中 49 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -9,6 +9,7 @@
 | [视频转4D高斯点云重建](https://x.com/bilawalsidhu/status/2102598907817587141) | Opus 5.5 | [@bilawalsidhu](https://x.com/bilawalsidhu) | 0:22 | — |
 | [程序化生成的海岛模拟场景](https://x.com/dangreenheck/status/2102878170089169235) | Opus 5.5 | [@dangreenheck](https://x.com/dangreenheck) | 3:47 | — |
 | [根据流传提示词制作的场景](https://x.com/pleometric/status/2103082510607610023) | Opus 5.5 | [@pleometric](https://x.com/pleometric) | 2:37 | — |
+| [浏览器中运行的无限程序化城市](https://x.com/RyanSael/status/2108203997480063196) | Opus 5.5 | [@RyanSael](https://x.com/RyanSael) | 0:53 | — |
 | [果冻西瓜切片模拟](https://x.com/vib3coded/status/2104285370951012504) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:18 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104285370951012504) |
 | [虚拟世界中的热带水面模拟](https://x.com/Data01/status/2104406657216237990) | Opus 5.5 | [@Data01](https://x.com/Data01) | 0:21 | — |
 | [日式风景中的可玩船只场景](https://x.com/MengTo/status/2102760783344189761) | Opus 5.5 | [@MengTo](https://x.com/MengTo) | 1:00 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102760783344189761) |
@@ -120,6 +121,7 @@
 | [Unreal与Blender渲染场景](https://x.com/HamidoFx1/status/2105626720573468818) | Opus 5.5 | [@HamidoFx1](https://x.com/HamidoFx1) | 0:20 | — |
 | [一个疯狂创意请求的成果](https://x.com/Sonecarox/status/2103126446403379220) | Opus 5.5 | [@Sonecarox](https://x.com/Sonecarox) | 3:21 | — |
 | [用Blender制作的龙宫城](https://x.com/Ayu_AI_0912/status/2103669801554264378) | Opus 5.5 | [@Ayu_AI_0912](https://x.com/Ayu_AI_0912) | 0:24 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103669801554264378) |
+| [玻璃盒中的互动天气世界](https://x.com/LexnLin/status/2108159248148611292) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 1:02 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2108159248148611292) |
 | [浏览器三维场景](https://x.com/KhalidDevLog/status/2106957256247902272) | Opus 5.5 | [@KhalidDevLog](https://x.com/KhalidDevLog) | 1:28 | — |
 | [2.5D像素风雨中庭院场景](https://x.com/KanaWorks_AI/status/2102801635638673762) | Opus 5.5 | [@KanaWorks_AI](https://x.com/KanaWorks_AI) | 0:57 | — |
 | [可自由漫游的电影感 3D 世界](https://x.com/LexnLin/status/2103194052850241739) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 1:24 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103194052850241739) |
@@ -196,6 +198,7 @@
 | [等距三维场景](https://x.com/itsnotryan/status/2107013497813172593) | Opus 5.5 | [@itsnotryan](https://x.com/itsnotryan) | 0:07 | — |
 | [基于像素画制作的3D直播间](https://x.com/balaena01/status/2103450061275586618) | Opus 5.5 | [@balaena01](https://x.com/balaena01) | 0:14 | — |
 | [赛博朋克像素艺术动画](https://x.com/L_ARCH_01/status/2103137546662515107) | Opus 5.5 | [@L_ARCH_01](https://x.com/L_ARCH_01) | 1:04 | — |
+| [人形机器人交互式结构拆解模型](https://x.com/techartist_/status/2108233726094365172) | Opus 5.5 | [@techartist_](https://x.com/techartist_) | 0:40 | — |
 | [弹珠音乐机3D动画](https://x.com/aj_dev_smith/status/2107956617337885077) | Opus 5.5 | [@aj_dev_smith](https://x.com/aj_dev_smith) | 1:06 | — |
 | [雨中日式庭院鹿威模拟](https://x.com/mizugame_22/status/2103822799580307674) | Opus 5.5 | [@mizugame_22](https://x.com/mizugame_22) | 0:15 | — |
 | [Blender制作的JRPG风格体素场景](https://x.com/gunsturn_tw/status/2103089094666686850) | Opus 5.5 | [@gunsturn_tw](https://x.com/gunsturn_tw) | 1:00 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103089094666686850) |
@@ -204,3 +207,4 @@
 | [体素宝塔](https://x.com/LuminaBench/status/2107965327040475264) | Haiku 5.5 | [@LuminaBench](https://x.com/LuminaBench) | 0:13 | — |
 | [粒子水模拟与光线行进渲染](https://x.com/hartspecs/status/2105715231884468384) | Opus 5.5 | [@hartspecs](https://x.com/hartspecs) | 0:21 | — |
 | [超级智能时代场景](https://x.com/HarshithLucky3/status/2105765253799903602) | Fable 5.5 (preview) | [@HarshithLucky3](https://x.com/HarshithLucky3) | 0:40 | — |
+| [UE5实时渲染VJ视觉片段](https://x.com/MasanoriYoshii/status/2108198854017606086) | Opus 5.5 | [@MasanoriYoshii](https://x.com/MasanoriYoshii) | 1:00 | — |

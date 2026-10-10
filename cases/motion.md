@@ -1,6 +1,6 @@
 # Motion graphics & UI
 
-232 works, 83 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+235 works, 85 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Symbol-based lyric motion graphics](https://x.com/8co28/status/2102680701762216081) | Opus 5.5 | [@8co28](https://x.com/8co28) | 0:30 | — |
 | [Company commercial motion graphic](https://x.com/showheyohtaki/status/2104095944686051492) | Opus 5.5 | [@showheyohtaki](https://x.com/showheyohtaki) | 0:30 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104095944686051492) |
 | [Apple-keynote style launch film](https://x.com/ultimaxbt/status/2107123710251434330) | Opus 5.5 | [@ultimaxbt](https://x.com/ultimaxbt) | 0:29 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2107123710251434330) |
+| [Food app product launch film](https://x.com/ultimaxbt/status/2108210884799549714) | Opus 5.5 | [@ultimaxbt](https://x.com/ultimaxbt) | 0:16 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2108210884799549714) |
 | [Impressive AI-generated video](https://x.com/GregorySchier/status/2103573891629371497) | Opus 5.5 | [@GregorySchier](https://x.com/GregorySchier) | 0:30 | — |
 | [Orange dot motion design system](https://x.com/rossaxbt/status/2107121188027707651) | Opus 5.5 | [@rossaxbt](https://x.com/rossaxbt) | 0:15 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2107121188027707651) |
 | [Visualization of encryption in secure file transfer](https://x.com/SyntaxDiffusion/status/2103182358635532377) | Opus 5.5 | [@SyntaxDiffusion](https://x.com/SyntaxDiffusion) | 1:36 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103182358635532377) |
@@ -174,6 +175,7 @@
 | [Engineering sketches animated into machines](https://x.com/higgsfield_ai/status/2102831492024172840) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:29 | — |
 | [Stock market themed promo video](https://x.com/Capybara_Stock/status/2103627768521281672) | Opus 5.5 | [@Capybara_Stock](https://x.com/Capybara_Stock) | 0:15 | — |
 | [Recreated viral video style](https://x.com/servasyy_ai/status/2103830430189486358) | Opus 5.5 | [@servasyy_ai](https://x.com/servasyy_ai) | 1:00 | — |
+| [Motion short about task delegation](https://x.com/kelanoo/status/2108199183983497433) | Opus 5.5 | [@kelanoo](https://x.com/kelanoo) | 0:20 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2108199183983497433) |
 | [Pure-JS generated video](https://x.com/chetaslua/status/2103599163804098708) | Opus 5.5 | [@chetaslua](https://x.com/chetaslua) | 0:12 | — |
 | [One-prompt wow demo video](https://x.com/viktoroddy/status/2102986525185343563) | Opus 5.5 | [@viktoroddy](https://x.com/viktoroddy) | 0:06 | — |
 | [Higgsfield styleframe animation](https://x.com/higgsfield_ai/status/2104742106015449428) | Sonnet 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:10 | — |
@@ -192,6 +194,7 @@
 | [Looping product launch motion template](https://x.com/twoclipping/status/2105927781678747965) | Opus 5.5 | [@twoclipping](https://x.com/twoclipping) | 0:24 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2105927781678747965) |
 | [Motion video via Netlify AI Gateway and Opus](https://x.com/thisiskp_/status/2103540805575278645) | Opus 5.5 | [@thisiskp_](https://x.com/thisiskp_) | 0:30 | — |
 | [Video animation converted to pixel art](https://x.com/iritec_jp/status/2102870197598367809) | Opus 5.5 | [@iritec_jp](https://x.com/iritec_jp) | 0:08 | — |
+| [Motion design video demo](https://x.com/code_kartik/status/2108276280328331748) | Opus 5.5 | [@code_kartik](https://x.com/code_kartik) | 1:26 | — |
 | [After Effects animation from a single prompt](https://x.com/0xCrosss/status/2103841408977150450) | Opus 5.5 | [@0xCrosss](https://x.com/0xCrosss) | 0:16 | — |
 | [Coffee history motion graphic](https://x.com/ai4everyday/status/2106130713439256844) | Opus 5.5 | [@ai4everyday](https://x.com/ai4everyday) | 1:00 | — |
 | [One-shot AI video without reference assets](https://x.com/Charles_SEO/status/2103703459782660599) | Opus 5.5 | [@Charles_SEO](https://x.com/Charles_SEO) | 2:00 | — |
