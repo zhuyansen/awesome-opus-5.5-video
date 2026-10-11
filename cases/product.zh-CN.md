@@ -1,6 +1,6 @@
 # 产品广告
 
-共 185 个作品，其中 34 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 186 个作品，其中 35 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [专用PR审查工具演示](https://x.com/jessethanley/status/2103981726779531444) | Opus 5.5 | [@jessethanley](https://x.com/jessethanley) | 0:07 | — |
 | [一天内搭建的OpsLoop仪表盘](https://x.com/jubayer6910/status/2103496352005296635) | Opus 5.5 | [@jubayer6910](https://x.com/jubayer6910) | 1:59 | — |
 | [Mac应用设计系统改版](https://x.com/dprophecyguy/status/2102735000177451446) | Opus 5.5 | [@dprophecyguy](https://x.com/dprophecyguy) | 0:45 | — |
+| [用Blender制作的钓鱼游戏预告片](https://x.com/Blushneyy/status/2108644023330390194) | Opus 5.5 | [@Blushneyy](https://x.com/Blushneyy) | 0:43 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2108644023330390194) |
 | [简单提示生成的营销视频](https://x.com/samuel_yostt/status/2105746669035733275) | Opus 5.5 | [@samuel_yostt](https://x.com/samuel_yostt) | 0:15 | — |
 | [AI生成的品牌指南演示](https://x.com/PancaSeptiana/status/2103024285174673413) | Opus 5.5 | [@PancaSeptiana](https://x.com/PancaSeptiana) | 0:15 | — |
 | [Dub.co产品推广视频一次生成](https://x.com/steventey/status/2103625902211088880) | Opus 5.5 | [@steventey](https://x.com/steventey) | 0:15 | — |

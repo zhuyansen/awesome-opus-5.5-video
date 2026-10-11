@@ -1,6 +1,6 @@
 # 动效设计
 
-共 235 个作品，其中 85 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 238 个作品，其中 86 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [用slop cannon MCP制作的视频](https://x.com/boneGPT/status/2102484877941911734) | Opus 5.5 | [@boneGPT](https://x.com/boneGPT) | 1:20 | — |
 | [用 brag skill 做的苹果风发布视频](https://x.com/0xhrushi/status/2103392921559126157) | Opus 5.5 | [@0xhrushi](https://x.com/0xhrushi) | 0:25 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103392921559126157) |
 | [详细提示词生成的15秒设计作品集](https://x.com/darel023/status/2103424524297420829) | Opus 5.5 | [@darel023](https://x.com/darel023) | 0:15 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103424524297420829) |
+| [用GrokBot和Opus5.5搭建的动态设计工作室](https://x.com/0xRafy/status/2108673427590590971) | Opus 5.5 | [@0xRafy](https://x.com/0xRafy) | 0:44 | — |
 | [文字排版动效动画](https://x.com/higgsfield_ai/status/2103963588012744859) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:15 | — |
 | [代码生成动效视频的幕后过程](https://x.com/shneural/status/2103472385563459833) | Opus 5.5 | [@shneural](https://x.com/shneural) | 0:56 | — |
 | [Replit Animation结合Opus的JS动画](https://x.com/samuel_spitz/status/2103293794594816100) | Opus 5.5 | [@samuel_spitz](https://x.com/samuel_spitz) | 0:28 | — |
@@ -150,6 +151,7 @@
 | [通过MCP在After Effects中制作的动效](https://x.com/higgsfield_ai/status/2103853474098352326) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:12 | — |
 | [代码绘画动画](https://x.com/chetaslua/status/2106833074302710023) | Fable 5.5 (preview) | [@chetaslua](https://x.com/chetaslua) | 0:44 | — |
 | [YouTube片头动画](https://x.com/franperez_fp/status/2104709328238199145) | Sonnet 5.5 | [@franperez_fp](https://x.com/franperez_fp) | 0:09 | — |
+| [依参考视频复刻的动态设计](https://x.com/gxjo_dev/status/2108632470551933011) | Opus 5.5 | [@gxjo_dev](https://x.com/gxjo_dev) | 0:19 | — |
 | [由文稿生成的自我介绍动效视频](https://x.com/kumiko_shiraki/status/2103771566982959414) | Opus 5.5 | [@kumiko_shiraki](https://x.com/kumiko_shiraki) | 0:48 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103771566982959414) |
 | [点元素主题动态视频](https://x.com/seiiiiiiiiiiru/status/2107018580265201724) | Opus 5.5 | [@seiiiiiiiiiiru](https://x.com/seiiiiiiiiiiru) | 0:15 | — |
 | [10秒版动感设计展示视频](https://x.com/mattiapomelli/status/2103757371357229129) | Opus 5.5 | [@mattiapomelli](https://x.com/mattiapomelli) | 0:10 | — |
@@ -173,6 +175,7 @@
 | [竖版AI生成视频](https://x.com/akshaymarch7/status/2103549144606572886) | Opus 5.5 | [@akshaymarch7](https://x.com/akshaymarch7) | 0:52 | — |
 | [动态设计作品展示](https://x.com/2irl4u/status/2103650989849055268) | Opus 5.5 | [@2irl4u](https://x.com/2irl4u) | 0:45 | — |
 | [工程草图动画化为机械装置](https://x.com/higgsfield_ai/status/2102831492024172840) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:29 | — |
+| [橙色圆点动态设计系统](https://x.com/rossaxbt/status/2108570705692357094) | Opus 5.5 | [@rossaxbt](https://x.com/rossaxbt) | 0:15 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2108570705692357094) |
 | [股市主题宣传视频](https://x.com/Capybara_Stock/status/2103627768521281672) | Opus 5.5 | [@Capybara_Stock](https://x.com/Capybara_Stock) | 0:15 | — |
 | [复刻爆款视频风格](https://x.com/servasyy_ai/status/2103830430189486358) | Opus 5.5 | [@servasyy_ai](https://x.com/servasyy_ai) | 1:00 | — |
 | [任务分派主题动态短片](https://x.com/kelanoo/status/2108199183983497433) | Opus 5.5 | [@kelanoo](https://x.com/kelanoo) | 0:20 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2108199183983497433) |

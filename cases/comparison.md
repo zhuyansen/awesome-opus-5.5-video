@@ -1,6 +1,6 @@
 # Model comparisons
 
-194 works, 58 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+196 works, 60 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Four-model 3D rocket launch comparison](https://x.com/higgsfield_ai/status/2102565251883606206) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:17 | — |
 | [Free-tier ski game build comparison](https://x.com/kis/status/2104697370181263415) | Sonnet 5.5 | [@kis](https://x.com/kis) | 0:26 | — |
 | [Leaf-raking tool-call demo comparison](https://x.com/_catwu/status/2104639552170377399) | Sonnet 5.5 | [@_catwu](https://x.com/_catwu) | 0:19 | — |
+| [Three.js Newton's cradle: Opus vs Astra 6](https://x.com/ivanainai/status/2108625335122026542) | Opus 5.5 | [@ivanainai](https://x.com/ivanainai) | 0:24 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2108625335122026542) |
 | [Visual quality comparison between two AI models](https://x.com/HarshithLucky3/status/2103821120009048245) | Opus 5.5 | [@HarshithLucky3](https://x.com/HarshithLucky3) | 0:45 | — |
 | [Japanese-style fantasy city pixel animation](https://x.com/notjazii/status/2105033612093698466) | Opus 5.5 / Sonnet 5.5 | [@notjazii](https://x.com/notjazii) | 0:08 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2105033612093698466) |
 | [Solarpunk city shader benchmark result](https://x.com/danveloper/status/2102483043252424986) | Opus 5.5 | [@danveloper](https://x.com/danveloper) | 0:18 | — |
@@ -189,6 +190,7 @@
 | [Plush dragon physics comparison](https://x.com/vib3coded/status/2107020311380033949) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:18 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2107020311380033949) |
 | [Skill versus no-skill voiceover video comparison](https://x.com/VincentWei93/status/2103549280082612377) | Opus 5.5 | [@VincentWei93](https://x.com/VincentWei93) | 1:35 | — |
 | [Sonnet 5.5 vs GPT-6 Astra artifact comparison](https://x.com/notjazii/status/2104657634775486794) | Sonnet 5.5 | [@notjazii](https://x.com/notjazii) | 0:50 | — |
+| [Jelly kingdom scene: Opus vs GPT-6 Astra](https://x.com/vib3coded/status/2108649845405929924) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:18 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2108649845405929924) |
 | [Volcano simulator model comparison](https://x.com/TokenGremlin/status/2106083195578122697) | Opus 5.5 | [@TokenGremlin](https://x.com/TokenGremlin) | 1:01 | — |
 | [Lava lamp 3D render benchmark test](https://x.com/SimonasLTU1/status/2108159697782239511) | Haiku 5.5 | [@SimonasLTU1](https://x.com/SimonasLTU1) | 0:18 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2108159697782239511) |
 | [Opus 5.5 vs Astra token usage as robotic policy](https://x.com/dimentary/status/2103574284576977325) | Opus 5.5 | [@dimentary](https://x.com/dimentary) | 1:16 | — |

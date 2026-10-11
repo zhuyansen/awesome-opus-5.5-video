@@ -3,8 +3,8 @@
  "model": "Claude 5.5 (Opus 5.5 · Sonnet 5.5 · Haiku 5.5 · Fable 5.5)",
  "inclusion_rule": "Original post by the creator, native video attached, >= 5000 views on that post, creator states it was made with Claude Opus 5.5, Sonnet 5.5, Haiku 5.5 or Fable 5.5 (Fable 5.5 is in limited preview, not yet announced). Later posts that embed another account's upload are excluded.",
  "views_threshold": 5000,
- "stats_checked_at": "2026-10-10T08:47:33.197Z",
- "updated_at": "2026-10-10T08:47:33.197Z",
+ "stats_checked_at": "2026-10-11T05:17:47.827Z",
+ "updated_at": "2026-10-11T05:17:47.827Z",
  "model_attribution": "As stated by each creator; not independently reproduced.",
  "cases": [
   {
@@ -3008,6 +3008,36 @@
     "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102572941699354900"
    },
    "resources": []
+  },
+  {
+   "id": "2108604020814233606",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "game",
+   "title": {
+    "zh": "我的世界版进击的巨人模组",
+    "en": "Attack on Titan mod in Minecraft"
+   },
+   "creator": {
+    "handle": "nicksaraev",
+    "name": "nicksaraev"
+   },
+   "original_post_url": "https://x.com/nicksaraev/status/2108604020814233606",
+   "posted_at": "2026-10-09T17:02:29.000Z",
+   "language": "en",
+   "duration_seconds": 1406,
+   "views": 401618,
+   "likes": 6444,
+   "bookmarks": 3471,
+   "views_checked_at": "2026-10-11T05:17:47.827Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2108603026898653184/img/S6dK-12uXD6j1an7.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": [
+    "https://claude-model-bench.netlify.app/round-5/"
+   ]
   },
   {
    "id": "2104568082169749982",
@@ -15818,6 +15848,36 @@
    "resources": []
   },
   {
+   "id": "2108673427590590971",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "motion",
+   "title": {
+    "zh": "用GrokBot和Opus5.5搭建的动态设计工作室",
+    "en": "Motion design studio built with GrokBot and Opus 5.5"
+   },
+   "creator": {
+    "handle": "0xRafy",
+    "name": "0xRafy"
+   },
+   "original_post_url": "https://x.com/0xRafy/status/2108673427590590971",
+   "posted_at": "2026-10-09T21:38:17.000Z",
+   "language": "en",
+   "duration_seconds": 44,
+   "views": 65012,
+   "likes": 468,
+   "bookmarks": 783,
+   "views_checked_at": "2026-10-11T05:17:47.827Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2108671886280253440/img/pmVjk-TVsqCGLFSc.jpg",
+   "tools_reported": [
+    "Grok"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2102745622608810010",
    "models": [
     "opus-5.5"
@@ -16127,6 +16187,34 @@
     "length": 111,
     "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103288413969621231"
    },
+   "resources": []
+  },
+  {
+   "id": "2108611423421043095",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "game",
+   "title": {
+    "zh": "把马里奥64放进艾尔登法环",
+    "en": "Mario 64 dropped into Elden Ring"
+   },
+   "creator": {
+    "handle": "0xDeniAi",
+    "name": "Deni"
+   },
+   "original_post_url": "https://x.com/0xDeniAi/status/2108611423421043095",
+   "posted_at": "2026-10-09T17:31:54.000Z",
+   "language": "en",
+   "duration_seconds": 21,
+   "views": 62828,
+   "likes": 472,
+   "bookmarks": 160,
+   "views_checked_at": "2026-10-11T05:17:47.827Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2108611340910657537/img/qrRf8aTXi_4Uteud.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
    "resources": []
   },
   {
@@ -20696,6 +20784,42 @@
    "resources": []
   },
   {
+   "id": "2108625335122026542",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "Three.js牛顿摆：Opus对比Astra 6",
+    "en": "Three.js Newton's cradle: Opus vs Astra 6"
+   },
+   "creator": {
+    "handle": "ivanainai",
+    "name": "Ivana"
+   },
+   "original_post_url": "https://x.com/ivanainai/status/2108625335122026542",
+   "posted_at": "2026-10-09T18:27:10.000Z",
+   "language": "en",
+   "duration_seconds": 24,
+   "views": 45927,
+   "likes": 165,
+   "bookmarks": 26,
+   "views_checked_at": "2026-10-11T05:17:47.827Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2108625224874737664/img/ZjoPil9WgYKlCnEq.jpg",
+   "tools_reported": [
+    "Three.js"
+   ],
+   "reference_assets": true,
+   "prompt": {
+    "kind": "full",
+    "source": "author_reply",
+    "source_url": "https://x.com/ivanainai/status/2108625789386121721",
+    "length": 7968,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2108625335122026542"
+   },
+   "resources": []
+  },
+  {
    "id": "2105355809677001180",
    "models": [
     "opus-5.5"
@@ -22322,6 +22446,42 @@
     "source_url": "https://x.com/Tz_2022/status/2102838830285898214",
     "length": 75,
     "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102838830285898214"
+   },
+   "resources": []
+  },
+  {
+   "id": "2108644023330390194",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "product",
+   "title": {
+    "zh": "用Blender制作的钓鱼游戏预告片",
+    "en": "Fishing game trailer made in Blender"
+   },
+   "creator": {
+    "handle": "Blushneyy",
+    "name": "Blushney"
+   },
+   "original_post_url": "https://x.com/Blushneyy/status/2108644023330390194",
+   "posted_at": "2026-10-09T19:41:26.000Z",
+   "language": "en",
+   "duration_seconds": 43,
+   "views": 41274,
+   "likes": 185,
+   "bookmarks": 146,
+   "views_checked_at": "2026-10-11T05:17:47.827Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2108643179368976384/img/XH3xVYiD_ykxMW7G.jpg",
+   "tools_reported": [
+    "Blender"
+   ],
+   "reference_assets": true,
+   "prompt": {
+    "kind": "brief",
+    "source": "author_reply",
+    "source_url": "https://x.com/Blushneyy/status/2108644027532812762",
+    "length": 59,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2108644023330390194"
    },
    "resources": []
   },
@@ -28438,6 +28598,36 @@
    "resources": []
   },
   {
+   "id": "2108696942108938245",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "stories",
+   "title": {
+    "zh": "AI漫画配音版第一章",
+    "en": "AI manga chapter voiced edition"
+   },
+   "creator": {
+    "handle": "zerozakiyamo",
+    "name": "零崎業萌"
+   },
+   "original_post_url": "https://x.com/zerozakiyamo/status/2108696942108938245",
+   "posted_at": "2026-10-09T23:11:43.000Z",
+   "language": "ja",
+   "duration_seconds": 352,
+   "views": 24947,
+   "likes": 1012,
+   "bookmarks": 517,
+   "views_checked_at": "2026-10-11T05:17:47.827Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2108696764228513792/img/NBayfn7Go3q2TeBf.jpg",
+   "tools_reported": [
+    "ElevenLabs"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2103596524018221133",
    "models": [
     "opus-5.5"
@@ -29892,6 +30082,34 @@
    "resources": []
   },
   {
+   "id": "2108632470551933011",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "motion",
+   "title": {
+    "zh": "依参考视频复刻的动态设计",
+    "en": "Motion design recreated from reference clip"
+   },
+   "creator": {
+    "handle": "gxjo_dev",
+    "name": "gxjo"
+   },
+   "original_post_url": "https://x.com/gxjo_dev/status/2108632470551933011",
+   "posted_at": "2026-10-09T18:55:32.000Z",
+   "language": "en",
+   "duration_seconds": 19,
+   "views": 22146,
+   "likes": 408,
+   "bookmarks": 370,
+   "views_checked_at": "2026-10-11T05:17:47.827Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2108632379640397824/img/9KsIkKBgAzt69fLc.jpg",
+   "tools_reported": [],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2103415186086674920",
    "models": [
     "opus-5.5"
@@ -29914,6 +30132,34 @@
    "bookmarks": 188,
    "views_checked_at": "2026-10-05T10:05:31.068Z",
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2103414776101773312/img/EvyEm86KfobwFL_h.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2108694114476650840",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "代码生成的海滩场景与音效",
+    "en": "Code-generated beach scene with sound"
+   },
+   "creator": {
+    "handle": "LexnLin",
+    "name": "Leon Lin"
+   },
+   "original_post_url": "https://x.com/LexnLin/status/2108694114476650840",
+   "posted_at": "2026-10-09T23:00:29.000Z",
+   "language": "en",
+   "duration_seconds": 18,
+   "views": 21973,
+   "likes": 520,
+   "bookmarks": 240,
+   "views_checked_at": "2026-10-11T05:17:47.827Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2108693683654594560/img/hNCzb6pLzo1fNunW.jpg",
    "tools_reported": [],
    "reference_assets": false,
    "prompt": null,
@@ -30323,6 +30569,34 @@
    "bookmarks": 522,
    "views_checked_at": "2026-10-05T10:05:31.068Z",
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2103468319172898818/img/tkBjVaZ1hVmKhJC0.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2108582046151180791",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "education",
+   "title": {
+    "zh": "Menara Ijazah AI研究解说视频",
+    "en": "Menara Ijazah AI-researched explainer video"
+   },
+   "creator": {
+    "handle": "ainunnajib",
+    "name": "Ainun Najib"
+   },
+   "original_post_url": "https://x.com/ainunnajib/status/2108582046151180791",
+   "posted_at": "2026-10-09T15:35:10.000Z",
+   "language": "en",
+   "duration_seconds": 139,
+   "views": 21017,
+   "likes": 128,
+   "bookmarks": 33,
+   "views_checked_at": "2026-10-11T05:17:47.827Z",
+   "thumbnail_url": "https://pbs.twimg.com/media/HUMwJfHaMAAs6Mr.jpg",
    "tools_reported": [],
    "reference_assets": false,
    "prompt": null,
@@ -31101,6 +31375,47 @@
    "resources": []
   },
   {
+   "id": "2108735367331672201",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "game",
+   "title": {
+    "zh": "用Opus 5.5重制的3D游戏",
+    "en": "3D game remake built with Opus 5.5"
+   },
+   "creator": {
+    "handle": "Graalitoo",
+    "name": "Graalito"
+   },
+   "original_post_url": "https://x.com/Graalitoo/status/2108735367331672201",
+   "posted_at": "2026-10-10T01:44:24.000Z",
+   "language": "en",
+   "duration_seconds": 214,
+   "views": 19971,
+   "likes": 245,
+   "bookmarks": 107,
+   "views_checked_at": "2026-10-11T05:17:47.827Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2108734906608300032/img/XlKvZ9eFKVBL5FB6.jpg",
+   "tools_reported": [
+    "Blender",
+    "Tripo",
+    "Godot",
+    "ElevenLabs",
+    "Mixamo",
+    "Auto Rig Pro"
+   ],
+   "reference_assets": true,
+   "prompt": {
+    "kind": "full",
+    "source": "author_reply",
+    "source_url": "https://x.com/Graalitoo/status/2108904792009609615",
+    "length": 393,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2108735367331672201"
+   },
+   "resources": []
+  },
+  {
    "id": "2107108561851445324",
    "models": [
     "opus-5.5"
@@ -31222,6 +31537,37 @@
     "length": 276,
     "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103511590884815282"
    },
+   "resources": []
+  },
+  {
+   "id": "2108625504450592923",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "stories",
+   "title": {
+    "zh": "博尔赫斯风格双线叙事短片",
+    "en": "Borges-inspired dual narrative short film"
+   },
+   "creator": {
+    "handle": "julianleiss",
+    "name": "Julián Leiss"
+   },
+   "original_post_url": "https://x.com/julianleiss/status/2108625504450592923",
+   "posted_at": "2026-10-09T18:27:51.000Z",
+   "language": "en",
+   "duration_seconds": 36,
+   "views": 19665,
+   "likes": 396,
+   "bookmarks": 372,
+   "views_checked_at": "2026-10-11T05:17:47.827Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2108625398254755841/img/Zm3wS-N8munSSFfM.jpg",
+   "tools_reported": [
+    "Paper",
+    "Midjourney"
+   ],
+   "reference_assets": false,
+   "prompt": null,
    "resources": []
   },
   {
@@ -34195,6 +34541,40 @@
     "source_url": "https://x.com/npaka123/status/2102695787721584792",
     "length": 67,
     "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102695787721584792"
+   },
+   "resources": []
+  },
+  {
+   "id": "2108570705692357094",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "motion",
+   "title": {
+    "zh": "橙色圆点动态设计系统",
+    "en": "Orange dot kinetic motion system"
+   },
+   "creator": {
+    "handle": "rossaxbt",
+    "name": "testarossa"
+   },
+   "original_post_url": "https://x.com/rossaxbt/status/2108570705692357094",
+   "posted_at": "2026-10-09T14:50:06.000Z",
+   "language": "en",
+   "duration_seconds": 15,
+   "views": 16215,
+   "likes": 252,
+   "bookmarks": 273,
+   "views_checked_at": "2026-10-11T05:17:47.827Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2108545224762851328/img/nTtZ_lzf733Ffiuq.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "full",
+    "source": "post",
+    "source_url": "https://x.com/rossaxbt/status/2108570705692357094",
+    "length": 3367,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2108570705692357094"
    },
    "resources": []
   },
@@ -37597,6 +37977,37 @@
    "resources": []
   },
   {
+   "id": "2108767659873681627",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "game",
+   "title": {
+    "zh": "Heatsink飞行赛车游戏更新",
+    "en": "Heatsink drone racing game update"
+   },
+   "creator": {
+    "handle": "aniketjart",
+    "name": "Aniket J"
+   },
+   "original_post_url": "https://x.com/aniketjart/status/2108767659873681627",
+   "posted_at": "2026-10-10T03:52:43.000Z",
+   "language": "en",
+   "duration_seconds": 30,
+   "views": 12261,
+   "likes": 214,
+   "bookmarks": 128,
+   "views_checked_at": "2026-10-11T05:17:47.827Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2108766717677871104/img/fNt0eWyJPBdI3yGi.jpg",
+   "tools_reported": [
+    "Crayon",
+    "Three.js"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2106130713439256844",
    "models": [
     "opus-5.5"
@@ -38235,6 +38646,37 @@
     "length": 21,
     "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103668069801624015"
    },
+   "resources": []
+  },
+  {
+   "id": "2108595566578192759",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "game",
+   "title": {
+    "zh": "沿海小镇建造3D游戏",
+    "en": "3D coastal town building game"
+   },
+   "creator": {
+    "handle": "techartist_",
+    "name": "Techartist"
+   },
+   "original_post_url": "https://x.com/techartist_/status/2108595566578192759",
+   "posted_at": "2026-10-09T16:28:53.000Z",
+   "language": "en",
+   "duration_seconds": 25,
+   "views": 11718,
+   "likes": 338,
+   "bookmarks": 177,
+   "views_checked_at": "2026-10-11T05:17:47.827Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2108594969250582531/img/W020kDlTgRjdn9UY.jpg",
+   "tools_reported": [
+    "Three.js",
+    "Blender"
+   ],
+   "reference_assets": false,
+   "prompt": null,
    "resources": []
   },
   {
@@ -40260,6 +40702,35 @@
    "resources": []
   },
   {
+   "id": "2108590346309706221",
+   "models": [
+    "haiku-5.5",
+    "fable-5.5"
+   ],
+   "category": "game",
+   "title": {
+    "zh": "带天气、生物和武器的我的世界式沙盒游戏",
+    "en": "Minecraft-style sandbox with weather, mobs and weapons"
+   },
+   "creator": {
+    "handle": "notjazii",
+    "name": "J A Z I I"
+   },
+   "original_post_url": "https://x.com/notjazii/status/2108590346309706221",
+   "posted_at": "2026-10-09T16:08:08.000Z",
+   "language": "en",
+   "duration_seconds": 69,
+   "views": 10119,
+   "likes": 257,
+   "bookmarks": 26,
+   "views_checked_at": "2026-10-11T05:17:47.827Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2108590182840877056/img/i89L-HXMxVm0r7HO.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2103552356495597990",
    "models": [
     "opus-5.5"
@@ -41111,6 +41582,43 @@
     "source_url": "https://x.com/LexnLin/status/2106843517603463598",
     "length": 302,
     "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2106843514772639995"
+   },
+   "resources": []
+  },
+  {
+   "id": "2108649845405929924",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "果冻王国场景对比：Opus对GPT-6 Astra",
+    "en": "Jelly kingdom scene: Opus vs GPT-6 Astra"
+   },
+   "creator": {
+    "handle": "vib3coded",
+    "name": "Vib3Coded"
+   },
+   "original_post_url": "https://x.com/vib3coded/status/2108649845405929924",
+   "posted_at": "2026-10-09T20:04:34.000Z",
+   "language": "en",
+   "duration_seconds": 18,
+   "views": 9175,
+   "likes": 245,
+   "bookmarks": 107,
+   "views_checked_at": "2026-10-11T05:17:47.827Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2108649604161863680/img/q4PFb-ZFSwAj5K7x.jpg",
+   "tools_reported": [
+    "GPT-6 Astra",
+    "WebGPU"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "full",
+    "source": "author_reply",
+    "source_url": "https://x.com/vib3coded/status/2108649989098594707",
+    "length": 1974,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2108649845405929924"
    },
    "resources": []
   },
@@ -41972,6 +42480,34 @@
     "length": 81,
     "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2108159697782239511"
    },
+   "resources": []
+  },
+  {
+   "id": "2108567673890111948",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "stories",
+   "title": {
+    "zh": "纸艺风格动画短片",
+    "en": "Paper-style stop-motion animation"
+   },
+   "creator": {
+    "handle": "LexnLin",
+    "name": "Leon Lin"
+   },
+   "original_post_url": "https://x.com/LexnLin/status/2108567673890111948",
+   "posted_at": "2026-10-09T14:38:03.000Z",
+   "language": "en",
+   "duration_seconds": 30,
+   "views": 8569,
+   "likes": 238,
+   "bookmarks": 91,
+   "views_checked_at": "2026-10-11T05:17:47.827Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2108567268820987904/img/1Rv5Fb9y9OaV32Wj.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
    "resources": []
   },
   {
@@ -45218,6 +45754,36 @@
     "Sonnet 5.5"
    ],
    "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2108606277618413780",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "game",
+   "title": {
+    "zh": "将辐射3末日镇移植到辐射2的模组",
+    "en": "Fallout 2 mod porting Megaton from Fallout 3"
+   },
+   "creator": {
+    "handle": "parhelion318",
+    "name": "Dr. Apolotary"
+   },
+   "original_post_url": "https://x.com/parhelion318/status/2108606277618413780",
+   "posted_at": "2026-10-09T17:11:27.000Z",
+   "language": "ru",
+   "duration_seconds": 70,
+   "views": 5137,
+   "likes": 112,
+   "bookmarks": 32,
+   "views_checked_at": "2026-10-11T05:17:47.827Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2108606167228485632/img/3-8licnQ1MQcGjSE.jpg",
+   "tools_reported": [
+    "Blender"
+   ],
+   "reference_assets": true,
    "prompt": null,
    "resources": []
   },

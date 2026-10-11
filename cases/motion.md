@@ -1,6 +1,6 @@
 # Motion graphics & UI
 
-235 works, 85 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+238 works, 86 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Video made with slop cannon MCP](https://x.com/boneGPT/status/2102484877941911734) | Opus 5.5 | [@boneGPT](https://x.com/boneGPT) | 1:20 | — |
 | [Apple-style launch video made with the brag skill](https://x.com/0xhrushi/status/2103392921559126157) | Opus 5.5 | [@0xhrushi](https://x.com/0xhrushi) | 0:25 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103392921559126157) |
 | [15-second motion design showreel (detailed prompt)](https://x.com/darel023/status/2103424524297420829) | Opus 5.5 | [@darel023](https://x.com/darel023) | 0:15 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103424524297420829) |
+| [Motion design studio built with GrokBot and Opus 5.5](https://x.com/0xRafy/status/2108673427590590971) | Opus 5.5 | [@0xRafy](https://x.com/0xRafy) | 0:44 | — |
 | [Typography motion graphics animation](https://x.com/higgsfield_ai/status/2103963588012744859) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:15 | — |
 | [Behind the scenes: coded motion graphics video](https://x.com/shneural/status/2103472385563459833) | Opus 5.5 | [@shneural](https://x.com/shneural) | 0:56 | — |
 | [JavaScript animation via Replit Animation](https://x.com/samuel_spitz/status/2103293794594816100) | Opus 5.5 | [@samuel_spitz](https://x.com/samuel_spitz) | 0:28 | — |
@@ -150,6 +151,7 @@
 | [Motion design built in After Effects via MCP](https://x.com/higgsfield_ai/status/2103853474098352326) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:12 | — |
 | [Code-painted animation](https://x.com/chetaslua/status/2106833074302710023) | Fable 5.5 (preview) | [@chetaslua](https://x.com/chetaslua) | 0:44 | — |
 | [YouTube intro animation](https://x.com/franperez_fp/status/2104709328238199145) | Sonnet 5.5 | [@franperez_fp](https://x.com/franperez_fp) | 0:09 | — |
+| [Motion design recreated from reference clip](https://x.com/gxjo_dev/status/2108632470551933011) | Opus 5.5 | [@gxjo_dev](https://x.com/gxjo_dev) | 0:19 | — |
 | [Self-introduction motion graphics from a script](https://x.com/kumiko_shiraki/status/2103771566982959414) | Opus 5.5 | [@kumiko_shiraki](https://x.com/kumiko_shiraki) | 0:48 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103771566982959414) |
 | [Dot-themed motion video](https://x.com/seiiiiiiiiiiru/status/2107018580265201724) | Opus 5.5 | [@seiiiiiiiiiiru](https://x.com/seiiiiiiiiiiru) | 0:15 | — |
 | [10-second motion showreel remake](https://x.com/mattiapomelli/status/2103757371357229129) | Opus 5.5 | [@mattiapomelli](https://x.com/mattiapomelli) | 0:10 | — |
@@ -173,6 +175,7 @@
 | [Vertical format AI-generated video](https://x.com/akshaymarch7/status/2103549144606572886) | Opus 5.5 | [@akshaymarch7](https://x.com/akshaymarch7) | 0:52 | — |
 | [Motion design showcase](https://x.com/2irl4u/status/2103650989849055268) | Opus 5.5 | [@2irl4u](https://x.com/2irl4u) | 0:45 | — |
 | [Engineering sketches animated into machines](https://x.com/higgsfield_ai/status/2102831492024172840) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:29 | — |
+| [Orange dot kinetic motion system](https://x.com/rossaxbt/status/2108570705692357094) | Opus 5.5 | [@rossaxbt](https://x.com/rossaxbt) | 0:15 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2108570705692357094) |
 | [Stock market themed promo video](https://x.com/Capybara_Stock/status/2103627768521281672) | Opus 5.5 | [@Capybara_Stock](https://x.com/Capybara_Stock) | 0:15 | — |
 | [Recreated viral video style](https://x.com/servasyy_ai/status/2103830430189486358) | Opus 5.5 | [@servasyy_ai](https://x.com/servasyy_ai) | 1:00 | — |
 | [Motion short about task delegation](https://x.com/kelanoo/status/2108199183983497433) | Opus 5.5 | [@kelanoo](https://x.com/kelanoo) | 0:20 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2108199183983497433) |

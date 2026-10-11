@@ -1,6 +1,6 @@
 # 3D worlds & simulations
 
-204 works, 49 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+205 works, 49 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Turkish marbling simulation engine](https://x.com/dhruvalgolakiya/status/2105705406958067765) | Opus 5.5 | [@dhruvalgolakiya](https://x.com/dhruvalgolakiya) | 0:51 | — |
 | [Interactive ink-style shrimp shader](https://x.com/jshguo/status/2105250266392224097) | Opus 5.5 | [@jshguo](https://x.com/jshguo) | 0:10 | — |
 | [Pixel art animation piece](https://x.com/SpikeRiser/status/2102581008654594124) | Opus 5.5 | [@SpikeRiser](https://x.com/SpikeRiser) | 3:30 | — |
+| [Code-generated beach scene with sound](https://x.com/LexnLin/status/2108694114476650840) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 0:18 | — |
 | [Claymation via open-source Blender skill](https://x.com/angrypenguinPNG/status/2103205636662341661) | Opus 5.5 | [@angrypenguinPNG](https://x.com/angrypenguinPNG) | 0:20 | — |
 | [Step-by-step 3D kitchen remodel plan](https://x.com/Skylartkitchen/status/2103468829859020824) | Opus 5.5 | [@Skylartkitchen](https://x.com/Skylartkitchen) | 1:02 | — |
 | [Walkable 3D museum tour](https://x.com/mohamedbakuly/status/2102746374450094323) | Opus 5.5 | [@mohamedbakuly](https://x.com/mohamedbakuly) | 1:59 | — |

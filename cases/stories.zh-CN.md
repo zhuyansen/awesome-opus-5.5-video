@@ -1,6 +1,6 @@
 # 角色故事
 
-共 148 个作品，其中 37 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 151 个作品，其中 37 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [奥术风格动画](https://x.com/ChrisGPT/status/2105045818046808380) | Opus 5.5 | [@ChrisGPT](https://x.com/ChrisGPT) | 0:09 | — |
 | [讲述Claude内心感受的动画](https://x.com/AndrewOnXYZ/status/2102817596009504849) | Opus 5.5 | [@AndrewOnXYZ](https://x.com/AndrewOnXYZ) | 3:32 | — |
 | [代码实现的1分钟打斗动画](https://x.com/akokoi1/status/2103149275945517546) | Opus 5.5 | [@akokoi1](https://x.com/akokoi1) | 1:00 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103149275945517546) |
+| [AI漫画配音版第一章](https://x.com/zerozakiyamo/status/2108696942108938245) | Opus 5.5 | [@zerozakiyamo](https://x.com/zerozakiyamo) | 5:52 | — |
 | [戏剧化个人"战斗"叙事视频](https://x.com/super_bonochin/status/2103881739131376035) | Opus 5.5 | [@super_bonochin](https://x.com/super_bonochin) | 1:05 | — |
 | [蜘蛛侠漫画时代变迁](https://x.com/chetaslua/status/2106248621519978867) | Fable 5.5 (preview) | [@chetaslua](https://x.com/chetaslua) | 0:38 | — |
 | [手绘草图转3D对战动画](https://x.com/MinLiBuilds/status/2102756822990180387) | Opus 5.5 | [@MinLiBuilds](https://x.com/MinLiBuilds) | 1:43 | — |
@@ -106,6 +107,7 @@
 | [葡萄牙语歌曲音乐视频](https://x.com/goncalo_canhoto/status/2103945822085738890) | Opus 5.5 | [@goncalo_canhoto](https://x.com/goncalo_canhoto) | 2:52 | — |
 | [关于世界如何形成的创世故事](https://x.com/Iamshankhadeep/status/2103087123503177752) | Opus 5.5 | [@Iamshankhadeep](https://x.com/Iamshankhadeep) | 1:00 | — |
 | [为Claude创作歌曲制作的动画音乐视频](https://x.com/Skoorbkaz/status/2102973119115690211) | Opus 5.5 | [@Skoorbkaz](https://x.com/Skoorbkaz) | 5:13 | — |
+| [博尔赫斯风格双线叙事短片](https://x.com/julianleiss/status/2108625504450592923) | Opus 5.5 | [@julianleiss](https://x.com/julianleiss) | 0:36 | — |
 | [音乐人非官方粉丝视频](https://x.com/ystknsh/status/2102766871007436993) | Opus 5.5 | [@ystknsh](https://x.com/ystknsh) | 0:30 | — |
 | [火车窗外四季变换动画短片](https://x.com/itsolelehmann/status/2103124033365762215) | Opus 5.5 | [@itsolelehmann](https://x.com/itsolelehmann) | 0:30 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103124033365762215) |
 | [柏拉图《普罗泰戈拉》改编电影片段](https://x.com/danshipper/status/2103850415930708437) | Opus 5.5 | [@danshipper](https://x.com/danshipper) | 3:10 | — |
@@ -142,6 +144,7 @@
 | [Clawd(Claude吉祥物）的一天](https://x.com/vikktorrrre/status/2102702170986463421) | Opus 5.5 | [@vikktorrrre](https://x.com/vikktorrrre) | 1:04 | — |
 | [魔性版般若心经音乐视频](https://x.com/nishio/status/2103494810720198914) | Opus 5.5 | [@nishio](https://x.com/nishio) | 3:04 | — |
 | [人类历史简笔画动画](https://x.com/oalanicolas/status/2107958931230241037) | Fable 5.5 (preview) | [@oalanicolas](https://x.com/oalanicolas) | 1:29 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2107958931230241037) |
+| [纸艺风格动画短片](https://x.com/LexnLin/status/2108567673890111948) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 0:30 | — |
 | [波斯诗歌的可视化短片](https://x.com/kimziify/status/2103784499125559530) | Opus 5.5 | [@kimziify](https://x.com/kimziify) | 0:16 | — |
 | [纯代码制作的克苏鲁神话动画](https://x.com/yachimat_manga/status/2102531524663099868) | Opus 5.5 | [@yachimat_manga](https://x.com/yachimat_manga) | 1:01 | — |
 | [像素画角色的代码绑定动画](https://x.com/MindGate_dev/status/2103712991409774609) | Opus 5.5 | [@MindGate_dev](https://x.com/MindGate_dev) | 0:25 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103712991409774609) |

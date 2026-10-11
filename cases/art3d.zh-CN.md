@@ -1,6 +1,6 @@
 # 3D 场景
 
-共 204 个作品，其中 49 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 205 个作品，其中 49 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [土耳其大理石纹模拟引擎](https://x.com/dhruvalgolakiya/status/2105705406958067765) | Opus 5.5 | [@dhruvalgolakiya](https://x.com/dhruvalgolakiya) | 0:51 | — |
 | [水墨风格虾互动着色器](https://x.com/jshguo/status/2105250266392224097) | Opus 5.5 | [@jshguo](https://x.com/jshguo) | 0:10 | — |
 | [像素风动画作品](https://x.com/SpikeRiser/status/2102581008654594124) | Opus 5.5 | [@SpikeRiser](https://x.com/SpikeRiser) | 3:30 | — |
+| [代码生成的海滩场景与音效](https://x.com/LexnLin/status/2108694114476650840) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 0:18 | — |
 | [开源Blender黏土动画技能演示](https://x.com/angrypenguinPNG/status/2103205636662341661) | Opus 5.5 | [@angrypenguinPNG](https://x.com/angrypenguinPNG) | 0:20 | — |
 | [逐步3D厨房改造方案](https://x.com/Skylartkitchen/status/2103468829859020824) | Opus 5.5 | [@Skylartkitchen](https://x.com/Skylartkitchen) | 1:02 | — |
 | [可漫游3D博物馆导览](https://x.com/mohamedbakuly/status/2102746374450094323) | Opus 5.5 | [@mohamedbakuly](https://x.com/mohamedbakuly) | 1:59 | — |

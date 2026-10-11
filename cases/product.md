@@ -1,6 +1,6 @@
 # Product demos & ads
 
-185 works, 34 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+186 works, 35 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Dedicated PR reviewer tool demo](https://x.com/jessethanley/status/2103981726779531444) | Opus 5.5 | [@jessethanley](https://x.com/jessethanley) | 0:07 | — |
 | [OpsLoop dashboard built in one day](https://x.com/jubayer6910/status/2103496352005296635) | Opus 5.5 | [@jubayer6910](https://x.com/jubayer6910) | 1:59 | — |
 | [Mac app design system overhaul](https://x.com/dprophecyguy/status/2102735000177451446) | Opus 5.5 | [@dprophecyguy](https://x.com/dprophecyguy) | 0:45 | — |
+| [Fishing game trailer made in Blender](https://x.com/Blushneyy/status/2108644023330390194) | Opus 5.5 | [@Blushneyy](https://x.com/Blushneyy) | 0:43 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2108644023330390194) |
 | [Marketing video made with simple prompt](https://x.com/samuel_yostt/status/2105746669035733275) | Opus 5.5 | [@samuel_yostt](https://x.com/samuel_yostt) | 0:15 | — |
 | [AI-generated brand guideline demo](https://x.com/PancaSeptiana/status/2103024285174673413) | Opus 5.5 | [@PancaSeptiana](https://x.com/PancaSeptiana) | 0:15 | — |
 | [Dub.co promo video one-shot](https://x.com/steventey/status/2103625902211088880) | Opus 5.5 | [@steventey](https://x.com/steventey) | 0:15 | — |

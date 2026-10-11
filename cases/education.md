@@ -1,6 +1,6 @@
 # Explainers & education
 
-137 works, 46 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+138 works, 46 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Manim derivative concept teaching video](https://x.com/LinearUncle/status/2103128559174971663) | Opus 5.5 | [@LinearUncle](https://x.com/LinearUncle) | 7:37 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103128559174971663) |
 | [Explainer on an ancient eastern civilization](https://x.com/yanhua1010/status/2103712543168680363) | Opus 5.5 | [@yanhua1010](https://x.com/yanhua1010) | 2:15 | — |
 | [Interactive view inside an LLM](https://x.com/KimizLlm/status/2106089511411409081) | Opus 5.5 | [@KimizLlm](https://x.com/KimizLlm) | 4:44 | — |
+| [Menara Ijazah AI-researched explainer video](https://x.com/ainunnajib/status/2108582046151180791) | Opus 5.5 | [@ainunnajib](https://x.com/ainunnajib) | 2:19 | — |
 | [Animated slides explaining embeddings](https://x.com/antonioleivag/status/2107833536669532671) | Opus 5.5 | [@antonioleivag](https://x.com/antonioleivag) | 0:42 | — |
 | [24 solar terms animation with Bagua diagram](https://x.com/threeaus/status/2103518455404396927) | Opus 5.5 | [@threeaus](https://x.com/threeaus) | 1:03 | — |
 | [History of Indonesia animated documentary](https://x.com/sonnylazuardi/status/2103511590884815282) | Opus 5.5 | [@sonnylazuardi](https://x.com/sonnylazuardi) | 0:53 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103511590884815282) |

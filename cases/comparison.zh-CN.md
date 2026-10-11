@@ -1,6 +1,6 @@
 # 模型对比
 
-共 194 个作品，其中 58 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 196 个作品，其中 60 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [四模型3D火箭发射对比](https://x.com/higgsfield_ai/status/2102565251883606206) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:17 | — |
 | [免费额度滑雪游戏制作对比](https://x.com/kis/status/2104697370181263415) | Sonnet 5.5 | [@kis](https://x.com/kis) | 0:26 | — |
 | [扫院子落叶的工具调用对比演示](https://x.com/_catwu/status/2104639552170377399) | Sonnet 5.5 | [@_catwu](https://x.com/_catwu) | 0:19 | — |
+| [Three.js牛顿摆：Opus对比Astra 6](https://x.com/ivanainai/status/2108625335122026542) | Opus 5.5 | [@ivanainai](https://x.com/ivanainai) | 0:24 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2108625335122026542) |
 | [两款AI模型视觉效果对比](https://x.com/HarshithLucky3/status/2103821120009048245) | Opus 5.5 | [@HarshithLucky3](https://x.com/HarshithLucky3) | 0:45 | — |
 | [日式幻想城市像素动画](https://x.com/notjazii/status/2105033612093698466) | Opus 5.5 / Sonnet 5.5 | [@notjazii](https://x.com/notjazii) | 0:08 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2105033612093698466) |
 | [太阳朋克城市着色器基准测试](https://x.com/danveloper/status/2102483043252424986) | Opus 5.5 | [@danveloper](https://x.com/danveloper) | 0:18 | — |
@@ -189,6 +190,7 @@
 | [毛绒龙物理效果对比](https://x.com/vib3coded/status/2107020311380033949) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:18 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2107020311380033949) |
 | [配音技能与无技能视频效果对比](https://x.com/VincentWei93/status/2103549280082612377) | Opus 5.5 | [@VincentWei93](https://x.com/VincentWei93) | 1:35 | — |
 | [Sonnet 5.5对比GPT-6 Astra的产出对比](https://x.com/notjazii/status/2104657634775486794) | Sonnet 5.5 | [@notjazii](https://x.com/notjazii) | 0:50 | — |
+| [果冻王国场景对比：Opus对GPT-6 Astra](https://x.com/vib3coded/status/2108649845405929924) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:18 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2108649845405929924) |
 | [火山模拟器模型对比](https://x.com/TokenGremlin/status/2106083195578122697) | Opus 5.5 | [@TokenGremlin](https://x.com/TokenGremlin) | 1:01 | — |
 | [熔岩灯3D渲染基准测试](https://x.com/SimonasLTU1/status/2108159697782239511) | Haiku 5.5 | [@SimonasLTU1](https://x.com/SimonasLTU1) | 0:18 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2108159697782239511) |
 | [Opus 5.5 与 Astra 作为机器人策略的token对比](https://x.com/dimentary/status/2103574284576977325) | Opus 5.5 | [@dimentary](https://x.com/dimentary) | 1:16 | — |
