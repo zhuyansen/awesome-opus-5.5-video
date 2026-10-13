@@ -1,6 +1,6 @@
 # 制作流程
 
-共 108 个作品，其中 18 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 109 个作品，其中 18 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [多工具漫才短片制作流程](https://x.com/tkz_aiart/status/2103408393470066754) | Opus 5.5 | [@tkz_aiart](https://x.com/tkz_aiart) | 0:56 | — |
 | [KAMI Circuit音乐可视化影像](https://x.com/aratamadao/status/2103706285204255186) | Opus 5.5 | [@aratamadao](https://x.com/aratamadao) | 0:28 | — |
 | [多模型协作的视频制作流程](https://x.com/KanaWorks_AI/status/2103836147277345052) | Opus 5.5 | [@KanaWorks_AI](https://x.com/KanaWorks_AI) | 0:15 | — |
+| [视频制作幕后工作流程](https://x.com/aicreataro/status/2109286588891214094) | Opus 5.5 | [@aicreataro](https://x.com/aicreataro) | 0:42 | — |
 | [用TidalCycles现场编码创作的歌曲](https://x.com/surucudev/status/2103917032706101254) | Opus 5.5 | [@surucudev](https://x.com/surucudev) | 2:42 | — |
 | [AI执导的游戏引擎电影场景](https://x.com/sameerpallav/status/2103586713801257017) | Opus 5.5 | [@sameerpallav](https://x.com/sameerpallav) | 3:58 | — |
 | [用Opus和HeyGen剪辑的YouTube视频](https://x.com/MakeAI_CEO/status/2103086491157336249) | Opus 5.5 | [@MakeAI_CEO](https://x.com/MakeAI_CEO) | 1:03 | — |

@@ -3,8 +3,8 @@
  "model": "Claude 5.5 (Opus 5.5 · Sonnet 5.5 · Haiku 5.5 · Fable 5.5)",
  "inclusion_rule": "Original post by the creator, native video attached, >= 5000 views on that post, creator states it was made with Claude Opus 5.5, Sonnet 5.5, Haiku 5.5 or Fable 5.5 (Fable 5.5 is in limited preview, not yet announced). Later posts that embed another account's upload are excluded.",
  "views_threshold": 5000,
- "stats_checked_at": "2026-10-12T10:21:57.299Z",
- "updated_at": "2026-10-12T10:21:57.299Z",
+ "stats_checked_at": "2026-10-12T21:45:39.293Z",
+ "updated_at": "2026-10-12T21:45:39.293Z",
  "model_attribution": "As stated by each creator; not independently reproduced.",
  "cases": [
   {
@@ -17293,6 +17293,38 @@
    "resources": []
   },
   {
+   "id": "2109326958576480609",
+   "models": [
+    "opus-5.5",
+    "sonnet-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "马里奥赛车场景模型对比",
+    "en": "Mario Kart scene model comparison"
+   },
+   "creator": {
+    "handle": "LuminaBench",
+    "name": "Lumina"
+   },
+   "original_post_url": "https://x.com/LuminaBench/status/2109326958576480609",
+   "posted_at": "2026-10-11T16:55:10.000Z",
+   "language": "en",
+   "duration_seconds": 55,
+   "views": 59750,
+   "likes": 367,
+   "bookmarks": 73,
+   "views_checked_at": "2026-10-12T21:45:39.293Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2109326835670503425/img/UoYsyCLkvVoOWeHJ.jpg",
+   "tools_reported": [
+    "Astra",
+    "GPT-6.1 Sol"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2108159853533466672",
    "models": [
     "opus-5.5"
@@ -23824,6 +23856,34 @@
    "resources": []
   },
   {
+   "id": "2109308802310828315",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "game",
+   "title": {
+    "zh": "GTA风格召唤凋零怪恶搞",
+    "en": "GTA-style Wither spawn prank build"
+   },
+   "creator": {
+    "handle": "bonnyxen",
+    "name": "Bonny"
+   },
+   "original_post_url": "https://x.com/bonnyxen/status/2109308802310828315",
+   "posted_at": "2026-10-11T15:43:02.000Z",
+   "language": "en",
+   "duration_seconds": 103,
+   "views": 37726,
+   "likes": 220,
+   "bookmarks": 65,
+   "views_checked_at": "2026-10-12T21:45:39.293Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2109308524614279168/img/3kwRREhTTldz7QQN.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2104955803492864077",
    "models": [
     "opus-5.5"
@@ -29924,6 +29984,46 @@
    "resources": []
   },
   {
+   "id": "2109317150980940047",
+   "models": [
+    "sonnet-5.5",
+    "haiku-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "夜间列车模型基准对比",
+    "en": "Night train model benchmark comparison"
+   },
+   "creator": {
+    "handle": "EnvolDev",
+    "name": "Tony"
+   },
+   "original_post_url": "https://x.com/EnvolDev/status/2109317150980940047",
+   "posted_at": "2026-10-11T16:16:12.000Z",
+   "language": "en",
+   "duration_seconds": 25,
+   "views": 23124,
+   "likes": 179,
+   "bookmarks": 46,
+   "views_checked_at": "2026-10-12T21:45:39.293Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2109316665095897088/img/ID2o1AZDNTFskBo_.jpg",
+   "tools_reported": [
+    "GPT-6 Luna",
+    "GPT-6.1 Sol",
+    "Codex",
+    "Astra"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "brief",
+    "source": "post",
+    "source_url": "https://x.com/EnvolDev/status/2109317150980940047",
+    "length": 20,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2109317150980940047"
+   },
+   "resources": []
+  },
+  {
    "id": "2103559455245996088",
    "models": [
     "opus-5.5"
@@ -34392,6 +34492,40 @@
    "resources": []
   },
   {
+   "id": "2109314447508709796",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "game",
+   "title": {
+    "zh": "萤火虫瀑布治愈系游戏场景",
+    "en": "Cozy fireflies and waterfall game scene"
+   },
+   "creator": {
+    "handle": "keydol123",
+    "name": "Harry Jackson"
+   },
+   "original_post_url": "https://x.com/keydol123/status/2109314447508709796",
+   "posted_at": "2026-10-11T16:05:28.000Z",
+   "language": "en",
+   "duration_seconds": 69,
+   "views": 17182,
+   "likes": 368,
+   "bookmarks": 186,
+   "views_checked_at": "2026-10-12T21:45:39.293Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2109312182454480896/img/4gkmfB0ICFCFyNd_.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "brief",
+    "source": "post",
+    "source_url": "https://x.com/keydol123/status/2109314447508709796",
+    "length": 18,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2109314447508709796"
+   },
+   "resources": []
+  },
+  {
    "id": "2105310327886029275",
    "models": [
     "opus-5.5"
@@ -37236,6 +37370,37 @@
     "length": 1058,
     "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103757767727255661"
    },
+   "resources": []
+  },
+  {
+   "id": "2109286588891214094",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "production",
+   "title": {
+    "zh": "视频制作幕后工作流程",
+    "en": "Behind-the-scenes video production workflow"
+   },
+   "creator": {
+    "handle": "aicreataro",
+    "name": "aicreataro"
+   },
+   "original_post_url": "https://x.com/aicreataro/status/2109286588891214094",
+   "posted_at": "2026-10-11T14:14:46.000Z",
+   "language": "ja",
+   "duration_seconds": 42,
+   "views": 13766,
+   "likes": 242,
+   "bookmarks": 171,
+   "views_checked_at": "2026-10-12T21:45:39.293Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2109286286704168960/img/luMcdF0iEe6bgOrf.jpg",
+   "tools_reported": [
+    "Blender",
+    "After Effects"
+   ],
+   "reference_assets": false,
+   "prompt": null,
    "resources": []
   },
   {
@@ -42042,6 +42207,40 @@
    "resources": []
   },
   {
+   "id": "2109297440021201074",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "用JavaScript生成的瑞典邮票设计",
+    "en": "Swedish stamp designs generated in JavaScript"
+   },
+   "creator": {
+    "handle": "ermanmalak",
+    "name": "Erman Malak"
+   },
+   "original_post_url": "https://x.com/ermanmalak/status/2109297440021201074",
+   "posted_at": "2026-10-11T14:57:53.000Z",
+   "language": "en",
+   "duration_seconds": 10,
+   "views": 9397,
+   "likes": 395,
+   "bookmarks": 204,
+   "views_checked_at": "2026-10-12T21:45:39.293Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2109297417355137025/img/BM0eJg9q5k1vTWAz.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "brief",
+    "source": "post",
+    "source_url": "https://x.com/ermanmalak/status/2109297440021201074",
+    "length": 40,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2109297440021201074"
+   },
+   "resources": []
+  },
+  {
    "id": "2103487198758834408",
    "models": [
     "opus-5.5"
@@ -46160,6 +46359,43 @@
     "source_url": "https://x.com/kazunoko575/status/2103390803192352888",
     "length": 15,
     "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103390803192352888"
+   },
+   "resources": []
+  },
+  {
+   "id": "2109288662319919127",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "互动毛绒企鹅模型对比",
+    "en": "Interactive plush penguin model comparison"
+   },
+   "creator": {
+    "handle": "vib3coded",
+    "name": "Vib3Coded"
+   },
+   "original_post_url": "https://x.com/vib3coded/status/2109288662319919127",
+   "posted_at": "2026-10-11T14:23:00.000Z",
+   "language": "en",
+   "duration_seconds": 18,
+   "views": 5251,
+   "likes": 129,
+   "bookmarks": 45,
+   "views_checked_at": "2026-10-12T21:45:39.293Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2109288603134095361/img/qa9H95s_BaCqmnYg.jpg",
+   "tools_reported": [
+    "WebGPU",
+    "GPT-6 Astra"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "full",
+    "source": "author_reply",
+    "source_url": "https://x.com/vib3coded/status/2109288858701455535",
+    "length": 1984,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2109288662319919127"
    },
    "resources": []
   },

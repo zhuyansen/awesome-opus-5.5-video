@@ -1,6 +1,6 @@
 # Music, editing & production
 
-108 works, 18 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+109 works, 18 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Multi-tool comedy skit video pipeline](https://x.com/tkz_aiart/status/2103408393470066754) | Opus 5.5 | [@tkz_aiart](https://x.com/tkz_aiart) | 0:56 | — |
 | [KAMI Circuit music visualizer](https://x.com/aratamadao/status/2103706285204255186) | Opus 5.5 | [@aratamadao](https://x.com/aratamadao) | 0:28 | — |
 | [Multi-model video production pipeline](https://x.com/KanaWorks_AI/status/2103836147277345052) | Opus 5.5 | [@KanaWorks_AI](https://x.com/KanaWorks_AI) | 0:15 | — |
+| [Behind-the-scenes video production workflow](https://x.com/aicreataro/status/2109286588891214094) | Opus 5.5 | [@aicreataro](https://x.com/aicreataro) | 0:42 | — |
 | [Livecoded song made with TidalCycles](https://x.com/surucudev/status/2103917032706101254) | Opus 5.5 | [@surucudev](https://x.com/surucudev) | 2:42 | — |
 | [AI-directed cinematic in a game engine](https://x.com/sameerpallav/status/2103586713801257017) | Opus 5.5 | [@sameerpallav](https://x.com/sameerpallav) | 3:58 | — |
 | [YouTube video edited with Opus and HeyGen](https://x.com/MakeAI_CEO/status/2103086491157336249) | Opus 5.5 | [@MakeAI_CEO](https://x.com/MakeAI_CEO) | 1:03 | — |
