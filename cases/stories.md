@@ -1,6 +1,6 @@
 # Characters & stories
 
-150 works, 37 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+152 works, 38 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Viral TikTok recreation with app characters](https://x.com/jackfriks/status/2103882282985558398) | Opus 5.5 | [@jackfriks](https://x.com/jackfriks) | 0:12 | — |
 | [Video of OpenAI solving Navier-Stokes (satire)](https://x.com/apples_jimmy/status/2102615496017473995) | Opus 5.5 | [@apples_jimmy](https://x.com/apples_jimmy) | 1:48 | — |
 | [The Hugging Face incident seen by an agent](https://x.com/CarsonGragg/status/2103245240169808005) | Opus 5.5 | [@CarsonGragg](https://x.com/CarsonGragg) | 5:00 | — |
+| [Video depicting a lifetime](https://x.com/shengtang135754/status/2109598324609409331) | Opus 5.5 | [@shengtang135754](https://x.com/shengtang135754) | 0:29 | — |
 | [Reflective video from theology research](https://x.com/Skoorbkaz/status/2102720902773322034) | Opus 5.5 | [@Skoorbkaz](https://x.com/Skoorbkaz) | 6:14 | — |
 | [Interactive website with a living narrative](https://x.com/Da7_Tech/status/2102794245241548839) | Opus 5.5 | [@Da7_Tech](https://x.com/Da7_Tech) | 1:50 | — |
 | [Frame-by-frame coded music video](https://x.com/vinceflibustier/status/2103590659852751268) | Opus 5.5 | [@vinceflibustier](https://x.com/vinceflibustier) | 4:47 | — |
@@ -100,6 +101,7 @@
 | [Arcane-Style Animation](https://x.com/ChrisGPT/status/2105045818046808380) | Opus 5.5 | [@ChrisGPT](https://x.com/ChrisGPT) | 0:09 | — |
 | [1-minute fight animation in code](https://x.com/akokoi1/status/2103149275945517546) | Opus 5.5 | [@akokoi1](https://x.com/akokoi1) | 1:00 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103149275945517546) |
 | [Spider-Man comic eras](https://x.com/chetaslua/status/2106248621519978867) | Fable 5.5 (preview) | [@chetaslua](https://x.com/chetaslua) | 0:38 | — |
+| [Fable 5.5 self-introduction musical video](https://x.com/ChrisGPT/status/2109570757579649086) | Fable 5.5 (preview) | [@ChrisGPT](https://x.com/ChrisGPT) | 1:16 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2109570757579649086) |
 | [Dramatized personal battle narrative video](https://x.com/super_bonochin/status/2103881739131376035) | Opus 5.5 | [@super_bonochin](https://x.com/super_bonochin) | 1:05 | — |
 | [Sketch-to-3D battle animation](https://x.com/MinLiBuilds/status/2102756822990180387) | Opus 5.5 | [@MinLiBuilds](https://x.com/MinLiBuilds) | 1:43 | — |
 | [Gremlins screenplay movie trailer](https://x.com/JoshDaws/status/2107108840797811032) | Opus 5.5 | [@JoshDaws](https://x.com/JoshDaws) | 1:54 | — |

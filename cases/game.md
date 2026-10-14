@@ -1,6 +1,6 @@
 # Games
 
-267 works, 50 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+269 works, 50 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Cozy metal detector game prototype](https://x.com/zacxbt/status/2103789882309234711) | Opus 5.5 | [@zacxbt](https://x.com/zacxbt) | 0:25 | — |
 | [Kerala snake boat race game](https://x.com/jessinvibe/status/2103565292198838314) | Opus 5.5 | [@jessinvibe](https://x.com/jessinvibe) | 0:51 | — |
 | [Roblox-style board game built from scratch](https://x.com/0xCarnival/status/2102752120978190579) | Opus 5.5 | [@0xCarnival](https://x.com/0xCarnival) | 0:29 | — |
+| [New weapon added to decompiled Halo](https://x.com/robertskmiles/status/2109709807712366623) | Opus 5.5 | [@robertskmiles](https://x.com/robertskmiles) | 0:15 | — |
 | [No Man's Sky-style multiplayer browser game](https://x.com/Rubzem/status/2107828818165833976) | Opus 5.5 | [@Rubzem](https://x.com/Rubzem) | 1:31 | — |
 | [Minecraft-style clone with water physics](https://x.com/notjazii/status/2102480420923420790) | Opus 5.5 | [@notjazii](https://x.com/notjazii) | 1:24 | — |
 | [Recreated classic head-ball flash game](https://x.com/melih_cat/status/2102731155879391418) | Opus 5.5 | [@melih_cat](https://x.com/melih_cat) | 0:18 | — |
@@ -238,6 +239,7 @@
 | [F-Zero-style racing game in Unreal](https://x.com/ForwardEditor/status/2104633533981491575) | Sonnet 5.5 | [@ForwardEditor](https://x.com/ForwardEditor) | 1:57 | — |
 | [Ghibli-themed underwater train sim game](https://x.com/aniketjart/status/2102546641253478674) | Opus 5.5 | [@aniketjart](https://x.com/aniketjart) | 0:29 | — |
 | [Follow-up game recreation clip](https://x.com/LexnLin/status/2103539721649692713) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 0:36 | — |
+| [Balloon island building game](https://x.com/0xbobaaa/status/2109628088430510337) | Opus 5.5 | [@0xbobaaa](https://x.com/0xbobaaa) | 0:30 | — |
 | [CoD Zombies clone built in Three.js](https://x.com/intheworldofai/status/2104689634080882967) | Sonnet 5.5 | [@intheworldofai](https://x.com/intheworldofai) | 2:11 | — |
 | [Space civilization browser game](https://x.com/konstantinsaifo/status/2105261985235444072) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 1:01 | — |
 | [Procedural mountain flight simulator](https://x.com/cyrilXBT/status/2103737605510836371) | Opus 5.5 | [@cyrilXBT](https://x.com/cyrilXBT) | 0:15 | — |

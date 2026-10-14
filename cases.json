@@ -3,8 +3,8 @@
  "model": "Claude 5.5 (Opus 5.5 · Sonnet 5.5 · Haiku 5.5 · Fable 5.5)",
  "inclusion_rule": "Original post by the creator, native video attached, >= 5000 views on that post, creator states it was made with Claude Opus 5.5, Sonnet 5.5, Haiku 5.5 or Fable 5.5 (Fable 5.5 is in limited preview, not yet announced). Later posts that embed another account's upload are excluded.",
  "views_threshold": 5000,
- "stats_checked_at": "2026-10-12T21:45:39.293Z",
- "updated_at": "2026-10-12T21:45:39.293Z",
+ "stats_checked_at": "2026-10-13T19:53:36.885Z",
+ "updated_at": "2026-10-13T19:53:36.885Z",
  "model_attribution": "As stated by each creator; not independently reproduced.",
  "cases": [
   {
@@ -2741,6 +2741,34 @@
    "resources": []
   },
   {
+   "id": "2109723440710066646",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "同一提示词生成的割草机模拟器对比",
+    "en": "Lawn mower simulator built from the same prompt"
+   },
+   "creator": {
+    "handle": "_MaxBlade",
+    "name": "Max Blade"
+   },
+   "original_post_url": "https://x.com/_MaxBlade/status/2109723440710066646",
+   "posted_at": "2026-10-12T19:10:39.000Z",
+   "language": "en",
+   "duration_seconds": 34,
+   "views": 433074,
+   "likes": 1791,
+   "bookmarks": 419,
+   "views_checked_at": "2026-10-13T19:53:36.885Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2109721956362735616/img/zoC-AP6ca6KnRxva.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2104370091672711402",
    "models": [
     "opus-5.5"
@@ -5341,6 +5369,40 @@
    "resources": []
   },
   {
+   "id": "2109730933637283942",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "土豆农场挑战：Astra对战Opus 5.5",
+    "en": "Potato farm growth challenge: Astra vs Opus 5.5"
+   },
+   "creator": {
+    "handle": "fawnunwrap",
+    "name": "fawn"
+   },
+   "original_post_url": "https://x.com/fawnunwrap/status/2109730933637283942",
+   "posted_at": "2026-10-12T19:40:26.000Z",
+   "language": "en",
+   "duration_seconds": 97,
+   "views": 217825,
+   "likes": 2775,
+   "bookmarks": 405,
+   "views_checked_at": "2026-10-13T19:53:36.885Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2109730824295747584/img/o23XGBxnkF_rOThn.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "brief",
+    "source": "post",
+    "source_url": "https://x.com/fawnunwrap/status/2109730933637283942",
+    "length": 63,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2109730933637283942"
+   },
+   "resources": []
+  },
+  {
    "id": "2103009037164110327",
    "models": [
     "opus-5.5"
@@ -6714,6 +6776,42 @@
    "resources": []
   },
   {
+   "id": "2109572982444265656",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "education",
+   "title": {
+    "zh": "新加坡占领巴淡岛逐时推演模拟",
+    "en": "Hour-by-hour simulation of Singapore occupying Batam"
+   },
+   "creator": {
+    "handle": "hanifproduktif",
+    "name": "Hanif | AI For Productivity"
+   },
+   "original_post_url": "https://x.com/hanifproduktif/status/2109572982444265656",
+   "posted_at": "2026-10-12T09:12:47.000Z",
+   "language": "en",
+   "duration_seconds": 261,
+   "views": 168849,
+   "likes": 2278,
+   "bookmarks": 1273,
+   "views_checked_at": "2026-10-13T19:53:36.885Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2109571569240719360/img/s4vs7CUuJIij452T.jpg",
+   "tools_reported": [
+    "HyperFrames"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "brief",
+    "source": "post",
+    "source_url": "https://x.com/hanifproduktif/status/2109572982444265656",
+    "length": 58,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2109572982444265656"
+   },
+   "resources": []
+  },
+  {
    "id": "2102472218269900876",
    "models": [
     "opus-5.5"
@@ -7863,6 +7961,34 @@
     "Meshy"
    ],
    "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2109633997638938935",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "motion",
+   "title": {
+    "zh": "复刻挑战视频效果",
+    "en": "Recreated challenge video effect"
+   },
+   "creator": {
+    "handle": "blueemi99",
+    "name": "bluedev"
+   },
+   "original_post_url": "https://x.com/blueemi99/status/2109633997638938935",
+   "posted_at": "2026-10-12T13:15:14.000Z",
+   "language": "en",
+   "duration_seconds": 30,
+   "views": 145599,
+   "likes": 2540,
+   "bookmarks": 1571,
+   "views_checked_at": "2026-10-13T19:53:36.885Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2109633948980592641/img/AR3l6MwRnOtgjIv6.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
    "prompt": null,
    "resources": []
   },
@@ -12999,6 +13125,37 @@
    "resources": []
   },
   {
+   "id": "2109637765684199564",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "motion",
+   "title": {
+    "zh": "Opus 5.5一次生成的Blender动画",
+    "en": "One-shot Blender animation by Opus 5.5"
+   },
+   "creator": {
+    "handle": "meowman_sol",
+    "name": "Meowman | Asgard"
+   },
+   "original_post_url": "https://x.com/meowman_sol/status/2109637765684199564",
+   "posted_at": "2026-10-12T13:30:13.000Z",
+   "language": "en",
+   "duration_seconds": 40,
+   "views": 81885,
+   "likes": 247,
+   "bookmarks": 301,
+   "views_checked_at": "2026-10-13T19:53:36.885Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2109637657601155073/img/CoZZPPfyHmqnthY1.jpg",
+   "tools_reported": [
+    "Blender",
+    "ChatGPT"
+   ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2103794099929452699",
    "models": [
     "opus-5.5"
@@ -13614,6 +13771,34 @@
    "resources": []
   },
   {
+   "id": "2109709807712366623",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "game",
+   "title": {
+    "zh": "为反编译版《光环》添加的新武器",
+    "en": "New weapon added to decompiled Halo"
+   },
+   "creator": {
+    "handle": "robertskmiles",
+    "name": "Rob Miles"
+   },
+   "original_post_url": "https://x.com/robertskmiles/status/2109709807712366623",
+   "posted_at": "2026-10-12T18:16:29.000Z",
+   "language": "en",
+   "duration_seconds": 15,
+   "views": 78897,
+   "likes": 806,
+   "bookmarks": 135,
+   "views_checked_at": "2026-10-13T19:53:36.885Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2109708947527753728/img/IXQ6ZwzZiFJinz9g.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2103496245343916158",
    "models": [
     "opus-5.5"
@@ -13843,6 +14028,44 @@
    ],
    "reference_assets": false,
    "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2109718931409699043",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "Opus 5.5一次性构建的互动3D世界",
+    "en": "Interactive 3D world built one-shot by Opus 5.5"
+   },
+   "creator": {
+    "handle": "Ainthropos",
+    "name": "Ainthropos"
+   },
+   "original_post_url": "https://x.com/Ainthropos/status/2109718931409699043",
+   "posted_at": "2026-10-12T18:52:44.000Z",
+   "language": "en",
+   "duration_seconds": 56,
+   "views": 77908,
+   "likes": 1545,
+   "bookmarks": 996,
+   "views_checked_at": "2026-10-13T19:53:36.885Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2109717956762415104/img/priyMO4hp65IJgAy.jpg",
+   "tools_reported": [
+    "Three.js",
+    "Blender",
+    "Magnific"
+   ],
+   "reference_assets": true,
+   "prompt": {
+    "kind": "full",
+    "source": "author_reply",
+    "source_url": "https://x.com/Ainthropos/status/2110022907392917804",
+    "length": 120,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2109718931409699043"
+   },
    "resources": []
   },
   {
@@ -18777,6 +19000,34 @@
    "resources": []
   },
   {
+   "id": "2109569929817305345",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "博斯普鲁斯海峡渡轮场景三档推理强度对比",
+    "en": "Bosphorus ferry scene at three effort levels"
+   },
+   "creator": {
+    "handle": "Avenoxai",
+    "name": "Avenox"
+   },
+   "original_post_url": "https://x.com/Avenoxai/status/2109569929817305345",
+   "posted_at": "2026-10-12T09:00:39.000Z",
+   "language": "tr",
+   "duration_seconds": 14,
+   "views": 54663,
+   "likes": 387,
+   "bookmarks": 180,
+   "views_checked_at": "2026-10-13T19:53:36.885Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2109569877875060737/img/stOdUB3hbuXVjXCu.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2105263665083818364",
    "models": [
     "opus-5.5",
@@ -19529,6 +19780,36 @@
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2105043059025301504/img/9bFCPwXDBzizjyxm.jpg",
    "tools_reported": [
     "Higgsfield"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2109630088782463077",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "product",
+   "title": {
+    "zh": "史诗级3D游戏预告片",
+    "en": "Epic 3D game trailer"
+   },
+   "creator": {
+    "handle": "Saccc_c",
+    "name": "Sac"
+   },
+   "original_post_url": "https://x.com/Saccc_c/status/2109630088782463077",
+   "posted_at": "2026-10-12T12:59:42.000Z",
+   "language": "zh",
+   "duration_seconds": 33,
+   "views": 52113,
+   "likes": 144,
+   "bookmarks": 57,
+   "views_checked_at": "2026-10-13T19:53:36.885Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2109627504915009536/img/15aqshT-wFR6-Jgs.jpg",
+   "tools_reported": [
+    "Blender"
    ],
    "reference_assets": false,
    "prompt": null,
@@ -20290,6 +20571,36 @@
     "MLX"
    ],
    "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2109629188525420930",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "motion",
+   "title": {
+    "zh": "单条提示词生成的动态设计动画",
+    "en": "Motion design animation from a single prompt"
+   },
+   "creator": {
+    "handle": "flxrnc",
+    "name": "Florence"
+   },
+   "original_post_url": "https://x.com/flxrnc/status/2109629188525420930",
+   "posted_at": "2026-10-12T12:56:08.000Z",
+   "language": "en",
+   "duration_seconds": 16,
+   "views": 48653,
+   "likes": 509,
+   "bookmarks": 838,
+   "views_checked_at": "2026-10-13T19:53:36.885Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2109623218063417344/img/mtNWRUyWwkTQA5YL.jpg",
+   "tools_reported": [
+    "After Effects"
+   ],
+   "reference_assets": true,
    "prompt": null,
    "resources": []
   },
@@ -21416,6 +21727,34 @@
    "bookmarks": 424,
    "views_checked_at": "2026-10-12T10:21:57.299Z",
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2102988856429871104/img/0BJiFJOl0855DVgf.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2109598324609409331",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "stories",
+   "title": {
+    "zh": "描绘人一生的叙事视频",
+    "en": "Video depicting a lifetime"
+   },
+   "creator": {
+    "handle": "shengtang135754",
+    "name": "麦麦提"
+   },
+   "original_post_url": "https://x.com/shengtang135754/status/2109598324609409331",
+   "posted_at": "2026-10-12T10:53:29.000Z",
+   "language": "zh",
+   "duration_seconds": 29,
+   "views": 44551,
+   "likes": 171,
+   "bookmarks": 98,
+   "views_checked_at": "2026-10-13T19:53:36.885Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2109598276827889664/img/UxEBbn96LUPhJgyo.jpg",
    "tools_reported": [],
    "reference_assets": false,
    "prompt": null,
@@ -22804,6 +23143,38 @@
    "resources": []
   },
   {
+   "id": "2109708195031900310",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "滚动生成房屋的平面图动画",
+    "en": "Floor plan that builds into a house on scroll"
+   },
+   "creator": {
+    "handle": "SammmAing",
+    "name": "Samnang Aing"
+   },
+   "original_post_url": "https://x.com/SammmAing/status/2109708195031900310",
+   "posted_at": "2026-10-12T18:10:04.000Z",
+   "language": "en",
+   "duration_seconds": 57,
+   "views": 41610,
+   "likes": 966,
+   "bookmarks": 1123,
+   "views_checked_at": "2026-10-13T19:53:36.885Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2109708005482643456/img/i5TyvYU1gSlF8it6.jpg",
+   "tools_reported": [
+    "Claude"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": [
+    "https://sam1983aing.github.io/casa-serra/prompt/"
+   ]
+  },
+  {
    "id": "2103523994440012086",
    "models": [
     "opus-5.5"
@@ -23135,6 +23506,36 @@
    "resources": []
   },
   {
+   "id": "2109609040716452113",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "使用个人VRM模型渲染的Blender场景",
+    "en": "Blender scene rendered with a personal VRM model"
+   },
+   "creator": {
+    "handle": "midori_tatsuta",
+    "name": "みどり🐲Midori Tatsuta"
+   },
+   "original_post_url": "https://x.com/midori_tatsuta/status/2109609040716452113",
+   "posted_at": "2026-10-12T11:36:04.000Z",
+   "language": "ja",
+   "duration_seconds": 10,
+   "views": 40472,
+   "likes": 832,
+   "bookmarks": 628,
+   "views_checked_at": "2026-10-13T19:53:36.885Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2109608208117682176/img/V8aMdvvcus_isd30.jpg",
+   "tools_reported": [
+    "Blender"
+   ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2104009685271814193",
    "models": [
     "opus-5.5"
@@ -23408,6 +23809,36 @@
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2103441632104419328/img/xLYjev3JVhvehv4L.jpg",
    "tools_reported": [
     "Gemini"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2109718604883370450",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "motion",
+   "title": {
+    "zh": "音效改进的动态短片",
+    "en": "Motion clip with improved sound effects"
+   },
+   "creator": {
+    "handle": "LexnLin",
+    "name": "Leon Lin"
+   },
+   "original_post_url": "https://x.com/LexnLin/status/2109718604883370450",
+   "posted_at": "2026-10-12T18:51:26.000Z",
+   "language": "en",
+   "duration_seconds": 40,
+   "views": 39582,
+   "likes": 943,
+   "bookmarks": 628,
+   "views_checked_at": "2026-10-13T19:53:36.885Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2109718241077526529/img/fato41ReEJyjDd6O.jpg",
+   "tools_reported": [
+    "Cinetic"
    ],
    "reference_assets": false,
    "prompt": null,
@@ -25181,6 +25612,34 @@
     "Suno",
     "HyperFrames"
    ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2109705700930957328",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "motion",
+   "title": {
+    "zh": "无缝循环动态设计动画",
+    "en": "Seamless looping motion design animation"
+   },
+   "creator": {
+    "handle": "0xkerazcity",
+    "name": "kerazcity"
+   },
+   "original_post_url": "https://x.com/0xkerazcity/status/2109705700930957328",
+   "posted_at": "2026-10-12T18:00:10.000Z",
+   "language": "en",
+   "duration_seconds": 16,
+   "views": 34285,
+   "likes": 375,
+   "bookmarks": 575,
+   "views_checked_at": "2026-10-13T19:53:36.885Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2109691877985316864/img/SvxI2uJbGIhwvnXk.jpg",
+   "tools_reported": [],
    "reference_assets": true,
    "prompt": null,
    "resources": []
@@ -27206,6 +27665,34 @@
    "resources": []
   },
   {
+   "id": "2109584603573006403",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "Opus 5.5与6.1 Sol动效对比",
+    "en": "Motion graphics comparison: Opus 5.5 vs 6.1 Sol"
+   },
+   "creator": {
+    "handle": "reoru_alt",
+    "name": "健康大臣"
+   },
+   "original_post_url": "https://x.com/reoru_alt/status/2109584603573006403",
+   "posted_at": "2026-10-12T09:58:58.000Z",
+   "language": "ja",
+   "duration_seconds": 5,
+   "views": 29609,
+   "likes": 703,
+   "bookmarks": 526,
+   "views_checked_at": "2026-10-13T19:53:36.885Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2109583083477540864/img/PozAGRyxBCuGThs3.jpg",
+   "tools_reported": [],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2102717699600368045",
    "models": [
     "opus-5.5"
@@ -28904,6 +29391,44 @@
    "resources": []
   },
   {
+   "id": "2109570757579649086",
+   "models": [
+    "fable-5.5"
+   ],
+   "category": "stories",
+   "title": {
+    "zh": "Fable 5.5自我介绍音乐视频",
+    "en": "Fable 5.5 self-introduction musical video"
+   },
+   "creator": {
+    "handle": "ChrisGPT",
+    "name": "Chris"
+   },
+   "original_post_url": "https://x.com/ChrisGPT/status/2109570757579649086",
+   "posted_at": "2026-10-12T09:03:57.000Z",
+   "language": "en",
+   "duration_seconds": 76,
+   "views": 25509,
+   "likes": 502,
+   "bookmarks": 194,
+   "views_checked_at": "2026-10-13T19:53:36.885Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2109570463886151680/img/z20ErD5AveU0iqrF.jpg",
+   "tools_reported": [
+    "Suno",
+    "ElevenLabs",
+    "Three.js"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "brief",
+    "source": "post",
+    "source_url": "https://x.com/ChrisGPT/status/2109570757579649086",
+    "length": 32,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2109570757579649086"
+   },
+   "resources": []
+  },
+  {
    "id": "2103596524018221133",
    "models": [
     "opus-5.5"
@@ -28932,6 +29457,38 @@
    "reference_assets": true,
    "prompt": null,
    "resources": []
+  },
+  {
+   "id": "2109570204556824624",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "education",
+   "title": {
+    "zh": "马桶冲水机制互动演示",
+    "en": "Interactive toilet flush mechanism demo"
+   },
+   "creator": {
+    "handle": "elliscrosby",
+    "name": "Ellis"
+   },
+   "original_post_url": "https://x.com/elliscrosby/status/2109570204556824624",
+   "posted_at": "2026-10-12T09:01:45.000Z",
+   "language": "en",
+   "duration_seconds": 18,
+   "views": 25447,
+   "likes": 297,
+   "bookmarks": 226,
+   "views_checked_at": "2026-10-13T19:53:36.885Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2109569884225175552/img/UAeTFcBZLZhMsIHT.jpg",
+   "tools_reported": [
+    "Claude Code"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": [
+    "https://springprompt.com/blog/anatomy-claude-code-skill"
+   ]
   },
   {
    "id": "2102728913579327722",
@@ -29077,6 +29634,37 @@
    "resources": []
   },
   {
+   "id": "2109568757001756710",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "彩色腿部绑定的视频转3D动物行走动画",
+    "en": "Animal walk animation with color-coded leg rig"
+   },
+   "creator": {
+    "handle": "Stefan_3D_AI",
+    "name": "Stefan 3D AI"
+   },
+   "original_post_url": "https://x.com/Stefan_3D_AI/status/2109568757001756710",
+   "posted_at": "2026-10-12T08:56:00.000Z",
+   "language": "en",
+   "duration_seconds": 13,
+   "views": 24892,
+   "likes": 578,
+   "bookmarks": 569,
+   "views_checked_at": "2026-10-13T19:53:36.885Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2109568674743160832/img/9TdpZiHUXfnsOR-J.jpg",
+   "tools_reported": [
+    "Tripo AI",
+    "H3"
+   ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2102539955470045500",
    "models": [
     "opus-5.5"
@@ -29187,6 +29775,34 @@
    "thumbnail_url": "https://pbs.twimg.com/media/HTJ86b_bsAAbeim.jpg",
    "tools_reported": [],
    "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2109634337222414402",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "可运转V8发动机CAD建模对比",
+    "en": "Working V8 engine CAD model comparison"
+   },
+   "creator": {
+    "handle": "devteamdrew",
+    "name": "DreW"
+   },
+   "original_post_url": "https://x.com/devteamdrew/status/2109634337222414402",
+   "posted_at": "2026-10-12T13:16:35.000Z",
+   "language": "en",
+   "duration_seconds": 24,
+   "views": 24462,
+   "likes": 308,
+   "bookmarks": 83,
+   "views_checked_at": "2026-10-13T19:53:36.885Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2109632251520516097/img/tDAD5C7gIlAAMeDn.jpg",
+   "tools_reported": [],
+   "reference_assets": true,
    "prompt": null,
    "resources": []
   },
@@ -34239,6 +34855,40 @@
    "resources": []
   },
   {
+   "id": "2109609404450607352",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "product",
+   "title": {
+    "zh": "USDai产品流水线演示",
+    "en": "USDai product assembly line demo"
+   },
+   "creator": {
+    "handle": "0xZergs",
+    "name": "David | www.usd.ai"
+   },
+   "original_post_url": "https://x.com/0xZergs/status/2109609404450607352",
+   "posted_at": "2026-10-12T11:37:31.000Z",
+   "language": "en",
+   "duration_seconds": 104,
+   "views": 17563,
+   "likes": 143,
+   "bookmarks": 39,
+   "views_checked_at": "2026-10-13T19:53:36.885Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2109609020168212480/img/1NrSS6r2TDVpeOA_.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "brief",
+    "source": "author_reply",
+    "source_url": "https://x.com/0xZergs/status/2109609797775708498",
+    "length": 61,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2109609404450607352"
+   },
+   "resources": []
+  },
+  {
    "id": "2103601538551918743",
    "models": [
     "opus-5.5"
@@ -35352,6 +36002,37 @@
     "length": 389,
     "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102788371114246177"
    },
+   "resources": []
+  },
+  {
+   "id": "2109603289939738813",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "production",
+   "title": {
+    "zh": "AI配音配图制作的电台风格视频",
+    "en": "Radio-style video with AI voice and images"
+   },
+   "creator": {
+    "handle": "mmmiyama_D",
+    "name": "ミヤマ"
+   },
+   "original_post_url": "https://x.com/mmmiyama_D/status/2109603289939738813",
+   "posted_at": "2026-10-12T11:13:13.000Z",
+   "language": "ja",
+   "duration_seconds": 96,
+   "views": 16267,
+   "likes": 203,
+   "bookmarks": 159,
+   "views_checked_at": "2026-10-13T19:53:36.885Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2109603238500831232/img/AsgCg15faec7OoVY.jpg",
+   "tools_reported": [
+    "GPT image generation",
+    "Gemini voice"
+   ],
+   "reference_assets": false,
+   "prompt": null,
    "resources": []
   },
   {
@@ -37823,6 +38504,36 @@
    "views_checked_at": "2026-10-12T10:21:57.299Z",
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2103462139868614656/img/xlKvezMeUsOTtcGe.jpg",
    "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2109603285938094545",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "3D珠宝品牌展示",
+    "en": "3D jewelry brand visualization"
+   },
+   "creator": {
+    "handle": "HamidoFx1",
+    "name": "Hamido Teck"
+   },
+   "original_post_url": "https://x.com/HamidoFx1/status/2109603285938094545",
+   "posted_at": "2026-10-12T11:13:12.000Z",
+   "language": "und",
+   "duration_seconds": 10,
+   "views": 13201,
+   "likes": 181,
+   "bookmarks": 46,
+   "views_checked_at": "2026-10-13T19:53:36.885Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2109603201649397760/img/Vi-UsFiisc6MNeVt.jpg",
+   "tools_reported": [
+    "GPT-6 Astra"
+   ],
    "reference_assets": false,
    "prompt": null,
    "resources": []
@@ -40429,6 +41140,34 @@
    "resources": []
   },
   {
+   "id": "2109563099703660773",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "product",
+   "title": {
+    "zh": "原生macOS编码代理应用",
+    "en": "Native macOS coding agent app"
+   },
+   "creator": {
+    "handle": "chaaai",
+    "name": "Chaitanya"
+   },
+   "original_post_url": "https://x.com/chaaai/status/2109563099703660773",
+   "posted_at": "2026-10-12T08:33:31.000Z",
+   "language": "en",
+   "duration_seconds": 35,
+   "views": 11160,
+   "likes": 101,
+   "bookmarks": 76,
+   "views_checked_at": "2026-10-13T19:53:36.885Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2109562659037413376/img/6fssthSZl-yOkkTO.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2102579218953765071",
    "models": [
     "opus-5.5"
@@ -41699,6 +42438,34 @@
    "resources": []
   },
   {
+   "id": "2109628088430510337",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "game",
+   "title": {
+    "zh": "气球岛建造游戏",
+    "en": "Balloon island building game"
+   },
+   "creator": {
+    "handle": "0xbobaaa",
+    "name": "0xbobaa"
+   },
+   "original_post_url": "https://x.com/0xbobaaa/status/2109628088430510337",
+   "posted_at": "2026-10-12T12:51:45.000Z",
+   "language": "en",
+   "duration_seconds": 30,
+   "views": 9884,
+   "likes": 150,
+   "bookmarks": 131,
+   "views_checked_at": "2026-10-13T19:53:36.885Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2109628038962925568/img/XC2saTjxRot9RoWC.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2106266004515172366",
    "models": [
     "opus-5.5"
@@ -41953,6 +42720,38 @@
     "length": 73,
     "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102781807179735211"
    },
+   "resources": []
+  },
+  {
+   "id": "2109598040889942476",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "用Blender和代码制作的像素世界",
+    "en": "Pixel World built with Blender and code"
+   },
+   "creator": {
+    "handle": "aicreataro",
+    "name": "aicreataro"
+   },
+   "original_post_url": "https://x.com/aicreataro/status/2109598040889942476",
+   "posted_at": "2026-10-12T10:52:22.000Z",
+   "language": "ja",
+   "duration_seconds": 66,
+   "views": 9591,
+   "likes": 231,
+   "bookmarks": 193,
+   "views_checked_at": "2026-10-13T19:53:36.885Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2109596901016494080/img/sCTFhua5-6Ae1Ox_.jpg",
+   "tools_reported": [
+    "Blender",
+    "After Effects",
+    "Python"
+   ],
+   "reference_assets": false,
+   "prompt": null,
    "resources": []
   },
   {
@@ -44299,6 +45098,34 @@
    "resources": []
   },
   {
+   "id": "2109593857889583467",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "糖豆人风格游戏对比",
+    "en": "Fall Guys style game comparison"
+   },
+   "creator": {
+    "handle": "kepochnik",
+    "name": "kepo"
+   },
+   "original_post_url": "https://x.com/kepochnik/status/2109593857889583467",
+   "posted_at": "2026-10-12T10:35:44.000Z",
+   "language": "en",
+   "duration_seconds": 60,
+   "views": 7629,
+   "likes": 121,
+   "bookmarks": 35,
+   "views_checked_at": "2026-10-13T19:53:36.885Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2109593489612980224/img/R2eb8XxTgDlnON4F.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2107956617337885077",
    "models": [
     "opus-5.5"
@@ -44693,6 +45520,38 @@
    "resources": []
   },
   {
+   "id": "2109610532365857198",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "production",
+   "title": {
+    "zh": "PCB设计流程演示",
+    "en": "PCB design pipeline demo"
+   },
+   "creator": {
+    "handle": "VectorCrossProd",
+    "name": "Nigel Hungerford-Symes"
+   },
+   "original_post_url": "https://x.com/VectorCrossProd/status/2109610532365857198",
+   "posted_at": "2026-10-12T11:42:00.000Z",
+   "language": "en",
+   "duration_seconds": 60,
+   "views": 7330,
+   "likes": 179,
+   "bookmarks": 251,
+   "views_checked_at": "2026-10-13T19:53:36.885Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2109595301023768577/img/HeBBWPumuOpYU07X.jpg",
+   "tools_reported": [
+    "FreeRouting",
+    "KiCad",
+    "TraceMaker"
+   ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2108264801424269777",
    "models": [
     "opus-5.5"
@@ -44717,6 +45576,39 @@
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2108262808014184448/img/teC-5WrHoLPPjcwP.jpg",
    "tools_reported": [
     "Roblox"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2109576248598970690",
+   "models": [
+    "haiku-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "AI守门员模型对比",
+    "en": "AI goalkeeper model comparison"
+   },
+   "creator": {
+    "handle": "leopardracer",
+    "name": "leopardracer"
+   },
+   "original_post_url": "https://x.com/leopardracer/status/2109576248598970690",
+   "posted_at": "2026-10-12T09:25:46.000Z",
+   "language": "en",
+   "duration_seconds": 30,
+   "views": 7308,
+   "likes": 106,
+   "bookmarks": 42,
+   "views_checked_at": "2026-10-13T19:53:36.885Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2109575967458902016/img/b8eq3d7TA9tAObzF.jpg",
+   "tools_reported": [
+    "Microsoft Decision-1",
+    "TypeSafe Jev",
+    "Anthropic Haiku 5.5",
+    "Google Gemini 3.8 Flash"
    ],
    "reference_assets": false,
    "prompt": null,
@@ -45203,6 +46095,40 @@
    "tools_reported": [],
    "reference_assets": false,
    "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2109595253879816337",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "education",
+   "title": {
+    "zh": "升力原理互动风洞演示",
+    "en": "Interactive wind tunnel lift explainer"
+   },
+   "creator": {
+    "handle": "konstantinsaifo",
+    "name": "Konstantin Saifoulline"
+   },
+   "original_post_url": "https://x.com/konstantinsaifo/status/2109595253879816337",
+   "posted_at": "2026-10-12T10:41:17.000Z",
+   "language": "en",
+   "duration_seconds": 34,
+   "views": 6777,
+   "likes": 194,
+   "bookmarks": 95,
+   "views_checked_at": "2026-10-13T19:53:36.885Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2109594110214516736/img/6CdjR2HSRFvdIaDF.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "brief",
+    "source": "post",
+    "source_url": "https://x.com/konstantinsaifo/status/2109595253879816337",
+    "length": 52,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2109595253879816337"
+   },
    "resources": []
   },
   {
@@ -45790,6 +46716,36 @@
     "p5.brush",
     "Puppeteer",
     "ffmpeg"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2109611621719109920",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "product",
+   "title": {
+    "zh": "动物乐队音乐播放器应用",
+    "en": "Animal band music player app"
+   },
+   "creator": {
+    "handle": "ring_hyacinth",
+    "name": "Ring Hyacinth"
+   },
+   "original_post_url": "https://x.com/ring_hyacinth/status/2109611621719109920",
+   "posted_at": "2026-10-12T11:46:19.000Z",
+   "language": "zh",
+   "duration_seconds": 77,
+   "views": 6180,
+   "likes": 110,
+   "bookmarks": 55,
+   "views_checked_at": "2026-10-13T19:53:36.885Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2109610567283687424/img/mJdH4GQVs6VOFvzE.jpg",
+   "tools_reported": [
+    "Codex"
    ],
    "reference_assets": false,
    "prompt": null,

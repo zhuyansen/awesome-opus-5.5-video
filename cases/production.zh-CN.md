@@ -1,6 +1,6 @@
 # 制作流程
 
-共 109 个作品，其中 18 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 111 个作品，其中 18 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [咖啡馆窗口时空特效镜头重制](https://x.com/higgsfield_ai/status/2102600213361983655) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:17 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102600213361983655) |
 | [快速完成的视频剪辑演示](https://x.com/KanaWorks_AI/status/2103681377862582573) | Opus 5.5 | [@KanaWorks_AI](https://x.com/KanaWorks_AI) | 0:14 | — |
 | [After Effects中的场景转移特效](https://x.com/higgsfield_ai/status/2103521966376587593) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:06 | — |
+| [AI配音配图制作的电台风格视频](https://x.com/mmmiyama_D/status/2109603289939738813) | Opus 5.5 | [@mmmiyama_D](https://x.com/mmmiyama_D) | 1:36 | — |
 | [在After Effects中用Claude操控TouchDesigner](https://x.com/higgsfield_ai/status/2103525847991025776) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:06 | — |
 | [喜爱美剧的介绍视频](https://x.com/_nogu66/status/2103751299808497959) | Opus 5.5 | [@_nogu66](https://x.com/_nogu66) | 0:15 | — |
 | [希伯来语一次生成的AI配音特效视频](https://x.com/itaydressler/status/2105268598100865461) | Opus 5.5 | [@itaydressler](https://x.com/itaydressler) | 3:26 | — |
@@ -111,5 +112,6 @@
 | [AI搭建的自制视频编辑器](https://x.com/SoyMrBro/status/2103135398226735139) | Opus 5.5 | [@SoyMrBro](https://x.com/SoyMrBro) | 0:31 | — |
 | [用Opus 5.5和EffectCraft制作的歌词MV](https://x.com/wtry1102/status/2107744155007062101) | Opus 5.5 | [@wtry1102](https://x.com/wtry1102) | 1:51 | — |
 | [根据文章自动生成视频并发布](https://x.com/affnom_y/status/2103722878697083380) | Opus 5.5 | [@affnom_y](https://x.com/affnom_y) | 0:26 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103722878697083380) |
+| [PCB设计流程演示](https://x.com/VectorCrossProd/status/2109610532365857198) | Opus 5.5 | [@VectorCrossProd](https://x.com/VectorCrossProd) | 1:00 | — |
 | [多工具AI视频制作作品](https://x.com/MakeAI_CEO/status/2102955436957983065) | Opus 5.5 | [@MakeAI_CEO](https://x.com/MakeAI_CEO) | 9:28 | — |
 | [用素材剪辑的频道介绍视频](https://x.com/kazunoko575/status/2103390803192352888) | Opus 5.5 | [@kazunoko575](https://x.com/kazunoko575) | 0:52 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103390803192352888) |

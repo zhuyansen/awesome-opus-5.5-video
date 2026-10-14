@@ -1,6 +1,6 @@
 # Product demos & ads
 
-187 works, 36 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+191 works, 37 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Short animated demo clip](https://x.com/devteamdrew/status/2108254006036296116) | Sonnet 5.5 / Haiku 5.5 | [@devteamdrew](https://x.com/devteamdrew) | 0:32 | — |
 | [Pig Love Notes: An Animated App Promo](https://x.com/jackfriks/status/2103132260589338762) | Opus 5.5 | [@jackfriks](https://x.com/jackfriks) | 0:20 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103132260589338762) |
 | [SaaS product launch video (one shot)](https://x.com/pbteja1998/status/2103176101497651644) | Opus 5.5 | [@pbteja1998](https://x.com/pbteja1998) | 1:05 | — |
+| [Epic 3D game trailer](https://x.com/Saccc_c/status/2109630088782463077) | Opus 5.5 | [@Saccc_c](https://x.com/Saccc_c) | 0:33 | — |
 | [Landing page UI built quickly](https://x.com/dhruvalgolakiya/status/2102802914024845385) | Opus 5.5 | [@dhruvalgolakiya](https://x.com/dhruvalgolakiya) | 0:33 | — |
 | [Product promo video variation using 3D data](https://x.com/yoshifujidesign/status/2103988134069617127) | Opus 5.5 | [@yoshifujidesign](https://x.com/yoshifujidesign) | 0:30 | — |
 | [Product PV with fine-tuned instructions](https://x.com/yoshifujidesign/status/2103989912676741479) | Opus 5.5 | [@yoshifujidesign](https://x.com/yoshifujidesign) | 0:30 | — |
@@ -138,6 +139,7 @@
 | [Trader profiling and analysis workflow demo](https://x.com/immortalhowwl/status/2103890985650422006) | Opus 5.5 | [@immortalhowwl](https://x.com/immortalhowwl) | 0:33 | — |
 | [1-minute AI capability explainer video](https://x.com/showheyohtaki/status/2103552919249563691) | Opus 5.5 | [@showheyohtaki](https://x.com/showheyohtaki) | 0:54 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103552919249563691) |
 | [One-shot marketing video built with code](https://x.com/matthewmillerai/status/2103532155481833538) | Opus 5.5 | [@matthewmillerai](https://x.com/matthewmillerai) | 1:00 | — |
+| [USDai product assembly line demo](https://x.com/0xZergs/status/2109609404450607352) | Opus 5.5 | [@0xZergs](https://x.com/0xZergs) | 1:44 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2109609404450607352) |
 | [Meta VR Glasses video variations](https://x.com/mouri45/status/2107036053949575311) | Opus 5.5 | [@mouri45](https://x.com/mouri45) | 4:46 | — |
 | [Real estate video from 2D floor plan](https://x.com/techhalla/status/2105376621737746716) | Opus 5.5 | [@techhalla](https://x.com/techhalla) | 0:37 | — |
 | [Small ad made with Opus and ElevenLabs](https://x.com/pivi___/status/2103820692500156664) | Opus 5.5 | [@pivi___](https://x.com/pivi___) | 0:30 | — |
@@ -158,6 +160,7 @@
 | [Higgsfield competitor product build](https://x.com/viktoroddy/status/2103533275834896657) | Opus 5.5 | [@viktoroddy](https://x.com/viktoroddy) | 10:04 | — |
 | [Product launch video replicating brand UI](https://x.com/steventey/status/2103843311807349148) | Opus 5.5 | [@steventey](https://x.com/steventey) | 0:15 | — |
 | [Obsidian introduction video](https://x.com/pkm_tk111/status/2103521677259026878) | Opus 5.5 | [@pkm_tk111](https://x.com/pkm_tk111) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103521677259026878) |
+| [Native macOS coding agent app](https://x.com/chaaai/status/2109563099703660773) | Opus 5.5 | [@chaaai](https://x.com/chaaai) | 0:35 | — |
 | [Exploded view animation of a product model](https://x.com/higgsfield_ai/status/2103516954447462586) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:03 | — |
 | [Newsletter recap tool built in 30 minutes](https://x.com/itsrishabh/status/2103885966205124975) | Opus 5.5 | [@itsrishabh](https://x.com/itsrishabh) | 0:45 | — |
 | [Tool for auditing AI agent business claims](https://x.com/Argona0x/status/2103589768353526049) | Opus 5.5 | [@Argona0x](https://x.com/Argona0x) | 0:30 | — |
@@ -187,6 +190,7 @@
 | [Foreign drama series intro video](https://x.com/hAru_mAki_ch/status/2103789217147240824) | Opus 5.5 | [@hAru_mAki_ch](https://x.com/hAru_mAki_ch) | 0:15 | — |
 | [Semantic Slack search tool](https://x.com/tkm_hmng8/status/2102923108156076261) | Opus 5.5 | [@tkm_hmng8](https://x.com/tkm_hmng8) | 0:37 | — |
 | [App visual built from a single icon asset](https://x.com/career_koumei/status/2103703814562087156) | Opus 5.5 | [@career_koumei](https://x.com/career_koumei) | 0:15 | — |
+| [Animal band music player app](https://x.com/ring_hyacinth/status/2109611621719109920) | Opus 5.5 | [@ring_hyacinth](https://x.com/ring_hyacinth) | 1:17 | — |
 | [Account introduction video from pinned tweet info](https://x.com/gin1910410/status/2103746670676853047) | Opus 5.5 | [@gin1910410](https://x.com/gin1910410) | 0:54 | — |
 | [Notes app built with Sonnet 5.5](https://x.com/CodingNoobie/status/2104642394503409862) | Sonnet 5.5 | [@CodingNoobie](https://x.com/CodingNoobie) | 0:16 | — |
 | [Sponsorship promo video cut via MCP tools](https://x.com/Ror_Fly/status/2103549390933610685) | Opus 5.5 | [@Ror_Fly](https://x.com/Ror_Fly) | 1:00 | — |

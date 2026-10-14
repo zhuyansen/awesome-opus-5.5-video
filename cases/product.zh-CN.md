@@ -1,6 +1,6 @@
 # 产品广告
 
-共 187 个作品，其中 36 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 191 个作品，其中 37 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [动画演示短片](https://x.com/devteamdrew/status/2108254006036296116) | Sonnet 5.5 / Haiku 5.5 | [@devteamdrew](https://x.com/devteamdrew) | 0:32 | — |
 | [小猪寄情书：应用宣传动画](https://x.com/jackfriks/status/2103132260589338762) | Opus 5.5 | [@jackfriks](https://x.com/jackfriks) | 0:20 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103132260589338762) |
 | [SaaS产品发布视频（一次生成）](https://x.com/pbteja1998/status/2103176101497651644) | Opus 5.5 | [@pbteja1998](https://x.com/pbteja1998) | 1:05 | — |
+| [史诗级3D游戏预告片](https://x.com/Saccc_c/status/2109630088782463077) | Opus 5.5 | [@Saccc_c](https://x.com/Saccc_c) | 0:33 | — |
 | [快速搭建的落地页界面](https://x.com/dhruvalgolakiya/status/2102802914024845385) | Opus 5.5 | [@dhruvalgolakiya](https://x.com/dhruvalgolakiya) | 0:33 | — |
 | [基于3D数据的产品宣传片变体](https://x.com/yoshifujidesign/status/2103988134069617127) | Opus 5.5 | [@yoshifujidesign](https://x.com/yoshifujidesign) | 0:30 | — |
 | [细节可控的产品宣传PV](https://x.com/yoshifujidesign/status/2103989912676741479) | Opus 5.5 | [@yoshifujidesign](https://x.com/yoshifujidesign) | 0:30 | — |
@@ -138,6 +139,7 @@
 | [交易者画像分析工作流演示](https://x.com/immortalhowwl/status/2103890985650422006) | Opus 5.5 | [@immortalhowwl](https://x.com/immortalhowwl) | 0:33 | — |
 | [1分钟AI能力展示视频](https://x.com/showheyohtaki/status/2103552919249563691) | Opus 5.5 | [@showheyohtaki](https://x.com/showheyohtaki) | 0:54 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103552919249563691) |
 | [纯代码一次生成的营销视频](https://x.com/matthewmillerai/status/2103532155481833538) | Opus 5.5 | [@matthewmillerai](https://x.com/matthewmillerai) | 1:00 | — |
+| [USDai产品流水线演示](https://x.com/0xZergs/status/2109609404450607352) | Opus 5.5 | [@0xZergs](https://x.com/0xZergs) | 1:44 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2109609404450607352) |
 | [Meta VR 眼镜视频方案合集](https://x.com/mouri45/status/2107036053949575311) | Opus 5.5 | [@mouri45](https://x.com/mouri45) | 4:46 | — |
 | [从2D平面图制作的房地产视频](https://x.com/techhalla/status/2105376621737746716) | Opus 5.5 | [@techhalla](https://x.com/techhalla) | 0:37 | — |
 | [用Opus和ElevenLabs制作的小广告](https://x.com/pivi___/status/2103820692500156664) | Opus 5.5 | [@pivi___](https://x.com/pivi___) | 0:30 | — |
@@ -158,6 +160,7 @@
 | [仿Higgsfield竞品产品搭建](https://x.com/viktoroddy/status/2103533275834896657) | Opus 5.5 | [@viktoroddy](https://x.com/viktoroddy) | 10:04 | — |
 | [复刻品牌界面的产品发布视频](https://x.com/steventey/status/2103843311807349148) | Opus 5.5 | [@steventey](https://x.com/steventey) | 0:15 | — |
 | [Obsidian软件介绍视频](https://x.com/pkm_tk111/status/2103521677259026878) | Opus 5.5 | [@pkm_tk111](https://x.com/pkm_tk111) | 0:15 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103521677259026878) |
+| [原生macOS编码代理应用](https://x.com/chaaai/status/2109563099703660773) | Opus 5.5 | [@chaaai](https://x.com/chaaai) | 0:35 | — |
 | [产品模型爆炸视图动画](https://x.com/higgsfield_ai/status/2103516954447462586) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:03 | — |
 | [30分钟搭建的资讯回顾工具](https://x.com/itsrishabh/status/2103885966205124975) | Opus 5.5 | [@itsrishabh](https://x.com/itsrishabh) | 0:45 | — |
 | [审计AI代理商业主张的工具](https://x.com/Argona0x/status/2103589768353526049) | Opus 5.5 | [@Argona0x](https://x.com/Argona0x) | 0:30 | — |
@@ -187,6 +190,7 @@
 | [海外剧集介绍视频](https://x.com/hAru_mAki_ch/status/2103789217147240824) | Opus 5.5 | [@hAru_mAki_ch](https://x.com/hAru_mAki_ch) | 0:15 | — |
 | [Slack语义搜索工具](https://x.com/tkm_hmng8/status/2102923108156076261) | Opus 5.5 | [@tkm_hmng8](https://x.com/tkm_hmng8) | 0:37 | — |
 | [仅用一张图标素材生成的视觉效果](https://x.com/career_koumei/status/2103703814562087156) | Opus 5.5 | [@career_koumei](https://x.com/career_koumei) | 0:15 | — |
+| [动物乐队音乐播放器应用](https://x.com/ring_hyacinth/status/2109611621719109920) | Opus 5.5 | [@ring_hyacinth](https://x.com/ring_hyacinth) | 1:17 | — |
 | [根据置顶推文信息制作的账号介绍视频](https://x.com/gin1910410/status/2103746670676853047) | Opus 5.5 | [@gin1910410](https://x.com/gin1910410) | 0:54 | — |
 | [用Sonnet 5.5搭建的笔记应用](https://x.com/CodingNoobie/status/2104642394503409862) | Sonnet 5.5 | [@CodingNoobie](https://x.com/CodingNoobie) | 0:16 | — |
 | [通过MCP工具剪辑的赞助宣传片](https://x.com/Ror_Fly/status/2103549390933610685) | Opus 5.5 | [@Ror_Fly](https://x.com/Ror_Fly) | 1:00 | — |

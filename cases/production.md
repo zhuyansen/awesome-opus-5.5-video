@@ -1,6 +1,6 @@
 # Music, editing & production
 
-109 works, 18 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+111 works, 18 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Rebuilt space-time VFX shot through a cafe window](https://x.com/higgsfield_ai/status/2102600213361983655) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:17 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102600213361983655) |
 | [Fast-turnaround video editing demo](https://x.com/KanaWorks_AI/status/2103681377862582573) | Opus 5.5 | [@KanaWorks_AI](https://x.com/KanaWorks_AI) | 0:14 | — |
 | [Scene relocation VFX in After Effects](https://x.com/higgsfield_ai/status/2103521966376587593) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:06 | — |
+| [Radio-style video with AI voice and images](https://x.com/mmmiyama_D/status/2109603289939738813) | Opus 5.5 | [@mmmiyama_D](https://x.com/mmmiyama_D) | 1:36 | — |
 | [TouchDesigner controlled via Claude in After Effects](https://x.com/higgsfield_ai/status/2103525847991025776) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:06 | — |
 | [Intro video for a favorite TV drama](https://x.com/_nogu66/status/2103751299808497959) | Opus 5.5 | [@_nogu66](https://x.com/_nogu66) | 0:15 | — |
 | [Hebrew one-shot video with AI voices and effects](https://x.com/itaydressler/status/2105268598100865461) | Opus 5.5 | [@itaydressler](https://x.com/itaydressler) | 3:26 | — |
@@ -111,5 +112,6 @@
 | [Custom video editor app built with AI](https://x.com/SoyMrBro/status/2103135398226735139) | Opus 5.5 | [@SoyMrBro](https://x.com/SoyMrBro) | 0:31 | — |
 | [Lyric music video built with Opus 5.5 and EffectCraft](https://x.com/wtry1102/status/2107744155007062101) | Opus 5.5 | [@wtry1102](https://x.com/wtry1102) | 1:51 | — |
 | [Article-to-video generation for social posting](https://x.com/affnom_y/status/2103722878697083380) | Opus 5.5 | [@affnom_y](https://x.com/affnom_y) | 0:26 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103722878697083380) |
+| [PCB design pipeline demo](https://x.com/VectorCrossProd/status/2109610532365857198) | Opus 5.5 | [@VectorCrossProd](https://x.com/VectorCrossProd) | 1:00 | — |
 | [Multi-tool AI video production piece](https://x.com/MakeAI_CEO/status/2102955436957983065) | Opus 5.5 | [@MakeAI_CEO](https://x.com/MakeAI_CEO) | 9:28 | — |
 | [Channel intro video edited from clips](https://x.com/kazunoko575/status/2103390803192352888) | Opus 5.5 | [@kazunoko575](https://x.com/kazunoko575) | 0:52 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103390803192352888) |

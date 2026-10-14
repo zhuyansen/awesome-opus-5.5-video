@@ -1,6 +1,6 @@
 # 动效设计
 
-共 236 个作品，其中 83 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 241 个作品，其中 83 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [一次生成的动画演示视频](https://x.com/shapelayer/status/2102562623824757136) | Opus 5.5 | [@shapelayer](https://x.com/shapelayer) | 0:21 | — |
 | [游戏结算奖励动画](https://x.com/op7418/status/2103724883301814408) | Opus 5.5 | [@op7418](https://x.com/op7418) | 0:15 | — |
 | [逐帧绘制的JavaScript动画](https://x.com/strawhatsu4/status/2102457111787745405) | Opus 5.5 | [@strawhatsu4](https://x.com/strawhatsu4) | 0:14 | — |
+| [复刻挑战视频效果](https://x.com/blueemi99/status/2109633997638938935) | Opus 5.5 | [@blueemi99](https://x.com/blueemi99) | 0:30 | — |
 | [一次成型的动态视频演示](https://x.com/chhddavid/status/2102666619029999989) | Opus 5.5 | [@chhddavid](https://x.com/chhddavid) | 0:50 | — |
 | [15 秒动效设计师自荐片 · @robj3d3 版](https://x.com/robj3d3/status/2103875898349088830) | Opus 5.5 | [@robj3d3](https://x.com/robj3d3) | 0:15 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103875898349088830) |
 | [用静态图制作角色动画](https://x.com/adriankuleszo/status/2103452143055483132) | Opus 5.5 | [@adriankuleszo](https://x.com/adriankuleszo) | 0:14 | — |
@@ -75,6 +76,7 @@
 | [使用设计工具制作的动效作品](https://x.com/javiiarchive/status/2103897550449516644) | Opus 5.5 | [@javiiarchive](https://x.com/javiiarchive) | 0:15 | — |
 | [节拍同步动效音乐视频](https://x.com/minchoi/status/2106946461980307633) | Opus 5.5 | [@minchoi](https://x.com/minchoi) | 4:30 | — |
 | [简短动效设计视频](https://x.com/blueemi99/status/2106031355922387163) | Opus 5.5 / Fable 5.5 (preview) | [@blueemi99](https://x.com/blueemi99) | 0:15 | — |
+| [Opus 5.5一次生成的Blender动画](https://x.com/meowman_sol/status/2109637765684199564) | Opus 5.5 | [@meowman_sol](https://x.com/meowman_sol) | 0:40 | — |
 | [AI热潮演示视频](https://x.com/dannypostma/status/2103794099929452699) | Opus 5.5 | [@dannypostma](https://x.com/dannypostma) | 0:15 | — |
 | [一句提示词生成的动效演示](https://x.com/Saccc_c/status/2105985484472377531) | Opus 5.5 / Fable 5.5 (preview) | [@Saccc_c](https://x.com/Saccc_c) | 0:15 | — |
 | [HyperFrames制作的Cosmos动效短片](https://x.com/kaolti/status/2103481296018092204) | Opus 5.5 | [@kaolti](https://x.com/kaolti) | 0:40 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103481296018092204) |
@@ -110,6 +112,7 @@
 | [设计师展示片提示词生成的动效视频](https://x.com/konmari_tweet/status/2103639233693159742) | Opus 5.5 | [@konmari_tweet](https://x.com/konmari_tweet) | 0:15 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103639233693159742) |
 | [随你决定的开放式AI生成视频](https://x.com/mhmtycllll/status/2102552313134973187) | Opus 5.5 | [@mhmtycllll](https://x.com/mhmtycllll) | 0:54 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102552313134973187) |
 | [用Opus 5.5制作的短视频](https://x.com/javiiarchive/status/2105283486487896448) | Opus 5.5 | [@javiiarchive](https://x.com/javiiarchive) | 0:23 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2105283486487896448) |
+| [单条提示词生成的动态设计动画](https://x.com/flxrnc/status/2109629188525420930) | Opus 5.5 | [@flxrnc](https://x.com/flxrnc) | 0:16 | — |
 | [展示近期更新的15秒动效视频](https://x.com/SebastianRoehl/status/2103912457836323096) | Opus 5.5 | [@SebastianRoehl](https://x.com/SebastianRoehl) | 0:15 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103912457836323096) |
 | [专业级30秒产品展示片](https://x.com/HO_BA/status/2103845264649761062) | Opus 5.5 | [@HO_BA](https://x.com/HO_BA) | 0:30 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103845264649761062) |
 | [代理机构介绍动态设计视频](https://x.com/baptistelcx/status/2103437700783038710) | Opus 5.5 | [@baptistelcx](https://x.com/baptistelcx) | 1:18 | — |
@@ -126,10 +129,12 @@
 | [90秒动态设计与配乐演示](https://x.com/kloss_xyz/status/2103624187017572421) | Opus 5.5 | [@kloss_xyz](https://x.com/kloss_xyz) | 0:26 | — |
 | [公司宣传动效广告](https://x.com/showheyohtaki/status/2104095944686051492) | Opus 5.5 | [@showheyohtaki](https://x.com/showheyohtaki) | 0:30 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104095944686051492) |
 | [美食App产品发布短片](https://x.com/ultimaxbt/status/2108210884799549714) | Opus 5.5 | [@ultimaxbt](https://x.com/ultimaxbt) | 0:16 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2108210884799549714) |
+| [音效改进的动态短片](https://x.com/LexnLin/status/2109718604883370450) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 0:40 | — |
 | [令人惊艳的AI生成视频](https://x.com/GregorySchier/status/2103573891629371497) | Opus 5.5 | [@GregorySchier](https://x.com/GregorySchier) | 0:30 | — |
 | [文件加密传输原理可视化](https://x.com/SyntaxDiffusion/status/2103182358635532377) | Opus 5.5 | [@SyntaxDiffusion](https://x.com/SyntaxDiffusion) | 1:36 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103182358635532377) |
 | [媒体工具展示片动效](https://x.com/ismailfahmi/status/2103759320664219750) | Opus 5.5 | [@ismailfahmi](https://x.com/ismailfahmi) | 2:08 | — |
 | [Kody 产品 30 秒动效宣传片](https://x.com/kentcdodds/status/2103638102333858193) | Opus 5.5 | [@kentcdodds](https://x.com/kentcdodds) | 0:30 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103638102333858193) |
+| [无缝循环动态设计动画](https://x.com/0xkerazcity/status/2109705700930957328) | Opus 5.5 | [@0xkerazcity](https://x.com/0xkerazcity) | 0:16 | — |
 | [媒体分析品牌的动效展示片](https://x.com/ismailfahmi/status/2103557833153466403) | Opus 5.5 | [@ismailfahmi](https://x.com/ismailfahmi) | 0:15 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103557833153466403) |
 | [TechHalla 20 秒动态品牌片头](https://x.com/techhalla/status/2103411244468498547) | Opus 5.5 | [@techhalla](https://x.com/techhalla) | 0:20 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103411244468498547) |
 | [合作短视频](https://x.com/AiwithSaif7/status/2106268181413429416) | Opus 5.5 | [@AiwithSaif7](https://x.com/AiwithSaif7) | 0:46 | — |

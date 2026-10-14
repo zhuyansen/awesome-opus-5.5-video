@@ -1,6 +1,6 @@
 # Model comparisons
 
-203 works, 64 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+210 works, 65 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [3D-printed load-bearing bridge](https://x.com/rpnickson/status/2104234974350111108) | Opus 5.5 | [@rpnickson](https://x.com/rpnickson) | 1:19 | — |
 | [Opus 5.5 vs GPT-6 Astra Blender 3D test](https://x.com/Stefan_3D_AI/status/2102471841046786153) | Opus 5.5 | [@Stefan_3D_AI](https://x.com/Stefan_3D_AI) | 0:46 | — |
 | [Jelly candy simulation comparison](https://x.com/vib3coded/status/2103741107225907467) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:18 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103741107225907467) |
+| [Lawn mower simulator built from the same prompt](https://x.com/_MaxBlade/status/2109723440710066646) | Opus 5.5 | [@_MaxBlade](https://x.com/_MaxBlade) | 0:34 | — |
 | [Watermelon rubber band test: Opus 5.5 vs GPT-6 Astra](https://x.com/vib3coded/status/2104994617573970308) | Opus 5.5 / Sonnet 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:18 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104994617573970308) |
 | [Drawing task speed and quality comparison](https://x.com/thermalpastor/status/2103842737032458567) | Opus 5.5 | [@thermalpastor](https://x.com/thermalpastor) | 0:15 | — |
 | [Opus 5.5 versus GPT-6 Sol comparison](https://x.com/mehulmpt/status/2102470633846341990) | Opus 5.5 | [@mehulmpt](https://x.com/mehulmpt) | 1:03 | — |
@@ -26,6 +27,7 @@
 | [Spider-Man game comparison across models](https://x.com/k2sbhai/status/2102487953302061481) | Opus 5.5 | [@k2sbhai](https://x.com/k2sbhai) | 0:33 | — |
 | [Same-brief build comparison](https://x.com/dropout_layer/status/2105024587063070955) | Opus 5.5 | [@dropout_layer](https://x.com/dropout_layer) | 0:45 | — |
 | [Ant vs gardener 3D game comparison](https://x.com/higgsfield_ai/status/2102898409028161644) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:13 | — |
+| [Potato farm growth challenge: Astra vs Opus 5.5](https://x.com/fawnunwrap/status/2109730933637283942) | Opus 5.5 | [@fawnunwrap](https://x.com/fawnunwrap) | 1:37 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2109730933637283942) |
 | [Single-File Website Comparison](https://x.com/filicroval/status/2104681499798938034) | Opus 5.5 / Sonnet 5.5 | [@filicroval](https://x.com/filicroval) | 1:02 | — |
 | [Opus vs Astra cost comparison recreating launch video](https://x.com/trymirage/status/2102502794003677373) | Opus 5.5 | [@trymirage](https://x.com/trymirage) | 0:32 | — |
 | [Animated welcome screen for the Nova crypto wallet](https://x.com/vvarrdi/status/2102681647720395115) | Opus 5.5 | [@vvarrdi](https://x.com/vvarrdi) | 0:07 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102681647720395115) |
@@ -91,6 +93,7 @@
 | [Opus 5.5 vs GPT-6 Sol design comparison](https://x.com/bridgebench/status/2102469365903872306) | Opus 5.5 | [@bridgebench](https://x.com/bridgebench) | 1:19 | — |
 | [Sonnet 5 vs 5.5 orange peeling animation](https://x.com/ConsortiumAI/status/2104866677121007774) | Sonnet 5.5 | [@ConsortiumAI](https://x.com/ConsortiumAI) | 0:20 | — |
 | [Summer Palace pavilion 3D scene comparison](https://x.com/Saccc_c/status/2103778944835326223) | Opus 5.5 | [@Saccc_c](https://x.com/Saccc_c) | 0:30 | — |
+| [Bosphorus ferry scene at three effort levels](https://x.com/Avenoxai/status/2109569929817305345) | Opus 5.5 | [@Avenoxai](https://x.com/Avenoxai) | 0:14 | — |
 | [Samurai animation model comparison](https://x.com/wholyv/status/2105263665083818364) | Opus 5.5 / Sonnet 5.5 | [@wholyv](https://x.com/wholyv) | 0:10 | — |
 | [3D modeling output comparison](https://x.com/wholyv/status/2103774009871696289) | Opus 5.5 | [@wholyv](https://x.com/wholyv) | 0:15 | — |
 | [Third-Person Game Prototypes](https://x.com/higgsfield_ai/status/2105048540393464204) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:19 | — |
@@ -132,6 +135,7 @@
 | [Voxel self-portrait comparison](https://x.com/blueemi99/status/2106019592451789105) | Opus 5.5 | [@blueemi99](https://x.com/blueemi99) | 0:26 | — |
 | [Interactive planets website comparison](https://x.com/Kappaemme1926/status/2102729710174196022) | Opus 5.5 | [@Kappaemme1926](https://x.com/Kappaemme1926) | 0:47 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102729710174196022) |
 | [Voxel Pagoda: Gemini 4 Argon vs Opus 5.5](https://x.com/LuminaBench/status/2106156060163620924) | Opus 5.5 | [@LuminaBench](https://x.com/LuminaBench) | 0:21 | — |
+| [Motion graphics comparison: Opus 5.5 vs 6.1 Sol](https://x.com/reoru_alt/status/2109584603573006403) | Opus 5.5 | [@reoru_alt](https://x.com/reoru_alt) | 0:05 | — |
 | [Vehicle driving scene animation](https://x.com/VulKan42069/status/2105014206026383409) | Sonnet 5.5 | [@VulKan42069](https://x.com/VulKan42069) | 1:11 | — |
 | [Self-promo launch video model comparison](https://x.com/motion_so/status/2105346642203546025) | Opus 5.5 | [@motion_so](https://x.com/motion_so) | 0:50 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2105346642203546025) |
 | [Samurai game: Opus 5.5 vs GPT-6 Astra](https://x.com/higgsfield_ai/status/2102899183342817578) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:15 | — |
@@ -144,6 +148,7 @@
 | [Flight simulator: Fable 5 vs Opus 5.5](https://x.com/samuelrdt/status/2103420244018573385) | Opus 5.5 | [@samuelrdt](https://x.com/samuelrdt) | 2:01 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103420244018573385) |
 | [AI edit vs human edit comparison](https://x.com/sab8a/status/2103591152847118409) | Opus 5.5 | [@sab8a](https://x.com/sab8a) | 0:20 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103591152847118409) |
 | [3D turntable model benchmark comparison](https://x.com/bridgebench/status/2105275473123049613) | Opus 5.5 | [@bridgebench](https://x.com/bridgebench) | 0:10 | — |
+| [Working V8 engine CAD model comparison](https://x.com/devteamdrew/status/2109634337222414402) | Opus 5.5 | [@devteamdrew](https://x.com/devteamdrew) | 0:24 | — |
 | [Sonnet 5.5 vs Opus 5.5 verification test](https://x.com/nemumusitocha/status/2105583507787456866) | Opus 5.5 / Sonnet 5.5 | [@nemumusitocha](https://x.com/nemumusitocha) | 9:02 | — |
 | [Opus 5.5 vs Astra art comparison](https://x.com/sato_neet/status/2102622120631267807) | Opus 5.5 | [@sato_neet](https://x.com/sato_neet) | 1:30 | — |
 | [Procedural cartoon scene model comparison](https://x.com/Stefan_3D_AI/status/2102623690152419633) | Opus 5.5 | [@Stefan_3D_AI](https://x.com/Stefan_3D_AI) | 0:30 | — |
@@ -202,6 +207,8 @@
 | [Lava lamp 3D render benchmark test](https://x.com/SimonasLTU1/status/2108159697782239511) | Haiku 5.5 | [@SimonasLTU1](https://x.com/SimonasLTU1) | 0:18 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2108159697782239511) |
 | [Landing page build, two-model comparison](https://x.com/blueemi99/status/2104682412840284410) | Sonnet 5.5 | [@blueemi99](https://x.com/blueemi99) | 0:45 | — |
 | [Robot software and marketing comparison](https://x.com/bijanbowen/status/2105949902274453766) | Sonnet 5.5 | [@bijanbowen](https://x.com/bijanbowen) | 3:01 | — |
+| [Fall Guys style game comparison](https://x.com/kepochnik/status/2109593857889583467) | Opus 5.5 | [@kepochnik](https://x.com/kepochnik) | 1:00 | — |
+| [AI goalkeeper model comparison](https://x.com/leopardracer/status/2109576248598970690) | Haiku 5.5 | [@leopardracer](https://x.com/leopardracer) | 0:30 | — |
 | [Neon shooter video model comparison](https://x.com/kepochnik/status/2107769950068998375) | Opus 5.5 | [@kepochnik](https://x.com/kepochnik) | 0:30 | — |
 | [Pachinko effect: Opus 5.5 version](https://x.com/priketsu_game/status/2102567925622411695) | Opus 5.5 | [@priketsu_game](https://x.com/priketsu_game) | 0:30 | — |
 | [Opus vs Astra diorama comparison (Blender)](https://x.com/sino1782013/status/2103449301838078098) | Opus 5.5 | [@sino1782013](https://x.com/sino1782013) | 0:56 | — |

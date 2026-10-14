@@ -1,6 +1,6 @@
 # 科普讲解
 
-共 141 个作品，其中 46 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 144 个作品，其中 48 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [可缩放的应用架构可视化画布](https://x.com/robinebers/status/2105309987983745060) | Opus 5.5 | [@robinebers](https://x.com/robinebers) | 0:12 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2105309987983745060) |
 | [重现南北战争叛军呐喊声](https://x.com/JaneCazneau/status/2103594794651992264) | Opus 5.5 | [@JaneCazneau](https://x.com/JaneCazneau) | 0:41 | — |
 | [机场车流对比可视化](https://x.com/ConorNeu/status/2103528147220349271) | Opus 5.5 | [@ConorNeu](https://x.com/ConorNeu) | 1:07 | — |
+| [新加坡占领巴淡岛逐时推演模拟](https://x.com/hanifproduktif/status/2109572982444265656) | Opus 5.5 | [@hanifproduktif](https://x.com/hanifproduktif) | 4:21 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2109572982444265656) |
 | [中华上下五千年回顾视频](https://x.com/akokoi1/status/2102583898865873225) | Opus 5.5 | [@akokoi1](https://x.com/akokoi1) | 2:38 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102583898865873225) |
 | [难题求解过程可视化](https://x.com/chetaslua/status/2102478640428773861) | Opus 5.5 | [@chetaslua](https://x.com/chetaslua) | 0:30 | — |
 | [15秒讲述3D计算机图形史](https://x.com/jmitani/status/2103997975173439834) | Opus 5.5 | [@jmitani](https://x.com/jmitani) | 0:15 | — |
@@ -99,6 +100,7 @@
 | [医疗体系演讲内容总结视频](https://x.com/agaviriau/status/2105769916288930215) | Opus 5.5 | [@agaviriau](https://x.com/agaviriau) | 2:06 | — |
 | [IDOR漏洞讲解视频](https://x.com/BourAbdelhadi/status/2105236146246586434) | Sonnet 5.5 | [@BourAbdelhadi](https://x.com/BourAbdelhadi) | 0:35 | — |
 | [旋转轴主题工程历史动画](https://x.com/ootamato/status/2103099960069873856) | Opus 5.5 | [@ootamato](https://x.com/ootamato) | 0:31 | — |
+| [马桶冲水机制互动演示](https://x.com/elliscrosby/status/2109570204556824624) | Opus 5.5 | [@elliscrosby](https://x.com/elliscrosby) | 0:18 | — |
 | [关于三种物理理论风格的讲解视频](https://x.com/bukuro8810/status/2103739912591929851) | Opus 5.5 | [@bukuro8810](https://x.com/bukuro8810) | 5:04 | — |
 | [诺贝尔奖科普视频](https://x.com/KeWai386772/status/2108143447496679553) | Opus 5.5 | [@KeWai386772](https://x.com/KeWai386772) | 13:00 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2108143447496679553) |
 | [榫卯结构科普视频](https://x.com/op7418/status/2105675440409174160) | Opus 5.5 | [@op7418](https://x.com/op7418) | 0:48 | — |
@@ -144,4 +146,5 @@
 | [仓库包裹分拣决策模拟](https://x.com/konstantinsaifo/status/2108914585340428549) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 0:40 | — |
 | [呼吁"终结美联储"的15秒说明视频](https://x.com/cboyack/status/2103617085402407181) | Opus 5.5 | [@cboyack](https://x.com/cboyack) | 0:15 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103617085402407181) |
 | [为Anthropic科学博客制作的讲解视频](https://x.com/deepwhitman/status/2103562764929389035) | Opus 5.5 | [@deepwhitman](https://x.com/deepwhitman) | 1:39 | — |
+| [升力原理互动风洞演示](https://x.com/konstantinsaifo/status/2109595253879816337) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 0:34 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2109595253879816337) |
 | [热钱包与冷钱包区别讲解视频](https://x.com/sergitosergito/status/2103835390998388796) | Opus 5.5 | [@sergitosergito](https://x.com/sergitosergito) | 1:36 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103835390998388796) |

@@ -1,6 +1,6 @@
 # 3D worlds & simulations
 
-210 works, 51 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+216 works, 52 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Tokyo 3D city simulator](https://x.com/xiaohua_888/status/2103037354101629157) | Opus 5.5 | [@xiaohua_888](https://x.com/xiaohua_888) | 1:00 | — |
 | [Cybertruck-to-transformer 3D animation](https://x.com/scottstts/status/2102539904274325540) | Opus 5.5 | [@scottstts](https://x.com/scottstts) | 1:13 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102539904274325540) |
 | [Golden Gate Bridge 3D scene](https://x.com/petergyang/status/2102458049856479474) | Opus 5.5 | [@petergyang](https://x.com/petergyang) | 0:30 | — |
+| [Interactive 3D world built one-shot by Opus 5.5](https://x.com/Ainthropos/status/2109718931409699043) | Opus 5.5 | [@Ainthropos](https://x.com/Ainthropos) | 0:56 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2109718931409699043) |
 | [Visualization of what AI hates about humans](https://x.com/TheSpacerr/status/2105744712330354723) | Sonnet 5.5 | [@TheSpacerr](https://x.com/TheSpacerr) | 0:45 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2105744712330354723) |
 | [Sand painting animation with narrated soundtrack](https://x.com/Michaelzsguo/status/2102592355165782312) | Opus 5.5 | [@Michaelzsguo](https://x.com/Michaelzsguo) | 2:00 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102592355165782312) |
 | [Cute interactive 3D world](https://x.com/studio_veco/status/2102684366996738511) | Opus 5.5 | [@studio_veco](https://x.com/studio_veco) | 1:21 | — |
@@ -109,7 +110,9 @@
 | [Nibs and the Sleeping Tortoise](https://x.com/HeyAbhishek/status/2107458140279394589) | Opus 5.5 | [@HeyAbhishek](https://x.com/HeyAbhishek) | 0:30 | — |
 | [Adaptive micro apartment 3D scene](https://x.com/techartist_/status/2102813614797472162) | Opus 5.5 | [@techartist_](https://x.com/techartist_) | 0:19 | — |
 | [Live water simulation demo](https://x.com/Avenoxai/status/2102500841097756743) | Opus 5.5 | [@Avenoxai](https://x.com/Avenoxai) | 1:01 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102500841097756743) |
+| [Floor plan that builds into a house on scroll](https://x.com/SammmAing/status/2109708195031900310) | Opus 5.5 | [@SammmAing](https://x.com/SammmAing) | 0:57 | — |
 | [Code-built seaplane 3D model](https://x.com/maxt3chno/status/2107112922354790508) | Opus 5.5 | [@maxt3chno](https://x.com/maxt3chno) | 1:46 | — |
+| [Blender scene rendered with a personal VRM model](https://x.com/midori_tatsuta/status/2109609040716452113) | Opus 5.5 | [@midori_tatsuta](https://x.com/midori_tatsuta) | 0:10 | — |
 | [Three.js generative 3D experience](https://x.com/chetanankola/status/2103008022369099992) | Opus 5.5 | [@chetanankola](https://x.com/chetanankola) | 0:28 | — |
 | [Cel-shaded 3D scene from a reference photo](https://x.com/ishuagra02/status/2102543638689460488) | Opus 5.5 | [@ishuagra02](https://x.com/ishuagra02) | 0:49 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102543638689460488) |
 | [90s-style demoscene demo in C/OpenGL](https://x.com/gandamu_ml/status/2102919394775220530) | Opus 5.5 | [@gandamu_ml](https://x.com/gandamu_ml) | 6:23 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102919394775220530) |
@@ -131,6 +134,7 @@
 | [Real-time ray-traced spheres WebGL demo](https://x.com/akiy_8/status/2103434383218872503) | Opus 5.5 | [@akiy_8](https://x.com/akiy_8) | 0:15 | — |
 | [Code-generated beach scene with sound](https://x.com/LexnLin/status/2108694114476650840) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 0:18 | — |
 | [Interactive ink-style shrimp shader](https://x.com/jshguo/status/2105250266392224097) | Opus 5.5 | [@jshguo](https://x.com/jshguo) | 0:10 | — |
+| [Animal walk animation with color-coded leg rig](https://x.com/Stefan_3D_AI/status/2109568757001756710) | Opus 5.5 | [@Stefan_3D_AI](https://x.com/Stefan_3D_AI) | 0:13 | — |
 | [Turkish marbling simulation engine](https://x.com/dhruvalgolakiya/status/2105705406958067765) | Opus 5.5 | [@dhruvalgolakiya](https://x.com/dhruvalgolakiya) | 0:51 | — |
 | [City built from personal tweets](https://x.com/paularambles/status/2107125351784886642) | Opus 5.5 | [@paularambles](https://x.com/paularambles) | 0:46 | — |
 | [Pixel art animation piece](https://x.com/SpikeRiser/status/2102581008654594124) | Opus 5.5 | [@SpikeRiser](https://x.com/SpikeRiser) | 3:30 | — |
@@ -167,6 +171,7 @@
 | [Tool to convert icons into 3D assets](https://x.com/MengTo/status/2107445210011849103) | Opus 5.5 | [@MengTo](https://x.com/MengTo) | 0:57 | — |
 | [Open-source Gothic basilica 3D scene](https://x.com/TokenGremlin/status/2103145953859375539) | Opus 5.5 | [@TokenGremlin](https://x.com/TokenGremlin) | 1:54 | — |
 | [Toon shader built for custom 3D software](https://x.com/sekiun_creation/status/2103462799976575323) | Opus 5.5 | [@sekiun_creation](https://x.com/sekiun_creation) | 0:29 | — |
+| [3D jewelry brand visualization](https://x.com/HamidoFx1/status/2109603285938094545) | Opus 5.5 | [@HamidoFx1](https://x.com/HamidoFx1) | 0:10 | — |
 | [Code-to-painting brush engine test](https://x.com/RLanceMartin/status/2104637229465538850) | Sonnet 5.5 | [@RLanceMartin](https://x.com/RLanceMartin) | 0:25 | — |
 | [VFX tolerance test in a 3D tool](https://x.com/MattiaMerenda2/status/2103864218449559853) | Opus 5.5 | [@MattiaMerenda2](https://x.com/MattiaMerenda2) | 0:10 | — |
 | [Simulated metal 3D printer for rocket engine](https://x.com/konstantinsaifo/status/2106378121557782950) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 0:56 | — |
@@ -189,6 +194,7 @@
 | [Self-portrait drawing with piano score](https://x.com/kevin_t_ngo/status/2107462206610935857) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 0:20 | — |
 | [Endless procedural tram ride through Lisbon](https://x.com/thebuggeddev/status/2103465304039076319) | Opus 5.5 | [@thebuggeddev](https://x.com/thebuggeddev) | 0:53 | — |
 | [Three.js destruction engine demo](https://x.com/Ben__Springer/status/2103517427749241133) | Opus 5.5 | [@Ben__Springer](https://x.com/Ben__Springer) | 2:31 | — |
+| [Pixel World built with Blender and code](https://x.com/aicreataro/status/2109598040889942476) | Opus 5.5 | [@aicreataro](https://x.com/aicreataro) | 1:06 | — |
 | [3D space test scene](https://x.com/studio_veco/status/2102650069136933039) | Opus 5.5 | [@studio_veco](https://x.com/studio_veco) | 0:51 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102650069136933039) |
 | [Swedish stamp designs generated in JavaScript](https://x.com/ermanmalak/status/2109297440021201074) | Opus 5.5 | [@ermanmalak](https://x.com/ermanmalak) | 0:10 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2109297440021201074) |
 | [Rotating blade around a battleship model](https://x.com/ShadeLurk/status/2102462310224900476) | Opus 5.5 | [@ShadeLurk](https://x.com/ShadeLurk) | 0:06 | — |

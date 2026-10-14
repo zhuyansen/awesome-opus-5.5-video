@@ -1,6 +1,6 @@
 # 游戏
 
-共 267 个作品，其中 50 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 269 个作品，其中 50 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [惬意风金属探测器游戏原型](https://x.com/zacxbt/status/2103789882309234711) | Opus 5.5 | [@zacxbt](https://x.com/zacxbt) | 0:25 | — |
 | [喀拉拉蛇船竞速游戏](https://x.com/jessinvibe/status/2103565292198838314) | Opus 5.5 | [@jessinvibe](https://x.com/jessinvibe) | 0:51 | — |
 | [从零搭建的Roblox大富翁风格游戏](https://x.com/0xCarnival/status/2102752120978190579) | Opus 5.5 | [@0xCarnival](https://x.com/0xCarnival) | 0:29 | — |
+| [为反编译版《光环》添加的新武器](https://x.com/robertskmiles/status/2109709807712366623) | Opus 5.5 | [@robertskmiles](https://x.com/robertskmiles) | 0:15 | — |
 | [无人深空风格多人浏览器游戏](https://x.com/Rubzem/status/2107828818165833976) | Opus 5.5 | [@Rubzem](https://x.com/Rubzem) | 1:31 | — |
 | [带水体物理的类Minecraft游戏](https://x.com/notjazii/status/2102480420923420790) | Opus 5.5 | [@notjazii](https://x.com/notjazii) | 1:24 | — |
 | [重制经典头球闪客游戏](https://x.com/melih_cat/status/2102731155879391418) | Opus 5.5 | [@melih_cat](https://x.com/melih_cat) | 0:18 | — |
@@ -238,6 +239,7 @@
 | [Unreal引擎制作的F-Zero风格赛车游戏](https://x.com/ForwardEditor/status/2104633533981491575) | Sonnet 5.5 | [@ForwardEditor](https://x.com/ForwardEditor) | 1:57 | — |
 | [吉卜力风格水下列车模拟游戏](https://x.com/aniketjart/status/2102546641253478674) | Opus 5.5 | [@aniketjart](https://x.com/aniketjart) | 0:29 | — |
 | [游戏复刻项目后续视频](https://x.com/LexnLin/status/2103539721649692713) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 0:36 | — |
+| [气球岛建造游戏](https://x.com/0xbobaaa/status/2109628088430510337) | Opus 5.5 | [@0xbobaaa](https://x.com/0xbobaaa) | 0:30 | — |
 | [用Three.js制作的CoD僵尸模式克隆版](https://x.com/intheworldofai/status/2104689634080882967) | Sonnet 5.5 | [@intheworldofai](https://x.com/intheworldofai) | 2:11 | — |
 | [太空文明浏览器游戏](https://x.com/konstantinsaifo/status/2105261985235444072) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 1:01 | — |
 | [程序化山脉飞行模拟器](https://x.com/cyrilXBT/status/2103737605510836371) | Opus 5.5 | [@cyrilXBT](https://x.com/cyrilXBT) | 0:15 | — |

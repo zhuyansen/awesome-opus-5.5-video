@@ -1,6 +1,6 @@
 # 角色故事
 
-共 150 个作品，其中 37 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 152 个作品，其中 38 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [用app角色复刻爆款TikTok视频](https://x.com/jackfriks/status/2103882282985558398) | Opus 5.5 | [@jackfriks](https://x.com/jackfriks) | 0:12 | — |
 | [OpenAI破解纳维-斯托克斯方程视频（讽刺）](https://x.com/apples_jimmy/status/2102615496017473995) | Opus 5.5 | [@apples_jimmy](https://x.com/apples_jimmy) | 1:48 | — |
 | [代理视角下的Hugging Face事件](https://x.com/CarsonGragg/status/2103245240169808005) | Opus 5.5 | [@CarsonGragg](https://x.com/CarsonGragg) | 5:00 | — |
+| [描绘人一生的叙事视频](https://x.com/shengtang135754/status/2109598324609409331) | Opus 5.5 | [@shengtang135754](https://x.com/shengtang135754) | 0:29 | — |
 | [源自神学研究的反思视频](https://x.com/Skoorbkaz/status/2102720902773322034) | Opus 5.5 | [@Skoorbkaz](https://x.com/Skoorbkaz) | 6:14 | — |
 | [具有情感叙事的互动网站](https://x.com/Da7_Tech/status/2102794245241548839) | Opus 5.5 | [@Da7_Tech](https://x.com/Da7_Tech) | 1:50 | — |
 | [逐帧代码渲染音乐视频](https://x.com/vinceflibustier/status/2103590659852751268) | Opus 5.5 | [@vinceflibustier](https://x.com/vinceflibustier) | 4:47 | — |
@@ -100,6 +101,7 @@
 | [奥术风格动画](https://x.com/ChrisGPT/status/2105045818046808380) | Opus 5.5 | [@ChrisGPT](https://x.com/ChrisGPT) | 0:09 | — |
 | [代码实现的1分钟打斗动画](https://x.com/akokoi1/status/2103149275945517546) | Opus 5.5 | [@akokoi1](https://x.com/akokoi1) | 1:00 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103149275945517546) |
 | [蜘蛛侠漫画时代变迁](https://x.com/chetaslua/status/2106248621519978867) | Fable 5.5 (preview) | [@chetaslua](https://x.com/chetaslua) | 0:38 | — |
+| [Fable 5.5自我介绍音乐视频](https://x.com/ChrisGPT/status/2109570757579649086) | Fable 5.5 (preview) | [@ChrisGPT](https://x.com/ChrisGPT) | 1:16 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2109570757579649086) |
 | [戏剧化个人"战斗"叙事视频](https://x.com/super_bonochin/status/2103881739131376035) | Opus 5.5 | [@super_bonochin](https://x.com/super_bonochin) | 1:05 | — |
 | [手绘草图转3D对战动画](https://x.com/MinLiBuilds/status/2102756822990180387) | Opus 5.5 | [@MinLiBuilds](https://x.com/MinLiBuilds) | 1:43 | — |
 | [根据小精灵剧本制作的预告片](https://x.com/JoshDaws/status/2107108840797811032) | Opus 5.5 | [@JoshDaws](https://x.com/JoshDaws) | 1:54 | — |
