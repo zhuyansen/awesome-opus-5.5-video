@@ -1,6 +1,6 @@
 # Motion graphics & UI
 
-241 works, 83 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+242 works, 84 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Extended motion designer showreel](https://x.com/himanshutwtxs/status/2103620708601639016) | Opus 5.5 | [@himanshutwtxs](https://x.com/himanshutwtxs) | 0:30 | — |
 | [Viral video based on trending topics](https://x.com/DrClownPhD/status/2103510971046096906) | Opus 5.5 | [@DrClownPhD](https://x.com/DrClownPhD) | 0:34 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103510971046096906) |
 | [15-second motion graphics showreel for a website](https://x.com/melvynx/status/2103714680577638493) | Opus 5.5 | [@melvynx](https://x.com/melvynx) | 0:45 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103714680577638493) |
+| [Anime opening edit of a martial arts clip](https://x.com/aimikoda/status/2110119492076404869) | Opus 5.5 | [@aimikoda](https://x.com/aimikoda) | 0:32 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2110119492076404869) |
 | [Quick ad video from one prompt](https://x.com/Nour_Sofanati/status/2103653780327641130) | Opus 5.5 | [@Nour_Sofanati](https://x.com/Nour_Sofanati) | 0:35 | — |
 | [15-Second Motion Graphics Showcase](https://x.com/Saccc_c/status/2106376222309761094) | Opus 5.5 / Fable 5.5 (preview) | [@Saccc_c](https://x.com/Saccc_c) | 0:15 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2106376222309761094) |
 | [Dot-themed motion video](https://x.com/seiiiiiiiiiiru/status/2107018580265201724) | Opus 5.5 | [@seiiiiiiiiiiru](https://x.com/seiiiiiiiiiiru) | 0:15 | — |

@@ -1,12 +1,13 @@
 # Model comparisons
 
-210 works, 65 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+215 works, 68 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
 | [AI self-portrait challenge: Sonnet 5.5 vs GPT-6 Astra](https://x.com/siyabuilt/status/2104924603126603893) | Sonnet 5.5 | [@siyabuilt](https://x.com/siyabuilt) | 0:42 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104924603126603893) |
 | [Opus 5.5 vs GPT-6 Astra samurai game demo](https://x.com/higgsfield_ai/status/2102471046356177001) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:28 | — |
 | [GPT-6 Astra vs Claude Opus 5.5 comparison](https://x.com/Rixhabh__/status/2104225147184132310) | Opus 5.5 | [@Rixhabh__](https://x.com/Rixhabh__) | 0:30 | — |
+| [Gummy bear soft-body physics scene](https://x.com/semichenkko/status/2110131790136401989) | Opus 5.5 | [@semichenkko](https://x.com/semichenkko) | 0:13 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2110131790136401989) |
 | [Grok vs Opus grass-touching simulator cost test](https://x.com/coldopn/status/2102474335172640989) | Opus 5.5 | [@coldopn](https://x.com/coldopn) | 0:22 | — |
 | [Opus 5.5 vs GPT-6 Sol Unreal game dev](https://x.com/higgsfield_ai/status/2102533401110802552) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:44 | — |
 | [Glitter sticker effect comparison](https://x.com/ann_nnng/status/2104159923886244176) | Opus 5.5 | [@ann_nnng](https://x.com/ann_nnng) | 0:13 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104159923886244176) |
@@ -51,6 +52,7 @@
 | [Browser octopus physics comparison](https://x.com/vib3coded/status/2106809017850818679) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:18 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2106809017850818679) |
 | [Mongol conquest data visualization comparison](https://x.com/YanqingCheng/status/2102566466121797767) | Opus 5.5 | [@YanqingCheng](https://x.com/YanqingCheng) | 0:27 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102566466121797767) |
 | [Elon Musk Paintbrush portrait](https://x.com/EvoLinkAi/status/2104617133820850379) | Opus 5.5 | [@EvoLinkAi](https://x.com/EvoLinkAi) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104617133820850379) |
+| [Voxel ship in a bottle](https://x.com/vib3coded/status/2110136719827747181) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:18 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2110136719827747181) |
 | [Interactive 3D stained-glass hibiscus flower](https://x.com/ivanainai/status/2105328178051092804) | Opus 5.5 | [@ivanainai](https://x.com/ivanainai) | 1:00 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2105328178051092804) |
 | [Interactive plush shark side-by-side](https://x.com/vib3coded/status/2107773295676227691) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:18 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2107773295676227691) |
 | [Night train build: four-model comparison](https://x.com/EnvolDev/status/2103282586055213355) | Opus 5.5 | [@EnvolDev](https://x.com/EnvolDev) | 0:25 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103282586055213355) |
@@ -80,6 +82,7 @@
 | [Worst Nightmare Visualizations](https://x.com/siyabuilt/status/2105197258970906976) | Sonnet 5.5 | [@siyabuilt](https://x.com/siyabuilt) | 0:42 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2105197258970906976) |
 | [Recreating Zelda demo across three models](https://x.com/ChrisGPT/status/2103281153017020640) | Opus 5.5 | [@ChrisGPT](https://x.com/ChrisGPT) | 0:37 | — |
 | [Same-prompt video comparison across models](https://x.com/bridgemindai/status/2103594719544525016) | Opus 5.5 | [@bridgemindai](https://x.com/bridgemindai) | 1:00 | — |
+| [3D voxel sports car assembly animation](https://x.com/atomic_chat_hq/status/2110145714659664275) | Opus 5.5 | [@atomic_chat_hq](https://x.com/atomic_chat_hq) | 0:26 | — |
 | [Claude Sonnet vs Opus self-portrait motion design](https://x.com/motion_so/status/2104981908241486064) | Opus 5.5 / Sonnet 5.5 | [@motion_so](https://x.com/motion_so) | 0:24 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104981908241486064) |
 | [Post-Biological Consciousness Experience](https://x.com/SimonasLTU1/status/2107110129363472474) | Opus 5.5 | [@SimonasLTU1](https://x.com/SimonasLTU1) | 1:05 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2107110129363472474) |
 | [Single-File Minecraft Game](https://x.com/dummerspast39/status/2106834027332411885) | Opus 5.5 | [@dummerspast39](https://x.com/dummerspast39) | 1:10 | — |
@@ -150,6 +153,7 @@
 | [3D turntable model benchmark comparison](https://x.com/bridgebench/status/2105275473123049613) | Opus 5.5 | [@bridgebench](https://x.com/bridgebench) | 0:10 | — |
 | [Working V8 engine CAD model comparison](https://x.com/devteamdrew/status/2109634337222414402) | Opus 5.5 | [@devteamdrew](https://x.com/devteamdrew) | 0:24 | — |
 | [Sonnet 5.5 vs Opus 5.5 verification test](https://x.com/nemumusitocha/status/2105583507787456866) | Opus 5.5 / Sonnet 5.5 | [@nemumusitocha](https://x.com/nemumusitocha) | 9:02 | — |
+| [Rocket scene comparison across AI models](https://x.com/Bhavani_00007/status/2110099864650702928) | Opus 5.5 | [@Bhavani_00007](https://x.com/Bhavani_00007) | 0:20 | — |
 | [Opus 5.5 vs Astra art comparison](https://x.com/sato_neet/status/2102622120631267807) | Opus 5.5 | [@sato_neet](https://x.com/sato_neet) | 1:30 | — |
 | [Procedural cartoon scene model comparison](https://x.com/Stefan_3D_AI/status/2102623690152419633) | Opus 5.5 | [@Stefan_3D_AI](https://x.com/Stefan_3D_AI) | 0:30 | — |
 | [Mechanical bee model comparison](https://x.com/thtbee_/status/2106050608599842846) | Opus 5.5 / Sonnet 5.5 | [@thtbee_](https://x.com/thtbee_) | 0:32 | — |
@@ -176,6 +180,7 @@
 | [3D seaplane model comparison](https://x.com/LuminaBench/status/2106844484860600803) | Opus 5.5 / Sonnet 5.5 | [@LuminaBench](https://x.com/LuminaBench) | 0:14 | — |
 | [Interactive 3D landscape model comparison](https://x.com/alin_zone/status/2102701111090008066) | Opus 5.5 | [@alin_zone](https://x.com/alin_zone) | 1:33 | — |
 | [Classic browser game remake comparison](https://x.com/noclipepe/status/2103767411870535868) | Opus 5.5 | [@noclipepe](https://x.com/noclipepe) | 0:38 | — |
+| [Da Vinci workshop 3D build: Gemini vs Opus](https://x.com/techhalla/status/2110121002332295599) | Opus 5.5 | [@techhalla](https://x.com/techhalla) | 1:41 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2110121002332295599) |
 | [Lip balm product video comparison](https://x.com/higgsfield_ai/status/2102913101926731879) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:20 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102913101926731879) |
 | [Four-model 3D rose generation comparison](https://x.com/Bhavani_00007/status/2105735387973107986) | Sonnet 5.5 | [@Bhavani_00007](https://x.com/Bhavani_00007) | 0:15 | — |
 | [Pirate ship 3D scene comparison](https://x.com/vib3coded/status/2102533729746882985) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:22 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102533729746882985) |

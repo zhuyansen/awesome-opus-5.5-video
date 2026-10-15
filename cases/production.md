@@ -1,6 +1,6 @@
 # Music, editing & production
 
-111 works, 18 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+113 works, 18 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [AE motion-tracked typography test via dance video](https://x.com/aicreataro/status/2103757144789221819) | Opus 5.5 | [@aicreataro](https://x.com/aicreataro) | 0:32 | — |
 | [Open Edit: turning videos into editable projects](https://x.com/sab8a/status/2104627757766578399) | Opus 5.5 | [@sab8a](https://x.com/sab8a) | 1:00 | — |
 | [Autonomous 3D printer bed-clearing solution](https://x.com/mattshumer_/status/2104777202684301750) | Opus 5.5 | [@mattshumer_](https://x.com/mattshumer_) | 0:25 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104777202684301750) |
+| [Video edit by an agent with a sound-effects library](https://x.com/lucakvlr/status/2110111408364888065) | Opus 5.5 | [@lucakvlr](https://x.com/lucakvlr) | 0:23 | — |
 | [Tribute music video](https://x.com/bradmillscan/status/2106096188915347821) | Opus 5.5 | [@bradmillscan](https://x.com/bradmillscan) | 5:30 | — |
 | [Fully code-based video and audio production](https://x.com/__gsk__/status/2104832372164444162) | Opus 5.5 | [@__gsk__](https://x.com/__gsk__) | 0:30 | — |
 | [Re-edited Instagram launch video](https://x.com/joshaeeee/status/2103386096411553888) | Opus 5.5 | [@joshaeeee](https://x.com/joshaeeee) | 0:25 | — |
@@ -59,6 +60,7 @@
 | [One-shot video outdoing a 2-month editing pipeline](https://x.com/SimonHoiberg/status/2103916672080097521) | Opus 5.5 | [@SimonHoiberg](https://x.com/SimonHoiberg) | 0:15 | — |
 | [Automated VFX generation pipeline for games](https://x.com/KanaWorks_AI/status/2107752774423511539) | Opus 5.5 | [@KanaWorks_AI](https://x.com/KanaWorks_AI) | 0:32 | — |
 | [Talking-head video converted to line-art B-roll](https://x.com/AxtonLiu/status/2102827887732932956) | Opus 5.5 | [@AxtonLiu](https://x.com/AxtonLiu) | 1:24 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102827887732932956) |
+| [Promo video for a menu bar smart home app](https://x.com/0xProbabillity/status/2110131745094029472) | Opus 5.5 | [@0xProbabillity](https://x.com/0xProbabillity) | 0:49 | — |
 | [RISC-V emulator built in VRChat shader](https://x.com/Michael_Moroz_/status/2107713497224130638) | Opus 5.5 | [@Michael_Moroz_](https://x.com/Michael_Moroz_) | 3:11 | — |
 | [High-energy code-made video edit](https://x.com/pleometric/status/2102804821623386523) | Opus 5.5 | [@pleometric](https://x.com/pleometric) | 0:23 | — |
 | [Opus 5.5 video production demo](https://x.com/dabit3/status/2103523033264656464) | Opus 5.5 | [@dabit3](https://x.com/dabit3) | 0:44 | — |

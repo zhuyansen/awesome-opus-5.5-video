@@ -2,7 +2,7 @@
 
 [English](README.md) | 简体中文
 
-X 上用 Claude Opus 5.5、Sonnet 5.5、Haiku 5.5 和 Fable 5.5（内测中、未官宣）做出来的视频、动效、3D 场景和游戏，原帖播放量都过 5,000。共 **1534 个作品**（Opus 5.5 1424 个 · Sonnet 5.5 90 个 · Fable 5.5 48 个，对比帖各边都计），其中 **391 个附提示词**（162 条完整提示词）。
+X 上用 Claude Opus 5.5、Sonnet 5.5、Haiku 5.5 和 Fable 5.5（内测中、未官宣）做出来的视频、动效、3D 场景和游戏，原帖播放量都过 5,000。共 **1543 个作品**（Opus 5.5 1433 个 · Sonnet 5.5 90 个 · Fable 5.5 48 个，对比帖各边都计），其中 **395 个附提示词**（166 条完整提示词）。
 
 **[在线浏览，可直接播放和复制提示词 →](https://jasonzhu.ai/zh/prompts/claude-opus-5-5)**
 
@@ -17,7 +17,7 @@ X 上用 Claude Opus 5.5、Sonnet 5.5、Haiku 5.5 和 Fable 5.5（内测中、�
     <td width="25%" align="center"><a href="https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103698854399099057"><img src="https://pbs.twimg.com/amplify_video_thumb/2103697667910168576/img/cqLRqTw7vVpTectN.jpg" width="200" alt="AI自我介绍歌曲与视频"></a><br><sub>AI自我介绍歌曲与视频</sub></td>
     <td width="25%" align="center"><a href="https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103116235009347650"><img src="https://pbs.twimg.com/amplify_video_thumb/2103113452726140928/img/cjQI93QJwNev_gQ1.jpg" width="200" alt="奥斯特里茨战役程序化生成影片"></a><br><sub>奥斯特里茨战役程序化生成影片</sub></td>
     <td width="25%" align="center"><a href="https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104285370951012504"><img src="https://pbs.twimg.com/amplify_video_thumb/2104285268907859968/img/J8ePMThjFdD0EuEa.jpg" width="200" alt="果冻西瓜切片模拟"></a><br><sub>果冻西瓜切片模拟</sub></td>
-    <td width="25%" align="center"><a href="https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104680817272500562"><img src="https://pbs.twimg.com/amplify_video_thumb/2104680263368273920/img/vS_66pLsasiRJN4e.jpg" width="200" alt="用Sonnet 5.5一次生成的堡垒之夜风格游戏"></a><br><sub>用Sonnet 5.5一次生成的堡垒之夜风格游戏</sub></td>
+    <td width="25%" align="center"><a href="https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2110131790136401989"><img src="https://pbs.twimg.com/amplify_video_thumb/2110131742086500352/img/g1OYPRpR370-gIrm.jpg" width="200" alt="软糖熊软体物理场景"></a><br><sub>软糖熊软体物理场景</sub></td>
   </tr>
 </table>
 
@@ -25,14 +25,14 @@ X 上用 Claude Opus 5.5、Sonnet 5.5、Haiku 5.5 和 Fable 5.5（内测中、�
 
 ## 收录标准
 
-- 创作者本人的原帖，帖子自带视频，原帖播放量不低于 5,000（快照时间 2026-10-13）。
+- 创作者本人的原帖，帖子自带视频，原帖播放量不低于 5,000（快照时间 2026-10-15）。
 - 帖子明确说作品是用 Claude Opus 5.5、Sonnet 5.5、Haiku 5.5 或 Fable 5.5 做的，「模型」一栏按作者的说法标注。**Fable 5.5 截至 10 月初只在内测、尚未官宣**，作者自己说「可能是」的不收。**模型归属以作者自述为准，没有逐条复现。**
 - 提示词只收有出处的：主帖正文、作者本人的回复、作者回复里的截图、作者给出的链接。提示词一律原文照录，不改写、不翻译。
 - 有视频但找不到指令来源的作品照常收录，提示词一栏留空。
 
 ## 动效设计
 
-241 个作品 · [完整清单](cases/motion.zh-CN.md)
+242 个作品 · [完整清单](cases/motion.zh-CN.md)
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ X 上用 Claude Opus 5.5、Sonnet 5.5、Haiku 5.5 和 Fable 5.5（内测中、�
 
 ## 3D 场景
 
-216 个作品 · [完整清单](cases/art3d.zh-CN.md)
+217 个作品 · [完整清单](cases/art3d.zh-CN.md)
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -122,7 +122,7 @@ X 上用 Claude Opus 5.5、Sonnet 5.5、Haiku 5.5 和 Fable 5.5（内测中、�
 
 ## 制作流程
 
-111 个作品 · [完整清单](cases/production.zh-CN.md)
+113 个作品 · [完整清单](cases/production.zh-CN.md)
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -137,18 +137,18 @@ X 上用 Claude Opus 5.5、Sonnet 5.5、Haiku 5.5 和 Fable 5.5（内测中、�
 
 ## 模型对比
 
-210 个作品 · [完整清单](cases/comparison.zh-CN.md)
+215 个作品 · [完整清单](cases/comparison.zh-CN.md)
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
 | [AI自画像挑战：Sonnet5.5对比GPT-6 Astra](https://x.com/siyabuilt/status/2104924603126603893) | Sonnet 5.5 | [@siyabuilt](https://x.com/siyabuilt) | 0:42 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104924603126603893) |
+| [软糖熊软体物理场景](https://x.com/semichenkko/status/2110131790136401989) | Opus 5.5 | [@semichenkko](https://x.com/semichenkko) | 0:13 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2110131790136401989) |
 | [闪粉贴纸效果对比](https://x.com/ann_nnng/status/2104159923886244176) | Opus 5.5 | [@ann_nnng](https://x.com/ann_nnng) | 0:13 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104159923886244176) |
 | [果冻糖果模拟对比](https://x.com/vib3coded/status/2103741107225907467) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:18 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103741107225907467) |
 | [橡皮筋西瓜测试：Opus5.5对比GPT-6 Astra](https://x.com/vib3coded/status/2104994617573970308) | Opus 5.5 / Sonnet 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:18 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104994617573970308) |
 | [蓝牙音箱设计模型对比](https://x.com/seveibar/status/2102465517403636216) | Opus 5.5 | [@seveibar](https://x.com/seveibar) | 0:38 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102465517403636216) |
 | [多模型比拼如何最大化公司价值](https://x.com/dylan_ebert_/status/2107139558173520177) | Opus 5.5 | [@dylan_ebert_](https://x.com/dylan_ebert_) | 0:10 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2107139558173520177) |
 | [Blender骑车鹈鹕动画对比](https://x.com/atomic_chat_hq/status/2102492834485895265) | Opus 5.5 | [@atomic_chat_hq](https://x.com/atomic_chat_hq) | 0:10 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102492834485895265) |
-| [四款模型制作熔岩灯对比](https://x.com/bridgebench/status/2102770788319310302) | Opus 5.5 | [@bridgebench](https://x.com/bridgebench) | 0:10 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102770788319310302) |
 
 ## 数据
 

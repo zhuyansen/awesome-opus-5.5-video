@@ -1,6 +1,6 @@
 # 3D 场景
 
-共 216 个作品，其中 52 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 217 个作品，其中 52 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [程序化生成的拿破仑野战炮3D模型](https://x.com/thebuggeddev/status/2107449104926482912) | Opus 5.5 | [@thebuggeddev](https://x.com/thebuggeddev) | 0:51 | — |
 | [吹泡泡看田园风光的互动场景](https://x.com/akakuma0219/status/2103045683452490054) | Opus 5.5 | [@akakuma0219](https://x.com/akakuma0219) | 0:39 | — |
 | [单文件HTML粒子物理引擎](https://x.com/cyrilXBT/status/2103532793406149036) | Opus 5.5 | [@cyrilXBT](https://x.com/cyrilXBT) | 0:44 | — |
+| [图像转三维Blender渲染](https://x.com/xikhar/status/2110143242591510835) | Opus 5.5 | [@xikhar](https://x.com/xikhar) | 0:05 | — |
 | [微缩港口Three.js场景](https://x.com/chetanankola/status/2103649622963237261) | Opus 5.5 | [@chetanankola](https://x.com/chetanankola) | 0:25 | — |
 | [用Opus 5.5为自建服务制作的3D世界](https://x.com/Dstudio_ai/status/2105858848380907985) | Opus 5.5 | [@Dstudio_ai](https://x.com/Dstudio_ai) | 0:24 | — |
 | [金阁寺CAD转3D动画](https://x.com/Ayu_AI_0912/status/2103243328041132100) | Opus 5.5 | [@Ayu_AI_0912](https://x.com/Ayu_AI_0912) | 0:24 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103243328041132100) |

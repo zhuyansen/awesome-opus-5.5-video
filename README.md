@@ -2,7 +2,7 @@
 
 English | [简体中文](README.zh-CN.md)
 
-Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5, Sonnet 5.5, Haiku 5.5 and Fable 5.5 (limited preview, not yet announced) and shared on X, each with 5,000+ views on the original post. **1534 works** (Opus 5.5: 1424 · Sonnet 5.5: 90 · Fable 5.5: 48; comparisons count for each), **391 with a prompt** (162 full prompts).
+Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5, Sonnet 5.5, Haiku 5.5 and Fable 5.5 (limited preview, not yet announced) and shared on X, each with 5,000+ views on the original post. **1543 works** (Opus 5.5: 1433 · Sonnet 5.5: 90 · Fable 5.5: 48; comparisons count for each), **395 with a prompt** (166 full prompts).
 
 **[Browse online — play the videos and copy the prompts →](https://jasonzhu.ai/en/prompts/claude-opus-5-5)**
 
@@ -17,7 +17,7 @@ Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5, Sonnet 5
     <td width="25%" align="center"><a href="https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103698854399099057"><img src="https://pbs.twimg.com/amplify_video_thumb/2103697667910168576/img/cqLRqTw7vVpTectN.jpg" width="200" alt="AI self-introduction song and video"></a><br><sub>AI self-introduction song and video</sub></td>
     <td width="25%" align="center"><a href="https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103116235009347650"><img src="https://pbs.twimg.com/amplify_video_thumb/2103113452726140928/img/cjQI93QJwNev_gQ1.jpg" width="200" alt="Battle of Austerlitz procedural film"></a><br><sub>Battle of Austerlitz procedural film</sub></td>
     <td width="25%" align="center"><a href="https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104285370951012504"><img src="https://pbs.twimg.com/amplify_video_thumb/2104285268907859968/img/J8ePMThjFdD0EuEa.jpg" width="200" alt="Jelly watermelon slicing simulation"></a><br><sub>Jelly watermelon slicing simulation</sub></td>
-    <td width="25%" align="center"><a href="https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104680817272500562"><img src="https://pbs.twimg.com/amplify_video_thumb/2104680263368273920/img/vS_66pLsasiRJN4e.jpg" width="200" alt="Fortnite-style game built with Sonnet 5.5"></a><br><sub>Fortnite-style game built with Sonnet 5.5</sub></td>
+    <td width="25%" align="center"><a href="https://jasonzhu.ai/en/prompts/claude-opus-5-5/2110131790136401989"><img src="https://pbs.twimg.com/amplify_video_thumb/2110131742086500352/img/g1OYPRpR370-gIrm.jpg" width="200" alt="Gummy bear soft-body physics scene"></a><br><sub>Gummy bear soft-body physics scene</sub></td>
   </tr>
 </table>
 
@@ -25,14 +25,14 @@ Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5, Sonnet 5
 
 ## Inclusion rule
 
-- The creator's own post, with a native video, and at least 5,000 views on that post (snapshot: 2026-10-13).
+- The creator's own post, with a native video, and at least 5,000 views on that post (snapshot: 2026-10-15).
 - The post states the work was made with Claude Opus 5.5, Sonnet 5.5, Haiku 5.5 or Fable 5.5; the Model column follows the creator's own words. **As of early October Fable 5.5 is in limited preview and not yet announced**; posts where the creator is unsure are excluded. **Model attribution is as stated by each creator and was not independently reproduced.**
 - A prompt is listed only when it has a source: the post itself, the creator's own replies, a screenshot in those replies, or a link the creator shared. Prompts are kept verbatim, never rewritten or translated.
 - Works with a video but no traceable instruction are still listed, with the prompt column left empty.
 
 ## Motion graphics & UI
 
-241 works · [full list](cases/motion.md)
+242 works · [full list](cases/motion.md)
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5, Sonnet 5
 
 ## 3D worlds & simulations
 
-216 works · [full list](cases/art3d.md)
+217 works · [full list](cases/art3d.md)
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -122,7 +122,7 @@ Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5, Sonnet 5
 
 ## Music, editing & production
 
-111 works · [full list](cases/production.md)
+113 works · [full list](cases/production.md)
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -137,18 +137,18 @@ Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5, Sonnet 5
 
 ## Model comparisons
 
-210 works · [full list](cases/comparison.md)
+215 works · [full list](cases/comparison.md)
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
 | [AI self-portrait challenge: Sonnet 5.5 vs GPT-6 Astra](https://x.com/siyabuilt/status/2104924603126603893) | Sonnet 5.5 | [@siyabuilt](https://x.com/siyabuilt) | 0:42 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104924603126603893) |
+| [Gummy bear soft-body physics scene](https://x.com/semichenkko/status/2110131790136401989) | Opus 5.5 | [@semichenkko](https://x.com/semichenkko) | 0:13 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2110131790136401989) |
 | [Glitter sticker effect comparison](https://x.com/ann_nnng/status/2104159923886244176) | Opus 5.5 | [@ann_nnng](https://x.com/ann_nnng) | 0:13 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104159923886244176) |
 | [Jelly candy simulation comparison](https://x.com/vib3coded/status/2103741107225907467) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:18 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103741107225907467) |
 | [Watermelon rubber band test: Opus 5.5 vs GPT-6 Astra](https://x.com/vib3coded/status/2104994617573970308) | Opus 5.5 / Sonnet 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:18 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104994617573970308) |
 | [Bluetooth speaker design comparison](https://x.com/seveibar/status/2102465517403636216) | Opus 5.5 | [@seveibar](https://x.com/seveibar) | 0:38 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102465517403636216) |
 | [Models compete to maximize company value](https://x.com/dylan_ebert_/status/2107139558173520177) | Opus 5.5 | [@dylan_ebert_](https://x.com/dylan_ebert_) | 0:10 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2107139558173520177) |
 | [Blender pelican-on-bicycle animation comparison](https://x.com/atomic_chat_hq/status/2102492834485895265) | Opus 5.5 | [@atomic_chat_hq](https://x.com/atomic_chat_hq) | 0:10 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102492834485895265) |
-| [Four-model lava lamp build comparison](https://x.com/bridgebench/status/2102770788319310302) | Opus 5.5 | [@bridgebench](https://x.com/bridgebench) | 0:10 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102770788319310302) |
 
 ## Data
 

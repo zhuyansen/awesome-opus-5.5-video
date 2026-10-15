@@ -3,8 +3,8 @@
  "model": "Claude 5.5 (Opus 5.5 · Sonnet 5.5 · Haiku 5.5 · Fable 5.5)",
  "inclusion_rule": "Original post by the creator, native video attached, >= 5000 views on that post, creator states it was made with Claude Opus 5.5, Sonnet 5.5, Haiku 5.5 or Fable 5.5 (Fable 5.5 is in limited preview, not yet announced). Later posts that embed another account's upload are excluded.",
  "views_threshold": 5000,
- "stats_checked_at": "2026-10-13T19:53:36.885Z",
- "updated_at": "2026-10-13T19:53:36.885Z",
+ "stats_checked_at": "2026-10-15T05:54:45.330Z",
+ "updated_at": "2026-10-15T05:54:45.330Z",
  "model_attribution": "As stated by each creator; not independently reproduced.",
  "cases": [
   {
@@ -1840,6 +1840,42 @@
    ],
    "reference_assets": false,
    "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2110131790136401989",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "软糖熊软体物理场景",
+    "en": "Gummy bear soft-body physics scene"
+   },
+   "creator": {
+    "handle": "semichenkko",
+    "name": "Semichenko"
+   },
+   "original_post_url": "https://x.com/semichenkko/status/2110131790136401989",
+   "posted_at": "2026-10-13T22:13:17.000Z",
+   "language": "en",
+   "duration_seconds": 13,
+   "views": 599553,
+   "likes": 3971,
+   "bookmarks": 1218,
+   "views_checked_at": "2026-10-15T05:54:45.330Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110131742086500352/img/g1OYPRpR370-gIrm.jpg",
+   "tools_reported": [
+    "Three.js"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "full",
+    "source": "author_reply",
+    "source_url": "https://x.com/semichenkko/status/2110132313182851407",
+    "length": 2123,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2110131790136401989"
+   },
    "resources": []
   },
   {
@@ -5237,6 +5273,36 @@
     "length": 70,
     "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102450119975277027"
    },
+   "resources": []
+  },
+  {
+   "id": "2110111408364888065",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "production",
+   "title": {
+    "zh": "由代理调用音效库完成的视频剪辑",
+    "en": "Video edit by an agent with a sound-effects library"
+   },
+   "creator": {
+    "handle": "lucakvlr",
+    "name": "lucak"
+   },
+   "original_post_url": "https://x.com/lucakvlr/status/2110111408364888065",
+   "posted_at": "2026-10-13T20:52:18.000Z",
+   "language": "pt",
+   "duration_seconds": 23,
+   "views": 224409,
+   "likes": 1541,
+   "bookmarks": 687,
+   "views_checked_at": "2026-10-15T05:54:45.330Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110109782535245824/img/Z7EfQTHrd1uwMsmJ.jpg",
+   "tools_reported": [
+    "GPT-5.4"
+   ],
+   "reference_assets": true,
+   "prompt": null,
    "resources": []
   },
   {
@@ -9805,6 +9871,42 @@
    ],
    "reference_assets": false,
    "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2110136719827747181",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "瓶中船体素场景",
+    "en": "Voxel ship in a bottle"
+   },
+   "creator": {
+    "handle": "vib3coded",
+    "name": "Vib3Coded"
+   },
+   "original_post_url": "https://x.com/vib3coded/status/2110136719827747181",
+   "posted_at": "2026-10-13T22:32:53.000Z",
+   "language": "en",
+   "duration_seconds": 18,
+   "views": 120066,
+   "likes": 1480,
+   "bookmarks": 556,
+   "views_checked_at": "2026-10-15T05:54:45.330Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110136618275233792/img/1zIXiXzSRLDCwIIm.jpg",
+   "tools_reported": [
+    "WebGL"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "full",
+    "source": "author_reply",
+    "source_url": "https://x.com/vib3coded/status/2110136901285957923",
+    "length": 516,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2110136719827747181"
+   },
    "resources": []
   },
   {
@@ -16725,6 +16827,34 @@
    "tools_reported": [
     "Replit Animation"
    ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2110145714659664275",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "三维体素跑车组装动画",
+    "en": "3D voxel sports car assembly animation"
+   },
+   "creator": {
+    "handle": "atomic_chat_hq",
+    "name": "atomic.chat"
+   },
+   "original_post_url": "https://x.com/atomic_chat_hq/status/2110145714659664275",
+   "posted_at": "2026-10-13T23:08:37.000Z",
+   "language": "en",
+   "duration_seconds": 26,
+   "views": 63738,
+   "likes": 315,
+   "bookmarks": 112,
+   "views_checked_at": "2026-10-15T05:54:45.330Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110144789559562241/img/WgpCnuTlEj3sz4fX.jpg",
+   "tools_reported": [],
    "reference_assets": false,
    "prompt": null,
    "resources": []
@@ -25775,6 +25905,34 @@
    "resources": []
   },
   {
+   "id": "2110131745094029472",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "production",
+   "title": {
+    "zh": "菜单栏智能家居应用宣传片",
+    "en": "Promo video for a menu bar smart home app"
+   },
+   "creator": {
+    "handle": "0xProbabillity",
+    "name": "0xProbability"
+   },
+   "original_post_url": "https://x.com/0xProbabillity/status/2110131745094029472",
+   "posted_at": "2026-10-13T22:13:07.000Z",
+   "language": "en",
+   "duration_seconds": 49,
+   "views": 34046,
+   "likes": 676,
+   "bookmarks": 619,
+   "views_checked_at": "2026-10-15T05:54:45.330Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110131201277136896/img/0FkLcRcH8_9BJf7j.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2109043294911291886",
    "models": [
     "opus-5.5"
@@ -28362,6 +28520,42 @@
    "resources": []
   },
   {
+   "id": "2110119492076404869",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "motion",
+   "title": {
+    "zh": "武术短片改制的动画片头",
+    "en": "Anime opening edit of a martial arts clip"
+   },
+   "creator": {
+    "handle": "aimikoda",
+    "name": "Kōda"
+   },
+   "original_post_url": "https://x.com/aimikoda/status/2110119492076404869",
+   "posted_at": "2026-10-13T21:24:25.000Z",
+   "language": "en",
+   "duration_seconds": 32,
+   "views": 27942,
+   "likes": 699,
+   "bookmarks": 552,
+   "views_checked_at": "2026-10-15T05:54:45.330Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110118417697054720/img/7Eycu37NGlkJY0FD.jpg",
+   "tools_reported": [
+    "Seedance 2.5"
+   ],
+   "reference_assets": true,
+   "prompt": {
+    "kind": "full",
+    "source": "author_reply",
+    "source_url": "https://x.com/aimikoda/status/2110120443390709934",
+    "length": 200,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2110119492076404869"
+   },
+   "resources": []
+  },
+  {
    "id": "2104007585166991778",
    "models": [
     "opus-5.5"
@@ -29920,6 +30114,34 @@
    "resources": [
     "https://github.com/limin112/min-skill"
    ]
+  },
+  {
+   "id": "2110099864650702928",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "多模型火箭场景生成对比",
+    "en": "Rocket scene comparison across AI models"
+   },
+   "creator": {
+    "handle": "Bhavani_00007",
+    "name": "Bhavy☄️"
+   },
+   "original_post_url": "https://x.com/Bhavani_00007/status/2110099864650702928",
+   "posted_at": "2026-10-13T20:06:26.000Z",
+   "language": "en",
+   "duration_seconds": 20,
+   "views": 24153,
+   "likes": 314,
+   "bookmarks": 69,
+   "views_checked_at": "2026-10-15T05:54:45.330Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110099526593966080/img/4Tb8xk1p87pm_dk_.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
   },
   {
    "id": "2108905413467079026",
@@ -33512,6 +33734,36 @@
    "resources": []
   },
   {
+   "id": "2110143242591510835",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "图像转三维Blender渲染",
+    "en": "Image-to-3D Blender render"
+   },
+   "creator": {
+    "handle": "xikhar",
+    "name": "Shikhar"
+   },
+   "original_post_url": "https://x.com/xikhar/status/2110143242591510835",
+   "posted_at": "2026-10-13T22:58:48.000Z",
+   "language": "en",
+   "duration_seconds": 5,
+   "views": 18801,
+   "likes": 634,
+   "bookmarks": 364,
+   "views_checked_at": "2026-10-15T05:54:45.330Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110139927858208768/img/7_mk_5ijNHSKJdNs.jpg",
+   "tools_reported": [
+    "Blender"
+   ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2107443775232438381",
    "models": [
     "opus-5.5"
@@ -35624,6 +35876,43 @@
     "source_url": "https://x.com/rossaxbt/status/2108570705692357094",
     "length": 3367,
     "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2108570705692357094"
+   },
+   "resources": []
+  },
+  {
+   "id": "2110121002332295599",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "达芬奇工作室3D复原：双模型对比",
+    "en": "Da Vinci workshop 3D build: Gemini vs Opus"
+   },
+   "creator": {
+    "handle": "techhalla",
+    "name": "TechHalla"
+   },
+   "original_post_url": "https://x.com/techhalla/status/2110121002332295599",
+   "posted_at": "2026-10-13T21:30:25.000Z",
+   "language": "en",
+   "duration_seconds": 101,
+   "views": 16657,
+   "likes": 124,
+   "bookmarks": 77,
+   "views_checked_at": "2026-10-15T05:54:45.330Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110119796457033728/img/gn7uGEhyKPj8auZm.jpg",
+   "tools_reported": [
+    "Three.js",
+    "WebGL"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "full",
+    "source": "author_reply",
+    "source_url": "https://x.com/techhalla/status/2110121005201150011",
+    "length": 503,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2110121002332295599"
    },
    "resources": []
   },

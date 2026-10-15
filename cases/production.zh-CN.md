@@ -1,6 +1,6 @@
 # 制作流程
 
-共 111 个作品，其中 18 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 113 个作品，其中 18 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [用骨骼追踪驱动AE文字动效测试](https://x.com/aicreataro/status/2103757144789221819) | Opus 5.5 | [@aicreataro](https://x.com/aicreataro) | 0:32 | — |
 | [Open Edit：将视频转为可编辑项目](https://x.com/sab8a/status/2104627757766578399) | Opus 5.5 | [@sab8a](https://x.com/sab8a) | 1:00 | — |
 | [自动清理3D打印机打印床的方案](https://x.com/mattshumer_/status/2104777202684301750) | Opus 5.5 | [@mattshumer_](https://x.com/mattshumer_) | 0:25 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104777202684301750) |
+| [由代理调用音效库完成的视频剪辑](https://x.com/lucakvlr/status/2110111408364888065) | Opus 5.5 | [@lucakvlr](https://x.com/lucakvlr) | 0:23 | — |
 | [致敬主题音乐视频](https://x.com/bradmillscan/status/2106096188915347821) | Opus 5.5 | [@bradmillscan](https://x.com/bradmillscan) | 5:30 | — |
 | [完全代码化的影音制作](https://x.com/__gsk__/status/2104832372164444162) | Opus 5.5 | [@__gsk__](https://x.com/__gsk__) | 0:30 | — |
 | [重新剪辑的Instagram发布视频](https://x.com/joshaeeee/status/2103386096411553888) | Opus 5.5 | [@joshaeeee](https://x.com/joshaeeee) | 0:25 | — |
@@ -59,6 +60,7 @@
 | [一镜胜过两个月剪辑流程的视频](https://x.com/SimonHoiberg/status/2103916672080097521) | Opus 5.5 | [@SimonHoiberg](https://x.com/SimonHoiberg) | 0:15 | — |
 | [游戏自动VFX生成流水线](https://x.com/KanaWorks_AI/status/2107752774423511539) | Opus 5.5 | [@KanaWorks_AI](https://x.com/KanaWorks_AI) | 0:32 | — |
 | [真人口播转线稿动画B-roll](https://x.com/AxtonLiu/status/2102827887732932956) | Opus 5.5 | [@AxtonLiu](https://x.com/AxtonLiu) | 1:24 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102827887732932956) |
+| [菜单栏智能家居应用宣传片](https://x.com/0xProbabillity/status/2110131745094029472) | Opus 5.5 | [@0xProbabillity](https://x.com/0xProbabillity) | 0:49 | — |
 | [VRChat着色器中构建的RISC-V模拟器](https://x.com/Michael_Moroz_/status/2107713497224130638) | Opus 5.5 | [@Michael_Moroz_](https://x.com/Michael_Moroz_) | 3:11 | — |
 | [代码制作的燃向视频剪辑](https://x.com/pleometric/status/2102804821623386523) | Opus 5.5 | [@pleometric](https://x.com/pleometric) | 0:23 | — |
 | [Opus 5.5视频制作演示](https://x.com/dabit3/status/2103523033264656464) | Opus 5.5 | [@dabit3](https://x.com/dabit3) | 0:44 | — |
