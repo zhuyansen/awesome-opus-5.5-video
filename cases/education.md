@@ -1,6 +1,6 @@
 # Explainers & education
 
-144 works, 48 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+151 works, 48 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [History of 3D computer graphics in 15 seconds](https://x.com/jmitani/status/2103997975173439834) | Opus 5.5 | [@jmitani](https://x.com/jmitani) | 0:15 | — |
 | [Atmospheric circulation geography explainer](https://x.com/akokoi1/status/2102606609574941028) | Opus 5.5 | [@akokoi1](https://x.com/akokoi1) | 4:48 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102606609574941028) |
 | [Investment leverage explainer video](https://x.com/bitfish/status/2104213208353628597) | Opus 5.5 | [@bitfish](https://x.com/bitfish) | 3:10 | — |
+| [2008 stock market crash comfort animation](https://x.com/tuolaji2024/status/2110527353428509076) | Opus 5.5 | [@tuolaji2024](https://x.com/tuolaji2024) | 1:21 | — |
 | [Explainer video on the Honno-ji Incident](https://x.com/AIPlus_AISchool/status/2102701984344330458) | Opus 5.5 | [@AIPlus_AISchool](https://x.com/AIPlus_AISchool) | 1:00 | — |
 | [History of chips explainer video](https://x.com/vctbtc/status/2104081525847605709) | Opus 5.5 | [@vctbtc](https://x.com/vctbtc) | 14:20 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104081525847605709) |
 | [AI-generated history of computer chips](https://x.com/AndyL5cc/status/2104437066755125601) | Opus 5.5 | [@AndyL5cc](https://x.com/AndyL5cc) | 3:29 | — |
@@ -71,6 +72,7 @@
 | [Zero-shot documentary on Jewish history](https://x.com/eranshir/status/2103564391170089429) | Opus 5.5 | [@eranshir](https://x.com/eranshir) | 3:43 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103564391170089429) |
 | [Evolution of the eye explainer](https://x.com/cagrimbakirci/status/2104011756397842869) | Opus 5.5 | [@cagrimbakirci](https://x.com/cagrimbakirci) | 1:10 | — |
 | [Explainer video about the Dots AI agent](https://x.com/seiiiiiiiiiiru/status/2105187157841445314) | Sonnet 5.5 | [@seiiiiiiiiiiru](https://x.com/seiiiiiiiiiiru) | 2:11 | — |
+| [SpaceX history video made via chat](https://x.com/xiaohu/status/2110287968783179922) | Opus 5.5 | [@xiaohu](https://x.com/xiaohu) | 5:39 | — |
 | [Doc-to-video explainer (Open Alignment)](https://x.com/Thom_Wolf/status/2103545533474206118) | Opus 5.5 | [@Thom_Wolf](https://x.com/Thom_Wolf) | 1:24 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103545533474206118) |
 | [Physics competition problem explainer video](https://x.com/akokoi1/status/2102680453912449223) | Opus 5.5 | [@akokoi1](https://x.com/akokoi1) | 3:09 | — |
 | [1-minute margin trading explainer](https://x.com/RtSubPozrT8wmsN/status/2102764115500687573) | Opus 5.5 | [@RtSubPozrT8wmsN](https://x.com/RtSubPozrT8wmsN) | 0:57 | — |
@@ -89,11 +91,13 @@
 | [Research platform origin story video](https://x.com/sreeramkannan/status/2104027910004949132) | Opus 5.5 | [@sreeramkannan](https://x.com/sreeramkannan) | 0:53 | — |
 | [Explorable museum of AI history](https://x.com/RyanSael/status/2103021886045348073) | Opus 5.5 | [@RyanSael](https://x.com/RyanSael) | 0:44 | — |
 | [BBC-style Three.js explainer video](https://x.com/Tz_2022/status/2104978414465945696) | Opus 5.5 | [@Tz_2022](https://x.com/Tz_2022) | 5:02 | — |
+| [Hour-by-hour simulation of Indonesia attacking Japan](https://x.com/hanifproduktif/status/2109869904551981394) | Opus 5.5 | [@hanifproduktif](https://x.com/hanifproduktif) | 3:24 | — |
 | [Interactive tsunami disaster-preparedness simulation site](https://x.com/akira_papa_IT/status/2103121980685955247) | Opus 5.5 | [@akira_papa_IT](https://x.com/akira_papa_IT) | 0:53 | — |
 | [Battle of Sekigahara animated explainer](https://x.com/tkz_aiart/status/2105271839698428235) | Opus 5.5 | [@tkz_aiart](https://x.com/tkz_aiart) | 2:15 | — |
 | [Netflix-style explainer reel about El Nino](https://x.com/hanifproduktif/status/2103656501579862155) | Opus 5.5 | [@hanifproduktif](https://x.com/hanifproduktif) | 2:30 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103656501579862155) |
 | [Trace rarity system explainer video](https://x.com/traceforms/status/2105029763421147460) | Opus 5.5 | [@traceforms](https://x.com/traceforms) | 1:18 | — |
 | [GPT model history explainer animation](https://x.com/yanhua1010/status/2102610348427911592) | Opus 5.5 | [@yanhua1010](https://x.com/yanhua1010) | 1:30 | — |
+| [Frame-by-frame animation of a honey bee's life](https://x.com/kevin_t_ngo/status/2109766087328100521) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 0:53 | — |
 | [Galaxy Star-Formation Explorer](https://x.com/jwuphysics/status/2103290186268365205) | Opus 5.5 | [@jwuphysics](https://x.com/jwuphysics) | 2:55 | — |
 | [Chinese architecture history explainer](https://x.com/akokoi1/status/2103650399773475318) | Opus 5.5 | [@akokoi1](https://x.com/akokoi1) | 1:35 | — |
 | [Explainer animation about Claude usage workflows](https://x.com/daniel_mac8/status/2103666105461924131) | Opus 5.5 | [@daniel_mac8](https://x.com/daniel_mac8) | 0:29 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103666105461924131) |
@@ -126,6 +130,8 @@
 | [Ethereum quantum-resistance roadmap explainer](https://x.com/0xmamedai/status/2102715649185423426) | Opus 5.5 | [@0xmamedai](https://x.com/0xmamedai) | 2:17 | — |
 | [Article core ideas visualized as video](https://x.com/Lonely__MH/status/2103637675609870374) | Opus 5.5 | [@Lonely__MH](https://x.com/Lonely__MH) | 1:01 | — |
 | [1-minute stock investing explainer](https://x.com/RtSubPozrT8wmsN/status/2102763227629375648) | Opus 5.5 | [@RtSubPozrT8wmsN](https://x.com/RtSubPozrT8wmsN) | 0:59 | — |
+| [Keyboard anatomy animation](https://x.com/quantapar/status/2109748221459546529) | Opus 5.5 | [@quantapar](https://x.com/quantapar) | 0:17 | — |
+| [Battle of Guandu history documentary](https://x.com/Cryptoxorz/status/2110274762060837004) | Opus 5.5 | [@Cryptoxorz](https://x.com/Cryptoxorz) | 10:36 | — |
 | [Plant biology 3D aquarium-style visualization](https://x.com/sonia_code/status/2103774074505949448) | Opus 5.5 | [@sonia_code](https://x.com/sonia_code) | 0:21 | — |
 | [Reconstructed ancient Spartan marching song](https://x.com/iosif_lazaridis/status/2103948875929358687) | Opus 5.5 | [@iosif_lazaridis](https://x.com/iosif_lazaridis) | 3:08 | — |
 | [Interactive historical map of Istanbul](https://x.com/cahidarda/status/2103218970115678497) | Opus 5.5 | [@cahidarda](https://x.com/cahidarda) | 0:10 | — |
@@ -148,3 +154,4 @@
 | [Explainer video for an Anthropic science blog post](https://x.com/deepwhitman/status/2103562764929389035) | Opus 5.5 | [@deepwhitman](https://x.com/deepwhitman) | 1:39 | — |
 | [Interactive wind tunnel lift explainer](https://x.com/konstantinsaifo/status/2109595253879816337) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 0:34 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2109595253879816337) |
 | [Hot vs cold crypto wallet explainer](https://x.com/sergitosergito/status/2103835390998388796) | Opus 5.5 | [@sergitosergito](https://x.com/sergitosergito) | 1:36 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103835390998388796) |
+| [Chain-of-thought explainer animation](https://x.com/Seltaa_/status/2109475963553878392) | Opus 5.5 | [@Seltaa_](https://x.com/Seltaa_) | 5:02 | — |

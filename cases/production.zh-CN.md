@@ -1,6 +1,6 @@
 # 制作流程
 
-共 113 个作品，其中 18 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 123 个作品，其中 22 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [用骨骼追踪驱动AE文字动效测试](https://x.com/aicreataro/status/2103757144789221819) | Opus 5.5 | [@aicreataro](https://x.com/aicreataro) | 0:32 | — |
 | [Open Edit：将视频转为可编辑项目](https://x.com/sab8a/status/2104627757766578399) | Opus 5.5 | [@sab8a](https://x.com/sab8a) | 1:00 | — |
 | [自动清理3D打印机打印床的方案](https://x.com/mattshumer_/status/2104777202684301750) | Opus 5.5 | [@mattshumer_](https://x.com/mattshumer_) | 0:25 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104777202684301750) |
+| [由Opus 5.5剪辑的视频](https://x.com/eguri89/status/2110316407485608282) | Opus 5.5 | [@eguri89](https://x.com/eguri89) | 0:57 | — |
 | [由代理调用音效库完成的视频剪辑](https://x.com/lucakvlr/status/2110111408364888065) | Opus 5.5 | [@lucakvlr](https://x.com/lucakvlr) | 0:23 | — |
 | [致敬主题音乐视频](https://x.com/bradmillscan/status/2106096188915347821) | Opus 5.5 | [@bradmillscan](https://x.com/bradmillscan) | 5:30 | — |
 | [完全代码化的影音制作](https://x.com/__gsk__/status/2104832372164444162) | Opus 5.5 | [@__gsk__](https://x.com/__gsk__) | 0:30 | — |
@@ -24,15 +25,18 @@
 | [一次生成的产品发布视频配乐](https://x.com/maria_rcks/status/2103363131896635699) | Opus 5.5 | [@maria_rcks](https://x.com/maria_rcks) | 1:16 | — |
 | [素材自动剪辑成音乐视频](https://x.com/ochyai/status/2103643040326008894) | Opus 5.5 | [@ochyai](https://x.com/ochyai) | 1:55 | — |
 | [AI 构建的音频工作站](https://x.com/aj_dev_smith/status/2106244777264164974) | Opus 5.5 | [@aj_dev_smith](https://x.com/aj_dev_smith) | 0:41 | — |
+| [带遮罩效果的AI视频剪辑](https://x.com/lucakvlr/status/2110353559695003918) | Opus 5.5 | [@lucakvlr](https://x.com/lucakvlr) | 0:33 | — |
 | [iPhone素材自动剪辑成片](https://x.com/shupeiman/status/2102686671422840985) | Opus 5.5 | [@shupeiman](https://x.com/shupeiman) | 4:01 | — |
 | [先写场景再渲染成真实感AI视频](https://x.com/abxxai/status/2103500130066518199) | Opus 5.5 | [@abxxai](https://x.com/abxxai) | 0:21 | — |
 | [自动生成的代码提交演示视频](https://x.com/theo/status/2103245685688771044) | Opus 5.5 | [@theo](https://x.com/theo) | 0:11 | — |
 | [回应歌曲与音乐视频](https://x.com/sayashk/status/2105704922499150308) | Opus 5.5 | [@sayashk](https://x.com/sayashk) | 3:27 | — |
 | [口播视频自动化剪辑流水线](https://x.com/leaf_sanren/status/2102745561732419772) | Opus 5.5 | [@leaf_sanren](https://x.com/leaf_sanren) | 0:18 | — |
+| [口播视频的动效剪辑](https://x.com/condzxyz/status/2109454493415023080) | Opus 5.5 | [@condzxyz](https://x.com/condzxyz) | 6:19 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2109454493415023080) |
 | [用Claude Code生成Live2D动作](https://x.com/rotejin/status/2103384608301830297) | Opus 5.5 | [@rotejin](https://x.com/rotejin) | 0:27 | — |
 | [Premiere Pro自定义眨眼转场预设](https://x.com/jboogx_creative/status/2107779118091943941) | Opus 5.5 | [@jboogx_creative](https://x.com/jboogx_creative) | 1:04 | — |
 | [档案影像混剪音乐短片](https://x.com/bitstein/status/2104040489301295502) | Opus 5.5 | [@bitstein](https://x.com/bitstein) | 1:54 | — |
 | [双语八卦视频](https://x.com/dotey/status/2106144184449085474) | Opus 5.5 | [@dotey](https://x.com/dotey) | 5:51 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2106144184449085474) |
+| [基于语音同步的自动化品牌视频剪辑](https://x.com/Aykutuces/status/2110019799342260630) | Opus 5.5 | [@Aykutuces](https://x.com/Aykutuces) | 1:14 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2110019799342260630) |
 | [用于课程规划的AI动态分镜视频](https://x.com/mattpocockuk/status/2105212971307667862) | Opus 5.5 | [@mattpocockuk](https://x.com/mattpocockuk) | 8:31 | — |
 | [将视频复刻为可编辑的After Effects项目](https://x.com/gmharhar/status/2107936315081986480) | Opus 5.5 | [@gmharhar](https://x.com/gmharhar) | 0:20 | — |
 | [AI剪辑的口播视频](https://x.com/sab8a/status/2103144778481475686) | Opus 5.5 | [@sab8a](https://x.com/sab8a) | 0:37 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103144778481475686) |
@@ -57,6 +61,7 @@
 | [完全由AI完成的视频剪辑](https://x.com/MakeAI_CEO/status/2103432080730583486) | Opus 5.5 | [@MakeAI_CEO](https://x.com/MakeAI_CEO) | 1:00 | — |
 | [生成视频的幕后制作花絮](https://x.com/hello_sugimoto/status/2103514349901926401) | Opus 5.5 | [@hello_sugimoto](https://x.com/hello_sugimoto) | 0:30 | — |
 | [用Opus 5.5操控Blender制作的舞蹈残影特效测试](https://x.com/aicreataro/status/2105070161908957633) | Opus 5.5 | [@aicreataro](https://x.com/aicreataro) | 0:17 | — |
+| [山姆·奥特曼YTP恶搞视频](https://x.com/JaydenDavisNC/status/2109764557308592537) | Opus 5.5 | [@JaydenDavisNC](https://x.com/JaydenDavisNC) | 3:39 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2109764557308592537) |
 | [一镜胜过两个月剪辑流程的视频](https://x.com/SimonHoiberg/status/2103916672080097521) | Opus 5.5 | [@SimonHoiberg](https://x.com/SimonHoiberg) | 0:15 | — |
 | [游戏自动VFX生成流水线](https://x.com/KanaWorks_AI/status/2107752774423511539) | Opus 5.5 | [@KanaWorks_AI](https://x.com/KanaWorks_AI) | 0:32 | — |
 | [真人口播转线稿动画B-roll](https://x.com/AxtonLiu/status/2102827887732932956) | Opus 5.5 | [@AxtonLiu](https://x.com/AxtonLiu) | 1:24 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102827887732932956) |
@@ -71,9 +76,12 @@
 | [Opus 5.5多工具协作生成短视频](https://x.com/AIWarper/status/2105370568178479476) | Opus 5.5 | [@AIWarper](https://x.com/AIWarper) | 0:30 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2105370568178479476) |
 | [AI剪辑旅行视频日志](https://x.com/dashiAIxz/status/2106091485125091695) | Opus 5.5 | [@dashiAIxz](https://x.com/dashiAIxz) | 4:25 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2106091485125091695) |
 | [用代码剪辑制作的品牌音乐视频](https://x.com/gkxspace/status/2107108561851445324) | Opus 5.5 | [@gkxspace](https://x.com/gkxspace) | 0:15 | — |
+| [用Opus 5.5和Google Flow制作的辩论风格广告](https://x.com/ladprofit/status/2110025178768130495) | Opus 5.5 | [@ladprofit](https://x.com/ladprofit) | 0:45 | — |
 | [动漫风格剪辑混剪视频](https://x.com/VincentWei93/status/2103415186086674920) | Opus 5.5 | [@VincentWei93](https://x.com/VincentWei93) | 0:59 | — |
 | [AI虚拟主播日语语音对比视频](https://x.com/nakazakifam/status/2105898430967009547) | Opus 5.5 | [@nakazakifam](https://x.com/nakazakifam) | 5:13 | — |
+| [幼儿日常瞬间短视频](https://x.com/hoko525/status/2110292964270608425) | Opus 5.5 | [@hoko525](https://x.com/hoko525) | 0:11 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2110292964270608425) |
 | [AI控制视频编辑软件自动化](https://x.com/FantasistaAI/status/2103117722741854377) | Opus 5.5 | [@FantasistaAI](https://x.com/FantasistaAI) | 0:25 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103117722741854377) |
+| [万圣节涩谷街头影像剪辑](https://x.com/_3912657840/status/2110298969997996370) | Opus 5.5 | [@_3912657840](https://x.com/_3912657840) | 0:30 | — |
 | [CAD制图工作流演示](https://x.com/hAru_mAki_ch/status/2103698137730924839) | Opus 5.5 | [@hAru_mAki_ch](https://x.com/hAru_mAki_ch) | 0:21 | — |
 | [FreeCAD制作过程视频](https://x.com/hAru_mAki_ch/status/2103645693265219838) | Opus 5.5 | [@hAru_mAki_ch](https://x.com/hAru_mAki_ch) | 1:46 | — |
 | [AI创作的巴洛克风格三重奏奏鸣曲](https://x.com/aug5thmusic/status/2103549625076752493) | Opus 5.5 | [@aug5thmusic](https://x.com/aug5thmusic) | 1:46 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103549625076752493) |
@@ -83,6 +91,7 @@
 | [咖啡馆窗口时空特效镜头重制](https://x.com/higgsfield_ai/status/2102600213361983655) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:17 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102600213361983655) |
 | [快速完成的视频剪辑演示](https://x.com/KanaWorks_AI/status/2103681377862582573) | Opus 5.5 | [@KanaWorks_AI](https://x.com/KanaWorks_AI) | 0:14 | — |
 | [After Effects中的场景转移特效](https://x.com/higgsfield_ai/status/2103521966376587593) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:06 | — |
+| [自动视频剪辑流程](https://x.com/Scenario_gg/status/2110020120865313063) | Opus 5.5 | [@Scenario_gg](https://x.com/Scenario_gg) | 0:13 | — |
 | [AI配音配图制作的电台风格视频](https://x.com/mmmiyama_D/status/2109603289939738813) | Opus 5.5 | [@mmmiyama_D](https://x.com/mmmiyama_D) | 1:36 | — |
 | [在After Effects中用Claude操控TouchDesigner](https://x.com/higgsfield_ai/status/2103525847991025776) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:06 | — |
 | [喜爱美剧的介绍视频](https://x.com/_nogu66/status/2103751299808497959) | Opus 5.5 | [@_nogu66](https://x.com/_nogu66) | 0:15 | — |
@@ -101,6 +110,7 @@
 | [AI图像细节修复技能演示](https://x.com/higgsfield_ai/status/2103518041908908250) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:05 | — |
 | [After Effects自动剪辑演示](https://x.com/fumanpnp/status/2102990349098799471) | Opus 5.5 | [@fumanpnp](https://x.com/fumanpnp) | 0:24 | — |
 | [静态图片剪辑成游戏预告片](https://x.com/yugen_matuni/status/2103621917785862229) | Opus 5.5 | [@yugen_matuni](https://x.com/yugen_matuni) | 3:04 | — |
+| [由Claude完成的完整视频剪辑](https://x.com/robinebers/status/2110362823973101716) | Opus 5.5 | [@robinebers](https://x.com/robinebers) | 14:15 | — |
 | [AI全流程制作的歌曲与音乐视频](https://x.com/Awed_Urshy/status/2102757113227624920) | Opus 5.5 | [@Awed_Urshy](https://x.com/Awed_Urshy) | 2:21 | — |
 | [自然配音的AI视频](https://x.com/unikoukokun/status/2103725637466984759) | Opus 5.5 | [@unikoukokun](https://x.com/unikoukokun) | 2:32 | — |
 | [位图插画矢量化为Illustrator文件](https://x.com/higgsfield_ai/status/2103519324531298783) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:09 | — |

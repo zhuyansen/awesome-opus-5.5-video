@@ -1,6 +1,6 @@
 # Music, editing & production
 
-113 works, 18 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+123 works, 22 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [AE motion-tracked typography test via dance video](https://x.com/aicreataro/status/2103757144789221819) | Opus 5.5 | [@aicreataro](https://x.com/aicreataro) | 0:32 | — |
 | [Open Edit: turning videos into editable projects](https://x.com/sab8a/status/2104627757766578399) | Opus 5.5 | [@sab8a](https://x.com/sab8a) | 1:00 | — |
 | [Autonomous 3D printer bed-clearing solution](https://x.com/mattshumer_/status/2104777202684301750) | Opus 5.5 | [@mattshumer_](https://x.com/mattshumer_) | 0:25 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104777202684301750) |
+| [Video edited by Opus 5.5](https://x.com/eguri89/status/2110316407485608282) | Opus 5.5 | [@eguri89](https://x.com/eguri89) | 0:57 | — |
 | [Video edit by an agent with a sound-effects library](https://x.com/lucakvlr/status/2110111408364888065) | Opus 5.5 | [@lucakvlr](https://x.com/lucakvlr) | 0:23 | — |
 | [Tribute music video](https://x.com/bradmillscan/status/2106096188915347821) | Opus 5.5 | [@bradmillscan](https://x.com/bradmillscan) | 5:30 | — |
 | [Fully code-based video and audio production](https://x.com/__gsk__/status/2104832372164444162) | Opus 5.5 | [@__gsk__](https://x.com/__gsk__) | 0:30 | — |
@@ -24,15 +25,18 @@
 | [One-shot launch video soundtrack](https://x.com/maria_rcks/status/2103363131896635699) | Opus 5.5 | [@maria_rcks](https://x.com/maria_rcks) | 1:16 | — |
 | [Auto-edited music video from footage](https://x.com/ochyai/status/2103643040326008894) | Opus 5.5 | [@ochyai](https://x.com/ochyai) | 1:55 | — |
 | [AI-built audio workstation](https://x.com/aj_dev_smith/status/2106244777264164974) | Opus 5.5 | [@aj_dev_smith](https://x.com/aj_dev_smith) | 0:41 | — |
+| [AI video edit with mask effect](https://x.com/lucakvlr/status/2110353559695003918) | Opus 5.5 | [@lucakvlr](https://x.com/lucakvlr) | 0:33 | — |
 | [iPhone footage auto-edited into finished video](https://x.com/shupeiman/status/2102686671422840985) | Opus 5.5 | [@shupeiman](https://x.com/shupeiman) | 4:01 | — |
 | [Realistic AI video scenes written then rendered](https://x.com/abxxai/status/2103500130066518199) | Opus 5.5 | [@abxxai](https://x.com/abxxai) | 0:21 | — |
 | [Auto-generated pull request demo video](https://x.com/theo/status/2103245685688771044) | Opus 5.5 | [@theo](https://x.com/theo) | 0:11 | — |
 | [Reply song and music video](https://x.com/sayashk/status/2105704922499150308) | Opus 5.5 | [@sayashk](https://x.com/sayashk) | 3:27 | — |
 | [Automated talking-head video editing pipeline](https://x.com/leaf_sanren/status/2102745561732419772) | Opus 5.5 | [@leaf_sanren](https://x.com/leaf_sanren) | 0:18 | — |
+| [Talking-head video edited into a motion-graphics cut](https://x.com/condzxyz/status/2109454493415023080) | Opus 5.5 | [@condzxyz](https://x.com/condzxyz) | 6:19 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2109454493415023080) |
 | [Live2D motion generation via Claude Code](https://x.com/rotejin/status/2103384608301830297) | Opus 5.5 | [@rotejin](https://x.com/rotejin) | 0:27 | — |
 | [Custom eye-blink transition preset for Premiere Pro](https://x.com/jboogx_creative/status/2107779118091943941) | Opus 5.5 | [@jboogx_creative](https://x.com/jboogx_creative) | 1:04 | — |
 | [Archival footage music video edit](https://x.com/bitstein/status/2104040489301295502) | Opus 5.5 | [@bitstein](https://x.com/bitstein) | 1:54 | — |
 | [Bilingual Gossip Video](https://x.com/dotey/status/2106144184449085474) | Opus 5.5 | [@dotey](https://x.com/dotey) | 5:51 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2106144184449085474) |
+| [Automated branded video edit with voice sync](https://x.com/Aykutuces/status/2110019799342260630) | Opus 5.5 | [@Aykutuces](https://x.com/Aykutuces) | 1:14 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2110019799342260630) |
 | [AI-generated video animatics for lesson planning](https://x.com/mattpocockuk/status/2105212971307667862) | Opus 5.5 | [@mattpocockuk](https://x.com/mattpocockuk) | 8:31 | — |
 | [Recreating a video as an editable After Effects project](https://x.com/gmharhar/status/2107936315081986480) | Opus 5.5 | [@gmharhar](https://x.com/gmharhar) | 0:20 | — |
 | [AI-edited talking-head video](https://x.com/sab8a/status/2103144778481475686) | Opus 5.5 | [@sab8a](https://x.com/sab8a) | 0:37 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103144778481475686) |
@@ -57,6 +61,7 @@
 | [Video editing entirely by AI](https://x.com/MakeAI_CEO/status/2103432080730583486) | Opus 5.5 | [@MakeAI_CEO](https://x.com/MakeAI_CEO) | 1:00 | — |
 | [Making-of video for a generated PV](https://x.com/hello_sugimoto/status/2103514349901926401) | Opus 5.5 | [@hello_sugimoto](https://x.com/hello_sugimoto) | 0:30 | — |
 | [Dance pose VFX test using Opus 5.5 with Blender](https://x.com/aicreataro/status/2105070161908957633) | Opus 5.5 | [@aicreataro](https://x.com/aicreataro) | 0:17 | — |
+| [YTP-style Sam Altman parody video](https://x.com/JaydenDavisNC/status/2109764557308592537) | Opus 5.5 | [@JaydenDavisNC](https://x.com/JaydenDavisNC) | 3:39 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2109764557308592537) |
 | [One-shot video outdoing a 2-month editing pipeline](https://x.com/SimonHoiberg/status/2103916672080097521) | Opus 5.5 | [@SimonHoiberg](https://x.com/SimonHoiberg) | 0:15 | — |
 | [Automated VFX generation pipeline for games](https://x.com/KanaWorks_AI/status/2107752774423511539) | Opus 5.5 | [@KanaWorks_AI](https://x.com/KanaWorks_AI) | 0:32 | — |
 | [Talking-head video converted to line-art B-roll](https://x.com/AxtonLiu/status/2102827887732932956) | Opus 5.5 | [@AxtonLiu](https://x.com/AxtonLiu) | 1:24 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102827887732932956) |
@@ -71,9 +76,12 @@
 | [AI pipeline short video with Opus 5.5](https://x.com/AIWarper/status/2105370568178479476) | Opus 5.5 | [@AIWarper](https://x.com/AIWarper) | 0:30 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2105370568178479476) |
 | [AI-edited travel vlog](https://x.com/dashiAIxz/status/2106091485125091695) | Opus 5.5 | [@dashiAIxz](https://x.com/dashiAIxz) | 4:25 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2106091485125091695) |
 | [Branded music video edited with code](https://x.com/gkxspace/status/2107108561851445324) | Opus 5.5 | [@gkxspace](https://x.com/gkxspace) | 0:15 | — |
+| [AI-made debate style ad using Opus 5.5 and Google Flow](https://x.com/ladprofit/status/2110025178768130495) | Opus 5.5 | [@ladprofit](https://x.com/ladprofit) | 0:45 | — |
 | [Anime-style MAD video mashup](https://x.com/VincentWei93/status/2103415186086674920) | Opus 5.5 | [@VincentWei93](https://x.com/VincentWei93) | 0:59 | — |
 | [AI avatar Japanese voice comparison video](https://x.com/nakazakifam/status/2105898430967009547) | Opus 5.5 | [@nakazakifam](https://x.com/nakazakifam) | 5:13 | — |
+| [Toddler relatable moments short video](https://x.com/hoko525/status/2110292964270608425) | Opus 5.5 | [@hoko525](https://x.com/hoko525) | 0:11 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2110292964270608425) |
 | [Video editor automation via AI control](https://x.com/FantasistaAI/status/2103117722741854377) | Opus 5.5 | [@FantasistaAI](https://x.com/FantasistaAI) | 0:25 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103117722741854377) |
+| [Halloween Shibuya street footage edit](https://x.com/_3912657840/status/2110298969997996370) | Opus 5.5 | [@_3912657840](https://x.com/_3912657840) | 0:30 | — |
 | [CAD drafting workflow demo](https://x.com/hAru_mAki_ch/status/2103698137730924839) | Opus 5.5 | [@hAru_mAki_ch](https://x.com/hAru_mAki_ch) | 0:21 | — |
 | [FreeCAD making-of video](https://x.com/hAru_mAki_ch/status/2103645693265219838) | Opus 5.5 | [@hAru_mAki_ch](https://x.com/hAru_mAki_ch) | 1:46 | — |
 | [AI-composed Baroque trio sonata](https://x.com/aug5thmusic/status/2103549625076752493) | Opus 5.5 | [@aug5thmusic](https://x.com/aug5thmusic) | 1:46 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103549625076752493) |
@@ -83,6 +91,7 @@
 | [Rebuilt space-time VFX shot through a cafe window](https://x.com/higgsfield_ai/status/2102600213361983655) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:17 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102600213361983655) |
 | [Fast-turnaround video editing demo](https://x.com/KanaWorks_AI/status/2103681377862582573) | Opus 5.5 | [@KanaWorks_AI](https://x.com/KanaWorks_AI) | 0:14 | — |
 | [Scene relocation VFX in After Effects](https://x.com/higgsfield_ai/status/2103521966376587593) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:06 | — |
+| [Automatic video editing workflow](https://x.com/Scenario_gg/status/2110020120865313063) | Opus 5.5 | [@Scenario_gg](https://x.com/Scenario_gg) | 0:13 | — |
 | [Radio-style video with AI voice and images](https://x.com/mmmiyama_D/status/2109603289939738813) | Opus 5.5 | [@mmmiyama_D](https://x.com/mmmiyama_D) | 1:36 | — |
 | [TouchDesigner controlled via Claude in After Effects](https://x.com/higgsfield_ai/status/2103525847991025776) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:06 | — |
 | [Intro video for a favorite TV drama](https://x.com/_nogu66/status/2103751299808497959) | Opus 5.5 | [@_nogu66](https://x.com/_nogu66) | 0:15 | — |
@@ -101,6 +110,7 @@
 | [AI image detail-fixing skill demo](https://x.com/higgsfield_ai/status/2103518041908908250) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:05 | — |
 | [After Effects automated edit demo](https://x.com/fumanpnp/status/2102990349098799471) | Opus 5.5 | [@fumanpnp](https://x.com/fumanpnp) | 0:24 | — |
 | [Game trailer edited from still images](https://x.com/yugen_matuni/status/2103621917785862229) | Opus 5.5 | [@yugen_matuni](https://x.com/yugen_matuni) | 3:04 | — |
+| [Full video edit performed by Claude](https://x.com/robinebers/status/2110362823973101716) | Opus 5.5 | [@robinebers](https://x.com/robinebers) | 14:15 | — |
 | [Fully AI-produced song and music video](https://x.com/Awed_Urshy/status/2102757113227624920) | Opus 5.5 | [@Awed_Urshy](https://x.com/Awed_Urshy) | 2:21 | — |
 | [Natural-sounding AI video with TTS voice](https://x.com/unikoukokun/status/2103725637466984759) | Opus 5.5 | [@unikoukokun](https://x.com/unikoukokun) | 2:32 | — |
 | [Vectorize raster illustration to Illustrator file](https://x.com/higgsfield_ai/status/2103519324531298783) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:09 | — |

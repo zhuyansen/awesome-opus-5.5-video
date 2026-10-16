@@ -1,6 +1,6 @@
 # 产品广告
 
-共 191 个作品，其中 37 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 196 个作品，其中 38 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Sonnet 5.5自制游戏预告片](https://x.com/0xPaulius/status/2105368838699204717) | Sonnet 5.5 | [@0xPaulius](https://x.com/0xPaulius) | 0:27 | — |
 | [Opus 5.5 生成的产品宣传视频](https://x.com/decohack/status/2102621064518160485) | Opus 5.5 | [@decohack](https://x.com/decohack) | 0:39 | — |
 | [一句话生成的宣传片](https://x.com/berryxia/status/2103391717894566368) | Opus 5.5 | [@berryxia](https://x.com/berryxia) | 0:29 | — |
+| [加州农田互动地图](https://x.com/sabhyac267/status/2109751973625110827) | Opus 5.5 | [@sabhyac267](https://x.com/sabhyac267) | 0:14 | — |
 | [Stock Slayer应用介绍音乐视频](https://x.com/FABYMETAL4/status/2105205875870924824) | Opus 5.5 | [@FABYMETAL4](https://x.com/FABYMETAL4) | 1:38 | — |
 | [一句提示词做出的SaaS宣传视频](https://x.com/condzxyz/status/2103570367763882199) | Opus 5.5 | [@condzxyz](https://x.com/condzxyz) | 0:15 | — |
 | [设想的西班牙政府门户网站](https://x.com/jgarcelan/status/2105198801623409043) | Opus 5.5 | [@jgarcelan](https://x.com/jgarcelan) | 0:50 | — |
@@ -122,6 +123,7 @@
 | [Lightspark产品宣传视频](https://x.com/davidmarcus/status/2103275618045686217) | Opus 5.5 | [@davidmarcus](https://x.com/davidmarcus) | 0:23 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103275618045686217) |
 | [波兰旅游宣传视频](https://x.com/KinasRemek/status/2102728913579327722) | Opus 5.5 | [@KinasRemek](https://x.com/KinasRemek) | 1:26 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102728913579327722) |
 | [Claude 吉祥物同事插件演示](https://x.com/ishuagra02/status/2106138602073641241) | Fable 5.5 (preview) | [@ishuagra02](https://x.com/ishuagra02) | 0:37 | — |
+| [落地页宣传视频](https://x.com/cleeeeeeeeement/status/2110039903312425385) | Opus 5.5 | [@cleeeeeeeeement](https://x.com/cleeeeeeeeement) | 0:15 | — |
 | [Run&Grow应用展示视频](https://x.com/utkarshbuilds_/status/2104039850060173761) | Opus 5.5 | [@utkarshbuilds_](https://x.com/utkarshbuilds_) | 0:15 | — |
 | [漫画风格产品广告](https://x.com/ladprofit/status/2103551010522399116) | Opus 5.5 | [@ladprofit](https://x.com/ladprofit) | 0:32 | — |
 | [基于科学文章创作图书的宣传视频](https://x.com/M_Adrian2/status/2103904736160120935) | Opus 5.5 | [@M_Adrian2](https://x.com/M_Adrian2) | 1:00 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103904736160120935) |
@@ -131,6 +133,7 @@
 | [CapLog应用更新宣传视频](https://x.com/mommmkan/status/2105242269536354704) | Opus 5.5 | [@mommmkan](https://x.com/mommmkan) | 0:26 | — |
 | [用Opus5.5制作的网站](https://x.com/xevrion_the1/status/2103557513962745923) | Opus 5.5 | [@xevrion_the1](https://x.com/xevrion_the1) | 0:15 | — |
 | [Bluey语音控制Mac应用与3D打印盒](https://x.com/rileybrown/status/2107960241065263265) | Opus 5.5 | [@rileybrown](https://x.com/rileybrown) | 0:40 | — |
+| [用Opus 5.5构建的F1车身涂装定制器](https://x.com/RyanSael/status/2110038561127014418) | Opus 5.5 | [@RyanSael](https://x.com/RyanSael) | 0:38 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2110038561127014418) |
 | [图表样式库发布视频](https://x.com/mhmazur/status/2105300597888970901) | Opus 5.5 | [@mhmazur](https://x.com/mhmazur) | 0:30 | — |
 | [虚构洗发水广告](https://x.com/seiiiiiiiiiiru/status/2106310907899105704) | Opus 5.5 | [@seiiiiiiiiiiru](https://x.com/seiiiiiiiiiiru) | 0:30 | — |
 | ["Touch Grass"主题概念网站](https://x.com/skpnky/status/2103744630433190009) | Opus 5.5 | [@skpnky](https://x.com/skpnky) | 0:18 | — |
@@ -156,6 +159,7 @@
 | [随处飞行应用发布预告片](https://x.com/ai_for_success/status/2105289786647007685) | Opus 5.5 | [@ai_for_success](https://x.com/ai_for_success) | 0:30 | — |
 | [Motion MCP 产品发布视频](https://x.com/motion_so/status/2107136416342061418) | Opus 5.5 | [@motion_so](https://x.com/motion_so) | 0:26 | — |
 | [动感十足的产品发布视频](https://x.com/higgsfield_ai/status/2103955965733462505) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:09 | — |
+| [无广告流媒体平台克隆](https://x.com/0x0SojalSec/status/2110110952008069345) | Opus 5.5 | [@0x0SojalSec](https://x.com/0x0SojalSec) | 0:23 | — |
 | [提示词生成音视频的应用演示](https://x.com/surucudev/status/2103520477428027482) | Opus 5.5 | [@surucudev](https://x.com/surucudev) | 0:30 | — |
 | [仿Higgsfield竞品产品搭建](https://x.com/viktoroddy/status/2103533275834896657) | Opus 5.5 | [@viktoroddy](https://x.com/viktoroddy) | 10:04 | — |
 | [复刻品牌界面的产品发布视频](https://x.com/steventey/status/2103843311807349148) | Opus 5.5 | [@steventey](https://x.com/steventey) | 0:15 | — |
@@ -188,6 +192,7 @@
 | [用自定义Skill生成产品宣传片](https://x.com/berryxia/status/2103419787565216023) | Opus 5.5 | [@berryxia](https://x.com/berryxia) | 1:01 | — |
 | [自动生成的新功能演示视频](https://x.com/okkshitij/status/2103570489071608061) | Opus 5.5 | [@okkshitij](https://x.com/okkshitij) | 0:37 | — |
 | [海外剧集介绍视频](https://x.com/hAru_mAki_ch/status/2103789217147240824) | Opus 5.5 | [@hAru_mAki_ch](https://x.com/hAru_mAki_ch) | 0:15 | — |
+| [安卓版达芬奇调色风格应用](https://x.com/4k_isn/status/2110398564610523199) | Opus 5.5 | [@4k_isn](https://x.com/4k_isn) | 1:42 | — |
 | [Slack语义搜索工具](https://x.com/tkm_hmng8/status/2102923108156076261) | Opus 5.5 | [@tkm_hmng8](https://x.com/tkm_hmng8) | 0:37 | — |
 | [仅用一张图标素材生成的视觉效果](https://x.com/career_koumei/status/2103703814562087156) | Opus 5.5 | [@career_koumei](https://x.com/career_koumei) | 0:15 | — |
 | [动物乐队音乐播放器应用](https://x.com/ring_hyacinth/status/2109611621719109920) | Opus 5.5 | [@ring_hyacinth](https://x.com/ring_hyacinth) | 1:17 | — |

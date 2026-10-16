@@ -2,7 +2,7 @@
 
 English | [简体中文](README.zh-CN.md)
 
-Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5, Sonnet 5.5, Haiku 5.5 and Fable 5.5 (limited preview, not yet announced) and shared on X, each with 5,000+ views on the original post. **1543 works** (Opus 5.5: 1433 · Sonnet 5.5: 90 · Fable 5.5: 48; comparisons count for each), **395 with a prompt** (166 full prompts).
+Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5, Sonnet 5.5, Haiku 5.5 and Fable 5.5 (limited preview, not yet announced) and shared on X, each with 5,000+ views on the original post. **1697 works** (Opus 5.5: 1584 · Sonnet 5.5: 95 · Fable 5.5: 51; comparisons count for each), **435 with a prompt** (188 full prompts).
 
 **[Browse online — play the videos and copy the prompts →](https://jasonzhu.ai/en/prompts/claude-opus-5-5)**
 
@@ -25,14 +25,14 @@ Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5, Sonnet 5
 
 ## Inclusion rule
 
-- The creator's own post, with a native video, and at least 5,000 views on that post (snapshot: 2026-10-15).
+- The creator's own post, with a native video, and at least 5,000 views on that post (snapshot: 2026-10-16).
 - The post states the work was made with Claude Opus 5.5, Sonnet 5.5, Haiku 5.5 or Fable 5.5; the Model column follows the creator's own words. **As of early October Fable 5.5 is in limited preview and not yet announced**; posts where the creator is unsure are excluded. **Model attribution is as stated by each creator and was not independently reproduced.**
 - A prompt is listed only when it has a source: the post itself, the creator's own replies, a screenshot in those replies, or a link the creator shared. Prompts are kept verbatim, never rewritten or translated.
 - Works with a video but no traceable instruction are still listed, with the prompt column left empty.
 
 ## Motion graphics & UI
 
-242 works · [full list](cases/motion.md)
+253 works · [full list](cases/motion.md)
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5, Sonnet 5
 
 ## Product demos & ads
 
-191 works · [full list](cases/product.md)
+196 works · [full list](cases/product.md)
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5, Sonnet 5
 
 ## Explainers & education
 
-144 works · [full list](cases/education.md)
+151 works · [full list](cases/education.md)
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5, Sonnet 5
 
 ## Characters & stories
 
-152 works · [full list](cases/stories.md)
+166 works · [full list](cases/stories.md)
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5, Sonnet 5
 
 ## 3D worlds & simulations
 
-217 works · [full list](cases/art3d.md)
+245 works · [full list](cases/art3d.md)
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -107,7 +107,7 @@ Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5, Sonnet 5
 
 ## Games
 
-269 works · [full list](cases/game.md)
+287 works · [full list](cases/game.md)
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -122,22 +122,22 @@ Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5, Sonnet 5
 
 ## Music, editing & production
 
-113 works · [full list](cases/production.md)
+123 works · [full list](cases/production.md)
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
 | [Remake of the 'Claude Pop' music video](https://x.com/donaldjewkes/status/2102801274173587569) | Opus 5.5 | [@donaldjewkes](https://x.com/donaldjewkes) | 2:22 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102801274173587569) |
 | [Bach-style fugue composition](https://x.com/aug5thmusic/status/2102758849619062796) | Opus 5.5 | [@aug5thmusic](https://x.com/aug5thmusic) | 2:10 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102758849619062796) |
 | [Autonomous 3D printer bed-clearing solution](https://x.com/mattshumer_/status/2104777202684301750) | Opus 5.5 | [@mattshumer_](https://x.com/mattshumer_) | 0:25 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104777202684301750) |
+| [Talking-head video edited into a motion-graphics cut](https://x.com/condzxyz/status/2109454493415023080) | Opus 5.5 | [@condzxyz](https://x.com/condzxyz) | 6:19 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2109454493415023080) |
 | [Bilingual Gossip Video](https://x.com/dotey/status/2106144184449085474) | Opus 5.5 | [@dotey](https://x.com/dotey) | 5:51 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2106144184449085474) |
+| [Automated branded video edit with voice sync](https://x.com/Aykutuces/status/2110019799342260630) | Opus 5.5 | [@Aykutuces](https://x.com/Aykutuces) | 1:14 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2110019799342260630) |
 | [AI-edited talking-head video](https://x.com/sab8a/status/2103144778481475686) | Opus 5.5 | [@sab8a](https://x.com/sab8a) | 0:37 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103144778481475686) |
 | [Bass music generated with code](https://x.com/aj_dev_smith/status/2102504509637587339) | Opus 5.5 | [@aj_dev_smith](https://x.com/aj_dev_smith) | 2:00 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102504509637587339) |
-| [Opus 5.5 plus Gemini TTS demo](https://x.com/YoheiN2023/status/2103590367518171295) | Opus 5.5 | [@YoheiN2023](https://x.com/YoheiN2023) | 0:15 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103590367518171295) |
-| [Talking-head video converted to line-art B-roll](https://x.com/AxtonLiu/status/2102827887732932956) | Opus 5.5 | [@AxtonLiu](https://x.com/AxtonLiu) | 1:24 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102827887732932956) |
 
 ## Model comparisons
 
-215 works · [full list](cases/comparison.md)
+276 works · [full list](cases/comparison.md)
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
