@@ -1,6 +1,6 @@
 # Characters & stories
 
-166 works, 42 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+170 works, 43 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -108,11 +108,13 @@
 | [Arcane-Style Animation](https://x.com/ChrisGPT/status/2105045818046808380) | Opus 5.5 | [@ChrisGPT](https://x.com/ChrisGPT) | 0:09 | — |
 | [1-minute fight animation in code](https://x.com/akokoi1/status/2103149275945517546) | Opus 5.5 | [@akokoi1](https://x.com/akokoi1) | 1:00 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103149275945517546) |
 | [Spider-Man comic eras](https://x.com/chetaslua/status/2106248621519978867) | Fable 5.5 (preview) | [@chetaslua](https://x.com/chetaslua) | 0:38 | — |
+| [Night phone booth 3D text motion story](https://x.com/aicreataro/status/2110689292737749146) | Opus 5.5 | [@aicreataro](https://x.com/aicreataro) | 1:11 | — |
 | [Fable 5.5 self-introduction musical video](https://x.com/ChrisGPT/status/2109570757579649086) | Fable 5.5 (preview) | [@ChrisGPT](https://x.com/ChrisGPT) | 1:16 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2109570757579649086) |
 | [Dramatized personal battle narrative video](https://x.com/super_bonochin/status/2103881739131376035) | Opus 5.5 | [@super_bonochin](https://x.com/super_bonochin) | 1:05 | — |
 | [Sketch-to-3D battle animation](https://x.com/MinLiBuilds/status/2102756822990180387) | Opus 5.5 | [@MinLiBuilds](https://x.com/MinLiBuilds) | 1:43 | — |
 | [Gremlins screenplay movie trailer](https://x.com/JoshDaws/status/2107108840797811032) | Opus 5.5 | [@JoshDaws](https://x.com/JoshDaws) | 1:54 | — |
 | [Audience-directed choose-your-own-adventure movie](https://x.com/henloitsjoyce/status/2103261956375466225) | Opus 5.5 | [@henloitsjoyce](https://x.com/henloitsjoyce) | 0:42 | — |
+| [Borges chess story mood piece](https://x.com/julianleiss/status/2110868325052149925) | Opus 5.5 | [@julianleiss](https://x.com/julianleiss) | 0:52 | — |
 | [Music video for a Portuguese song](https://x.com/goncalo_canhoto/status/2103945822085738890) | Opus 5.5 | [@goncalo_canhoto](https://x.com/goncalo_canhoto) | 2:52 | — |
 | [Creation-myth style story on how the world formed](https://x.com/Iamshankhadeep/status/2103087123503177752) | Opus 5.5 | [@Iamshankhadeep](https://x.com/Iamshankhadeep) | 1:00 | — |
 | [Animated music video for a Claude-written song](https://x.com/Skoorbkaz/status/2102973119115690211) | Opus 5.5 | [@Skoorbkaz](https://x.com/Skoorbkaz) | 5:13 | — |
@@ -144,6 +146,7 @@
 | [Reimagined music video rendered by AI](https://x.com/LLMJunky/status/2103903916383744025) | Opus 5.5 | [@LLMJunky](https://x.com/LLMJunky) | 3:12 | — |
 | [Halloween trick-or-treat animated video](https://x.com/alexgreensh/status/2110404428691808308) | Opus 5.5 | [@alexgreensh](https://x.com/alexgreensh) | 1:12 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2110404428691808308) |
 | [Super Robot Wars style mecha battle animation](https://x.com/PDyv9gdatT4132/status/2105401665360986275) | Opus 5.5 | [@PDyv9gdatT4132](https://x.com/PDyv9gdatT4132) | 0:32 | — |
+| [Full AI-made music and animation piece](https://x.com/anthrupad/status/2110950344272527596) | Opus 5.5 | [@anthrupad](https://x.com/anthrupad) | 0:52 | — |
 | [Character video combining Midjourney and Seedance](https://x.com/aimikoda/status/2110360021988982817) | Opus 5.5 | [@aimikoda](https://x.com/aimikoda) | 0:32 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2110360021988982817) |
 | [Claude reacting to silly questions video](https://x.com/belltyler/status/2103879008261931055) | Opus 5.5 | [@belltyler](https://x.com/belltyler) | 1:30 | — |
 | [Short animated mini film](https://x.com/jackfriks/status/2103525576912855363) | Opus 5.5 | [@jackfriks](https://x.com/jackfriks) | 0:35 | — |
@@ -163,6 +166,7 @@
 | [Pixel-art character rigged and animated by code](https://x.com/MindGate_dev/status/2103712991409774609) | Opus 5.5 | [@MindGate_dev](https://x.com/MindGate_dev) | 0:25 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103712991409774609) |
 | [One-shot music video from song and lyrics](https://x.com/ParanoidAmerica/status/2103570879619686717) | Opus 5.5 | [@ParanoidAmerica](https://x.com/ParanoidAmerica) | 2:21 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103570879619686717) |
 | [Preview of an upcoming satirical animation](https://x.com/jgarcelan/status/2103797521612996910) | Opus 5.5 | [@jgarcelan](https://x.com/jgarcelan) | 0:08 | — |
+| [Paper collage Momotaro animation](https://x.com/tanabe_fragm/status/2110931024469540979) | Opus 5.5 | [@tanabe_fragm](https://x.com/tanabe_fragm) | 0:46 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2110931024469540979) |
 | [Lord of the Rings opening scene recreation](https://x.com/devteamdrew/status/2110433119731945964) | Opus 5.5 | [@devteamdrew](https://x.com/devteamdrew) | 1:33 | — |
 | [Short film for kids coded in JavaScript](https://x.com/thebuggeddev/status/2103677413913976912) | Opus 5.5 | [@thebuggeddev](https://x.com/thebuggeddev) | 1:44 | — |
 | [Narrative video generated from a market report](https://x.com/dfolloni/status/2110413422458241228) | Opus 5.5 | [@dfolloni](https://x.com/dfolloni) | 1:21 | — |

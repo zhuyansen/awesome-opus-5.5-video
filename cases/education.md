@@ -1,10 +1,11 @@
 # Explainers & education
 
-151 works, 48 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+154 works, 48 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
 | [Interactive camera focus lens lab](https://x.com/RyanSael/status/2102591147927654847) | Opus 5.5 | [@RyanSael](https://x.com/RyanSael) | 0:32 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102591147927654847) |
+| [Tesla Roadster flight explainer animation](https://x.com/enes_code/status/2110941423680061472) | Opus 5.5 | [@enes_code](https://x.com/enes_code) | 0:39 | — |
 | [Interactive Raptor 3 rocket engine explainer](https://x.com/konstantinsaifo/status/2104094723887501736) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 0:35 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104094723887501736) |
 | [AI documentary about superintelligence](https://x.com/gavinpurcell/status/2103304514329854102) | Opus 5.5 | [@gavinpurcell](https://x.com/gavinpurcell) | 5:15 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103304514329854102) |
 | [Pixel art neural network training animation](https://x.com/DotCSV/status/2102737776219168939) | Opus 5.5 | [@DotCSV](https://x.com/DotCSV) | 0:56 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102737776219168939) |
@@ -101,8 +102,10 @@
 | [Galaxy Star-Formation Explorer](https://x.com/jwuphysics/status/2103290186268365205) | Opus 5.5 | [@jwuphysics](https://x.com/jwuphysics) | 2:55 | — |
 | [Chinese architecture history explainer](https://x.com/akokoi1/status/2103650399773475318) | Opus 5.5 | [@akokoi1](https://x.com/akokoi1) | 1:35 | — |
 | [Explainer animation about Claude usage workflows](https://x.com/daniel_mac8/status/2103666105461924131) | Opus 5.5 | [@daniel_mac8](https://x.com/daniel_mac8) | 0:29 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103666105461924131) |
+| [Lighthouse illumination proof animation](https://x.com/algekalipso/status/2110658162214785351) | Opus 5.5 | [@algekalipso](https://x.com/algekalipso) | 0:26 | — |
 | [Summary video of health system presentations](https://x.com/agaviriau/status/2105769916288930215) | Opus 5.5 | [@agaviriau](https://x.com/agaviriau) | 2:06 | — |
 | [IDOR vulnerability explainer video](https://x.com/BourAbdelhadi/status/2105236146246586434) | Sonnet 5.5 | [@BourAbdelhadi](https://x.com/BourAbdelhadi) | 0:35 | — |
+| [Football history mini-documentary](https://x.com/agaviriau/status/2110798126453846207) | Opus 5.5 | [@agaviriau](https://x.com/agaviriau) | 3:30 | — |
 | [Engineering history animation on rotation axes](https://x.com/ootamato/status/2103099960069873856) | Opus 5.5 | [@ootamato](https://x.com/ootamato) | 0:31 | — |
 | [Interactive toilet flush mechanism demo](https://x.com/elliscrosby/status/2109570204556824624) | Opus 5.5 | [@elliscrosby](https://x.com/elliscrosby) | 0:18 | — |
 | [Video on three physics theory styles](https://x.com/bukuro8810/status/2103739912591929851) | Opus 5.5 | [@bukuro8810](https://x.com/bukuro8810) | 5:04 | — |

@@ -1,10 +1,11 @@
 # 科普讲解
 
-共 151 个作品，其中 48 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 154 个作品，其中 48 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
 | [交互式相机对焦光学实验室](https://x.com/RyanSael/status/2102591147927654847) | Opus 5.5 | [@RyanSael](https://x.com/RyanSael) | 0:32 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102591147927654847) |
+| [特斯拉跑车飞行原理动画](https://x.com/enes_code/status/2110941423680061472) | Opus 5.5 | [@enes_code](https://x.com/enes_code) | 0:39 | — |
 | [可交互猛禽3火箭发动机讲解](https://x.com/konstantinsaifo/status/2104094723887501736) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 0:35 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104094723887501736) |
 | [关于超级智能的纪录片](https://x.com/gavinpurcell/status/2103304514329854102) | Opus 5.5 | [@gavinpurcell](https://x.com/gavinpurcell) | 5:15 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103304514329854102) |
 | [像素风神经网络训练动画](https://x.com/DotCSV/status/2102737776219168939) | Opus 5.5 | [@DotCSV](https://x.com/DotCSV) | 0:56 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102737776219168939) |
@@ -101,8 +102,10 @@
 | [星系恒星形成率探索器](https://x.com/jwuphysics/status/2103290186268365205) | Opus 5.5 | [@jwuphysics](https://x.com/jwuphysics) | 2:55 | — |
 | [中国建筑史知识点讲解视频](https://x.com/akokoi1/status/2103650399773475318) | Opus 5.5 | [@akokoi1](https://x.com/akokoi1) | 1:35 | — |
 | [讲解Claude用量管理工作流的动画](https://x.com/daniel_mac8/status/2103666105461924131) | Opus 5.5 | [@daniel_mac8](https://x.com/daniel_mac8) | 0:29 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103666105461924131) |
+| [灯塔照明定理动画证明](https://x.com/algekalipso/status/2110658162214785351) | Opus 5.5 | [@algekalipso](https://x.com/algekalipso) | 0:26 | — |
 | [医疗体系演讲内容总结视频](https://x.com/agaviriau/status/2105769916288930215) | Opus 5.5 | [@agaviriau](https://x.com/agaviriau) | 2:06 | — |
 | [IDOR漏洞讲解视频](https://x.com/BourAbdelhadi/status/2105236146246586434) | Sonnet 5.5 | [@BourAbdelhadi](https://x.com/BourAbdelhadi) | 0:35 | — |
+| [足球历史迷你纪录片](https://x.com/agaviriau/status/2110798126453846207) | Opus 5.5 | [@agaviriau](https://x.com/agaviriau) | 3:30 | — |
 | [旋转轴主题工程历史动画](https://x.com/ootamato/status/2103099960069873856) | Opus 5.5 | [@ootamato](https://x.com/ootamato) | 0:31 | — |
 | [马桶冲水机制互动演示](https://x.com/elliscrosby/status/2109570204556824624) | Opus 5.5 | [@elliscrosby](https://x.com/elliscrosby) | 0:18 | — |
 | [关于三种物理理论风格的讲解视频](https://x.com/bukuro8810/status/2103739912591929851) | Opus 5.5 | [@bukuro8810](https://x.com/bukuro8810) | 5:04 | — |

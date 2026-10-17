@@ -1,6 +1,6 @@
 # Games
 
-287 works, 52 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+299 works, 53 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -131,10 +131,12 @@
 | [Family-built Roblox squishy game](https://x.com/minchoi/status/2106114830780223567) | Opus 5.5 | [@minchoi](https://x.com/minchoi) | 1:25 | — |
 | [3D game teaser footage](https://x.com/Saccc_c/status/2109903473387201003) | Opus 5.5 | [@Saccc_c](https://x.com/Saccc_c) | 0:36 | — |
 | [Interactive jelly watermelon toy](https://x.com/vib3coded/status/2106056420131029473) | Opus 5.5 / Fable 5.5 (preview) | [@vib3coded](https://x.com/vib3coded) | 0:17 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2106056420131029473) |
+| [Open-world earth-scale game engine demo](https://x.com/_chuckyc/status/2110779144191537364) | Opus 5.5 | [@_chuckyc](https://x.com/_chuckyc) | 24:07 | — |
 | [Rocket League-style clone with cinematic](https://x.com/LLMJunky/status/2102847543042343072) | Opus 5.5 | [@LLMJunky](https://x.com/LLMJunky) | 1:07 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102847543042343072) |
 | [Procedural magic FPS game evolution](https://x.com/izumisatoshi05/status/2103438227885703299) | Opus 5.5 | [@izumisatoshi05](https://x.com/izumisatoshi05) | 1:12 | — |
 | [Dragonscrest third-person MOBA](https://x.com/Izkimar/status/2110524729589219802) | Opus 5.5 | [@Izkimar](https://x.com/Izkimar) | 1:40 | — |
 | [Cyberpunk roguelike shooter built via MCP tools](https://x.com/VORTEX_Promos/status/2103622389573505119) | Opus 5.5 | [@VORTEX_Promos](https://x.com/VORTEX_Promos) | 11:57 | — |
+| [Browser MMO game Aestra gameplay](https://x.com/M__Houser/status/2110750857528803516) | Opus 5.5 | [@M__Houser](https://x.com/M__Houser) | 0:32 | — |
 | [Minecraft clone built with Fable 5.5](https://x.com/blueemi99/status/2108221060655055242) | Fable 5.5 (preview) | [@blueemi99](https://x.com/blueemi99) | 1:29 | — |
 | [Soulslike game demo](https://x.com/yoneapp/status/2103283912223142287) | Opus 5.5 | [@yoneapp](https://x.com/yoneapp) | 1:08 | — |
 | [Fox game motion showcase upgrade](https://x.com/AmirAnonn/status/2103410995272020375) | Opus 5.5 | [@AmirAnonn](https://x.com/AmirAnonn) | 0:20 | — |
@@ -152,8 +154,10 @@
 | [Roblox one-shot VFX effect](https://x.com/VlprioN/status/2108210439813529910) | Opus 5.5 | [@VlprioN](https://x.com/VlprioN) | 0:28 | — |
 | [Recreated box-dash action game](https://x.com/neguse/status/2108271893023490383) | Opus 5.5 | [@neguse](https://x.com/neguse) | 0:36 | — |
 | [Rocket Squadron rail shooter](https://x.com/guidorosso/status/2107146407790666085) | Opus 5.5 | [@guidorosso](https://x.com/guidorosso) | 3:02 | — |
+| [3D Dragon Ball story game remake](https://x.com/SUOHA_AI/status/2110713533193453572) | Opus 5.5 | [@SUOHA_AI](https://x.com/SUOHA_AI) | 0:29 | — |
 | [Multiplayer capital ship game](https://x.com/McGrumby/status/2103590506106380330) | Opus 5.5 | [@McGrumby](https://x.com/McGrumby) | 0:28 | — |
 | [Minecraft-Style Browser Game](https://x.com/oviniciuslana/status/2103086714772463953) | Opus 5.5 | [@oviniciuslana](https://x.com/oviniciuslana) | 1:05 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103086714772463953) |
+| [3D sandbox game with generated models](https://x.com/KanaWorks_AI/status/2110638868202762335) | Opus 5.5 | [@KanaWorks_AI](https://x.com/KanaWorks_AI) | 0:45 | — |
 | [New area added to a game-recompilation mod](https://x.com/davis7/status/2103567411782078485) | Opus 5.5 | [@davis7](https://x.com/davis7) | 1:03 | — |
 | [Silly mini game built with Opus 5.5](https://x.com/yoneapp/status/2103741544365007124) | Opus 5.5 | [@yoneapp](https://x.com/yoneapp) | 0:46 | — |
 | [Riga open-world crime game](https://x.com/johnsavage_ai/status/2109028480629592418) | Opus 5.5 | [@johnsavage_ai](https://x.com/johnsavage_ai) | 0:49 | — |
@@ -229,6 +233,7 @@
 | [Rocket League clone in Three.js](https://x.com/thoughtcrime___/status/2103946340598501771) | Opus 5.5 | [@thoughtcrime___](https://x.com/thoughtcrime___) | 0:16 | — |
 | [Procedural mountain flight simulator](https://x.com/cyrilXBT/status/2103801828744061307) | Opus 5.5 | [@cyrilXBT](https://x.com/cyrilXBT) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103801828744061307) |
 | [Retro game remake in a modern engine](https://x.com/AIandDesign/status/2103327470485459444) | Opus 5.5 | [@AIandDesign](https://x.com/AIandDesign) | 4:00 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103327470485459444) |
+| [Picasso-style Three.js Tetris game](https://x.com/SimonasLTU1/status/2110665151389003777) | Opus 5.5 | [@SimonasLTU1](https://x.com/SimonasLTU1) | 1:30 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2110665151389003777) |
 | [Sword-fighting game in development](https://x.com/R_Nikaido/status/2103462848303378834) | Opus 5.5 | [@R_Nikaido](https://x.com/R_Nikaido) | 0:35 | — |
 | [B2B SaaS flight simulator game](https://x.com/donaldjewkes/status/2108267057485898032) | Opus 5.5 | [@donaldjewkes](https://x.com/donaldjewkes) | 0:25 | — |
 | [Zombie game animation attempt](https://x.com/notjazii/status/2109974240791498858) | Opus 5.5 | [@notjazii](https://x.com/notjazii) | 0:18 | — |
@@ -244,6 +249,7 @@
 | [Browser game from 'make the most fun game in the world'](https://x.com/coyane_ai/status/2103668069801624015) | Opus 5.5 | [@coyane_ai](https://x.com/coyane_ai) | 1:00 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103668069801624015) |
 | [Multiplayer browser climbing game clone](https://x.com/_MaxBlade/status/2104763837777854923) | Sonnet 5.5 | [@_MaxBlade](https://x.com/_MaxBlade) | 0:57 | — |
 | [Open-world fantasy sci-fi game](https://x.com/aniketjart/status/2103642635726680460) | Opus 5.5 | [@aniketjart](https://x.com/aniketjart) | 0:20 | — |
+| [Playable chip fab strategy simulation](https://x.com/anxuanng/status/2110816730163605912) | Opus 5.5 | [@anxuanng](https://x.com/anxuanng) | 0:30 | — |
 | [Pokemon-inspired browser game](https://x.com/Rubzem/status/2103547220922663048) | Opus 5.5 | [@Rubzem](https://x.com/Rubzem) | 1:17 | — |
 | [2XKO fighters playable demo](https://x.com/GamefxAI/status/2108229353481871724) | Opus 5.5 | [@GamefxAI](https://x.com/GamefxAI) | 2:05 | — |
 | [First-person open world game built in hours](https://x.com/badboyfoxy/status/2109902063916257466) | Opus 5.5 | [@badboyfoxy](https://x.com/badboyfoxy) | 2:32 | — |
@@ -255,7 +261,9 @@
 | [Ghibli-themed underwater train sim game](https://x.com/aniketjart/status/2102546641253478674) | Opus 5.5 | [@aniketjart](https://x.com/aniketjart) | 0:29 | — |
 | [Follow-up game recreation clip](https://x.com/LexnLin/status/2103539721649692713) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 0:36 | — |
 | [Balloon island building game](https://x.com/0xbobaaa/status/2109628088430510337) | Opus 5.5 | [@0xbobaaa](https://x.com/0xbobaaa) | 0:30 | — |
+| [3D arena combat game](https://x.com/jumperz/status/2110696310340718884) | Opus 5.5 | [@jumperz](https://x.com/jumperz) | 2:37 | — |
 | [Pokeidle game quick intro](https://x.com/pedrofasi/status/2110500370241765787) | Opus 5.5 | [@pedrofasi](https://x.com/pedrofasi) | 5:03 | — |
+| [Business tycoon management game](https://x.com/alexcooldev/status/2110742093404729651) | Opus 5.5 / Sonnet 5.5 | [@alexcooldev](https://x.com/alexcooldev) | 2:42 | — |
 | [CoD Zombies clone built in Three.js](https://x.com/intheworldofai/status/2104689634080882967) | Sonnet 5.5 | [@intheworldofai](https://x.com/intheworldofai) | 2:11 | — |
 | [Space civilization browser game](https://x.com/konstantinsaifo/status/2105261985235444072) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 1:01 | — |
 | [Procedural mountain flight simulator](https://x.com/cyrilXBT/status/2103737605510836371) | Opus 5.5 | [@cyrilXBT](https://x.com/cyrilXBT) | 0:15 | — |
@@ -276,7 +284,10 @@
 | ["The Marrowfield Files" game teaser](https://x.com/firatlux/status/2103807534973038936) | Opus 5.5 | [@firatlux](https://x.com/firatlux) | 2:35 | — |
 | [Penguin skiing mini-game](https://x.com/oguzthedev/status/2103546117967512062) | Opus 5.5 | [@oguzthedev](https://x.com/oguzthedev) | 0:17 | — |
 | [Age of Empires remake with multiplayer](https://x.com/ForwardEditor/status/2104665557144322555) | Sonnet 5.5 | [@ForwardEditor](https://x.com/ForwardEditor) | 0:28 | — |
+| [Playable air traffic control simulation](https://x.com/anxuanng/status/2110801686923264126) | Opus 5.5 | [@anxuanng](https://x.com/anxuanng) | 0:30 | — |
 | [Pool party splash game prototype](https://x.com/bijanbowen/status/2104717700836753573) | Sonnet 5.5 | [@bijanbowen](https://x.com/bijanbowen) | 1:21 | — |
+| [Open-world RPG prototype](https://x.com/hakimieiqbal/status/2110704086299341225) | Opus 5.5 | [@hakimieiqbal](https://x.com/hakimieiqbal) | 1:22 | — |
+| [MD-style Power Drift remake tuning](https://x.com/hagihide/status/2110702464198660316) | Opus 5.5 | [@hagihide](https://x.com/hagihide) | 3:34 | — |
 | [3D Snakeboard game](https://x.com/thebuggeddev/status/2107106516918743153) | Opus 5.5 | [@thebuggeddev](https://x.com/thebuggeddev) | 0:58 | — |
 | [Another World ZX Spectrum Next port](https://x.com/em00k_/status/2103837016186339466) | Opus 5.5 | [@em00k_](https://x.com/em00k_) | 4:48 | — |
 | [Roblox game concept card showcase](https://x.com/Cyphryx/status/2108264801424269777) | Opus 5.5 | [@Cyphryx](https://x.com/Cyphryx) | 1:24 | — |
@@ -287,6 +298,7 @@
 | [Steve in GTA V under a Wither Storm](https://x.com/bonnyxen/status/2109056524496892098) | Opus 5.5 | [@bonnyxen](https://x.com/bonnyxen) | 3:37 | — |
 | [Vibe-coded platformer experience](https://x.com/chetanankola/status/2103730428901498972) | Opus 5.5 | [@chetanankola](https://x.com/chetanankola) | 1:04 | — |
 | [Indie game development progress](https://x.com/iritec_jp/status/2102651240685744597) | Opus 5.5 | [@iritec_jp](https://x.com/iritec_jp) | 0:39 | — |
+| [Website destruction browser toy](https://x.com/AbhinavXJ/status/2110632478985867426) | Opus 5.5 | [@AbhinavXJ](https://x.com/AbhinavXJ) | 0:26 | — |
 | [Fighting game inspired by a mecha series](https://x.com/elefolo2/status/2103310890716266620) | Opus 5.5 | [@elefolo2](https://x.com/elefolo2) | 0:34 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103310890716266620) |
 | [Email gamification prototype Inbox Kingdom](https://x.com/thebuggeddev/status/2108206814236184802) | Opus 5.5 | [@thebuggeddev](https://x.com/thebuggeddev) | 1:13 | — |
 | [90s FMV horror adventure game prototype](https://x.com/pleometric/status/2108205076904894664) | Opus 5.5 | [@pleometric](https://x.com/pleometric) | 1:20 | — |

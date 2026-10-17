@@ -1,6 +1,6 @@
 # 产品广告
 
-共 196 个作品，其中 38 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 199 个作品，其中 39 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -9,6 +9,7 @@
 | [三条提示词搭建的作品集网站](https://x.com/cambreedesigns/status/2104999693113766152) | Opus 5.5 | [@cambreedesigns](https://x.com/cambreedesigns) | 0:19 | — |
 | [东京末班车地图互动网站](https://x.com/MatoToushi/status/2103643548163928183) | Opus 5.5 | [@MatoToushi](https://x.com/MatoToushi) | 1:02 | — |
 | [可交互动态演示幻灯片](https://x.com/uchita_success/status/2103786580838420912) | Opus 5.5 | [@uchita_success](https://x.com/uchita_success) | 0:31 | — |
+| [苹果HomeView模拟广告](https://x.com/kevin_t_ngo/status/2110722582689546297) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 1:22 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2110722582689546297) |
 | [管理编程 Agent 的虚拟办公室](https://x.com/webdevcody/status/2103653857377292720) | Opus 5.5 | [@webdevcody](https://x.com/webdevcody) | 0:41 | — |
 | [歌词动态视频生成器JIZURA](https://x.com/8co28/status/2102572322016370781) | Opus 5.5 | [@8co28](https://x.com/8co28) | 1:46 | — |
 | [Bend 2编程语言介绍视频](https://x.com/VictorTaelin/status/2104568082169749982) | Opus 5.5 | [@VictorTaelin](https://x.com/VictorTaelin) | 1:30 | — |
@@ -33,6 +34,7 @@
 | [30秒产品宣传片](https://x.com/shownotover/status/2104124596957933687) | Opus 5.5 | [@shownotover](https://x.com/shownotover) | 0:30 | — |
 | [iPhone Duo应用改版演示视频](https://x.com/anshuc/status/2103598854801084824) | Opus 5.5 | [@anshuc](https://x.com/anshuc) | 1:00 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103598854801084824) |
 | [开源交易日志应用编辑](https://x.com/LuxAlgo/status/2104668775798739107) | Opus 5.5 | [@LuxAlgo](https://x.com/LuxAlgo) | 0:30 | — |
+| [视频采样器工具演示](https://x.com/eguri89/status/2110703030660378913) | Opus 5.5 | [@eguri89](https://x.com/eguri89) | 0:58 | — |
 | [苹果发布会风格产品视频](https://x.com/twoclipping/status/2103835273813496100) | Opus 5.5 | [@twoclipping](https://x.com/twoclipping) | 0:29 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103835273813496100) |
 | [铁路车站体验重新设计概念](https://x.com/jgarcelan/status/2103131351557763433) | Opus 5.5 | [@jgarcelan](https://x.com/jgarcelan) | 0:15 | — |
 | [读取自家仓库后重建的工具](https://x.com/YoheiN2023/status/2103381925671104732) | Opus 5.5 | [@YoheiN2023](https://x.com/YoheiN2023) | 0:15 | — |
@@ -183,6 +185,7 @@
 | [磁盘空间分析实用工具应用](https://x.com/SonofNun/status/2103589196472766505) | Opus 5.5 | [@SonofNun](https://x.com/SonofNun) | 1:40 | — |
 | [法比漫画风格咖啡广告](https://x.com/jeanalexandre_b/status/2103514734716977599) | Opus 5.5 | [@jeanalexandre_b](https://x.com/jeanalexandre_b) | 1:25 | — |
 | [书籍宣传介绍视频](https://x.com/ama_ch/status/2103621603628306747) | Opus 5.5 | [@ama_ch](https://x.com/ama_ch) | 1:06 | — |
+| [动画老鹰理财助手演示](https://x.com/rork/status/2110788460596310311) | Opus 5.5 | [@rork](https://x.com/rork) | 1:16 | — |
 | [根据品牌指南与网站生成的品牌展示片](https://x.com/AidinShahi/status/2103898861177880665) | Opus 5.5 | [@AidinShahi](https://x.com/AidinShahi) | 0:55 | — |
 | [自动化平台一键演示视频](https://x.com/getlindy/status/2103596650401018048) | Opus 5.5 | [@getlindy](https://x.com/getlindy) | 0:12 | — |
 | [简单需求生成的网站宣传片](https://x.com/sankenainai/status/2103340873773916491) | Opus 5.5 | [@sankenainai](https://x.com/sankenainai) | 0:29 | — |

@@ -1,6 +1,6 @@
 # 角色故事
 
-共 166 个作品，其中 42 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 170 个作品，其中 43 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -108,11 +108,13 @@
 | [奥术风格动画](https://x.com/ChrisGPT/status/2105045818046808380) | Opus 5.5 | [@ChrisGPT](https://x.com/ChrisGPT) | 0:09 | — |
 | [代码实现的1分钟打斗动画](https://x.com/akokoi1/status/2103149275945517546) | Opus 5.5 | [@akokoi1](https://x.com/akokoi1) | 1:00 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103149275945517546) |
 | [蜘蛛侠漫画时代变迁](https://x.com/chetaslua/status/2106248621519978867) | Fable 5.5 (preview) | [@chetaslua](https://x.com/chetaslua) | 0:38 | — |
+| [夜晚电话亭文字动画小故事](https://x.com/aicreataro/status/2110689292737749146) | Opus 5.5 | [@aicreataro](https://x.com/aicreataro) | 1:11 | — |
 | [Fable 5.5自我介绍音乐视频](https://x.com/ChrisGPT/status/2109570757579649086) | Fable 5.5 (preview) | [@ChrisGPT](https://x.com/ChrisGPT) | 1:16 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2109570757579649086) |
 | [戏剧化个人"战斗"叙事视频](https://x.com/super_bonochin/status/2103881739131376035) | Opus 5.5 | [@super_bonochin](https://x.com/super_bonochin) | 1:05 | — |
 | [手绘草图转3D对战动画](https://x.com/MinLiBuilds/status/2102756822990180387) | Opus 5.5 | [@MinLiBuilds](https://x.com/MinLiBuilds) | 1:43 | — |
 | [根据小精灵剧本制作的预告片](https://x.com/JoshDaws/status/2107108840797811032) | Opus 5.5 | [@JoshDaws](https://x.com/JoshDaws) | 1:54 | — |
 | [观众互动式互动电影平台](https://x.com/henloitsjoyce/status/2103261956375466225) | Opus 5.5 | [@henloitsjoyce](https://x.com/henloitsjoyce) | 0:42 | — |
+| [博尔赫斯棋局氛围短片](https://x.com/julianleiss/status/2110868325052149925) | Opus 5.5 | [@julianleiss](https://x.com/julianleiss) | 0:52 | — |
 | [葡萄牙语歌曲音乐视频](https://x.com/goncalo_canhoto/status/2103945822085738890) | Opus 5.5 | [@goncalo_canhoto](https://x.com/goncalo_canhoto) | 2:52 | — |
 | [关于世界如何形成的创世故事](https://x.com/Iamshankhadeep/status/2103087123503177752) | Opus 5.5 | [@Iamshankhadeep](https://x.com/Iamshankhadeep) | 1:00 | — |
 | [为Claude创作歌曲制作的动画音乐视频](https://x.com/Skoorbkaz/status/2102973119115690211) | Opus 5.5 | [@Skoorbkaz](https://x.com/Skoorbkaz) | 5:13 | — |
@@ -144,6 +146,7 @@
 | [AI渲染的音乐视频重制](https://x.com/LLMJunky/status/2103903916383744025) | Opus 5.5 | [@LLMJunky](https://x.com/LLMJunky) | 3:12 | — |
 | [万圣节讨糖动画视频](https://x.com/alexgreensh/status/2110404428691808308) | Opus 5.5 | [@alexgreensh](https://x.com/alexgreensh) | 1:12 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2110404428691808308) |
 | [超级机器人大战风格机甲战斗动画](https://x.com/PDyv9gdatT4132/status/2105401665360986275) | Opus 5.5 | [@PDyv9gdatT4132](https://x.com/PDyv9gdatT4132) | 0:32 | — |
+| [全由AI制作的音乐动画作品](https://x.com/anthrupad/status/2110950344272527596) | Opus 5.5 | [@anthrupad](https://x.com/anthrupad) | 0:52 | — |
 | [结合Midjourney与Seedance的角色视频](https://x.com/aimikoda/status/2110360021988982817) | Opus 5.5 | [@aimikoda](https://x.com/aimikoda) | 0:32 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2110360021988982817) |
 | [Claude吐槽各种奇葩问题的视频](https://x.com/belltyler/status/2103879008261931055) | Opus 5.5 | [@belltyler](https://x.com/belltyler) | 1:30 | — |
 | [动画短片作品](https://x.com/jackfriks/status/2103525576912855363) | Opus 5.5 | [@jackfriks](https://x.com/jackfriks) | 0:35 | — |
@@ -163,6 +166,7 @@
 | [像素画角色的代码绑定动画](https://x.com/MindGate_dev/status/2103712991409774609) | Opus 5.5 | [@MindGate_dev](https://x.com/MindGate_dev) | 0:25 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103712991409774609) |
 | [根据歌曲歌词一次生成的音乐视频](https://x.com/ParanoidAmerica/status/2103570879619686717) | Opus 5.5 | [@ParanoidAmerica](https://x.com/ParanoidAmerica) | 2:21 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103570879619686717) |
 | [即将推出的讽刺动画预告](https://x.com/jgarcelan/status/2103797521612996910) | Opus 5.5 | [@jgarcelan](https://x.com/jgarcelan) | 0:08 | — |
+| [纸拼贴风桃太郎动画](https://x.com/tanabe_fragm/status/2110931024469540979) | Opus 5.5 | [@tanabe_fragm](https://x.com/tanabe_fragm) | 0:46 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2110931024469540979) |
 | [指环王开场场景重现](https://x.com/devteamdrew/status/2110433119731945964) | Opus 5.5 | [@devteamdrew](https://x.com/devteamdrew) | 1:33 | — |
 | [JavaScript编写的儿童短片](https://x.com/thebuggeddev/status/2103677413913976912) | Opus 5.5 | [@thebuggeddev](https://x.com/thebuggeddev) | 1:44 | — |
 | [根据市场报告一次生成的叙事视频](https://x.com/dfolloni/status/2110413422458241228) | Opus 5.5 | [@dfolloni](https://x.com/dfolloni) | 1:21 | — |

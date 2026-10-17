@@ -2,7 +2,7 @@
 
 English | [简体中文](README.zh-CN.md)
 
-Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5, Sonnet 5.5, Haiku 5.5 and Fable 5.5 (limited preview, not yet announced) and shared on X, each with 5,000+ views on the original post. **1697 works** (Opus 5.5: 1584 · Sonnet 5.5: 95 · Fable 5.5: 51; comparisons count for each), **435 with a prompt** (188 full prompts).
+Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5, Sonnet 5.5, Haiku 5.5 and Fable 5.5 (limited preview, not yet announced) and shared on X, each with 5,000+ views on the original post. **1742 works** (Opus 5.5: 1628 · Sonnet 5.5: 100 · Fable 5.5: 52; comparisons count for each), **443 with a prompt** (193 full prompts).
 
 **[Browse online — play the videos and copy the prompts →](https://jasonzhu.ai/en/prompts/claude-opus-5-5)**
 
@@ -25,14 +25,14 @@ Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5, Sonnet 5
 
 ## Inclusion rule
 
-- The creator's own post, with a native video, and at least 5,000 views on that post (snapshot: 2026-10-16).
+- The creator's own post, with a native video, and at least 5,000 views on that post (snapshot: 2026-10-17).
 - The post states the work was made with Claude Opus 5.5, Sonnet 5.5, Haiku 5.5 or Fable 5.5; the Model column follows the creator's own words. **As of early October Fable 5.5 is in limited preview and not yet announced**; posts where the creator is unsure are excluded. **Model attribution is as stated by each creator and was not independently reproduced.**
 - A prompt is listed only when it has a source: the post itself, the creator's own replies, a screenshot in those replies, or a link the creator shared. Prompts are kept verbatim, never rewritten or translated.
 - Works with a video but no traceable instruction are still listed, with the prompt column left empty.
 
 ## Motion graphics & UI
 
-253 works · [full list](cases/motion.md)
+259 works · [full list](cases/motion.md)
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -47,22 +47,22 @@ Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5, Sonnet 5
 
 ## Product demos & ads
 
-196 works · [full list](cases/product.md)
+199 works · [full list](cases/product.md)
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
 | [Buildable life-size LEGO duck design](https://x.com/victormustar/status/2103110908444631120) | Opus 5.5 | [@victormustar](https://x.com/victormustar) | 0:24 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103110908444631120) |
+| [Apple HomeView mock commercial](https://x.com/kevin_t_ngo/status/2110722582689546297) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 1:22 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2110722582689546297) |
 | [AI inference startup launch video](https://x.com/deedydas/status/2102787937482252537) | Opus 5.5 | [@deedydas](https://x.com/deedydas) | 0:26 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102787937482252537) |
 | [Working computer built from logic gates with OS](https://x.com/mattshumer_/status/2104301990985498783) | Opus 5.5 | [@mattshumer_](https://x.com/mattshumer_) | 1:02 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104301990985498783) |
 | [3D gym equipment builder app](https://x.com/wesbos/status/2102450119975277027) | Opus 5.5 | [@wesbos](https://x.com/wesbos) | 0:18 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102450119975277027) |
 | [Character builder with sliders demo](https://x.com/magnific/status/2104587476014964879) | Opus 5.5 | [@magnific](https://x.com/magnific) | 0:20 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104587476014964879) |
 | [Personal website redesign trailer](https://x.com/trq212/status/2102477340920152162) | Opus 5.5 | [@trq212](https://x.com/trq212) | 1:35 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102477340920152162) |
 | [Punchy ad video from a marketing email](https://x.com/gastypm/status/2102863204472799549) | Opus 5.5 | [@gastypm](https://x.com/gastypm) | 0:20 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102863204472799549) |
-| [iPhone Duo app redesign demo video](https://x.com/anshuc/status/2103598854801084824) | Opus 5.5 | [@anshuc](https://x.com/anshuc) | 1:00 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103598854801084824) |
 
 ## Explainers & education
 
-151 works · [full list](cases/education.md)
+154 works · [full list](cases/education.md)
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5, Sonnet 5
 
 ## Characters & stories
 
-166 works · [full list](cases/stories.md)
+170 works · [full list](cases/stories.md)
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5, Sonnet 5
 
 ## 3D worlds & simulations
 
-245 works · [full list](cases/art3d.md)
+252 works · [full list](cases/art3d.md)
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -107,7 +107,7 @@ Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5, Sonnet 5
 
 ## Games
 
-287 works · [full list](cases/game.md)
+299 works · [full list](cases/game.md)
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -122,7 +122,7 @@ Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5, Sonnet 5
 
 ## Music, editing & production
 
-123 works · [full list](cases/production.md)
+125 works · [full list](cases/production.md)
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -137,7 +137,7 @@ Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5, Sonnet 5
 
 ## Model comparisons
 
-276 works · [full list](cases/comparison.md)
+284 works · [full list](cases/comparison.md)
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|

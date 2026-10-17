@@ -1,6 +1,6 @@
 # Product demos & ads
 
-196 works, 38 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+199 works, 39 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -9,6 +9,7 @@
 | [Portfolio site built in three prompts](https://x.com/cambreedesigns/status/2104999693113766152) | Opus 5.5 | [@cambreedesigns](https://x.com/cambreedesigns) | 0:19 | — |
 | [Interactive Tokyo last-train map site](https://x.com/MatoToushi/status/2103643548163928183) | Opus 5.5 | [@MatoToushi](https://x.com/MatoToushi) | 1:02 | — |
 | [Interactive recalculating slide deck](https://x.com/uchita_success/status/2103786580838420912) | Opus 5.5 | [@uchita_success](https://x.com/uchita_success) | 0:31 | — |
+| [Apple HomeView mock commercial](https://x.com/kevin_t_ngo/status/2110722582689546297) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 1:22 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2110722582689546297) |
 | [Virtual office for managing coding agents](https://x.com/webdevcody/status/2103653857377292720) | Opus 5.5 | [@webdevcody](https://x.com/webdevcody) | 0:41 | — |
 | [Lyric video generator app JIZURA](https://x.com/8co28/status/2102572322016370781) | Opus 5.5 | [@8co28](https://x.com/8co28) | 1:46 | — |
 | [Intro video for Bend 2 programming language](https://x.com/VictorTaelin/status/2104568082169749982) | Opus 5.5 | [@VictorTaelin](https://x.com/VictorTaelin) | 1:30 | — |
@@ -33,6 +34,7 @@
 | [30-Second Product Promo](https://x.com/shownotover/status/2104124596957933687) | Opus 5.5 | [@shownotover](https://x.com/shownotover) | 0:30 | — |
 | [iPhone Duo app redesign demo video](https://x.com/anshuc/status/2103598854801084824) | Opus 5.5 | [@anshuc](https://x.com/anshuc) | 1:00 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103598854801084824) |
 | [Trade Journal open-source app edit](https://x.com/LuxAlgo/status/2104668775798739107) | Opus 5.5 | [@LuxAlgo](https://x.com/LuxAlgo) | 0:30 | — |
+| [Video sampler tool demo](https://x.com/eguri89/status/2110703030660378913) | Opus 5.5 | [@eguri89](https://x.com/eguri89) | 0:58 | — |
 | [Apple-style product launch video](https://x.com/twoclipping/status/2103835273813496100) | Opus 5.5 | [@twoclipping](https://x.com/twoclipping) | 0:29 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103835273813496100) |
 | [Redesigned railway station UX concept](https://x.com/jgarcelan/status/2103131351557763433) | Opus 5.5 | [@jgarcelan](https://x.com/jgarcelan) | 0:15 | — |
 | [Company tool rebuilt from its own repository](https://x.com/YoheiN2023/status/2103381925671104732) | Opus 5.5 | [@YoheiN2023](https://x.com/YoheiN2023) | 0:15 | — |
@@ -183,6 +185,7 @@
 | [Disk space analyzer utility app](https://x.com/SonofNun/status/2103589196472766505) | Opus 5.5 | [@SonofNun](https://x.com/SonofNun) | 1:40 | — |
 | [Franco-Belgian comic style coffee ad](https://x.com/jeanalexandre_b/status/2103514734716977599) | Opus 5.5 | [@jeanalexandre_b](https://x.com/jeanalexandre_b) | 1:25 | — |
 | [Book promotional video](https://x.com/ama_ch/status/2103621603628306747) | Opus 5.5 | [@ama_ch](https://x.com/ama_ch) | 1:06 | — |
+| [Animated eagle finance assistant demo](https://x.com/rork/status/2110788460596310311) | Opus 5.5 | [@rork](https://x.com/rork) | 1:16 | — |
 | [Brand showreel from guidelines and website](https://x.com/AidinShahi/status/2103898861177880665) | Opus 5.5 | [@AidinShahi](https://x.com/AidinShahi) | 0:55 | — |
 | [Automation platform one-shot demo](https://x.com/getlindy/status/2103596650401018048) | Opus 5.5 | [@getlindy](https://x.com/getlindy) | 0:12 | — |
 | [Website promo video from a short request](https://x.com/sankenainai/status/2103340873773916491) | Opus 5.5 | [@sankenainai](https://x.com/sankenainai) | 0:29 | — |

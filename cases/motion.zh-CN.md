@@ -1,6 +1,6 @@
 # 动效设计
 
-共 253 个作品，其中 87 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 259 个作品，其中 87 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [纯代码生成的视频演示](https://x.com/bridgemindai/status/2103530750767206626) | Opus 5.5 | [@bridgemindai](https://x.com/bridgemindai) | 1:00 | — |
 | [JS动画配钢琴曲创作](https://x.com/kevin_t_ngo/status/2103482164193165711) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 0:45 | — |
 | [代码生成的视听动画](https://x.com/AndyL5cc/status/2104060535415476361) | Opus 5.5 | [@AndyL5cc](https://x.com/AndyL5cc) | 2:48 | — |
+| [基于PDF手册制作的动态设计](https://x.com/flxrnc/status/2110726928315654630) | Opus 5.5 | [@flxrnc](https://x.com/flxrnc) | 0:16 | — |
 | [带背景音乐的星期提示动效](https://x.com/nokonoko_1203/status/2105922366190784915) | Opus 5.5 | [@nokonoko_1203](https://x.com/nokonoko_1203) | 0:30 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2105922366190784915) |
 | [CoAnimator 应用动画演示](https://x.com/rege_dev/status/2102498682931441977) | Opus 5.5 | [@rege_dev](https://x.com/rege_dev) | 0:50 | — |
 | [15 秒动效设计师自荐片 · @leonabboud 版](https://x.com/leonabboud/status/2103576084499358051) | Opus 5.5 | [@leonabboud](https://x.com/leonabboud) | 0:15 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103576084499358051) |
@@ -60,6 +61,7 @@
 | [静态设计动画化演示](https://x.com/Onethirdesigner/status/2103749509616648627) | Opus 5.5 | [@Onethirdesigner](https://x.com/Onethirdesigner) | 0:07 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103749509616648627) |
 | [模仿参考动效质量的尝试作品](https://x.com/makwanatejas170/status/2103922986155917592) | Opus 5.5 | [@makwanatejas170](https://x.com/makwanatejas170) | 0:16 | — |
 | [用于宣传和课程的动画示例](https://x.com/mahiru35628/status/2102802579499700704) | Opus 5.5 | [@mahiru35628](https://x.com/mahiru35628) | 0:45 | — |
+| [起号视频技能演示](https://x.com/xiaohu/status/2110729141289107485) | Opus 5.5 | [@xiaohu](https://x.com/xiaohu) | 1:48 | — |
 | [15 个 Agent 协作的 4 分钟 2D 动画](https://x.com/ALSK_ai/status/2103135536634630632) | Opus 5.5 | [@ALSK_ai](https://x.com/ALSK_ai) | 1:00 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103135536634630632) |
 | [具有节奏感的动效设计片段](https://x.com/Sultan_Magfory/status/2103913014680535156) | Opus 5.5 | [@Sultan_Magfory](https://x.com/Sultan_Magfory) | 0:15 | — |
 | [Distilbook动效展示视频](https://x.com/ajith_io/status/2103469807375208546) | Opus 5.5 | [@ajith_io](https://x.com/ajith_io) | 0:40 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103469807375208546) |
@@ -89,6 +91,7 @@
 | [滚动触发的生成式网页重设计工具](https://x.com/0xCarnagee/status/2103616720007032874) | Opus 5.5 | [@0xCarnagee](https://x.com/0xCarnagee) | 0:40 | — |
 | [为朋友制作的动效视频](https://x.com/Saeiid/status/2103823130057757180) | Opus 5.5 | [@Saeiid](https://x.com/Saeiid) | 1:05 | — |
 | [随意指令一次生成的视频](https://x.com/Suzacque/status/2102677738066956688) | Opus 5.5 | [@Suzacque](https://x.com/Suzacque) | 0:31 | — |
+| [人体解剖动态揭示技能演示](https://x.com/0xMovez/status/2110735931401457935) | Opus 5.5 | [@0xMovez](https://x.com/0xMovez) | 0:12 | — |
 | [风景无限缩放循环动画](https://x.com/koldo2k/status/2103129343253778767) | Opus 5.5 | [@koldo2k](https://x.com/koldo2k) | 0:20 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103129343253778767) |
 | [用slop cannon MCP制作的视频](https://x.com/boneGPT/status/2102484877941911734) | Opus 5.5 | [@boneGPT](https://x.com/boneGPT) | 1:20 | — |
 | [用 brag skill 做的苹果风发布视频](https://x.com/0xhrushi/status/2103392921559126157) | Opus 5.5 | [@0xhrushi](https://x.com/0xhrushi) | 0:25 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103392921559126157) |
@@ -144,6 +147,7 @@
 | [网站15秒动效展示视频](https://x.com/melvynx/status/2103714680577638493) | Opus 5.5 | [@melvynx](https://x.com/melvynx) | 0:45 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103714680577638493) |
 | [节拍同步的K-pop动效音乐视频](https://x.com/minchoi/status/2110001964402831512) | Opus 5.5 | [@minchoi](https://x.com/minchoi) | 3:51 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2110001964402831512) |
 | [武术短片改制的动画片头](https://x.com/aimikoda/status/2110119492076404869) | Opus 5.5 | [@aimikoda](https://x.com/aimikoda) | 0:32 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2110119492076404869) |
+| [代码生成的个人风格视频](https://x.com/sarpstar/status/2110741762159288825) | Opus 5.5 | [@sarpstar](https://x.com/sarpstar) | 0:35 | — |
 | [一句提示词生成的广告视频](https://x.com/Nour_Sofanati/status/2103653780327641130) | Opus 5.5 | [@Nour_Sofanati](https://x.com/Nour_Sofanati) | 0:35 | — |
 | [15秒动效展示](https://x.com/Saccc_c/status/2106376222309761094) | Opus 5.5 / Fable 5.5 (preview) | [@Saccc_c](https://x.com/Saccc_c) | 0:15 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2106376222309761094) |
 | [点元素主题动态视频](https://x.com/seiiiiiiiiiiru/status/2107018580265201724) | Opus 5.5 | [@seiiiiiiiiiiru](https://x.com/seiiiiiiiiiiru) | 0:15 | — |
@@ -158,6 +162,7 @@
 | [Unity粒子特效Logo变形动画](https://x.com/_3912657840/status/2103417471063736729) | Opus 5.5 | [@_3912657840](https://x.com/_3912657840) | 0:07 | — |
 | [TypingMind的Logo揭示动效视频](https://x.com/tdinh_me/status/2103704250329301409) | Opus 5.5 | [@tdinh_me](https://x.com/tdinh_me) | 0:21 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103704250329301409) |
 | [代码绘画动画](https://x.com/chetaslua/status/2106833074302710023) | Fable 5.5 (preview) | [@chetaslua](https://x.com/chetaslua) | 0:44 | — |
+| [无需关键帧的键盘打字动画](https://x.com/seeconvm/status/2110770664101527568) | Opus 5.5 | [@seeconvm](https://x.com/seeconvm) | 0:12 | — |
 | [通过MCP在After Effects中制作的动效](https://x.com/higgsfield_ai/status/2103853474098352326) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:12 | — |
 | [YouTube片头动画](https://x.com/franperez_fp/status/2104709328238199145) | Sonnet 5.5 | [@franperez_fp](https://x.com/franperez_fp) | 0:09 | — |
 | [依参考视频复刻的动态设计](https://x.com/gxjo_dev/status/2108632470551933011) | Opus 5.5 | [@gxjo_dev](https://x.com/gxjo_dev) | 0:19 | — |
@@ -241,6 +246,7 @@
 | [带品牌视觉的动效设计师展示片](https://x.com/lukasersil/status/2103742861971726495) | Opus 5.5 | [@lukasersil](https://x.com/lukasersil) | 0:15 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103742861971726495) |
 | [教师节主题手写动效短片](https://x.com/youssef_aymanc/status/2107466191178711054) | Opus 5.5 | [@youssef_aymanc](https://x.com/youssef_aymanc) | 0:33 | — |
 | [PUNCTUM点阵字体互动网站](https://x.com/sundyme/status/2107108673407627533) | Opus 5.5 | [@sundyme](https://x.com/sundyme) | 1:06 | — |
+| [重制的运动图形效果](https://x.com/trymirage/status/2110845066747007314) | Opus 5.5 | [@trymirage](https://x.com/trymirage) | 0:08 | — |
 | [mounis.app 应用发布动效片](https://x.com/MustaphaFenzar/status/2103708363074973906) | Opus 5.5 | [@MustaphaFenzar](https://x.com/MustaphaFenzar) | 0:15 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103708363074973906) |
 | [多种AI工具合成的UI动画](https://x.com/yitong/status/2110463528754880952) | Opus 5.5 | [@yitong](https://x.com/yitong) | 0:14 | — |
 | [代码生成的扁平插画鼹鼠动画](https://x.com/onofumi_AI/status/2102696204249526348) | Opus 5.5 | [@onofumi_AI](https://x.com/onofumi_AI) | 0:20 | — |

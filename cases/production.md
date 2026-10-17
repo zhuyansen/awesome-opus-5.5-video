@@ -1,6 +1,6 @@
 # Music, editing & production
 
-123 works, 22 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+125 works, 22 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Video combining Opus 5.5 visuals and TTS voice](https://x.com/lucky_note_lab/status/2103630446202667376) | Opus 5.5 | [@lucky_note_lab](https://x.com/lucky_note_lab) | 1:41 | — |
 | [AI Music Video with Automated Production](https://x.com/maxescu/status/2106395987996536913) | Opus 5.5 | [@maxescu](https://x.com/maxescu) | 3:20 | — |
 | [Short form video fully edited by AI](https://x.com/mehulmpt/status/2103639263271367140) | Opus 5.5 | [@mehulmpt](https://x.com/mehulmpt) | 0:49 | — |
+| [Claude Opus 5.5 video editing and VFX test](https://x.com/chetaslua/status/2110630223284933115) | Opus 5.5 | [@chetaslua](https://x.com/chetaslua) | 1:03 | — |
 | [AI-assisted video editing demo](https://x.com/shraddhaha/status/2103552356495597990) | Opus 5.5 | [@shraddhaha](https://x.com/shraddhaha) | 0:30 | — |
 | [AI video editing from raw footage](https://x.com/lewangx/status/2103523508957446423) | Opus 5.5 | [@lewangx](https://x.com/lewangx) | 0:42 | — |
 | [Automated three-minute AI news explainer video](https://x.com/old_pgmrs_will/status/2108908117874635170) | Opus 5.5 | [@old_pgmrs_will](https://x.com/old_pgmrs_will) | 2:53 | — |
@@ -126,4 +127,5 @@
 | [Article-to-video generation for social posting](https://x.com/affnom_y/status/2103722878697083380) | Opus 5.5 | [@affnom_y](https://x.com/affnom_y) | 0:26 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103722878697083380) |
 | [PCB design pipeline demo](https://x.com/VectorCrossProd/status/2109610532365857198) | Opus 5.5 | [@VectorCrossProd](https://x.com/VectorCrossProd) | 1:00 | — |
 | [Multi-tool AI video production piece](https://x.com/MakeAI_CEO/status/2102955436957983065) | Opus 5.5 | [@MakeAI_CEO](https://x.com/MakeAI_CEO) | 9:28 | — |
+| [Making-of video for Carla Botcoin music video](https://x.com/WalkerAmerica/status/2110825075729727875) | Opus 5.5 | [@WalkerAmerica](https://x.com/WalkerAmerica) | 1:01 | — |
 | [Channel intro video edited from clips](https://x.com/kazunoko575/status/2103390803192352888) | Opus 5.5 | [@kazunoko575](https://x.com/kazunoko575) | 0:52 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103390803192352888) |

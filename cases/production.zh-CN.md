@@ -1,6 +1,6 @@
 # 制作流程
 
-共 123 个作品，其中 22 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 125 个作品，其中 22 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [结合Opus 5.5画面与TTS配音的视频](https://x.com/lucky_note_lab/status/2103630446202667376) | Opus 5.5 | [@lucky_note_lab](https://x.com/lucky_note_lab) | 1:41 | — |
 | [自动化制作的AI音乐视频](https://x.com/maxescu/status/2106395987996536913) | Opus 5.5 | [@maxescu](https://x.com/maxescu) | 3:20 | — |
 | [AI全程剪辑的短视频](https://x.com/mehulmpt/status/2103639263271367140) | Opus 5.5 | [@mehulmpt](https://x.com/mehulmpt) | 0:49 | — |
+| [Claude Opus 5.5视频剪辑特效测试](https://x.com/chetaslua/status/2110630223284933115) | Opus 5.5 | [@chetaslua](https://x.com/chetaslua) | 1:03 | — |
 | [AI辅助视频剪辑演示](https://x.com/shraddhaha/status/2103552356495597990) | Opus 5.5 | [@shraddhaha](https://x.com/shraddhaha) | 0:30 | — |
 | [用原始素材剪辑出的AI视频](https://x.com/lewangx/status/2103523508957446423) | Opus 5.5 | [@lewangx](https://x.com/lewangx) | 0:42 | — |
 | [全自动生成的三分钟AI新闻解说视频](https://x.com/old_pgmrs_will/status/2108908117874635170) | Opus 5.5 | [@old_pgmrs_will](https://x.com/old_pgmrs_will) | 2:53 | — |
@@ -126,4 +127,5 @@
 | [根据文章自动生成视频并发布](https://x.com/affnom_y/status/2103722878697083380) | Opus 5.5 | [@affnom_y](https://x.com/affnom_y) | 0:26 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103722878697083380) |
 | [PCB设计流程演示](https://x.com/VectorCrossProd/status/2109610532365857198) | Opus 5.5 | [@VectorCrossProd](https://x.com/VectorCrossProd) | 1:00 | — |
 | [多工具AI视频制作作品](https://x.com/MakeAI_CEO/status/2102955436957983065) | Opus 5.5 | [@MakeAI_CEO](https://x.com/MakeAI_CEO) | 9:28 | — |
+| [《Carla Botcoin》音乐视频幕后制作花絮](https://x.com/WalkerAmerica/status/2110825075729727875) | Opus 5.5 | [@WalkerAmerica](https://x.com/WalkerAmerica) | 1:01 | — |
 | [用素材剪辑的频道介绍视频](https://x.com/kazunoko575/status/2103390803192352888) | Opus 5.5 | [@kazunoko575](https://x.com/kazunoko575) | 0:52 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103390803192352888) |

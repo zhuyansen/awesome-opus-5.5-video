@@ -1,6 +1,6 @@
 # 3D 场景
 
-共 245 个作品，其中 56 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 252 个作品，其中 58 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [天神地下街3D漫游](https://x.com/soh__y/status/2105264440413405488) | Opus 5.5 | [@soh__y](https://x.com/soh__y) | 0:29 | — |
 | [轻松产出的令人惊艳的Opus 5.5作品](https://x.com/wolfie_/status/2103472862757896486) | Opus 5.5 | [@wolfie_](https://x.com/wolfie_) | 2:26 | — |
 | [带音效的像素艺术场景](https://x.com/peekcell/status/2102796895982878850) | Opus 5.5 | [@peekcell](https://x.com/peekcell) | 0:15 | — |
+| [用Python在Blender中制作的3D动画](https://x.com/chetaslua/status/2110808933074092371) | Opus 5.5 / Fable 5.5 (preview) | [@chetaslua](https://x.com/chetaslua) | 1:42 | — |
 | [通过BlenderMCP自动生成的3D影片](https://x.com/KOSAKA_Jun/status/2109440153035088100) | Opus 5.5 | [@KOSAKA_Jun](https://x.com/KOSAKA_Jun) | 0:20 | — |
 | [用Python和Blender制作的3D动画](https://x.com/kevin_t_ngo/status/2110010240825737683) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 0:28 | — |
 | [河道非均匀流可视化](https://x.com/dobokuya77/status/2106604492728967620) | Opus 5.5 | [@dobokuya77](https://x.com/dobokuya77) | 0:46 | — |
@@ -119,7 +120,9 @@
 | [滚动生成房屋的平面图动画](https://x.com/SammmAing/status/2109708195031900310) | Opus 5.5 | [@SammmAing](https://x.com/SammmAing) | 0:57 | — |
 | [纯代码构建的水上飞机3D模型](https://x.com/maxt3chno/status/2107112922354790508) | Opus 5.5 | [@maxt3chno](https://x.com/maxt3chno) | 1:46 | — |
 | [使用个人VRM模型渲染的Blender场景](https://x.com/midori_tatsuta/status/2109609040716452113) | Opus 5.5 | [@midori_tatsuta](https://x.com/midori_tatsuta) | 0:10 | — |
+| [用Blender制作的虚构书房场景](https://x.com/shion_takk/status/2110896887096369573) | Opus 5.5 / Sonnet 5.5 | [@shion_takk](https://x.com/shion_takk) | 0:36 | — |
 | [Three.js生成式3D体验](https://x.com/chetanankola/status/2103008022369099992) | Opus 5.5 | [@chetanankola](https://x.com/chetanankola) | 0:28 | — |
+| [黄金时刻日式寺庙三维场景](https://x.com/LexnLin/status/2110657641831956870) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 1:10 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2110657641831956870) |
 | [参考照片生成的赛璐璐风格3D场景](https://x.com/ishuagra02/status/2102543638689460488) | Opus 5.5 | [@ishuagra02](https://x.com/ishuagra02) | 0:49 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102543638689460488) |
 | [90年代风格C/OpenGL演示动画](https://x.com/gandamu_ml/status/2102919394775220530) | Opus 5.5 | [@gandamu_ml](https://x.com/gandamu_ml) | 6:23 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102919394775220530) |
 | [像素艺术动画展示](https://x.com/SpikeRiser/status/2102888874858959029) | Opus 5.5 | [@SpikeRiser](https://x.com/SpikeRiser) | 4:07 | — |
@@ -153,6 +156,8 @@
 | [开源Blender黏土动画技能演示](https://x.com/angrypenguinPNG/status/2103205636662341661) | Opus 5.5 | [@angrypenguinPNG](https://x.com/angrypenguinPNG) | 0:20 | — |
 | [用Opus 5.5制作的3D水道场景](https://x.com/nachat_dayo/status/2109769320050090381) | Opus 5.5 | [@nachat_dayo](https://x.com/nachat_dayo) | 0:53 | — |
 | [逐步3D厨房改造方案](https://x.com/Skylartkitchen/status/2103468829859020824) | Opus 5.5 | [@Skylartkitchen](https://x.com/Skylartkitchen) | 1:02 | — |
+| [浏览器中可交互的3D果冻橙子](https://x.com/vib3coded/status/2110665495221268915) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:18 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2110665495221268915) |
+| [生成式建筑着色器演示](https://x.com/jshguo/status/2110699640664600906) | Sonnet 5.5 | [@jshguo](https://x.com/jshguo) | 0:22 | — |
 | [可漫游3D博物馆导览](https://x.com/mohamedbakuly/status/2102746374450094323) | Opus 5.5 | [@mohamedbakuly](https://x.com/mohamedbakuly) | 1:59 | — |
 | [灵性风格生成艺术](https://x.com/sato_neet/status/2102652916335296913) | Opus 5.5 | [@sato_neet](https://x.com/sato_neet) | 1:04 | — |
 | [无文字呈现人类史上最大骗局的画面](https://x.com/Kadiner_ir/status/2105910487015674058) | Opus 5.5 | [@Kadiner_ir](https://x.com/Kadiner_ir) | 0:15 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2105910487015674058) |
@@ -203,6 +208,7 @@
 | [3D角色舞蹈动作复刻](https://x.com/Maoku/status/2103663270616039723) | Opus 5.5 | [@Maoku](https://x.com/Maoku) | 0:20 | — |
 | [物流码垛机器人仿真演示](https://x.com/neka_nat/status/2103728863666896933) | Opus 5.5 | [@neka_nat](https://x.com/neka_nat) | 0:26 | — |
 | [程序化法术特效与音效](https://x.com/majidmanzarpour/status/2102586912993116411) | Opus 5.5 | [@majidmanzarpour](https://x.com/majidmanzarpour) | 1:39 | — |
+| [浏览器天空云层渲染项目](https://x.com/maxt3chno/status/2110832228775371226) | Opus 5.5 | [@maxt3chno](https://x.com/maxt3chno) | 1:39 | — |
 | [西瓜果冻Three.js互动实验](https://x.com/Abmankendrick/status/2105675232954474831) | Opus 5.5 | [@Abmankendrick](https://x.com/Abmankendrick) | 0:27 | — |
 | [手机端制作的3D预演动画测试](https://x.com/z933TfmXkaISSVc/status/2102758740483305832) | Opus 5.5 | [@z933TfmXkaISSVc](https://x.com/z933TfmXkaISSVc) | 0:14 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102758740483305832) |
 | [Opus 5.5自我迭代的第二版演示](https://x.com/dashiAIxz/status/2103781641613439104) | Opus 5.5 | [@dashiAIxz](https://x.com/dashiAIxz) | 0:30 | — |
@@ -243,6 +249,7 @@
 | [代码生成的特斯拉跑车模型](https://x.com/majidmanzarpour/status/2109042101019156848) | Opus 5.5 | [@majidmanzarpour](https://x.com/majidmanzarpour) | 1:01 | — |
 | [训练Opus绘制像素画技能](https://x.com/BeamManP/status/2103555482095149320) | Opus 5.5 | [@BeamManP](https://x.com/BeamManP) | 0:45 | — |
 | [Blender制作的JRPG风格体素场景](https://x.com/gunsturn_tw/status/2103089094666686850) | Opus 5.5 | [@gunsturn_tw](https://x.com/gunsturn_tw) | 1:00 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103089094666686850) |
+| [电动机工厂三维场景](https://x.com/konstantinsaifo/status/2110757897600716906) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 0:44 | — |
 | [体素宝塔](https://x.com/LuminaBench/status/2107965327040475264) | Haiku 5.5 | [@LuminaBench](https://x.com/LuminaBench) | 0:13 | — |
 | [纯代码生成的概念车模型](https://x.com/techartist_/status/2104715277120180702) | Sonnet 5.5 | [@techartist_](https://x.com/techartist_) | 0:18 | — |
 | [粒子水模拟与光线行进渲染](https://x.com/hartspecs/status/2105715231884468384) | Opus 5.5 | [@hartspecs](https://x.com/hartspecs) | 0:21 | — |
