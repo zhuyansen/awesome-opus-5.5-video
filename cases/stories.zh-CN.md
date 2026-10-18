@@ -1,6 +1,6 @@
 # 角色故事
 
-共 170 个作品，其中 43 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 177 个作品，其中 44 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [奇点体验可视化短片](https://x.com/dirtman/status/2103686605517287620) | Opus 5.5 | [@dirtman](https://x.com/dirtman) | 2:26 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103686605517287620) |
 | [关于邪恶计划的动画音乐视频](https://x.com/_brightmirror/status/2105714071681343654) | Opus 5.5 | [@_brightmirror](https://x.com/_brightmirror) | 6:18 | — |
 | [AI真实感视频制作流程演示](https://x.com/abxxai/status/2102775755646337530) | Opus 5.5 | [@abxxai](https://x.com/abxxai) | 0:19 | — |
+| [AI动画短片《Gus & Spark》](https://x.com/ziwenxu_/status/2111212505947357651) | Opus 5.5 / Fable 5.5 (preview) | [@ziwenxu_](https://x.com/ziwenxu_) | 25:43 | — |
 | [《乌托邦》实拍与动画合成音乐视频](https://x.com/tapehead_Lab/status/2108150421298753595) | Opus 5.5 | [@tapehead_Lab](https://x.com/tapehead_Lab) | 3:43 | — |
 | [桃花源记三维互动场景](https://x.com/dotey/status/2102940980379017293) | Opus 5.5 | [@dotey](https://x.com/dotey) | 4:17 | — |
 | [用代码讲述土耳其咖啡的历史](https://x.com/Avenoxai/status/2104825754114810104) | Sonnet 5.5 | [@Avenoxai](https://x.com/Avenoxai) | 1:19 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104825754114810104) |
@@ -83,6 +84,7 @@
 | [源自神学研究的反思视频](https://x.com/Skoorbkaz/status/2102720902773322034) | Opus 5.5 | [@Skoorbkaz](https://x.com/Skoorbkaz) | 6:14 | — |
 | [具有情感叙事的互动网站](https://x.com/Da7_Tech/status/2102794245241548839) | Opus 5.5 | [@Da7_Tech](https://x.com/Da7_Tech) | 1:50 | — |
 | [逐帧代码渲染音乐视频](https://x.com/vinceflibustier/status/2103590659852751268) | Opus 5.5 | [@vinceflibustier](https://x.com/vinceflibustier) | 4:47 | — |
+| [AI制作的音乐MV](https://x.com/azukichan_ai_/status/2111324712500621694) | Opus 5.5 | [@azukichan_ai_](https://x.com/azukichan_ai_) | 2:28 | — |
 | [2010-2026网络热梗动画](https://x.com/chetaslua/status/2106076940558082297) | Fable 5.5 (preview) | [@chetaslua](https://x.com/chetaslua) | 1:38 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2106076940558082297) |
 | [《从石头到AI》短片](https://x.com/devteamdrew/status/2103523994440012086) | Opus 5.5 | [@devteamdrew](https://x.com/devteamdrew) | 3:00 | — |
 | [个人旅行回顾视频](https://x.com/__oQuery/status/2103819121821728993) | Opus 5.5 | [@__oQuery](https://x.com/__oQuery) | 3:37 | — |
@@ -101,6 +103,7 @@
 | [AI在等待间隙的梦境短片](https://x.com/Skoorbkaz/status/2103346477963550960) | Opus 5.5 | [@Skoorbkaz](https://x.com/Skoorbkaz) | 2:32 | — |
 | [初音未来《Hold Swarm》音乐视频](https://x.com/chaotictransfem/status/2105011559756181620) | Opus 5.5 | [@chaotictransfem](https://x.com/chaotictransfem) | 3:58 | — |
 | [致敬视频一次性生成](https://x.com/chetaslua/status/2102717699600368045) | Opus 5.5 | [@chetaslua](https://x.com/chetaslua) | 3:18 | — |
+| [我能把我的10%给你吗](https://x.com/DaphneRHansell/status/2111106459408986368) | Opus 5.5 | [@DaphneRHansell](https://x.com/DaphneRHansell) | 2:24 | — |
 | [苏联主题历史剪辑视频](https://x.com/Avinash25467/status/2104007585166991778) | Opus 5.5 | [@Avinash25467](https://x.com/Avinash25467) | 2:19 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104007585166991778) |
 | [AI漫画配音版第一章](https://x.com/zerozakiyamo/status/2108696942108938245) | Opus 5.5 | [@zerozakiyamo](https://x.com/zerozakiyamo) | 5:52 | — |
 | [《To What End》AI音乐视频](https://x.com/repligate/status/2104124976156786925) | Opus 5.5 | [@repligate](https://x.com/repligate) | 2:33 | — |
@@ -120,6 +123,7 @@
 | [为Claude创作歌曲制作的动画音乐视频](https://x.com/Skoorbkaz/status/2102973119115690211) | Opus 5.5 | [@Skoorbkaz](https://x.com/Skoorbkaz) | 5:13 | — |
 | [奔跑的炸鸡腿角色动画](https://x.com/whydeso/status/2107754210746134748) | Opus 5.5 | [@whydeso](https://x.com/whydeso) | 0:17 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2107754210746134748) |
 | [博尔赫斯风格双线叙事短片](https://x.com/julianleiss/status/2108625504450592923) | Opus 5.5 | [@julianleiss](https://x.com/julianleiss) | 0:36 | — |
+| [有声手绘故事绘本动画](https://x.com/HaileyAILabs/status/2110975805899825394) | Opus 5.5 | [@HaileyAILabs](https://x.com/HaileyAILabs) | 3:47 | — |
 | [多工具协作的真人风格MV](https://x.com/ai6vyy/status/2103415770973958400) | Opus 5.5 | [@ai6vyy](https://x.com/ai6vyy) | 1:30 | — |
 | [音乐人非官方粉丝视频](https://x.com/ystknsh/status/2102766871007436993) | Opus 5.5 | [@ystknsh](https://x.com/ystknsh) | 0:30 | — |
 | [自称AGI的动画短片](https://x.com/AndrewOnXYZ/status/2106097745098395712) | Fable 5.5 (preview) | [@AndrewOnXYZ](https://x.com/AndrewOnXYZ) | 4:26 | — |
@@ -127,6 +131,7 @@
 | [3D场景AITuber镜头切换演示](https://x.com/ivy432hz/status/2105269408537235572) | Opus 5.5 | [@ivy432hz](https://x.com/ivy432hz) | 0:06 | — |
 | [柏拉图《普罗泰戈拉》改编电影片段](https://x.com/danshipper/status/2103850415930708437) | Opus 5.5 | [@danshipper](https://x.com/danshipper) | 3:10 | — |
 | [水墨动画《小蝌蚪找妈妈》](https://x.com/akokoi1/status/2102699703309898026) | Opus 5.5 | [@akokoi1](https://x.com/akokoi1) | 3:55 | — |
+| [根据mp3歌曲生成的动画歌词视频](https://x.com/AIMevzulari/status/2110989121682559063) | Opus 5.5 | [@AIMevzulari](https://x.com/AIMevzulari) | 2:43 | — |
 | [外星人探索巴别图书馆](https://x.com/jackclarkSF/status/2103569043836027339) | Opus 5.5 | [@jackclarkSF](https://x.com/jackclarkSF) | 1:00 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103569043836027339) |
 | [中秋动画短片正式版发布](https://x.com/ring_hyacinth/status/2103476866917290441) | Opus 5.5 | [@ring_hyacinth](https://x.com/ring_hyacinth) | 0:41 | — |
 | [用说唱MV演绎的论文解读视频](https://x.com/Tz_2022/status/2103683260144292176) | Opus 5.5 | [@Tz_2022](https://x.com/Tz_2022) | 3:43 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103683260144292176) |
@@ -138,6 +143,7 @@
 | [AI旅行日志动画](https://x.com/arni0x9053/status/2103143902723096848) | Opus 5.5 | [@arni0x9053](https://x.com/arni0x9053) | 1:34 | — |
 | [用JavaScript绘制的动画角色演出](https://x.com/doerstokyo342/status/2105794894383968649) | Opus 5.5 | [@doerstokyo342](https://x.com/doerstokyo342) | 0:30 | — |
 | [人工创造力](https://x.com/IntuitMachine/status/2105941630885016018) | Opus 5.5 | [@IntuitMachine](https://x.com/IntuitMachine) | 34:19 | — |
+| [海外AI对国人态度小剧场](https://x.com/Gorden_Sun/status/2111111416120053953) | Opus 5.5 | [@Gorden_Sun](https://x.com/Gorden_Sun) | 0:58 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2111111416120053953) |
 | [霍尔木兹海峡辩论动画](https://x.com/chetaslua/status/2106060047805792415) | Fable 5.5 (preview) | [@chetaslua](https://x.com/chetaslua) | 1:04 | — |
 | [《撕裂的末日》风格AI视频剪辑](https://x.com/Xanderwow_A/status/2109951019706651045) | Opus 5.5 | [@Xanderwow_A](https://x.com/Xanderwow_A) | 1:37 | — |
 | [中秋艺术短片与音乐改编](https://x.com/op7418/status/2103520946841862312) | Opus 5.5 | [@op7418](https://x.com/op7418) | 0:27 | — |
@@ -169,6 +175,7 @@
 | [纸拼贴风桃太郎动画](https://x.com/tanabe_fragm/status/2110931024469540979) | Opus 5.5 | [@tanabe_fragm](https://x.com/tanabe_fragm) | 0:46 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2110931024469540979) |
 | [指环王开场场景重现](https://x.com/devteamdrew/status/2110433119731945964) | Opus 5.5 | [@devteamdrew](https://x.com/devteamdrew) | 1:33 | — |
 | [JavaScript编写的儿童短片](https://x.com/thebuggeddev/status/2103677413913976912) | Opus 5.5 | [@thebuggeddev](https://x.com/thebuggeddev) | 1:44 | — |
+| [NURSE RIOT AI音乐视频](https://x.com/mi7_crypto/status/2109834099217285170) | Opus 5.5 | [@mi7_crypto](https://x.com/mi7_crypto) | 1:00 | — |
 | [根据市场报告一次生成的叙事视频](https://x.com/dfolloni/status/2110413422458241228) | Opus 5.5 | [@dfolloni](https://x.com/dfolloni) | 1:21 | — |
 | [纯代码制作的动漫风格视频](https://x.com/makwanatejas170/status/2103703815514173697) | Opus 5.5 | [@makwanatejas170](https://x.com/makwanatejas170) | 1:20 | — |
 | [《日出之前》短片动画](https://x.com/aimikoda/status/2110450438638342283) | Opus 5.5 | [@aimikoda](https://x.com/aimikoda) | 0:30 | — |

@@ -1,6 +1,6 @@
 # 动效设计
 
-共 259 个作品，其中 87 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 262 个作品，其中 87 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [公司宣传动效广告](https://x.com/showheyohtaki/status/2104095944686051492) | Opus 5.5 | [@showheyohtaki](https://x.com/showheyohtaki) | 0:30 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104095944686051492) |
 | [美食App产品发布短片](https://x.com/ultimaxbt/status/2108210884799549714) | Opus 5.5 | [@ultimaxbt](https://x.com/ultimaxbt) | 0:16 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2108210884799549714) |
 | [音效改进的动态短片](https://x.com/LexnLin/status/2109718604883370450) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 0:40 | — |
+| [生成的动画片段](https://x.com/driftauz/status/2111109055955763570) | Opus 5.5 | [@driftauz](https://x.com/driftauz) | 0:12 | — |
 | [令人惊艳的AI生成视频](https://x.com/GregorySchier/status/2103573891629371497) | Opus 5.5 | [@GregorySchier](https://x.com/GregorySchier) | 0:30 | — |
 | [文件加密传输原理可视化](https://x.com/SyntaxDiffusion/status/2103182358635532377) | Opus 5.5 | [@SyntaxDiffusion](https://x.com/SyntaxDiffusion) | 1:36 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103182358635532377) |
 | [媒体工具展示片动效](https://x.com/ismailfahmi/status/2103759320664219750) | Opus 5.5 | [@ismailfahmi](https://x.com/ismailfahmi) | 2:08 | — |
@@ -234,6 +235,7 @@
 | [以"过度思考"为主题的动效展示片](https://x.com/gizakdag/status/2103566030916239768) | Opus 5.5 | [@gizakdag](https://x.com/gizakdag) | 0:15 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103566030916239768) |
 | [插画电影感动态场景](https://x.com/shironagasu_ai/status/2106299981875347740) | Opus 5.5 | [@shironagasu_ai](https://x.com/shironagasu_ai) | 0:10 | — |
 | [AI辅助制作的动效视频](https://x.com/ai4everyday/status/2105715960220983304) | Opus 5.5 | [@ai4everyday](https://x.com/ai4everyday) | 0:10 | — |
+| [动画视觉作品](https://x.com/devteamdrew/status/2110156508097110075) | Opus 5.5 / Fable 5.5 (preview) | [@devteamdrew](https://x.com/devteamdrew) | 1:05 | — |
 | [时尚海报动态设计](https://x.com/ponzponz15/status/2106266004515172366) | Opus 5.5 | [@ponzponz15](https://x.com/ponzponz15) | 0:46 | — |
 | [基于简历生成的动效展示视频](https://x.com/vedolos/status/2103520155640938565) | Opus 5.5 | [@vedolos](https://x.com/vedolos) | 0:15 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103520155640938565) |
 | [用 Blender 重制 Figma 教程](https://x.com/alex_barashkov/status/2106055084421353954) | Opus 5.5 | [@alex_barashkov](https://x.com/alex_barashkov) | 0:05 | — |
@@ -262,4 +264,5 @@
 | [令人惊叹的AI演示反应视频](https://x.com/dcbruck/status/2103549268321783859) | Opus 5.5 | [@dcbruck](https://x.com/dcbruck) | 0:15 | — |
 | [Opus 5.5动画质量演示](https://x.com/makisuo/status/2103613318497997215) | Opus 5.5 | [@makisuo](https://x.com/makisuo) | 0:15 | — |
 | [未说明内容的视频作品展示](https://x.com/GPTabby/status/2103581801490809069) | Opus 5.5 | [@GPTabby](https://x.com/GPTabby) | 3:51 | — |
+| [短篇动画](https://x.com/fakharkamario/status/2110218646689599861) | Opus 5.5 | [@fakharkamario](https://x.com/fakharkamario) | 0:10 | — |
 | [Google Apps Script主题视频](https://x.com/kimura_0314/status/2102682159668720109) | Opus 5.5 | [@kimura_0314](https://x.com/kimura_0314) | 0:34 | — |

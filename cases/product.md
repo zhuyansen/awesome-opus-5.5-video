@@ -1,6 +1,6 @@
 # Product demos & ads
 
-199 works, 39 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+203 works, 40 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Website made with Opus 5.5](https://x.com/xevrion_the1/status/2103557513962745923) | Opus 5.5 | [@xevrion_the1](https://x.com/xevrion_the1) | 0:15 | — |
 | [Bluey voice-controlled Mac app and 3D box](https://x.com/rileybrown/status/2107960241065263265) | Opus 5.5 | [@rileybrown](https://x.com/rileybrown) | 0:40 | — |
 | [F1 livery customizer built with Opus 5.5](https://x.com/RyanSael/status/2110038561127014418) | Opus 5.5 | [@RyanSael](https://x.com/RyanSael) | 0:38 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2110038561127014418) |
+| [Tesla Roadster promo video](https://x.com/ozansihay/status/2111333150018171231) | Opus 5.5 | [@ozansihay](https://x.com/ozansihay) | 1:08 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2111333150018171231) |
 | [Chart style gallery launch video](https://x.com/mhmazur/status/2105300597888970901) | Opus 5.5 | [@mhmazur](https://x.com/mhmazur) | 0:30 | — |
 | [Fictional shampoo advertisement](https://x.com/seiiiiiiiiiiru/status/2106310907899105704) | Opus 5.5 | [@seiiiiiiiiiiru](https://x.com/seiiiiiiiiiiru) | 0:30 | — |
 | ["Touch grass" concept website](https://x.com/skpnky/status/2103744630433190009) | Opus 5.5 | [@skpnky](https://x.com/skpnky) | 0:18 | — |
@@ -183,10 +184,12 @@
 | [Personal website redesign with Sonnet 5.5](https://x.com/_tenZdhon_/status/2104680469451157900) | Sonnet 5.5 | [@_tenZdhon_](https://x.com/_tenZdhon_) | 0:27 | — |
 | [App introduction video demo](https://x.com/hinata877889737/status/2102753427747168436) | Opus 5.5 | [@hinata877889737](https://x.com/hinata877889737) | 0:30 | — |
 | [Disk space analyzer utility app](https://x.com/SonofNun/status/2103589196472766505) | Opus 5.5 | [@SonofNun](https://x.com/SonofNun) | 1:40 | — |
+| [Unity Dolby Atmos visualizer](https://x.com/chroman/status/2109778453625020920) | Opus 5.5 | [@chroman](https://x.com/chroman) | 0:50 | — |
 | [Franco-Belgian comic style coffee ad](https://x.com/jeanalexandre_b/status/2103514734716977599) | Opus 5.5 | [@jeanalexandre_b](https://x.com/jeanalexandre_b) | 1:25 | — |
 | [Book promotional video](https://x.com/ama_ch/status/2103621603628306747) | Opus 5.5 | [@ama_ch](https://x.com/ama_ch) | 1:06 | — |
 | [Animated eagle finance assistant demo](https://x.com/rork/status/2110788460596310311) | Opus 5.5 | [@rork](https://x.com/rork) | 1:16 | — |
 | [Brand showreel from guidelines and website](https://x.com/AidinShahi/status/2103898861177880665) | Opus 5.5 | [@AidinShahi](https://x.com/AidinShahi) | 0:55 | — |
+| [Hyprland desktop theme customization](https://x.com/XMihura/status/2109991235545190801) | Opus 5.5 | [@XMihura](https://x.com/XMihura) | 1:00 | — |
 | [Automation platform one-shot demo](https://x.com/getlindy/status/2103596650401018048) | Opus 5.5 | [@getlindy](https://x.com/getlindy) | 0:12 | — |
 | [Website promo video from a short request](https://x.com/sankenainai/status/2103340873773916491) | Opus 5.5 | [@sankenainai](https://x.com/sankenainai) | 0:29 | — |
 | [Fifteen-second motion graphics showreel](https://x.com/AntSeed/status/2104659402007703925) | Sonnet 5.5 | [@AntSeed](https://x.com/AntSeed) | 0:15 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104659402007703925) |
@@ -203,3 +206,4 @@
 | [Notes app built with Sonnet 5.5](https://x.com/CodingNoobie/status/2104642394503409862) | Sonnet 5.5 | [@CodingNoobie](https://x.com/CodingNoobie) | 0:16 | — |
 | [Sponsorship promo video cut via MCP tools](https://x.com/Ror_Fly/status/2103549390933610685) | Opus 5.5 | [@Ror_Fly](https://x.com/Ror_Fly) | 1:00 | — |
 | [Isometric landing page design](https://x.com/itsnotryan/status/2107842500715065664) | Opus 5.5 | [@itsnotryan](https://x.com/itsnotryan) | 0:08 | — |
+| [Gamified warehouse management software](https://x.com/LearnWithSubhan/status/2110235247745052913) | Opus 5.5 | [@LearnWithSubhan](https://x.com/LearnWithSubhan) | 1:12 | — |

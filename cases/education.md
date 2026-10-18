@@ -1,6 +1,6 @@
 # Explainers & education
 
-154 works, 48 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+155 works, 48 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Battle of Guandu history documentary](https://x.com/Cryptoxorz/status/2110274762060837004) | Opus 5.5 | [@Cryptoxorz](https://x.com/Cryptoxorz) | 10:36 | — |
 | [Plant biology 3D aquarium-style visualization](https://x.com/sonia_code/status/2103774074505949448) | Opus 5.5 | [@sonia_code](https://x.com/sonia_code) | 0:21 | — |
 | [Reconstructed ancient Spartan marching song](https://x.com/iosif_lazaridis/status/2103948875929358687) | Opus 5.5 | [@iosif_lazaridis](https://x.com/iosif_lazaridis) | 3:08 | — |
+| [The Art of Photosynthesis explainer](https://x.com/devteamdrew/status/2111172786286690324) | Opus 5.5 / Sonnet 5.5 | [@devteamdrew](https://x.com/devteamdrew) | 0:47 | — |
 | [Interactive historical map of Istanbul](https://x.com/cahidarda/status/2103218970115678497) | Opus 5.5 | [@cahidarda](https://x.com/cahidarda) | 0:10 | — |
 | [Query fan-out explainer video](https://x.com/harpreetchatha_/status/2103591810253914585) | Opus 5.5 | [@harpreetchatha_](https://x.com/harpreetchatha_) | 0:20 | — |
 | [Atomic bomb history 3D film](https://x.com/imjustnewatai/status/2106238699872956427) | Fable 5.5 (preview) | [@imjustnewatai](https://x.com/imjustnewatai) | 3:00 | — |

@@ -1,6 +1,6 @@
 # Characters & stories
 
-170 works, 43 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+177 works, 44 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Visualization of the singularity experience](https://x.com/dirtman/status/2103686605517287620) | Opus 5.5 | [@dirtman](https://x.com/dirtman) | 2:26 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103686605517287620) |
 | [Animated music video about an evil plan](https://x.com/_brightmirror/status/2105714071681343654) | Opus 5.5 | [@_brightmirror](https://x.com/_brightmirror) | 6:18 | — |
 | [Realistic AI-generated video workflow demo](https://x.com/abxxai/status/2102775755646337530) | Opus 5.5 | [@abxxai](https://x.com/abxxai) | 0:19 | — |
+| [AI-made anime short Gus & Spark](https://x.com/ziwenxu_/status/2111212505947357651) | Opus 5.5 / Fable 5.5 (preview) | [@ziwenxu_](https://x.com/ziwenxu_) | 25:43 | — |
 | [Utopia music video blending live action and animation](https://x.com/tapehead_Lab/status/2108150421298753595) | Opus 5.5 | [@tapehead_Lab](https://x.com/tapehead_Lab) | 3:43 | — |
 | [Peach Blossom Spring interactive 3D scene](https://x.com/dotey/status/2102940980379017293) | Opus 5.5 | [@dotey](https://x.com/dotey) | 4:17 | — |
 | [Turkish coffee history told through code](https://x.com/Avenoxai/status/2104825754114810104) | Sonnet 5.5 | [@Avenoxai](https://x.com/Avenoxai) | 1:19 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104825754114810104) |
@@ -83,6 +84,7 @@
 | [Reflective video from theology research](https://x.com/Skoorbkaz/status/2102720902773322034) | Opus 5.5 | [@Skoorbkaz](https://x.com/Skoorbkaz) | 6:14 | — |
 | [Interactive website with a living narrative](https://x.com/Da7_Tech/status/2102794245241548839) | Opus 5.5 | [@Da7_Tech](https://x.com/Da7_Tech) | 1:50 | — |
 | [Frame-by-frame coded music video](https://x.com/vinceflibustier/status/2103590659852751268) | Opus 5.5 | [@vinceflibustier](https://x.com/vinceflibustier) | 4:47 | — |
+| [AI-directed music video](https://x.com/azukichan_ai_/status/2111324712500621694) | Opus 5.5 | [@azukichan_ai_](https://x.com/azukichan_ai_) | 2:28 | — |
 | [Viral memes 2010-2026 timeline video](https://x.com/chetaslua/status/2106076940558082297) | Fable 5.5 (preview) | [@chetaslua](https://x.com/chetaslua) | 1:38 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2106076940558082297) |
 | [From Rocks to AI short film](https://x.com/devteamdrew/status/2103523994440012086) | Opus 5.5 | [@devteamdrew](https://x.com/devteamdrew) | 3:00 | — |
 | [Personal travel recap video](https://x.com/__oQuery/status/2103819121821728993) | Opus 5.5 | [@__oQuery](https://x.com/__oQuery) | 3:37 | — |
@@ -101,6 +103,7 @@
 | [What an AI dreams about between messages](https://x.com/Skoorbkaz/status/2103346477963550960) | Opus 5.5 | [@Skoorbkaz](https://x.com/Skoorbkaz) | 2:32 | — |
 | [Hold Swarm music video with Hatsune Miku](https://x.com/chaotictransfem/status/2105011559756181620) | Opus 5.5 | [@chaotictransfem](https://x.com/chaotictransfem) | 3:58 | — |
 | [Tribute video one-shot creation](https://x.com/chetaslua/status/2102717699600368045) | Opus 5.5 | [@chetaslua](https://x.com/chetaslua) | 3:18 | — |
+| [Can I give you 10% of me?](https://x.com/DaphneRHansell/status/2111106459408986368) | Opus 5.5 | [@DaphneRHansell](https://x.com/DaphneRHansell) | 2:24 | — |
 | [USSR-themed history edit video](https://x.com/Avinash25467/status/2104007585166991778) | Opus 5.5 | [@Avinash25467](https://x.com/Avinash25467) | 2:19 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104007585166991778) |
 | [AI manga chapter voiced edition](https://x.com/zerozakiyamo/status/2108696942108938245) | Opus 5.5 | [@zerozakiyamo](https://x.com/zerozakiyamo) | 5:52 | — |
 | [AI-made music video for 'To What End'](https://x.com/repligate/status/2104124976156786925) | Opus 5.5 | [@repligate](https://x.com/repligate) | 2:33 | — |
@@ -120,6 +123,7 @@
 | [Animated music video for a Claude-written song](https://x.com/Skoorbkaz/status/2102973119115690211) | Opus 5.5 | [@Skoorbkaz](https://x.com/Skoorbkaz) | 5:13 | — |
 | [Running fried-chicken character animation](https://x.com/whydeso/status/2107754210746134748) | Opus 5.5 | [@whydeso](https://x.com/whydeso) | 0:17 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2107754210746134748) |
 | [Borges-inspired dual narrative short film](https://x.com/julianleiss/status/2108625504450592923) | Opus 5.5 | [@julianleiss](https://x.com/julianleiss) | 0:36 | — |
+| [Illustrated storybook animation with narration](https://x.com/HaileyAILabs/status/2110975805899825394) | Opus 5.5 | [@HaileyAILabs](https://x.com/HaileyAILabs) | 3:47 | — |
 | [Live-action-style music video via multi-tool workflow](https://x.com/ai6vyy/status/2103415770973958400) | Opus 5.5 | [@ai6vyy](https://x.com/ai6vyy) | 1:30 | — |
 | [Unofficial fan video for a music artist](https://x.com/ystknsh/status/2102766871007436993) | Opus 5.5 | [@ystknsh](https://x.com/ystknsh) | 0:30 | — |
 | [Animated AGI declaration short](https://x.com/AndrewOnXYZ/status/2106097745098395712) | Fable 5.5 (preview) | [@AndrewOnXYZ](https://x.com/AndrewOnXYZ) | 4:26 | — |
@@ -127,6 +131,7 @@
 | [3D set AITuber camera-switching demo](https://x.com/ivy432hz/status/2105269408537235572) | Opus 5.5 | [@ivy432hz](https://x.com/ivy432hz) | 0:06 | — |
 | [Plato's Protagoras adapted into a film scene](https://x.com/danshipper/status/2103850415930708437) | Opus 5.5 | [@danshipper](https://x.com/danshipper) | 3:10 | — |
 | [Ink-wash animation: Little Tadpole Finds Mother](https://x.com/akokoi1/status/2102699703309898026) | Opus 5.5 | [@akokoi1](https://x.com/akokoi1) | 3:55 | — |
+| [Animated lyric video generated from an mp3 song](https://x.com/AIMevzulari/status/2110989121682559063) | Opus 5.5 | [@AIMevzulari](https://x.com/AIMevzulari) | 2:43 | — |
 | [Alien explores the Library of Babel](https://x.com/jackclarkSF/status/2103569043836027339) | Opus 5.5 | [@jackclarkSF](https://x.com/jackclarkSF) | 1:00 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103569043836027339) |
 | [Mid-Autumn animated short official release](https://x.com/ring_hyacinth/status/2103476866917290441) | Opus 5.5 | [@ring_hyacinth](https://x.com/ring_hyacinth) | 0:41 | — |
 | [Rap music video explaining a research paper](https://x.com/Tz_2022/status/2103683260144292176) | Opus 5.5 | [@Tz_2022](https://x.com/Tz_2022) | 3:43 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103683260144292176) |
@@ -138,6 +143,7 @@
 | [AI travel journal animation](https://x.com/arni0x9053/status/2103143902723096848) | Opus 5.5 | [@arni0x9053](https://x.com/arni0x9053) | 1:34 | — |
 | [Anime character animation drawn in JavaScript](https://x.com/doerstokyo342/status/2105794894383968649) | Opus 5.5 | [@doerstokyo342](https://x.com/doerstokyo342) | 0:30 | — |
 | [Artificial Creativity](https://x.com/IntuitMachine/status/2105941630885016018) | Opus 5.5 | [@IntuitMachine](https://x.com/IntuitMachine) | 34:19 | — |
+| [Skit about overseas AI attitudes toward Chinese users](https://x.com/Gorden_Sun/status/2111111416120053953) | Opus 5.5 | [@Gorden_Sun](https://x.com/Gorden_Sun) | 0:58 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2111111416120053953) |
 | [Strait of Hormuz debate animation](https://x.com/chetaslua/status/2106060047805792415) | Fable 5.5 (preview) | [@chetaslua](https://x.com/chetaslua) | 1:04 | — |
 | [Equilibrium-inspired AI video edit](https://x.com/Xanderwow_A/status/2109951019706651045) | Opus 5.5 | [@Xanderwow_A](https://x.com/Xanderwow_A) | 1:37 | — |
 | [Mid-Autumn artistic video with music remix](https://x.com/op7418/status/2103520946841862312) | Opus 5.5 | [@op7418](https://x.com/op7418) | 0:27 | — |
@@ -169,6 +175,7 @@
 | [Paper collage Momotaro animation](https://x.com/tanabe_fragm/status/2110931024469540979) | Opus 5.5 | [@tanabe_fragm](https://x.com/tanabe_fragm) | 0:46 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2110931024469540979) |
 | [Lord of the Rings opening scene recreation](https://x.com/devteamdrew/status/2110433119731945964) | Opus 5.5 | [@devteamdrew](https://x.com/devteamdrew) | 1:33 | — |
 | [Short film for kids coded in JavaScript](https://x.com/thebuggeddev/status/2103677413913976912) | Opus 5.5 | [@thebuggeddev](https://x.com/thebuggeddev) | 1:44 | — |
+| [NURSE RIOT AI music video](https://x.com/mi7_crypto/status/2109834099217285170) | Opus 5.5 | [@mi7_crypto](https://x.com/mi7_crypto) | 1:00 | — |
 | [Narrative video generated from a market report](https://x.com/dfolloni/status/2110413422458241228) | Opus 5.5 | [@dfolloni](https://x.com/dfolloni) | 1:21 | — |
 | [Anime-style video made entirely in code](https://x.com/makwanatejas170/status/2103703815514173697) | Opus 5.5 | [@makwanatejas170](https://x.com/makwanatejas170) | 1:20 | — |
 | [Before Sunrise short animated film](https://x.com/aimikoda/status/2110450438638342283) | Opus 5.5 | [@aimikoda](https://x.com/aimikoda) | 0:30 | — |

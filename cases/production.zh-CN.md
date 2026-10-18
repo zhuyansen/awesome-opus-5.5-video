@@ -1,6 +1,6 @@
 # 制作流程
 
-共 125 个作品，其中 22 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 133 个作品，其中 22 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [素材自动剪辑成音乐视频](https://x.com/ochyai/status/2103643040326008894) | Opus 5.5 | [@ochyai](https://x.com/ochyai) | 1:55 | — |
 | [AI 构建的音频工作站](https://x.com/aj_dev_smith/status/2106244777264164974) | Opus 5.5 | [@aj_dev_smith](https://x.com/aj_dev_smith) | 0:41 | — |
 | [带遮罩效果的AI视频剪辑](https://x.com/lucakvlr/status/2110353559695003918) | Opus 5.5 | [@lucakvlr](https://x.com/lucakvlr) | 0:33 | — |
+| [Blender Python动画配音](https://x.com/chetaslua/status/2111157145102397817) | Fable 5.5 (preview) | [@chetaslua](https://x.com/chetaslua) | 2:00 | — |
 | [iPhone素材自动剪辑成片](https://x.com/shupeiman/status/2102686671422840985) | Opus 5.5 | [@shupeiman](https://x.com/shupeiman) | 4:01 | — |
 | [先写场景再渲染成真实感AI视频](https://x.com/abxxai/status/2103500130066518199) | Opus 5.5 | [@abxxai](https://x.com/abxxai) | 0:21 | — |
 | [自动生成的代码提交演示视频](https://x.com/theo/status/2103245685688771044) | Opus 5.5 | [@theo](https://x.com/theo) | 0:11 | — |
@@ -93,6 +94,7 @@
 | [After Effects中的场景转移特效](https://x.com/higgsfield_ai/status/2103521966376587593) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:06 | — |
 | [自动视频剪辑流程](https://x.com/Scenario_gg/status/2110020120865313063) | Opus 5.5 | [@Scenario_gg](https://x.com/Scenario_gg) | 0:13 | — |
 | [AI配音配图制作的电台风格视频](https://x.com/mmmiyama_D/status/2109603289939738813) | Opus 5.5 | [@mmmiyama_D](https://x.com/mmmiyama_D) | 1:36 | — |
+| [《晚餐之跑》动画调色与升频处理](https://x.com/aimikoda/status/2111256122040406443) | Opus 5.5 | [@aimikoda](https://x.com/aimikoda) | 0:57 | — |
 | [在After Effects中用Claude操控TouchDesigner](https://x.com/higgsfield_ai/status/2103525847991025776) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:06 | — |
 | [喜爱美剧的介绍视频](https://x.com/_nogu66/status/2103751299808497959) | Opus 5.5 | [@_nogu66](https://x.com/_nogu66) | 0:15 | — |
 | [希伯来语一次生成的AI配音特效视频](https://x.com/itaydressler/status/2105268598100865461) | Opus 5.5 | [@itaydressler](https://x.com/itaydressler) | 3:26 | — |
@@ -107,6 +109,7 @@
 | [动画转漫画制作流程](https://x.com/aicreataro/status/2105254490773623268) | Opus 5.5 | [@aicreataro](https://x.com/aicreataro) | 0:53 | — |
 | [AI视频剪辑演示](https://x.com/shupeiman/status/2105272288769978634) | Opus 5.5 | [@shupeiman](https://x.com/shupeiman) | 0:23 | — |
 | [用代码制作的比特币主题剪辑](https://x.com/skwp/status/2103093628230873415) | Opus 5.5 | [@skwp](https://x.com/skwp) | 0:41 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103093628230873415) |
+| [自动化内容视频剪辑](https://x.com/condzxyz/status/2110068531941527601) | Opus 5.5 | [@condzxyz](https://x.com/condzxyz) | 7:49 | — |
 | [AI图像细节修复技能演示](https://x.com/higgsfield_ai/status/2103518041908908250) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:05 | — |
 | [After Effects自动剪辑演示](https://x.com/fumanpnp/status/2102990349098799471) | Opus 5.5 | [@fumanpnp](https://x.com/fumanpnp) | 0:24 | — |
 | [静态图片剪辑成游戏预告片](https://x.com/yugen_matuni/status/2103621917785862229) | Opus 5.5 | [@yugen_matuni](https://x.com/yugen_matuni) | 3:04 | — |
@@ -120,12 +123,17 @@
 | [AI全程剪辑的短视频](https://x.com/mehulmpt/status/2103639263271367140) | Opus 5.5 | [@mehulmpt](https://x.com/mehulmpt) | 0:49 | — |
 | [Claude Opus 5.5视频剪辑特效测试](https://x.com/chetaslua/status/2110630223284933115) | Opus 5.5 | [@chetaslua](https://x.com/chetaslua) | 1:03 | — |
 | [AI辅助视频剪辑演示](https://x.com/shraddhaha/status/2103552356495597990) | Opus 5.5 | [@shraddhaha](https://x.com/shraddhaha) | 0:30 | — |
+| [基于自定义音效技能的智能体视频剪辑](https://x.com/stxrmye/status/2110190072628642204) | Opus 5.5 | [@stxrmye](https://x.com/stxrmye) | 0:31 | — |
 | [用原始素材剪辑出的AI视频](https://x.com/lewangx/status/2103523508957446423) | Opus 5.5 | [@lewangx](https://x.com/lewangx) | 0:42 | — |
+| [由一张图和一首mp3生成的音乐视频](https://x.com/cgnot996/status/2110982632854966766) | Opus 5.5 | [@cgnot996](https://x.com/cgnot996) | 2:34 | — |
 | [全自动生成的三分钟AI新闻解说视频](https://x.com/old_pgmrs_will/status/2108908117874635170) | Opus 5.5 | [@old_pgmrs_will](https://x.com/old_pgmrs_will) | 2:53 | — |
 | [AI搭建的自制视频编辑器](https://x.com/SoyMrBro/status/2103135398226735139) | Opus 5.5 | [@SoyMrBro](https://x.com/SoyMrBro) | 0:31 | — |
 | [用Opus 5.5和EffectCraft制作的歌词MV](https://x.com/wtry1102/status/2107744155007062101) | Opus 5.5 | [@wtry1102](https://x.com/wtry1102) | 1:51 | — |
+| [Excel定格动画结合Blender制作](https://x.com/aicreataro/status/2109892378383540394) | Opus 5.5 | [@aicreataro](https://x.com/aicreataro) | 1:01 | — |
 | [根据文章自动生成视频并发布](https://x.com/affnom_y/status/2103722878697083380) | Opus 5.5 | [@affnom_y](https://x.com/affnom_y) | 0:26 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103722878697083380) |
 | [PCB设计流程演示](https://x.com/VectorCrossProd/status/2109610532365857198) | Opus 5.5 | [@VectorCrossProd](https://x.com/VectorCrossProd) | 1:00 | — |
 | [多工具AI视频制作作品](https://x.com/MakeAI_CEO/status/2102955436957983065) | Opus 5.5 | [@MakeAI_CEO](https://x.com/MakeAI_CEO) | 9:28 | — |
 | [《Carla Botcoin》音乐视频幕后制作花絮](https://x.com/WalkerAmerica/status/2110825075729727875) | Opus 5.5 | [@WalkerAmerica](https://x.com/WalkerAmerica) | 1:01 | — |
+| [用Claude Opus重新剪辑的2007年电影预告片](https://x.com/JoshDaws/status/2109982871209304334) | Opus 5.5 | [@JoshDaws](https://x.com/JoshDaws) | 2:21 | — |
 | [用素材剪辑的频道介绍视频](https://x.com/kazunoko575/status/2103390803192352888) | Opus 5.5 | [@kazunoko575](https://x.com/kazunoko575) | 0:52 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103390803192352888) |
+| [视频剪辑尝试](https://x.com/Madariyanhadi/status/2111004303075000494) | Opus 5.5 | [@Madariyanhadi](https://x.com/Madariyanhadi) | 1:08 | — |

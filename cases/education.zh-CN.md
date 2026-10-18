@@ -1,6 +1,6 @@
 # 科普讲解
 
-共 154 个作品，其中 48 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 155 个作品，其中 48 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [官渡之战历史纪录片](https://x.com/Cryptoxorz/status/2110274762060837004) | Opus 5.5 | [@Cryptoxorz](https://x.com/Cryptoxorz) | 10:36 | — |
 | [植物生理3D水族箱式可视化](https://x.com/sonia_code/status/2103774074505949448) | Opus 5.5 | [@sonia_code](https://x.com/sonia_code) | 0:21 | — |
 | [古斯巴达行军歌曲重现](https://x.com/iosif_lazaridis/status/2103948875929358687) | Opus 5.5 | [@iosif_lazaridis](https://x.com/iosif_lazaridis) | 3:08 | — |
+| [光合作用艺术讲解动画](https://x.com/devteamdrew/status/2111172786286690324) | Opus 5.5 / Sonnet 5.5 | [@devteamdrew](https://x.com/devteamdrew) | 0:47 | — |
 | [伊斯坦布尔历史地图互动项目](https://x.com/cahidarda/status/2103218970115678497) | Opus 5.5 | [@cahidarda](https://x.com/cahidarda) | 0:10 | — |
 | [查询扇出讲解视频](https://x.com/harpreetchatha_/status/2103591810253914585) | Opus 5.5 | [@harpreetchatha_](https://x.com/harpreetchatha_) | 0:20 | — |
 | [原子弹历史三维短片](https://x.com/imjustnewatai/status/2106238699872956427) | Fable 5.5 (preview) | [@imjustnewatai](https://x.com/imjustnewatai) | 3:00 | — |

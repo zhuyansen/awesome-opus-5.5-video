@@ -1,6 +1,6 @@
 # Motion graphics & UI
 
-259 works, 87 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+262 works, 87 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Company commercial motion graphic](https://x.com/showheyohtaki/status/2104095944686051492) | Opus 5.5 | [@showheyohtaki](https://x.com/showheyohtaki) | 0:30 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104095944686051492) |
 | [Food app product launch film](https://x.com/ultimaxbt/status/2108210884799549714) | Opus 5.5 | [@ultimaxbt](https://x.com/ultimaxbt) | 0:16 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2108210884799549714) |
 | [Motion clip with improved sound effects](https://x.com/LexnLin/status/2109718604883370450) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 0:40 | — |
+| [Generated animated clip](https://x.com/driftauz/status/2111109055955763570) | Opus 5.5 | [@driftauz](https://x.com/driftauz) | 0:12 | — |
 | [Impressive AI-generated video](https://x.com/GregorySchier/status/2103573891629371497) | Opus 5.5 | [@GregorySchier](https://x.com/GregorySchier) | 0:30 | — |
 | [Visualization of encryption in secure file transfer](https://x.com/SyntaxDiffusion/status/2103182358635532377) | Opus 5.5 | [@SyntaxDiffusion](https://x.com/SyntaxDiffusion) | 1:36 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103182358635532377) |
 | [Showreel motion graphic for a media tool](https://x.com/ismailfahmi/status/2103759320664219750) | Opus 5.5 | [@ismailfahmi](https://x.com/ismailfahmi) | 2:08 | — |
@@ -234,6 +235,7 @@
 | [Motion design showreel exploring "overthinking"](https://x.com/gizakdag/status/2103566030916239768) | Opus 5.5 | [@gizakdag](https://x.com/gizakdag) | 0:15 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103566030916239768) |
 | [Illustrated cinemagraph scene](https://x.com/shironagasu_ai/status/2106299981875347740) | Opus 5.5 | [@shironagasu_ai](https://x.com/shironagasu_ai) | 0:10 | — |
 | [AI-assisted motion graphics video](https://x.com/ai4everyday/status/2105715960220983304) | Opus 5.5 | [@ai4everyday](https://x.com/ai4everyday) | 0:10 | — |
+| [Animated visual piece](https://x.com/devteamdrew/status/2110156508097110075) | Opus 5.5 / Fable 5.5 (preview) | [@devteamdrew](https://x.com/devteamdrew) | 1:05 | — |
 | [Fashion poster motion graphic](https://x.com/ponzponz15/status/2106266004515172366) | Opus 5.5 | [@ponzponz15](https://x.com/ponzponz15) | 0:46 | — |
 | [Resume-based motion graphics showreel](https://x.com/vedolos/status/2103520155640938565) | Opus 5.5 | [@vedolos](https://x.com/vedolos) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103520155640938565) |
 | [Figma tutorial rebuilt in Blender](https://x.com/alex_barashkov/status/2106055084421353954) | Opus 5.5 | [@alex_barashkov](https://x.com/alex_barashkov) | 0:05 | — |
@@ -262,4 +264,5 @@
 | [Impressive AI demo reaction video](https://x.com/dcbruck/status/2103549268321783859) | Opus 5.5 | [@dcbruck](https://x.com/dcbruck) | 0:15 | — |
 | [Opus 5.5 animation quality demo](https://x.com/makisuo/status/2103613318497997215) | Opus 5.5 | [@makisuo](https://x.com/makisuo) | 0:15 | — |
 | [Unspecified video creation showcase](https://x.com/GPTabby/status/2103581801490809069) | Opus 5.5 | [@GPTabby](https://x.com/GPTabby) | 3:51 | — |
+| [Short animation](https://x.com/fakharkamario/status/2110218646689599861) | Opus 5.5 | [@fakharkamario](https://x.com/fakharkamario) | 0:10 | — |
 | [Google Apps Script themed video](https://x.com/kimura_0314/status/2102682159668720109) | Opus 5.5 | [@kimura_0314](https://x.com/kimura_0314) | 0:34 | — |

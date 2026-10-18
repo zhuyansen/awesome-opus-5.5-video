@@ -1,6 +1,6 @@
 # Music, editing & production
 
-125 works, 22 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+133 works, 22 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Auto-edited music video from footage](https://x.com/ochyai/status/2103643040326008894) | Opus 5.5 | [@ochyai](https://x.com/ochyai) | 1:55 | — |
 | [AI-built audio workstation](https://x.com/aj_dev_smith/status/2106244777264164974) | Opus 5.5 | [@aj_dev_smith](https://x.com/aj_dev_smith) | 0:41 | — |
 | [AI video edit with mask effect](https://x.com/lucakvlr/status/2110353559695003918) | Opus 5.5 | [@lucakvlr](https://x.com/lucakvlr) | 0:33 | — |
+| [Blender python animation with voice](https://x.com/chetaslua/status/2111157145102397817) | Fable 5.5 (preview) | [@chetaslua](https://x.com/chetaslua) | 2:00 | — |
 | [iPhone footage auto-edited into finished video](https://x.com/shupeiman/status/2102686671422840985) | Opus 5.5 | [@shupeiman](https://x.com/shupeiman) | 4:01 | — |
 | [Realistic AI video scenes written then rendered](https://x.com/abxxai/status/2103500130066518199) | Opus 5.5 | [@abxxai](https://x.com/abxxai) | 0:21 | — |
 | [Auto-generated pull request demo video](https://x.com/theo/status/2103245685688771044) | Opus 5.5 | [@theo](https://x.com/theo) | 0:11 | — |
@@ -93,6 +94,7 @@
 | [Scene relocation VFX in After Effects](https://x.com/higgsfield_ai/status/2103521966376587593) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:06 | — |
 | [Automatic video editing workflow](https://x.com/Scenario_gg/status/2110020120865313063) | Opus 5.5 | [@Scenario_gg](https://x.com/Scenario_gg) | 0:13 | — |
 | [Radio-style video with AI voice and images](https://x.com/mmmiyama_D/status/2109603289939738813) | Opus 5.5 | [@mmmiyama_D](https://x.com/mmmiyama_D) | 1:36 | — |
+| [Supper Run animated short with color grading](https://x.com/aimikoda/status/2111256122040406443) | Opus 5.5 | [@aimikoda](https://x.com/aimikoda) | 0:57 | — |
 | [TouchDesigner controlled via Claude in After Effects](https://x.com/higgsfield_ai/status/2103525847991025776) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:06 | — |
 | [Intro video for a favorite TV drama](https://x.com/_nogu66/status/2103751299808497959) | Opus 5.5 | [@_nogu66](https://x.com/_nogu66) | 0:15 | — |
 | [Hebrew one-shot video with AI voices and effects](https://x.com/itaydressler/status/2105268598100865461) | Opus 5.5 | [@itaydressler](https://x.com/itaydressler) | 3:26 | — |
@@ -107,6 +109,7 @@
 | [Anime-to-manga conversion pipeline](https://x.com/aicreataro/status/2105254490773623268) | Opus 5.5 | [@aicreataro](https://x.com/aicreataro) | 0:53 | — |
 | [AI video editing demo](https://x.com/shupeiman/status/2105272288769978634) | Opus 5.5 | [@shupeiman](https://x.com/shupeiman) | 0:23 | — |
 | [Bitcoin-themed video edit made in code](https://x.com/skwp/status/2103093628230873415) | Opus 5.5 | [@skwp](https://x.com/skwp) | 0:41 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103093628230873415) |
+| [Automated content video edit](https://x.com/condzxyz/status/2110068531941527601) | Opus 5.5 | [@condzxyz](https://x.com/condzxyz) | 7:49 | — |
 | [AI image detail-fixing skill demo](https://x.com/higgsfield_ai/status/2103518041908908250) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:05 | — |
 | [After Effects automated edit demo](https://x.com/fumanpnp/status/2102990349098799471) | Opus 5.5 | [@fumanpnp](https://x.com/fumanpnp) | 0:24 | — |
 | [Game trailer edited from still images](https://x.com/yugen_matuni/status/2103621917785862229) | Opus 5.5 | [@yugen_matuni](https://x.com/yugen_matuni) | 3:04 | — |
@@ -120,12 +123,17 @@
 | [Short form video fully edited by AI](https://x.com/mehulmpt/status/2103639263271367140) | Opus 5.5 | [@mehulmpt](https://x.com/mehulmpt) | 0:49 | — |
 | [Claude Opus 5.5 video editing and VFX test](https://x.com/chetaslua/status/2110630223284933115) | Opus 5.5 | [@chetaslua](https://x.com/chetaslua) | 1:03 | — |
 | [AI-assisted video editing demo](https://x.com/shraddhaha/status/2103552356495597990) | Opus 5.5 | [@shraddhaha](https://x.com/shraddhaha) | 0:30 | — |
+| [Agent-driven video edit with custom SFX skill](https://x.com/stxrmye/status/2110190072628642204) | Opus 5.5 | [@stxrmye](https://x.com/stxrmye) | 0:31 | — |
 | [AI video editing from raw footage](https://x.com/lewangx/status/2103523508957446423) | Opus 5.5 | [@lewangx](https://x.com/lewangx) | 0:42 | — |
+| [Music video cut from one image and one mp3](https://x.com/cgnot996/status/2110982632854966766) | Opus 5.5 | [@cgnot996](https://x.com/cgnot996) | 2:34 | — |
 | [Automated three-minute AI news explainer video](https://x.com/old_pgmrs_will/status/2108908117874635170) | Opus 5.5 | [@old_pgmrs_will](https://x.com/old_pgmrs_will) | 2:53 | — |
 | [Custom video editor app built with AI](https://x.com/SoyMrBro/status/2103135398226735139) | Opus 5.5 | [@SoyMrBro](https://x.com/SoyMrBro) | 0:31 | — |
 | [Lyric music video built with Opus 5.5 and EffectCraft](https://x.com/wtry1102/status/2107744155007062101) | Opus 5.5 | [@wtry1102](https://x.com/wtry1102) | 1:51 | — |
+| [Excel stop-motion animation with Blender](https://x.com/aicreataro/status/2109892378383540394) | Opus 5.5 | [@aicreataro](https://x.com/aicreataro) | 1:01 | — |
 | [Article-to-video generation for social posting](https://x.com/affnom_y/status/2103722878697083380) | Opus 5.5 | [@affnom_y](https://x.com/affnom_y) | 0:26 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103722878697083380) |
 | [PCB design pipeline demo](https://x.com/VectorCrossProd/status/2109610532365857198) | Opus 5.5 | [@VectorCrossProd](https://x.com/VectorCrossProd) | 1:00 | — |
 | [Multi-tool AI video production piece](https://x.com/MakeAI_CEO/status/2102955436957983065) | Opus 5.5 | [@MakeAI_CEO](https://x.com/MakeAI_CEO) | 9:28 | — |
 | [Making-of video for Carla Botcoin music video](https://x.com/WalkerAmerica/status/2110825075729727875) | Opus 5.5 | [@WalkerAmerica](https://x.com/WalkerAmerica) | 1:01 | — |
+| [2007 film trailer re-edited with Claude Opus](https://x.com/JoshDaws/status/2109982871209304334) | Opus 5.5 | [@JoshDaws](https://x.com/JoshDaws) | 2:21 | — |
 | [Channel intro video edited from clips](https://x.com/kazunoko575/status/2103390803192352888) | Opus 5.5 | [@kazunoko575](https://x.com/kazunoko575) | 0:52 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103390803192352888) |
+| [Video editing experiment](https://x.com/Madariyanhadi/status/2111004303075000494) | Opus 5.5 | [@Madariyanhadi](https://x.com/Madariyanhadi) | 1:08 | — |

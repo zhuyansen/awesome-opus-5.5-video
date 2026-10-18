@@ -3,8 +3,8 @@
  "model": "Claude 5.5 (Opus 5.5 · Sonnet 5.5 · Haiku 5.5 · Fable 5.5)",
  "inclusion_rule": "Original post by the creator, native video attached, >= 5000 views on that post, creator states it was made with Claude Opus 5.5, Sonnet 5.5, Haiku 5.5 or Fable 5.5 (Fable 5.5 is in limited preview, not yet announced). Later posts that embed another account's upload are excluded.",
  "views_threshold": 5000,
- "stats_checked_at": "2026-10-17T05:36:14.200Z",
- "updated_at": "2026-10-17T05:36:14.200Z",
+ "stats_checked_at": "2026-10-18T05:53:39.073Z",
+ "updated_at": "2026-10-18T05:53:39.073Z",
  "model_attribution": "As stated by each creator; not independently reproduced.",
  "cases": [
   {
@@ -5235,6 +5235,35 @@
    "resources": []
   },
   {
+   "id": "2111212505947357651",
+   "models": [
+    "opus-5.5",
+    "fable-5.5"
+   ],
+   "category": "stories",
+   "title": {
+    "zh": "AI动画短片《Gus & Spark》",
+    "en": "AI-made anime short Gus & Spark"
+   },
+   "creator": {
+    "handle": "ziwenxu_",
+    "name": "Ziwen"
+   },
+   "original_post_url": "https://x.com/ziwenxu_/status/2111212505947357651",
+   "posted_at": "2026-10-16T21:47:40.000Z",
+   "language": "en",
+   "duration_seconds": 1543,
+   "views": 241968,
+   "likes": 1940,
+   "bookmarks": 1506,
+   "views_checked_at": "2026-10-18T05:53:39.073Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2111143441946013696/img/VzVeyU-saC7ZnJSK.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2103198490746900830",
    "models": [
     "opus-5.5"
@@ -9739,6 +9768,38 @@
    "resources": []
   },
   {
+   "id": "2111290504491258080",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "game",
+   "title": {
+    "zh": "Unreal引擎游戏世界搭建",
+    "en": "Unreal Engine game world build"
+   },
+   "creator": {
+    "handle": "xikhar",
+    "name": "Shikhar"
+   },
+   "original_post_url": "https://x.com/xikhar/status/2111290504491258080",
+   "posted_at": "2026-10-17T02:57:36.000Z",
+   "language": "en",
+   "duration_seconds": 96,
+   "views": 129753,
+   "likes": 1394,
+   "bookmarks": 556,
+   "views_checked_at": "2026-10-18T05:53:39.073Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2111289674438529024/img/1Ex16cDdHgoZRfh7.jpg",
+   "tools_reported": [
+    "Unreal Engine",
+    "Blender",
+    "Tripo AI"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2104094838035820607",
    "models": [
     "opus-5.5"
@@ -9770,6 +9831,37 @@
     "length": 45,
     "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104094838035820607"
    },
+   "resources": []
+  },
+  {
+   "id": "2111120760660254842",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "game",
+   "title": {
+    "zh": "青蛙王国模拟器游戏",
+    "en": "Frog King Simulator built with Claude"
+   },
+   "creator": {
+    "handle": "Belbizaz",
+    "name": "Frog King Simulator"
+   },
+   "original_post_url": "https://x.com/Belbizaz/status/2111120760660254842",
+   "posted_at": "2026-10-16T15:43:06.000Z",
+   "language": "en",
+   "duration_seconds": 30,
+   "views": 127871,
+   "likes": 2304,
+   "bookmarks": 1069,
+   "views_checked_at": "2026-10-17T16:28:18.211Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2111115234396213248/img/G4S6luyQ9xqlBwdc.jpg",
+   "tools_reported": [
+    "Three.js",
+    "Claude Code"
+   ],
+   "reference_assets": true,
+   "prompt": null,
    "resources": []
   },
   {
@@ -10121,6 +10213,38 @@
    "views_checked_at": "2026-10-12T10:21:57.299Z",
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2106314312369500160/img/MyvT3X6M9ErRvucP.jpg",
    "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2111175666398048620",
+   "models": [
+    "opus-5.5",
+    "sonnet-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "多模型视频生成对比",
+    "en": "Model comparison video generation"
+   },
+   "creator": {
+    "handle": "EnvolDev",
+    "name": "Tony"
+   },
+   "original_post_url": "https://x.com/EnvolDev/status/2111175666398048620",
+   "posted_at": "2026-10-16T19:21:17.000Z",
+   "language": "en",
+   "duration_seconds": 25,
+   "views": 123614,
+   "likes": 1079,
+   "bookmarks": 283,
+   "views_checked_at": "2026-10-18T05:53:39.073Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2111175360448696320/img/buen_LfPjkmalmmp.jpg",
+   "tools_reported": [
+    "Three.js",
+    "FFmpeg"
+   ],
    "reference_assets": false,
    "prompt": null,
    "resources": []
@@ -12441,6 +12565,37 @@
    "resources": []
   },
   {
+   "id": "2111157145102397817",
+   "models": [
+    "fable-5.5"
+   ],
+   "category": "production",
+   "title": {
+    "zh": "Blender Python动画配音",
+    "en": "Blender python animation with voice"
+   },
+   "creator": {
+    "handle": "chetaslua",
+    "name": "Chetaslua"
+   },
+   "original_post_url": "https://x.com/chetaslua/status/2111157145102397817",
+   "posted_at": "2026-10-16T18:07:41.000Z",
+   "language": "en",
+   "duration_seconds": 120,
+   "views": 100369,
+   "likes": 966,
+   "bookmarks": 266,
+   "views_checked_at": "2026-10-18T05:53:39.073Z",
+   "thumbnail_url": "https://pbs.twimg.com/media/HUxWG8hb0AAk8qR.jpg",
+   "tools_reported": [
+    "Blender",
+    "ElevenLabs"
+   ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2103895476319969685",
    "models": [
     "opus-5.5"
@@ -13669,6 +13824,34 @@
    "resources": []
   },
   {
+   "id": "2111097153074470950",
+   "models": [
+    "fable-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "一次生成的纽约电影场景",
+    "en": "One-shot coded New York cinematic scene"
+   },
+   "creator": {
+    "handle": "Mr_Salio",
+    "name": "Salio"
+   },
+   "original_post_url": "https://x.com/Mr_Salio/status/2111097153074470950",
+   "posted_at": "2026-10-16T14:09:18.000Z",
+   "language": "en",
+   "duration_seconds": 39,
+   "views": 86981,
+   "likes": 410,
+   "bookmarks": 88,
+   "views_checked_at": "2026-10-17T16:28:18.211Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2111096929979387904/img/ErtxpZRjxCcAyfV8.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2102751171920433525",
    "models": [
     "opus-5.5"
@@ -13756,6 +13939,40 @@
    "resources": [
     "https://best.xiaohu.ai/article/opus-5-5-clawd-animation-mv/"
    ]
+  },
+  {
+   "id": "2111193444345667813",
+   "models": [
+    "fable-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "Atlas与P-body体素传送门场景",
+    "en": "Atlas and P-body voxel portal scene"
+   },
+   "creator": {
+    "handle": "legit_api",
+    "name": "Legit"
+   },
+   "original_post_url": "https://x.com/legit_api/status/2111193444345667813",
+   "posted_at": "2026-10-16T20:31:55.000Z",
+   "language": "en",
+   "duration_seconds": 113,
+   "views": 85566,
+   "likes": 717,
+   "bookmarks": 155,
+   "views_checked_at": "2026-10-18T05:53:39.073Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2111193179349225472/img/bwWn1yfSLTereFEk.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "brief",
+    "source": "author_reply",
+    "source_url": "https://x.com/legit_api/status/2111201715169251707",
+    "length": 86,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2111193444345667813"
+   },
+   "resources": []
   },
   {
    "id": "2102498589259821559",
@@ -14726,6 +14943,36 @@
     "length": 46,
     "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102740041621762166"
    },
+   "resources": []
+  },
+  {
+   "id": "2111058514311336244",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "埃菲尔铁塔建模的跨模型对比",
+    "en": "Eiffel Tower build compared across models"
+   },
+   "creator": {
+    "handle": "AIMind_Ai",
+    "name": "AiMind"
+   },
+   "original_post_url": "https://x.com/AIMind_Ai/status/2111058514311336244",
+   "posted_at": "2026-10-16T11:35:46.000Z",
+   "language": "en",
+   "duration_seconds": 16,
+   "views": 79487,
+   "likes": 296,
+   "bookmarks": 118,
+   "views_checked_at": "2026-10-17T16:28:18.211Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2111058399886503936/img/bzmPjbxWr5kJuGtc.jpg",
+   "tools_reported": [
+    "Gemini"
+   ],
+   "reference_assets": false,
+   "prompt": null,
    "resources": []
   },
   {
@@ -23091,6 +23338,34 @@
    "resources": []
   },
   {
+   "id": "2111189894517375117",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "精细汽车3D场景",
+    "en": "Detailed 3D car scene"
+   },
+   "creator": {
+    "handle": "klattkev",
+    "name": "Kevin Klatt"
+   },
+   "original_post_url": "https://x.com/klattkev/status/2111189894517375117",
+   "posted_at": "2026-10-16T20:17:49.000Z",
+   "language": "en",
+   "duration_seconds": 34,
+   "views": 46715,
+   "likes": 307,
+   "bookmarks": 138,
+   "views_checked_at": "2026-10-18T05:53:39.073Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2111186202829447168/img/6fqf-A1RyrfGY0PA.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2104697370181263415",
    "models": [
     "sonnet-5.5"
@@ -24899,6 +25174,36 @@
    "resources": []
   },
   {
+   "id": "2110987175009685842",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "特斯拉Roadster飞行动画",
+    "en": "Tesla Roadster flying animation"
+   },
+   "creator": {
+    "handle": "tuolaji2024",
+    "name": "拖拉机"
+   },
+   "original_post_url": "https://x.com/tuolaji2024/status/2110987175009685842",
+   "posted_at": "2026-10-16T06:52:17.000Z",
+   "language": "zh",
+   "duration_seconds": 236,
+   "views": 42647,
+   "likes": 306,
+   "bookmarks": 236,
+   "views_checked_at": "2026-10-17T16:28:18.211Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110986889071403008/img/AIae6s7XLpCsoEy_.jpg",
+   "tools_reported": [
+    "Grok"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2108644023330390194",
    "models": [
     "opus-5.5"
@@ -25119,6 +25424,34 @@
     "length": 101,
     "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104095944686051492"
    },
+   "resources": []
+  },
+  {
+   "id": "2111324712500621694",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "stories",
+   "title": {
+    "zh": "AI制作的音乐MV",
+    "en": "AI-directed music video"
+   },
+   "creator": {
+    "handle": "azukichan_ai_",
+    "name": "あずき@AIで遊ぶ"
+   },
+   "original_post_url": "https://x.com/azukichan_ai_/status/2111324712500621694",
+   "posted_at": "2026-10-17T05:13:32.000Z",
+   "language": "ja",
+   "duration_seconds": 148,
+   "views": 42208,
+   "likes": 909,
+   "bookmarks": 657,
+   "views_checked_at": "2026-10-18T05:53:39.073Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2111323236705382400/img/FFMtu6QmMnmJuqg7.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
    "resources": []
   },
   {
@@ -26493,6 +26826,34 @@
    "resources": []
   },
   {
+   "id": "2111235450035745058",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "特斯拉Roadster演示动画恶搞",
+    "en": "Parody Tesla Roadster demo animation"
+   },
+   "creator": {
+    "handle": "devteamdrew",
+    "name": "DreW"
+   },
+   "original_post_url": "https://x.com/devteamdrew/status/2111235450035745058",
+   "posted_at": "2026-10-16T23:18:50.000Z",
+   "language": "en",
+   "duration_seconds": 18,
+   "views": 38148,
+   "likes": 267,
+   "bookmarks": 76,
+   "views_checked_at": "2026-10-18T05:53:39.073Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2111234913022234624/img/FLCQ0_UG7_ZY_mi-.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2103576037426917779",
    "models": [
     "opus-5.5"
@@ -26671,6 +27032,34 @@
    "bookmarks": 15,
    "views_checked_at": "2026-10-12T10:21:57.299Z",
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2106127606571515904/img/wIge5Xkamjzt3kAb.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2111109055955763570",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "motion",
+   "title": {
+    "zh": "生成的动画片段",
+    "en": "Generated animated clip"
+   },
+   "creator": {
+    "handle": "driftauz",
+    "name": "Mradul"
+   },
+   "original_post_url": "https://x.com/driftauz/status/2111109055955763570",
+   "posted_at": "2026-10-16T14:56:36.000Z",
+   "language": "en",
+   "duration_seconds": 12,
+   "views": 37539,
+   "likes": 625,
+   "bookmarks": 160,
+   "views_checked_at": "2026-10-17T16:28:18.211Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2111108988897198080/img/Y2zoZQJb8NzObnke.jpg",
    "tools_reported": [],
    "reference_assets": false,
    "prompt": null,
@@ -31085,6 +31474,34 @@
    "resources": []
   },
   {
+   "id": "2111106459408986368",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "stories",
+   "title": {
+    "zh": "我能把我的10%给你吗",
+    "en": "Can I give you 10% of me?"
+   },
+   "creator": {
+    "handle": "DaphneRHansell",
+    "name": "Daphne Hansell"
+   },
+   "original_post_url": "https://x.com/DaphneRHansell/status/2111106459408986368",
+   "posted_at": "2026-10-16T14:46:17.000Z",
+   "language": "en",
+   "duration_seconds": 144,
+   "views": 28793,
+   "likes": 372,
+   "bookmarks": 179,
+   "views_checked_at": "2026-10-17T16:28:18.211Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2111106205045211137/img/946-95W54Tnnng3L.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2102776229489496205",
    "models": [
     "opus-5.5"
@@ -33274,6 +33691,34 @@
    "resources": []
   },
   {
+   "id": "2111181126144594043",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "game",
+   "title": {
+    "zh": "3D网页游戏世界迭代",
+    "en": "3D browser game world iteration"
+   },
+   "creator": {
+    "handle": "LexnLin",
+    "name": "Leon Lin"
+   },
+   "original_post_url": "https://x.com/LexnLin/status/2111181126144594043",
+   "posted_at": "2026-10-16T19:42:58.000Z",
+   "language": "en",
+   "duration_seconds": 60,
+   "views": 24463,
+   "likes": 552,
+   "bookmarks": 282,
+   "views_checked_at": "2026-10-18T05:53:39.073Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2111179721950048256/img/6_GKpY7AVHclLEI3.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2109634337222414402",
    "models": [
     "opus-5.5"
@@ -34590,6 +35035,43 @@
     "HyperFrames",
     "Three.js",
     "GSAP"
+   ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2111139309206040640",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "game",
+   "title": {
+    "zh": "农场游戏新增钓鱼玩法",
+    "en": "Fishing minigame added to farm game"
+   },
+   "creator": {
+    "handle": "Mnilax",
+    "name": "Mnimiy"
+   },
+   "original_post_url": "https://x.com/Mnilax/status/2111139309206040640",
+   "posted_at": "2026-10-16T16:56:49.000Z",
+   "language": "en",
+   "duration_seconds": 15,
+   "views": 22825,
+   "likes": 423,
+   "bookmarks": 425,
+   "views_checked_at": "2026-10-18T05:53:39.073Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2111136970202103808/img/sFstL6T7hjGWq0ym.jpg",
+   "tools_reported": [
+    "Claude Code",
+    "Unity 6",
+    "Blender",
+    "Tripo",
+    "ElevenLabs",
+    "Cinemachine",
+    "unity-mcp",
+    "blender-mcp"
    ],
    "reference_assets": true,
    "prompt": null,
@@ -36349,6 +36831,36 @@
    "resources": []
   },
   {
+   "id": "2110975805899825394",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "stories",
+   "title": {
+    "zh": "有声手绘故事绘本动画",
+    "en": "Illustrated storybook animation with narration"
+   },
+   "creator": {
+    "handle": "HaileyAILabs",
+    "name": "Hailey"
+   },
+   "original_post_url": "https://x.com/HaileyAILabs/status/2110975805899825394",
+   "posted_at": "2026-10-16T06:07:06.000Z",
+   "language": "zh",
+   "duration_seconds": 227,
+   "views": 20444,
+   "likes": 277,
+   "bookmarks": 274,
+   "views_checked_at": "2026-10-17T16:28:18.211Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110975146894970880/img/z84Jb7HE8snHSYRI.jpg",
+   "tools_reported": [
+    "豆包 TTS"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2103698137730924839",
    "models": [
     "opus-5.5"
@@ -36966,6 +37478,42 @@
    "tools_reported": [],
    "reference_assets": false,
    "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2111333150018171231",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "product",
+   "title": {
+    "zh": "特斯拉Roadster宣传视频",
+    "en": "Tesla Roadster promo video"
+   },
+   "creator": {
+    "handle": "ozansihay",
+    "name": "Ozan Sihay"
+   },
+   "original_post_url": "https://x.com/ozansihay/status/2111333150018171231",
+   "posted_at": "2026-10-17T05:47:04.000Z",
+   "language": "tr",
+   "duration_seconds": 68,
+   "views": 19500,
+   "likes": 141,
+   "bookmarks": 166,
+   "views_checked_at": "2026-10-18T05:53:39.073Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2111332030470328320/img/Y-zNuPu1rFgPNCmV.jpg",
+   "tools_reported": [
+    "ElevenLabs"
+   ],
+   "reference_assets": true,
+   "prompt": {
+    "kind": "full",
+    "source": "post",
+    "source_url": "https://x.com/ozansihay/status/2111333150018171231",
+    "length": 538,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2111333150018171231"
+   },
    "resources": []
   },
   {
@@ -38029,6 +38577,34 @@
    "resources": []
   },
   {
+   "id": "2110989121682559063",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "stories",
+   "title": {
+    "zh": "根据mp3歌曲生成的动画歌词视频",
+    "en": "Animated lyric video generated from an mp3 song"
+   },
+   "creator": {
+    "handle": "AIMevzulari",
+    "name": "Eray’la Yapay Zeka"
+   },
+   "original_post_url": "https://x.com/AIMevzulari/status/2110989121682559063",
+   "posted_at": "2026-10-16T07:00:01.000Z",
+   "language": "tr",
+   "duration_seconds": 163,
+   "views": 18468,
+   "likes": 166,
+   "bookmarks": 154,
+   "views_checked_at": "2026-10-17T16:28:18.211Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110884301554249728/img/cGRkz6JA_U2JRw_3.jpg",
+   "tools_reported": [],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2106268513644273809",
    "models": [
     "opus-5.5"
@@ -38186,6 +38762,34 @@
    "resources": [
     "https://scrolltide.co"
    ]
+  },
+  {
+   "id": "2111285052617445438",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "Blender压力测试动画",
+    "en": "Blender stress test animation"
+   },
+   "creator": {
+    "handle": "rileybrown",
+    "name": "Riley Brown"
+   },
+   "original_post_url": "https://x.com/rileybrown/status/2111285052617445438",
+   "posted_at": "2026-10-17T02:35:56.000Z",
+   "language": "en",
+   "duration_seconds": 153,
+   "views": 18229,
+   "likes": 192,
+   "bookmarks": 130,
+   "views_checked_at": "2026-10-18T05:53:39.073Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2111284834450444288/img/0cevXCiY8PwmU7sk.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
   },
   {
    "id": "2103537802688463269",
@@ -38504,6 +39108,37 @@
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2103330431839948800/img/MTFre-A62a7rgKVh.jpg",
    "tools_reported": [
     "Roblox"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2111087834329399635",
+   "models": [
+    "opus-5.5",
+    "fable-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "音乐与音效同步的动画场景",
+    "en": "Animated scene with synced music and sound effects"
+   },
+   "creator": {
+    "handle": "chetaslua",
+    "name": "Chetaslua"
+   },
+   "original_post_url": "https://x.com/chetaslua/status/2111087834329399635",
+   "posted_at": "2026-10-16T13:32:16.000Z",
+   "language": "en",
+   "duration_seconds": 32,
+   "views": 17973,
+   "likes": 419,
+   "bookmarks": 89,
+   "views_checked_at": "2026-10-17T16:28:18.211Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2111087396007890944/img/wRiefKLSs9kCeyAN.jpg",
+   "tools_reported": [
+    "Blender"
    ],
    "reference_assets": false,
    "prompt": null,
@@ -39356,6 +39991,34 @@
    "resources": []
   },
   {
+   "id": "2111118746786165033",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "game",
+   "title": {
+    "zh": "含商店、宠物与金币系统的Roblox游戏",
+    "en": "Roblox game with shop, pets and cash systems"
+   },
+   "creator": {
+    "handle": "ai_growth_avii",
+    "name": "Avi Yadav "
+   },
+   "original_post_url": "https://x.com/ai_growth_avii/status/2111118746786165033",
+   "posted_at": "2026-10-16T15:35:06.000Z",
+   "language": "en",
+   "duration_seconds": 52,
+   "views": 17331,
+   "likes": 196,
+   "bookmarks": 125,
+   "views_checked_at": "2026-10-17T16:28:18.211Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110799820567064576/img/OKkkr0fwTvqRAy_n.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2107828212042473886",
    "models": [
     "opus-5.5"
@@ -40164,6 +40827,34 @@
    "resources": []
   },
   {
+   "id": "2111138912349626801",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "可变形收割机器人概念",
+    "en": "Shape-shifting harvester robot concept"
+   },
+   "creator": {
+    "handle": "DilumSanjaya",
+    "name": "Dilum Sanjaya"
+   },
+   "original_post_url": "https://x.com/DilumSanjaya/status/2111138912349626801",
+   "posted_at": "2026-10-16T16:55:14.000Z",
+   "language": "en",
+   "duration_seconds": 70,
+   "views": 16555,
+   "likes": 435,
+   "bookmarks": 214,
+   "views_checked_at": "2026-10-18T05:53:39.073Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2111136477518462977/img/-VYa3rXjq2toH4-y.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2102831492024172840",
    "models": [
     "opus-5.5"
@@ -40828,6 +41519,40 @@
    ]
   },
   {
+   "id": "2111256122040406443",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "production",
+   "title": {
+    "zh": "《晚餐之跑》动画调色与升频处理",
+    "en": "Supper Run animated short with color grading"
+   },
+   "creator": {
+    "handle": "aimikoda",
+    "name": "Kōda"
+   },
+   "original_post_url": "https://x.com/aimikoda/status/2111256122040406443",
+   "posted_at": "2026-10-17T00:40:59.000Z",
+   "language": "en",
+   "duration_seconds": 57,
+   "views": 15917,
+   "likes": 535,
+   "bookmarks": 273,
+   "views_checked_at": "2026-10-18T05:53:39.073Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2111254739149017088/img/_1SlvipCkOpv_0oT.jpg",
+   "tools_reported": [
+    "Seedance 2.5",
+    "Midjourney",
+    "Python",
+    "ffmpeg",
+    "DaVinci Resolve"
+   ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2103599163804098708",
    "models": [
     "opus-5.5"
@@ -41010,6 +41735,43 @@
    ],
    "reference_assets": false,
    "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2111111416120053953",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "stories",
+   "title": {
+    "zh": "海外AI对国人态度小剧场",
+    "en": "Skit about overseas AI attitudes toward Chinese users"
+   },
+   "creator": {
+    "handle": "Gorden_Sun",
+    "name": "Gorden Sun"
+   },
+   "original_post_url": "https://x.com/Gorden_Sun/status/2111111416120053953",
+   "posted_at": "2026-10-16T15:05:58.000Z",
+   "language": "zh",
+   "duration_seconds": 58,
+   "views": 15623,
+   "likes": 163,
+   "bookmarks": 71,
+   "views_checked_at": "2026-10-17T16:28:18.211Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2111110768297140224/img/J-y_okUmkh7kUmJ1.jpg",
+   "tools_reported": [
+    "EdgeSpeak",
+    "Qwen3-TTS"
+   ],
+   "reference_assets": true,
+   "prompt": {
+    "kind": "full",
+    "source": "post",
+    "source_url": "https://x.com/Gorden_Sun/status/2111111416120053953",
+    "length": 799,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2111111416120053953"
+   },
    "resources": []
   },
   {
@@ -42694,6 +43456,34 @@
    "resources": []
   },
   {
+   "id": "2111164202891059422",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "game",
+   "title": {
+    "zh": "Kong Royale多人大逃杀",
+    "en": "Kong Royale multiplayer battle royale"
+   },
+   "creator": {
+    "handle": "_MaxBlade",
+    "name": "Max Blade"
+   },
+   "original_post_url": "https://x.com/_MaxBlade/status/2111164202891059422",
+   "posted_at": "2026-10-16T18:35:44.000Z",
+   "language": "en",
+   "duration_seconds": 72,
+   "views": 14008,
+   "likes": 265,
+   "bookmarks": 55,
+   "views_checked_at": "2026-10-18T05:53:39.073Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2111161811470848002/img/L2Su2BuIimcx-uFo.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2103801828744061307",
    "models": [
     "opus-5.5"
@@ -43364,6 +44154,34 @@
    "resources": []
   },
   {
+   "id": "2111128415319548058",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "game",
+   "title": {
+    "zh": "素食咖啡馆循环对话游戏",
+    "en": "Exit 8-style vegan cafe loop game"
+   },
+   "creator": {
+    "handle": "parhelion318",
+    "name": "Dr. Apolotary"
+   },
+   "original_post_url": "https://x.com/parhelion318/status/2111128415319548058",
+   "posted_at": "2026-10-16T16:13:31.000Z",
+   "language": "ru",
+   "duration_seconds": 56,
+   "views": 13368,
+   "likes": 349,
+   "bookmarks": 71,
+   "views_checked_at": "2026-10-17T16:28:18.211Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2111128367982669824/img/sgLRPYZaqQpCydFS.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2110057849653002459",
    "models": [
     "opus-5.5"
@@ -43479,6 +44297,35 @@
    "bookmarks": 21,
    "views_checked_at": "2026-10-12T10:21:57.299Z",
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2103462139868614656/img/xlKvezMeUsOTtcGe.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2111172786286690324",
+   "models": [
+    "opus-5.5",
+    "sonnet-5.5"
+   ],
+   "category": "education",
+   "title": {
+    "zh": "光合作用艺术讲解动画",
+    "en": "The Art of Photosynthesis explainer"
+   },
+   "creator": {
+    "handle": "devteamdrew",
+    "name": "DreW"
+   },
+   "original_post_url": "https://x.com/devteamdrew/status/2111172786286690324",
+   "posted_at": "2026-10-16T19:09:50.000Z",
+   "language": "en",
+   "duration_seconds": 47,
+   "views": 13219,
+   "likes": 317,
+   "bookmarks": 184,
+   "views_checked_at": "2026-10-18T05:53:39.073Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2111172581608849408/img/beSyEm3JBXf7lwvU.jpg",
    "tools_reported": [],
    "reference_assets": false,
    "prompt": null,
@@ -45001,6 +45848,39 @@
    "resources": []
   },
   {
+   "id": "2111034892750409811",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "game",
+   "title": {
+    "zh": "虚幻引擎5捉鬼游戏",
+    "en": "Ghost-hunting game built in Unreal Engine 5"
+   },
+   "creator": {
+    "handle": "rewind02",
+    "name": "rewind"
+   },
+   "original_post_url": "https://x.com/rewind02/status/2111034892750409811",
+   "posted_at": "2026-10-16T10:01:54.000Z",
+   "language": "en",
+   "duration_seconds": 24,
+   "views": 12170,
+   "likes": 199,
+   "bookmarks": 190,
+   "views_checked_at": "2026-10-17T16:28:18.211Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2111034776484237312/img/giUSdNl1PibcFhqy.jpg",
+   "tools_reported": [
+    "Unreal Engine 5",
+    "Unreal MCP",
+    "Tripo",
+    "Blender"
+   ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2103903798691606616",
    "models": [
     "opus-5.5"
@@ -45176,6 +46056,34 @@
    "bookmarks": 41,
    "views_checked_at": "2026-10-12T10:21:57.299Z",
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2102583349122592769/img/2tuO5-n0NgW-wQWv.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2110068531941527601",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "production",
+   "title": {
+    "zh": "自动化内容视频剪辑",
+    "en": "Automated content video edit"
+   },
+   "creator": {
+    "handle": "condzxyz",
+    "name": "Condz"
+   },
+   "original_post_url": "https://x.com/condzxyz/status/2110068531941527601",
+   "posted_at": "2026-10-13T18:01:55.000Z",
+   "language": "pt",
+   "duration_seconds": 469,
+   "views": 11909,
+   "likes": 244,
+   "bookmarks": 191,
+   "views_checked_at": "2026-10-18T03:43:31.607Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110067841995018240/img/Ng-XLgeW-Ib_56Z0.jpg",
    "tools_reported": [],
    "reference_assets": false,
    "prompt": null,
@@ -47152,6 +48060,36 @@
    "resources": []
   },
   {
+   "id": "2111115013398352298",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "Opus 5.5对比GPT-6 Astra背景生成",
+    "en": "Opus 5.5 vs GPT-6 Astra background generation"
+   },
+   "creator": {
+    "handle": "EnvolDev",
+    "name": "Tony"
+   },
+   "original_post_url": "https://x.com/EnvolDev/status/2111115013398352298",
+   "posted_at": "2026-10-16T15:20:16.000Z",
+   "language": "en",
+   "duration_seconds": 25,
+   "views": 10663,
+   "likes": 132,
+   "bookmarks": 31,
+   "views_checked_at": "2026-10-17T16:28:18.211Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2111114804509437952/img/DV7U03xCoJ7DjieO.jpg",
+   "tools_reported": [
+    "GPT-6 Astra"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2106299981875347740",
    "models": [
     "opus-5.5"
@@ -47899,6 +48837,35 @@
    "resources": []
   },
   {
+   "id": "2110156508097110075",
+   "models": [
+    "opus-5.5",
+    "fable-5.5"
+   ],
+   "category": "motion",
+   "title": {
+    "zh": "动画视觉作品",
+    "en": "Animated visual piece"
+   },
+   "creator": {
+    "handle": "devteamdrew",
+    "name": "DreW"
+   },
+   "original_post_url": "https://x.com/devteamdrew/status/2110156508097110075",
+   "posted_at": "2026-10-13T23:51:30.000Z",
+   "language": "en",
+   "duration_seconds": 65,
+   "views": 10088,
+   "likes": 277,
+   "bookmarks": 150,
+   "views_checked_at": "2026-10-18T03:43:31.607Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110154069343899648/img/PUiT7Q3GqdnWxDFx.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2103517427749241133",
    "models": [
     "opus-5.5"
@@ -47992,6 +48959,38 @@
     "length": 38,
     "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103553398738219450"
    },
+   "resources": []
+  },
+  {
+   "id": "2111112282583548122",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "三个模型的Three.js场景对比",
+    "en": "Three.js scene across three models"
+   },
+   "creator": {
+    "handle": "AI_Screening",
+    "name": "Pranav Reddy"
+   },
+   "original_post_url": "https://x.com/AI_Screening/status/2111112282583548122",
+   "posted_at": "2026-10-16T15:09:25.000Z",
+   "language": "en",
+   "duration_seconds": 14,
+   "views": 9984,
+   "likes": 103,
+   "bookmarks": 11,
+   "views_checked_at": "2026-10-17T16:28:18.211Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2111112145845002240/img/bod4WW3c_TIa020A.jpg",
+   "tools_reported": [
+    "Gemini 4 Argon",
+    "Muse Wonderful",
+    "Three.js"
+   ],
+   "reference_assets": false,
+   "prompt": null,
    "resources": []
   },
   {
@@ -48339,6 +49338,36 @@
    "resources": []
   },
   {
+   "id": "2110190072628642204",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "production",
+   "title": {
+    "zh": "基于自定义音效技能的智能体视频剪辑",
+    "en": "Agent-driven video edit with custom SFX skill"
+   },
+   "creator": {
+    "handle": "stxrmye",
+    "name": "stormy"
+   },
+   "original_post_url": "https://x.com/stxrmye/status/2110190072628642204",
+   "posted_at": "2026-10-14T02:04:53.000Z",
+   "language": "pt",
+   "duration_seconds": 31,
+   "views": 9646,
+   "likes": 115,
+   "bookmarks": 31,
+   "views_checked_at": "2026-10-18T03:43:31.607Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110189882500907010/img/b85g_Q92ZSQpFfrI.jpg",
+   "tools_reported": [
+    "GPT-5.4"
+   ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2102781807179735211",
    "models": [
     "opus-5.5"
@@ -48373,6 +49402,36 @@
     "length": 73,
     "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102781807179735211"
    },
+   "resources": []
+  },
+  {
+   "id": "2111109914055803222",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "game",
+   "title": {
+    "zh": "森林鹿漫步互动场景",
+    "en": "Deer forest interactive scene"
+   },
+   "creator": {
+    "handle": "tripoai",
+    "name": "Tripo"
+   },
+   "original_post_url": "https://x.com/tripoai/status/2111109914055803222",
+   "posted_at": "2026-10-16T15:00:00.000Z",
+   "language": "en",
+   "duration_seconds": 29,
+   "views": 9621,
+   "likes": 147,
+   "bookmarks": 104,
+   "views_checked_at": "2026-10-17T16:28:18.211Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2111034685212225536/img/eJBashpRPvlnpSS2.jpg",
+   "tools_reported": [
+    "Tripo API"
+   ],
+   "reference_assets": true,
+   "prompt": null,
    "resources": []
   },
   {
@@ -48999,6 +50058,36 @@
     "Flowith"
    ],
    "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2110982632854966766",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "production",
+   "title": {
+    "zh": "由一张图和一首mp3生成的音乐视频",
+    "en": "Music video cut from one image and one mp3"
+   },
+   "creator": {
+    "handle": "cgnot996",
+    "name": "铁柱AGI"
+   },
+   "original_post_url": "https://x.com/cgnot996/status/2110982632854966766",
+   "posted_at": "2026-10-16T06:34:14.000Z",
+   "language": "zh",
+   "duration_seconds": 154,
+   "views": 9277,
+   "likes": 100,
+   "bookmarks": 89,
+   "views_checked_at": "2026-10-17T16:28:18.211Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110981169508728832/img/iRXNz_HhvY9bQuWY.jpg",
+   "tools_reported": [
+    "Notion"
+   ],
+   "reference_assets": true,
    "prompt": null,
    "resources": []
   },
@@ -49882,6 +50971,43 @@
    "resources": []
   },
   {
+   "id": "2110014604524896392",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "日式神社场景对比",
+    "en": "Japanese shrine scene comparison"
+   },
+   "creator": {
+    "handle": "vib3coded",
+    "name": "Vib3Coded"
+   },
+   "original_post_url": "https://x.com/vib3coded/status/2110014604524896392",
+   "posted_at": "2026-10-13T14:27:38.000Z",
+   "language": "en",
+   "duration_seconds": 17,
+   "views": 8753,
+   "likes": 205,
+   "bookmarks": 114,
+   "views_checked_at": "2026-10-18T03:43:31.607Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110014349251084288/img/uC_b9kCbqLuK6swA.jpg",
+   "tools_reported": [
+    "Three.js",
+    "ChatGPT-6 Astra"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "full",
+    "source": "author_reply",
+    "source_url": "https://x.com/vib3coded/status/2110014758548078979",
+    "length": 7828,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2110014604524896392"
+   },
+   "resources": []
+  },
+  {
    "id": "2102462310224900476",
    "models": [
     "opus-5.5"
@@ -50064,6 +51190,43 @@
    "resources": []
   },
   {
+   "id": "2111106285126971770",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "毛绒鸽子软体挤压玩具",
+    "en": "Plush pigeon soft-body squish toy"
+   },
+   "creator": {
+    "handle": "vib3coded",
+    "name": "Vib3Coded"
+   },
+   "original_post_url": "https://x.com/vib3coded/status/2111106285126971770",
+   "posted_at": "2026-10-16T14:45:35.000Z",
+   "language": "en",
+   "duration_seconds": 18,
+   "views": 8601,
+   "likes": 173,
+   "bookmarks": 52,
+   "views_checked_at": "2026-10-17T16:28:18.211Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2111106110715260928/img/uUd3bFjUT-xrDDRj.jpg",
+   "tools_reported": [
+    "ChatGPT-6 Astra",
+    "WebGPU"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "full",
+    "source": "author_reply",
+    "source_url": "https://x.com/vib3coded/status/2111106530179248605",
+    "length": 1365,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2111106285126971770"
+   },
+   "resources": []
+  },
+  {
    "id": "2110795590858571945",
    "models": [
     "opus-5.5",
@@ -50090,6 +51253,69 @@
    "tools_reported": [
     "Gemini 4 Argon",
     "Fable"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2109892378383540394",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "production",
+   "title": {
+    "zh": "Excel定格动画结合Blender制作",
+    "en": "Excel stop-motion animation with Blender"
+   },
+   "creator": {
+    "handle": "aicreataro",
+    "name": "aicreataro"
+   },
+   "original_post_url": "https://x.com/aicreataro/status/2109892378383540394",
+   "posted_at": "2026-10-13T06:21:57.000Z",
+   "language": "ja",
+   "duration_seconds": 61,
+   "views": 8516,
+   "likes": 118,
+   "bookmarks": 61,
+   "views_checked_at": "2026-10-18T03:43:31.607Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2109891279203307520/img/2S3nAyEc4gnSnpMJ.jpg",
+   "tools_reported": [
+    "Excel",
+    "Blender",
+    "Midjourney",
+    "Kling"
+   ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2109778453625020920",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "product",
+   "title": {
+    "zh": "Unity杜比全景声可视化工具",
+    "en": "Unity Dolby Atmos visualizer"
+   },
+   "creator": {
+    "handle": "chroman",
+    "name": "Christian Roman"
+   },
+   "original_post_url": "https://x.com/chroman/status/2109778453625020920",
+   "posted_at": "2026-10-12T22:49:15.000Z",
+   "language": "es",
+   "duration_seconds": 50,
+   "views": 8505,
+   "likes": 107,
+   "bookmarks": 48,
+   "views_checked_at": "2026-10-18T03:43:31.607Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2109775616799027200/img/HOwfU14tQBe4hw7N.jpg",
+   "tools_reported": [
+    "Unity"
    ],
    "reference_assets": false,
    "prompt": null,
@@ -50336,6 +51562,34 @@
    "bookmarks": 14,
    "views_checked_at": "2026-10-12T10:21:57.299Z",
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2103807715156123648/img/vVrWxntig4pZMjYu.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2111276874064412934",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "game",
+   "title": {
+    "zh": "浏览器中重建的《星球大战前线2》",
+    "en": "Battlefront II reconstructed in the browser"
+   },
+   "creator": {
+    "handle": "luckeyfaraday",
+    "name": "Luckey Faraday"
+   },
+   "original_post_url": "https://x.com/luckeyfaraday/status/2111276874064412934",
+   "posted_at": "2026-10-17T02:03:27.000Z",
+   "language": "en",
+   "duration_seconds": 138,
+   "views": 8413,
+   "likes": 174,
+   "bookmarks": 67,
+   "views_checked_at": "2026-10-18T05:53:39.073Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2111276644023316480/img/5700OGkF3WooN1s9.jpg",
    "tools_reported": [],
    "reference_assets": false,
    "prompt": null,
@@ -50753,6 +52007,38 @@
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2103643811780112384/img/_ozB-RwQ65bcXcqn.jpg",
    "tools_reported": [],
    "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2109991235545190801",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "product",
+   "title": {
+    "zh": "Hyprland桌面主题定制",
+    "en": "Hyprland desktop theme customization"
+   },
+   "creator": {
+    "handle": "XMihura",
+    "name": "Mihura"
+   },
+   "original_post_url": "https://x.com/XMihura/status/2109991235545190801",
+   "posted_at": "2026-10-13T12:54:46.000Z",
+   "language": "es",
+   "duration_seconds": 60,
+   "views": 8064,
+   "likes": 100,
+   "bookmarks": 52,
+   "views_checked_at": "2026-10-18T03:43:31.607Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2109989897851342848/img/H9bphV4Dxri2tyAT.jpg",
+   "tools_reported": [
+    "Hyprland",
+    "Astra",
+    "Fable"
+   ],
+   "reference_assets": false,
    "prompt": null,
    "resources": []
   },
@@ -52349,6 +53635,38 @@
    "resources": []
   },
   {
+   "id": "2109834099217285170",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "stories",
+   "title": {
+    "zh": "NURSE RIOT AI音乐视频",
+    "en": "NURSE RIOT AI music video"
+   },
+   "creator": {
+    "handle": "mi7_crypto",
+    "name": "M7［mi7］AI"
+   },
+   "original_post_url": "https://x.com/mi7_crypto/status/2109834099217285170",
+   "posted_at": "2026-10-13T02:30:22.000Z",
+   "language": "ja",
+   "duration_seconds": 60,
+   "views": 6811,
+   "likes": 167,
+   "bookmarks": 12,
+   "views_checked_at": "2026-10-18T03:43:31.607Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2109833983525863424/img/ot_ZAufjDOAQUAW5.jpg",
+   "tools_reported": [
+    "Seedance2.5",
+    "Claude Code",
+    "PixVerse CPP"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2107769950068998375",
    "models": [
     "opus-5.5"
@@ -53695,6 +55013,34 @@
    "resources": []
   },
   {
+   "id": "2110218646689599861",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "motion",
+   "title": {
+    "zh": "短篇动画",
+    "en": "Short animation"
+   },
+   "creator": {
+    "handle": "fakharkamario",
+    "name": "Fakhar"
+   },
+   "original_post_url": "https://x.com/fakharkamario/status/2110218646689599861",
+   "posted_at": "2026-10-14T03:58:25.000Z",
+   "language": "en",
+   "duration_seconds": 10,
+   "views": 5640,
+   "likes": 113,
+   "bookmarks": 101,
+   "views_checked_at": "2026-10-18T03:43:31.607Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110218580788711424/img/2n69sRRZ8Bz4oJaf.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2103449301838078098",
    "models": [
     "opus-5.5"
@@ -53837,6 +55183,37 @@
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2108204931572203520/img/cw4NV8iZAk3Oa2JF.jpg",
    "tools_reported": [],
    "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2109982871209304334",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "production",
+   "title": {
+    "zh": "用Claude Opus重新剪辑的2007年电影预告片",
+    "en": "2007 film trailer re-edited with Claude Opus"
+   },
+   "creator": {
+    "handle": "JoshDaws",
+    "name": "Josh Daws"
+   },
+   "original_post_url": "https://x.com/JoshDaws/status/2109982871209304334",
+   "posted_at": "2026-10-13T12:21:32.000Z",
+   "language": "en",
+   "duration_seconds": 141,
+   "views": 5414,
+   "likes": 129,
+   "bookmarks": 12,
+   "views_checked_at": "2026-10-18T03:43:31.607Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2109981399616798720/img/N8QkqpI7_ZQCBvLC.jpg",
+   "tools_reported": [
+    "ElevenLabs",
+    "Topaz"
+   ],
+   "reference_assets": true,
    "prompt": null,
    "resources": []
   },
@@ -54057,6 +55434,90 @@
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2109474315817418752/img/wi_IusauDuDs0lPI.jpg",
    "tools_reported": [],
    "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2110235247745052913",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "product",
+   "title": {
+    "zh": "游戏化仓库管理软件",
+    "en": "Gamified warehouse management software"
+   },
+   "creator": {
+    "handle": "LearnWithSubhan",
+    "name": "Subhan Qureshi"
+   },
+   "original_post_url": "https://x.com/LearnWithSubhan/status/2110235247745052913",
+   "posted_at": "2026-10-14T05:04:23.000Z",
+   "language": "en",
+   "duration_seconds": 72,
+   "views": 5089,
+   "likes": 148,
+   "bookmarks": 40,
+   "views_checked_at": "2026-10-18T03:43:31.607Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110235150177148928/img/k5BJnpNO3KzrJA0Y.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2111187771440370028",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "由Opus 5.5制作的可探索3D自然世界及音效",
+    "en": "Explorable 3D nature world with sound by Opus 5.5"
+   },
+   "creator": {
+    "handle": "techartist_",
+    "name": "Techartist"
+   },
+   "original_post_url": "https://x.com/techartist_/status/2111187771440370028",
+   "posted_at": "2026-10-16T20:09:23.000Z",
+   "language": "en",
+   "duration_seconds": 30,
+   "views": 5008,
+   "likes": 142,
+   "bookmarks": 47,
+   "views_checked_at": "2026-10-18T05:53:39.073Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2111185230971428864/img/pqToGVOOJcOAf0Tw.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2111004303075000494",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "production",
+   "title": {
+    "zh": "视频剪辑尝试",
+    "en": "Video editing experiment"
+   },
+   "creator": {
+    "handle": "Madariyanhadi",
+    "name": "Mada Riyanhadi 📸"
+   },
+   "original_post_url": "https://x.com/Madariyanhadi/status/2111004303075000494",
+   "posted_at": "2026-10-16T08:00:21.000Z",
+   "language": "in",
+   "duration_seconds": 68,
+   "views": 5003,
+   "likes": 144,
+   "bookmarks": 70,
+   "views_checked_at": "2026-10-17T16:28:18.211Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2111004260540600321/img/3eK-4Vi82ZYwI0Af.jpg",
+   "tools_reported": [],
+   "reference_assets": true,
    "prompt": null,
    "resources": []
   }
