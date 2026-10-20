@@ -1,6 +1,6 @@
 # Explainers & education
 
-159 works, 49 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+161 works, 49 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Whiteboard animation explaining Leidenfrost effect](https://x.com/realYunfanYe/status/2103496245343916158) | Opus 5.5 | [@realYunfanYe](https://x.com/realYunfanYe) | 1:00 | — |
 | [Animated cycloid lesson](https://x.com/AIMevzulari/status/2106052083040256293) | Opus 5.5 | [@AIMevzulari](https://x.com/AIMevzulari) | 2:08 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2106052083040256293) |
 | [3D narrated IKEA assembly instructional video](https://x.com/deedydas/status/2103174501345493197) | Opus 5.5 | [@deedydas](https://x.com/deedydas) | 1:42 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103174501345493197) |
+| [Visualization of Scion source control system](https://x.com/devteamdrew/status/2111864203753492513) | Opus 5.5 | [@devteamdrew](https://x.com/devteamdrew) | 1:39 | — |
 | [Elementary math carrying addition lesson](https://x.com/akira_papa_IT/status/2102899599501668561) | Opus 5.5 | [@akira_papa_IT](https://x.com/akira_papa_IT) | 2:40 | — |
 | [America-focused civilization documentary](https://x.com/frontierism/status/2103738204411379949) | Opus 5.5 | [@frontierism](https://x.com/frontierism) | 1:59 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103738204411379949) |
 | [Free-electron laser explainer video](https://x.com/Frenchie_/status/2103731959918948730) | Opus 5.5 | [@Frenchie_](https://x.com/Frenchie_) | 3:21 | — |
@@ -157,6 +158,7 @@
 | [Interactive wind tunnel lift explainer](https://x.com/konstantinsaifo/status/2109595253879816337) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 0:34 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2109595253879816337) |
 | [Econometrics explainer with simulations](https://x.com/mehmetsongur_/status/2108896132395061356) | Opus 5.5 | [@mehmetsongur_](https://x.com/mehmetsongur_) | 12:00 | — |
 | [Battle of Midway 3D explainer film](https://x.com/wshuyi/status/2103644455916175505) | Opus 5.5 | [@wshuyi](https://x.com/wshuyi) | 8:29 | — |
+| [Battle of Dakar WWII documentary video](https://x.com/PapeDudu_ndoye/status/2111869029623157109) | Opus 5.5 | [@PapeDudu_ndoye](https://x.com/PapeDudu_ndoye) | 3:15 | — |
 | [Warehouse parcel sorting decision simulation](https://x.com/konstantinsaifo/status/2108914585340428549) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 0:40 | — |
 | [Crypto trading concept animation](https://x.com/Dan_Kostecki/status/2103761581871964592) | Opus 5.5 | [@Dan_Kostecki](https://x.com/Dan_Kostecki) | 2:43 | — |
 | [15-second persuasive explainer on ending the Fed](https://x.com/cboyack/status/2103617085402407181) | Opus 5.5 | [@cboyack](https://x.com/cboyack) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103617085402407181) |

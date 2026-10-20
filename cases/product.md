@@ -1,6 +1,6 @@
 # Product demos & ads
 
-204 works, 40 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+207 works, 41 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Punchy ad video from a marketing email](https://x.com/gastypm/status/2102863204472799549) | Opus 5.5 | [@gastypm](https://x.com/gastypm) | 0:20 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102863204472799549) |
 | [AI ad agency workflow with Meta Ads MCP](https://x.com/PrajwalTomar_/status/2103862956211704144) | Opus 5.5 | [@PrajwalTomar_](https://x.com/PrajwalTomar_) | 0:25 | — |
 | [30-Second Product Promo](https://x.com/shownotover/status/2104124596957933687) | Opus 5.5 | [@shownotover](https://x.com/shownotover) | 0:30 | — |
+| [Coffee shop website concept](https://x.com/DilumSanjaya/status/2111864428010582082) | Opus 5.5 | [@DilumSanjaya](https://x.com/DilumSanjaya) | 1:03 | — |
 | [Redesigned railway station UX concept](https://x.com/jgarcelan/status/2103131351557763433) | Opus 5.5 | [@jgarcelan](https://x.com/jgarcelan) | 0:15 | — |
 | [iPhone Duo app redesign demo video](https://x.com/anshuc/status/2103598854801084824) | Opus 5.5 | [@anshuc](https://x.com/anshuc) | 1:00 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103598854801084824) |
 | [Trade Journal open-source app edit](https://x.com/LuxAlgo/status/2104668775798739107) | Opus 5.5 | [@LuxAlgo](https://x.com/LuxAlgo) | 0:30 | — |
@@ -156,6 +157,7 @@
 | [iOS photo-to-video app prototype](https://x.com/Avenoxai/status/2105284205852696594) | Opus 5.5 | [@Avenoxai](https://x.com/Avenoxai) | 0:19 | — |
 | [Real estate listing motion graphic ad](https://x.com/alfageeh9/status/2103771626395357203) | Opus 5.5 | [@alfageeh9](https://x.com/alfageeh9) | 0:30 | — |
 | [Liquid glass web hero section](https://x.com/viktoroddy/status/2106061619176620344) | Opus 5.5 | [@viktoroddy](https://x.com/viktoroddy) | 12:52 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2106061619176620344) |
+| [Unofficial Tesla Roadster commercial](https://x.com/kevin_t_ngo/status/2111887585639624828) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 1:05 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2111887585639624828) |
 | [Camper van trip planner interactive map](https://x.com/Skylartkitchen/status/2103591755564085589) | Opus 5.5 | [@Skylartkitchen](https://x.com/Skylartkitchen) | 0:30 | — |
 | [Ad-free streaming service clone](https://x.com/0x0SojalSec/status/2110110952008069345) | Opus 5.5 | [@0x0SojalSec](https://x.com/0x0SojalSec) | 0:23 | — |
 | [App promotional video before launch](https://x.com/yayoi_threee/status/2103106389489127504) | Opus 5.5 | [@yayoi_threee](https://x.com/yayoi_threee) | 0:30 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103106389489127504) |
@@ -175,6 +177,7 @@
 | [Tool for auditing AI agent business claims](https://x.com/Argona0x/status/2103589768353526049) | Opus 5.5 | [@Argona0x](https://x.com/Argona0x) | 0:30 | — |
 | [App introduction video made entirely by Opus](https://x.com/__oQuery/status/2103745537455673700) | Opus 5.5 | [@__oQuery](https://x.com/__oQuery) | 1:16 | — |
 | [AI compatibility quiz app](https://x.com/hituji_1234/status/2103088141439787502) | Opus 5.5 | [@hituji_1234](https://x.com/hituji_1234) | 0:51 | — |
+| [El Bibliotecario infinite library teaser](https://x.com/GuliMoreno/status/2111773991991943442) | Opus 5.5 | [@GuliMoreno](https://x.com/GuliMoreno) | 0:20 | — |
 | [Claymation-style ad for Remote Control feature](https://x.com/noahzweben/status/2103522997978255704) | Opus 5.5 | [@noahzweben](https://x.com/noahzweben) | 0:12 | — |
 | [Interactive frontend artifact](https://x.com/LexnLin/status/2106843514772639995) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 0:42 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2106843514772639995) |
 | [Flowith Canvas AI-made piece](https://x.com/DerekNee/status/2103729728549220815) | Opus 5.5 | [@DerekNee](https://x.com/DerekNee) | 0:45 | — |

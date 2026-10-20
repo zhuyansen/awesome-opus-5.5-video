@@ -1,6 +1,6 @@
 # 制作流程
 
-共 136 个作品，其中 24 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 140 个作品，其中 25 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [自动清理3D打印机打印床的方案](https://x.com/mattshumer_/status/2104777202684301750) | Opus 5.5 | [@mattshumer_](https://x.com/mattshumer_) | 0:25 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104777202684301750) |
 | [由Opus 5.5剪辑的视频](https://x.com/eguri89/status/2110316407485608282) | Opus 5.5 | [@eguri89](https://x.com/eguri89) | 0:57 | — |
 | [由代理调用音效库完成的视频剪辑](https://x.com/lucakvlr/status/2110111408364888065) | Opus 5.5 | [@lucakvlr](https://x.com/lucakvlr) | 0:23 | — |
+| [用Opus 5.5制作的视频剪辑](https://x.com/ErnestoSOFTWARE/status/2111878898552102934) | Opus 5.5 | [@ErnestoSOFTWARE](https://x.com/ErnestoSOFTWARE) | 1:01 | — |
 | [致敬主题音乐视频](https://x.com/bradmillscan/status/2106096188915347821) | Opus 5.5 | [@bradmillscan](https://x.com/bradmillscan) | 5:30 | — |
 | [完全代码化的影音制作](https://x.com/__gsk__/status/2104832372164444162) | Opus 5.5 | [@__gsk__](https://x.com/__gsk__) | 0:30 | — |
 | [重新剪辑的Instagram发布视频](https://x.com/joshaeeee/status/2103386096411553888) | Opus 5.5 | [@joshaeeee](https://x.com/joshaeeee) | 0:25 | — |
@@ -58,6 +59,7 @@
 | [全自动视频剪辑流程演示](https://x.com/AIPlus_AISchool/status/2103441866717073637) | Opus 5.5 | [@AIPlus_AISchool](https://x.com/AIPlus_AISchool) | 1:00 | — |
 | [电子音乐（Techno）创作](https://x.com/Dr_Singularity/status/2104013854909116657) | Opus 5.5 | [@Dr_Singularity](https://x.com/Dr_Singularity) | 5:02 | — |
 | [多工具流水线制作的克隆声音短视频](https://x.com/masahirochaen/status/2103872865770836012) | Opus 5.5 | [@masahirochaen](https://x.com/masahirochaen) | 0:57 | — |
+| [单一提示自动化视频剪辑与Blender场景](https://x.com/rileybrown/status/2111925755215040779) | Opus 5.5 | [@rileybrown](https://x.com/rileybrown) | 1:37 | — |
 | [山姆·奥特曼YTP恶搞视频](https://x.com/JaydenDavisNC/status/2109764557308592537) | Opus 5.5 | [@JaydenDavisNC](https://x.com/JaydenDavisNC) | 3:39 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2109764557308592537) |
 | [游戏自动VFX生成流水线](https://x.com/KanaWorks_AI/status/2107752774423511539) | Opus 5.5 | [@KanaWorks_AI](https://x.com/KanaWorks_AI) | 0:32 | — |
 | [Opus生成的工业电子BGM](https://x.com/mochitaro_de/status/2103343950996345191) | Opus 5.5 | [@mochitaro_de](https://x.com/mochitaro_de) | 0:15 | — |
@@ -71,6 +73,7 @@
 | [代码制作的燃向视频剪辑](https://x.com/pleometric/status/2102804821623386523) | Opus 5.5 | [@pleometric](https://x.com/pleometric) | 0:23 | — |
 | [用Opus和Blender完成单提示词视频剪辑](https://x.com/rileybrown/status/2111616349071913051) | Opus 5.5 | [@rileybrown](https://x.com/rileybrown) | 1:22 | — |
 | [Opus 5.5视频制作演示](https://x.com/dabit3/status/2103523033264656464) | Opus 5.5 | [@dabit3](https://x.com/dabit3) | 0:44 | — |
+| [AI虚拟主播播客视频演示](https://x.com/nakazakifam/status/2111929310256984210) | Opus 5.5 | [@nakazakifam](https://x.com/nakazakifam) | 2:04 | — |
 | [由长文一键生成的数字人视频](https://x.com/ai_xiaomu/status/2103841202055548972) | Opus 5.5 | [@ai_xiaomu](https://x.com/ai_xiaomu) | 1:26 | — |
 | [AI视频剪辑演示](https://x.com/paji_a/status/2103640596959392141) | Opus 5.5 | [@paji_a](https://x.com/paji_a) | 0:52 | — |
 | [从Cinema4D到Shopify主题的设计流程](https://x.com/StefanoMahfuz/status/2105677733472653380) | Opus 5.5 | [@StefanoMahfuz](https://x.com/StefanoMahfuz) | 0:29 | — |
@@ -127,6 +130,7 @@
 | [AI全程剪辑的短视频](https://x.com/mehulmpt/status/2103639263271367140) | Opus 5.5 | [@mehulmpt](https://x.com/mehulmpt) | 0:49 | — |
 | [AI辅助视频剪辑演示](https://x.com/shraddhaha/status/2103552356495597990) | Opus 5.5 | [@shraddhaha](https://x.com/shraddhaha) | 0:30 | — |
 | [基于自定义音效技能的智能体视频剪辑](https://x.com/stxrmye/status/2110190072628642204) | Opus 5.5 | [@stxrmye](https://x.com/stxrmye) | 0:31 | — |
+| [代码生成音乐视频](https://x.com/kloss_xyz/status/2112006151885705553) | Opus 5.5 | [@kloss_xyz](https://x.com/kloss_xyz) | 2:16 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2112006151885705553) |
 | [全自动生成的三分钟AI新闻解说视频](https://x.com/old_pgmrs_will/status/2108908117874635170) | Opus 5.5 | [@old_pgmrs_will](https://x.com/old_pgmrs_will) | 2:53 | — |
 | [用原始素材剪辑出的AI视频](https://x.com/lewangx/status/2103523508957446423) | Opus 5.5 | [@lewangx](https://x.com/lewangx) | 0:42 | — |
 | [用Opus 5.5和EffectCraft制作的歌词MV](https://x.com/wtry1102/status/2107744155007062101) | Opus 5.5 | [@wtry1102](https://x.com/wtry1102) | 1:51 | — |

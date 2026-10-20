@@ -1,6 +1,6 @@
 # 科普讲解
 
-共 159 个作品，其中 49 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 161 个作品，其中 49 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [解释莱顿弗罗斯特效应的手绘动画](https://x.com/realYunfanYe/status/2103496245343916158) | Opus 5.5 | [@realYunfanYe](https://x.com/realYunfanYe) | 1:00 | — |
 | [摆线原理动画课](https://x.com/AIMevzulari/status/2106052083040256293) | Opus 5.5 | [@AIMevzulari](https://x.com/AIMevzulari) | 2:08 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2106052083040256293) |
 | [3D旁白版宜家组装说明视频](https://x.com/deedydas/status/2103174501345493197) | Opus 5.5 | [@deedydas](https://x.com/deedydas) | 1:42 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103174501345493197) |
+| [Scion源代码控制系统可视化](https://x.com/devteamdrew/status/2111864203753492513) | Opus 5.5 | [@devteamdrew](https://x.com/devteamdrew) | 1:39 | — |
 | [小学数学进位加法讲解视频](https://x.com/akira_papa_IT/status/2102899599501668561) | Opus 5.5 | [@akira_papa_IT](https://x.com/akira_papa_IT) | 2:40 | — |
 | [聚焦美国的文明纪录片](https://x.com/frontierism/status/2103738204411379949) | Opus 5.5 | [@frontierism](https://x.com/frontierism) | 1:59 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103738204411379949) |
 | [自由电子激光讲解视频](https://x.com/Frenchie_/status/2103731959918948730) | Opus 5.5 | [@Frenchie_](https://x.com/Frenchie_) | 3:21 | — |
@@ -157,6 +158,7 @@
 | [升力原理互动风洞演示](https://x.com/konstantinsaifo/status/2109595253879816337) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 0:34 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2109595253879816337) |
 | [计量经济学模拟讲解视频](https://x.com/mehmetsongur_/status/2108896132395061356) | Opus 5.5 | [@mehmetsongur_](https://x.com/mehmetsongur_) | 12:00 | — |
 | [《中途岛海战》3D讲解影片](https://x.com/wshuyi/status/2103644455916175505) | Opus 5.5 | [@wshuyi](https://x.com/wshuyi) | 8:29 | — |
+| [达喀尔战役二战纪录短片](https://x.com/PapeDudu_ndoye/status/2111869029623157109) | Opus 5.5 | [@PapeDudu_ndoye](https://x.com/PapeDudu_ndoye) | 3:15 | — |
 | [仓库包裹分拣决策模拟](https://x.com/konstantinsaifo/status/2108914585340428549) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 0:40 | — |
 | [加密货币交易概念动画](https://x.com/Dan_Kostecki/status/2103761581871964592) | Opus 5.5 | [@Dan_Kostecki](https://x.com/Dan_Kostecki) | 2:43 | — |
 | [呼吁"终结美联储"的15秒说明视频](https://x.com/cboyack/status/2103617085402407181) | Opus 5.5 | [@cboyack](https://x.com/cboyack) | 0:15 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103617085402407181) |
