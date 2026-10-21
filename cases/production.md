@@ -1,6 +1,6 @@
 # Music, editing & production
 
-140 works, 25 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+143 works, 25 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Video edited by Opus 5.5](https://x.com/eguri89/status/2110316407485608282) | Opus 5.5 | [@eguri89](https://x.com/eguri89) | 0:57 | — |
 | [Video edit by an agent with a sound-effects library](https://x.com/lucakvlr/status/2110111408364888065) | Opus 5.5 | [@lucakvlr](https://x.com/lucakvlr) | 0:23 | — |
 | [Video edits produced with Opus 5.5](https://x.com/ErnestoSOFTWARE/status/2111878898552102934) | Opus 5.5 | [@ErnestoSOFTWARE](https://x.com/ErnestoSOFTWARE) | 1:01 | — |
+| [Thailand economy animated explainer episode](https://x.com/WaterrrMiao/status/2112122511509065797) | Opus 5.5 | [@WaterrrMiao](https://x.com/WaterrrMiao) | 9:35 | — |
 | [Tribute music video](https://x.com/bradmillscan/status/2106096188915347821) | Opus 5.5 | [@bradmillscan](https://x.com/bradmillscan) | 5:30 | — |
 | [Fully code-based video and audio production](https://x.com/__gsk__/status/2104832372164444162) | Opus 5.5 | [@__gsk__](https://x.com/__gsk__) | 0:30 | — |
 | [Re-edited Instagram launch video](https://x.com/joshaeeee/status/2103386096411553888) | Opus 5.5 | [@joshaeeee](https://x.com/joshaeeee) | 0:25 | — |
@@ -112,6 +113,7 @@
 | [Anime-to-manga conversion pipeline](https://x.com/aicreataro/status/2105254490773623268) | Opus 5.5 | [@aicreataro](https://x.com/aicreataro) | 0:53 | — |
 | [Full video edit performed by Claude](https://x.com/robinebers/status/2110362823973101716) | Opus 5.5 | [@robinebers](https://x.com/robinebers) | 14:15 | — |
 | [YouTube video edited with Opus and HeyGen](https://x.com/MakeAI_CEO/status/2103086491157336249) | Opus 5.5 | [@MakeAI_CEO](https://x.com/MakeAI_CEO) | 1:03 | — |
+| [Agent-generated social media slideshows](https://x.com/_mattwelter/status/2112202863912861828) | Opus 5.5 | [@_mattwelter](https://x.com/_mattwelter) | 11:06 | — |
 | [Bach-style Goldberg Variation composition](https://x.com/dotkrueger/status/2103671847531516144) | Opus 5.5 | [@dotkrueger](https://x.com/dotkrueger) | 2:02 | — |
 | [AI video editing demo](https://x.com/shupeiman/status/2105272288769978634) | Opus 5.5 | [@shupeiman](https://x.com/shupeiman) | 0:23 | — |
 | [Bitcoin-themed video edit made in code](https://x.com/skwp/status/2103093628230873415) | Opus 5.5 | [@skwp](https://x.com/skwp) | 0:41 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103093628230873415) |
@@ -134,6 +136,7 @@
 | [Automated three-minute AI news explainer video](https://x.com/old_pgmrs_will/status/2108908117874635170) | Opus 5.5 | [@old_pgmrs_will](https://x.com/old_pgmrs_will) | 2:53 | — |
 | [AI video editing from raw footage](https://x.com/lewangx/status/2103523508957446423) | Opus 5.5 | [@lewangx](https://x.com/lewangx) | 0:42 | — |
 | [Lyric music video built with Opus 5.5 and EffectCraft](https://x.com/wtry1102/status/2107744155007062101) | Opus 5.5 | [@wtry1102](https://x.com/wtry1102) | 1:51 | — |
+| [The Little Prince browser 3D game](https://x.com/rewind02/status/2112125144508277165) | Opus 5.5 | [@rewind02](https://x.com/rewind02) | 0:51 | — |
 | [Custom video editor app built with AI](https://x.com/SoyMrBro/status/2103135398226735139) | Opus 5.5 | [@SoyMrBro](https://x.com/SoyMrBro) | 0:31 | — |
 | [Excel stop-motion animation with Blender](https://x.com/aicreataro/status/2109892378383540394) | Opus 5.5 | [@aicreataro](https://x.com/aicreataro) | 1:01 | — |
 | [PCB design pipeline demo](https://x.com/VectorCrossProd/status/2109610532365857198) | Opus 5.5 | [@VectorCrossProd](https://x.com/VectorCrossProd) | 1:00 | — |

@@ -1,6 +1,6 @@
 # 动效设计
 
-共 265 个作品，其中 87 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 269 个作品，其中 87 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [音效改进的动态短片](https://x.com/LexnLin/status/2109718604883370450) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 0:40 | — |
 | [公司宣传动效广告](https://x.com/showheyohtaki/status/2104095944686051492) | Opus 5.5 | [@showheyohtaki](https://x.com/showheyohtaki) | 0:30 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104095944686051492) |
 | [90秒动态设计与配乐演示](https://x.com/kloss_xyz/status/2103624187017572421) | Opus 5.5 | [@kloss_xyz](https://x.com/kloss_xyz) | 0:26 | — |
+| [可撕页互动日历应用](https://x.com/FiachraRM/status/2112188946809749658) | Opus 5.5 | [@FiachraRM](https://x.com/FiachraRM) | 0:38 | — |
 | [生成的动画片段](https://x.com/driftauz/status/2111109055955763570) | Opus 5.5 | [@driftauz](https://x.com/driftauz) | 0:12 | — |
 | [令人惊艳的AI生成视频](https://x.com/GregorySchier/status/2103573891629371497) | Opus 5.5 | [@GregorySchier](https://x.com/GregorySchier) | 0:30 | — |
 | [无缝循环动态设计动画](https://x.com/0xkerazcity/status/2109705700930957328) | Opus 5.5 | [@0xkerazcity](https://x.com/0xkerazcity) | 0:16 | — |
@@ -145,6 +146,7 @@
 | [媒体分析品牌的动效展示片](https://x.com/ismailfahmi/status/2103557833153466403) | Opus 5.5 | [@ismailfahmi](https://x.com/ismailfahmi) | 0:15 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103557833153466403) |
 | [TechHalla 20 秒动态品牌片头](https://x.com/techhalla/status/2103411244468498547) | Opus 5.5 | [@techhalla](https://x.com/techhalla) | 0:20 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103411244468498547) |
 | [合作短视频](https://x.com/AiwithSaif7/status/2106268181413429416) | Opus 5.5 | [@AiwithSaif7](https://x.com/AiwithSaif7) | 0:46 | — |
+| [动态照片风格演出第9个](https://x.com/shironagasu_ai/status/2112119058422288468) | Opus 5.5 | [@shironagasu_ai](https://x.com/shironagasu_ai) | 0:10 | — |
 | [加长版动感设计师展示视频](https://x.com/himanshutwtxs/status/2103620708601639016) | Opus 5.5 | [@himanshutwtxs](https://x.com/himanshutwtxs) | 0:30 | — |
 | [15秒动效展示](https://x.com/Saccc_c/status/2106376222309761094) | Opus 5.5 / Fable 5.5 (preview) | [@Saccc_c](https://x.com/Saccc_c) | 0:15 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2106376222309761094) |
 | [节拍同步的K-pop动效音乐视频](https://x.com/minchoi/status/2110001964402831512) | Opus 5.5 | [@minchoi](https://x.com/minchoi) | 3:51 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2110001964402831512) |
@@ -175,6 +177,7 @@
 | [15 秒动效设计师自荐片 · @jasonzhou1993 版](https://x.com/jasonzhou1993/status/2103663364958515541) | Opus 5.5 | [@jasonzhou1993](https://x.com/jasonzhou1993) | 0:15 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103663364958515541) |
 | [从玻璃球中飞出的鸟群](https://x.com/HBCoop_/status/2107139305324122491) | Opus 5.5 | [@HBCoop_](https://x.com/HBCoop_) | 0:29 | — |
 | [含自制3D模型的动态设计作品](https://x.com/MengTo/status/2103825139964227999) | Opus 5.5 | [@MengTo](https://x.com/MengTo) | 0:41 | — |
+| [雨滴氢键微观动画](https://x.com/0xkerazcity/status/2112187184858145200) | Opus 5.5 | [@0xkerazcity](https://x.com/0xkerazcity) | 0:27 | — |
 | [10秒版动感设计展示视频](https://x.com/mattiapomelli/status/2103757371357229129) | Opus 5.5 | [@mattiapomelli](https://x.com/mattiapomelli) | 0:10 | — |
 | [动态设计动画复刻](https://x.com/kaif9998/status/2109923678607876522) | Opus 5.5 | [@kaif9998](https://x.com/kaif9998) | 0:29 | — |
 | [GrokBot动态动画](https://x.com/0xMovez/status/2106078367833591915) | Opus 5.5 | [@0xMovez](https://x.com/0xMovez) | 2:12 | — |
@@ -214,6 +217,7 @@
 | [用Opus 5.5制作旧插画的电影图效果](https://x.com/shironagasu_ai/status/2105688303655632974) | Opus 5.5 | [@shironagasu_ai](https://x.com/shironagasu_ai) | 0:10 | — |
 | [基于应用源码的动效设计实验](https://x.com/alex_barashkov/status/2103854352372793514) | Opus 5.5 | [@alex_barashkov](https://x.com/alex_barashkov) | 0:30 | — |
 | [参考视频风格的品牌动态展示片](https://x.com/ajith_io/status/2103541149709615243) | Opus 5.5 | [@ajith_io](https://x.com/ajith_io) | 0:32 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103541149709615243) |
+| [企业动态设计宣传视频](https://x.com/webasamoah/status/2112237497887658441) | Opus 5.5 | [@webasamoah](https://x.com/webasamoah) | 0:45 | — |
 | [咖啡历史动态信息图](https://x.com/ai4everyday/status/2106130713439256844) | Opus 5.5 | [@ai4everyday](https://x.com/ai4everyday) | 1:00 | — |
 | [AI生成动画视频演示](https://x.com/vibecodingth/status/2105279421435572498) | Opus 5.5 | [@vibecodingth](https://x.com/vibecodingth) | 2:21 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2105279421435572498) |
 | [动态设计视频演示](https://x.com/code_kartik/status/2108276280328331748) | Opus 5.5 | [@code_kartik](https://x.com/code_kartik) | 1:26 | — |

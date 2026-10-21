@@ -1,6 +1,6 @@
 # Product demos & ads
 
-207 works, 41 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+210 works, 42 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Furniture-to-3D interior design app](https://x.com/higgsfield_ai/status/2102618445489795448) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:32 | — |
 | [Cinematic product launch film](https://x.com/AbhinavXJ/status/2104805179401068964) | Sonnet 5.5 | [@AbhinavXJ](https://x.com/AbhinavXJ) | 1:40 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104805179401068964) |
 | [Software intro video generated from codebase](https://x.com/gesoikuo3/status/2103723885204254734) | Opus 5.5 | [@gesoikuo3](https://x.com/gesoikuo3) | 0:50 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103723885204254734) |
+| [Menu-scanning taste-matching app demo](https://x.com/Lovable/status/2112191630266761382) | Opus 5.5 | [@Lovable](https://x.com/Lovable) | 0:05 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2112191630266761382) |
 | [Free AI ad video generated in code](https://x.com/Lucas_IA_/status/2102757164158689759) | Opus 5.5 | [@Lucas_IA_](https://x.com/Lucas_IA_) | 1:12 | — |
 | [Multiple app design variations demo](https://x.com/heycape_/status/2102671212598132975) | Opus 5.5 | [@heycape_](https://x.com/heycape_) | 0:18 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102671212598132975) |
 | [Awwwards-Inspired Website](https://x.com/YildizDikme/status/2106281015152976146) | Opus 5.5 | [@YildizDikme](https://x.com/YildizDikme) | 0:40 | — |
@@ -144,10 +145,12 @@
 | [App promotional animation in one prompt](https://x.com/yz_chow/status/2103747696620093644) | Opus 5.5 | [@yz_chow](https://x.com/yz_chow) | 0:42 | — |
 | [Live calendar dashboard](https://x.com/_insan18/status/2106268513644273809) | Opus 5.5 | [@_insan18](https://x.com/_insan18) | 0:20 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2106268513644273809) |
 | [USDai product assembly line demo](https://x.com/0xZergs/status/2109609404450607352) | Opus 5.5 | [@0xZergs](https://x.com/0xZergs) | 1:44 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2109609404450607352) |
+| [DumbTV update promo video](https://x.com/DevMuzzammil/status/2112227989685768653) | Opus 5.5 | [@DevMuzzammil](https://x.com/DevMuzzammil) | 0:31 | — |
 | [1-minute AI capability explainer video](https://x.com/showheyohtaki/status/2103552919249563691) | Opus 5.5 | [@showheyohtaki](https://x.com/showheyohtaki) | 0:54 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103552919249563691) |
 | [Trader profiling and analysis workflow demo](https://x.com/immortalhowwl/status/2103890985650422006) | Opus 5.5 | [@immortalhowwl](https://x.com/immortalhowwl) | 0:33 | — |
 | [One-shot marketing video built with code](https://x.com/matthewmillerai/status/2103532155481833538) | Opus 5.5 | [@matthewmillerai](https://x.com/matthewmillerai) | 1:00 | — |
 | [Meta VR Glasses video variations](https://x.com/mouri45/status/2107036053949575311) | Opus 5.5 | [@mouri45](https://x.com/mouri45) | 4:46 | — |
+| [iOS 6 browser simulator](https://x.com/0x0SojalSec/status/2112280540644770054) | Opus 5.5 | [@0x0SojalSec](https://x.com/0x0SojalSec) | 0:58 | — |
 | [Real estate video from 2D floor plan](https://x.com/techhalla/status/2105376621737746716) | Opus 5.5 | [@techhalla](https://x.com/techhalla) | 0:37 | — |
 | [One-prompt product launch video](https://x.com/javiiarchive/status/2108149080568545694) | Opus 5.5 | [@javiiarchive](https://x.com/javiiarchive) | 0:31 | — |
 | [Self-made introduction video for the model](https://x.com/nemumusitocha/status/2102528528613019932) | Opus 5.5 | [@nemumusitocha](https://x.com/nemumusitocha) | 6:37 | — |

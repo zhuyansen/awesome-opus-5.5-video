@@ -1,6 +1,6 @@
 # 制作流程
 
-共 140 个作品，其中 25 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 143 个作品，其中 25 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [由Opus 5.5剪辑的视频](https://x.com/eguri89/status/2110316407485608282) | Opus 5.5 | [@eguri89](https://x.com/eguri89) | 0:57 | — |
 | [由代理调用音效库完成的视频剪辑](https://x.com/lucakvlr/status/2110111408364888065) | Opus 5.5 | [@lucakvlr](https://x.com/lucakvlr) | 0:23 | — |
 | [用Opus 5.5制作的视频剪辑](https://x.com/ErnestoSOFTWARE/status/2111878898552102934) | Opus 5.5 | [@ErnestoSOFTWARE](https://x.com/ErnestoSOFTWARE) | 1:01 | — |
+| [泰国经济动画解说单集](https://x.com/WaterrrMiao/status/2112122511509065797) | Opus 5.5 | [@WaterrrMiao](https://x.com/WaterrrMiao) | 9:35 | — |
 | [致敬主题音乐视频](https://x.com/bradmillscan/status/2106096188915347821) | Opus 5.5 | [@bradmillscan](https://x.com/bradmillscan) | 5:30 | — |
 | [完全代码化的影音制作](https://x.com/__gsk__/status/2104832372164444162) | Opus 5.5 | [@__gsk__](https://x.com/__gsk__) | 0:30 | — |
 | [重新剪辑的Instagram发布视频](https://x.com/joshaeeee/status/2103386096411553888) | Opus 5.5 | [@joshaeeee](https://x.com/joshaeeee) | 0:25 | — |
@@ -112,6 +113,7 @@
 | [动画转漫画制作流程](https://x.com/aicreataro/status/2105254490773623268) | Opus 5.5 | [@aicreataro](https://x.com/aicreataro) | 0:53 | — |
 | [由Claude完成的完整视频剪辑](https://x.com/robinebers/status/2110362823973101716) | Opus 5.5 | [@robinebers](https://x.com/robinebers) | 14:15 | — |
 | [用Opus和HeyGen剪辑的YouTube视频](https://x.com/MakeAI_CEO/status/2103086491157336249) | Opus 5.5 | [@MakeAI_CEO](https://x.com/MakeAI_CEO) | 1:03 | — |
+| [智能体生成的社交媒体图文轮播](https://x.com/_mattwelter/status/2112202863912861828) | Opus 5.5 | [@_mattwelter](https://x.com/_mattwelter) | 11:06 | — |
 | [巴赫风格哥德堡变奏曲创作](https://x.com/dotkrueger/status/2103671847531516144) | Opus 5.5 | [@dotkrueger](https://x.com/dotkrueger) | 2:02 | — |
 | [AI视频剪辑演示](https://x.com/shupeiman/status/2105272288769978634) | Opus 5.5 | [@shupeiman](https://x.com/shupeiman) | 0:23 | — |
 | [用代码制作的比特币主题剪辑](https://x.com/skwp/status/2103093628230873415) | Opus 5.5 | [@skwp](https://x.com/skwp) | 0:41 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103093628230873415) |
@@ -134,6 +136,7 @@
 | [全自动生成的三分钟AI新闻解说视频](https://x.com/old_pgmrs_will/status/2108908117874635170) | Opus 5.5 | [@old_pgmrs_will](https://x.com/old_pgmrs_will) | 2:53 | — |
 | [用原始素材剪辑出的AI视频](https://x.com/lewangx/status/2103523508957446423) | Opus 5.5 | [@lewangx](https://x.com/lewangx) | 0:42 | — |
 | [用Opus 5.5和EffectCraft制作的歌词MV](https://x.com/wtry1102/status/2107744155007062101) | Opus 5.5 | [@wtry1102](https://x.com/wtry1102) | 1:51 | — |
+| [《小王子》浏览器3D游戏](https://x.com/rewind02/status/2112125144508277165) | Opus 5.5 | [@rewind02](https://x.com/rewind02) | 0:51 | — |
 | [AI搭建的自制视频编辑器](https://x.com/SoyMrBro/status/2103135398226735139) | Opus 5.5 | [@SoyMrBro](https://x.com/SoyMrBro) | 0:31 | — |
 | [Excel定格动画结合Blender制作](https://x.com/aicreataro/status/2109892378383540394) | Opus 5.5 | [@aicreataro](https://x.com/aicreataro) | 1:01 | — |
 | [PCB设计流程演示](https://x.com/VectorCrossProd/status/2109610532365857198) | Opus 5.5 | [@VectorCrossProd](https://x.com/VectorCrossProd) | 1:00 | — |

@@ -1,6 +1,6 @@
 # Explainers & education
 
-161 works, 49 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+164 works, 50 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Interactive view inside an LLM](https://x.com/KimizLlm/status/2106089511411409081) | Opus 5.5 | [@KimizLlm](https://x.com/KimizLlm) | 4:44 | — |
 | [Mortise and tenon joinery explainer video](https://x.com/op7418/status/2105675440409174160) | Opus 5.5 | [@op7418](https://x.com/op7418) | 0:48 | — |
 | [Explainer on an ancient eastern civilization](https://x.com/yanhua1010/status/2103712543168680363) | Opus 5.5 | [@yanhua1010](https://x.com/yanhua1010) | 2:15 | — |
+| [Code-generated math puzzle Instagram reels](https://x.com/shivangi_sriv/status/2112173194031587405) | Opus 5.5 | [@shivangi_sriv](https://x.com/shivangi_sriv) | 0:15 | — |
 | [Jensen's inequality lecture in personal style](https://x.com/prathoshap/status/2103843937735888898) | Opus 5.5 | [@prathoshap](https://x.com/prathoshap) | 0:30 | — |
 | [Manim derivative concept teaching video](https://x.com/LinearUncle/status/2103128559174971663) | Opus 5.5 | [@LinearUncle](https://x.com/LinearUncle) | 7:37 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103128559174971663) |
 | [Frame-by-frame animation of burger making](https://x.com/kevin_t_ngo/status/2111569193347018977) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 1:04 | — |
@@ -134,6 +135,7 @@
 | [Explainer video comparing Gemini TTS options](https://x.com/seiiiiiiiiiiru/status/2103590369816375359) | Opus 5.5 | [@seiiiiiiiiiiru](https://x.com/seiiiiiiiiiiru) | 0:30 | — |
 | [Roman Empire Documentary](https://x.com/tkz_aiart/status/2105983802367688910) | Opus 5.5 | [@tkz_aiart](https://x.com/tkz_aiart) | 2:16 | — |
 | [Ethereum quantum-resistance roadmap explainer](https://x.com/0xmamedai/status/2102715649185423426) | Opus 5.5 | [@0xmamedai](https://x.com/0xmamedai) | 2:17 | — |
+| [3D IKEA assembly instructions](https://x.com/numaausaumon/status/2112214425910595901) | Opus 5.5 | [@numaausaumon](https://x.com/numaausaumon) | 1:15 | — |
 | [Keyboard anatomy animation](https://x.com/quantapar/status/2109748221459546529) | Opus 5.5 | [@quantapar](https://x.com/quantapar) | 0:17 | — |
 | [Article core ideas visualized as video](https://x.com/Lonely__MH/status/2103637675609870374) | Opus 5.5 | [@Lonely__MH](https://x.com/Lonely__MH) | 1:01 | — |
 | [1-minute stock investing explainer](https://x.com/RtSubPozrT8wmsN/status/2102763227629375648) | Opus 5.5 | [@RtSubPozrT8wmsN](https://x.com/RtSubPozrT8wmsN) | 0:59 | — |
@@ -142,6 +144,7 @@
 | [Reconstructed ancient Spartan marching song](https://x.com/iosif_lazaridis/status/2103948875929358687) | Opus 5.5 | [@iosif_lazaridis](https://x.com/iosif_lazaridis) | 3:08 | — |
 | [The Art of Photosynthesis explainer](https://x.com/devteamdrew/status/2111172786286690324) | Opus 5.5 / Sonnet 5.5 | [@devteamdrew](https://x.com/devteamdrew) | 0:47 | — |
 | [Interactive historical map of Istanbul](https://x.com/cahidarda/status/2103218970115678497) | Opus 5.5 | [@cahidarda](https://x.com/cahidarda) | 0:10 | — |
+| [Interactive Lamborghini FL3 tractor diesel engine](https://x.com/exploraX_/status/2112130961714385214) | Opus 5.5 | [@exploraX_](https://x.com/exploraX_) | 0:42 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2112130961714385214) |
 | [Tesla Roadster explainer video](https://x.com/KeWai386772/status/2111440772998599022) | Opus 5.5 | [@KeWai386772](https://x.com/KeWai386772) | 2:54 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2111440772998599022) |
 | [Plate tectonics music video animation](https://x.com/kevin_t_ngo/status/2108208479358026208) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 2:21 | — |
 | [Query fan-out explainer video](https://x.com/harpreetchatha_/status/2103591810253914585) | Opus 5.5 | [@harpreetchatha_](https://x.com/harpreetchatha_) | 0:20 | — |

@@ -1,6 +1,6 @@
 # 科普讲解
 
-共 161 个作品，其中 49 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 164 个作品，其中 50 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [大语言模型内部运作可视化](https://x.com/KimizLlm/status/2106089511411409081) | Opus 5.5 | [@KimizLlm](https://x.com/KimizLlm) | 4:44 | — |
 | [榫卯结构科普视频](https://x.com/op7418/status/2105675440409174160) | Opus 5.5 | [@op7418](https://x.com/op7418) | 0:48 | — |
 | [神秘东方文明介绍动画](https://x.com/yanhua1010/status/2103712543168680363) | Opus 5.5 | [@yanhua1010](https://x.com/yanhua1010) | 2:15 | — |
+| [用代码生成的数学趣题Instagram短视频](https://x.com/shivangi_sriv/status/2112173194031587405) | Opus 5.5 | [@shivangi_sriv](https://x.com/shivangi_sriv) | 0:15 | — |
 | [个人风格讲解詹森不等式](https://x.com/prathoshap/status/2103843937735888898) | Opus 5.5 | [@prathoshap](https://x.com/prathoshap) | 0:30 | — |
 | [Manim制作的导数概念教学视频](https://x.com/LinearUncle/status/2103128559174971663) | Opus 5.5 | [@LinearUncle](https://x.com/LinearUncle) | 7:37 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103128559174971663) |
 | [逐帧绘制的汉堡制作动画](https://x.com/kevin_t_ngo/status/2111569193347018977) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 1:04 | — |
@@ -134,6 +135,7 @@
 | [Gemini语音合成选项讲解视频](https://x.com/seiiiiiiiiiiru/status/2103590369816375359) | Opus 5.5 | [@seiiiiiiiiiiru](https://x.com/seiiiiiiiiiiru) | 0:30 | — |
 | [罗马帝国纪录片](https://x.com/tkz_aiart/status/2105983802367688910) | Opus 5.5 | [@tkz_aiart](https://x.com/tkz_aiart) | 2:16 | — |
 | [以太坊抗量子路线图讲解视频](https://x.com/0xmamedai/status/2102715649185423426) | Opus 5.5 | [@0xmamedai](https://x.com/0xmamedai) | 2:17 | — |
+| [宜家家具3D组装说明](https://x.com/numaausaumon/status/2112214425910595901) | Opus 5.5 | [@numaausaumon](https://x.com/numaausaumon) | 1:15 | — |
 | [键盘结构动画演示](https://x.com/quantapar/status/2109748221459546529) | Opus 5.5 | [@quantapar](https://x.com/quantapar) | 0:17 | — |
 | [将文章核心思想可视化的视频](https://x.com/Lonely__MH/status/2103637675609870374) | Opus 5.5 | [@Lonely__MH](https://x.com/Lonely__MH) | 1:01 | — |
 | [一分钟看懂股票投资讲解](https://x.com/RtSubPozrT8wmsN/status/2102763227629375648) | Opus 5.5 | [@RtSubPozrT8wmsN](https://x.com/RtSubPozrT8wmsN) | 0:59 | — |
@@ -142,6 +144,7 @@
 | [古斯巴达行军歌曲重现](https://x.com/iosif_lazaridis/status/2103948875929358687) | Opus 5.5 | [@iosif_lazaridis](https://x.com/iosif_lazaridis) | 3:08 | — |
 | [光合作用艺术讲解动画](https://x.com/devteamdrew/status/2111172786286690324) | Opus 5.5 / Sonnet 5.5 | [@devteamdrew](https://x.com/devteamdrew) | 0:47 | — |
 | [伊斯坦布尔历史地图互动项目](https://x.com/cahidarda/status/2103218970115678497) | Opus 5.5 | [@cahidarda](https://x.com/cahidarda) | 0:10 | — |
+| [兰博基尼FL3拖拉机柴油机交互模型](https://x.com/exploraX_/status/2112130961714385214) | Opus 5.5 | [@exploraX_](https://x.com/exploraX_) | 0:42 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2112130961714385214) |
 | [特斯拉Roadster科普讲解视频](https://x.com/KeWai386772/status/2111440772998599022) | Opus 5.5 | [@KeWai386772](https://x.com/KeWai386772) | 2:54 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2111440772998599022) |
 | [板块漂移主题音乐动画视频](https://x.com/kevin_t_ngo/status/2108208479358026208) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 2:21 | — |
 | [查询扇出讲解视频](https://x.com/harpreetchatha_/status/2103591810253914585) | Opus 5.5 | [@harpreetchatha_](https://x.com/harpreetchatha_) | 0:20 | — |

@@ -1,6 +1,6 @@
 # Characters & stories
 
-186 works, 46 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+188 works, 47 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [Reimagined music video rendered by AI](https://x.com/LLMJunky/status/2103903916383744025) | Opus 5.5 | [@LLMJunky](https://x.com/LLMJunky) | 3:12 | — |
 | [Full AI-made music and animation piece](https://x.com/anthrupad/status/2110950344272527596) | Opus 5.5 | [@anthrupad](https://x.com/anthrupad) | 0:52 | — |
 | [Super Robot Wars style mecha battle animation](https://x.com/PDyv9gdatT4132/status/2105401665360986275) | Opus 5.5 | [@PDyv9gdatT4132](https://x.com/PDyv9gdatT4132) | 0:32 | — |
+| [The Last Train Home rainy Japanese night scene](https://x.com/pankajkumar_dev/status/2112176644018626840) | Fable 5.5 (preview) | [@pankajkumar_dev](https://x.com/pankajkumar_dev) | 0:56 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2112176644018626840) |
 | [Claude reacting to silly questions video](https://x.com/belltyler/status/2103879008261931055) | Opus 5.5 | [@belltyler](https://x.com/belltyler) | 1:30 | — |
 | [Short animated mini film](https://x.com/jackfriks/status/2103525576912855363) | Opus 5.5 | [@jackfriks](https://x.com/jackfriks) | 0:35 | — |
 | [What fear feels like to a superintelligence](https://x.com/jtevesobs/status/2106973139368296606) | Opus 5.5 | [@jtevesobs](https://x.com/jtevesobs) | 3:43 | — |
@@ -167,6 +168,7 @@
 | [Extended animation demo praised as unreal](https://x.com/AndrewOnXYZ/status/2103687133433086358) | Opus 5.5 | [@AndrewOnXYZ](https://x.com/AndrewOnXYZ) | 3:44 | — |
 | [Hand-drawn cartoon animation starter kit](https://x.com/GoSailGlobal/status/2103650801684262994) | Opus 5.5 | [@GoSailGlobal](https://x.com/GoSailGlobal) | 1:04 | — |
 | [Style-matched video recreation beside the original](https://x.com/nateherk/status/2108198548324168056) | Opus 5.5 | [@nateherk](https://x.com/nateherk) | 0:20 | — |
+| [Workshop day animated short](https://x.com/devteamdrew/status/2112231979164873157) | Opus 5.5 / Sonnet 5.5 | [@devteamdrew](https://x.com/devteamdrew) | 0:32 | — |
 | [AI-made short film with original music](https://x.com/notargs/status/2103790246102188069) | Opus 5.5 | [@notargs](https://x.com/notargs) | 2:00 | — |
 | [Coded animated music video with puppets](https://x.com/vinceflibustier/status/2103567196882399606) | Opus 5.5 | [@vinceflibustier](https://x.com/vinceflibustier) | 3:01 | — |
 | [Pelican riding a bike animation](https://x.com/dummerspast39/status/2111391206848503923) | Fable 5.5 (preview) | [@dummerspast39](https://x.com/dummerspast39) | 0:30 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2111391206848503923) |

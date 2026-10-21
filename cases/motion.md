@@ -1,6 +1,6 @@
 # Motion graphics & UI
 
-265 works, 87 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+269 works, 87 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Motion clip with improved sound effects](https://x.com/LexnLin/status/2109718604883370450) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 0:40 | — |
 | [Company commercial motion graphic](https://x.com/showheyohtaki/status/2104095944686051492) | Opus 5.5 | [@showheyohtaki](https://x.com/showheyohtaki) | 0:30 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104095944686051492) |
 | [90-second motion design and sound demo](https://x.com/kloss_xyz/status/2103624187017572421) | Opus 5.5 | [@kloss_xyz](https://x.com/kloss_xyz) | 0:26 | — |
+| [Interactive tear-off calendar app](https://x.com/FiachraRM/status/2112188946809749658) | Opus 5.5 | [@FiachraRM](https://x.com/FiachraRM) | 0:38 | — |
 | [Generated animated clip](https://x.com/driftauz/status/2111109055955763570) | Opus 5.5 | [@driftauz](https://x.com/driftauz) | 0:12 | — |
 | [Impressive AI-generated video](https://x.com/GregorySchier/status/2103573891629371497) | Opus 5.5 | [@GregorySchier](https://x.com/GregorySchier) | 0:30 | — |
 | [Seamless looping motion design animation](https://x.com/0xkerazcity/status/2109705700930957328) | Opus 5.5 | [@0xkerazcity](https://x.com/0xkerazcity) | 0:16 | — |
@@ -145,6 +146,7 @@
 | [Showreel motion graphics for a media analytics brand](https://x.com/ismailfahmi/status/2103557833153466403) | Opus 5.5 | [@ismailfahmi](https://x.com/ismailfahmi) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103557833153466403) |
 | [20-second kinetic identity bumper for TechHalla](https://x.com/techhalla/status/2103411244468498547) | Opus 5.5 | [@techhalla](https://x.com/techhalla) | 0:20 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103411244468498547) |
 | [Collaborative Short Video](https://x.com/AiwithSaif7/status/2106268181413429416) | Opus 5.5 | [@AiwithSaif7](https://x.com/AiwithSaif7) | 0:46 | — |
+| [Cinemagraph-style animation #9](https://x.com/shironagasu_ai/status/2112119058422288468) | Opus 5.5 | [@shironagasu_ai](https://x.com/shironagasu_ai) | 0:10 | — |
 | [Extended motion designer showreel](https://x.com/himanshutwtxs/status/2103620708601639016) | Opus 5.5 | [@himanshutwtxs](https://x.com/himanshutwtxs) | 0:30 | — |
 | [15-Second Motion Graphics Showcase](https://x.com/Saccc_c/status/2106376222309761094) | Opus 5.5 / Fable 5.5 (preview) | [@Saccc_c](https://x.com/Saccc_c) | 0:15 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2106376222309761094) |
 | [Beat-synced K-pop motion graphics music video](https://x.com/minchoi/status/2110001964402831512) | Opus 5.5 | [@minchoi](https://x.com/minchoi) | 3:51 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2110001964402831512) |
@@ -175,6 +177,7 @@
 | [15-second motion designer showreel by @jasonzhou1993](https://x.com/jasonzhou1993/status/2103663364958515541) | Opus 5.5 | [@jasonzhou1993](https://x.com/jasonzhou1993) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103663364958515541) |
 | [Birds emerging from a glass sphere](https://x.com/HBCoop_/status/2107139305324122491) | Opus 5.5 | [@HBCoop_](https://x.com/HBCoop_) | 0:29 | — |
 | [Motion design piece with custom 3D models](https://x.com/MengTo/status/2103825139964227999) | Opus 5.5 | [@MengTo](https://x.com/MengTo) | 0:41 | — |
+| [Raindrop hydrogen bond macro animation](https://x.com/0xkerazcity/status/2112187184858145200) | Opus 5.5 | [@0xkerazcity](https://x.com/0xkerazcity) | 0:27 | — |
 | [10-second motion showreel remake](https://x.com/mattiapomelli/status/2103757371357229129) | Opus 5.5 | [@mattiapomelli](https://x.com/mattiapomelli) | 0:10 | — |
 | [Motion design animation recreation](https://x.com/kaif9998/status/2109923678607876522) | Opus 5.5 | [@kaif9998](https://x.com/kaif9998) | 0:29 | — |
 | [GrokBot motion animation](https://x.com/0xMovez/status/2106078367833591915) | Opus 5.5 | [@0xMovez](https://x.com/0xMovez) | 2:12 | — |
@@ -214,6 +217,7 @@
 | [Cinemagraph remake of an old illustration with Opus 5.5](https://x.com/shironagasu_ai/status/2105688303655632974) | Opus 5.5 | [@shironagasu_ai](https://x.com/shironagasu_ai) | 0:10 | — |
 | [Motion design experiment from app source code](https://x.com/alex_barashkov/status/2103854352372793514) | Opus 5.5 | [@alex_barashkov](https://x.com/alex_barashkov) | 0:30 | — |
 | [Brand motion showreel from a reference video](https://x.com/ajith_io/status/2103541149709615243) | Opus 5.5 | [@ajith_io](https://x.com/ajith_io) | 0:32 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103541149709615243) |
+| [Business motion design video](https://x.com/webasamoah/status/2112237497887658441) | Opus 5.5 | [@webasamoah](https://x.com/webasamoah) | 0:45 | — |
 | [Coffee history motion graphic](https://x.com/ai4everyday/status/2106130713439256844) | Opus 5.5 | [@ai4everyday](https://x.com/ai4everyday) | 1:00 | — |
 | [AI-generated animated video demo](https://x.com/vibecodingth/status/2105279421435572498) | Opus 5.5 | [@vibecodingth](https://x.com/vibecodingth) | 2:21 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2105279421435572498) |
 | [Motion design video demo](https://x.com/code_kartik/status/2108276280328331748) | Opus 5.5 | [@code_kartik](https://x.com/code_kartik) | 1:26 | — |

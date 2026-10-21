@@ -1,6 +1,6 @@
 # 产品广告
 
-共 207 个作品，其中 41 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 210 个作品，其中 42 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [家具照片转3D室内设计应用](https://x.com/higgsfield_ai/status/2102618445489795448) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:32 | — |
 | [电影感产品发布影片](https://x.com/AbhinavXJ/status/2104805179401068964) | Sonnet 5.5 | [@AbhinavXJ](https://x.com/AbhinavXJ) | 1:40 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104805179401068964) |
 | [根据软件代码生成的介绍视频](https://x.com/gesoikuo3/status/2103723885204254734) | Opus 5.5 | [@gesoikuo3](https://x.com/gesoikuo3) | 0:50 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103723885204254734) |
+| [拍照菜单口味匹配应用演示](https://x.com/Lovable/status/2112191630266761382) | Opus 5.5 | [@Lovable](https://x.com/Lovable) | 0:05 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2112191630266761382) |
 | [用代码免费生成的AI广告视频](https://x.com/Lucas_IA_/status/2102757164158689759) | Opus 5.5 | [@Lucas_IA_](https://x.com/Lucas_IA_) | 1:12 | — |
 | [多版本App设计方案演示](https://x.com/heycape_/status/2102671212598132975) | Opus 5.5 | [@heycape_](https://x.com/heycape_) | 0:18 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102671212598132975) |
 | [Awwwards风格网站](https://x.com/YildizDikme/status/2106281015152976146) | Opus 5.5 | [@YildizDikme](https://x.com/YildizDikme) | 0:40 | — |
@@ -144,10 +145,12 @@
 | [一句话生成的App宣传动画](https://x.com/yz_chow/status/2103747696620093644) | Opus 5.5 | [@yz_chow](https://x.com/yz_chow) | 0:42 | — |
 | [实时日历仪表板](https://x.com/_insan18/status/2106268513644273809) | Opus 5.5 | [@_insan18](https://x.com/_insan18) | 0:20 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2106268513644273809) |
 | [USDai产品流水线演示](https://x.com/0xZergs/status/2109609404450607352) | Opus 5.5 | [@0xZergs](https://x.com/0xZergs) | 1:44 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2109609404450607352) |
+| [DumbTV更新宣传视频](https://x.com/DevMuzzammil/status/2112227989685768653) | Opus 5.5 | [@DevMuzzammil](https://x.com/DevMuzzammil) | 0:31 | — |
 | [1分钟AI能力展示视频](https://x.com/showheyohtaki/status/2103552919249563691) | Opus 5.5 | [@showheyohtaki](https://x.com/showheyohtaki) | 0:54 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103552919249563691) |
 | [交易者画像分析工作流演示](https://x.com/immortalhowwl/status/2103890985650422006) | Opus 5.5 | [@immortalhowwl](https://x.com/immortalhowwl) | 0:33 | — |
 | [纯代码一次生成的营销视频](https://x.com/matthewmillerai/status/2103532155481833538) | Opus 5.5 | [@matthewmillerai](https://x.com/matthewmillerai) | 1:00 | — |
 | [Meta VR 眼镜视频方案合集](https://x.com/mouri45/status/2107036053949575311) | Opus 5.5 | [@mouri45](https://x.com/mouri45) | 4:46 | — |
+| [浏览器中的 iOS 6 模拟器](https://x.com/0x0SojalSec/status/2112280540644770054) | Opus 5.5 | [@0x0SojalSec](https://x.com/0x0SojalSec) | 0:58 | — |
 | [从2D平面图制作的房地产视频](https://x.com/techhalla/status/2105376621737746716) | Opus 5.5 | [@techhalla](https://x.com/techhalla) | 0:37 | — |
 | [一键生成的产品发布视频](https://x.com/javiiarchive/status/2108149080568545694) | Opus 5.5 | [@javiiarchive](https://x.com/javiiarchive) | 0:31 | — |
 | [模型自制的介绍视频](https://x.com/nemumusitocha/status/2102528528613019932) | Opus 5.5 | [@nemumusitocha](https://x.com/nemumusitocha) | 6:37 | — |
