@@ -1,6 +1,6 @@
 # 产品广告
 
-共 210 个作品，其中 42 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 214 个作品，其中 42 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [重建的FPV飞控板设计](https://x.com/Peter05704721/status/2102725548229456351) | Opus 5.5 | [@Peter05704721](https://x.com/Peter05704721) | 0:12 | — |
 | [Roblox游戏宣传视频](https://x.com/dataX_e/status/2104967024812118196) | Opus 5.5 | [@dataX_e](https://x.com/dataX_e) | 0:15 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104967024812118196) |
 | [用Opus 5.5和Boreal-H3制作的Olipop广告](https://x.com/marcusyul/status/2105355809677001180) | Opus 5.5 | [@marcusyul](https://x.com/marcusyul) | 0:46 | — |
+| [端到端打造的VR冻结时间应用](https://x.com/lucas_martinic/status/2112514417300758643) | Opus 5.5 | [@lucas_martinic](https://x.com/lucas_martinic) | 0:52 | — |
 | [AI操控AE制作的发布视频](https://x.com/seiiiiiiiiiiru/status/2102636308707287201) | Opus 5.5 | [@seiiiiiiiiiiru](https://x.com/seiiiiiiiiiiru) | 0:30 | — |
 | [Dub.co产品推广视频一次生成](https://x.com/steventey/status/2103625902211088880) | Opus 5.5 | [@steventey](https://x.com/steventey) | 0:15 | — |
 | [从网页生成的房产展示视频](https://x.com/kiarohidawa/status/2103661278300610623) | Opus 5.5 | [@kiarohidawa](https://x.com/kiarohidawa) | 1:40 | — |
@@ -122,6 +123,7 @@
 | [Clucky闹钟应用演示](https://x.com/adrianabelarde/status/2105195481874002217) | Opus 5.5 | [@adrianabelarde](https://x.com/adrianabelarde) | 0:12 | — |
 | [商业宣传视频展示](https://x.com/berlified/status/2107031729705984163) | Opus 5.5 | [@berlified](https://x.com/berlified) | 0:24 | — |
 | [根据代码库生成的应用宣传片](https://x.com/akokoi1/status/2103299308460429602) | Opus 5.5 | [@akokoi1](https://x.com/akokoi1) | 0:40 | — |
+| [游戏Rondo的3D动画宣传片](https://x.com/IHayato/status/2112430672090730746) | Opus 5.5 | [@IHayato](https://x.com/IHayato) | 0:30 | — |
 | [定制火焰品牌特效演示](https://x.com/nusretuzman/status/2103582679358718050) | Opus 5.5 | [@nusretuzman](https://x.com/nusretuzman) | 0:04 | — |
 | [可交互动画涂鸦板应用](https://x.com/ChrisGPT/status/2102615272054231093) | Opus 5.5 | [@ChrisGPT](https://x.com/ChrisGPT) | 1:51 | — |
 | [Lightspark产品宣传视频](https://x.com/davidmarcus/status/2103275618045686217) | Opus 5.5 | [@davidmarcus](https://x.com/davidmarcus) | 0:23 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103275618045686217) |
@@ -151,6 +153,7 @@
 | [纯代码一次生成的营销视频](https://x.com/matthewmillerai/status/2103532155481833538) | Opus 5.5 | [@matthewmillerai](https://x.com/matthewmillerai) | 1:00 | — |
 | [Meta VR 眼镜视频方案合集](https://x.com/mouri45/status/2107036053949575311) | Opus 5.5 | [@mouri45](https://x.com/mouri45) | 4:46 | — |
 | [浏览器中的 iOS 6 模拟器](https://x.com/0x0SojalSec/status/2112280540644770054) | Opus 5.5 | [@0x0SojalSec](https://x.com/0x0SojalSec) | 0:58 | — |
+| [十条AI生成的UGC带货广告](https://x.com/jakecastilloooo/status/2112552356210778380) | Opus 5.5 | [@jakecastilloooo](https://x.com/jakecastilloooo) | 0:08 | — |
 | [从2D平面图制作的房地产视频](https://x.com/techhalla/status/2105376621737746716) | Opus 5.5 | [@techhalla](https://x.com/techhalla) | 0:37 | — |
 | [一键生成的产品发布视频](https://x.com/javiiarchive/status/2108149080568545694) | Opus 5.5 | [@javiiarchive](https://x.com/javiiarchive) | 0:31 | — |
 | [模型自制的介绍视频](https://x.com/nemumusitocha/status/2102528528613019932) | Opus 5.5 | [@nemumusitocha](https://x.com/nemumusitocha) | 6:37 | — |
@@ -213,4 +216,5 @@
 | [通过MCP工具剪辑的赞助宣传片](https://x.com/Ror_Fly/status/2103549390933610685) | Opus 5.5 | [@Ror_Fly](https://x.com/Ror_Fly) | 1:00 | — |
 | [用Sonnet 5.5搭建的笔记应用](https://x.com/CodingNoobie/status/2104642394503409862) | Sonnet 5.5 | [@CodingNoobie](https://x.com/CodingNoobie) | 0:16 | — |
 | [等距风格落地页设计](https://x.com/itsnotryan/status/2107842500715065664) | Opus 5.5 | [@itsnotryan](https://x.com/itsnotryan) | 0:08 | — |
+| [悬停翻转艺术画廊](https://x.com/gabriell_lab/status/2112520073378488501) | Opus 5.5 | [@gabriell_lab](https://x.com/gabriell_lab) | 0:11 | — |
 | [游戏化仓库管理软件](https://x.com/LearnWithSubhan/status/2110235247745052913) | Opus 5.5 | [@LearnWithSubhan](https://x.com/LearnWithSubhan) | 1:12 | — |

@@ -1,6 +1,6 @@
 # 科普讲解
 
-共 164 个作品，其中 50 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 169 个作品，其中 50 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [人类进步未来动画短片](https://x.com/imjustnewatai/status/2106081142143168580) | Fable 5.5 (preview) | [@imjustnewatai](https://x.com/imjustnewatai) | 3:09 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2106081142143168580) |
 | [多巴胺激励式数学练习App](https://x.com/grmchn4ai/status/2103807453406388538) | Opus 5.5 | [@grmchn4ai](https://x.com/grmchn4ai) | 0:53 | — |
 | [互动式喷气发动机原理课](https://x.com/techartist_/status/2106064200535859685) | Opus 5.5 | [@techartist_](https://x.com/techartist_) | 0:24 | — |
+| [交互式Arduino学习应用](https://x.com/DilumSanjaya/status/2112587730542854263) | Opus 5.5 | [@DilumSanjaya](https://x.com/DilumSanjaya) | 1:01 | — |
 | [论文改编的3Blue1Brown风格视频](https://x.com/deedydas/status/2103141339651350646) | Opus 5.5 | [@deedydas](https://x.com/deedydas) | 8:39 | — |
 | [1%概率需要多少次才能命中](https://x.com/Lattice_Node/status/2106313749846249487) | Opus 5.5 | [@Lattice_Node](https://x.com/Lattice_Node) | 0:42 | — |
 | [诺兰风格的4位ALU讲解视频](https://x.com/mustafaakin/status/2103574428475154635) | Opus 5.5 | [@mustafaakin](https://x.com/mustafaakin) | 1:10 | — |
@@ -74,9 +75,11 @@
 | [犹太历史纪录片一次生成](https://x.com/eranshir/status/2103564391170089429) | Opus 5.5 | [@eranshir](https://x.com/eranshir) | 3:43 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103564391170089429) |
 | [通过聊天制作的SpaceX历史视频](https://x.com/xiaohu/status/2110287968783179922) | Opus 5.5 | [@xiaohu](https://x.com/xiaohu) | 5:39 | — |
 | [眼睛进化过程科普动画](https://x.com/cagrimbakirci/status/2104011756397842869) | Opus 5.5 | [@cagrimbakirci](https://x.com/cagrimbakirci) | 1:10 | — |
+| [DeepInfer工作原理讲解视频](https://x.com/cneuralnetwork/status/2112500556916986309) | Opus 5.5 | [@cneuralnetwork](https://x.com/cneuralnetwork) | 1:58 | — |
 | [关于Dots AI代理的讲解视频](https://x.com/seiiiiiiiiiiru/status/2105187157841445314) | Sonnet 5.5 | [@seiiiiiiiiiiru](https://x.com/seiiiiiiiiiiru) | 2:11 | — |
 | [文档转视频讲解（Open Alignment)](https://x.com/Thom_Wolf/status/2103545533474206118) | Opus 5.5 | [@Thom_Wolf](https://x.com/Thom_Wolf) | 1:24 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103545533474206118) |
 | [物理竞赛压轴题讲解视频](https://x.com/akokoi1/status/2102680453912449223) | Opus 5.5 | [@akokoi1](https://x.com/akokoi1) | 3:09 | — |
+| [pi-durable讲座浓缩成的7分钟讲解视频](https://x.com/_alejandroao/status/2112466641464267203) | Opus 5.5 | [@_alejandroao](https://x.com/_alejandroao) | 6:54 | — |
 | [一分钟看懂信用交易讲解](https://x.com/RtSubPozrT8wmsN/status/2102764115500687573) | Opus 5.5 | [@RtSubPozrT8wmsN](https://x.com/RtSubPozrT8wmsN) | 0:57 | — |
 | [文明史动画短片](https://x.com/ziwenxu_/status/2105983571848741045) | Fable 5.5 (preview) | [@ziwenxu_](https://x.com/ziwenxu_) | 3:06 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2105983571848741045) |
 | [SpaceX 发展史白板视频](https://x.com/AlchainHust/status/2107018546194882678) | Opus 5.5 | [@AlchainHust](https://x.com/AlchainHust) | 2:10 | — |
@@ -106,6 +109,7 @@
 | [讲解Claude用量管理工作流的动画](https://x.com/daniel_mac8/status/2103666105461924131) | Opus 5.5 | [@daniel_mac8](https://x.com/daniel_mac8) | 0:29 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103666105461924131) |
 | [医疗体系演讲内容总结视频](https://x.com/agaviriau/status/2105769916288930215) | Opus 5.5 | [@agaviriau](https://x.com/agaviriau) | 2:06 | — |
 | [足球历史迷你纪录片](https://x.com/agaviriau/status/2110798126453846207) | Opus 5.5 | [@agaviriau](https://x.com/agaviriau) | 3:30 | — |
+| [一张 Shopify 订单从下单到送达的全过程](https://x.com/konstantinsaifo/status/2112654123669639665) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 0:44 | — |
 | [IDOR漏洞讲解视频](https://x.com/BourAbdelhadi/status/2105236146246586434) | Sonnet 5.5 | [@BourAbdelhadi](https://x.com/BourAbdelhadi) | 0:35 | — |
 | [马桶冲水机制互动演示](https://x.com/elliscrosby/status/2109570204556824624) | Opus 5.5 | [@elliscrosby](https://x.com/elliscrosby) | 0:18 | — |
 | [诺贝尔奖科普视频](https://x.com/KeWai386772/status/2108143447496679553) | Opus 5.5 | [@KeWai386772](https://x.com/KeWai386772) | 13:00 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2108143447496679553) |
@@ -145,6 +149,7 @@
 | [光合作用艺术讲解动画](https://x.com/devteamdrew/status/2111172786286690324) | Opus 5.5 / Sonnet 5.5 | [@devteamdrew](https://x.com/devteamdrew) | 0:47 | — |
 | [伊斯坦布尔历史地图互动项目](https://x.com/cahidarda/status/2103218970115678497) | Opus 5.5 | [@cahidarda](https://x.com/cahidarda) | 0:10 | — |
 | [兰博基尼FL3拖拉机柴油机交互模型](https://x.com/exploraX_/status/2112130961714385214) | Opus 5.5 | [@exploraX_](https://x.com/exploraX_) | 0:42 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2112130961714385214) |
+| [北京城历史变迁地图科普视频](https://x.com/KinGao476942/status/2112486220249133118) | Opus 5.5 | [@KinGao476942](https://x.com/KinGao476942) | 2:26 | — |
 | [特斯拉Roadster科普讲解视频](https://x.com/KeWai386772/status/2111440772998599022) | Opus 5.5 | [@KeWai386772](https://x.com/KeWai386772) | 2:54 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2111440772998599022) |
 | [板块漂移主题音乐动画视频](https://x.com/kevin_t_ngo/status/2108208479358026208) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 2:21 | — |
 | [查询扇出讲解视频](https://x.com/harpreetchatha_/status/2103591810253914585) | Opus 5.5 | [@harpreetchatha_](https://x.com/harpreetchatha_) | 0:20 | — |

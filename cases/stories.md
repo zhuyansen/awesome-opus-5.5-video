@@ -1,6 +1,6 @@
 # Characters & stories
 
-188 works, 47 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+191 works, 48 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Mid-Autumn collage-style animated short](https://x.com/ring_hyacinth/status/2102986085328716066) | Opus 5.5 | [@ring_hyacinth](https://x.com/ring_hyacinth) | 0:40 | — |
 | [p(Bloom) extended music video](https://x.com/PuppyPriestess/status/2105116325794488736) | Opus 5.5 | [@PuppyPriestess](https://x.com/PuppyPriestess) | 3:15 | — |
 | [Long-form AI video with audio and sound](https://x.com/dhruvalgolakiya/status/2102733714845491558) | Opus 5.5 | [@dhruvalgolakiya](https://x.com/dhruvalgolakiya) | 2:04 | — |
+| [Otter on a plane using Wi-Fi](https://x.com/emollick/status/2112656453685367004) | Opus 5.5 | [@emollick](https://x.com/emollick) | 1:50 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2112656453685367004) |
 | [Nidec earnings report music video](https://x.com/AbaneChan/status/2105288003543564590) | Opus 5.5 | [@AbaneChan](https://x.com/AbaneChan) | 5:12 | — |
 | [Claude parody song animated video](https://x.com/eudaemonea/status/2103159823407722893) | Opus 5.5 | [@eudaemonea](https://x.com/eudaemonea) | 6:02 | — |
 | [Animated episode drawn entirely in code](https://x.com/shfred0/status/2102879301876031808) | Opus 5.5 | [@shfred0](https://x.com/shfred0) | 2:00 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102879301876031808) |
@@ -159,6 +160,7 @@
 | [Halloween trick-or-treat animated video](https://x.com/alexgreensh/status/2110404428691808308) | Opus 5.5 | [@alexgreensh](https://x.com/alexgreensh) | 1:12 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2110404428691808308) |
 | [Reimagined music video rendered by AI](https://x.com/LLMJunky/status/2103903916383744025) | Opus 5.5 | [@LLMJunky](https://x.com/LLMJunky) | 3:12 | — |
 | [Full AI-made music and animation piece](https://x.com/anthrupad/status/2110950344272527596) | Opus 5.5 | [@anthrupad](https://x.com/anthrupad) | 0:52 | — |
+| [Human-centered documentary on the US-Iran war](https://x.com/sarpstar/status/2112592903809683527) | Opus 5.5 | [@sarpstar](https://x.com/sarpstar) | 9:52 | — |
 | [Super Robot Wars style mecha battle animation](https://x.com/PDyv9gdatT4132/status/2105401665360986275) | Opus 5.5 | [@PDyv9gdatT4132](https://x.com/PDyv9gdatT4132) | 0:32 | — |
 | [The Last Train Home rainy Japanese night scene](https://x.com/pankajkumar_dev/status/2112176644018626840) | Fable 5.5 (preview) | [@pankajkumar_dev](https://x.com/pankajkumar_dev) | 0:56 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2112176644018626840) |
 | [Claude reacting to silly questions video](https://x.com/belltyler/status/2103879008261931055) | Opus 5.5 | [@belltyler](https://x.com/belltyler) | 1:30 | — |
@@ -175,6 +177,7 @@
 | [Day in the life of Clawd (Claude mascot)](https://x.com/vikktorrrre/status/2102702170986463421) | Opus 5.5 | [@vikktorrrre](https://x.com/vikktorrrre) | 1:04 | — |
 | [Paper-style stop-motion animation](https://x.com/LexnLin/status/2108567673890111948) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 0:30 | — |
 | [History of humanity sketch animation](https://x.com/oalanicolas/status/2107958931230241037) | Fable 5.5 (preview) | [@oalanicolas](https://x.com/oalanicolas) | 1:29 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2107958931230241037) |
+| [Paperclip and sticky note short film](https://x.com/kevin_t_ngo/status/2112584730856366140) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 1:00 | — |
 | [Upbeat Heart Sutra music video](https://x.com/nishio/status/2103494810720198914) | Opus 5.5 | [@nishio](https://x.com/nishio) | 3:04 | — |
 | [Visualization of Persian poems](https://x.com/kimziify/status/2103784499125559530) | Opus 5.5 | [@kimziify](https://x.com/kimziify) | 0:16 | — |
 | [Paper collage Momotaro animation](https://x.com/tanabe_fragm/status/2110931024469540979) | Opus 5.5 | [@tanabe_fragm](https://x.com/tanabe_fragm) | 0:46 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2110931024469540979) |

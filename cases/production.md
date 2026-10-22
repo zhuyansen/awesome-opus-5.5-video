@@ -1,6 +1,6 @@
 # Music, editing & production
 
-143 works, 25 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+144 works, 25 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Talking-head video edited into a motion-graphics cut](https://x.com/condzxyz/status/2109454493415023080) | Opus 5.5 | [@condzxyz](https://x.com/condzxyz) | 6:19 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2109454493415023080) |
 | [Live2D motion generation via Claude Code](https://x.com/rotejin/status/2103384608301830297) | Opus 5.5 | [@rotejin](https://x.com/rotejin) | 0:27 | — |
 | [Custom eye-blink transition preset for Premiere Pro](https://x.com/jboogx_creative/status/2107779118091943941) | Opus 5.5 | [@jboogx_creative](https://x.com/jboogx_creative) | 1:04 | — |
+| [Squid Game scene assembled from low-cost clips](https://x.com/mickeyxfriedman/status/2112653827644301328) | Opus 5.5 | [@mickeyxfriedman](https://x.com/mickeyxfriedman) | 1:00 | — |
 | [Archival footage music video edit](https://x.com/bitstein/status/2104040489301295502) | Opus 5.5 | [@bitstein](https://x.com/bitstein) | 1:54 | — |
 | [Bilingual Gossip Video](https://x.com/dotey/status/2106144184449085474) | Opus 5.5 | [@dotey](https://x.com/dotey) | 5:51 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2106144184449085474) |
 | [Automated branded video edit with voice sync](https://x.com/Aykutuces/status/2110019799342260630) | Opus 5.5 | [@Aykutuces](https://x.com/Aykutuces) | 1:14 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2110019799342260630) |

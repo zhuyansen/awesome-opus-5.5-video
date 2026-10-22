@@ -1,6 +1,6 @@
 # 制作流程
 
-共 143 个作品，其中 25 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 144 个作品，其中 25 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [口播视频的动效剪辑](https://x.com/condzxyz/status/2109454493415023080) | Opus 5.5 | [@condzxyz](https://x.com/condzxyz) | 6:19 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2109454493415023080) |
 | [用Claude Code生成Live2D动作](https://x.com/rotejin/status/2103384608301830297) | Opus 5.5 | [@rotejin](https://x.com/rotejin) | 0:27 | — |
 | [Premiere Pro自定义眨眼转场预设](https://x.com/jboogx_creative/status/2107779118091943941) | Opus 5.5 | [@jboogx_creative](https://x.com/jboogx_creative) | 1:04 | — |
+| [用低成本片段合成的鱿鱼游戏场景](https://x.com/mickeyxfriedman/status/2112653827644301328) | Opus 5.5 | [@mickeyxfriedman](https://x.com/mickeyxfriedman) | 1:00 | — |
 | [档案影像混剪音乐短片](https://x.com/bitstein/status/2104040489301295502) | Opus 5.5 | [@bitstein](https://x.com/bitstein) | 1:54 | — |
 | [双语八卦视频](https://x.com/dotey/status/2106144184449085474) | Opus 5.5 | [@dotey](https://x.com/dotey) | 5:51 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2106144184449085474) |
 | [基于语音同步的自动化品牌视频剪辑](https://x.com/Aykutuces/status/2110019799342260630) | Opus 5.5 | [@Aykutuces](https://x.com/Aykutuces) | 1:14 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2110019799342260630) |

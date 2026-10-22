@@ -1,6 +1,6 @@
 # Product demos & ads
 
-210 works, 42 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+214 works, 42 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [FPV flight controller PCB rebuild](https://x.com/Peter05704721/status/2102725548229456351) | Opus 5.5 | [@Peter05704721](https://x.com/Peter05704721) | 0:12 | — |
 | [Promotional video for a Roblox game](https://x.com/dataX_e/status/2104967024812118196) | Opus 5.5 | [@dataX_e](https://x.com/dataX_e) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104967024812118196) |
 | [Olipop ad made with Opus 5.5 and Boreal-H3](https://x.com/marcusyul/status/2105355809677001180) | Opus 5.5 | [@marcusyul](https://x.com/marcusyul) | 0:46 | — |
+| [VR time-freeze app built end to end](https://x.com/lucas_martinic/status/2112514417300758643) | Opus 5.5 | [@lucas_martinic](https://x.com/lucas_martinic) | 0:52 | — |
 | [AI-driven launch video via After Effects](https://x.com/seiiiiiiiiiiru/status/2102636308707287201) | Opus 5.5 | [@seiiiiiiiiiiru](https://x.com/seiiiiiiiiiiru) | 0:30 | — |
 | [Dub.co promo video one-shot](https://x.com/steventey/status/2103625902211088880) | Opus 5.5 | [@steventey](https://x.com/steventey) | 0:15 | — |
 | [Property showcase video generated from a webpage](https://x.com/kiarohidawa/status/2103661278300610623) | Opus 5.5 | [@kiarohidawa](https://x.com/kiarohidawa) | 1:40 | — |
@@ -122,6 +123,7 @@
 | [Clucky alarm clock app demo](https://x.com/adrianabelarde/status/2105195481874002217) | Opus 5.5 | [@adrianabelarde](https://x.com/adrianabelarde) | 0:12 | — |
 | [Business promo video showcase](https://x.com/berlified/status/2107031729705984163) | Opus 5.5 | [@berlified](https://x.com/berlified) | 0:24 | — |
 | [App promo video generated from codebase](https://x.com/akokoi1/status/2103299308460429602) | Opus 5.5 | [@akokoi1](https://x.com/akokoi1) | 0:40 | — |
+| [3D animated commercial for Rondo game](https://x.com/IHayato/status/2112430672090730746) | Opus 5.5 | [@IHayato](https://x.com/IHayato) | 0:30 | — |
 | [Custom flame branding effect demo](https://x.com/nusretuzman/status/2103582679358718050) | Opus 5.5 | [@nusretuzman](https://x.com/nusretuzman) | 0:04 | — |
 | [Interactive animated drawing scratchpad](https://x.com/ChrisGPT/status/2102615272054231093) | Opus 5.5 | [@ChrisGPT](https://x.com/ChrisGPT) | 1:51 | — |
 | [Lightspark product promo video](https://x.com/davidmarcus/status/2103275618045686217) | Opus 5.5 | [@davidmarcus](https://x.com/davidmarcus) | 0:23 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103275618045686217) |
@@ -151,6 +153,7 @@
 | [One-shot marketing video built with code](https://x.com/matthewmillerai/status/2103532155481833538) | Opus 5.5 | [@matthewmillerai](https://x.com/matthewmillerai) | 1:00 | — |
 | [Meta VR Glasses video variations](https://x.com/mouri45/status/2107036053949575311) | Opus 5.5 | [@mouri45](https://x.com/mouri45) | 4:46 | — |
 | [iOS 6 browser simulator](https://x.com/0x0SojalSec/status/2112280540644770054) | Opus 5.5 | [@0x0SojalSec](https://x.com/0x0SojalSec) | 0:58 | — |
+| [Ten AI-generated UGC product ads](https://x.com/jakecastilloooo/status/2112552356210778380) | Opus 5.5 | [@jakecastilloooo](https://x.com/jakecastilloooo) | 0:08 | — |
 | [Real estate video from 2D floor plan](https://x.com/techhalla/status/2105376621737746716) | Opus 5.5 | [@techhalla](https://x.com/techhalla) | 0:37 | — |
 | [One-prompt product launch video](https://x.com/javiiarchive/status/2108149080568545694) | Opus 5.5 | [@javiiarchive](https://x.com/javiiarchive) | 0:31 | — |
 | [Self-made introduction video for the model](https://x.com/nemumusitocha/status/2102528528613019932) | Opus 5.5 | [@nemumusitocha](https://x.com/nemumusitocha) | 6:37 | — |
@@ -213,4 +216,5 @@
 | [Sponsorship promo video cut via MCP tools](https://x.com/Ror_Fly/status/2103549390933610685) | Opus 5.5 | [@Ror_Fly](https://x.com/Ror_Fly) | 1:00 | — |
 | [Notes app built with Sonnet 5.5](https://x.com/CodingNoobie/status/2104642394503409862) | Sonnet 5.5 | [@CodingNoobie](https://x.com/CodingNoobie) | 0:16 | — |
 | [Isometric landing page design](https://x.com/itsnotryan/status/2107842500715065664) | Opus 5.5 | [@itsnotryan](https://x.com/itsnotryan) | 0:08 | — |
+| [Hover-flip artwork gallery](https://x.com/gabriell_lab/status/2112520073378488501) | Opus 5.5 | [@gabriell_lab](https://x.com/gabriell_lab) | 0:11 | — |
 | [Gamified warehouse management software](https://x.com/LearnWithSubhan/status/2110235247745052913) | Opus 5.5 | [@LearnWithSubhan](https://x.com/LearnWithSubhan) | 1:12 | — |

@@ -1,6 +1,6 @@
 # Explainers & education
 
-164 works, 50 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+169 works, 50 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Human progress to future animated film](https://x.com/imjustnewatai/status/2106081142143168580) | Fable 5.5 (preview) | [@imjustnewatai](https://x.com/imjustnewatai) | 3:09 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2106081142143168580) |
 | [Dopamine-driven math drill app](https://x.com/grmchn4ai/status/2103807453406388538) | Opus 5.5 | [@grmchn4ai](https://x.com/grmchn4ai) | 0:53 | — |
 | [Interactive jet engine lesson](https://x.com/techartist_/status/2106064200535859685) | Opus 5.5 | [@techartist_](https://x.com/techartist_) | 0:24 | — |
+| [Interactive Arduino learning app](https://x.com/DilumSanjaya/status/2112587730542854263) | Opus 5.5 | [@DilumSanjaya](https://x.com/DilumSanjaya) | 1:01 | — |
 | [3Blue1Brown-style video from a research paper](https://x.com/deedydas/status/2103141339651350646) | Opus 5.5 | [@deedydas](https://x.com/deedydas) | 8:39 | — |
 | [How Many Tries to Hit a 1% Chance](https://x.com/Lattice_Node/status/2106313749846249487) | Opus 5.5 | [@Lattice_Node](https://x.com/Lattice_Node) | 0:42 | — |
 | [Nolan-style video explaining a 4-bit ALU](https://x.com/mustafaakin/status/2103574428475154635) | Opus 5.5 | [@mustafaakin](https://x.com/mustafaakin) | 1:10 | — |
@@ -74,9 +75,11 @@
 | [Zero-shot documentary on Jewish history](https://x.com/eranshir/status/2103564391170089429) | Opus 5.5 | [@eranshir](https://x.com/eranshir) | 3:43 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103564391170089429) |
 | [SpaceX history video made via chat](https://x.com/xiaohu/status/2110287968783179922) | Opus 5.5 | [@xiaohu](https://x.com/xiaohu) | 5:39 | — |
 | [Evolution of the eye explainer](https://x.com/cagrimbakirci/status/2104011756397842869) | Opus 5.5 | [@cagrimbakirci](https://x.com/cagrimbakirci) | 1:10 | — |
+| [Explainer video on how DeepInfer works](https://x.com/cneuralnetwork/status/2112500556916986309) | Opus 5.5 | [@cneuralnetwork](https://x.com/cneuralnetwork) | 1:58 | — |
 | [Explainer video about the Dots AI agent](https://x.com/seiiiiiiiiiiru/status/2105187157841445314) | Sonnet 5.5 | [@seiiiiiiiiiiru](https://x.com/seiiiiiiiiiiru) | 2:11 | — |
 | [Doc-to-video explainer (Open Alignment)](https://x.com/Thom_Wolf/status/2103545533474206118) | Opus 5.5 | [@Thom_Wolf](https://x.com/Thom_Wolf) | 1:24 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103545533474206118) |
 | [Physics competition problem explainer video](https://x.com/akokoi1/status/2102680453912449223) | Opus 5.5 | [@akokoi1](https://x.com/akokoi1) | 3:09 | — |
+| [Pi-durable lecture condensed into a 7-minute explainer](https://x.com/_alejandroao/status/2112466641464267203) | Opus 5.5 | [@_alejandroao](https://x.com/_alejandroao) | 6:54 | — |
 | [1-minute margin trading explainer](https://x.com/RtSubPozrT8wmsN/status/2102764115500687573) | Opus 5.5 | [@RtSubPozrT8wmsN](https://x.com/RtSubPozrT8wmsN) | 0:57 | — |
 | [Civilization history animated film](https://x.com/ziwenxu_/status/2105983571848741045) | Fable 5.5 (preview) | [@ziwenxu_](https://x.com/ziwenxu_) | 3:06 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2105983571848741045) |
 | [SpaceX history whiteboard video](https://x.com/AlchainHust/status/2107018546194882678) | Opus 5.5 | [@AlchainHust](https://x.com/AlchainHust) | 2:10 | — |
@@ -106,6 +109,7 @@
 | [Explainer animation about Claude usage workflows](https://x.com/daniel_mac8/status/2103666105461924131) | Opus 5.5 | [@daniel_mac8](https://x.com/daniel_mac8) | 0:29 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103666105461924131) |
 | [Summary video of health system presentations](https://x.com/agaviriau/status/2105769916288930215) | Opus 5.5 | [@agaviriau](https://x.com/agaviriau) | 2:06 | — |
 | [Football history mini-documentary](https://x.com/agaviriau/status/2110798126453846207) | Opus 5.5 | [@agaviriau](https://x.com/agaviriau) | 3:30 | — |
+| [Journey of a Shopify order from click to doorstep](https://x.com/konstantinsaifo/status/2112654123669639665) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 0:44 | — |
 | [IDOR vulnerability explainer video](https://x.com/BourAbdelhadi/status/2105236146246586434) | Sonnet 5.5 | [@BourAbdelhadi](https://x.com/BourAbdelhadi) | 0:35 | — |
 | [Interactive toilet flush mechanism demo](https://x.com/elliscrosby/status/2109570204556824624) | Opus 5.5 | [@elliscrosby](https://x.com/elliscrosby) | 0:18 | — |
 | [Nobel Prize science explainer video](https://x.com/KeWai386772/status/2108143447496679553) | Opus 5.5 | [@KeWai386772](https://x.com/KeWai386772) | 13:00 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2108143447496679553) |
@@ -145,6 +149,7 @@
 | [The Art of Photosynthesis explainer](https://x.com/devteamdrew/status/2111172786286690324) | Opus 5.5 / Sonnet 5.5 | [@devteamdrew](https://x.com/devteamdrew) | 0:47 | — |
 | [Interactive historical map of Istanbul](https://x.com/cahidarda/status/2103218970115678497) | Opus 5.5 | [@cahidarda](https://x.com/cahidarda) | 0:10 | — |
 | [Interactive Lamborghini FL3 tractor diesel engine](https://x.com/exploraX_/status/2112130961714385214) | Opus 5.5 | [@exploraX_](https://x.com/exploraX_) | 0:42 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2112130961714385214) |
+| [Beijing historical map explainer video](https://x.com/KinGao476942/status/2112486220249133118) | Opus 5.5 | [@KinGao476942](https://x.com/KinGao476942) | 2:26 | — |
 | [Tesla Roadster explainer video](https://x.com/KeWai386772/status/2111440772998599022) | Opus 5.5 | [@KeWai386772](https://x.com/KeWai386772) | 2:54 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2111440772998599022) |
 | [Plate tectonics music video animation](https://x.com/kevin_t_ngo/status/2108208479358026208) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 2:21 | — |
 | [Query fan-out explainer video](https://x.com/harpreetchatha_/status/2103591810253914585) | Opus 5.5 | [@harpreetchatha_](https://x.com/harpreetchatha_) | 0:20 | — |
