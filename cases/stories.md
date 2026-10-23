@@ -1,10 +1,11 @@
 # Characters & stories
 
-191 works, 48 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+193 works, 48 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
 | [Recreating the Girl with a Pearl Earring painting moment](https://x.com/EHuanglu/status/2105027077548429557) | Opus 5.5 | [@EHuanglu](https://x.com/EHuanglu) | 0:30 | — |
+| [Animated interactive data stories](https://x.com/bindureddy/status/2113115471327457666) | Opus 5.5 | [@bindureddy](https://x.com/bindureddy) | 0:46 | — |
 | [Music video for an AI-generated song](https://x.com/eudaemonea/status/2102610626321490404) | Opus 5.5 | [@eudaemonea](https://x.com/eudaemonea) | 6:13 | — |
 | [Video predicting the next 50 years](https://x.com/andrewjiang/status/2102987981695132140) | Opus 5.5 | [@andrewjiang](https://x.com/andrewjiang) | 4:00 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102987981695132140) |
 | [Dot prompt becomes Pixar-style animation](https://x.com/cherry_mx_reds/status/2105825930799432073) | Fable 5.5 (preview) | [@cherry_mx_reds](https://x.com/cherry_mx_reds) | 0:15 | — |
@@ -98,6 +99,7 @@
 | [Wong Kar-wai-style short film](https://x.com/HanZhang415188/status/2105978537681567931) | Opus 5.5 | [@HanZhang415188](https://x.com/HanZhang415188) | 1:48 | — |
 | [AI-directed short story film with effects](https://x.com/op7418/status/2109515395749310821) | Opus 5.5 | [@op7418](https://x.com/op7418) | 1:20 | — |
 | [Lyric motion video synced to a song](https://x.com/takamasa045/status/2103791907801620931) | Opus 5.5 | [@takamasa045](https://x.com/takamasa045) | 2:08 | — |
+| [Paper-cut fox film](https://x.com/LexnLin/status/2113025231732224063) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 1:00 | — |
 | [Yu Gong Moves the Mountain animation](https://x.com/nicekate8888/status/2108223333431193770) | Opus 5.5 | [@nicekate8888](https://x.com/nicekate8888) | 2:00 | — |
 | [Code-generated music video 'One More Prompt'](https://x.com/LexnLin/status/2109779693792883178) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 3:05 | — |
 | [AI manga chapter voiced edition](https://x.com/zerozakiyamo/status/2108696942108938245) | Opus 5.5 | [@zerozakiyamo](https://x.com/zerozakiyamo) | 5:52 | — |

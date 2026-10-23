@@ -1,6 +1,6 @@
 # 动效设计
 
-共 275 个作品，其中 88 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 278 个作品，其中 88 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [风景无限缩放循环动画](https://x.com/koldo2k/status/2103129343253778767) | Opus 5.5 | [@koldo2k](https://x.com/koldo2k) | 0:20 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103129343253778767) |
 | [用slop cannon MCP制作的视频](https://x.com/boneGPT/status/2102484877941911734) | Opus 5.5 | [@boneGPT](https://x.com/boneGPT) | 1:20 | — |
 | [用 brag skill 做的苹果风发布视频](https://x.com/0xhrushi/status/2103392921559126157) | Opus 5.5 | [@0xhrushi](https://x.com/0xhrushi) | 0:25 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103392921559126157) |
+| [流畅界面动画](https://x.com/BreejeAnadkat/status/2112873177185660940) | Opus 5.5 | [@BreejeAnadkat](https://x.com/BreejeAnadkat) | 0:11 | — |
 | [无需无人机的悬崖运镜效果](https://x.com/socialwithaayan/status/2111448458079133856) | Opus 5.5 | [@socialwithaayan](https://x.com/socialwithaayan) | 0:25 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2111448458079133856) |
 | [详细提示词生成的15秒设计作品集](https://x.com/darel023/status/2103424524297420829) | Opus 5.5 | [@darel023](https://x.com/darel023) | 0:15 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103424524297420829) |
 | [用GrokBot和Opus5.5搭建的动态设计工作室](https://x.com/0xRafy/status/2108673427590590971) | Opus 5.5 | [@0xRafy](https://x.com/0xRafy) | 0:44 | — |
@@ -125,6 +126,7 @@
 | [专业级30秒产品展示片](https://x.com/HO_BA/status/2103845264649761062) | Opus 5.5 | [@HO_BA](https://x.com/HO_BA) | 0:30 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103845264649761062) |
 | [代理机构介绍动态设计视频](https://x.com/baptistelcx/status/2103437700783038710) | Opus 5.5 | [@baptistelcx](https://x.com/baptistelcx) | 1:18 | — |
 | [15分钟完成的动效设计作品](https://x.com/vikktorrrre/status/2103829638799618407) | Opus 5.5 | [@vikktorrrre](https://x.com/vikktorrrre) | 0:26 | — |
+| [基于 PDF 的动效视频](https://x.com/0xwhrrari/status/2112896717523681365) | Opus 5.5 | [@0xwhrrari](https://x.com/0xwhrrari) | 0:20 | — |
 | [动态设计与音效工程演示](https://x.com/kloss_xyz/status/2103557735086428547) | Opus 5.5 | [@kloss_xyz](https://x.com/kloss_xyz) | 1:30 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103557735086428547) |
 | [VRM模型角色出场动画](https://x.com/tegnike/status/2103588966834245694) | Opus 5.5 | [@tegnike](https://x.com/tegnike) | 0:44 | — |
 | [《The First Spark》程序化手绘动画短片](https://x.com/morpheusdv/status/2102910531560731063) | Opus 5.5 | [@morpheusdv](https://x.com/morpheusdv) | 1:00 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102910531560731063) |
@@ -233,6 +235,7 @@
 | [像素风角色攻击动作补帧](https://x.com/MindGate_dev/status/2111668407418650660) | Opus 5.5 | [@MindGate_dev](https://x.com/MindGate_dev) | 0:40 | — |
 | [单条提示词生成AE动画](https://x.com/0xCrosss/status/2103841408977150450) | Opus 5.5 | [@0xCrosss](https://x.com/0xCrosss) | 0:16 | — |
 | [无参考素材一次生成的AI视频](https://x.com/Charles_SEO/status/2103703459782660599) | Opus 5.5 | [@Charles_SEO](https://x.com/Charles_SEO) | 2:00 | — |
+| [基于PDF说明生成的动态设计短片](https://x.com/flxrnc/status/2112973736244588940) | Opus 5.5 | [@flxrnc](https://x.com/flxrnc) | 0:18 | — |
 | [令人惊叹的AI输出反应视频](https://x.com/antonioleivag/status/2103484611531866467) | Opus 5.5 | [@antonioleivag](https://x.com/antonioleivag) | 0:15 | — |
 | [基于设计技能生成的动画短片](https://x.com/elayadesigns/status/2109921298889785836) | Opus 5.5 | [@elayadesigns](https://x.com/elayadesigns) | 0:10 | — |
 | [动效模板应用](https://x.com/techhalla/status/2103923805098070477) | Opus 5.5 | [@techhalla](https://x.com/techhalla) | 0:24 | — |

@@ -1,6 +1,6 @@
 # 游戏
 
-共 356 个作品，其中 54 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 365 个作品，其中 54 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [无人深空风格多人浏览器游戏](https://x.com/Rubzem/status/2107828818165833976) | Opus 5.5 | [@Rubzem](https://x.com/Rubzem) | 1:31 | — |
 | [带水体物理的类Minecraft游戏](https://x.com/notjazii/status/2102480420923420790) | Opus 5.5 | [@notjazii](https://x.com/notjazii) | 1:24 | — |
 | [重制经典头球闪客游戏](https://x.com/melih_cat/status/2102731155879391418) | Opus 5.5 | [@melih_cat](https://x.com/melih_cat) | 0:18 | — |
+| [历时一个月打造的Three.js动作游戏](https://x.com/Belbizaz/status/2112979473788477905) | Opus 5.5 | [@Belbizaz](https://x.com/Belbizaz) | 0:47 | — |
 | [概念车毁灭德比浏览器游戏](https://x.com/drcollect/status/2105361031371383180) | Opus 5.5 | [@drcollect](https://x.com/drcollect) | 0:16 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2105361031371383180) |
 | [Godot动作游戏剑技特效](https://x.com/akakuma0219/status/2103750463271383091) | Opus 5.5 | [@akakuma0219](https://x.com/akakuma0219) | 0:48 | — |
 | [用Opus构建的大亨游戏海滩更新](https://x.com/alexcooldev/status/2109920822068654290) | Opus 5.5 | [@alexcooldev](https://x.com/alexcooldev) | 0:27 | — |
@@ -118,6 +119,7 @@
 | [治愈系网页钓鱼游戏更新](https://x.com/dangreenheck/status/2103004432786993341) | Opus 5.5 | [@dangreenheck](https://x.com/dangreenheck) | 4:52 | — |
 | [幽灵猎人Unity游戏原型](https://x.com/rewind02/status/2110333960702091428) | Opus 5.5 | [@rewind02](https://x.com/rewind02) | 0:24 | — |
 | [游戏中的城市建造](https://x.com/xikhar/status/2112709928771277158) | Opus 5.5 | [@xikhar](https://x.com/xikhar) | 0:41 | — |
+| [《Rolling Republic》生存游戏](https://x.com/usecrayon/status/2113044115130867828) | Opus 5.5 | [@usecrayon](https://x.com/usecrayon) | 0:30 | — |
 | [3D武侠动作游戏原型](https://x.com/cnyzgkc/status/2108159853533466672) | Opus 5.5 | [@cnyzgkc](https://x.com/cnyzgkc) | 0:59 | — |
 | [Little Habitats小游戏](https://x.com/DannyLimanseta/status/2103493389778125083) | Opus 5.5 | [@DannyLimanseta](https://x.com/DannyLimanseta) | 1:14 | — |
 | [带有巨型Boss追逐战的平台跳跃游戏](https://x.com/chongdashu/status/2109452512160039063) | Opus 5.5 | [@chongdashu](https://x.com/chongdashu) | 0:43 | — |
@@ -176,6 +178,7 @@
 | [用生成式3D模型制作的箱庭游戏](https://x.com/KanaWorks_AI/status/2110638868202762335) | Opus 5.5 | [@KanaWorks_AI](https://x.com/KanaWorks_AI) | 0:45 | — |
 | [火箭中队轨道射击游戏](https://x.com/guidorosso/status/2107146407790666085) | Opus 5.5 | [@guidorosso](https://x.com/guidorosso) | 3:02 | — |
 | [Heatsink飞行赛车游戏更新](https://x.com/aniketjart/status/2108767659873681627) | Opus 5.5 | [@aniketjart](https://x.com/aniketjart) | 0:30 | — |
+| [《桃花源记》探险小游戏](https://x.com/Pluvio9yte/status/2112833515037610354) | Opus 5.5 | [@Pluvio9yte](https://x.com/Pluvio9yte) | 0:23 | — |
 | [《恶霸鲁尼》移植到Unreal引擎](https://x.com/ashen_one/status/2112067517959078155) | Opus 5.5 | [@ashen_one](https://x.com/ashen_one) | 2:28 | — |
 | [多人对战战舰游戏](https://x.com/McGrumby/status/2103590506106380330) | Opus 5.5 | [@McGrumby](https://x.com/McGrumby) | 0:28 | — |
 | [《永恒战士》网页游戏更新](https://x.com/santisiri/status/2112234872638976233) | Opus 5.5 | [@santisiri](https://x.com/santisiri) | 2:04 | — |
@@ -238,6 +241,7 @@
 | [毕加索风格Three.js俄罗斯方块游戏](https://x.com/SimonasLTU1/status/2110665151389003777) | Opus 5.5 | [@SimonasLTU1](https://x.com/SimonasLTU1) | 1:30 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2110665151389003777) |
 | [动漫校园恋爱游戏](https://x.com/kis/status/2106237162505265499) | Opus 5.5 | [@kis](https://x.com/kis) | 1:33 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2106237162505265499) |
 | [横版攻城游戏及宣传短片](https://x.com/KanaWorks_AI/status/2102684116525437206) | Opus 5.5 | [@KanaWorks_AI](https://x.com/KanaWorks_AI) | 1:00 | — |
+| [开放世界奇幻游戏](https://x.com/M__Houser/status/2112907086204117270) | Opus 5.5 | [@M__Houser](https://x.com/M__Houser) | 0:52 | — |
 | [Opus与Ultracode制作的Godot游戏](https://x.com/RealFedeURU/status/2103408134677250131) | Opus 5.5 | [@RealFedeURU](https://x.com/RealFedeURU) | 0:52 | — |
 | [警察追逐街机风格游戏原型](https://x.com/froessell/status/2103789415323562325) | Opus 5.5 | [@froessell](https://x.com/froessell) | 0:59 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103789415323562325) |
 | [手绘风格带招法分析的国际象棋游戏](https://x.com/higgsfield_ai/status/2102534514228822197) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:20 | — |
@@ -257,9 +261,11 @@
 | [大逃杀游戏原型](https://x.com/ruku_practice/status/2103099638517813292) | Opus 5.5 | [@ruku_practice](https://x.com/ruku_practice) | 0:49 | — |
 | [用Unity和Opus 5.5独立制作的农场游戏](https://x.com/Mnilax/status/2111807938914361770) | Opus 5.5 | [@Mnilax](https://x.com/Mnilax) | 0:22 | — |
 | [Higgsfield制作的3D街机射击游戏](https://x.com/higgsfield_ai/status/2102856698595807273) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:25 | — |
+| [末日开放世界游戏](https://x.com/badboyfoxy/status/2112818987084161227) | Opus 5.5 / Fable 5.5 (preview) | [@badboyfoxy](https://x.com/badboyfoxy) | 2:07 | — |
 | [变形金刚题材格斗网页游戏](https://x.com/scottstts/status/2103848386910683142) | Opus 5.5 | [@scottstts](https://x.com/scottstts) | 4:51 | — |
 | [精灵图眼部嘴部动画](https://x.com/ShadeLurk/status/2102479519018066344) | Opus 5.5 | [@ShadeLurk](https://x.com/ShadeLurk) | 0:24 | — |
 | [体素三国无双动作游戏](https://x.com/sciencedegens/status/2103768914551603465) | Opus 5.5 | [@sciencedegens](https://x.com/sciencedegens) | 1:47 | — |
+| [Rust版Minecraft轨道打击炮模组](https://x.com/Stinkysunstep/status/2113048970838634772) | Sonnet 5.5 | [@Stinkysunstep](https://x.com/Stinkysunstep) | 0:25 | — |
 | [受喷射战士启发的浏览器游戏v3](https://x.com/JaydenDavisNC/status/2103666159916638384) | Opus 5.5 | [@JaydenDavisNC](https://x.com/JaydenDavisNC) | 2:42 | — |
 | [包含117个动画的角色动画控制器](https://x.com/MrCollison/status/2107932939816435792) | Opus 5.5 | [@MrCollison](https://x.com/MrCollison) | 2:44 | — |
 | [浏览器中重建的《星球大战前线2》](https://x.com/luckeyfaraday/status/2111276874064412934) | Opus 5.5 | [@luckeyfaraday](https://x.com/luckeyfaraday) | 2:18 | — |
@@ -304,6 +310,7 @@
 | [最终首领](https://x.com/_brightmirror/status/2111539098234310975) | Opus 5.5 | [@_brightmirror](https://x.com/_brightmirror) | 5:58 | — |
 | [耗时40小时的可玩游戏《Crimson Oath》](https://x.com/benchmark_lb900/status/2103541534906052944) | Opus 5.5 | [@benchmark_lb900](https://x.com/benchmark_lb900) | 25:05 | — |
 | [塞尔达与宝可梦跨界游戏](https://x.com/MozeTech/status/2111652513846026593) | Fable 5.5 (preview) | [@MozeTech](https://x.com/MozeTech) | 0:55 | — |
+| [特斯拉工厂策略模拟](https://x.com/konstantinsaifo/status/2112913135782756652) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 0:35 | — |
 | [Roblox黑洞特效](https://x.com/JohnKlerAI/status/2112569096567210403) | Opus 5.5 | [@JohnKlerAI](https://x.com/JohnKlerAI) | 0:11 | — |
 | [带天气、生物和武器的我的世界式沙盒游戏](https://x.com/notjazii/status/2108590346309706221) | Haiku 5.5 / Fable 5.5 (preview) | [@notjazii](https://x.com/notjazii) | 1:09 | — |
 | [可自定义角色的火柴人游戏](https://x.com/notjazii/status/2102831012686573744) | Opus 5.5 | [@notjazii](https://x.com/notjazii) | 1:54 | — |
@@ -347,6 +354,7 @@
 | [可玩的医院急诊科模拟场景](https://x.com/anxuanng/status/2111543476123042185) | Opus 5.5 | [@anxuanng](https://x.com/anxuanng) | 0:30 | — |
 | [《我的世界》内容融入《荒野大镖客：救赎2》](https://x.com/Roxx_0x/status/2107698613379838294) | Opus 5.5 | [@Roxx_0x](https://x.com/Roxx_0x) | 1:11 | — |
 | [史蒂夫在 GTA V 中遭遇凋零风暴](https://x.com/bonnyxen/status/2109056524496892098) | Opus 5.5 | [@bonnyxen](https://x.com/bonnyxen) | 3:37 | — |
+| [30人同时参与的气候政策课堂游戏](https://x.com/GabLattanzio/status/2113137522561741180) | Opus 5.5 | [@GabLattanzio](https://x.com/GabLattanzio) | 0:49 | — |
 | [可玩的机器人仓储中心模拟](https://x.com/anxuanng/status/2111471324816404683) | Opus 5.5 | [@anxuanng](https://x.com/anxuanng) | 0:30 | — |
 | [歧路旅人风格麻将肉鸽游戏](https://x.com/ezshine/status/2103574793262141636) | Opus 5.5 | [@ezshine](https://x.com/ezshine) | 0:40 | — |
 | [单指可玩的《只狼》克隆](https://x.com/plum_very/status/2103481769999876528) | Opus 5.5 | [@plum_very](https://x.com/plum_very) | 1:08 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103481769999876528) |
@@ -358,5 +366,6 @@
 | [仿机甲系列格斗游戏](https://x.com/elefolo2/status/2103310890716266620) | Opus 5.5 | [@elefolo2](https://x.com/elefolo2) | 0:34 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103310890716266620) |
 | [Roblox 游戏视觉特效](https://x.com/JohnKlerAI/status/2112324937872490552) | Opus 5.5 | [@JohnKlerAI](https://x.com/JohnKlerAI) | 0:11 | — |
 | [90年代风格FMV恐怖冒险游戏原型](https://x.com/pleometric/status/2108205076904894664) | Opus 5.5 | [@pleometric](https://x.com/pleometric) | 1:20 | — |
+| [划船收集汉字的日语学习小游戏](https://x.com/icreatelife/status/2113022598368067751) | Opus 5.5 | [@icreatelife](https://x.com/icreatelife) | 2:25 | — |
 | [将辐射3末日镇移植到辐射2的模组](https://x.com/parhelion318/status/2108606277618413780) | Opus 5.5 | [@parhelion318](https://x.com/parhelion318) | 1:10 | — |
 | [可互动游玩的主题公园策略游戏](https://x.com/anxuanng/status/2111528513690026292) | Opus 5.5 | [@anxuanng](https://x.com/anxuanng) | 0:30 | — |

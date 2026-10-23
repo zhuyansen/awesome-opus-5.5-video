@@ -1,6 +1,6 @@
 # Explainers & education
 
-169 works, 50 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+171 works, 51 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -30,6 +30,7 @@
 | ['What is a Transformer' explainer video](https://x.com/dotey/status/2103683057689522564) | Opus 5.5 | [@dotey](https://x.com/dotey) | 12:12 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103683057689522564) |
 | [Zoomable app architecture canvas](https://x.com/robinebers/status/2105309987983745060) | Opus 5.5 | [@robinebers](https://x.com/robinebers) | 0:12 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2105309987983745060) |
 | [Recreated Civil War rebel yell audio](https://x.com/JaneCazneau/status/2103594794651992264) | Opus 5.5 | [@JaneCazneau](https://x.com/JaneCazneau) | 0:41 | — |
+| [Interactive robotics engineering lesson](https://x.com/0xMovez/status/2112940162103615783) | Opus 5.5 | [@0xMovez](https://x.com/0xMovez) | 0:46 | — |
 | [Airport traffic flow comparison visualization](https://x.com/ConorNeu/status/2103528147220349271) | Opus 5.5 | [@ConorNeu](https://x.com/ConorNeu) | 1:07 | — |
 | [5000 years of Chinese history recap video](https://x.com/akokoi1/status/2102583898865873225) | Opus 5.5 | [@akokoi1](https://x.com/akokoi1) | 2:38 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102583898865873225) |
 | [Visualization of solving a hard problem](https://x.com/chetaslua/status/2102478640428773861) | Opus 5.5 | [@chetaslua](https://x.com/chetaslua) | 0:30 | — |
@@ -103,6 +104,7 @@
 | [Netflix-style explainer reel about El Nino](https://x.com/hanifproduktif/status/2103656501579862155) | Opus 5.5 | [@hanifproduktif](https://x.com/hanifproduktif) | 2:30 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103656501579862155) |
 | [Trace rarity system explainer video](https://x.com/traceforms/status/2105029763421147460) | Opus 5.5 | [@traceforms](https://x.com/traceforms) | 1:18 | — |
 | [GPT model history explainer animation](https://x.com/yanhua1010/status/2102610348427911592) | Opus 5.5 | [@yanhua1010](https://x.com/yanhua1010) | 1:30 | — |
+| [Richard Heart arrest video](https://x.com/ercwl/status/2113049209742274903) | Opus 5.5 | [@ercwl](https://x.com/ercwl) | 3:14 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2113049209742274903) |
 | [Chinese architecture history explainer](https://x.com/akokoi1/status/2103650399773475318) | Opus 5.5 | [@akokoi1](https://x.com/akokoi1) | 1:35 | — |
 | [Galaxy Star-Formation Explorer](https://x.com/jwuphysics/status/2103290186268365205) | Opus 5.5 | [@jwuphysics](https://x.com/jwuphysics) | 2:55 | — |
 | [Lighthouse illumination proof animation](https://x.com/algekalipso/status/2110658162214785351) | Opus 5.5 | [@algekalipso](https://x.com/algekalipso) | 0:26 | — |

@@ -1,6 +1,6 @@
 # Music, editing & production
 
-144 works, 25 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+147 works, 25 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [RISC-V emulator built in VRChat shader](https://x.com/Michael_Moroz_/status/2107713497224130638) | Opus 5.5 | [@Michael_Moroz_](https://x.com/Michael_Moroz_) | 3:11 | — |
 | [Talking-head video converted to line-art B-roll](https://x.com/AxtonLiu/status/2102827887732932956) | Opus 5.5 | [@AxtonLiu](https://x.com/AxtonLiu) | 1:24 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102827887732932956) |
 | [High-energy code-made video edit](https://x.com/pleometric/status/2102804821623386523) | Opus 5.5 | [@pleometric](https://x.com/pleometric) | 0:23 | — |
+| [Drone footage reel about Srirangam](https://x.com/tnexplorer/status/2112880050706293081) | Opus 5.5 | [@tnexplorer](https://x.com/tnexplorer) | 0:57 | — |
 | [Single-prompt video edit with Opus and Blender](https://x.com/rileybrown/status/2111616349071913051) | Opus 5.5 | [@rileybrown](https://x.com/rileybrown) | 1:22 | — |
 | [Opus 5.5 video production demo](https://x.com/dabit3/status/2103523033264656464) | Opus 5.5 | [@dabit3](https://x.com/dabit3) | 0:44 | — |
 | [AI avatar video podcast demo](https://x.com/nakazakifam/status/2111929310256984210) | Opus 5.5 | [@nakazakifam](https://x.com/nakazakifam) | 2:04 | — |
@@ -89,6 +90,7 @@
 | [Toddler relatable moments short video](https://x.com/hoko525/status/2110292964270608425) | Opus 5.5 | [@hoko525](https://x.com/hoko525) | 0:11 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2110292964270608425) |
 | [Anime-style MAD video mashup](https://x.com/VincentWei93/status/2103415186086674920) | Opus 5.5 | [@VincentWei93](https://x.com/VincentWei93) | 0:59 | — |
 | [AI avatar Japanese voice comparison video](https://x.com/nakazakifam/status/2105898430967009547) | Opus 5.5 | [@nakazakifam](https://x.com/nakazakifam) | 5:13 | — |
+| [Automated 3D character pipeline into Unity](https://x.com/luccacerf/status/2113025837565870162) | Opus 5.5 / Fable 5.5 (preview) | [@luccacerf](https://x.com/luccacerf) | 1:43 | — |
 | [Video editor automation via AI control](https://x.com/FantasistaAI/status/2103117722741854377) | Opus 5.5 | [@FantasistaAI](https://x.com/FantasistaAI) | 0:25 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103117722741854377) |
 | [CAD drafting workflow demo](https://x.com/hAru_mAki_ch/status/2103698137730924839) | Opus 5.5 | [@hAru_mAki_ch](https://x.com/hAru_mAki_ch) | 0:21 | — |
 | [FreeCAD making-of video](https://x.com/hAru_mAki_ch/status/2103645693265219838) | Opus 5.5 | [@hAru_mAki_ch](https://x.com/hAru_mAki_ch) | 1:46 | — |
@@ -140,6 +142,7 @@
 | [The Little Prince browser 3D game](https://x.com/rewind02/status/2112125144508277165) | Opus 5.5 | [@rewind02](https://x.com/rewind02) | 0:51 | — |
 | [Custom video editor app built with AI](https://x.com/SoyMrBro/status/2103135398226735139) | Opus 5.5 | [@SoyMrBro](https://x.com/SoyMrBro) | 0:31 | — |
 | [Excel stop-motion animation with Blender](https://x.com/aicreataro/status/2109892378383540394) | Opus 5.5 | [@aicreataro](https://x.com/aicreataro) | 1:01 | — |
+| [28-second short film](https://x.com/N01ennn/status/2112882581809025189) | Opus 5.5 | [@N01ennn](https://x.com/N01ennn) | 0:37 | — |
 | [PCB design pipeline demo](https://x.com/VectorCrossProd/status/2109610532365857198) | Opus 5.5 | [@VectorCrossProd](https://x.com/VectorCrossProd) | 1:00 | — |
 | [Article-to-video generation for social posting](https://x.com/affnom_y/status/2103722878697083380) | Opus 5.5 | [@affnom_y](https://x.com/affnom_y) | 0:26 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103722878697083380) |
 | [Making-of video for Carla Botcoin music video](https://x.com/WalkerAmerica/status/2110825075729727875) | Opus 5.5 | [@WalkerAmerica](https://x.com/WalkerAmerica) | 1:01 | — |

@@ -1,10 +1,11 @@
 # 角色故事
 
-共 191 个作品，其中 48 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 193 个作品，其中 48 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
 | [《戴珍珠耳环的少女》创作瞬间复原](https://x.com/EHuanglu/status/2105027077548429557) | Opus 5.5 | [@EHuanglu](https://x.com/EHuanglu) | 0:30 | — |
+| [动画互动数据故事](https://x.com/bindureddy/status/2113115471327457666) | Opus 5.5 | [@bindureddy](https://x.com/bindureddy) | 0:46 | — |
 | [为AI歌曲制作的音乐视频](https://x.com/eudaemonea/status/2102610626321490404) | Opus 5.5 | [@eudaemonea](https://x.com/eudaemonea) | 6:13 | — |
 | [预测未来50年的视频](https://x.com/andrewjiang/status/2102987981695132140) | Opus 5.5 | [@andrewjiang](https://x.com/andrewjiang) | 4:00 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102987981695132140) |
 | [一个点生成的皮克斯风动画](https://x.com/cherry_mx_reds/status/2105825930799432073) | Fable 5.5 (preview) | [@cherry_mx_reds](https://x.com/cherry_mx_reds) | 0:15 | — |
@@ -98,6 +99,7 @@
 | [王家卫风格短片《602》](https://x.com/HanZhang415188/status/2105978537681567931) | Opus 5.5 | [@HanZhang415188](https://x.com/HanZhang415188) | 1:48 | — |
 | [AI驱动的故事短片与特效编排](https://x.com/op7418/status/2109515395749310821) | Opus 5.5 | [@op7418](https://x.com/op7418) | 1:20 | — |
 | [配合歌曲的歌词动态视频](https://x.com/takamasa045/status/2103791907801620931) | Opus 5.5 | [@takamasa045](https://x.com/takamasa045) | 2:08 | — |
+| [剪纸风狐狸短片](https://x.com/LexnLin/status/2113025231732224063) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 1:00 | — |
 | [《愚公移山》动画](https://x.com/nicekate8888/status/2108223333431193770) | Opus 5.5 | [@nicekate8888](https://x.com/nicekate8888) | 2:00 | — |
 | [代码生成的音乐视频《One More Prompt》](https://x.com/LexnLin/status/2109779693792883178) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 3:05 | — |
 | [AI漫画配音版第一章](https://x.com/zerozakiyamo/status/2108696942108938245) | Opus 5.5 | [@zerozakiyamo](https://x.com/zerozakiyamo) | 5:52 | — |

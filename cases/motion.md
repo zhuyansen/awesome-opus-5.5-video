@@ -1,6 +1,6 @@
 # Motion graphics & UI
 
-275 works, 88 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+278 works, 88 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Infinite-zoom landscape loop](https://x.com/koldo2k/status/2103129343253778767) | Opus 5.5 | [@koldo2k](https://x.com/koldo2k) | 0:20 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103129343253778767) |
 | [Video made with slop cannon MCP](https://x.com/boneGPT/status/2102484877941911734) | Opus 5.5 | [@boneGPT](https://x.com/boneGPT) | 1:20 | — |
 | [Apple-style launch video made with the brag skill](https://x.com/0xhrushi/status/2103392921559126157) | Opus 5.5 | [@0xhrushi](https://x.com/0xhrushi) | 0:25 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103392921559126157) |
+| [Smooth interface animation](https://x.com/BreejeAnadkat/status/2112873177185660940) | Opus 5.5 | [@BreejeAnadkat](https://x.com/BreejeAnadkat) | 0:11 | — |
 | [Drone-style cliff camera work without a drone](https://x.com/socialwithaayan/status/2111448458079133856) | Opus 5.5 | [@socialwithaayan](https://x.com/socialwithaayan) | 0:25 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2111448458079133856) |
 | [15-second motion design showreel (detailed prompt)](https://x.com/darel023/status/2103424524297420829) | Opus 5.5 | [@darel023](https://x.com/darel023) | 0:15 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103424524297420829) |
 | [Motion design studio built with GrokBot and Opus 5.5](https://x.com/0xRafy/status/2108673427590590971) | Opus 5.5 | [@0xRafy](https://x.com/0xRafy) | 0:44 | — |
@@ -125,6 +126,7 @@
 | [Professional 30-second product showreel](https://x.com/HO_BA/status/2103845264649761062) | Opus 5.5 | [@HO_BA](https://x.com/HO_BA) | 0:30 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103845264649761062) |
 | [Agency intro motion design video](https://x.com/baptistelcx/status/2103437700783038710) | Opus 5.5 | [@baptistelcx](https://x.com/baptistelcx) | 1:18 | — |
 | [Quick 15-minute motion design piece](https://x.com/vikktorrrre/status/2103829638799618407) | Opus 5.5 | [@vikktorrrre](https://x.com/vikktorrrre) | 0:26 | — |
+| [PDF-driven motion design video](https://x.com/0xwhrrari/status/2112896717523681365) | Opus 5.5 | [@0xwhrrari](https://x.com/0xwhrrari) | 0:20 | — |
 | [Motion design and sound engineering demo](https://x.com/kloss_xyz/status/2103557735086428547) | Opus 5.5 | [@kloss_xyz](https://x.com/kloss_xyz) | 1:30 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103557735086428547) |
 | [VRM model character intro animation](https://x.com/tegnike/status/2103588966834245694) | Opus 5.5 | [@tegnike](https://x.com/tegnike) | 0:44 | — |
 | ['The First Spark' procedural hand-drawn short](https://x.com/morpheusdv/status/2102910531560731063) | Opus 5.5 | [@morpheusdv](https://x.com/morpheusdv) | 1:00 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102910531560731063) |
@@ -233,6 +235,7 @@
 | [Pixel art attack animation frame boost](https://x.com/MindGate_dev/status/2111668407418650660) | Opus 5.5 | [@MindGate_dev](https://x.com/MindGate_dev) | 0:40 | — |
 | [After Effects animation from a single prompt](https://x.com/0xCrosss/status/2103841408977150450) | Opus 5.5 | [@0xCrosss](https://x.com/0xCrosss) | 0:16 | — |
 | [One-shot AI video without reference assets](https://x.com/Charles_SEO/status/2103703459782660599) | Opus 5.5 | [@Charles_SEO](https://x.com/Charles_SEO) | 2:00 | — |
+| [Motion design animation from a PDF brief](https://x.com/flxrnc/status/2112973736244588940) | Opus 5.5 | [@flxrnc](https://x.com/flxrnc) | 0:18 | — |
 | [Impressive AI output reaction video](https://x.com/antonioleivag/status/2103484611531866467) | Opus 5.5 | [@antonioleivag](https://x.com/antonioleivag) | 0:15 | — |
 | [Design-skill driven animation clip](https://x.com/elayadesigns/status/2109921298889785836) | Opus 5.5 | [@elayadesigns](https://x.com/elayadesigns) | 0:10 | — |
 | [Motion graphics template app](https://x.com/techhalla/status/2103923805098070477) | Opus 5.5 | [@techhalla](https://x.com/techhalla) | 0:24 | — |

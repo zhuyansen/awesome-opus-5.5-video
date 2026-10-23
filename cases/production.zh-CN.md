@@ -1,6 +1,6 @@
 # 制作流程
 
-共 144 个作品，其中 25 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 147 个作品，其中 25 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [VRChat着色器中构建的RISC-V模拟器](https://x.com/Michael_Moroz_/status/2107713497224130638) | Opus 5.5 | [@Michael_Moroz_](https://x.com/Michael_Moroz_) | 3:11 | — |
 | [真人口播转线稿动画B-roll](https://x.com/AxtonLiu/status/2102827887732932956) | Opus 5.5 | [@AxtonLiu](https://x.com/AxtonLiu) | 1:24 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102827887732932956) |
 | [代码制作的燃向视频剪辑](https://x.com/pleometric/status/2102804821623386523) | Opus 5.5 | [@pleometric](https://x.com/pleometric) | 0:23 | — |
+| [斯里朗甘无人机素材短片](https://x.com/tnexplorer/status/2112880050706293081) | Opus 5.5 | [@tnexplorer](https://x.com/tnexplorer) | 0:57 | — |
 | [用Opus和Blender完成单提示词视频剪辑](https://x.com/rileybrown/status/2111616349071913051) | Opus 5.5 | [@rileybrown](https://x.com/rileybrown) | 1:22 | — |
 | [Opus 5.5视频制作演示](https://x.com/dabit3/status/2103523033264656464) | Opus 5.5 | [@dabit3](https://x.com/dabit3) | 0:44 | — |
 | [AI虚拟主播播客视频演示](https://x.com/nakazakifam/status/2111929310256984210) | Opus 5.5 | [@nakazakifam](https://x.com/nakazakifam) | 2:04 | — |
@@ -89,6 +90,7 @@
 | [幼儿日常瞬间短视频](https://x.com/hoko525/status/2110292964270608425) | Opus 5.5 | [@hoko525](https://x.com/hoko525) | 0:11 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2110292964270608425) |
 | [动漫风格剪辑混剪视频](https://x.com/VincentWei93/status/2103415186086674920) | Opus 5.5 | [@VincentWei93](https://x.com/VincentWei93) | 0:59 | — |
 | [AI虚拟主播日语语音对比视频](https://x.com/nakazakifam/status/2105898430967009547) | Opus 5.5 | [@nakazakifam](https://x.com/nakazakifam) | 5:13 | — |
+| [自动化3D角色生产管线导入Unity](https://x.com/luccacerf/status/2113025837565870162) | Opus 5.5 / Fable 5.5 (preview) | [@luccacerf](https://x.com/luccacerf) | 1:43 | — |
 | [AI控制视频编辑软件自动化](https://x.com/FantasistaAI/status/2103117722741854377) | Opus 5.5 | [@FantasistaAI](https://x.com/FantasistaAI) | 0:25 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103117722741854377) |
 | [CAD制图工作流演示](https://x.com/hAru_mAki_ch/status/2103698137730924839) | Opus 5.5 | [@hAru_mAki_ch](https://x.com/hAru_mAki_ch) | 0:21 | — |
 | [FreeCAD制作过程视频](https://x.com/hAru_mAki_ch/status/2103645693265219838) | Opus 5.5 | [@hAru_mAki_ch](https://x.com/hAru_mAki_ch) | 1:46 | — |
@@ -140,6 +142,7 @@
 | [《小王子》浏览器3D游戏](https://x.com/rewind02/status/2112125144508277165) | Opus 5.5 | [@rewind02](https://x.com/rewind02) | 0:51 | — |
 | [AI搭建的自制视频编辑器](https://x.com/SoyMrBro/status/2103135398226735139) | Opus 5.5 | [@SoyMrBro](https://x.com/SoyMrBro) | 0:31 | — |
 | [Excel定格动画结合Blender制作](https://x.com/aicreataro/status/2109892378383540394) | Opus 5.5 | [@aicreataro](https://x.com/aicreataro) | 1:01 | — |
+| [28秒短片](https://x.com/N01ennn/status/2112882581809025189) | Opus 5.5 | [@N01ennn](https://x.com/N01ennn) | 0:37 | — |
 | [PCB设计流程演示](https://x.com/VectorCrossProd/status/2109610532365857198) | Opus 5.5 | [@VectorCrossProd](https://x.com/VectorCrossProd) | 1:00 | — |
 | [根据文章自动生成视频并发布](https://x.com/affnom_y/status/2103722878697083380) | Opus 5.5 | [@affnom_y](https://x.com/affnom_y) | 0:26 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103722878697083380) |
 | [《Carla Botcoin》音乐视频幕后制作花絮](https://x.com/WalkerAmerica/status/2110825075729727875) | Opus 5.5 | [@WalkerAmerica](https://x.com/WalkerAmerica) | 1:01 | — |

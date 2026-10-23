@@ -1,6 +1,6 @@
 # 科普讲解
 
-共 169 个作品，其中 50 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 171 个作品，其中 51 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [《什么是 Transformer》讲解视频](https://x.com/dotey/status/2103683057689522564) | Opus 5.5 | [@dotey](https://x.com/dotey) | 12:12 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103683057689522564) |
 | [可缩放的应用架构可视化画布](https://x.com/robinebers/status/2105309987983745060) | Opus 5.5 | [@robinebers](https://x.com/robinebers) | 0:12 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2105309987983745060) |
 | [重现南北战争叛军呐喊声](https://x.com/JaneCazneau/status/2103594794651992264) | Opus 5.5 | [@JaneCazneau](https://x.com/JaneCazneau) | 0:41 | — |
+| [互动机器人工程教学网站](https://x.com/0xMovez/status/2112940162103615783) | Opus 5.5 | [@0xMovez](https://x.com/0xMovez) | 0:46 | — |
 | [机场车流对比可视化](https://x.com/ConorNeu/status/2103528147220349271) | Opus 5.5 | [@ConorNeu](https://x.com/ConorNeu) | 1:07 | — |
 | [中华上下五千年回顾视频](https://x.com/akokoi1/status/2102583898865873225) | Opus 5.5 | [@akokoi1](https://x.com/akokoi1) | 2:38 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102583898865873225) |
 | [难题求解过程可视化](https://x.com/chetaslua/status/2102478640428773861) | Opus 5.5 | [@chetaslua](https://x.com/chetaslua) | 0:30 | — |
@@ -103,6 +104,7 @@
 | [讲解厄尔尼诺现象的纪录片风格短片](https://x.com/hanifproduktif/status/2103656501579862155) | Opus 5.5 | [@hanifproduktif](https://x.com/hanifproduktif) | 2:30 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103656501579862155) |
 | [Trace稀有度系统讲解视频](https://x.com/traceforms/status/2105029763421147460) | Opus 5.5 | [@traceforms](https://x.com/traceforms) | 1:18 | — |
 | [GPT模型发展史解说动画](https://x.com/yanhua1010/status/2102610348427911592) | Opus 5.5 | [@yanhua1010](https://x.com/yanhua1010) | 1:30 | — |
+| [Richard Heart 被捕事件视频](https://x.com/ercwl/status/2113049209742274903) | Opus 5.5 | [@ercwl](https://x.com/ercwl) | 3:14 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2113049209742274903) |
 | [中国建筑史知识点讲解视频](https://x.com/akokoi1/status/2103650399773475318) | Opus 5.5 | [@akokoi1](https://x.com/akokoi1) | 1:35 | — |
 | [星系恒星形成率探索器](https://x.com/jwuphysics/status/2103290186268365205) | Opus 5.5 | [@jwuphysics](https://x.com/jwuphysics) | 2:55 | — |
 | [灯塔照明定理动画证明](https://x.com/algekalipso/status/2110658162214785351) | Opus 5.5 | [@algekalipso](https://x.com/algekalipso) | 0:26 | — |
