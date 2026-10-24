@@ -1,6 +1,6 @@
 # Characters & stories
 
-193 works, 48 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+198 works, 49 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Battle of Austerlitz procedural film](https://x.com/WinterArc2125/status/2103116235009347650) | Opus 5.5 | [@WinterArc2125](https://x.com/WinterArc2125) | 5:01 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103116235009347650) |
 | [CUDA kernel optimization music video](https://x.com/elliotarledge/status/2104096029847277687) | Opus 5.5 | [@elliotarledge](https://x.com/elliotarledge) | 3:10 | — |
 | [AI-history anime-opening music video](https://x.com/domenic/status/2103846928027160609) | Opus 5.5 | [@domenic](https://x.com/domenic) | 4:38 | — |
+| [Dystopian AI short film](https://x.com/Skoorbkaz/status/2113392757548941441) | Opus 5.5 | [@Skoorbkaz](https://x.com/Skoorbkaz) | 11:40 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2113392757548941441) |
 | [Animation of an imagined social media feed](https://x.com/pleometric/status/2102572941699354900) | Opus 5.5 | [@pleometric](https://x.com/pleometric) | 0:47 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102572941699354900) |
 | [Claude animates its own life story](https://x.com/shfred0/status/2102495989194236158) | Opus 5.5 | [@shfred0](https://x.com/shfred0) | 0:30 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102495989194236158) |
 | [Bir Sonraki Kelime animated music video](https://x.com/Avenoxai/status/2104131419853160477) | Opus 5.5 | [@Avenoxai](https://x.com/Avenoxai) | 3:13 | — |
@@ -96,6 +97,7 @@
 | [Red panda Koda and the giant peach](https://x.com/HeyAbhishek/status/2109993586951663626) | Opus 5.5 | [@HeyAbhishek](https://x.com/HeyAbhishek) | 0:29 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2109993586951663626) |
 | [Hugging Face incident music video](https://x.com/chetaslua/status/2105934928483701214) | Fable 5.5 (preview) | [@chetaslua](https://x.com/chetaslua) | 2:37 | — |
 | [Eight-minute documentary on London's underground infrastructure](https://x.com/maxescu/status/2105619319220511010) | Opus 5.5 | [@maxescu](https://x.com/maxescu) | 7:55 | — |
+| [Avengers-inspired cinematic video](https://x.com/Xanderwow_A/status/2113345392238903325) | Opus 5.5 | [@Xanderwow_A](https://x.com/Xanderwow_A) | 2:53 | — |
 | [Wong Kar-wai-style short film](https://x.com/HanZhang415188/status/2105978537681567931) | Opus 5.5 | [@HanZhang415188](https://x.com/HanZhang415188) | 1:48 | — |
 | [AI-directed short story film with effects](https://x.com/op7418/status/2109515395749310821) | Opus 5.5 | [@op7418](https://x.com/op7418) | 1:20 | — |
 | [Lyric motion video synced to a song](https://x.com/takamasa045/status/2103791907801620931) | Opus 5.5 | [@takamasa045](https://x.com/takamasa045) | 2:08 | — |
@@ -111,6 +113,8 @@
 | [Can I give you 10% of me?](https://x.com/DaphneRHansell/status/2111106459408986368) | Opus 5.5 | [@DaphneRHansell](https://x.com/DaphneRHansell) | 2:24 | — |
 | [Hold Swarm music video with Hatsune Miku](https://x.com/chaotictransfem/status/2105011559756181620) | Opus 5.5 | [@chaotictransfem](https://x.com/chaotictransfem) | 3:58 | — |
 | [What an AI dreams about between messages](https://x.com/Skoorbkaz/status/2103346477963550960) | Opus 5.5 | [@Skoorbkaz](https://x.com/Skoorbkaz) | 2:32 | — |
+| [1920s-style newsreel about a Tesla flying car](https://x.com/long_jingai/status/2113312553560687101) | Opus 5.5 | [@long_jingai](https://x.com/long_jingai) | 1:05 | — |
+| [Code-driven animation of two pixel art sprites](https://x.com/GrilliotTodd/status/2113284244026048966) | Opus 5.5 | [@GrilliotTodd](https://x.com/GrilliotTodd) | 0:08 | — |
 | [Tribute video one-shot creation](https://x.com/chetaslua/status/2102717699600368045) | Opus 5.5 | [@chetaslua](https://x.com/chetaslua) | 3:18 | — |
 | [Night phone booth 3D text motion story](https://x.com/aicreataro/status/2110689292737749146) | Opus 5.5 | [@aicreataro](https://x.com/aicreataro) | 1:11 | — |
 | [USSR-themed history edit video](https://x.com/Avinash25467/status/2104007585166991778) | Opus 5.5 | [@Avinash25467](https://x.com/Avinash25467) | 2:19 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104007585166991778) |
@@ -129,6 +133,7 @@
 | [Animated music video for a Claude-written song](https://x.com/Skoorbkaz/status/2102973119115690211) | Opus 5.5 | [@Skoorbkaz](https://x.com/Skoorbkaz) | 5:13 | — |
 | [Creation-myth style story on how the world formed](https://x.com/Iamshankhadeep/status/2103087123503177752) | Opus 5.5 | [@Iamshankhadeep](https://x.com/Iamshankhadeep) | 1:00 | — |
 | [Running fried-chicken character animation](https://x.com/whydeso/status/2107754210746134748) | Opus 5.5 | [@whydeso](https://x.com/whydeso) | 0:17 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2107754210746134748) |
+| [Animated short generated from a motion design PDF](https://x.com/0xwhrrari/status/2113254058815582614) | Opus 5.5 | [@0xwhrrari](https://x.com/0xwhrrari) | 0:12 | — |
 | [Music video ripple with AI previs](https://x.com/tapehead_Lab/status/2111421646674514002) | Opus 5.5 | [@tapehead_Lab](https://x.com/tapehead_Lab) | 1:30 | — |
 | [Illustrated storybook animation with narration](https://x.com/HaileyAILabs/status/2110975805899825394) | Opus 5.5 | [@HaileyAILabs](https://x.com/HaileyAILabs) | 3:47 | — |
 | [Live-action-style music video via multi-tool workflow](https://x.com/ai6vyy/status/2103415770973958400) | Opus 5.5 | [@ai6vyy](https://x.com/ai6vyy) | 1:30 | — |

@@ -1,6 +1,6 @@
 # Explainers & education
 
-171 works, 51 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+176 works, 51 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -67,11 +67,13 @@
 | [Recursion explainer with shifting video styles](https://x.com/emollick/status/2103688362960019567) | Opus 5.5 | [@emollick](https://x.com/emollick) | 1:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103688362960019567) |
 | [Animated pelican explains a shell command](https://x.com/goodside/status/2103149526244618682) | Opus 5.5 | [@goodside](https://x.com/goodside) | 0:30 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103149526244618682) |
 | [Documentary on why people move to cities](https://x.com/JorgeGalindo/status/2103811849129234909) | Opus 5.5 | [@JorgeGalindo](https://x.com/JorgeGalindo) | 32:47 | — |
+| [Interactive drone engineering build-and-fly lessons](https://x.com/0xMovez/status/2113292903741116893) | Opus 5.5 | [@0xMovez](https://x.com/0xMovez) | 0:37 | — |
 | [Narrated explainer video via a TTS integration](https://x.com/doerstokyo342/status/2103034063816905109) | Opus 5.5 | [@doerstokyo342](https://x.com/doerstokyo342) | 0:34 | — |
 | [Article Explainer Video](https://x.com/noa_gpt/status/2104938147016765836) | Opus 5.5 / Sonnet 5.5 | [@noa_gpt](https://x.com/noa_gpt) | 1:34 | — |
 | [Twin paradox relativity animation explainer](https://x.com/masahirochaen/status/2102722719502704941) | Opus 5.5 | [@masahirochaen](https://x.com/masahirochaen) | 0:47 | — |
 | [Interactive caching code explainer](https://x.com/BHolmesDev/status/2106829942206173497) | Opus 5.5 | [@BHolmesDev](https://x.com/BHolmesDev) | 0:19 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2106829942206173497) |
 | [UMAP explainer animation for ML students](https://x.com/goodside/status/2103505085292593220) | Opus 5.5 | [@goodside](https://x.com/goodside) | 5:05 | — |
+| [Interactive 3D book on energy stores](https://x.com/techartist_/status/2113310927093436587) | Opus 5.5 | [@techartist_](https://x.com/techartist_) | 0:28 | — |
 | [Wordless animation on AI misconceptions](https://x.com/TheSpacerr/status/2105253140765479341) | Sonnet 5.5 | [@TheSpacerr](https://x.com/TheSpacerr) | 0:45 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2105253140765479341) |
 | [Zero-shot documentary on Jewish history](https://x.com/eranshir/status/2103564391170089429) | Opus 5.5 | [@eranshir](https://x.com/eranshir) | 3:43 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103564391170089429) |
 | [SpaceX history video made via chat](https://x.com/xiaohu/status/2110287968783179922) | Opus 5.5 | [@xiaohu](https://x.com/xiaohu) | 5:39 | — |
@@ -105,6 +107,7 @@
 | [Trace rarity system explainer video](https://x.com/traceforms/status/2105029763421147460) | Opus 5.5 | [@traceforms](https://x.com/traceforms) | 1:18 | — |
 | [GPT model history explainer animation](https://x.com/yanhua1010/status/2102610348427911592) | Opus 5.5 | [@yanhua1010](https://x.com/yanhua1010) | 1:30 | — |
 | [Richard Heart arrest video](https://x.com/ercwl/status/2113049209742274903) | Opus 5.5 | [@ercwl](https://x.com/ercwl) | 3:14 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2113049209742274903) |
+| [Interactive electronics boards build-and-break lesson site](https://x.com/zodchiii/status/2113234379954888790) | Opus 5.5 | [@zodchiii](https://x.com/zodchiii) | 0:35 | — |
 | [Chinese architecture history explainer](https://x.com/akokoi1/status/2103650399773475318) | Opus 5.5 | [@akokoi1](https://x.com/akokoi1) | 1:35 | — |
 | [Galaxy Star-Formation Explorer](https://x.com/jwuphysics/status/2103290186268365205) | Opus 5.5 | [@jwuphysics](https://x.com/jwuphysics) | 2:55 | — |
 | [Lighthouse illumination proof animation](https://x.com/algekalipso/status/2110658162214785351) | Opus 5.5 | [@algekalipso](https://x.com/algekalipso) | 0:26 | — |
@@ -161,6 +164,7 @@
 | [AMD stock analyst report video](https://x.com/AIStockSavvy/status/2103538925004628355) | Opus 5.5 | [@AIStockSavvy](https://x.com/AIStockSavvy) | 0:50 | — |
 | [3Blue1Brown-style paper explainer animations](https://x.com/BrianCChao/status/2103553398738219450) | Opus 5.5 | [@BrianCChao](https://x.com/BrianCChao) | 0:59 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103553398738219450) |
 | [Water cycle looping animation](https://x.com/higgsfield_ai/status/2102781807179735211) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:32 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102781807179735211) |
+| [Animated guide to extreme focus](https://x.com/chetaslua/status/2113229122596163955) | Opus 5.5 / Fable 5.5 (preview) | [@chetaslua](https://x.com/chetaslua) | 2:12 | — |
 | [Earth's dinosaur-to-Jomon-era explainer](https://x.com/mellow_neet2000/status/2103487198758834408) | Opus 5.5 | [@mellow_neet2000](https://x.com/mellow_neet2000) | 2:20 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103487198758834408) |
 | [Pointers explainer video (Manim)](https://x.com/Hesamation/status/2103822595993018838) | Opus 5.5 | [@Hesamation](https://x.com/Hesamation) | 1:32 | — |
 | [Torus cell decomposition math explainer](https://x.com/yohaku121244/status/2103744418977358021) | Opus 5.5 | [@yohaku121244](https://x.com/yohaku121244) | 2:21 | — |
@@ -174,4 +178,5 @@
 | [15-second persuasive explainer on ending the Fed](https://x.com/cboyack/status/2103617085402407181) | Opus 5.5 | [@cboyack](https://x.com/cboyack) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103617085402407181) |
 | [Explainer video for an Anthropic science blog post](https://x.com/deepwhitman/status/2103562764929389035) | Opus 5.5 | [@deepwhitman](https://x.com/deepwhitman) | 1:39 | — |
 | [Hot vs cold crypto wallet explainer](https://x.com/sergitosergito/status/2103835390998388796) | Opus 5.5 | [@sergitosergito](https://x.com/sergitosergito) | 1:36 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103835390998388796) |
+| [How a roadster drives upside down on an inverted ramp](https://x.com/andreysuperior/status/2113323122682163307) | Opus 5.5 | [@andreysuperior](https://x.com/andreysuperior) | 0:45 | — |
 | [Chain-of-thought explainer animation](https://x.com/Seltaa_/status/2109475963553878392) | Opus 5.5 | [@Seltaa_](https://x.com/Seltaa_) | 5:02 | — |
