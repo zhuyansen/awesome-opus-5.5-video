@@ -1,6 +1,6 @@
 # Characters & stories
 
-198 works, 49 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+200 works, 49 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [AI-history anime-opening music video](https://x.com/domenic/status/2103846928027160609) | Opus 5.5 | [@domenic](https://x.com/domenic) | 4:38 | — |
 | [Dystopian AI short film](https://x.com/Skoorbkaz/status/2113392757548941441) | Opus 5.5 | [@Skoorbkaz](https://x.com/Skoorbkaz) | 11:40 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2113392757548941441) |
 | [Animation of an imagined social media feed](https://x.com/pleometric/status/2102572941699354900) | Opus 5.5 | [@pleometric](https://x.com/pleometric) | 0:47 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102572941699354900) |
+| [Train phone stunt animation](https://x.com/ZetoGroovin/status/2113559786830942326) | Opus 5.5 | [@ZetoGroovin](https://x.com/ZetoGroovin) | 0:29 | — |
 | [Claude animates its own life story](https://x.com/shfred0/status/2102495989194236158) | Opus 5.5 | [@shfred0](https://x.com/shfred0) | 0:30 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102495989194236158) |
 | [Bir Sonraki Kelime animated music video](https://x.com/Avenoxai/status/2104131419853160477) | Opus 5.5 | [@Avenoxai](https://x.com/Avenoxai) | 3:13 | — |
 | [AI-made anime short Gus & Spark](https://x.com/ziwenxu_/status/2111212505947357651) | Opus 5.5 / Fable 5.5 (preview) | [@ziwenxu_](https://x.com/ziwenxu_) | 25:43 | — |
@@ -194,6 +195,7 @@
 | [Lord of the Rings opening scene recreation](https://x.com/devteamdrew/status/2110433119731945964) | Opus 5.5 | [@devteamdrew](https://x.com/devteamdrew) | 1:33 | — |
 | [Animated short about a beaver in the rain](https://x.com/HeyAbhishek/status/2111428786914984092) | Opus 5.5 | [@HeyAbhishek](https://x.com/HeyAbhishek) | 0:30 | — |
 | [Preview of an upcoming satirical animation](https://x.com/jgarcelan/status/2103797521612996910) | Opus 5.5 | [@jgarcelan](https://x.com/jgarcelan) | 0:08 | — |
+| [Voxel bot explains a bug to a rubber duck](https://x.com/Asteri_eth/status/2113614074990743991) | Opus 5.5 | [@Asteri_eth](https://x.com/Asteri_eth) | 0:15 | — |
 | [Narrative video generated from a market report](https://x.com/dfolloni/status/2110413422458241228) | Opus 5.5 | [@dfolloni](https://x.com/dfolloni) | 1:21 | — |
 | [Before Sunrise short animated film](https://x.com/aimikoda/status/2110450438638342283) | Opus 5.5 | [@aimikoda](https://x.com/aimikoda) | 0:30 | — |
 | [Short film for kids coded in JavaScript](https://x.com/thebuggeddev/status/2103677413913976912) | Opus 5.5 | [@thebuggeddev](https://x.com/thebuggeddev) | 1:44 | — |

@@ -1,6 +1,6 @@
 # Music, editing & production
 
-152 works, 26 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+156 works, 27 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -90,9 +90,11 @@
 | [Toddler relatable moments short video](https://x.com/hoko525/status/2110292964270608425) | Opus 5.5 | [@hoko525](https://x.com/hoko525) | 0:11 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2110292964270608425) |
 | [Anime-style MAD video mashup](https://x.com/VincentWei93/status/2103415186086674920) | Opus 5.5 | [@VincentWei93](https://x.com/VincentWei93) | 0:59 | — |
 | [AI avatar Japanese voice comparison video](https://x.com/nakazakifam/status/2105898430967009547) | Opus 5.5 | [@nakazakifam](https://x.com/nakazakifam) | 5:13 | — |
+| [Crime documentary YouTube video](https://x.com/sarpstar/status/2113695392705523855) | Opus 5.5 | [@sarpstar](https://x.com/sarpstar) | 7:58 | — |
 | [Automated 3D character pipeline into Unity](https://x.com/luccacerf/status/2113025837565870162) | Opus 5.5 / Fable 5.5 (preview) | [@luccacerf](https://x.com/luccacerf) | 1:43 | — |
 | [Video editor automation via AI control](https://x.com/FantasistaAI/status/2103117722741854377) | Opus 5.5 | [@FantasistaAI](https://x.com/FantasistaAI) | 0:25 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103117722741854377) |
 | [CAD drafting workflow demo](https://x.com/hAru_mAki_ch/status/2103698137730924839) | Opus 5.5 | [@hAru_mAki_ch](https://x.com/hAru_mAki_ch) | 0:21 | — |
+| [Beat-synced manga-style music edit](https://x.com/aimikoda/status/2113764485429125125) | Opus 5.5 | [@aimikoda](https://x.com/aimikoda) | 0:27 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2113764485429125125) |
 | [FreeCAD making-of video](https://x.com/hAru_mAki_ch/status/2103645693265219838) | Opus 5.5 | [@hAru_mAki_ch](https://x.com/hAru_mAki_ch) | 1:46 | — |
 | [AI-composed Baroque trio sonata](https://x.com/aug5thmusic/status/2103549625076752493) | Opus 5.5 | [@aug5thmusic](https://x.com/aug5thmusic) | 1:46 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103549625076752493) |
 | [Automated Blender scene builder demo](https://x.com/higgsfield_ai/status/2103537802688463269) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:12 | — |
@@ -102,6 +104,7 @@
 | [Rebuilt space-time VFX shot through a cafe window](https://x.com/higgsfield_ai/status/2102600213361983655) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:17 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102600213361983655) |
 | [Automatic video editing workflow](https://x.com/Scenario_gg/status/2110020120865313063) | Opus 5.5 | [@Scenario_gg](https://x.com/Scenario_gg) | 0:13 | — |
 | [Fast-turnaround video editing demo](https://x.com/KanaWorks_AI/status/2103681377862582573) | Opus 5.5 | [@KanaWorks_AI](https://x.com/KanaWorks_AI) | 0:14 | — |
+| [Voxel walkthrough of a video workflow](https://x.com/francescoinweb3/status/2113585622317244526) | Opus 5.5 | [@francescoinweb3](https://x.com/francescoinweb3) | 0:24 | — |
 | [Scene relocation VFX in After Effects](https://x.com/higgsfield_ai/status/2103521966376587593) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:06 | — |
 | [Interactive music system demo](https://x.com/kyubuns/status/2111453039228043604) | Opus 5.5 | [@kyubuns](https://x.com/kyubuns) | 0:27 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2111453039228043604) |
 | [Behind-the-scenes video production workflow](https://x.com/aicreataro/status/2109286588891214094) | Opus 5.5 | [@aicreataro](https://x.com/aicreataro) | 0:42 | — |
@@ -143,6 +146,7 @@
 | [Custom video editor app built with AI](https://x.com/SoyMrBro/status/2103135398226735139) | Opus 5.5 | [@SoyMrBro](https://x.com/SoyMrBro) | 0:31 | — |
 | [AI-edited documentary](https://x.com/slashui/status/2113441111742062604) | Opus 5.5 | [@slashui](https://x.com/slashui) | 6:10 | — |
 | [Excel stop-motion animation with Blender](https://x.com/aicreataro/status/2109892378383540394) | Opus 5.5 | [@aicreataro](https://x.com/aicreataro) | 1:01 | — |
+| [Fully edited talking-head reel with b-roll](https://x.com/rpnickson/status/2113727289355554829) | Opus 5.5 | [@rpnickson](https://x.com/rpnickson) | 1:54 | — |
 | [28-second short film](https://x.com/N01ennn/status/2112882581809025189) | Opus 5.5 | [@N01ennn](https://x.com/N01ennn) | 0:37 | — |
 | [PCB design pipeline demo](https://x.com/VectorCrossProd/status/2109610532365857198) | Opus 5.5 | [@VectorCrossProd](https://x.com/VectorCrossProd) | 1:00 | — |
 | [Article-to-video generation for social posting](https://x.com/affnom_y/status/2103722878697083380) | Opus 5.5 | [@affnom_y](https://x.com/affnom_y) | 0:26 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103722878697083380) |

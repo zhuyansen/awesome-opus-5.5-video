@@ -1,6 +1,6 @@
 # 产品广告
 
-共 221 个作品，其中 42 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 225 个作品，其中 42 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -173,6 +173,8 @@
 | [上架前的App宣传视频](https://x.com/yayoi_threee/status/2103106389489127504) | Opus 5.5 | [@yayoi_threee](https://x.com/yayoi_threee) | 0:30 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103106389489127504) |
 | [使用他人技能文件一次生成的作品](https://x.com/mannupaaji/status/2103815657385267599) | Opus 5.5 | [@mannupaaji](https://x.com/mannupaaji) | 0:15 | — |
 | [Motion MCP 产品发布视频](https://x.com/motion_so/status/2107136416342061418) | Opus 5.5 | [@motion_so](https://x.com/motion_so) | 0:26 | — |
+| [人工智能突破展示](https://x.com/devteamdrew/status/2113761947325702324) | Opus 5.5 | [@devteamdrew](https://x.com/devteamdrew) | 1:05 | — |
+| [互动式三维机场运营应用](https://x.com/viktoroddy/status/2113602878288052581) | Opus 5.5 | [@viktoroddy](https://x.com/viktoroddy) | 0:26 | — |
 | [随处飞行应用发布预告片](https://x.com/ai_for_success/status/2105289786647007685) | Opus 5.5 | [@ai_for_success](https://x.com/ai_for_success) | 0:30 | — |
 | [动感十足的产品发布视频](https://x.com/higgsfield_ai/status/2103955965733462505) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:09 | — |
 | [提示词生成音视频的应用演示](https://x.com/surucudev/status/2103520477428027482) | Opus 5.5 | [@surucudev](https://x.com/surucudev) | 0:30 | — |
@@ -194,6 +196,7 @@
 | [交互式前端作品](https://x.com/LexnLin/status/2106843514772639995) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 0:42 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2106843514772639995) |
 | [Flowith Canvas AI创作作品](https://x.com/DerekNee/status/2103729728549220815) | Opus 5.5 | [@DerekNee](https://x.com/DerekNee) | 0:45 | — |
 | [Claude 产品介绍视频](https://x.com/devteamdrew/status/2106155815707021549) | Fable 5.5 (preview) | [@devteamdrew](https://x.com/devteamdrew) | 0:30 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2106155815707021549) |
+| [Fomo 概念广告](https://x.com/Sevas_ae/status/2113609472639894013) | Opus 5.5 | [@Sevas_ae](https://x.com/Sevas_ae) | 0:20 | — |
 | [Claude模组工具演示视频](https://x.com/oikon48/status/2103756961938633159) | Opus 5.5 | [@oikon48](https://x.com/oikon48) | 0:25 | — |
 | [MyGo中的努力程度滑块界面功能](https://x.com/localhost_5173/status/2108236225291407435) | Opus 5.5 | [@localhost_5173](https://x.com/localhost_5173) | 0:07 | — |
 | [AI剧情风格广告片](https://x.com/unikoukokun/status/2102991418860184057) | Opus 5.5 | [@unikoukokun](https://x.com/unikoukokun) | 2:34 | — |
@@ -209,6 +212,7 @@
 | [Hyprland桌面主题定制](https://x.com/XMihura/status/2109991235545190801) | Opus 5.5 | [@XMihura](https://x.com/XMihura) | 1:00 | — |
 | [简单需求生成的网站宣传片](https://x.com/sankenainai/status/2103340873773916491) | Opus 5.5 | [@sankenainai](https://x.com/sankenainai) | 0:29 | — |
 | [自动化平台一键演示视频](https://x.com/getlindy/status/2103596650401018048) | Opus 5.5 | [@getlindy](https://x.com/getlindy) | 0:12 | — |
+| [互动玩具商店网站](https://x.com/techartist_/status/2113735969174360081) | Opus 5.5 | [@techartist_](https://x.com/techartist_) | 0:21 | — |
 | [15秒动效展示片](https://x.com/AntSeed/status/2104659402007703925) | Sonnet 5.5 | [@AntSeed](https://x.com/AntSeed) | 0:15 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104659402007703925) |
 | [粉丝站宣传视频](https://x.com/nek0n0tem0/status/2103637250420658403) | Opus 5.5 | [@nek0n0tem0](https://x.com/nek0n0tem0) | 0:15 | — |
 | [安卓版达芬奇调色风格应用](https://x.com/4k_isn/status/2110398564610523199) | Opus 5.5 | [@4k_isn](https://x.com/4k_isn) | 1:42 | — |

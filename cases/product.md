@@ -1,6 +1,6 @@
 # Product demos & ads
 
-221 works, 42 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+225 works, 42 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -173,6 +173,8 @@
 | [App promotional video before launch](https://x.com/yayoi_threee/status/2103106389489127504) | Opus 5.5 | [@yayoi_threee](https://x.com/yayoi_threee) | 0:30 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103106389489127504) |
 | [One-shot build using a shared skill file](https://x.com/mannupaaji/status/2103815657385267599) | Opus 5.5 | [@mannupaaji](https://x.com/mannupaaji) | 0:15 | — |
 | [Motion MCP product launch video](https://x.com/motion_so/status/2107136416342061418) | Opus 5.5 | [@motion_so](https://x.com/motion_so) | 0:26 | — |
+| [AI breakthroughs showcase](https://x.com/devteamdrew/status/2113761947325702324) | Opus 5.5 | [@devteamdrew](https://x.com/devteamdrew) | 1:05 | — |
+| [Interactive 3D airport operations app](https://x.com/viktoroddy/status/2113602878288052581) | Opus 5.5 | [@viktoroddy](https://x.com/viktoroddy) | 0:26 | — |
 | [Fly Anywhere app launch trailer](https://x.com/ai_for_success/status/2105289786647007685) | Opus 5.5 | [@ai_for_success](https://x.com/ai_for_success) | 0:30 | — |
 | [Motion-heavy product launch video](https://x.com/higgsfield_ai/status/2103955965733462505) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:09 | — |
 | [App demo with prompt-generated audio and visuals](https://x.com/surucudev/status/2103520477428027482) | Opus 5.5 | [@surucudev](https://x.com/surucudev) | 0:30 | — |
@@ -194,6 +196,7 @@
 | [Interactive frontend artifact](https://x.com/LexnLin/status/2106843514772639995) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 0:42 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2106843514772639995) |
 | [Flowith Canvas AI-made piece](https://x.com/DerekNee/status/2103729728549220815) | Opus 5.5 | [@DerekNee](https://x.com/DerekNee) | 0:45 | — |
 | [Claude introduction video](https://x.com/devteamdrew/status/2106155815707021549) | Fable 5.5 (preview) | [@devteamdrew](https://x.com/devteamdrew) | 0:30 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2106155815707021549) |
+| [Spec advertisement for Fomo](https://x.com/Sevas_ae/status/2113609472639894013) | Opus 5.5 | [@Sevas_ae](https://x.com/Sevas_ae) | 0:20 | — |
 | [Demo video for a Claude mods tool](https://x.com/oikon48/status/2103756961938633159) | Opus 5.5 | [@oikon48](https://x.com/oikon48) | 0:25 | — |
 | [Effort slider UI feature in MyGo](https://x.com/localhost_5173/status/2108236225291407435) | Opus 5.5 | [@localhost_5173](https://x.com/localhost_5173) | 0:07 | — |
 | [AI drama-style commercial](https://x.com/unikoukokun/status/2102991418860184057) | Opus 5.5 | [@unikoukokun](https://x.com/unikoukokun) | 2:34 | — |
@@ -209,6 +212,7 @@
 | [Hyprland desktop theme customization](https://x.com/XMihura/status/2109991235545190801) | Opus 5.5 | [@XMihura](https://x.com/XMihura) | 1:00 | — |
 | [Website promo video from a short request](https://x.com/sankenainai/status/2103340873773916491) | Opus 5.5 | [@sankenainai](https://x.com/sankenainai) | 0:29 | — |
 | [Automation platform one-shot demo](https://x.com/getlindy/status/2103596650401018048) | Opus 5.5 | [@getlindy](https://x.com/getlindy) | 0:12 | — |
+| [Interactive toy store website](https://x.com/techartist_/status/2113735969174360081) | Opus 5.5 | [@techartist_](https://x.com/techartist_) | 0:21 | — |
 | [Fifteen-second motion graphics showreel](https://x.com/AntSeed/status/2104659402007703925) | Sonnet 5.5 | [@AntSeed](https://x.com/AntSeed) | 0:15 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104659402007703925) |
 | [Fan site promotional video](https://x.com/nek0n0tem0/status/2103637250420658403) | Opus 5.5 | [@nek0n0tem0](https://x.com/nek0n0tem0) | 0:15 | — |
 | [DaVinci Resolve style app for Android](https://x.com/4k_isn/status/2110398564610523199) | Opus 5.5 | [@4k_isn](https://x.com/4k_isn) | 1:42 | — |

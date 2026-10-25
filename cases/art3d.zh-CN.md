@@ -1,6 +1,6 @@
 # 3D 场景
 
-共 316 个作品，其中 77 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 322 个作品，其中 79 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [房屋照片转化的可探索3D模型](https://x.com/higgsfield_ai/status/2102499166635352354) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:30 | — |
 | [夜晚发光河流场景](https://x.com/scottstts/status/2112601036804243871) | Fable 5.5 (preview) | [@scottstts](https://x.com/scottstts) | 0:54 | — |
 | [特斯拉Roadster飞行动画](https://x.com/tuolaji2024/status/2110987175009685842) | Opus 5.5 | [@tuolaji2024](https://x.com/tuolaji2024) | 3:56 | — |
+| [纳帕利海岸无人机航拍](https://x.com/LexnLin/status/2113720560920428685) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 0:53 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2113720560920428685) |
 | [Nibs与沉睡的巨龟](https://x.com/HeyAbhishek/status/2107458140279394589) | Opus 5.5 | [@HeyAbhishek](https://x.com/HeyAbhishek) | 0:30 | — |
 | [3D连锁反应装置模拟](https://x.com/imjustnewatai/status/2105889407056109991) | Fable 5.5 (preview) | [@imjustnewatai](https://x.com/imjustnewatai) | 1:00 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2105889407056109991) |
 | [生成的海滩场景](https://x.com/akiba_tokyo_jp/status/2104731596494659706) | Sonnet 5.5 | [@akiba_tokyo_jp](https://x.com/akiba_tokyo_jp) | 0:30 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104731596494659706) |
@@ -162,6 +163,7 @@
 | [全程序化生成Three.js世界](https://x.com/AndreiProvkin/status/2103919236653428985) | Opus 5.5 | [@AndreiProvkin](https://x.com/AndreiProvkin) | 1:08 | — |
 | [带巨型生物的我的世界村庄场景](https://x.com/bonnyxen/status/2109768576060264466) | Opus 5.5 | [@bonnyxen](https://x.com/bonnyxen) | 0:48 | — |
 | [照片建模建筑倒塌模拟](https://x.com/higgsfield_ai/status/2102863017109291059) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:30 | — |
+| [JavaScript生成艺术](https://x.com/mickeyxfriedman/status/2113768150840012988) | Opus 5.5 | [@mickeyxfriedman](https://x.com/mickeyxfriedman) | 0:20 | — |
 | [Unreal与Blender渲染场景](https://x.com/HamidoFx1/status/2105626720573468818) | Opus 5.5 | [@HamidoFx1](https://x.com/HamidoFx1) | 0:20 | — |
 | [按参考图还原的三维办公室](https://x.com/rewind02/status/2112890224426553836) | Opus 5.5 | [@rewind02](https://x.com/rewind02) | 0:40 | — |
 | [快速3D角色建模绑定动画流程](https://x.com/luccacerf/status/2102478608274989225) | Opus 5.5 | [@luccacerf](https://x.com/luccacerf) | 0:06 | — |
@@ -197,6 +199,7 @@
 | [无文字呈现人类史上最大骗局的画面](https://x.com/Kadiner_ir/status/2105910487015674058) | Opus 5.5 | [@Kadiner_ir](https://x.com/Kadiner_ir) | 0:15 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2105910487015674058) |
 | [完全由代码生成的程序化3D动物](https://x.com/majidmanzarpour/status/2105723245722812598) | Opus 5.5 | [@majidmanzarpour](https://x.com/majidmanzarpour) | 1:57 | — |
 | [1000张matplotlib图表展示](https://x.com/goodside/status/2103863167830876510) | Opus 5.5 | [@goodside](https://x.com/goodside) | 2:00 | — |
+| [将概念图转换为三维关卡](https://x.com/rewind02/status/2113573386794254715) | Opus 5.5 | [@rewind02](https://x.com/rewind02) | 0:38 | — |
 | [用Jig和Opus 5.5制作的放松系生成视觉](https://x.com/numaausaumon/status/2109943963536998694) | Opus 5.5 | [@numaausaumon](https://x.com/numaausaumon) | 0:34 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2109943963536998694) |
 | [Blender压力测试动画](https://x.com/rileybrown/status/2111285052617445438) | Opus 5.5 | [@rileybrown](https://x.com/rileybrown) | 2:33 | — |
 | [程序化生成海洋三维场景](https://x.com/techartist_/status/2111912410131153254) | Opus 5.5 | [@techartist_](https://x.com/techartist_) | 0:16 | — |
@@ -259,6 +262,7 @@
 | [滚动生成的房屋平面图](https://x.com/SammmAing/status/2112251300750458983) | Opus 5.5 | [@SammmAing](https://x.com/SammmAing) | 1:37 | — |
 | [程序化法术特效与音效](https://x.com/majidmanzarpour/status/2102586912993116411) | Opus 5.5 | [@majidmanzarpour](https://x.com/majidmanzarpour) | 1:39 | — |
 | [虚构火箭CAD图纸与发射动画](https://x.com/Ayu_AI_0912/status/2109515393220083912) | Opus 5.5 | [@Ayu_AI_0912](https://x.com/Ayu_AI_0912) | 0:24 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2109515393220083912) |
+| [用代码逐个零件重建的折叠手机](https://x.com/andreysuperior/status/2113644365876691235) | Opus 5.5 | [@andreysuperior](https://x.com/andreysuperior) | 0:24 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2113644365876691235) |
 | [果冻桃子标本页](https://x.com/vib3coded/status/2112240323560645092) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:18 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2112240323560645092) |
 | [浏览器天空云层渲染项目](https://x.com/maxt3chno/status/2110832228775371226) | Opus 5.5 | [@maxt3chno](https://x.com/maxt3chno) | 1:39 | — |
 | [西瓜果冻Three.js互动实验](https://x.com/Abmankendrick/status/2105675232954474831) | Opus 5.5 | [@Abmankendrick](https://x.com/Abmankendrick) | 0:27 | — |
@@ -303,9 +307,11 @@
 | [大阪城线条生成3D动画](https://x.com/ria_aicreator/status/2102574373886697648) | Opus 5.5 | [@ria_aicreator](https://x.com/ria_aicreator) | 0:37 | — |
 | [基于像素画制作的3D直播间](https://x.com/balaena01/status/2103450061275586618) | Opus 5.5 | [@balaena01](https://x.com/balaena01) | 0:14 | — |
 | [电动机工厂三维场景](https://x.com/konstantinsaifo/status/2110757897600716906) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 0:44 | — |
+| [带碰撞检查的商场级机电系统模型](https://x.com/Solvaix/status/2113670412055740452) | Opus 5.5 | [@Solvaix](https://x.com/Solvaix) | 1:24 | — |
 | [赛博朋克像素艺术动画](https://x.com/L_ARCH_01/status/2103137546662515107) | Opus 5.5 | [@L_ARCH_01](https://x.com/L_ARCH_01) | 1:04 | — |
 | [像素风宣传动画](https://x.com/dummerspast39/status/2111957286620930535) | Fable 5.5 (preview) | [@dummerspast39](https://x.com/dummerspast39) | 4:32 | — |
 | [雨中日式庭院鹿威模拟](https://x.com/mizugame_22/status/2103822799580307674) | Opus 5.5 | [@mizugame_22](https://x.com/mizugame_22) | 0:15 | — |
+| [Three.js 制作的 H200 GPU 三维模型](https://x.com/dummerspast39/status/2113749909065101494) | Fable 5.5 (preview) | [@dummerspast39](https://x.com/dummerspast39) | 0:30 | — |
 | [彩色人偶风格咖啡机3D模型](https://x.com/numaausaumon/status/2112220170727080328) | Opus 5.5 | [@numaausaumon](https://x.com/numaausaumon) | 0:53 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2112220170727080328) |
 | [程序化材质测试](https://x.com/wizardbrainz/status/2112599376438907310) | Opus 5.5 | [@wizardbrainz](https://x.com/wizardbrainz) | 0:10 | — |
 | [训练Opus绘制像素画技能](https://x.com/BeamManP/status/2103555482095149320) | Opus 5.5 | [@BeamManP](https://x.com/BeamManP) | 0:45 | — |

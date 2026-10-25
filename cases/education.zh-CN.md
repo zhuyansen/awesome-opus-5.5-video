@@ -1,6 +1,6 @@
 # 科普讲解
 
-共 176 个作品，其中 51 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 180 个作品，其中 51 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [特斯拉Roadster科普讲解视频](https://x.com/KeWai386772/status/2111440772998599022) | Opus 5.5 | [@KeWai386772](https://x.com/KeWai386772) | 2:54 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2111440772998599022) |
 | [板块漂移主题音乐动画视频](https://x.com/kevin_t_ngo/status/2108208479358026208) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 2:21 | — |
 | [查询扇出讲解视频](https://x.com/harpreetchatha_/status/2103591810253914585) | Opus 5.5 | [@harpreetchatha_](https://x.com/harpreetchatha_) | 0:20 | — |
+| [互动式机器人工程实验室](https://x.com/0xForem/status/2113624961822646351) | Opus 5.5 | [@0xForem](https://x.com/0xForem) | 0:46 | — |
 | [原子弹历史三维短片](https://x.com/imjustnewatai/status/2106238699872956427) | Fable 5.5 (preview) | [@imjustnewatai](https://x.com/imjustnewatai) | 3:00 | — |
 | [Gemini套餐对比图表视频](https://x.com/ksa8Turky/status/2111508035482825171) | Opus 5.5 | [@ksa8Turky](https://x.com/ksa8Turky) | 0:30 | — |
 | [AI发展史动画时间线视频](https://x.com/kloss_xyz/status/2103652674336067876) | Opus 5.5 | [@kloss_xyz](https://x.com/kloss_xyz) | 2:52 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103652674336067876) |
@@ -167,11 +168,14 @@
 | [专注力指南动画讲解](https://x.com/chetaslua/status/2113229122596163955) | Opus 5.5 / Fable 5.5 (preview) | [@chetaslua](https://x.com/chetaslua) | 2:12 | — |
 | [地球恐龙时代到绳纹时代科普动画](https://x.com/mellow_neet2000/status/2103487198758834408) | Opus 5.5 | [@mellow_neet2000](https://x.com/mellow_neet2000) | 2:20 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103487198758834408) |
 | [用Manim讲解指针概念的视频](https://x.com/Hesamation/status/2103822595993018838) | Opus 5.5 | [@Hesamation](https://x.com/Hesamation) | 1:32 | — |
+| [互动逆向工程实验室](https://x.com/hanakoxbt/status/2113768083949232633) | Opus 5.5 | [@hanakoxbt](https://x.com/hanakoxbt) | 0:35 | — |
 | [环面胞腔分解数学讲解动画](https://x.com/yohaku121244/status/2103744418977358021) | Opus 5.5 | [@yohaku121244](https://x.com/yohaku121244) | 2:21 | — |
+| [互动式人工智能服务器讲解](https://x.com/0xbobaaa/status/2113557631025455294) | Opus 5.5 | [@0xbobaaa](https://x.com/0xbobaaa) | 0:29 | — |
 | [相对论自行车3D演示](https://x.com/techartist_/status/2107151400472088835) | Opus 5.5 | [@techartist_](https://x.com/techartist_) | 0:28 | — |
 | [升力原理互动风洞演示](https://x.com/konstantinsaifo/status/2109595253879816337) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 0:34 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2109595253879816337) |
 | [计量经济学模拟讲解视频](https://x.com/mehmetsongur_/status/2108896132395061356) | Opus 5.5 | [@mehmetsongur_](https://x.com/mehmetsongur_) | 12:00 | — |
 | [《中途岛海战》3D讲解影片](https://x.com/wshuyi/status/2103644455916175505) | Opus 5.5 | [@wshuyi](https://x.com/wshuyi) | 8:29 | — |
+| [家庭网络设备交互式图解](https://x.com/0xCodila/status/2113693154130215237) | Opus 5.5 | [@0xCodila](https://x.com/0xCodila) | 0:28 | — |
 | [达喀尔战役二战纪录短片](https://x.com/PapeDudu_ndoye/status/2111869029623157109) | Opus 5.5 | [@PapeDudu_ndoye](https://x.com/PapeDudu_ndoye) | 3:15 | — |
 | [仓库包裹分拣决策模拟](https://x.com/konstantinsaifo/status/2108914585340428549) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 0:40 | — |
 | [加密货币交易概念动画](https://x.com/Dan_Kostecki/status/2103761581871964592) | Opus 5.5 | [@Dan_Kostecki](https://x.com/Dan_Kostecki) | 2:43 | — |

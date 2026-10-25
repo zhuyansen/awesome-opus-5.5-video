@@ -1,6 +1,6 @@
 # 制作流程
 
-共 152 个作品，其中 26 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 156 个作品，其中 27 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -90,9 +90,11 @@
 | [幼儿日常瞬间短视频](https://x.com/hoko525/status/2110292964270608425) | Opus 5.5 | [@hoko525](https://x.com/hoko525) | 0:11 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2110292964270608425) |
 | [动漫风格剪辑混剪视频](https://x.com/VincentWei93/status/2103415186086674920) | Opus 5.5 | [@VincentWei93](https://x.com/VincentWei93) | 0:59 | — |
 | [AI虚拟主播日语语音对比视频](https://x.com/nakazakifam/status/2105898430967009547) | Opus 5.5 | [@nakazakifam](https://x.com/nakazakifam) | 5:13 | — |
+| [犯罪纪录片风格视频](https://x.com/sarpstar/status/2113695392705523855) | Opus 5.5 | [@sarpstar](https://x.com/sarpstar) | 7:58 | — |
 | [自动化3D角色生产管线导入Unity](https://x.com/luccacerf/status/2113025837565870162) | Opus 5.5 / Fable 5.5 (preview) | [@luccacerf](https://x.com/luccacerf) | 1:43 | — |
 | [AI控制视频编辑软件自动化](https://x.com/FantasistaAI/status/2103117722741854377) | Opus 5.5 | [@FantasistaAI](https://x.com/FantasistaAI) | 0:25 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103117722741854377) |
 | [CAD制图工作流演示](https://x.com/hAru_mAki_ch/status/2103698137730924839) | Opus 5.5 | [@hAru_mAki_ch](https://x.com/hAru_mAki_ch) | 0:21 | — |
+| [卡点漫画风音乐剪辑](https://x.com/aimikoda/status/2113764485429125125) | Opus 5.5 | [@aimikoda](https://x.com/aimikoda) | 0:27 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2113764485429125125) |
 | [FreeCAD制作过程视频](https://x.com/hAru_mAki_ch/status/2103645693265219838) | Opus 5.5 | [@hAru_mAki_ch](https://x.com/hAru_mAki_ch) | 1:46 | — |
 | [AI创作的巴洛克风格三重奏奏鸣曲](https://x.com/aug5thmusic/status/2103549625076752493) | Opus 5.5 | [@aug5thmusic](https://x.com/aug5thmusic) | 1:46 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103549625076752493) |
 | [自动化Blender场景搭建演示](https://x.com/higgsfield_ai/status/2103537802688463269) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:12 | — |
@@ -102,6 +104,7 @@
 | [咖啡馆窗口时空特效镜头重制](https://x.com/higgsfield_ai/status/2102600213361983655) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:17 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102600213361983655) |
 | [自动视频剪辑流程](https://x.com/Scenario_gg/status/2110020120865313063) | Opus 5.5 | [@Scenario_gg](https://x.com/Scenario_gg) | 0:13 | — |
 | [快速完成的视频剪辑演示](https://x.com/KanaWorks_AI/status/2103681377862582573) | Opus 5.5 | [@KanaWorks_AI](https://x.com/KanaWorks_AI) | 0:14 | — |
+| [体素小人走过视频工作流的六个房间](https://x.com/francescoinweb3/status/2113585622317244526) | Opus 5.5 | [@francescoinweb3](https://x.com/francescoinweb3) | 0:24 | — |
 | [After Effects中的场景转移特效](https://x.com/higgsfield_ai/status/2103521966376587593) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:06 | — |
 | [互动音乐系统演示](https://x.com/kyubuns/status/2111453039228043604) | Opus 5.5 | [@kyubuns](https://x.com/kyubuns) | 0:27 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2111453039228043604) |
 | [视频制作幕后工作流程](https://x.com/aicreataro/status/2109286588891214094) | Opus 5.5 | [@aicreataro](https://x.com/aicreataro) | 0:42 | — |
@@ -143,6 +146,7 @@
 | [AI搭建的自制视频编辑器](https://x.com/SoyMrBro/status/2103135398226735139) | Opus 5.5 | [@SoyMrBro](https://x.com/SoyMrBro) | 0:31 | — |
 | [AI剪辑纪录片](https://x.com/slashui/status/2113441111742062604) | Opus 5.5 | [@slashui](https://x.com/slashui) | 6:10 | — |
 | [Excel定格动画结合Blender制作](https://x.com/aicreataro/status/2109892378383540394) | Opus 5.5 | [@aicreataro](https://x.com/aicreataro) | 1:01 | — |
+| [配有B-roll的完整剪辑出镜短视频](https://x.com/rpnickson/status/2113727289355554829) | Opus 5.5 | [@rpnickson](https://x.com/rpnickson) | 1:54 | — |
 | [28秒短片](https://x.com/N01ennn/status/2112882581809025189) | Opus 5.5 | [@N01ennn](https://x.com/N01ennn) | 0:37 | — |
 | [PCB设计流程演示](https://x.com/VectorCrossProd/status/2109610532365857198) | Opus 5.5 | [@VectorCrossProd](https://x.com/VectorCrossProd) | 1:00 | — |
 | [根据文章自动生成视频并发布](https://x.com/affnom_y/status/2103722878697083380) | Opus 5.5 | [@affnom_y](https://x.com/affnom_y) | 0:26 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103722878697083380) |

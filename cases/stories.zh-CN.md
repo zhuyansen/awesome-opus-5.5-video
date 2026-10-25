@@ -1,6 +1,6 @@
 # 角色故事
 
-共 198 个作品，其中 49 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 200 个作品，其中 49 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [AI发展史动画片头风格音乐视频](https://x.com/domenic/status/2103846928027160609) | Opus 5.5 | [@domenic](https://x.com/domenic) | 4:38 | — |
 | [反乌托邦人工智能短片](https://x.com/Skoorbkaz/status/2113392757548941441) | Opus 5.5 | [@Skoorbkaz](https://x.com/Skoorbkaz) | 11:40 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2113392757548941441) |
 | [想象中的社媒信息流动画](https://x.com/pleometric/status/2102572941699354900) | Opus 5.5 | [@pleometric](https://x.com/pleometric) | 0:47 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102572941699354900) |
+| [把手机贴在电车上的动画短片](https://x.com/ZetoGroovin/status/2113559786830942326) | Opus 5.5 | [@ZetoGroovin](https://x.com/ZetoGroovin) | 0:29 | — |
 | [Claude用代码演绎自己的成长故事](https://x.com/shfred0/status/2102495989194236158) | Opus 5.5 | [@shfred0](https://x.com/shfred0) | 0:30 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102495989194236158) |
 | [《Bir Sonraki Kelime》动画音乐视频](https://x.com/Avenoxai/status/2104131419853160477) | Opus 5.5 | [@Avenoxai](https://x.com/Avenoxai) | 3:13 | — |
 | [AI动画短片《Gus & Spark》](https://x.com/ziwenxu_/status/2111212505947357651) | Opus 5.5 / Fable 5.5 (preview) | [@ziwenxu_](https://x.com/ziwenxu_) | 25:43 | — |
@@ -194,6 +195,7 @@
 | [指环王开场场景重现](https://x.com/devteamdrew/status/2110433119731945964) | Opus 5.5 | [@devteamdrew](https://x.com/devteamdrew) | 1:33 | — |
 | [雨中小海狸的动画短片](https://x.com/HeyAbhishek/status/2111428786914984092) | Opus 5.5 | [@HeyAbhishek](https://x.com/HeyAbhishek) | 0:30 | — |
 | [即将推出的讽刺动画预告](https://x.com/jgarcelan/status/2103797521612996910) | Opus 5.5 | [@jgarcelan](https://x.com/jgarcelan) | 0:08 | — |
+| [体素机器人向橡皮鸭解释程序错误](https://x.com/Asteri_eth/status/2113614074990743991) | Opus 5.5 | [@Asteri_eth](https://x.com/Asteri_eth) | 0:15 | — |
 | [根据市场报告一次生成的叙事视频](https://x.com/dfolloni/status/2110413422458241228) | Opus 5.5 | [@dfolloni](https://x.com/dfolloni) | 1:21 | — |
 | [《日出之前》短片动画](https://x.com/aimikoda/status/2110450438638342283) | Opus 5.5 | [@aimikoda](https://x.com/aimikoda) | 0:30 | — |
 | [JavaScript编写的儿童短片](https://x.com/thebuggeddev/status/2103677413913976912) | Opus 5.5 | [@thebuggeddev](https://x.com/thebuggeddev) | 1:44 | — |
