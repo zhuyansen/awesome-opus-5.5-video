@@ -1,6 +1,6 @@
 # Motion graphics & UI
 
-289 works, 89 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+297 works, 90 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -41,63 +41,63 @@
 | [Cool animation generated from simple prompt](https://x.com/cherry_mx_reds/status/2105816670896009224) | Fable 5.5 (preview) | [@cherry_mx_reds](https://x.com/cherry_mx_reds) | 0:17 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2105816670896009224) |
 | [Visual reading of a Karpathy tweet](https://x.com/rileybrown/status/2109423417870954979) | Opus 5.5 | [@rileybrown](https://x.com/rileybrown) | 3:44 | — |
 | [Short generated animated video](https://x.com/imjustnewatai/status/2105808539495354669) | Fable 5.5 (preview) | [@imjustnewatai](https://x.com/imjustnewatai) | 1:02 | — |
-| [One-shot animated video demo](https://x.com/shapelayer/status/2102562623824757136) | Opus 5.5 | [@shapelayer](https://x.com/shapelayer) | 0:21 | — |
 | [Channel-building video skill demo](https://x.com/xiaohu/status/2110729141289107485) | Opus 5.5 | [@xiaohu](https://x.com/xiaohu) | 1:48 | — |
+| [One-shot animated video demo](https://x.com/shapelayer/status/2102562623824757136) | Opus 5.5 | [@shapelayer](https://x.com/shapelayer) | 0:21 | — |
 | [Game reward settlement animation](https://x.com/op7418/status/2103724883301814408) | Opus 5.5 | [@op7418](https://x.com/op7418) | 0:15 | — |
 | [Frame-by-frame JavaScript animation](https://x.com/strawhatsu4/status/2102457111787745405) | Opus 5.5 | [@strawhatsu4](https://x.com/strawhatsu4) | 0:14 | — |
 | [One-shot motion video demo](https://x.com/chhddavid/status/2102666619029999989) | Opus 5.5 | [@chhddavid](https://x.com/chhddavid) | 0:50 | — |
-| [15-second motion designer showreel by @robj3d3](https://x.com/robj3d3/status/2103875898349088830) | Opus 5.5 | [@robj3d3](https://x.com/robj3d3) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103875898349088830) |
 | [Motion design made from PDF playbook](https://x.com/flxrnc/status/2110726928315654630) | Opus 5.5 | [@flxrnc](https://x.com/flxrnc) | 0:16 | — |
+| [15-second motion designer showreel by @robj3d3](https://x.com/robj3d3/status/2103875898349088830) | Opus 5.5 | [@robj3d3](https://x.com/robj3d3) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103875898349088830) |
+| [15-second motion designer showreel by @leonabboud](https://x.com/leonabboud/status/2103576084499358051) | Opus 5.5 | [@leonabboud](https://x.com/leonabboud) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103576084499358051) |
 | [Animating a hero design from static images](https://x.com/adriankuleszo/status/2103452143055483132) | Opus 5.5 | [@adriankuleszo](https://x.com/adriankuleszo) | 0:14 | — |
 | [Code-generated video demo](https://x.com/bridgemindai/status/2103530750767206626) | Opus 5.5 | [@bridgemindai](https://x.com/bridgemindai) | 1:00 | — |
 | [Piano composition with JS-drawn animation](https://x.com/kevin_t_ngo/status/2103482164193165711) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 0:45 | — |
-| [15-second motion designer showreel by @leonabboud](https://x.com/leonabboud/status/2103576084499358051) | Opus 5.5 | [@leonabboud](https://x.com/leonabboud) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103576084499358051) |
 | [Code-Generated Audiovisual Animation](https://x.com/AndyL5cc/status/2104060535415476361) | Opus 5.5 | [@AndyL5cc](https://x.com/AndyL5cc) | 2:48 | — |
 | [Day-of-week kinetic motion graphic with BGM](https://x.com/nokonoko_1203/status/2105922366190784915) | Opus 5.5 | [@nokonoko_1203](https://x.com/nokonoko_1203) | 0:30 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2105922366190784915) |
 | [CoAnimator app animation demo](https://x.com/rege_dev/status/2102498682931441977) | Opus 5.5 | [@rege_dev](https://x.com/rege_dev) | 0:50 | — |
 | [80-second glass and gold-leaf mosaic film](https://x.com/LCSlates/status/2102503027340988559) | Opus 5.5 | [@LCSlates](https://x.com/LCSlates) | 1:20 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102503027340988559) |
 | [20 animation styles compilation](https://x.com/yasinozmeen/status/2104086740600254919) | Opus 5.5 | [@yasinozmeen](https://x.com/yasinozmeen) | 3:46 | — |
 | [Dot battle motion study](https://x.com/aicreataro/status/2106236856979607569) | Opus 5.5 | [@aicreataro](https://x.com/aicreataro) | 0:20 | — |
-| [Violin score with animation](https://x.com/Hesamation/status/2103535326325055843) | Opus 5.5 | [@Hesamation](https://x.com/Hesamation) | 1:02 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103535326325055843) |
 | [Graphic posts and animation from one prompt](https://x.com/nazmijavierl/status/2102712897701097828) | Opus 5.5 | [@nazmijavierl](https://x.com/nazmijavierl) | 0:16 | — |
+| [Violin score with animation](https://x.com/Hesamation/status/2103535326325055843) | Opus 5.5 | [@Hesamation](https://x.com/Hesamation) | 1:02 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103535326325055843) |
 | [Design brought to life with animation](https://x.com/Onethirdesigner/status/2103749509616648627) | Opus 5.5 | [@Onethirdesigner](https://x.com/Onethirdesigner) | 0:07 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103749509616648627) |
 | [Attempt to match a reference motion design](https://x.com/makwanatejas170/status/2103922986155917592) | Opus 5.5 | [@makwanatejas170](https://x.com/makwanatejas170) | 0:16 | — |
 | [Animation examples for promo and course videos](https://x.com/mahiru35628/status/2102802579499700704) | Opus 5.5 | [@mahiru35628](https://x.com/mahiru35628) | 0:45 | — |
 | [Four-minute 2D animation made with up to 15 agents](https://x.com/ALSK_ai/status/2103135536634630632) | Opus 5.5 | [@ALSK_ai](https://x.com/ALSK_ai) | 1:00 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103135536634630632) |
-| [Rhythmic motion graphics clip](https://x.com/Sultan_Magfory/status/2103913014680535156) | Opus 5.5 | [@Sultan_Magfory](https://x.com/Sultan_Magfory) | 0:15 | — |
 | [Distilbook motion graphics showreel](https://x.com/ajith_io/status/2103469807375208546) | Opus 5.5 | [@ajith_io](https://x.com/ajith_io) | 0:40 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103469807375208546) |
-| [Preferred AI workflow demo](https://x.com/nikolay_dp/status/2103906337998696678) | Opus 5.5 | [@nikolay_dp](https://x.com/nikolay_dp) | 0:31 | — |
+| [Rhythmic motion graphics clip](https://x.com/Sultan_Magfory/status/2103913014680535156) | Opus 5.5 | [@Sultan_Magfory](https://x.com/Sultan_Magfory) | 0:15 | — |
 | [15-second motion designer showreel by @condzxyz](https://x.com/condzxyz/status/2103556754550469102) | Opus 5.5 | [@condzxyz](https://x.com/condzxyz) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103556754550469102) |
+| [Preferred AI workflow demo](https://x.com/nikolay_dp/status/2103906337998696678) | Opus 5.5 | [@nikolay_dp](https://x.com/nikolay_dp) | 0:31 | — |
 | [One-hour Opus 5.5 creation](https://x.com/Tanjim38/status/2102666513409036770) | Opus 5.5 | [@Tanjim38](https://x.com/Tanjim38) | 1:51 | — |
 | [Showreel built from AI dance clips](https://x.com/AbaneChan/status/2103903213363806575) | Opus 5.5 | [@AbaneChan](https://x.com/AbaneChan) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103903213363806575) |
 | [Reusable prompt template for a product motion video](https://x.com/ann_nnng/status/2103723183899852885) | Opus 5.5 | [@ann_nnng](https://x.com/ann_nnng) | 0:15 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103723183899852885) |
 | [Video generated from single prompt](https://x.com/bitfish/status/2103647787795824856) | Opus 5.5 | [@bitfish](https://x.com/bitfish) | 2:55 | — |
 | [301 recreated viral video effects](https://x.com/yihui_indie/status/2104122905961595267) | Opus 5.5 | [@yihui_indie](https://x.com/yihui_indie) | 13:39 | — |
 | [Motion graphics video](https://x.com/pratyushrungta/status/2104525735713206557) | Opus 5.5 | [@pratyushrungta](https://x.com/pratyushrungta) | 3:30 | — |
+| [Anatomy reveal motion design skill demo](https://x.com/0xMovez/status/2110735931401457935) | Opus 5.5 | [@0xMovez](https://x.com/0xMovez) | 0:12 | — |
+| [3D interactive website from one prompt](https://x.com/viktoroddy/status/2112514570078372079) | Opus 5.5 | [@viktoroddy](https://x.com/viktoroddy) | 0:25 | — |
 | [Motion design animation showcase](https://x.com/charliejhills/status/2105580875299836388) | Opus 5.5 | [@charliejhills](https://x.com/charliejhills) | 0:57 | — |
 | [VTuber motion graphics in 5 minutes](https://x.com/shimotti_ai/status/2103831579575587190) | Opus 5.5 | [@shimotti_ai](https://x.com/shimotti_ai) | 0:15 | — |
 | [Bookmark UI micro-animation](https://x.com/kippe07/status/2103036199774585026) | Opus 5.5 | [@kippe07](https://x.com/kippe07) | 0:15 | — |
 | [One-prompt motion demo clip](https://x.com/Saccc_c/status/2105985484472377531) | Opus 5.5 / Fable 5.5 (preview) | [@Saccc_c](https://x.com/Saccc_c) | 0:15 | — |
-| [Anatomy reveal motion design skill demo](https://x.com/0xMovez/status/2110735931401457935) | Opus 5.5 | [@0xMovez](https://x.com/0xMovez) | 0:12 | — |
 | [Motion piece made with a design tool](https://x.com/javiiarchive/status/2103897550449516644) | Opus 5.5 | [@javiiarchive](https://x.com/javiiarchive) | 0:15 | — |
 | [Beat-Synced Motion Graphics Music Video](https://x.com/minchoi/status/2106946461980307633) | Opus 5.5 | [@minchoi](https://x.com/minchoi) | 4:30 | — |
-| [3D interactive website from one prompt](https://x.com/viktoroddy/status/2112514570078372079) | Opus 5.5 | [@viktoroddy](https://x.com/viktoroddy) | 0:25 | — |
 | [One-shot Blender animation by Opus 5.5](https://x.com/meowman_sol/status/2109637765684199564) | Opus 5.5 | [@meowman_sol](https://x.com/meowman_sol) | 0:40 | — |
 | [Short motion design video](https://x.com/blueemi99/status/2106031355922387163) | Opus 5.5 / Fable 5.5 (preview) | [@blueemi99](https://x.com/blueemi99) | 0:15 | — |
-| [AI hype demo video](https://x.com/dannypostma/status/2103794099929452699) | Opus 5.5 | [@dannypostma](https://x.com/dannypostma) | 0:15 | — |
 | [Cosmos motion piece via HyperFrames](https://x.com/kaolti/status/2103481296018092204) | Opus 5.5 | [@kaolti](https://x.com/kaolti) | 0:40 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103481296018092204) |
 | [Video made by Opus 5.5](https://x.com/adipandaio/status/2103541815660228657) | Opus 5.5 | [@adipandaio](https://x.com/adipandaio) | 0:42 | — |
 | [Image-based motion graphics](https://x.com/ponzponz15/status/2106307178579857797) | Opus 5.5 | [@ponzponz15](https://x.com/ponzponz15) | 0:36 | — |
+| [Smooth interface animation](https://x.com/BreejeAnadkat/status/2112873177185660940) | Opus 5.5 | [@BreejeAnadkat](https://x.com/BreejeAnadkat) | 0:11 | — |
 | [One-shot Opus 5.5 creation](https://x.com/nateherk/status/2103611727661482117) | Opus 5.5 | [@nateherk](https://x.com/nateherk) | 0:15 | — |
-| [3D comment display for livestream](https://x.com/balaena01/status/2103636165907956131) | Opus 5.5 | [@balaena01](https://x.com/balaena01) | 0:56 | — |
 | [Cocktail recipe explainer motion graphic](https://x.com/Ror_Fly/status/2102853258582880547) | Opus 5.5 | [@Ror_Fly](https://x.com/Ror_Fly) | 0:30 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102853258582880547) |
+| [3D comment display for livestream](https://x.com/balaena01/status/2103636165907956131) | Opus 5.5 | [@balaena01](https://x.com/balaena01) | 0:56 | — |
 | [Scroll-triggered generative web redesign tool](https://x.com/0xCarnagee/status/2103616720007032874) | Opus 5.5 | [@0xCarnagee](https://x.com/0xCarnagee) | 0:40 | — |
 | [Motion graphic video made for a friend](https://x.com/Saeiid/status/2103823130057757180) | Opus 5.5 | [@Saeiid](https://x.com/Saeiid) | 1:05 | — |
 | [One-shot video from a casual instruction](https://x.com/Suzacque/status/2102677738066956688) | Opus 5.5 | [@Suzacque](https://x.com/Suzacque) | 0:31 | — |
+| [Remarkable drawing animation](https://x.com/phyronnaz/status/2114177518819315897) | Opus 5.5 | [@phyronnaz](https://x.com/phyronnaz) | 0:43 | — |
 | [Infinite-zoom landscape loop](https://x.com/koldo2k/status/2103129343253778767) | Opus 5.5 | [@koldo2k](https://x.com/koldo2k) | 0:20 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103129343253778767) |
 | [Video made with slop cannon MCP](https://x.com/boneGPT/status/2102484877941911734) | Opus 5.5 | [@boneGPT](https://x.com/boneGPT) | 1:20 | — |
 | [Apple-style launch video made with the brag skill](https://x.com/0xhrushi/status/2103392921559126157) | Opus 5.5 | [@0xhrushi](https://x.com/0xhrushi) | 0:25 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103392921559126157) |
-| [Smooth interface animation](https://x.com/BreejeAnadkat/status/2112873177185660940) | Opus 5.5 | [@BreejeAnadkat](https://x.com/BreejeAnadkat) | 0:11 | — |
 | [Drone-style cliff camera work without a drone](https://x.com/socialwithaayan/status/2111448458079133856) | Opus 5.5 | [@socialwithaayan](https://x.com/socialwithaayan) | 0:25 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2111448458079133856) |
 | [15-second motion design showreel (detailed prompt)](https://x.com/darel023/status/2103424524297420829) | Opus 5.5 | [@darel023](https://x.com/darel023) | 0:15 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103424524297420829) |
 | [Motion design studio built with GrokBot and Opus 5.5](https://x.com/0xRafy/status/2108673427590590971) | Opus 5.5 | [@0xRafy](https://x.com/0xRafy) | 0:44 | — |
@@ -114,19 +114,20 @@
 | [Interactive art-style video generator](https://x.com/chetaslua/status/2102501773705670994) | Opus 5.5 | [@chetaslua](https://x.com/chetaslua) | 0:10 | — |
 | [Motion graphics video made within a usage limit](https://x.com/YarHmm/status/2103505435802341449) | Opus 5.5 | [@YarHmm](https://x.com/YarHmm) | 0:56 | — |
 | [Compilation of film visual technique demos](https://x.com/Kutinawa_VGamer/status/2103476071018766790) | Opus 5.5 | [@Kutinawa_VGamer](https://x.com/Kutinawa_VGamer) | 1:20 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103476071018766790) |
+| [Interactive tear-off calendar app](https://x.com/FiachraRM/status/2112188946809749658) | Opus 5.5 | [@FiachraRM](https://x.com/FiachraRM) | 0:38 | — |
 | [Beat-synced showreel from real clips](https://x.com/twoclipping/status/2102554209166000267) | Opus 5.5 | [@twoclipping](https://x.com/twoclipping) | 0:20 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102554209166000267) |
 | [Animated Midjourney image montage](https://x.com/ciguleva/status/2104051187825946929) | Opus 5.5 | [@ciguleva](https://x.com/ciguleva) | 0:48 | — |
 | [Layered motion graphics via Tesseract](https://x.com/trymirage/status/2103542300844474452) | Opus 5.5 | [@trymirage](https://x.com/trymirage) | 0:15 | — |
 | [Motion graphics video from designer showreel prompt](https://x.com/konmari_tweet/status/2103639233693159742) | Opus 5.5 | [@konmari_tweet](https://x.com/konmari_tweet) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103639233693159742) |
-| [Open-ended surprise-me AI video](https://x.com/mhmtycllll/status/2102552313134973187) | Opus 5.5 | [@mhmtycllll](https://x.com/mhmtycllll) | 0:54 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102552313134973187) |
 | [Motion design animation from a single prompt](https://x.com/flxrnc/status/2109629188525420930) | Opus 5.5 | [@flxrnc](https://x.com/flxrnc) | 0:16 | — |
+| [Open-ended surprise-me AI video](https://x.com/mhmtycllll/status/2102552313134973187) | Opus 5.5 | [@mhmtycllll](https://x.com/mhmtycllll) | 0:54 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102552313134973187) |
 | [Interactive typography book design](https://x.com/premiumtantan/status/2109024841290654186) | Opus 5.5 | [@premiumtantan](https://x.com/premiumtantan) | 0:10 | — |
+| [PDF-driven motion design video](https://x.com/0xwhrrari/status/2112896717523681365) | Opus 5.5 | [@0xwhrrari](https://x.com/0xwhrrari) | 0:20 | — |
 | [Reels made with Opus 5.5](https://x.com/javiiarchive/status/2105283486487896448) | Opus 5.5 | [@javiiarchive](https://x.com/javiiarchive) | 0:23 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2105283486487896448) |
 | [15-second motion graphics showreel (product update)](https://x.com/SebastianRoehl/status/2103912457836323096) | Opus 5.5 | [@SebastianRoehl](https://x.com/SebastianRoehl) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103912457836323096) |
 | [Professional 30-second product showreel](https://x.com/HO_BA/status/2103845264649761062) | Opus 5.5 | [@HO_BA](https://x.com/HO_BA) | 0:30 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103845264649761062) |
 | [Agency intro motion design video](https://x.com/baptistelcx/status/2103437700783038710) | Opus 5.5 | [@baptistelcx](https://x.com/baptistelcx) | 1:18 | — |
 | [Quick 15-minute motion design piece](https://x.com/vikktorrrre/status/2103829638799618407) | Opus 5.5 | [@vikktorrrre](https://x.com/vikktorrrre) | 0:26 | — |
-| [PDF-driven motion design video](https://x.com/0xwhrrari/status/2112896717523681365) | Opus 5.5 | [@0xwhrrari](https://x.com/0xwhrrari) | 0:20 | — |
 | [Motion design and sound engineering demo](https://x.com/kloss_xyz/status/2103557735086428547) | Opus 5.5 | [@kloss_xyz](https://x.com/kloss_xyz) | 1:30 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103557735086428547) |
 | [VRM model character intro animation](https://x.com/tegnike/status/2103588966834245694) | Opus 5.5 | [@tegnike](https://x.com/tegnike) | 0:44 | — |
 | ['The First Spark' procedural hand-drawn short](https://x.com/morpheusdv/status/2102910531560731063) | Opus 5.5 | [@morpheusdv](https://x.com/morpheusdv) | 1:00 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102910531560731063) |
@@ -139,62 +140,65 @@
 | [Motion clip with improved sound effects](https://x.com/LexnLin/status/2109718604883370450) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 0:40 | — |
 | [Company commercial motion graphic](https://x.com/showheyohtaki/status/2104095944686051492) | Opus 5.5 | [@showheyohtaki](https://x.com/showheyohtaki) | 0:30 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104095944686051492) |
 | [90-second motion design and sound demo](https://x.com/kloss_xyz/status/2103624187017572421) | Opus 5.5 | [@kloss_xyz](https://x.com/kloss_xyz) | 0:26 | — |
-| [Interactive tear-off calendar app](https://x.com/FiachraRM/status/2112188946809749658) | Opus 5.5 | [@FiachraRM](https://x.com/FiachraRM) | 0:38 | — |
 | [Generated animated clip](https://x.com/driftauz/status/2111109055955763570) | Opus 5.5 | [@driftauz](https://x.com/driftauz) | 0:12 | — |
+| [Motion design rebuilt as HTML/SVG animation](https://x.com/OdinLovis/status/2112536814393454735) | Opus 5.5 | [@OdinLovis](https://x.com/OdinLovis) | 0:35 | — |
 | [Impressive AI-generated video](https://x.com/GregorySchier/status/2103573891629371497) | Opus 5.5 | [@GregorySchier](https://x.com/GregorySchier) | 0:30 | — |
 | [Seamless looping motion design animation](https://x.com/0xkerazcity/status/2109705700930957328) | Opus 5.5 | [@0xkerazcity](https://x.com/0xkerazcity) | 0:16 | — |
+| [Cinemagraph-style animation #9](https://x.com/shironagasu_ai/status/2112119058422288468) | Opus 5.5 | [@shironagasu_ai](https://x.com/shironagasu_ai) | 0:10 | — |
+| [Anime opening edit of a martial arts clip](https://x.com/aimikoda/status/2110119492076404869) | Opus 5.5 | [@aimikoda](https://x.com/aimikoda) | 0:32 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2110119492076404869) |
 | [Visualization of encryption in secure file transfer](https://x.com/SyntaxDiffusion/status/2103182358635532377) | Opus 5.5 | [@SyntaxDiffusion](https://x.com/SyntaxDiffusion) | 1:36 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103182358635532377) |
+| [Stickman fight animation](https://x.com/DanielZambrini/status/2112700824220832140) | Opus 5.5 | [@DanielZambrini](https://x.com/DanielZambrini) | 0:15 | — |
+| [Motion design video generated from a PDF guide](https://x.com/0xwhrrari/status/2114001528562602485) | Opus 5.5 | [@0xwhrrari](https://x.com/0xwhrrari) | 0:18 | — |
 | [Showreel motion graphic for a media tool](https://x.com/ismailfahmi/status/2103759320664219750) | Opus 5.5 | [@ismailfahmi](https://x.com/ismailfahmi) | 2:08 | — |
 | [30-second motion promo for Kody](https://x.com/kentcdodds/status/2103638102333858193) | Opus 5.5 | [@kentcdodds](https://x.com/kentcdodds) | 0:30 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103638102333858193) |
-| [Stickman fight animation](https://x.com/DanielZambrini/status/2112700824220832140) | Opus 5.5 | [@DanielZambrini](https://x.com/DanielZambrini) | 0:15 | — |
-| [Anime opening edit of a martial arts clip](https://x.com/aimikoda/status/2110119492076404869) | Opus 5.5 | [@aimikoda](https://x.com/aimikoda) | 0:32 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2110119492076404869) |
 | [Showreel motion graphics for a media analytics brand](https://x.com/ismailfahmi/status/2103557833153466403) | Opus 5.5 | [@ismailfahmi](https://x.com/ismailfahmi) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103557833153466403) |
 | [20-second kinetic identity bumper for TechHalla](https://x.com/techhalla/status/2103411244468498547) | Opus 5.5 | [@techhalla](https://x.com/techhalla) | 0:20 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103411244468498547) |
-| [Motion design rebuilt as HTML/SVG animation](https://x.com/OdinLovis/status/2112536814393454735) | Opus 5.5 | [@OdinLovis](https://x.com/OdinLovis) | 0:35 | — |
 | [Collaborative Short Video](https://x.com/AiwithSaif7/status/2106268181413429416) | Opus 5.5 | [@AiwithSaif7](https://x.com/AiwithSaif7) | 0:46 | — |
-| [Cinemagraph-style animation #9](https://x.com/shironagasu_ai/status/2112119058422288468) | Opus 5.5 | [@shironagasu_ai](https://x.com/shironagasu_ai) | 0:10 | — |
-| [Extended motion designer showreel](https://x.com/himanshutwtxs/status/2103620708601639016) | Opus 5.5 | [@himanshutwtxs](https://x.com/himanshutwtxs) | 0:30 | — |
 | [15-Second Motion Graphics Showcase](https://x.com/Saccc_c/status/2106376222309761094) | Opus 5.5 / Fable 5.5 (preview) | [@Saccc_c](https://x.com/Saccc_c) | 0:15 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2106376222309761094) |
-| [Beat-synced K-pop motion graphics music video](https://x.com/minchoi/status/2110001964402831512) | Opus 5.5 | [@minchoi](https://x.com/minchoi) | 3:51 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2110001964402831512) |
+| [Extended motion designer showreel](https://x.com/himanshutwtxs/status/2103620708601639016) | Opus 5.5 | [@himanshutwtxs](https://x.com/himanshutwtxs) | 0:30 | — |
 | [Code-generated personal style video](https://x.com/sarpstar/status/2110741762159288825) | Opus 5.5 | [@sarpstar](https://x.com/sarpstar) | 0:35 | — |
+| [Beat-synced K-pop motion graphics music video](https://x.com/minchoi/status/2110001964402831512) | Opus 5.5 | [@minchoi](https://x.com/minchoi) | 3:51 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2110001964402831512) |
 | [Viral video based on trending topics](https://x.com/DrClownPhD/status/2103510971046096906) | Opus 5.5 | [@DrClownPhD](https://x.com/DrClownPhD) | 0:34 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103510971046096906) |
 | [15-second motion graphics showreel for a website](https://x.com/melvynx/status/2103714680577638493) | Opus 5.5 | [@melvynx](https://x.com/melvynx) | 0:45 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103714680577638493) |
-| [Dot-themed motion video](https://x.com/seiiiiiiiiiiru/status/2107018580265201724) | Opus 5.5 | [@seiiiiiiiiiiru](https://x.com/seiiiiiiiiiiru) | 0:15 | — |
+| [Chowdeck motion advertisement](https://x.com/DesignSorceress/status/2113535202098372655) | Opus 5.5 | [@DesignSorceress](https://x.com/DesignSorceress) | 0:24 | — |
 | [Live streaming UI built on generated video](https://x.com/aimikoda/status/2109915723074097287) | Opus 5.5 | [@aimikoda](https://x.com/aimikoda) | 0:30 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2109915723074097287) |
 | [One-shot video generated with Opus 5.5 and Codex](https://x.com/yuno_miyako2/status/2110016393886445964) | Opus 5.5 | [@yuno_miyako2](https://x.com/yuno_miyako2) | 1:00 | — |
+| [Dot-themed motion video](https://x.com/seiiiiiiiiiiru/status/2107018580265201724) | Opus 5.5 | [@seiiiiiiiiiiru](https://x.com/seiiiiiiiiiiru) | 0:15 | — |
+| [PDF-based motion graphic](https://x.com/seeconvm/status/2114063937109131638) | Opus 5.5 | [@seeconvm](https://x.com/seeconvm) | 0:14 | — |
 | [Quick ad video from one prompt](https://x.com/Nour_Sofanati/status/2103653780327641130) | Opus 5.5 | [@Nour_Sofanati](https://x.com/Nour_Sofanati) | 0:35 | — |
+| [UI animation showcase](https://x.com/kevin_t_ngo/status/2111974919353544757) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 0:25 | — |
 | [Retro game card-reveal UX experiment](https://x.com/nickfromlater/status/2102504454721347822) | Opus 5.5 | [@nickfromlater](https://x.com/nickfromlater) | 0:16 | — |
 | [Self-introduction video made in minutes](https://x.com/shinjiko9/status/2103643458913304872) | Opus 5.5 | [@shinjiko9](https://x.com/shinjiko9) | 0:15 | — |
 | [Impressive motion design output](https://x.com/rjrazzle/status/2103413999421509764) | Opus 5.5 | [@rjrazzle](https://x.com/rjrazzle) | 0:15 | — |
-| [Professional-quality single-prompt creation](https://x.com/ailker/status/2103523453810921944) | Opus 5.5 | [@ailker](https://x.com/ailker) | 0:24 | — |
 | [Motion animation video for an Obsidian template](https://x.com/eryidebiji/status/2103596524018221133) | Opus 5.5 | [@eryidebiji](https://x.com/eryidebiji) | 1:12 | — |
-| [Chowdeck motion advertisement](https://x.com/DesignSorceress/status/2113535202098372655) | Opus 5.5 | [@DesignSorceress](https://x.com/DesignSorceress) | 0:24 | — |
-| [Keyboard typing animation without keyframes](https://x.com/seeconvm/status/2110770664101527568) | Opus 5.5 | [@seeconvm](https://x.com/seeconvm) | 0:12 | — |
+| [Professional-quality single-prompt creation](https://x.com/ailker/status/2103523453810921944) | Opus 5.5 | [@ailker](https://x.com/ailker) | 0:24 | — |
 | [Motion short about task delegation](https://x.com/kelanoo/status/2108199183983497433) | Opus 5.5 | [@kelanoo](https://x.com/kelanoo) | 0:20 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2108199183983497433) |
-| [Unity particle VFX logo transformation](https://x.com/_3912657840/status/2103417471063736729) | Opus 5.5 | [@_3912657840](https://x.com/_3912657840) | 0:07 | — |
+| [Keyboard typing animation without keyframes](https://x.com/seeconvm/status/2110770664101527568) | Opus 5.5 | [@seeconvm](https://x.com/seeconvm) | 0:12 | — |
 | [Logo reveal motion design for TypingMind](https://x.com/tdinh_me/status/2103704250329301409) | Opus 5.5 | [@tdinh_me](https://x.com/tdinh_me) | 0:21 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103704250329301409) |
+| [Cracked retro game launch video](https://x.com/doseofcreative/status/2110407591503491372) | Opus 5.5 | [@doseofcreative](https://x.com/doseofcreative) | 0:20 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2110407591503491372) |
+| [Unity particle VFX logo transformation](https://x.com/_3912657840/status/2103417471063736729) | Opus 5.5 | [@_3912657840](https://x.com/_3912657840) | 0:07 | — |
 | [Code-painted animation](https://x.com/chetaslua/status/2106833074302710023) | Fable 5.5 (preview) | [@chetaslua](https://x.com/chetaslua) | 0:44 | — |
 | [Motion design built in After Effects via MCP](https://x.com/higgsfield_ai/status/2103853474098352326) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:12 | — |
 | [Ancient royal courtyard sword fight](https://x.com/Viniai_/status/2109906127035187408) | Opus 5.5 | [@Viniai_](https://x.com/Viniai_) | 0:30 | — |
 | [Motion design recreated from reference clip](https://x.com/gxjo_dev/status/2108632470551933011) | Opus 5.5 | [@gxjo_dev](https://x.com/gxjo_dev) | 0:19 | — |
-| [Cracked retro game launch video](https://x.com/doseofcreative/status/2110407591503491372) | Opus 5.5 | [@doseofcreative](https://x.com/doseofcreative) | 0:20 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2110407591503491372) |
-| [UI animation showcase](https://x.com/kevin_t_ngo/status/2111974919353544757) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 0:25 | — |
 | [YouTube intro animation](https://x.com/franperez_fp/status/2104709328238199145) | Sonnet 5.5 | [@franperez_fp](https://x.com/franperez_fp) | 0:09 | — |
-| [Self-introduction motion graphics from a script](https://x.com/kumiko_shiraki/status/2103771566982959414) | Opus 5.5 | [@kumiko_shiraki](https://x.com/kumiko_shiraki) | 0:48 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103771566982959414) |
-| [15-second motion designer showreel by @jasonzhou1993](https://x.com/jasonzhou1993/status/2103663364958515541) | Opus 5.5 | [@jasonzhou1993](https://x.com/jasonzhou1993) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103663364958515541) |
-| [Birds emerging from a glass sphere](https://x.com/HBCoop_/status/2107139305324122491) | Opus 5.5 | [@HBCoop_](https://x.com/HBCoop_) | 0:29 | — |
-| [Motion design piece with custom 3D models](https://x.com/MengTo/status/2103825139964227999) | Opus 5.5 | [@MengTo](https://x.com/MengTo) | 0:41 | — |
 | [Raindrop hydrogen bond macro animation](https://x.com/0xkerazcity/status/2112187184858145200) | Opus 5.5 | [@0xkerazcity](https://x.com/0xkerazcity) | 0:27 | — |
+| [Three poster-grid music video variations](https://x.com/aimikoda/status/2114167098284839305) | Opus 5.5 | [@aimikoda](https://x.com/aimikoda) | 0:39 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2114167098284839305) |
+| [Self-introduction motion graphics from a script](https://x.com/kumiko_shiraki/status/2103771566982959414) | Opus 5.5 | [@kumiko_shiraki](https://x.com/kumiko_shiraki) | 0:48 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103771566982959414) |
+| [Birds emerging from a glass sphere](https://x.com/HBCoop_/status/2107139305324122491) | Opus 5.5 | [@HBCoop_](https://x.com/HBCoop_) | 0:29 | — |
+| [15-second motion designer showreel by @jasonzhou1993](https://x.com/jasonzhou1993/status/2103663364958515541) | Opus 5.5 | [@jasonzhou1993](https://x.com/jasonzhou1993) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103663364958515541) |
+| [Motion design piece with custom 3D models](https://x.com/MengTo/status/2103825139964227999) | Opus 5.5 | [@MengTo](https://x.com/MengTo) | 0:41 | — |
 | [10-second motion showreel remake](https://x.com/mattiapomelli/status/2103757371357229129) | Opus 5.5 | [@mattiapomelli](https://x.com/mattiapomelli) | 0:10 | — |
 | [Motion design animation recreation](https://x.com/kaif9998/status/2109923678607876522) | Opus 5.5 | [@kaif9998](https://x.com/kaif9998) | 0:29 | — |
+| [Surveillance-style subject analysis loop](https://x.com/aimikoda/status/2112590477144797190) | Opus 5.5 | [@aimikoda](https://x.com/aimikoda) | 0:15 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2112590477144797190) |
 | [GrokBot motion animation](https://x.com/0xMovez/status/2106078367833591915) | Opus 5.5 | [@0xMovez](https://x.com/0xMovez) | 2:12 | — |
 | [Self-portrait website with piano score and spiral line](https://x.com/chetaslua/status/2108902793797091808) | Opus 5.5 | [@chetaslua](https://x.com/chetaslua) | 0:53 | — |
 | [Single-prompt AI-generated video](https://x.com/akshaymarch7/status/2103546306849644678) | Opus 5.5 | [@akshaymarch7](https://x.com/akshaymarch7) | 0:52 | — |
 | [30-second showreel as a niche branding agency](https://x.com/jacksonfall/status/2103925420211229164) | Opus 5.5 | [@jacksonfall](https://x.com/jacksonfall) | 0:36 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103925420211229164) |
 | [Motion graphic video made from GrotBot icon collection](https://x.com/Multi_Serio_Ai/status/2105722219892789560) | Opus 5.5 | [@Multi_Serio_Ai](https://x.com/Multi_Serio_Ai) | 3:04 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2105722219892789560) |
-| [AI recreation of reference video (side-by-side)](https://x.com/ailker/status/2103843841442730275) | Opus 5.5 | [@ailker](https://x.com/ailker) | 0:11 | — |
 | [Hand-directed motion graphics piece](https://x.com/johncodunayo/status/2105283066604454395) | Opus 5.5 | [@johncodunayo](https://x.com/johncodunayo) | 0:08 | — |
 | [2.5D parallax animation technique](https://x.com/higgsfield_ai/status/2103964599737536831) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:11 | — |
+| [AI recreation of reference video (side-by-side)](https://x.com/ailker/status/2103843841442730275) | Opus 5.5 | [@ailker](https://x.com/ailker) | 0:11 | — |
 | [Zoom-in journey through a GPU chip](https://x.com/mdaman010/status/2103788160031592572) | Opus 5.5 | [@mdaman010](https://x.com/mdaman010) | 0:49 | — |
 | [One-prompt motion graphic from codebase](https://x.com/FloWritesCode/status/2105268326381625845) | Opus 5.5 | [@FloWritesCode](https://x.com/FloWritesCode) | 0:30 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2105268326381625845) |
 | [Personalized style showcase animation](https://x.com/promptowy/status/2103555455700336882) | Opus 5.5 | [@promptowy](https://x.com/promptowy) | 1:00 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103555455700336882) |
@@ -206,90 +210,94 @@
 | [Motion design showcase](https://x.com/2irl4u/status/2103650989849055268) | Opus 5.5 | [@2irl4u](https://x.com/2irl4u) | 0:45 | — |
 | [Vertical format AI-generated video](https://x.com/akshaymarch7/status/2103549144606572886) | Opus 5.5 | [@akshaymarch7](https://x.com/akshaymarch7) | 0:52 | — |
 | [Higgsfield styleframe animation](https://x.com/higgsfield_ai/status/2104742106015449428) | Sonnet 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:10 | — |
+| [One-prompt wow demo video](https://x.com/viktoroddy/status/2102986525185343563) | Opus 5.5 | [@viktoroddy](https://x.com/viktoroddy) | 0:06 | — |
 | [Stock market themed promo video](https://x.com/Capybara_Stock/status/2103627768521281672) | Opus 5.5 | [@Capybara_Stock](https://x.com/Capybara_Stock) | 0:15 | — |
 | [Recreated viral video style](https://x.com/servasyy_ai/status/2103830430189486358) | Opus 5.5 | [@servasyy_ai](https://x.com/servasyy_ai) | 1:00 | — |
-| [One-prompt wow demo video](https://x.com/viktoroddy/status/2102986525185343563) | Opus 5.5 | [@viktoroddy](https://x.com/viktoroddy) | 0:06 | — |
 | [Teacher's Day motion graphic](https://x.com/ai4everyday/status/2106992353219056006) | Opus 5.5 | [@ai4everyday](https://x.com/ai4everyday) | 1:06 | — |
 | [Pure-JS generated video](https://x.com/chetaslua/status/2103599163804098708) | Opus 5.5 | [@chetaslua](https://x.com/chetaslua) | 0:12 | — |
 | [AI-made motion design piece](https://x.com/lokidotdev/status/2103760837496418583) | Opus 5.5 | [@lokidotdev](https://x.com/lokidotdev) | 0:15 | — |
 | [Animation made to complement a design](https://x.com/askwhykartik/status/2103825020334285239) | Opus 5.5 | [@askwhykartik](https://x.com/askwhykartik) | 0:07 | — |
+| [AI product motion design video](https://x.com/LexnLin/status/2110013871532490973) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 0:40 | — |
 | [SuperX MCP replies recap video](https://x.com/robj3d3/status/2103949734520279060) | Opus 5.5 | [@robj3d3](https://x.com/robj3d3) | 0:20 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103949734520279060) |
 | [Motion showreel with a fully code-synthesized soundtrack](https://x.com/prasenx/status/2103538744695693512) | Opus 5.5 | [@prasenx](https://x.com/prasenx) | 0:15 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103538744695693512) |
+| [Pokemon-themed UI animations](https://x.com/chetaslua/status/2114027737149288714) | Opus 5.5 | [@chetaslua](https://x.com/chetaslua) | 0:40 | — |
 | [UI animation sequence made with Sonnet 5.5](https://x.com/higgsfield_ai/status/2104655851529392363) | Sonnet 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:10 | — |
 | [Looping product launch motion template](https://x.com/twoclipping/status/2105927781678747965) | Opus 5.5 | [@twoclipping](https://x.com/twoclipping) | 0:24 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2105927781678747965) |
 | [Video built with Remotion and Three.js](https://x.com/lnkiai/status/2103759350330544254) | Opus 5.5 | [@lnkiai](https://x.com/lnkiai) | 0:32 | — |
 | [Mini Animated Scenes](https://x.com/nusretuzman/status/2106125405602123850) | Opus 5.5 | [@nusretuzman](https://x.com/nusretuzman) | 0:11 | — |
-| [AI product motion design video](https://x.com/LexnLin/status/2110013871532490973) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 0:40 | — |
-| [15-second intro to NISHIO Hirokazu's work](https://x.com/nishio/status/2103467539485671862) | Opus 5.5 | [@nishio](https://x.com/nishio) | 0:15 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103467539485671862) |
+| [Pixel art attack animation frame boost](https://x.com/MindGate_dev/status/2111668407418650660) | Opus 5.5 | [@MindGate_dev](https://x.com/MindGate_dev) | 0:40 | — |
+| [Business motion design video](https://x.com/webasamoah/status/2112237497887658441) | Opus 5.5 | [@webasamoah](https://x.com/webasamoah) | 0:45 | — |
 | [Motion design sequence](https://x.com/flxrnc/status/2113703025239818247) | Opus 5.5 | [@flxrnc](https://x.com/flxrnc) | 0:19 | — |
+| [Code-based UI motion design loop](https://x.com/0xAiky/status/2111814234090693110) | Opus 5.5 | [@0xAiky](https://x.com/0xAiky) | 0:14 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2111814234090693110) |
 | [Cinemagraph remake of an old illustration with Opus 5.5](https://x.com/shironagasu_ai/status/2105688303655632974) | Opus 5.5 | [@shironagasu_ai](https://x.com/shironagasu_ai) | 0:10 | — |
+| [15-second intro to NISHIO Hirokazu's work](https://x.com/nishio/status/2103467539485671862) | Opus 5.5 | [@nishio](https://x.com/nishio) | 0:15 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103467539485671862) |
 | [Motion design experiment from app source code](https://x.com/alex_barashkov/status/2103854352372793514) | Opus 5.5 | [@alex_barashkov](https://x.com/alex_barashkov) | 0:30 | — |
 | [Brand motion showreel from a reference video](https://x.com/ajith_io/status/2103541149709615243) | Opus 5.5 | [@ajith_io](https://x.com/ajith_io) | 0:32 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103541149709615243) |
-| [Business motion design video](https://x.com/webasamoah/status/2112237497887658441) | Opus 5.5 | [@webasamoah](https://x.com/webasamoah) | 0:45 | — |
 | [Coffee history motion graphic](https://x.com/ai4everyday/status/2106130713439256844) | Opus 5.5 | [@ai4everyday](https://x.com/ai4everyday) | 1:00 | — |
+| [Code-generated pixel art life story film](https://x.com/twoclipping/status/2107822293653041659) | Opus 5.5 | [@twoclipping](https://x.com/twoclipping) | 0:20 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2107822293653041659) |
 | [AI-generated animated video demo](https://x.com/vibecodingth/status/2105279421435572498) | Opus 5.5 | [@vibecodingth](https://x.com/vibecodingth) | 2:21 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2105279421435572498) |
 | [Motion design video demo](https://x.com/code_kartik/status/2108276280328331748) | Opus 5.5 | [@code_kartik](https://x.com/code_kartik) | 1:26 | — |
-| [Surveillance-style subject analysis loop](https://x.com/aimikoda/status/2112590477144797190) | Opus 5.5 | [@aimikoda](https://x.com/aimikoda) | 0:15 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2112590477144797190) |
 | [Data-driven motion graphic](https://x.com/thismacapital/status/2107006703489159314) | Opus 5.5 | [@thismacapital](https://x.com/thismacapital) | 1:01 | — |
-| [Motion video via Netlify AI Gateway and Opus](https://x.com/thisiskp_/status/2103540805575278645) | Opus 5.5 | [@thisiskp_](https://x.com/thisiskp_) | 0:30 | — |
+| [Design-skill driven animation clip](https://x.com/elayadesigns/status/2109921298889785836) | Opus 5.5 | [@elayadesigns](https://x.com/elayadesigns) | 0:10 | — |
+| [Animated Minecraft treasure map graphic](https://x.com/sethfowIer/status/2113248976984068329) | Opus 5.5 | [@sethfowIer](https://x.com/sethfowIer) | 0:19 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2113248976984068329) |
 | [Video animation converted to pixel art](https://x.com/iritec_jp/status/2102870197598367809) | Opus 5.5 | [@iritec_jp](https://x.com/iritec_jp) | 0:08 | — |
-| [Code-generated pixel art life story film](https://x.com/twoclipping/status/2107822293653041659) | Opus 5.5 | [@twoclipping](https://x.com/twoclipping) | 0:20 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2107822293653041659) |
-| [Pixel art attack animation frame boost](https://x.com/MindGate_dev/status/2111668407418650660) | Opus 5.5 | [@MindGate_dev](https://x.com/MindGate_dev) | 0:40 | — |
+| [Motion video via Netlify AI Gateway and Opus](https://x.com/thisiskp_/status/2103540805575278645) | Opus 5.5 | [@thisiskp_](https://x.com/thisiskp_) | 0:30 | — |
+| [Motion design animation from a PDF brief](https://x.com/flxrnc/status/2112973736244588940) | Opus 5.5 | [@flxrnc](https://x.com/flxrnc) | 0:18 | — |
+| [Motion graphics collection](https://x.com/CallMeDiegoJr/status/2113911787565236646) | Opus 5.5 | [@CallMeDiegoJr](https://x.com/CallMeDiegoJr) | 1:10 | — |
+| [Motion design piece from a PDF guide](https://x.com/flxrnc/status/2114020631507550557) | Opus 5.5 | [@flxrnc](https://x.com/flxrnc) | 0:21 | — |
 | [After Effects animation from a single prompt](https://x.com/0xCrosss/status/2103841408977150450) | Opus 5.5 | [@0xCrosss](https://x.com/0xCrosss) | 0:16 | — |
 | [One-shot AI video without reference assets](https://x.com/Charles_SEO/status/2103703459782660599) | Opus 5.5 | [@Charles_SEO](https://x.com/Charles_SEO) | 2:00 | — |
-| [Motion design animation from a PDF brief](https://x.com/flxrnc/status/2112973736244588940) | Opus 5.5 | [@flxrnc](https://x.com/flxrnc) | 0:18 | — |
 | [Impressive AI output reaction video](https://x.com/antonioleivag/status/2103484611531866467) | Opus 5.5 | [@antonioleivag](https://x.com/antonioleivag) | 0:15 | — |
-| [Design-skill driven animation clip](https://x.com/elayadesigns/status/2109921298889785836) | Opus 5.5 | [@elayadesigns](https://x.com/elayadesigns) | 0:10 | — |
+| [Animated website design](https://x.com/viktoroddy/status/2113819964536951243) | Opus 5.5 | [@viktoroddy](https://x.com/viktoroddy) | 0:07 | — |
 | [Motion graphics template app](https://x.com/techhalla/status/2103923805098070477) | Opus 5.5 | [@techhalla](https://x.com/techhalla) | 0:24 | — |
 | [AITuber avatar system built with Opus 5.5](https://x.com/lnkiai/status/2105607195224354898) | Opus 5.5 | [@lnkiai](https://x.com/lnkiai) | 0:09 | — |
-| [Animated Minecraft treasure map graphic](https://x.com/sethfowIer/status/2113248976984068329) | Opus 5.5 | [@sethfowIer](https://x.com/sethfowIer) | 0:19 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2113248976984068329) |
 | [HTML motion graphics without After Effects](https://x.com/seiiiiiiiiiiru/status/2103764908764791286) | Opus 5.5 | [@seiiiiiiiiiiru](https://x.com/seiiiiiiiiiiru) | 0:12 | — |
+| [Motion design render from a PDF](https://x.com/m4lkxx/status/2113978922949816588) | Opus 5.5 | [@m4lkxx](https://x.com/m4lkxx) | 0:13 | — |
 | [15-second motion designer showreel by @tequilafunks](https://x.com/tequilafunks/status/2103528644828127728) | Opus 5.5 | [@tequilafunks](https://x.com/tequilafunks) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103528644828127728) |
 | [Documentary opening titles about Bitcoin](https://x.com/cyrilXBT/status/2103677214135124053) | Opus 5.5 | [@cyrilXBT](https://x.com/cyrilXBT) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103677214135124053) |
 | [Two-sentence prompt animation result](https://x.com/tomcupr/status/2103776902960042359) | Opus 5.5 | [@tomcupr](https://x.com/tomcupr) | 0:30 | — |
 | [Quick visual effect demo](https://x.com/shironagasu_ai/status/2103542106841075992) | Opus 5.5 | [@shironagasu_ai](https://x.com/shironagasu_ai) | 0:05 | — |
-| [Animated website design](https://x.com/viktoroddy/status/2113819964536951243) | Opus 5.5 | [@viktoroddy](https://x.com/viktoroddy) | 0:07 | — |
 | [Illustrated cinemagraph scene](https://x.com/shironagasu_ai/status/2106299981875347740) | Opus 5.5 | [@shironagasu_ai](https://x.com/shironagasu_ai) | 0:10 | — |
 | [Motion design showreel exploring "overthinking"](https://x.com/gizakdag/status/2103566030916239768) | Opus 5.5 | [@gizakdag](https://x.com/gizakdag) | 0:15 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103566030916239768) |
-| [AI-assisted motion graphics video](https://x.com/ai4everyday/status/2105715960220983304) | Opus 5.5 | [@ai4everyday](https://x.com/ai4everyday) | 0:10 | — |
 | [Extreme zoom motion design animation](https://x.com/0xkerazcity/status/2111456178173583792) | Opus 5.5 | [@0xkerazcity](https://x.com/0xkerazcity) | 0:27 | — |
-| [Animated visual piece](https://x.com/devteamdrew/status/2110156508097110075) | Opus 5.5 / Fable 5.5 (preview) | [@devteamdrew](https://x.com/devteamdrew) | 1:05 | — |
-| [Animation homework](https://x.com/NEXUS_TO_NOVA/status/2113564231065124894) | Opus 5.5 | [@NEXUS_TO_NOVA](https://x.com/NEXUS_TO_NOVA) | 0:24 | — |
 | [Series of code-generated motion videos](https://x.com/0xbobaaa/status/2113316452954517801) | Opus 5.5 | [@0xbobaaa](https://x.com/0xbobaaa) | 0:30 | — |
+| [Animation homework](https://x.com/NEXUS_TO_NOVA/status/2113564231065124894) | Opus 5.5 | [@NEXUS_TO_NOVA](https://x.com/NEXUS_TO_NOVA) | 0:24 | — |
+| [Animated visual piece](https://x.com/devteamdrew/status/2110156508097110075) | Opus 5.5 / Fable 5.5 (preview) | [@devteamdrew](https://x.com/devteamdrew) | 1:05 | — |
+| [AI-assisted motion graphics video](https://x.com/ai4everyday/status/2105715960220983304) | Opus 5.5 | [@ai4everyday](https://x.com/ai4everyday) | 0:10 | — |
+| [First motion design made on phone](https://x.com/jessica_moon04/status/2112440320386314407) | Sonnet 5.5 | [@jessica_moon04](https://x.com/jessica_moon04) | 0:26 | — |
 | [Fashion poster motion graphic](https://x.com/ponzponz15/status/2106266004515172366) | Opus 5.5 | [@ponzponz15](https://x.com/ponzponz15) | 0:46 | — |
-| [Resume-based motion graphics showreel](https://x.com/vedolos/status/2103520155640938565) | Opus 5.5 | [@vedolos](https://x.com/vedolos) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103520155640938565) |
-| [Code-based UI motion design loop](https://x.com/0xAiky/status/2111814234090693110) | Opus 5.5 | [@0xAiky](https://x.com/0xAiky) | 0:14 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2111814234090693110) |
-| [Figma tutorial rebuilt in Blender](https://x.com/alex_barashkov/status/2106055084421353954) | Opus 5.5 | [@alex_barashkov](https://x.com/alex_barashkov) | 0:05 | — |
 | [Noodle brand identity and animated ad](https://x.com/magnific/status/2110053239425294804) | Opus 5.5 | [@magnific](https://x.com/magnific) | 0:20 | — |
+| [Resume-based motion graphics showreel](https://x.com/vedolos/status/2103520155640938565) | Opus 5.5 | [@vedolos](https://x.com/vedolos) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103520155640938565) |
 | [Motion graphics without After Effects](https://x.com/seeconvm/status/2113685606022742308) | Opus 5.5 | [@seeconvm](https://x.com/seeconvm) | 0:14 | — |
+| [Figma tutorial rebuilt in Blender](https://x.com/alex_barashkov/status/2106055084421353954) | Opus 5.5 | [@alex_barashkov](https://x.com/alex_barashkov) | 0:05 | — |
 | [Vertical 15-second showreel with self-made sound and beat](https://x.com/lemcosmos/status/2103627106240602357) | Opus 5.5 | [@lemcosmos](https://x.com/lemcosmos) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103627106240602357) |
 | [Trendy animation clip](https://x.com/drinami/status/2103727881818189989) | Opus 5.5 | [@drinami](https://x.com/drinami) | 0:15 | — |
 | [Bare-bones one-prompt motion design test](https://x.com/birdabo/status/2103530293634445592) | Opus 5.5 | [@birdabo](https://x.com/birdabo) | 0:15 | — |
 | [DeFi 3.0 protocol showreel](https://x.com/vvarrdi/status/2106674469658108379) | Opus 5.5 | [@vvarrdi](https://x.com/vvarrdi) | 0:13 | — |
+| [Lyrics integrated into a 3D video](https://x.com/aicreataro/status/2113549902084997427) | Opus 5.5 | [@aicreataro](https://x.com/aicreataro) | 0:25 | — |
 | [Smile benefits motion graphics video](https://x.com/ai4everyday/status/2106385179006685254) | Opus 5.5 | [@ai4everyday](https://x.com/ai4everyday) | 0:57 | — |
-| [First motion design made on phone](https://x.com/jessica_moon04/status/2112440320386314407) | Sonnet 5.5 | [@jessica_moon04](https://x.com/jessica_moon04) | 0:26 | — |
+| [Recreated motion graphic effect](https://x.com/trymirage/status/2110845066747007314) | Opus 5.5 | [@trymirage](https://x.com/trymirage) | 0:08 | — |
 | [Motion designer showreel with custom brand kit](https://x.com/lukasersil/status/2103742861971726495) | Opus 5.5 | [@lukasersil](https://x.com/lukasersil) | 0:15 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103742861971726495) |
 | [Teacher's Day tribute animation with handwriting effect](https://x.com/youssef_aymanc/status/2107466191178711054) | Opus 5.5 | [@youssef_aymanc](https://x.com/youssef_aymanc) | 0:33 | — |
-| [Recreated motion graphic effect](https://x.com/trymirage/status/2110845066747007314) | Opus 5.5 | [@trymirage](https://x.com/trymirage) | 0:08 | — |
 | [PUNCTUM dot font interactive site](https://x.com/sundyme/status/2107108673407627533) | Opus 5.5 | [@sundyme](https://x.com/sundyme) | 1:06 | — |
-| [Lyrics integrated into a 3D video](https://x.com/aicreataro/status/2113549902084997427) | Opus 5.5 | [@aicreataro](https://x.com/aicreataro) | 0:25 | — |
+| [Impact-frame animation](https://x.com/aimikoda/status/2113459522257989724) | Opus 5.5 | [@aimikoda](https://x.com/aimikoda) | 0:58 | — |
 | [Launch motion video for mounis.app](https://x.com/MustaphaFenzar/status/2103708363074973906) | Opus 5.5 | [@MustaphaFenzar](https://x.com/MustaphaFenzar) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103708363074973906) |
+| [Animated onboarding experience](https://x.com/BreejeAnadkat/status/2113620817649299590) | Opus 5.5 | [@BreejeAnadkat](https://x.com/BreejeAnadkat) | 0:22 | — |
 | [Lumno website SVG feature demo animations](https://x.com/Kubai087/status/2113241980268593422) | Opus 5.5 | [@Kubai087](https://x.com/Kubai087) | 1:07 | — |
 | [UI animation combining multiple AI tools](https://x.com/yitong/status/2110463528754880952) | Opus 5.5 | [@yitong](https://x.com/yitong) | 0:14 | — |
-| [Animated onboarding experience](https://x.com/BreejeAnadkat/status/2113620817649299590) | Opus 5.5 | [@BreejeAnadkat](https://x.com/BreejeAnadkat) | 0:22 | — |
-| [Flat illustration mole animation via code](https://x.com/onofumi_AI/status/2102696204249526348) | Opus 5.5 | [@onofumi_AI](https://x.com/onofumi_AI) | 0:20 | — |
 | [Chaotic brain-rot style motion video](https://x.com/kloss_xyz/status/2103664956482941143) | Opus 5.5 | [@kloss_xyz](https://x.com/kloss_xyz) | 2:34 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103664956482941143) |
+| [Flat illustration mole animation via code](https://x.com/onofumi_AI/status/2102696204249526348) | Opus 5.5 | [@onofumi_AI](https://x.com/onofumi_AI) | 0:20 | — |
 | [Funny face photos animated with code](https://x.com/jAlpha_create/status/2103787665569272247) | Opus 5.5 | [@jAlpha_create](https://x.com/jAlpha_create) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103787665569272247) |
 | [One-shot motion graphics with original music](https://x.com/DentalAkimoto/status/2103417432757166200) | Opus 5.5 | [@DentalAkimoto](https://x.com/DentalAkimoto) | 0:15 | — |
 | [PayBox logo brand-sting animation](https://x.com/0xValure/status/2103603025579331584) | Opus 5.5 | [@0xValure](https://x.com/0xValure) | 0:10 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103603025579331584) |
+| [After Effects-style animation effects showcase](https://x.com/nakazakifam/status/2114202745636852063) | Opus 5.5 | [@nakazakifam](https://x.com/nakazakifam) | 0:24 | — |
 | [Motion showreel from the Japanese version of the viral prompt](https://x.com/MatoToushi/status/2103484692997804334) | Opus 5.5 | [@MatoToushi](https://x.com/MatoToushi) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103484692997804334) |
 | [Tester's attempt at the viral showreel prompt](https://x.com/codeSTACKr/status/2103656229717328129) | Opus 5.5 | [@codeSTACKr](https://x.com/codeSTACKr) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103656229717328129) |
-| [Impact-frame animation](https://x.com/aimikoda/status/2113459522257989724) | Opus 5.5 | [@aimikoda](https://x.com/aimikoda) | 0:58 | — |
 | [Watercolor fall animation](https://x.com/ishuagra02/status/2106000055706784118) | Fable 5.5 (preview) | [@ishuagra02](https://x.com/ishuagra02) | 0:25 | — |
 | [Code-drawn animation pipeline demo](https://x.com/p2ecoin91/status/2103398218793168921) | Opus 5.5 | [@p2ecoin91](https://x.com/p2ecoin91) | 2:37 | — |
 | [AR soccer passing lane analysis](https://x.com/virtual_amir/status/2106387068070826373) | Opus 5.5 | [@virtual_amir](https://x.com/virtual_amir) | 0:31 | — |
+| [Short animation](https://x.com/fakharkamario/status/2110218646689599861) | Opus 5.5 | [@fakharkamario](https://x.com/fakharkamario) | 0:10 | — |
 | [Impressive AI demo reaction video](https://x.com/dcbruck/status/2103549268321783859) | Opus 5.5 | [@dcbruck](https://x.com/dcbruck) | 0:15 | — |
 | [Opus 5.5 animation quality demo](https://x.com/makisuo/status/2103613318497997215) | Opus 5.5 | [@makisuo](https://x.com/makisuo) | 0:15 | — |
-| [Short animation](https://x.com/fakharkamario/status/2110218646689599861) | Opus 5.5 | [@fakharkamario](https://x.com/fakharkamario) | 0:10 | — |
 | [Unspecified video creation showcase](https://x.com/GPTabby/status/2103581801490809069) | Opus 5.5 | [@GPTabby](https://x.com/GPTabby) | 3:51 | — |
 | [Google Apps Script themed video](https://x.com/kimura_0314/status/2102682159668720109) | Opus 5.5 | [@kimura_0314](https://x.com/kimura_0314) | 0:34 | — |
