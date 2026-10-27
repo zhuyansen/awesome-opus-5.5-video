@@ -1,6 +1,6 @@
 # Characters & stories
 
-203 works, 49 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+206 works, 49 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Arcane-Style Animation](https://x.com/ChrisGPT/status/2105045818046808380) | Opus 5.5 | [@ChrisGPT](https://x.com/ChrisGPT) | 0:09 | — |
 | [1-minute fight animation in code](https://x.com/akokoi1/status/2103149275945517546) | Opus 5.5 | [@akokoi1](https://x.com/akokoi1) | 1:00 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103149275945517546) |
 | [Fable 5.5 self-introduction musical video](https://x.com/ChrisGPT/status/2109570757579649086) | Fable 5.5 (preview) | [@ChrisGPT](https://x.com/ChrisGPT) | 1:16 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2109570757579649086) |
+| [Pianist by a sunset lake](https://x.com/LexnLin/status/2114422260346110358) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 3:51 | — |
 | [Spider-Man comic eras](https://x.com/chetaslua/status/2106248621519978867) | Fable 5.5 (preview) | [@chetaslua](https://x.com/chetaslua) | 0:38 | — |
 | [Dramatized personal battle narrative video](https://x.com/super_bonochin/status/2103881739131376035) | Opus 5.5 | [@super_bonochin](https://x.com/super_bonochin) | 1:05 | — |
 | [Sketch-to-3D battle animation](https://x.com/MinLiBuilds/status/2102756822990180387) | Opus 5.5 | [@MinLiBuilds](https://x.com/MinLiBuilds) | 1:43 | — |
@@ -145,6 +146,7 @@
 | [Animated train window seasons short film](https://x.com/itsolelehmann/status/2103124033365762215) | Opus 5.5 | [@itsolelehmann](https://x.com/itsolelehmann) | 0:30 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103124033365762215) |
 | [Animated AGI declaration short](https://x.com/AndrewOnXYZ/status/2106097745098395712) | Fable 5.5 (preview) | [@AndrewOnXYZ](https://x.com/AndrewOnXYZ) | 4:26 | — |
 | [Unofficial fan video for a music artist](https://x.com/ystknsh/status/2102766871007436993) | Opus 5.5 | [@ystknsh](https://x.com/ystknsh) | 0:30 | — |
+| [Viral-style music video](https://x.com/servasyy_ai/status/2114311579277893791) | Opus 5.5 | [@servasyy_ai](https://x.com/servasyy_ai) | 1:50 | — |
 | [Alien explores the Library of Babel](https://x.com/jackclarkSF/status/2103569043836027339) | Opus 5.5 | [@jackclarkSF](https://x.com/jackclarkSF) | 1:00 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103569043836027339) |
 | [Animated lyric video generated from an mp3 song](https://x.com/AIMevzulari/status/2110989121682559063) | Opus 5.5 | [@AIMevzulari](https://x.com/AIMevzulari) | 2:43 | — |
 | [3D set AITuber camera-switching demo](https://x.com/ivy432hz/status/2105269408537235572) | Opus 5.5 | [@ivy432hz](https://x.com/ivy432hz) | 0:06 | — |
@@ -186,6 +188,7 @@
 | [Pelican riding a bike animation](https://x.com/dummerspast39/status/2111391206848503923) | Fable 5.5 (preview) | [@dummerspast39](https://x.com/dummerspast39) | 0:30 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2111391206848503923) |
 | [AI-made short film with original music](https://x.com/notargs/status/2103790246102188069) | Opus 5.5 | [@notargs](https://x.com/notargs) | 2:00 | — |
 | [Coded animated music video with puppets](https://x.com/vinceflibustier/status/2103567196882399606) | Opus 5.5 | [@vinceflibustier](https://x.com/vinceflibustier) | 3:01 | — |
+| [Penguin hauls a giant apple on a bark sled](https://x.com/HeyAbhishek/status/2114340975132950878) | Opus 5.5 | [@HeyAbhishek](https://x.com/HeyAbhishek) | 0:30 | — |
 | [Paper-style stop-motion animation](https://x.com/LexnLin/status/2108567673890111948) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 0:30 | — |
 | [Day in the life of Clawd (Claude mascot)](https://x.com/vikktorrrre/status/2102702170986463421) | Opus 5.5 | [@vikktorrrre](https://x.com/vikktorrrre) | 1:04 | — |
 | [History of humanity sketch animation](https://x.com/oalanicolas/status/2107958931230241037) | Fable 5.5 (preview) | [@oalanicolas](https://x.com/oalanicolas) | 1:29 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2107958931230241037) |

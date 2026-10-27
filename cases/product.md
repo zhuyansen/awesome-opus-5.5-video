@@ -1,6 +1,6 @@
 # Product demos & ads
 
-226 works, 42 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+229 works, 43 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Natural-language product prototype](https://x.com/bunkaich/status/2106315094070362272) | Opus 5.5 | [@bunkaich](https://x.com/bunkaich) | 1:11 | — |
 | [Self-introduction PR video in flat design](https://x.com/mmmiyama_D/status/2103384986661671058) | Opus 5.5 | [@mmmiyama_D](https://x.com/mmmiyama_D) | 0:15 | — |
 | [30-second flat design promo video coded with Claude](https://x.com/mmmiyama_D/status/2103319199817064764) | Opus 5.5 | [@mmmiyama_D](https://x.com/mmmiyama_D) | 0:30 | — |
+| [Miniature agent automation town](https://x.com/Khazix0918/status/2114343004471460341) | Opus 5.5 | [@Khazix0918](https://x.com/Khazix0918) | 1:20 | — |
 | [Interior design redesign visualization](https://x.com/Antonio_RodriIA/status/2107858567952749025) | Opus 5.5 | [@Antonio_RodriIA](https://x.com/Antonio_RodriIA) | 0:40 | — |
 | [Interactive truck load tracking view](https://x.com/konstantinsaifo/status/2112801199099637785) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 0:26 | — |
 | [Native mini browser rebuilt in Rust and Swift](https://x.com/rauchg/status/2104428800134013205) | Opus 5.5 | [@rauchg](https://x.com/rauchg) | 1:02 | — |
@@ -116,6 +117,7 @@
 | [Cinematic product launch film](https://x.com/AbhinavXJ/status/2104805179401068964) | Sonnet 5.5 | [@AbhinavXJ](https://x.com/AbhinavXJ) | 1:40 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104805179401068964) |
 | [Software intro video generated from codebase](https://x.com/gesoikuo3/status/2103723885204254734) | Opus 5.5 | [@gesoikuo3](https://x.com/gesoikuo3) | 0:50 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103723885204254734) |
 | [Free AI ad video generated in code](https://x.com/Lucas_IA_/status/2102757164158689759) | Opus 5.5 | [@Lucas_IA_](https://x.com/Lucas_IA_) | 1:12 | — |
+| [Redesigned book website](https://x.com/emollick/status/2114404221021778347) | Opus 5.5 | [@emollick](https://x.com/emollick) | 0:33 | — |
 | [Awwwards-Inspired Website](https://x.com/YildizDikme/status/2106281015152976146) | Opus 5.5 | [@YildizDikme](https://x.com/YildizDikme) | 0:40 | — |
 | [Open-source task management app](https://x.com/Tanjim38/status/2112964568616169890) | Opus 5.5 | [@Tanjim38](https://x.com/Tanjim38) | 0:22 | — |
 | [Multiple app design variations demo](https://x.com/heycape_/status/2102671212598132975) | Opus 5.5 | [@heycape_](https://x.com/heycape_) | 0:18 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102671212598132975) |
@@ -172,6 +174,7 @@
 | [Real estate listing motion graphic ad](https://x.com/alfageeh9/status/2103771626395357203) | Opus 5.5 | [@alfageeh9](https://x.com/alfageeh9) | 0:30 | — |
 | [Liquid glass web hero section](https://x.com/viktoroddy/status/2106061619176620344) | Opus 5.5 | [@viktoroddy](https://x.com/viktoroddy) | 12:52 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2106061619176620344) |
 | [Ad-free streaming service clone](https://x.com/0x0SojalSec/status/2110110952008069345) | Opus 5.5 | [@0x0SojalSec](https://x.com/0x0SojalSec) | 0:23 | — |
+| [Flying road bike simulation](https://x.com/thebuggeddev/status/2114377433369739331) | Opus 5.5 | [@thebuggeddev](https://x.com/thebuggeddev) | 0:58 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2114377433369739331) |
 | [Camper van trip planner interactive map](https://x.com/Skylartkitchen/status/2103591755564085589) | Opus 5.5 | [@Skylartkitchen](https://x.com/Skylartkitchen) | 0:30 | — |
 | [AI breakthroughs showcase](https://x.com/devteamdrew/status/2113761947325702324) | Opus 5.5 | [@devteamdrew](https://x.com/devteamdrew) | 1:05 | — |
 | [One-shot build using a shared skill file](https://x.com/mannupaaji/status/2103815657385267599) | Opus 5.5 | [@mannupaaji](https://x.com/mannupaaji) | 0:15 | — |

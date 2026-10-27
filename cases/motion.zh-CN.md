@@ -1,6 +1,6 @@
 # 动效设计
 
-共 297 个作品，其中 90 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 301 个作品，其中 90 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [可撕页互动日历应用](https://x.com/FiachraRM/status/2112188946809749658) | Opus 5.5 | [@FiachraRM](https://x.com/FiachraRM) | 0:38 | — |
 | [节拍同步的实拍混剪展示片](https://x.com/twoclipping/status/2102554209166000267) | Opus 5.5 | [@twoclipping](https://x.com/twoclipping) | 0:20 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102554209166000267) |
 | [Midjourney图像动态混剪](https://x.com/ciguleva/status/2104051187825946929) | Opus 5.5 | [@ciguleva](https://x.com/ciguleva) | 0:48 | — |
+| [提示词驱动的视频制作](https://x.com/seeconvm/status/2114337298422931627) | Opus 5.5 | [@seeconvm](https://x.com/seeconvm) | 0:14 | — |
 | [Opus5.5+Tesseract制作的多层动效](https://x.com/trymirage/status/2103542300844474452) | Opus 5.5 | [@trymirage](https://x.com/trymirage) | 0:15 | — |
 | [设计师展示片提示词生成的动效视频](https://x.com/konmari_tweet/status/2103639233693159742) | Opus 5.5 | [@konmari_tweet](https://x.com/konmari_tweet) | 0:15 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103639233693159742) |
 | [单条提示词生成的动态设计动画](https://x.com/flxrnc/status/2109629188525420930) | Opus 5.5 | [@flxrnc](https://x.com/flxrnc) | 0:16 | — |
@@ -213,6 +214,7 @@
 | [一句提示词惊艳演示视频](https://x.com/viktoroddy/status/2102986525185343563) | Opus 5.5 | [@viktoroddy](https://x.com/viktoroddy) | 0:06 | — |
 | [股市主题宣传视频](https://x.com/Capybara_Stock/status/2103627768521281672) | Opus 5.5 | [@Capybara_Stock](https://x.com/Capybara_Stock) | 0:15 | — |
 | [复刻爆款视频风格](https://x.com/servasyy_ai/status/2103830430189486358) | Opus 5.5 | [@servasyy_ai](https://x.com/servasyy_ai) | 1:00 | — |
+| [Roblox视觉特效展示](https://x.com/JohnKlerAI/status/2114534898237362335) | Opus 5.5 | [@JohnKlerAI](https://x.com/JohnKlerAI) | 0:08 | — |
 | [教师节动态海报视频](https://x.com/ai4everyday/status/2106992353219056006) | Opus 5.5 | [@ai4everyday](https://x.com/ai4everyday) | 1:06 | — |
 | [纯JS生成的视频](https://x.com/chetaslua/status/2103599163804098708) | Opus 5.5 | [@chetaslua](https://x.com/chetaslua) | 0:12 | — |
 | [AI制作的动效设计作品](https://x.com/lokidotdev/status/2103760837496418583) | Opus 5.5 | [@lokidotdev](https://x.com/lokidotdev) | 0:15 | — |
@@ -288,6 +290,7 @@
 | [混乱风格的短视频动效](https://x.com/kloss_xyz/status/2103664956482941143) | Opus 5.5 | [@kloss_xyz](https://x.com/kloss_xyz) | 2:34 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103664956482941143) |
 | [代码生成的扁平插画鼹鼠动画](https://x.com/onofumi_AI/status/2102696204249526348) | Opus 5.5 | [@onofumi_AI](https://x.com/onofumi_AI) | 0:20 | — |
 | [搞怪表情照片代码动画化](https://x.com/jAlpha_create/status/2103787665569272247) | Opus 5.5 | [@jAlpha_create](https://x.com/jAlpha_create) | 0:15 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103787665569272247) |
+| [互动式 Habbo 视频墙](https://x.com/xTeslaHabbo/status/2114434592702919082) | Opus 5.5 | [@xTeslaHabbo](https://x.com/xTeslaHabbo) | 0:48 | — |
 | [原创配乐一键生成的动效](https://x.com/DentalAkimoto/status/2103417432757166200) | Opus 5.5 | [@DentalAkimoto](https://x.com/DentalAkimoto) | 0:15 | — |
 | [PayBox品牌Logo动效广告](https://x.com/0xValure/status/2103603025579331584) | Opus 5.5 | [@0xValure](https://x.com/0xValure) | 0:10 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103603025579331584) |
 | [After Effects 风格动画效果展示](https://x.com/nakazakifam/status/2114202745636852063) | Opus 5.5 | [@nakazakifam](https://x.com/nakazakifam) | 0:24 | — |
@@ -296,6 +299,7 @@
 | [水彩秋天动画](https://x.com/ishuagra02/status/2106000055706784118) | Fable 5.5 (preview) | [@ishuagra02](https://x.com/ishuagra02) | 0:25 | — |
 | [代码绘图动画制作流程演示](https://x.com/p2ecoin91/status/2103398218793168921) | Opus 5.5 | [@p2ecoin91](https://x.com/p2ecoin91) | 2:37 | — |
 | [足球传球路线AR分析](https://x.com/virtual_amir/status/2106387068070826373) | Opus 5.5 | [@virtual_amir](https://x.com/virtual_amir) | 0:31 | — |
+| [Roblox实时视觉特效](https://x.com/kinnievfx/status/2114514200735465924) | Opus 5.5 | [@kinnievfx](https://x.com/kinnievfx) | 0:21 | — |
 | [短篇动画](https://x.com/fakharkamario/status/2110218646689599861) | Opus 5.5 | [@fakharkamario](https://x.com/fakharkamario) | 0:10 | — |
 | [令人惊叹的AI演示反应视频](https://x.com/dcbruck/status/2103549268321783859) | Opus 5.5 | [@dcbruck](https://x.com/dcbruck) | 0:15 | — |
 | [Opus 5.5动画质量演示](https://x.com/makisuo/status/2103613318497997215) | Opus 5.5 | [@makisuo](https://x.com/makisuo) | 0:15 | — |

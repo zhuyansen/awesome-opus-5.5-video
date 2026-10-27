@@ -1,6 +1,6 @@
 # Explainers & education
 
-183 works, 51 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+187 works, 51 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Electromagnetic field visualization](https://x.com/thebuggeddev/status/2104402407358919124) | Opus 5.5 | [@thebuggeddev](https://x.com/thebuggeddev) | 1:11 | — |
 | [History of God in India documentary](https://x.com/HindolSengupta/status/2103906559109787845) | Opus 5.5 | [@HindolSengupta](https://x.com/HindolSengupta) | 4:52 | — |
 | [Interactive traffic jam lesson](https://x.com/Lattice_Node/status/2105946058417389840) | Opus 5.5 | [@Lattice_Node](https://x.com/Lattice_Node) | 0:34 | — |
+| [Code-built science explainer](https://x.com/WaterrrMiao/status/2114585876160455057) | Opus 5.5 | [@WaterrrMiao](https://x.com/WaterrrMiao) | 11:32 | — |
 | [40,000 years of art history video](https://x.com/cherry_mx_reds/status/2106095190285144331) | Fable 5.5 (preview) | [@cherry_mx_reds](https://x.com/cherry_mx_reds) | 0:15 | — |
 | [Interactive robotics engineering lesson](https://x.com/0xMovez/status/2112940162103615783) | Opus 5.5 | [@0xMovez](https://x.com/0xMovez) | 0:46 | — |
 | [Honnoji Incident history explainer video](https://x.com/AIPlus_AISchool/status/2102960034431070563) | Opus 5.5 | [@AIPlus_AISchool](https://x.com/AIPlus_AISchool) | 1:00 | — |
@@ -160,6 +161,7 @@
 | [Interactive historical map of Istanbul](https://x.com/cahidarda/status/2103218970115678497) | Opus 5.5 | [@cahidarda](https://x.com/cahidarda) | 0:10 | — |
 | [Interactive Lamborghini FL3 tractor diesel engine](https://x.com/exploraX_/status/2112130961714385214) | Opus 5.5 | [@exploraX_](https://x.com/exploraX_) | 0:42 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2112130961714385214) |
 | [Tesla Roadster explainer video](https://x.com/KeWai386772/status/2111440772998599022) | Opus 5.5 | [@KeWai386772](https://x.com/KeWai386772) | 2:54 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2111440772998599022) |
+| [Grok Bot template video guide](https://x.com/yaohongan2025/status/2114335185915269293) | Opus 5.5 | [@yaohongan2025](https://x.com/yaohongan2025) | 2:56 | — |
 | [Plate tectonics music video animation](https://x.com/kevin_t_ngo/status/2108208479358026208) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 2:21 | — |
 | [Interactive robotics engineering lab](https://x.com/0xForem/status/2113624961822646351) | Opus 5.5 | [@0xForem](https://x.com/0xForem) | 0:46 | — |
 | [Gemini plans comparison chart video](https://x.com/ksa8Turky/status/2111508035482825171) | Opus 5.5 | [@ksa8Turky](https://x.com/ksa8Turky) | 0:30 | — |
@@ -183,7 +185,9 @@
 | [Battle of Midway 3D explainer film](https://x.com/wshuyi/status/2103644455916175505) | Opus 5.5 | [@wshuyi](https://x.com/wshuyi) | 8:29 | — |
 | [Warehouse parcel sorting decision simulation](https://x.com/konstantinsaifo/status/2108914585340428549) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 0:40 | — |
 | [Crypto trading concept animation](https://x.com/Dan_Kostecki/status/2103761581871964592) | Opus 5.5 | [@Dan_Kostecki](https://x.com/Dan_Kostecki) | 2:43 | — |
+| [Kyoto autumn foliage travel program](https://x.com/CHIBIKURO_QnQ/status/2114324847966998934) | Opus 5.5 | [@CHIBIKURO_QnQ](https://x.com/CHIBIKURO_QnQ) | 0:48 | — |
 | [15-second persuasive explainer on ending the Fed](https://x.com/cboyack/status/2103617085402407181) | Opus 5.5 | [@cboyack](https://x.com/cboyack) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103617085402407181) |
 | [Explainer video for an Anthropic science blog post](https://x.com/deepwhitman/status/2103562764929389035) | Opus 5.5 | [@deepwhitman](https://x.com/deepwhitman) | 1:39 | — |
+| [Dance-based math function visualisation](https://x.com/chetaslua/status/2114277081349853217) | Opus 5.5 | [@chetaslua](https://x.com/chetaslua) | 1:35 | — |
 | [How a roadster drives upside down on an inverted ramp](https://x.com/andreysuperior/status/2113323122682163307) | Opus 5.5 | [@andreysuperior](https://x.com/andreysuperior) | 0:45 | — |
 | [Hot vs cold crypto wallet explainer](https://x.com/sergitosergito/status/2103835390998388796) | Opus 5.5 | [@sergitosergito](https://x.com/sergitosergito) | 1:36 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103835390998388796) |

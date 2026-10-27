@@ -1,6 +1,6 @@
 # 产品广告
 
-共 226 个作品，其中 42 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 229 个作品，其中 43 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [用自然语言制作产品原型](https://x.com/bunkaich/status/2106315094070362272) | Opus 5.5 | [@bunkaich](https://x.com/bunkaich) | 1:11 | — |
 | [扁平风格自我介绍宣传视频](https://x.com/mmmiyama_D/status/2103384986661671058) | Opus 5.5 | [@mmmiyama_D](https://x.com/mmmiyama_D) | 0:15 | — |
 | [用Claude编码制作的30秒扁平风宣传视频](https://x.com/mmmiyama_D/status/2103319199817064764) | Opus 5.5 | [@mmmiyama_D](https://x.com/mmmiyama_D) | 0:30 | — |
+| [微缩景观智能体自动化小镇](https://x.com/Khazix0918/status/2114343004471460341) | Opus 5.5 | [@Khazix0918](https://x.com/Khazix0918) | 1:20 | — |
 | [室内设计改造可视化](https://x.com/Antonio_RodriIA/status/2107858567952749025) | Opus 5.5 | [@Antonio_RodriIA](https://x.com/Antonio_RodriIA) | 0:40 | — |
 | [互动卡车装载追踪视图](https://x.com/konstantinsaifo/status/2112801199099637785) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 0:26 | — |
 | [用Rust和Swift重构的原生迷你浏览器](https://x.com/rauchg/status/2104428800134013205) | Opus 5.5 | [@rauchg](https://x.com/rauchg) | 1:02 | — |
@@ -116,6 +117,7 @@
 | [电影感产品发布影片](https://x.com/AbhinavXJ/status/2104805179401068964) | Sonnet 5.5 | [@AbhinavXJ](https://x.com/AbhinavXJ) | 1:40 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104805179401068964) |
 | [根据软件代码生成的介绍视频](https://x.com/gesoikuo3/status/2103723885204254734) | Opus 5.5 | [@gesoikuo3](https://x.com/gesoikuo3) | 0:50 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103723885204254734) |
 | [用代码免费生成的AI广告视频](https://x.com/Lucas_IA_/status/2102757164158689759) | Opus 5.5 | [@Lucas_IA_](https://x.com/Lucas_IA_) | 1:12 | — |
+| [重新设计的书籍网站](https://x.com/emollick/status/2114404221021778347) | Opus 5.5 | [@emollick](https://x.com/emollick) | 0:33 | — |
 | [Awwwards风格网站](https://x.com/YildizDikme/status/2106281015152976146) | Opus 5.5 | [@YildizDikme](https://x.com/YildizDikme) | 0:40 | — |
 | [开源任务管理应用](https://x.com/Tanjim38/status/2112964568616169890) | Opus 5.5 | [@Tanjim38](https://x.com/Tanjim38) | 0:22 | — |
 | [多版本App设计方案演示](https://x.com/heycape_/status/2102671212598132975) | Opus 5.5 | [@heycape_](https://x.com/heycape_) | 0:18 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102671212598132975) |
@@ -172,6 +174,7 @@
 | [房地产广告动效](https://x.com/alfageeh9/status/2103771626395357203) | Opus 5.5 | [@alfageeh9](https://x.com/alfageeh9) | 0:30 | — |
 | [液态玻璃网页首屏](https://x.com/viktoroddy/status/2106061619176620344) | Opus 5.5 | [@viktoroddy](https://x.com/viktoroddy) | 12:52 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2106061619176620344) |
 | [无广告流媒体平台克隆](https://x.com/0x0SojalSec/status/2110110952008069345) | Opus 5.5 | [@0x0SojalSec](https://x.com/0x0SojalSec) | 0:23 | — |
+| [可飞行公路摩托模拟](https://x.com/thebuggeddev/status/2114377433369739331) | Opus 5.5 | [@thebuggeddev](https://x.com/thebuggeddev) | 0:58 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2114377433369739331) |
 | [房车旅行规划交互地图](https://x.com/Skylartkitchen/status/2103591755564085589) | Opus 5.5 | [@Skylartkitchen](https://x.com/Skylartkitchen) | 0:30 | — |
 | [人工智能突破展示](https://x.com/devteamdrew/status/2113761947325702324) | Opus 5.5 | [@devteamdrew](https://x.com/devteamdrew) | 1:05 | — |
 | [使用他人技能文件一次生成的作品](https://x.com/mannupaaji/status/2103815657385267599) | Opus 5.5 | [@mannupaaji](https://x.com/mannupaaji) | 0:15 | — |

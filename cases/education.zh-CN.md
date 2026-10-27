@@ -1,6 +1,6 @@
 # 科普讲解
 
-共 183 个作品，其中 51 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 187 个作品，其中 51 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [电磁场可视化演示](https://x.com/thebuggeddev/status/2104402407358919124) | Opus 5.5 | [@thebuggeddev](https://x.com/thebuggeddev) | 1:11 | — |
 | [印度神明历史纪录片](https://x.com/HindolSengupta/status/2103906559109787845) | Opus 5.5 | [@HindolSengupta](https://x.com/HindolSengupta) | 4:52 | — |
 | [互动式交通拥堵原理课](https://x.com/Lattice_Node/status/2105946058417389840) | Opus 5.5 | [@Lattice_Node](https://x.com/Lattice_Node) | 0:34 | — |
+| [代码制作的科学科普片](https://x.com/WaterrrMiao/status/2114585876160455057) | Opus 5.5 | [@WaterrrMiao](https://x.com/WaterrrMiao) | 11:32 | — |
 | [四万年艺术史动画](https://x.com/cherry_mx_reds/status/2106095190285144331) | Fable 5.5 (preview) | [@cherry_mx_reds](https://x.com/cherry_mx_reds) | 0:15 | — |
 | [互动机器人工程教学网站](https://x.com/0xMovez/status/2112940162103615783) | Opus 5.5 | [@0xMovez](https://x.com/0xMovez) | 0:46 | — |
 | [本能寺之变历史讲解视频](https://x.com/AIPlus_AISchool/status/2102960034431070563) | Opus 5.5 | [@AIPlus_AISchool](https://x.com/AIPlus_AISchool) | 1:00 | — |
@@ -160,6 +161,7 @@
 | [伊斯坦布尔历史地图互动项目](https://x.com/cahidarda/status/2103218970115678497) | Opus 5.5 | [@cahidarda](https://x.com/cahidarda) | 0:10 | — |
 | [兰博基尼FL3拖拉机柴油机交互模型](https://x.com/exploraX_/status/2112130961714385214) | Opus 5.5 | [@exploraX_](https://x.com/exploraX_) | 0:42 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2112130961714385214) |
 | [特斯拉Roadster科普讲解视频](https://x.com/KeWai386772/status/2111440772998599022) | Opus 5.5 | [@KeWai386772](https://x.com/KeWai386772) | 2:54 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2111440772998599022) |
+| [Grok Bot模板视频指南](https://x.com/yaohongan2025/status/2114335185915269293) | Opus 5.5 | [@yaohongan2025](https://x.com/yaohongan2025) | 2:56 | — |
 | [板块漂移主题音乐动画视频](https://x.com/kevin_t_ngo/status/2108208479358026208) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 2:21 | — |
 | [互动式机器人工程实验室](https://x.com/0xForem/status/2113624961822646351) | Opus 5.5 | [@0xForem](https://x.com/0xForem) | 0:46 | — |
 | [Gemini套餐对比图表视频](https://x.com/ksa8Turky/status/2111508035482825171) | Opus 5.5 | [@ksa8Turky](https://x.com/ksa8Turky) | 0:30 | — |
@@ -183,7 +185,9 @@
 | [《中途岛海战》3D讲解影片](https://x.com/wshuyi/status/2103644455916175505) | Opus 5.5 | [@wshuyi](https://x.com/wshuyi) | 8:29 | — |
 | [仓库包裹分拣决策模拟](https://x.com/konstantinsaifo/status/2108914585340428549) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 0:40 | — |
 | [加密货币交易概念动画](https://x.com/Dan_Kostecki/status/2103761581871964592) | Opus 5.5 | [@Dan_Kostecki](https://x.com/Dan_Kostecki) | 2:43 | — |
+| [京都秋季红叶旅行节目](https://x.com/CHIBIKURO_QnQ/status/2114324847966998934) | Opus 5.5 | [@CHIBIKURO_QnQ](https://x.com/CHIBIKURO_QnQ) | 0:48 | — |
 | [呼吁"终结美联储"的15秒说明视频](https://x.com/cboyack/status/2103617085402407181) | Opus 5.5 | [@cboyack](https://x.com/cboyack) | 0:15 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103617085402407181) |
 | [为Anthropic科学博客制作的讲解视频](https://x.com/deepwhitman/status/2103562764929389035) | Opus 5.5 | [@deepwhitman](https://x.com/deepwhitman) | 1:39 | — |
+| [用舞蹈呈现数学函数](https://x.com/chetaslua/status/2114277081349853217) | Opus 5.5 | [@chetaslua](https://x.com/chetaslua) | 1:35 | — |
 | [跑车倒挂行驶原理动画解析](https://x.com/andreysuperior/status/2113323122682163307) | Opus 5.5 | [@andreysuperior](https://x.com/andreysuperior) | 0:45 | — |
 | [热钱包与冷钱包区别讲解视频](https://x.com/sergitosergito/status/2103835390998388796) | Opus 5.5 | [@sergitosergito](https://x.com/sergitosergito) | 1:36 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103835390998388796) |

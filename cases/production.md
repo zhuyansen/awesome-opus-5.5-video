@@ -1,6 +1,6 @@
 # Music, editing & production
 
-157 works, 27 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+160 works, 30 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [FreeCAD making-of video](https://x.com/hAru_mAki_ch/status/2103645693265219838) | Opus 5.5 | [@hAru_mAki_ch](https://x.com/hAru_mAki_ch) | 1:46 | — |
 | [AI-composed Baroque trio sonata](https://x.com/aug5thmusic/status/2103549625076752493) | Opus 5.5 | [@aug5thmusic](https://x.com/aug5thmusic) | 1:46 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103549625076752493) |
 | [Supper Run animated short with color grading](https://x.com/aimikoda/status/2111256122040406443) | Opus 5.5 | [@aimikoda](https://x.com/aimikoda) | 0:57 | — |
+| [Manga panel music video edit](https://x.com/aimikoda/status/2114477295574425988) | Opus 5.5 | [@aimikoda](https://x.com/aimikoda) | 0:35 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2114477295574425988) |
 | [Automatic video editing workflow](https://x.com/Scenario_gg/status/2110020120865313063) | Opus 5.5 | [@Scenario_gg](https://x.com/Scenario_gg) | 0:13 | — |
 | [Automated Blender scene builder demo](https://x.com/higgsfield_ai/status/2103537802688463269) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:12 | — |
 | [Behind-the-scenes of a code-rendered video](https://x.com/konmari_tweet/status/2103846791976513981) | Opus 5.5 | [@konmari_tweet](https://x.com/konmari_tweet) | 1:23 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103846791976513981) |
@@ -149,7 +150,9 @@
 | [Custom video editor app built with AI](https://x.com/SoyMrBro/status/2103135398226735139) | Opus 5.5 | [@SoyMrBro](https://x.com/SoyMrBro) | 0:31 | — |
 | [Fully edited talking-head reel with b-roll](https://x.com/rpnickson/status/2113727289355554829) | Opus 5.5 | [@rpnickson](https://x.com/rpnickson) | 1:54 | — |
 | [28-second short film](https://x.com/N01ennn/status/2112882581809025189) | Opus 5.5 | [@N01ennn](https://x.com/N01ennn) | 0:37 | — |
+| [Archival-style bilingual speech video](https://x.com/huangyun_122/status/2114417230792491070) | Opus 5.5 | [@huangyun_122](https://x.com/huangyun_122) | 1:32 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2114417230792491070) |
 | [Chinese diner cooking clip edited as comic book pages](https://x.com/aicreataro/status/2113252901405819014) | Opus 5.5 | [@aicreataro](https://x.com/aicreataro) | 0:30 | — |
+| [Beat-synced video edit](https://x.com/aimikoda/status/2114356633849516157) | Opus 5.5 | [@aimikoda](https://x.com/aimikoda) | 0:59 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2114356633849516157) |
 | [PCB design pipeline demo](https://x.com/VectorCrossProd/status/2109610532365857198) | Opus 5.5 | [@VectorCrossProd](https://x.com/VectorCrossProd) | 1:00 | — |
 | [Article-to-video generation for social posting](https://x.com/affnom_y/status/2103722878697083380) | Opus 5.5 | [@affnom_y](https://x.com/affnom_y) | 0:26 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103722878697083380) |
 | [Making-of video for Carla Botcoin music video](https://x.com/WalkerAmerica/status/2110825075729727875) | Opus 5.5 | [@WalkerAmerica](https://x.com/WalkerAmerica) | 1:01 | — |

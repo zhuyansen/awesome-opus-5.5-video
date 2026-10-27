@@ -1,6 +1,6 @@
 # 制作流程
 
-共 157 个作品，其中 27 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 160 个作品，其中 30 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [FreeCAD制作过程视频](https://x.com/hAru_mAki_ch/status/2103645693265219838) | Opus 5.5 | [@hAru_mAki_ch](https://x.com/hAru_mAki_ch) | 1:46 | — |
 | [AI创作的巴洛克风格三重奏奏鸣曲](https://x.com/aug5thmusic/status/2103549625076752493) | Opus 5.5 | [@aug5thmusic](https://x.com/aug5thmusic) | 1:46 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103549625076752493) |
 | [《晚餐之跑》动画调色与升频处理](https://x.com/aimikoda/status/2111256122040406443) | Opus 5.5 | [@aimikoda](https://x.com/aimikoda) | 0:57 | — |
+| [漫画分格风音乐视频剪辑](https://x.com/aimikoda/status/2114477295574425988) | Opus 5.5 | [@aimikoda](https://x.com/aimikoda) | 0:35 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2114477295574425988) |
 | [自动视频剪辑流程](https://x.com/Scenario_gg/status/2110020120865313063) | Opus 5.5 | [@Scenario_gg](https://x.com/Scenario_gg) | 0:13 | — |
 | [自动化Blender场景搭建演示](https://x.com/higgsfield_ai/status/2103537802688463269) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:12 | — |
 | [代码渲染视频制作揭秘](https://x.com/konmari_tweet/status/2103846791976513981) | Opus 5.5 | [@konmari_tweet](https://x.com/konmari_tweet) | 1:23 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103846791976513981) |
@@ -149,7 +150,9 @@
 | [AI搭建的自制视频编辑器](https://x.com/SoyMrBro/status/2103135398226735139) | Opus 5.5 | [@SoyMrBro](https://x.com/SoyMrBro) | 0:31 | — |
 | [配有B-roll的完整剪辑出镜短视频](https://x.com/rpnickson/status/2113727289355554829) | Opus 5.5 | [@rpnickson](https://x.com/rpnickson) | 1:54 | — |
 | [28秒短片](https://x.com/N01ennn/status/2112882581809025189) | Opus 5.5 | [@N01ennn](https://x.com/N01ennn) | 0:37 | — |
+| [档案馆风格双语演讲视频](https://x.com/huangyun_122/status/2114417230792491070) | Opus 5.5 | [@huangyun_122](https://x.com/huangyun_122) | 1:32 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2114417230792491070) |
 | [町中华料理变身美漫分格的卡点剪辑](https://x.com/aicreataro/status/2113252901405819014) | Opus 5.5 | [@aicreataro](https://x.com/aicreataro) | 0:30 | — |
+| [节拍同步视频剪辑](https://x.com/aimikoda/status/2114356633849516157) | Opus 5.5 | [@aimikoda](https://x.com/aimikoda) | 0:59 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2114356633849516157) |
 | [PCB设计流程演示](https://x.com/VectorCrossProd/status/2109610532365857198) | Opus 5.5 | [@VectorCrossProd](https://x.com/VectorCrossProd) | 1:00 | — |
 | [根据文章自动生成视频并发布](https://x.com/affnom_y/status/2103722878697083380) | Opus 5.5 | [@affnom_y](https://x.com/affnom_y) | 0:26 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103722878697083380) |
 | [《Carla Botcoin》音乐视频幕后制作花絮](https://x.com/WalkerAmerica/status/2110825075729727875) | Opus 5.5 | [@WalkerAmerica](https://x.com/WalkerAmerica) | 1:01 | — |
