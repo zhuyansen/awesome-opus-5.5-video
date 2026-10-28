@@ -1,6 +1,6 @@
 # 动效设计
 
-共 301 个作品，其中 90 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 304 个作品，其中 90 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [单条提示词生成的专业级作品](https://x.com/ailker/status/2103523453810921944) | Opus 5.5 | [@ailker](https://x.com/ailker) | 0:24 | — |
 | [任务分派主题动态短片](https://x.com/kelanoo/status/2108199183983497433) | Opus 5.5 | [@kelanoo](https://x.com/kelanoo) | 0:20 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2108199183983497433) |
 | [无需关键帧的键盘打字动画](https://x.com/seeconvm/status/2110770664101527568) | Opus 5.5 | [@seeconvm](https://x.com/seeconvm) | 0:12 | — |
+| [蝴蝶花朵像素风互动作品集](https://x.com/ann_nnng/status/2114717745443127698) | Opus 5.5 | [@ann_nnng](https://x.com/ann_nnng) | 0:24 | — |
 | [TypingMind的Logo揭示动效视频](https://x.com/tdinh_me/status/2103704250329301409) | Opus 5.5 | [@tdinh_me](https://x.com/tdinh_me) | 0:21 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103704250329301409) |
 | [复古游戏发布宣传视频](https://x.com/doseofcreative/status/2110407591503491372) | Opus 5.5 | [@doseofcreative](https://x.com/doseofcreative) | 0:20 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2110407591503491372) |
 | [Unity粒子特效Logo变形动画](https://x.com/_3912657840/status/2103417471063736729) | Opus 5.5 | [@_3912657840](https://x.com/_3912657840) | 0:07 | — |
@@ -202,6 +203,7 @@
 | [AI仿制参考视频（对比呈现）](https://x.com/ailker/status/2103843841442730275) | Opus 5.5 | [@ailker](https://x.com/ailker) | 0:11 | — |
 | [深入GPU芯片的动效之旅](https://x.com/mdaman010/status/2103788160031592572) | Opus 5.5 | [@mdaman010](https://x.com/mdaman010) | 0:49 | — |
 | [单提示词生成的代码库动效](https://x.com/FloWritesCode/status/2105268326381625845) | Opus 5.5 | [@FloWritesCode](https://x.com/FloWritesCode) | 0:30 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2105268326381625845) |
+| [根据PDF指南制作的动效动画](https://x.com/seeconvm/status/2114715384310046928) | Opus 5.5 | [@seeconvm](https://x.com/seeconvm) | 0:14 | — |
 | [个性化风格展示动画](https://x.com/promptowy/status/2103555455700336882) | Opus 5.5 | [@promptowy](https://x.com/promptowy) | 1:00 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103555455700336882) |
 | [复刻苹果Wonderful Tools动画](https://x.com/DavidKPiano/status/2103555549929566323) | Opus 5.5 | [@DavidKPiano](https://x.com/DavidKPiano) | 1:37 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103555549929566323) |
 | [四十分钟内做出的动效宣传视频](https://x.com/ElitzaVasileva/status/2103856583667052674) | Opus 5.5 | [@ElitzaVasileva](https://x.com/ElitzaVasileva) | 0:30 | — |
@@ -289,6 +291,7 @@
 | [多种AI工具合成的UI动画](https://x.com/yitong/status/2110463528754880952) | Opus 5.5 | [@yitong](https://x.com/yitong) | 0:14 | — |
 | [混乱风格的短视频动效](https://x.com/kloss_xyz/status/2103664956482941143) | Opus 5.5 | [@kloss_xyz](https://x.com/kloss_xyz) | 2:34 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103664956482941143) |
 | [代码生成的扁平插画鼹鼠动画](https://x.com/onofumi_AI/status/2102696204249526348) | Opus 5.5 | [@onofumi_AI](https://x.com/onofumi_AI) | 0:20 | — |
+| [146个机器人的黑灯工厂动画](https://x.com/0xwhrrari/status/2114703675264291003) | Opus 5.5 | [@0xwhrrari](https://x.com/0xwhrrari) | 0:21 | — |
 | [搞怪表情照片代码动画化](https://x.com/jAlpha_create/status/2103787665569272247) | Opus 5.5 | [@jAlpha_create](https://x.com/jAlpha_create) | 0:15 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103787665569272247) |
 | [互动式 Habbo 视频墙](https://x.com/xTeslaHabbo/status/2114434592702919082) | Opus 5.5 | [@xTeslaHabbo](https://x.com/xTeslaHabbo) | 0:48 | — |
 | [原创配乐一键生成的动效](https://x.com/DentalAkimoto/status/2103417432757166200) | Opus 5.5 | [@DentalAkimoto](https://x.com/DentalAkimoto) | 0:15 | — |

@@ -3,8 +3,8 @@
  "model": "Claude 5.5 (Opus 5.5 · Sonnet 5.5 · Haiku 5.5 · Fable 5.5)",
  "inclusion_rule": "Original post by the creator, native video attached, >= 5000 views on that post, creator states it was made with Claude Opus 5.5, Sonnet 5.5, Haiku 5.5 or Fable 5.5 (Fable 5.5 is in limited preview, not yet announced). Later posts that embed another account's upload are excluded.",
  "views_threshold": 5000,
- "stats_checked_at": "2026-10-27T06:16:03.823Z",
- "updated_at": "2026-10-27T06:16:03.823Z",
+ "stats_checked_at": "2026-10-28T06:51:45.678Z",
+ "updated_at": "2026-10-28T06:51:45.678Z",
  "model_attribution": "As stated by each creator; not independently reproduced.",
  "cases": [
   {
@@ -3918,6 +3918,34 @@
     "MediaPipe",
     "Python"
    ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2114819508032684289",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "修正AI视频中的物理错误",
+    "en": "Physics correction of AI-generated videos"
+   },
+   "creator": {
+    "handle": "gokayfem",
+    "name": "gokaygokay"
+   },
+   "original_post_url": "https://x.com/gokayfem/status/2114819508032684289",
+   "posted_at": "2026-10-26T20:40:36.000Z",
+   "language": "en",
+   "duration_seconds": 51,
+   "views": 379975,
+   "likes": 182,
+   "bookmarks": 108,
+   "views_checked_at": "2026-10-28T06:51:45.678Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2114818667707867136/img/bjftKum5GlXBDObf.jpg",
+   "tools_reported": [],
    "reference_assets": true,
    "prompt": null,
    "resources": []
@@ -8325,6 +8353,36 @@
    "resources": []
   },
   {
+   "id": "2114728296034226583",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "纯数学渲染的人眼",
+    "en": "Procedural human eye rendered with math"
+   },
+   "creator": {
+    "handle": "__rockbiter",
+    "name": "Gianluca Lomarco"
+   },
+   "original_post_url": "https://x.com/__rockbiter/status/2114728296034226583",
+   "posted_at": "2026-10-26T14:38:10.000Z",
+   "language": "en",
+   "duration_seconds": 78,
+   "views": 177276,
+   "likes": 3066,
+   "bookmarks": 1654,
+   "views_checked_at": "2026-10-28T06:51:45.678Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2114694823621890048/img/eDaHybZoa47lMlmv.jpg",
+   "tools_reported": [
+    "Three.js"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2106096188915347821",
    "models": [
     "opus-5.5"
@@ -12316,6 +12374,36 @@
    "resources": []
   },
   {
+   "id": "2114834080122761701",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "同一提示词下的模型成本与速度对比",
+    "en": "Same-prompt model cost and speed comparison"
+   },
+   "creator": {
+    "handle": "EnvolDev",
+    "name": "Tony"
+   },
+   "original_post_url": "https://x.com/EnvolDev/status/2114834080122761701",
+   "posted_at": "2026-10-26T21:38:31.000Z",
+   "language": "en",
+   "duration_seconds": 25,
+   "views": 120951,
+   "likes": 577,
+   "bookmarks": 147,
+   "views_checked_at": "2026-10-28T06:51:45.678Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2114834005019541504/img/lqnrqQdBNngXt6tl.jpg",
+   "tools_reported": [
+    "Three.js"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2103749509616648627",
    "models": [
     "opus-5.5"
@@ -14864,6 +14952,37 @@
    "resources": []
   },
   {
+   "id": "2114940685082337561",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "stories",
+   "title": {
+    "zh": "3D二次元少女舞蹈MV",
+    "en": "3D anime girl dance music video"
+   },
+   "creator": {
+    "handle": "HaileyAILabs",
+    "name": "Hailey"
+   },
+   "original_post_url": "https://x.com/HaileyAILabs/status/2114940685082337561",
+   "posted_at": "2026-10-27T04:42:07.000Z",
+   "language": "zh",
+   "duration_seconds": 20,
+   "views": 99218,
+   "likes": 1686,
+   "bookmarks": 1698,
+   "views_checked_at": "2026-10-28T06:51:45.678Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2114939971643826176/img/_qKlJho5NDrNC6_E.jpg",
+   "tools_reported": [
+    "GPT",
+    "Muse"
+   ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2102878288008057171",
    "models": [
     "opus-5.5"
@@ -16949,6 +17068,36 @@
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2106031233612283904/img/XBSPhOXO_Pi8cUJH.jpg",
    "tools_reported": [],
    "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2114678483213234526",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "product",
+   "title": {
+    "zh": "订阅管理应用界面设计",
+    "en": "Subscription management app design"
+   },
+   "creator": {
+    "handle": "amine_prcs",
+    "name": "amine"
+   },
+   "original_post_url": "https://x.com/amine_prcs/status/2114678483213234526",
+   "posted_at": "2026-10-26T11:20:13.000Z",
+   "language": "fr",
+   "duration_seconds": 46,
+   "views": 82625,
+   "likes": 364,
+   "bookmarks": 674,
+   "views_checked_at": "2026-10-28T06:51:45.678Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2114678411570409472/img/SzdGtPKhLgxlhTpj.jpg",
+   "tools_reported": [
+    "10kdesign MCP"
+   ],
+   "reference_assets": true,
    "prompt": null,
    "resources": []
   },
@@ -20043,6 +20192,34 @@
    "resources": []
   },
   {
+   "id": "2114762155333689679",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "education",
+   "title": {
+    "zh": "ESP32电路互动入门课",
+    "en": "Interactive ESP32 circuit lessons"
+   },
+   "creator": {
+    "handle": "DilumSanjaya",
+    "name": "Dilum Sanjaya"
+   },
+   "original_post_url": "https://x.com/DilumSanjaya/status/2114762155333689679",
+   "posted_at": "2026-10-26T16:52:42.000Z",
+   "language": "en",
+   "duration_seconds": 107,
+   "views": 69876,
+   "likes": 1949,
+   "bookmarks": 1714,
+   "views_checked_at": "2026-10-28T06:51:45.678Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2114760421488123921/img/NpTWibcni2bKtn6_.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2103424524297420829",
    "models": [
     "opus-5.5"
@@ -21905,6 +22082,37 @@
     "Tripo",
     "Spriterrific",
     "ElevenLabs"
+   ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2114712331896934747",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "stories",
+   "title": {
+    "zh": "代码生成的二次元少女舞台",
+    "en": "Code-built anime girl dance stage"
+   },
+   "creator": {
+    "handle": "HaileyAILabs",
+    "name": "Hailey"
+   },
+   "original_post_url": "https://x.com/HaileyAILabs/status/2114712331896934747",
+   "posted_at": "2026-10-26T13:34:44.000Z",
+   "language": "zh",
+   "duration_seconds": 30,
+   "views": 62938,
+   "likes": 247,
+   "bookmarks": 274,
+   "views_checked_at": "2026-10-28T06:51:45.678Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2114712259591340032/img/mYV0ydYCCSE06txi.jpg",
+   "tools_reported": [
+    "Muse",
+    "GPT"
    ],
    "reference_assets": true,
    "prompt": null,
@@ -25681,6 +25889,40 @@
    "resources": []
   },
   {
+   "id": "2114674922802782355",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "可交互的果冻鲸鱼",
+    "en": "Interactive squishy jelly whale"
+   },
+   "creator": {
+    "handle": "vib3coded",
+    "name": "Vib3Coded"
+   },
+   "original_post_url": "https://x.com/vib3coded/status/2114674922802782355",
+   "posted_at": "2026-10-26T11:06:05.000Z",
+   "language": "en",
+   "duration_seconds": 18,
+   "views": 51683,
+   "likes": 988,
+   "bookmarks": 433,
+   "views_checked_at": "2026-10-28T06:51:45.678Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2114674840137306112/img/puq2l2jtHYeTeiJb.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "full",
+    "source": "author_reply",
+    "source_url": "https://x.com/vib3coded/status/2114675119364653309",
+    "length": 2254,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2114674922802782355"
+   },
+   "resources": []
+  },
+  {
    "id": "2109629188525420930",
    "models": [
     "opus-5.5"
@@ -28657,6 +28899,37 @@
    "resources": []
   },
   {
+   "id": "2114796689563304192",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "三款模型构建耗时与成本对比",
+    "en": "Three-model build time and cost comparison"
+   },
+   "creator": {
+    "handle": "rubenssoto_ai",
+    "name": "Rubens Soto | AI & SaaS"
+   },
+   "original_post_url": "https://x.com/rubenssoto_ai/status/2114796689563304192",
+   "posted_at": "2026-10-26T19:09:56.000Z",
+   "language": "en",
+   "duration_seconds": 40,
+   "views": 44744,
+   "likes": 272,
+   "bookmarks": 65,
+   "views_checked_at": "2026-10-28T06:51:45.678Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2114796547527299072/img/8afJ9jt9hnmnFBv9.jpg",
+   "tools_reported": [
+    "GPT 6.1 Sol",
+    "GPT 6.1 Terra"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2102990431940415738",
    "models": [
     "opus-5.5"
@@ -30019,6 +30292,36 @@
    "resources": []
   },
   {
+   "id": "2114609717758820574",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "production",
+   "title": {
+    "zh": "AI生成视频短片",
+    "en": "AI-generated video clip"
+   },
+   "creator": {
+    "handle": "AiwithAlyar",
+    "name": "Alyar AI"
+   },
+   "original_post_url": "https://x.com/AiwithAlyar/status/2114609717758820574",
+   "posted_at": "2026-10-26T06:46:58.000Z",
+   "language": "en",
+   "duration_seconds": 46,
+   "views": 42548,
+   "likes": 378,
+   "bookmarks": 176,
+   "views_checked_at": "2026-10-28T06:51:45.678Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2114609452582326272/img/2Br9l_-eYEWPuTtV.jpg",
+   "tools_reported": [
+    "Seedance 2.5"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2103624187017572421",
    "models": [
     "opus-5.5"
@@ -31264,6 +31567,37 @@
    "resources": []
   },
   {
+   "id": "2114937668635435233",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "根据参考图生成的3D建筑模型",
+    "en": "3D building model from reference image"
+   },
+   "creator": {
+    "handle": "_3912657840",
+    "name": "角煮星丸"
+   },
+   "original_post_url": "https://x.com/_3912657840/status/2114937668635435233",
+   "posted_at": "2026-10-27T04:30:08.000Z",
+   "language": "ja",
+   "duration_seconds": 15,
+   "views": 39173,
+   "likes": 488,
+   "bookmarks": 256,
+   "views_checked_at": "2026-10-28T06:51:45.678Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2114937184902066176/img/VBONgId1PbD62aUi.jpg",
+   "tools_reported": [
+    "GPT Image 2.5",
+    "Astra"
+   ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2107022944916709886",
    "models": [
     "opus-5.5"
@@ -32143,6 +32477,37 @@
    "resources": []
   },
   {
+   "id": "2114859793173324075",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "四冲程发动机原理讲解对比",
+    "en": "Four-stroke engine explainer comparison"
+   },
+   "creator": {
+    "handle": "higgsfield_ai",
+    "name": "Higgsfield AI 🧩"
+   },
+   "original_post_url": "https://x.com/higgsfield_ai/status/2114859793173324075",
+   "posted_at": "2026-10-26T23:20:41.000Z",
+   "language": "en",
+   "duration_seconds": 44,
+   "views": 37564,
+   "likes": 514,
+   "bookmarks": 195,
+   "views_checked_at": "2026-10-28T06:51:45.678Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2114859721085898752/img/1JbSPJ-LpP61wojF.jpg",
+   "tools_reported": [
+    "Higgsfield",
+    "GPT-6.1 Terra"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2104114219235090574",
    "models": [
     "opus-5.5"
@@ -32197,6 +32562,37 @@
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110289271114625025/img/-vLHDdB930-t9ugz.jpg",
    "tools_reported": [
     "Renoise CLI"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2114860921579528689",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "积木拼装汽车并驾驶测试",
+    "en": "Brick-built driving car test"
+   },
+   "creator": {
+    "handle": "higgsfield_ai",
+    "name": "Higgsfield AI 🧩"
+   },
+   "original_post_url": "https://x.com/higgsfield_ai/status/2114860921579528689",
+   "posted_at": "2026-10-26T23:25:10.000Z",
+   "language": "en",
+   "duration_seconds": 23,
+   "views": 37479,
+   "likes": 169,
+   "bookmarks": 38,
+   "views_checked_at": "2026-10-28T06:51:45.678Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2114860563339862016/img/KcaREBmoLCPnx7JC.jpg",
+   "tools_reported": [
+    "Higgsfield",
+    "GPT-6.1 Terra"
    ],
    "reference_assets": false,
    "prompt": null,
@@ -34493,6 +34889,38 @@
    "resources": []
   },
   {
+   "id": "2114942260353868116",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "stories",
+   "title": {
+    "zh": "小王子剪纸风动画短片",
+    "en": "The Little Prince papercut animated short"
+   },
+   "creator": {
+    "handle": "Saccc_c",
+    "name": "Sac"
+   },
+   "original_post_url": "https://x.com/Saccc_c/status/2114942260353868116",
+   "posted_at": "2026-10-27T04:48:23.000Z",
+   "language": "zh",
+   "duration_seconds": 74,
+   "views": 33748,
+   "likes": 570,
+   "bookmarks": 537,
+   "views_checked_at": "2026-10-28T06:51:45.678Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2114937896415485952/img/rQtnlbBaJ1t_OE-z.jpg",
+   "tools_reported": [
+    "huashu-art-motion"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": [
+    "https://github.com/alchaincyf/huashu-art-motion"
+   ]
+  },
+  {
    "id": "2103557833153466403",
    "models": [
     "opus-5.5"
@@ -35238,6 +35666,68 @@
    "tools_reported": [],
    "reference_assets": false,
    "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2114752456915665236",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "沙丘下穿行的巨型沙虫循环动画",
+    "en": "Looping sandworm under desert dunes"
+   },
+   "creator": {
+    "handle": "0x_fokki",
+    "name": "Fokki"
+   },
+   "original_post_url": "https://x.com/0x_fokki/status/2114752456915665236",
+   "posted_at": "2026-10-26T16:14:10.000Z",
+   "language": "en",
+   "duration_seconds": 20,
+   "views": 32354,
+   "likes": 358,
+   "bookmarks": 418,
+   "views_checked_at": "2026-10-28T06:51:45.678Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2114752332005064704/img/6zWw7Zzkh-scneB1.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2114676265093664978",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "education",
+   "title": {
+    "zh": "JEM自监督学习论文讲解视频",
+    "en": "Explainer video on JEM self-supervised learning paper"
+   },
+   "creator": {
+    "handle": "iScienceLuvr",
+    "name": "Tanishq Mathew Abraham, Ph.D."
+   },
+   "original_post_url": "https://x.com/iScienceLuvr/status/2114676265093664978",
+   "posted_at": "2026-10-26T11:11:25.000Z",
+   "language": "en",
+   "duration_seconds": 1561,
+   "views": 32313,
+   "likes": 613,
+   "bookmarks": 701,
+   "views_checked_at": "2026-10-28T06:51:45.678Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2114675884305350657/img/0MNjLXVp4fVZyLks.jpg",
+   "tools_reported": [],
+   "reference_assets": true,
+   "prompt": {
+    "kind": "full",
+    "source": "author_reply",
+    "source_url": "https://x.com/iScienceLuvr/status/2114677310653898974",
+    "length": 636,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2114676265093664978"
+   },
    "resources": []
   },
   {
@@ -37729,6 +38219,43 @@
    "resources": []
   },
   {
+   "id": "2114831244936507897",
+   "models": [
+    "sonnet-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "Blender 夜间迈阿密红色超跑场景对比",
+    "en": "Red supercar driving through Miami at night in Blender"
+   },
+   "creator": {
+    "handle": "MrTacticalX",
+    "name": "Mr Tactical"
+   },
+   "original_post_url": "https://x.com/MrTacticalX/status/2114831244936507897",
+   "posted_at": "2026-10-26T21:27:15.000Z",
+   "language": "en",
+   "duration_seconds": 30,
+   "views": 28373,
+   "likes": 135,
+   "bookmarks": 24,
+   "views_checked_at": "2026-10-28T06:51:45.678Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2114831064023580672/img/Jeew7FE2hTkfwqw5.jpg",
+   "tools_reported": [
+    "Blender",
+    "GPT-6.1 Terra"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "brief",
+    "source": "post",
+    "source_url": "https://x.com/MrTacticalX/status/2114831244936507897",
+    "length": 76,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2114831244936507897"
+   },
+   "resources": []
+  },
+  {
    "id": "2112114532763963615",
    "models": [
     "opus-5.5"
@@ -38106,6 +38633,41 @@
     "After Effects"
    ],
    "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2114923036516471083",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "game",
+   "title": {
+    "zh": "AI 生成 3D 资产的网页游戏",
+    "en": "Detailed 3D browser game with generated assets"
+   },
+   "creator": {
+    "handle": "gkxspace",
+    "name": "余温"
+   },
+   "original_post_url": "https://x.com/gkxspace/status/2114923036516471083",
+   "posted_at": "2026-10-27T03:31:59.000Z",
+   "language": "zh",
+   "duration_seconds": 65,
+   "views": 27853,
+   "likes": 141,
+   "bookmarks": 152,
+   "views_checked_at": "2026-10-28T06:51:45.678Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2114917822858252288/img/ArVcLQdogXy1fXFj.jpg",
+   "tools_reported": [
+    "GPT-Image-2.5",
+    "Hi3D MCP",
+    "Three.js",
+    "WebGL",
+    "WebAudio",
+    "Draco"
+   ],
+   "reference_assets": true,
    "prompt": null,
    "resources": []
   },
@@ -38713,6 +39275,43 @@
    "views_checked_at": "2026-10-26T08:36:05.702Z",
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2111179721950048256/img/6_GKpY7AVHclLEI3.jpg",
    "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2114688618313003390",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "stories",
+   "title": {
+    "zh": "猫咪追逐系列四十集合集",
+    "en": "Cat chase series 40-episode compilation"
+   },
+   "creator": {
+    "handle": "keshiAIart",
+    "name": "keshi"
+   },
+   "original_post_url": "https://x.com/keshiAIart/status/2114688618313003390",
+   "posted_at": "2026-10-26T12:00:30.000Z",
+   "language": "ja",
+   "duration_seconds": 376,
+   "views": 27134,
+   "likes": 685,
+   "bookmarks": 196,
+   "views_checked_at": "2026-10-28T06:51:45.678Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2114366780592578561/img/rcdCGtYmqzVRfX0M.jpg",
+   "tools_reported": [
+    "Seedance 2.0",
+    "Seedance 2.5",
+    "Midjourney",
+    "CapCut",
+    "Suno",
+    "ArtCraft",
+    "Dreamina",
+    "Runway"
+   ],
    "reference_assets": false,
    "prompt": null,
    "resources": []
@@ -39340,6 +39939,37 @@
     "Gemini"
    ],
    "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2114862715550441733",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "床单随风飘动模拟对比",
+    "en": "Bedsheet in wind simulation test"
+   },
+   "creator": {
+    "handle": "higgsfield_ai",
+    "name": "Higgsfield AI 🧩"
+   },
+   "original_post_url": "https://x.com/higgsfield_ai/status/2114862715550441733",
+   "posted_at": "2026-10-26T23:32:18.000Z",
+   "language": "en",
+   "duration_seconds": 30,
+   "views": 26448,
+   "likes": 376,
+   "bookmarks": 99,
+   "views_checked_at": "2026-10-28T06:51:45.678Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2114862651201449984/img/SSU0cfjl4f9Zl4ey.jpg",
+   "tools_reported": [
+    "Higgsfield",
+    "GPT-6.1 Terra"
+   ],
+   "reference_assets": false,
    "prompt": null,
    "resources": []
   },
@@ -40138,6 +40768,34 @@
    "resources": []
   },
   {
+   "id": "2114717745443127698",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "motion",
+   "title": {
+    "zh": "蝴蝶花朵像素风互动作品集",
+    "en": "Interactive pixel art portfolio with butterflies and flowers"
+   },
+   "creator": {
+    "handle": "ann_nnng",
+    "name": "Ann Nguyen"
+   },
+   "original_post_url": "https://x.com/ann_nnng/status/2114717745443127698",
+   "posted_at": "2026-10-26T13:56:14.000Z",
+   "language": "en",
+   "duration_seconds": 24,
+   "views": 25230,
+   "likes": 1152,
+   "bookmarks": 636,
+   "views_checked_at": "2026-10-28T06:51:45.678Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2114716361901686784/img/PAUL0Otd47rV0pIk.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2110385278246654052",
    "models": [
     "opus-5.5"
@@ -40771,6 +41429,43 @@
    ],
    "reference_assets": false,
    "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2114758798845841679",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "浮岛上的像素风网球俱乐部微缩场景",
+    "en": "Pixel-art tennis club diorama on a floating island"
+   },
+   "creator": {
+    "handle": "vib3coded",
+    "name": "Vib3Coded"
+   },
+   "original_post_url": "https://x.com/vib3coded/status/2114758798845841679",
+   "posted_at": "2026-10-26T16:39:22.000Z",
+   "language": "en",
+   "duration_seconds": 18,
+   "views": 24365,
+   "likes": 461,
+   "bookmarks": 364,
+   "views_checked_at": "2026-10-28T06:51:45.678Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2114758731049082880/img/DSD3sn_j7IVfklg_.jpg",
+   "tools_reported": [
+    "Three.js",
+    "GPT-6.1 Sol"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "full",
+    "source": "author_reply",
+    "source_url": "https://x.com/vib3coded/status/2114759030795329913",
+    "length": 2665,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2114758798845841679"
+   },
    "resources": []
   },
   {
@@ -42511,6 +43206,42 @@
    "tools_reported": [],
    "reference_assets": true,
    "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2114840067831128271",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "Blender 日落浮空风车农场岛对比",
+    "en": "Floating windmill farm island at sunset in Blender"
+   },
+   "creator": {
+    "handle": "MrTacticalX",
+    "name": "Mr Tactical"
+   },
+   "original_post_url": "https://x.com/MrTacticalX/status/2114840067831128271",
+   "posted_at": "2026-10-26T22:02:18.000Z",
+   "language": "en",
+   "duration_seconds": 69,
+   "views": 22330,
+   "likes": 130,
+   "bookmarks": 44,
+   "views_checked_at": "2026-10-28T06:51:45.678Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2114839899761242113/img/UkeGCJL15H64dJc0.jpg",
+   "tools_reported": [
+    "Blender"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "brief",
+    "source": "post",
+    "source_url": "https://x.com/MrTacticalX/status/2114840067831128271",
+    "length": 89,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2114840067831128271"
+   },
    "resources": []
   },
   {
@@ -44556,6 +45287,42 @@
    "resources": []
   },
   {
+   "id": "2114821178959565267",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "浏览器中运行的开放世界岛屿",
+    "en": "Open world island running in the browser"
+   },
+   "creator": {
+    "handle": "prasenx",
+    "name": "Prasenjit"
+   },
+   "original_post_url": "https://x.com/prasenx/status/2114821178959565267",
+   "posted_at": "2026-10-26T20:47:15.000Z",
+   "language": "en",
+   "duration_seconds": 30,
+   "views": 20410,
+   "likes": 341,
+   "bookmarks": 153,
+   "views_checked_at": "2026-10-28T06:51:45.678Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2114820535502970880/img/BH8nV42-ivNMK5Oc.jpg",
+   "tools_reported": [
+    "Cursor"
+   ],
+   "reference_assets": true,
+   "prompt": {
+    "kind": "brief",
+    "source": "post",
+    "source_url": "https://x.com/prasenx/status/2114821178959565267",
+    "length": 51,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2114821178959565267"
+   },
+   "resources": []
+  },
+  {
    "id": "2108902793797091808",
    "models": [
     "opus-5.5"
@@ -44955,6 +45722,34 @@
    "bookmarks": 115,
    "views_checked_at": "2026-10-26T08:36:05.702Z",
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2103517186556149760/img/no1yeGf0igm0zY4S.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2114805369167843330",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "两款模型生成效果并排对比",
+    "en": "Side-by-side model output test"
+   },
+   "creator": {
+    "handle": "Mr_Salio",
+    "name": "Salio"
+   },
+   "original_post_url": "https://x.com/Mr_Salio/status/2114805369167843330",
+   "posted_at": "2026-10-26T19:44:25.000Z",
+   "language": "en",
+   "duration_seconds": 32,
+   "views": 19946,
+   "likes": 156,
+   "bookmarks": 10,
+   "views_checked_at": "2026-10-28T06:51:45.678Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2114805280290525185/img/kTMjh0k1wztZK3Tm.jpg",
    "tools_reported": [],
    "reference_assets": false,
    "prompt": null,
@@ -45588,6 +46383,34 @@
    "bookmarks": 271,
    "views_checked_at": "2026-10-26T08:36:05.702Z",
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2107109962237534208/img/8nucCwj4oDU6rOtt.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2114864217346179511",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "鹈鹕骑车测试：自行车上越叠越多",
+    "en": "Pelican on a bicycle test with stacked objects"
+   },
+   "creator": {
+    "handle": "higgsfield_ai",
+    "name": "Higgsfield AI 🧩"
+   },
+   "original_post_url": "https://x.com/higgsfield_ai/status/2114864217346179511",
+   "posted_at": "2026-10-26T23:38:16.000Z",
+   "language": "en",
+   "duration_seconds": 12,
+   "views": 19438,
+   "likes": 144,
+   "bookmarks": 15,
+   "views_checked_at": "2026-10-28T06:51:45.678Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2114864053546008576/img/TomCW5uRaJ19_1Ku.jpg",
    "tools_reported": [],
    "reference_assets": false,
    "prompt": null,
@@ -47191,6 +48014,34 @@
    "resources": []
   },
   {
+   "id": "2114756330997055501",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "education",
+   "title": {
+    "zh": "Anthropic上市招股书要点解读视频",
+    "en": "Explainer video on Anthropic's S-1 filing highlights"
+   },
+   "creator": {
+    "handle": "tunguz",
+    "name": "Bojan Tunguz"
+   },
+   "original_post_url": "https://x.com/tunguz/status/2114756330997055501",
+   "posted_at": "2026-10-26T16:29:34.000Z",
+   "language": "en",
+   "duration_seconds": 286,
+   "views": 18414,
+   "likes": 137,
+   "bookmarks": 82,
+   "views_checked_at": "2026-10-28T06:51:45.678Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2114755590018813953/img/HIfYJSnBA-ygQV8U.jpg",
+   "tools_reported": [],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2110020120865313063",
    "models": [
     "opus-5.5"
@@ -48025,6 +48876,36 @@
    "reference_assets": true,
    "prompt": null,
    "resources": []
+  },
+  {
+   "id": "2114715384310046928",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "motion",
+   "title": {
+    "zh": "根据PDF指南制作的动效动画",
+    "en": "Motion graphic animation made from a PDF guide"
+   },
+   "creator": {
+    "handle": "seeconvm",
+    "name": "seeco"
+   },
+   "original_post_url": "https://x.com/seeconvm/status/2114715384310046928",
+   "posted_at": "2026-10-26T13:46:51.000Z",
+   "language": "en",
+   "duration_seconds": 14,
+   "views": 17753,
+   "likes": 122,
+   "bookmarks": 177,
+   "views_checked_at": "2026-10-28T06:51:45.678Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2114714360404652032/img/OOsTxNZ89uLk1Znh.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": [
+    "https://drive.google.com/file/d/1NPfMGmks_CJxWLJESaM6r2rODUGEi0-3/view?usp=sharing"
+   ]
   },
   {
    "id": "2103601538551918743",
@@ -49085,6 +49966,36 @@
    "resources": []
   },
   {
+   "id": "2114639979703939079",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "education",
+   "title": {
+    "zh": "3D生物书：小肠中的消化过程",
+    "en": "3D biology book: digestion in the small intestine"
+   },
+   "creator": {
+    "handle": "exploraX_",
+    "name": "m0h"
+   },
+   "original_post_url": "https://x.com/exploraX_/status/2114639979703939079",
+   "posted_at": "2026-10-26T08:47:13.000Z",
+   "language": "en",
+   "duration_seconds": 53,
+   "views": 16944,
+   "likes": 554,
+   "bookmarks": 491,
+   "views_checked_at": "2026-10-28T06:51:45.678Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2114638187511377920/img/V3RRisYsb7ddro3s.jpg",
+   "tools_reported": [
+    "Three.js"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2112213850682536223",
    "models": [
     "opus-5.5"
@@ -49480,6 +50391,37 @@
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2103640178724401152/img/20oN21fSXuBFa5yS.jpg",
    "tools_reported": [],
    "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2114863517526577498",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "从点亮LED到自动浇花的电子入门课",
+    "en": "Electronics lesson from LED to plant watering"
+   },
+   "creator": {
+    "handle": "higgsfield_ai",
+    "name": "Higgsfield AI 🧩"
+   },
+   "original_post_url": "https://x.com/higgsfield_ai/status/2114863517526577498",
+   "posted_at": "2026-10-26T23:35:29.000Z",
+   "language": "en",
+   "duration_seconds": 40,
+   "views": 16427,
+   "likes": 167,
+   "bookmarks": 76,
+   "views_checked_at": "2026-10-28T06:51:45.678Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2114862905011400704/img/MT9Oe5yz4iGq8X6B.jpg",
+   "tools_reported": [
+    "Higgsfield",
+    "GPT-6.1 Terra"
+   ],
+   "reference_assets": false,
    "prompt": null,
    "resources": []
   },
@@ -51068,6 +52010,41 @@
    "views_checked_at": "2026-10-26T08:36:05.702Z",
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2103823565569343488/img/8N4EWsoUkufsNGjB.jpg",
    "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2114825374961897939",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "液态形状路径追踪渲染网页工具",
+    "en": "Browser tool for path-traced liquid shape loops"
+   },
+   "creator": {
+    "handle": "aecyydesign",
+    "name": "Szymon"
+   },
+   "original_post_url": "https://x.com/aecyydesign/status/2114825374961897939",
+   "posted_at": "2026-10-26T21:03:55.000Z",
+   "language": "en",
+   "duration_seconds": 10,
+   "views": 15254,
+   "likes": 387,
+   "bookmarks": 286,
+   "views_checked_at": "2026-10-28T06:51:45.678Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2114825124348145665/img/nh-GKy5ntNmhMRht.jpg",
+   "tools_reported": [
+    "Claude Code",
+    "Toolcraft",
+    "React",
+    "WebGL2",
+    "OIDN",
+    "WebGPU"
+   ],
    "reference_assets": false,
    "prompt": null,
    "resources": []
@@ -52949,6 +53926,36 @@
     "length": 56,
     "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103308194852303245"
    },
+   "resources": []
+  },
+  {
+   "id": "2114837324521783564",
+   "models": [
+    "sonnet-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "同一提示词的效果、耗时与成本对比",
+    "en": "Same-prompt build test with time and cost"
+   },
+   "creator": {
+    "handle": "notjazii",
+    "name": "J A Z I I"
+   },
+   "original_post_url": "https://x.com/notjazii/status/2114837324521783564",
+   "posted_at": "2026-10-26T21:51:24.000Z",
+   "language": "en",
+   "duration_seconds": 34,
+   "views": 13938,
+   "likes": 194,
+   "bookmarks": 30,
+   "views_checked_at": "2026-10-28T06:51:45.678Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2114837241575116800/img/cJz_fHzXQCouT8nW.jpg",
+   "tools_reported": [
+    "GPT-6.1 Terra"
+   ],
+   "reference_assets": false,
+   "prompt": null,
    "resources": []
   },
   {
@@ -54923,6 +55930,65 @@
    "resources": []
   },
   {
+   "id": "2114775035575496991",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "game",
+   "title": {
+    "zh": "《恶霸鲁尼》故事模式移植至虚幻引擎",
+    "en": "Bully story mode with cutscenes ported to Unreal"
+   },
+   "creator": {
+    "handle": "ashen_one",
+    "name": "ashen"
+   },
+   "original_post_url": "https://x.com/ashen_one/status/2114775035575496991",
+   "posted_at": "2026-10-26T17:43:53.000Z",
+   "language": "en",
+   "duration_seconds": 354,
+   "views": 12853,
+   "likes": 268,
+   "bookmarks": 99,
+   "views_checked_at": "2026-10-28T06:51:45.678Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2114772006600081408/img/FwQKefqt6buKZRur.jpg",
+   "tools_reported": [
+    "Unreal Engine",
+    "Devin"
+   ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2114896177099657535",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "education",
+   "title": {
+    "zh": "OpenAI三项新发现讲解视频",
+    "en": "Explainer on OpenAI's three new discoveries"
+   },
+   "creator": {
+    "handle": "iScienceLuvr",
+    "name": "Tanishq Mathew Abraham, Ph.D."
+   },
+   "original_post_url": "https://x.com/iScienceLuvr/status/2114896177099657535",
+   "posted_at": "2026-10-27T01:45:16.000Z",
+   "language": "en",
+   "duration_seconds": 536,
+   "views": 12817,
+   "likes": 160,
+   "bookmarks": 115,
+   "views_checked_at": "2026-10-28T06:51:45.678Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2114895945523712000/img/trCjAMjkP7LFT_Zu.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2112861737980494273",
    "models": [
     "sonnet-5.5"
@@ -55180,6 +56246,39 @@
    "reference_assets": true,
    "prompt": null,
    "resources": []
+  },
+  {
+   "id": "2114670214365491269",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "天空云朵绘制",
+    "en": "Drawing clouds in the sky"
+   },
+   "creator": {
+    "handle": "TypingMindApp",
+    "name": "TypingMind"
+   },
+   "original_post_url": "https://x.com/TypingMindApp/status/2114670214365491269",
+   "posted_at": "2026-10-26T10:47:22.000Z",
+   "language": "en",
+   "duration_seconds": 41,
+   "views": 12741,
+   "likes": 110,
+   "bookmarks": 48,
+   "views_checked_at": "2026-10-28T06:51:45.678Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2114669639934603264/img/FUZ0OJKwBbl_aR5w.jpg",
+   "tools_reported": [
+    "TypingMind",
+    "Kimi K3.1 Pro"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": [
+    "https://cloud.typingmind.com/share/b973811b-4c0e-4640-bf71-c13efd3f01fa"
+   ]
   },
   {
    "id": "2105346334069063963",
@@ -55724,6 +56823,37 @@
    "views_checked_at": "2026-10-26T08:36:05.702Z",
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2113706189594722304/img/rfkDwlJ2J59UyRxS.jpg",
    "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2114683465635655963",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "stories",
+   "title": {
+    "zh": "小角色被困高处向人类求救的短片",
+    "en": "Little character stranded up high asks a human for help"
+   },
+   "creator": {
+    "handle": "marichaadaisuki",
+    "name": "まりちゃだいすきクラブ"
+   },
+   "original_post_url": "https://x.com/marichaadaisuki/status/2114683465635655963",
+   "posted_at": "2026-10-26T11:40:01.000Z",
+   "language": "ja",
+   "duration_seconds": 33,
+   "views": 12461,
+   "likes": 216,
+   "bookmarks": 62,
+   "views_checked_at": "2026-10-28T06:51:45.678Z",
+   "thumbnail_url": "https://pbs.twimg.com/media/HVjdYfBakAESIUW.jpg",
+   "tools_reported": [
+    "Blender",
+    "MiniMax H3"
+   ],
    "reference_assets": false,
    "prompt": null,
    "resources": []
@@ -56468,6 +57598,34 @@
    "resources": []
   },
   {
+   "id": "2114819625242529992",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "舞者世界线时间雕塑互动作品",
+    "en": "Interactive dancer worldline time sculpture"
+   },
+   "creator": {
+    "handle": "techartist_",
+    "name": "Techartist"
+   },
+   "original_post_url": "https://x.com/techartist_/status/2114819625242529992",
+   "posted_at": "2026-10-26T20:41:04.000Z",
+   "language": "en",
+   "duration_seconds": 30,
+   "views": 12109,
+   "likes": 306,
+   "bookmarks": 136,
+   "views_checked_at": "2026-10-28T06:51:45.678Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2114818160989970432/img/Hq1jz09YLmHf6eZ_.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2107826840035635328",
    "models": [
     "opus-5.5"
@@ -57064,6 +58222,39 @@
    "reference_assets": false,
    "prompt": null,
    "resources": []
+  },
+  {
+   "id": "2114779295830679998",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "戴女巫帽吉祥物的万圣节3D循环动画",
+    "en": "Halloween 3D loop with witch-hat mascot and rigged models"
+   },
+   "creator": {
+    "handle": "flxrnc",
+    "name": "Florence"
+   },
+   "original_post_url": "https://x.com/flxrnc/status/2114779295830679998",
+   "posted_at": "2026-10-26T18:00:49.000Z",
+   "language": "en",
+   "duration_seconds": 24,
+   "views": 11793,
+   "likes": 109,
+   "bookmarks": 173,
+   "views_checked_at": "2026-10-28T06:51:45.678Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2114772802007863296/img/yG-MlwvYLd06g8j_.jpg",
+   "tools_reported": [
+    "Tripo",
+    "Three.js"
+   ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": [
+    "https://drive.google.com/file/d/1VVZAF6YLvx7CDh5mNcTW_SRtyVg0BnJb/view?usp=sharing"
+   ]
   },
   {
    "id": "2103621917785862229",
@@ -58603,6 +59794,38 @@
     "Higgsfield"
    ],
    "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2114718084418441431",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "stories",
+   "title": {
+    "zh": "装死的小龙短片",
+    "en": "Dragon playing possum short film"
+   },
+   "creator": {
+    "handle": "GlitterPixely",
+    "name": "Glitter Gal"
+   },
+   "original_post_url": "https://x.com/GlitterPixely/status/2114718084418441431",
+   "posted_at": "2026-10-26T13:57:35.000Z",
+   "language": "en",
+   "duration_seconds": 56,
+   "views": 11032,
+   "likes": 194,
+   "bookmarks": 70,
+   "views_checked_at": "2026-10-28T06:51:45.678Z",
+   "thumbnail_url": "https://pbs.twimg.com/media/HVj9EXrX0AADgFW.jpg",
+   "tools_reported": [
+    "Midjourney",
+    "Seedance 2.5",
+    "Topaz"
+   ],
+   "reference_assets": false,
    "prompt": null,
    "resources": []
   },
@@ -62286,6 +63509,34 @@
    "resources": []
   },
   {
+   "id": "2114815615156486362",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "蚂蚁爬过招股书的代码动画",
+    "en": "Ants crawling over a company filing, coded animation"
+   },
+   "creator": {
+    "handle": "kevin_t_ngo",
+    "name": "Kevin Ngo"
+   },
+   "original_post_url": "https://x.com/kevin_t_ngo/status/2114815615156486362",
+   "posted_at": "2026-10-26T20:25:08.000Z",
+   "language": "en",
+   "duration_seconds": 120,
+   "views": 9176,
+   "likes": 224,
+   "bookmarks": 59,
+   "views_checked_at": "2026-10-28T06:51:45.678Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2114812810744229888/img/9vmmejTQ3QrQvB8v.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2111431777781010510",
    "models": [
     "haiku-5.5"
@@ -62862,6 +64113,42 @@
    "tools_reported": [],
    "reference_assets": false,
    "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2114745463736082828",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "production",
+   "title": {
+    "zh": "用静态图和音乐制作的五条悟动漫混剪",
+    "en": "Satoru Gojo AMV from still images and music"
+   },
+   "creator": {
+    "handle": "aimikoda",
+    "name": "Kōda"
+   },
+   "original_post_url": "https://x.com/aimikoda/status/2114745463736082828",
+   "posted_at": "2026-10-26T15:46:23.000Z",
+   "language": "en",
+   "duration_seconds": 33,
+   "views": 8918,
+   "likes": 210,
+   "bookmarks": 162,
+   "views_checked_at": "2026-10-28T06:51:45.678Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2114745209930084352/img/OCWHZhwOhK7RXlhh.jpg",
+   "tools_reported": [
+    "Midjourney"
+   ],
+   "reference_assets": true,
+   "prompt": {
+    "kind": "full",
+    "source": "author_reply",
+    "source_url": "https://x.com/aimikoda/status/2114745768234144127",
+    "length": 2591,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2114745463736082828"
+   },
    "resources": []
   },
   {
@@ -63941,6 +65228,43 @@
    "tools_reported": [],
    "reference_assets": false,
    "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2114842660829860045",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "像素风乒乓球庭院微缩场景",
+    "en": "Pixel-art table tennis courtyard diorama"
+   },
+   "creator": {
+    "handle": "vib3coded",
+    "name": "Vib3Coded"
+   },
+   "original_post_url": "https://x.com/vib3coded/status/2114842660829860045",
+   "posted_at": "2026-10-26T22:12:36.000Z",
+   "language": "en",
+   "duration_seconds": 17,
+   "views": 8460,
+   "likes": 162,
+   "bookmarks": 75,
+   "views_checked_at": "2026-10-28T06:51:45.678Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2114842610950942720/img/bTB9oddCWsxouybR.jpg",
+   "tools_reported": [
+    "Three.js",
+    "GPT-6.1 Terra"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "full",
+    "source": "author_reply",
+    "source_url": "https://x.com/vib3coded/status/2114842861766087147",
+    "length": 2720,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2114842660829860045"
+   },
    "resources": []
   },
   {
@@ -66103,6 +67427,34 @@
    "resources": []
   },
   {
+   "id": "2114890266192515520",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "stories",
+   "title": {
+    "zh": "片场上的智能体短动画",
+    "en": "Agent on a film set short animation"
+   },
+   "creator": {
+    "handle": "devteamdrew",
+    "name": "DreW"
+   },
+   "original_post_url": "https://x.com/devteamdrew/status/2114890266192515520",
+   "posted_at": "2026-10-27T01:21:46.000Z",
+   "language": "en",
+   "duration_seconds": 47,
+   "views": 7399,
+   "likes": 182,
+   "bookmarks": 68,
+   "views_checked_at": "2026-10-28T06:51:45.678Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2114889297492955137/img/woQM1Ajzvciy94OI.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2114316443261002226",
    "models": [
     "opus-5.5"
@@ -66162,6 +67514,39 @@
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2112027534355562496/img/rqK--irjol-lpGx8.jpg",
    "tools_reported": [
     "Tsubaki 3"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2114863015577465302",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "黏土风格贴图村庄地图",
+    "en": "Clay-style textured village map"
+   },
+   "creator": {
+    "handle": "rehan_shei",
+    "name": "Rehan Sheikh"
+   },
+   "original_post_url": "https://x.com/rehan_shei/status/2114863015577465302",
+   "posted_at": "2026-10-26T23:33:29.000Z",
+   "language": "en",
+   "duration_seconds": 18,
+   "views": 7357,
+   "likes": 120,
+   "bookmarks": 152,
+   "views_checked_at": "2026-10-28T06:51:45.678Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2114862899844075520/img/yLv1nmo4Ms7dbYJD.jpg",
+   "tools_reported": [
+    "Trompe",
+    "Blender",
+    "FLUX 3 Klein",
+    "Fibo 2"
    ],
    "reference_assets": false,
    "prompt": null,
@@ -66383,6 +67768,34 @@
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2103675519258755072/img/7kvdD1Ihe9RpoMsQ.jpg",
    "tools_reported": [],
    "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2114703675264291003",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "motion",
+   "title": {
+    "zh": "146个机器人的黑灯工厂动画",
+    "en": "Animated dark factory with 146 robot workers"
+   },
+   "creator": {
+    "handle": "0xwhrrari",
+    "name": "rari🈀"
+   },
+   "original_post_url": "https://x.com/0xwhrrari/status/2114703675264291003",
+   "posted_at": "2026-10-26T13:00:20.000Z",
+   "language": "en",
+   "duration_seconds": 21,
+   "views": 7152,
+   "likes": 109,
+   "bookmarks": 87,
+   "views_checked_at": "2026-10-28T06:51:45.678Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2114691037423685632/img/McOV9dGFPPZ3zk-T.jpg",
+   "tools_reported": [],
+   "reference_assets": true,
    "prompt": null,
    "resources": []
   },
@@ -66724,6 +68137,34 @@
    "tools_reported": [
     "Codex"
    ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2114675490057273405",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "game",
+   "title": {
+    "zh": "像素风多人合作街机格斗游戏",
+    "en": "Pixel art co-op arcade beat 'em up"
+   },
+   "creator": {
+    "handle": "zer0point_eth",
+    "name": "Zero"
+   },
+   "original_post_url": "https://x.com/zer0point_eth/status/2114675490057273405",
+   "posted_at": "2026-10-26T11:08:20.000Z",
+   "language": "en",
+   "duration_seconds": 91,
+   "views": 7017,
+   "likes": 144,
+   "bookmarks": 81,
+   "views_checked_at": "2026-10-28T06:51:45.678Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2114675325917356032/img/y3DFkwHeKEgubJOO.jpg",
+   "tools_reported": [],
    "reference_assets": false,
    "prompt": null,
    "resources": []
@@ -67079,6 +68520,43 @@
    ],
    "reference_assets": false,
    "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2114894485389791613",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "像素风冬日冰球场景对比",
+    "en": "Pixel art winter hockey scene comparison"
+   },
+   "creator": {
+    "handle": "N1njaCodex",
+    "name": "NinjaCodex"
+   },
+   "original_post_url": "https://x.com/N1njaCodex/status/2114894485389791613",
+   "posted_at": "2026-10-27T01:38:32.000Z",
+   "language": "en",
+   "duration_seconds": 16,
+   "views": 6796,
+   "likes": 175,
+   "bookmarks": 102,
+   "views_checked_at": "2026-10-28T06:51:45.678Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2114894428850487296/img/GI1alH0Wa-kahkmR.jpg",
+   "tools_reported": [
+    "Three.js",
+    "GPT-6.1 Terra"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "full",
+    "source": "author_reply",
+    "source_url": "https://x.com/N1njaCodex/status/2114894686343049263",
+    "length": 2743,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2114894485389791613"
+   },
    "resources": []
   },
   {

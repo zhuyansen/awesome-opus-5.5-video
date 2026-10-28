@@ -1,6 +1,6 @@
 # 产品广告
 
-共 229 个作品，其中 43 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 230 个作品，其中 43 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [密室逃脱游戏介绍视频](https://x.com/moya_vc/status/2103681038862147977) | Opus 5.5 | [@moya_vc](https://x.com/moya_vc) | 1:41 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103681038862147977) |
 | [访客分享功能演示](https://x.com/theo/status/2114238361967988747) | Opus 5.5 | [@theo](https://x.com/theo) | 0:19 | — |
 | [快节奏品牌广告](https://x.com/LexnLin/status/2106101651010449796) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 0:14 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2106101651010449796) |
+| [订阅管理应用界面设计](https://x.com/amine_prcs/status/2114678483213234526) | Opus 5.5 | [@amine_prcs](https://x.com/amine_prcs) | 0:46 | — |
 | [Sonnet 5.5自制游戏预告片](https://x.com/0xPaulius/status/2105368838699204717) | Sonnet 5.5 | [@0xPaulius](https://x.com/0xPaulius) | 0:27 | — |
 | [Opus 5.5 生成的产品宣传视频](https://x.com/decohack/status/2102621064518160485) | Opus 5.5 | [@decohack](https://x.com/decohack) | 0:39 | — |
 | [加州农田互动地图](https://x.com/sabhyac267/status/2109751973625110827) | Opus 5.5 | [@sabhyac267](https://x.com/sabhyac267) | 0:14 | — |

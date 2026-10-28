@@ -1,6 +1,6 @@
 # Games
 
-392 works, 55 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+395 works, 55 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -218,6 +218,7 @@
 | [Trailer Park Warfare browser shooter game](https://x.com/KaladinOG/status/2112624828767154621) | Opus 5.5 | [@KaladinOG](https://x.com/KaladinOG) | 0:52 | — |
 | [Browser MMORPG asset and animation pipeline](https://x.com/kokushing/status/2112114532763963615) | Opus 5.5 | [@kokushing](https://x.com/kokushing) | 2:21 | — |
 | [Browser MMORPG prototype built in Three.js](https://x.com/PawelJLisowski/status/2109952769171800391) | Opus 5.5 | [@PawelJLisowski](https://x.com/PawelJLisowski) | 0:53 | — |
+| [Detailed 3D browser game with generated assets](https://x.com/gkxspace/status/2114923036516471083) | Opus 5.5 | [@gkxspace](https://x.com/gkxspace) | 1:05 | — |
 | [3D game remake built with Opus 5.5](https://x.com/Graalitoo/status/2108735367331672201) | Opus 5.5 | [@Graalitoo](https://x.com/Graalitoo) | 3:34 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2108735367331672201) |
 | [Roblox game with shop, pets and cash systems](https://x.com/ai_growth_avii/status/2111118746786165033) | Opus 5.5 | [@ai_growth_avii](https://x.com/ai_growth_avii) | 0:52 | — |
 | [3D browser game world iteration](https://x.com/LexnLin/status/2111181126144594043) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 1:00 | — |
@@ -312,6 +313,7 @@
 | [SCP-096 horror game built in Godot with Claude Opus 5.5](https://x.com/imjustnewatai/status/2105596869720322429) | Opus 5.5 | [@imjustnewatai](https://x.com/imjustnewatai) | 1:53 | — |
 | [Final boss](https://x.com/_brightmirror/status/2111539098234310975) | Opus 5.5 | [@_brightmirror](https://x.com/_brightmirror) | 5:58 | — |
 | [Horror game built with Sonnet 5.5](https://x.com/The_Alex/status/2104640571004567617) | Sonnet 5.5 | [@The_Alex](https://x.com/The_Alex) | 5:13 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104640571004567617) |
+| [Bully story mode with cutscenes ported to Unreal](https://x.com/ashen_one/status/2114775035575496991) | Opus 5.5 | [@ashen_one](https://x.com/ashen_one) | 5:54 | — |
 | [3D arena combat game](https://x.com/jumperz/status/2110696310340718884) | Opus 5.5 | [@jumperz](https://x.com/jumperz) | 2:37 | — |
 | [Space-themed multiplayer racing game](https://x.com/Rubzem/status/2105346334069063963) | Opus 5.5 | [@Rubzem](https://x.com/Rubzem) | 0:26 | — |
 | [Robot action game in a retro style](https://x.com/shi3z/status/2102671033224622469) | Opus 5.5 | [@shi3z](https://x.com/shi3z) | 0:48 | — |
@@ -383,6 +385,7 @@
 | [Minecraft Content in Red Dead Redemption 2](https://x.com/Roxx_0x/status/2107698613379838294) | Opus 5.5 | [@Roxx_0x](https://x.com/Roxx_0x) | 1:11 | — |
 | [Steve in GTA V under a Wither Storm](https://x.com/bonnyxen/status/2109056524496892098) | Opus 5.5 | [@bonnyxen](https://x.com/bonnyxen) | 3:37 | — |
 | [Octopath-style mahjong roguelike game](https://x.com/ezshine/status/2103574793262141636) | Opus 5.5 | [@ezshine](https://x.com/ezshine) | 0:40 | — |
+| [Pixel art co-op arcade beat 'em up](https://x.com/zer0point_eth/status/2114675490057273405) | Opus 5.5 | [@zer0point_eth](https://x.com/zer0point_eth) | 1:31 | — |
 | [Cozy boat game for learning Japanese kanji](https://x.com/icreatelife/status/2113022598368067751) | Opus 5.5 | [@icreatelife](https://x.com/icreatelife) | 2:25 | — |
 | [One-finger playable Sekiro clone](https://x.com/plum_very/status/2103481769999876528) | Opus 5.5 | [@plum_very](https://x.com/plum_very) | 1:08 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103481769999876528) |
 | [Website destruction browser toy](https://x.com/AbhinavXJ/status/2110632478985867426) | Opus 5.5 | [@AbhinavXJ](https://x.com/AbhinavXJ) | 0:26 | — |

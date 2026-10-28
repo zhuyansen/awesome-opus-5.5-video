@@ -1,6 +1,6 @@
 # Explainers & education
 
-187 works, 51 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+192 works, 52 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Diffusion model diagram explainer](https://x.com/DotCSV/status/2102810407928819866) | Opus 5.5 | [@DotCSV](https://x.com/DotCSV) | 0:21 | — |
 | [History of Claude model releases explainer](https://x.com/superalesha/status/2102463796149440888) | Opus 5.5 | [@superalesha](https://x.com/superalesha) | 1:28 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102463796149440888) |
 | [Recursion explainer with shifting video styles](https://x.com/emollick/status/2103688362960019567) | Opus 5.5 | [@emollick](https://x.com/emollick) | 1:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103688362960019567) |
+| [Interactive ESP32 circuit lessons](https://x.com/DilumSanjaya/status/2114762155333689679) | Opus 5.5 | [@DilumSanjaya](https://x.com/DilumSanjaya) | 1:47 | — |
 | [Animated pelican explains a shell command](https://x.com/goodside/status/2103149526244618682) | Opus 5.5 | [@goodside](https://x.com/goodside) | 0:30 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103149526244618682) |
 | [Documentary on why people move to cities](https://x.com/JorgeGalindo/status/2103811849129234909) | Opus 5.5 | [@JorgeGalindo](https://x.com/JorgeGalindo) | 32:47 | — |
 | [Narrated explainer video via a TTS integration](https://x.com/doerstokyo342/status/2103034063816905109) | Opus 5.5 | [@doerstokyo342](https://x.com/doerstokyo342) | 0:34 | — |
@@ -109,6 +110,7 @@
 | [Battle of Sekigahara animated explainer](https://x.com/tkz_aiart/status/2105271839698428235) | Opus 5.5 | [@tkz_aiart](https://x.com/tkz_aiart) | 2:15 | — |
 | [Interactive electronics boards build-and-break lesson site](https://x.com/zodchiii/status/2113234379954888790) | Opus 5.5 | [@zodchiii](https://x.com/zodchiii) | 0:35 | — |
 | [Netflix-style explainer reel about El Nino](https://x.com/hanifproduktif/status/2103656501579862155) | Opus 5.5 | [@hanifproduktif](https://x.com/hanifproduktif) | 2:30 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103656501579862155) |
+| [Explainer video on JEM self-supervised learning paper](https://x.com/iScienceLuvr/status/2114676265093664978) | Opus 5.5 | [@iScienceLuvr](https://x.com/iScienceLuvr) | 26:01 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2114676265093664978) |
 | [Trace rarity system explainer video](https://x.com/traceforms/status/2105029763421147460) | Opus 5.5 | [@traceforms](https://x.com/traceforms) | 1:18 | — |
 | [GPT model history explainer animation](https://x.com/yanhua1010/status/2102610348427911592) | Opus 5.5 | [@yanhua1010](https://x.com/yanhua1010) | 1:30 | — |
 | [Chinese architecture history explainer](https://x.com/akokoi1/status/2103650399773475318) | Opus 5.5 | [@akokoi1](https://x.com/akokoi1) | 1:35 | — |
@@ -142,11 +144,13 @@
 | [Explainer video of 9 football rules](https://x.com/lukasersil/status/2105922894924501283) | Opus 5.5 | [@lukasersil](https://x.com/lukasersil) | 1:09 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2105922894924501283) |
 | [Seasons and day/night cycle explainer for kids](https://x.com/KashPrime/status/2103862007208591605) | Opus 5.5 | [@KashPrime](https://x.com/KashPrime) | 3:06 | — |
 | [History of humanity animation](https://x.com/blueemi99/status/2106041578204655748) | Fable 5.5 (preview) | [@blueemi99](https://x.com/blueemi99) | 2:00 | — |
+| [Explainer video on Anthropic's S-1 filing highlights](https://x.com/tunguz/status/2114756330997055501) | Opus 5.5 | [@tunguz](https://x.com/tunguz) | 4:46 | — |
 | [3D IKEA assembly instructions](https://x.com/numaausaumon/status/2112214425910595901) | Opus 5.5 | [@numaausaumon](https://x.com/numaausaumon) | 1:15 | — |
 | [Explainer on personal benchmarks](https://x.com/danshipper/status/2103678798827020298) | Opus 5.5 | [@danshipper](https://x.com/danshipper) | 2:52 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103678798827020298) |
 | [Consciousness tests reenacted](https://x.com/VoidStateKate/status/2106848736609808531) | Opus 5.5 | [@VoidStateKate](https://x.com/VoidStateKate) | 1:27 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2106848736609808531) |
 | [3Blue1Brown-style explainer of the attention mechanism](https://x.com/Michaelzsguo/status/2103433947040415996) | Opus 5.5 | [@Michaelzsguo](https://x.com/Michaelzsguo) | 4:40 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103433947040415996) |
 | [Explainer video comparing Gemini TTS options](https://x.com/seiiiiiiiiiiru/status/2103590369816375359) | Opus 5.5 | [@seiiiiiiiiiiru](https://x.com/seiiiiiiiiiiru) | 0:30 | — |
+| [3D biology book: digestion in the small intestine](https://x.com/exploraX_/status/2114639979703939079) | Opus 5.5 | [@exploraX_](https://x.com/exploraX_) | 0:53 | — |
 | [Roman Empire Documentary](https://x.com/tkz_aiart/status/2105983802367688910) | Opus 5.5 | [@tkz_aiart](https://x.com/tkz_aiart) | 2:16 | — |
 | [Ethereum quantum-resistance roadmap explainer](https://x.com/0xmamedai/status/2102715649185423426) | Opus 5.5 | [@0xmamedai](https://x.com/0xmamedai) | 2:17 | — |
 | [Battle of Guandu history documentary](https://x.com/Cryptoxorz/status/2110274762060837004) | Opus 5.5 | [@Cryptoxorz](https://x.com/Cryptoxorz) | 10:36 | — |
@@ -161,6 +165,7 @@
 | [Interactive historical map of Istanbul](https://x.com/cahidarda/status/2103218970115678497) | Opus 5.5 | [@cahidarda](https://x.com/cahidarda) | 0:10 | — |
 | [Interactive Lamborghini FL3 tractor diesel engine](https://x.com/exploraX_/status/2112130961714385214) | Opus 5.5 | [@exploraX_](https://x.com/exploraX_) | 0:42 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2112130961714385214) |
 | [Tesla Roadster explainer video](https://x.com/KeWai386772/status/2111440772998599022) | Opus 5.5 | [@KeWai386772](https://x.com/KeWai386772) | 2:54 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2111440772998599022) |
+| [Explainer on OpenAI's three new discoveries](https://x.com/iScienceLuvr/status/2114896177099657535) | Opus 5.5 | [@iScienceLuvr](https://x.com/iScienceLuvr) | 8:56 | — |
 | [Grok Bot template video guide](https://x.com/yaohongan2025/status/2114335185915269293) | Opus 5.5 | [@yaohongan2025](https://x.com/yaohongan2025) | 2:56 | — |
 | [Plate tectonics music video animation](https://x.com/kevin_t_ngo/status/2108208479358026208) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 2:21 | — |
 | [Interactive robotics engineering lab](https://x.com/0xForem/status/2113624961822646351) | Opus 5.5 | [@0xForem](https://x.com/0xForem) | 0:46 | — |

@@ -1,6 +1,6 @@
 # Music, editing & production
 
-160 works, 30 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+162 works, 31 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [One-shot AI video edit](https://x.com/FxChaos/status/2102990431940415738) | Opus 5.5 | [@FxChaos](https://x.com/FxChaos) | 1:09 | — |
 | [Generative music theory composition in code](https://x.com/dadabots/status/2103039181266338276) | Opus 5.5 | [@dadabots](https://x.com/dadabots) | 0:24 | — |
 | [Visual coding-agent harness demo](https://x.com/adocomplete/status/2103293477912268813) | Opus 5.5 | [@adocomplete](https://x.com/adocomplete) | 0:43 | — |
+| [AI-generated video clip](https://x.com/AiwithAlyar/status/2114609717758820574) | Opus 5.5 | [@AiwithAlyar](https://x.com/AiwithAlyar) | 0:46 | — |
 | [Techno music composition](https://x.com/Dr_Singularity/status/2104013854909116657) | Opus 5.5 | [@Dr_Singularity](https://x.com/Dr_Singularity) | 5:02 | — |
 | [Voice cloning short video with multi-tool pipeline](https://x.com/masahirochaen/status/2103872865770836012) | Opus 5.5 | [@masahirochaen](https://x.com/masahirochaen) | 0:57 | — |
 | [AI avatar video podcast demo](https://x.com/nakazakifam/status/2111929310256984210) | Opus 5.5 | [@nakazakifam](https://x.com/nakazakifam) | 2:04 | — |
@@ -148,6 +149,7 @@
 | [AI video editing from raw footage](https://x.com/lewangx/status/2103523508957446423) | Opus 5.5 | [@lewangx](https://x.com/lewangx) | 0:42 | — |
 | [Excel stop-motion animation with Blender](https://x.com/aicreataro/status/2109892378383540394) | Opus 5.5 | [@aicreataro](https://x.com/aicreataro) | 1:01 | — |
 | [Custom video editor app built with AI](https://x.com/SoyMrBro/status/2103135398226735139) | Opus 5.5 | [@SoyMrBro](https://x.com/SoyMrBro) | 0:31 | — |
+| [Satoru Gojo AMV from still images and music](https://x.com/aimikoda/status/2114745463736082828) | Opus 5.5 | [@aimikoda](https://x.com/aimikoda) | 0:33 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2114745463736082828) |
 | [Fully edited talking-head reel with b-roll](https://x.com/rpnickson/status/2113727289355554829) | Opus 5.5 | [@rpnickson](https://x.com/rpnickson) | 1:54 | — |
 | [28-second short film](https://x.com/N01ennn/status/2112882581809025189) | Opus 5.5 | [@N01ennn](https://x.com/N01ennn) | 0:37 | — |
 | [Archival-style bilingual speech video](https://x.com/huangyun_122/status/2114417230792491070) | Opus 5.5 | [@huangyun_122](https://x.com/huangyun_122) | 1:32 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2114417230792491070) |
