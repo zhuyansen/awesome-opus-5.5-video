@@ -1,6 +1,6 @@
 # 科普讲解
 
-共 192 个作品，其中 52 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 197 个作品，其中 52 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [记忆系统可视化](https://x.com/RileyRalmuto/status/2106067156949520616) | Opus 5.5 | [@RileyRalmuto](https://x.com/RileyRalmuto) | 0:56 | — |
 | [浏览器工作原理讲解动画](https://x.com/DataChaz/status/2103020750060028222) | Opus 5.5 | [@DataChaz](https://x.com/DataChaz) | 0:40 | — |
 | [密码与通行密钥互动讲解视频](https://x.com/Tz_2022/status/2102838830285898214) | Opus 5.5 | [@Tz_2022](https://x.com/Tz_2022) | 4:09 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102838830285898214) |
+| [一分钟动画科普短片](https://x.com/Aygramm_/status/2115166136212111369) | Opus 5.5 | [@Aygramm_](https://x.com/Aygramm_) | 0:55 | — |
 | [驱动蛋白粘土动画讲解](https://x.com/JacobMolBio/status/2102569129026916389) | Opus 5.5 | [@JacobMolBio](https://x.com/JacobMolBio) | 0:23 | — |
 | [燃气轮机历史讲解视频](https://x.com/Xaraphim/status/2103576037426917779) | Opus 5.5 | [@Xaraphim](https://x.com/Xaraphim) | 2:08 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103576037426917779) |
 | [Opus 5.5自我介绍讲解视频](https://x.com/_caty2_/status/2102473582333050959) | Opus 5.5 | [@_caty2_](https://x.com/_caty2_) | 1:18 | — |
@@ -160,6 +161,7 @@
 | [植物生理3D水族箱式可视化](https://x.com/sonia_code/status/2103774074505949448) | Opus 5.5 | [@sonia_code](https://x.com/sonia_code) | 0:21 | — |
 | [光合作用艺术讲解动画](https://x.com/devteamdrew/status/2111172786286690324) | Opus 5.5 / Sonnet 5.5 | [@devteamdrew](https://x.com/devteamdrew) | 0:47 | — |
 | [古斯巴达行军歌曲重现](https://x.com/iosif_lazaridis/status/2103948875929358687) | Opus 5.5 | [@iosif_lazaridis](https://x.com/iosif_lazaridis) | 3:08 | — |
+| [ChatGPT 插件安装说明网站](https://x.com/mmmiyama_D/status/2115203917277716899) | Opus 5.5 | [@mmmiyama_D](https://x.com/mmmiyama_D) | 0:06 | — |
 | [带机械臂扫地机器人工作原理分步讲解](https://x.com/0x_fokki/status/2114036526015504736) | Opus 5.5 | [@0x_fokki](https://x.com/0x_fokki) | 0:35 | — |
 | [北京城历史变迁地图科普视频](https://x.com/KinGao476942/status/2112486220249133118) | Opus 5.5 | [@KinGao476942](https://x.com/KinGao476942) | 2:26 | — |
 | [伊斯坦布尔历史地图互动项目](https://x.com/cahidarda/status/2103218970115678497) | Opus 5.5 | [@cahidarda](https://x.com/cahidarda) | 0:10 | — |
@@ -173,6 +175,7 @@
 | [查询扇出讲解视频](https://x.com/harpreetchatha_/status/2103591810253914585) | Opus 5.5 | [@harpreetchatha_](https://x.com/harpreetchatha_) | 0:20 | — |
 | [原子弹历史三维短片](https://x.com/imjustnewatai/status/2106238699872956427) | Fable 5.5 (preview) | [@imjustnewatai](https://x.com/imjustnewatai) | 3:00 | — |
 | [AI发展史动画时间线视频](https://x.com/kloss_xyz/status/2103652674336067876) | Opus 5.5 | [@kloss_xyz](https://x.com/kloss_xyz) | 2:52 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103652674336067876) |
+| [越南筒子楼防台风互动模拟](https://x.com/anxuanng/status/2115175640198783107) | Opus 5.5 | [@anxuanng](https://x.com/anxuanng) | 0:30 | — |
 | [专注力指南动画讲解](https://x.com/chetaslua/status/2113229122596163955) | Opus 5.5 / Fable 5.5 (preview) | [@chetaslua](https://x.com/chetaslua) | 2:12 | — |
 | [AMD股票分析报告视频](https://x.com/AIStockSavvy/status/2103538925004628355) | Opus 5.5 | [@AIStockSavvy](https://x.com/AIStockSavvy) | 0:50 | — |
 | [3Blue1Brown风格论文讲解动画](https://x.com/BrianCChao/status/2103553398738219450) | Opus 5.5 | [@BrianCChao](https://x.com/BrianCChao) | 0:59 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103553398738219450) |
@@ -188,6 +191,7 @@
 | [升力原理互动风洞演示](https://x.com/konstantinsaifo/status/2109595253879816337) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 0:34 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2109595253879816337) |
 | [计量经济学模拟讲解视频](https://x.com/mehmetsongur_/status/2108896132395061356) | Opus 5.5 | [@mehmetsongur_](https://x.com/mehmetsongur_) | 12:00 | — |
 | [《中途岛海战》3D讲解影片](https://x.com/wshuyi/status/2103644455916175505) | Opus 5.5 | [@wshuyi](https://x.com/wshuyi) | 8:29 | — |
+| [牛顿定律3D全息互动书](https://x.com/techartist_/status/2115122099161559140) | Opus 5.5 | [@techartist_](https://x.com/techartist_) | 0:26 | — |
 | [仓库包裹分拣决策模拟](https://x.com/konstantinsaifo/status/2108914585340428549) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 0:40 | — |
 | [加密货币交易概念动画](https://x.com/Dan_Kostecki/status/2103761581871964592) | Opus 5.5 | [@Dan_Kostecki](https://x.com/Dan_Kostecki) | 2:43 | — |
 | [京都秋季红叶旅行节目](https://x.com/CHIBIKURO_QnQ/status/2114324847966998934) | Opus 5.5 | [@CHIBIKURO_QnQ](https://x.com/CHIBIKURO_QnQ) | 0:48 | — |
@@ -195,4 +199,5 @@
 | [为Anthropic科学博客制作的讲解视频](https://x.com/deepwhitman/status/2103562764929389035) | Opus 5.5 | [@deepwhitman](https://x.com/deepwhitman) | 1:39 | — |
 | [用舞蹈呈现数学函数](https://x.com/chetaslua/status/2114277081349853217) | Opus 5.5 | [@chetaslua](https://x.com/chetaslua) | 1:35 | — |
 | [跑车倒挂行驶原理动画解析](https://x.com/andreysuperior/status/2113323122682163307) | Opus 5.5 | [@andreysuperior](https://x.com/andreysuperior) | 0:45 | — |
+| [魔方结构原理互动讲解](https://x.com/0x_mura/status/2115026640795226402) | Opus 5.5 | [@0x_mura](https://x.com/0x_mura) | 0:35 | — |
 | [热钱包与冷钱包区别讲解视频](https://x.com/sergitosergito/status/2103835390998388796) | Opus 5.5 | [@sergitosergito](https://x.com/sergitosergito) | 1:36 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103835390998388796) |

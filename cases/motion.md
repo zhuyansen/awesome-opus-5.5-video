@@ -1,6 +1,6 @@
 # Motion graphics & UI
 
-304 works, 90 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+307 works, 90 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Recreated challenge video effect](https://x.com/blueemi99/status/2109633997638938935) | Opus 5.5 | [@blueemi99](https://x.com/blueemi99) | 0:30 | — |
 | [Cool animation generated from simple prompt](https://x.com/cherry_mx_reds/status/2105816670896009224) | Fable 5.5 (preview) | [@cherry_mx_reds](https://x.com/cherry_mx_reds) | 0:17 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2105816670896009224) |
 | [Visual reading of a Karpathy tweet](https://x.com/rileybrown/status/2109423417870954979) | Opus 5.5 | [@rileybrown](https://x.com/rileybrown) | 3:44 | — |
+| [PDF-driven motion design](https://x.com/seeconvm/status/2115056349235052776) | Opus 5.5 | [@seeconvm](https://x.com/seeconvm) | 0:14 | — |
 | [Short generated animated video](https://x.com/imjustnewatai/status/2105808539495354669) | Fable 5.5 (preview) | [@imjustnewatai](https://x.com/imjustnewatai) | 1:02 | — |
 | [Channel-building video skill demo](https://x.com/xiaohu/status/2110729141289107485) | Opus 5.5 | [@xiaohu](https://x.com/xiaohu) | 1:48 | — |
 | [One-shot animated video demo](https://x.com/shapelayer/status/2102562623824757136) | Opus 5.5 | [@shapelayer](https://x.com/shapelayer) | 0:21 | — |
@@ -159,6 +160,7 @@
 | [Extended motion designer showreel](https://x.com/himanshutwtxs/status/2103620708601639016) | Opus 5.5 | [@himanshutwtxs](https://x.com/himanshutwtxs) | 0:30 | — |
 | [Code-generated personal style video](https://x.com/sarpstar/status/2110741762159288825) | Opus 5.5 | [@sarpstar](https://x.com/sarpstar) | 0:35 | — |
 | [Beat-synced K-pop motion graphics music video](https://x.com/minchoi/status/2110001964402831512) | Opus 5.5 | [@minchoi](https://x.com/minchoi) | 3:51 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2110001964402831512) |
+| [Motion design animation generated from a PDF guide](https://x.com/0xnicc0/status/2115109842641998134) | Opus 5.5 | [@0xnicc0](https://x.com/0xnicc0) | 0:21 | — |
 | [Viral video based on trending topics](https://x.com/DrClownPhD/status/2103510971046096906) | Opus 5.5 | [@DrClownPhD](https://x.com/DrClownPhD) | 0:34 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103510971046096906) |
 | [15-second motion graphics showreel for a website](https://x.com/melvynx/status/2103714680577638493) | Opus 5.5 | [@melvynx](https://x.com/melvynx) | 0:45 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103714680577638493) |
 | [Chowdeck motion advertisement](https://x.com/DesignSorceress/status/2113535202098372655) | Opus 5.5 | [@DesignSorceress](https://x.com/DesignSorceress) | 0:24 | — |
@@ -268,6 +270,7 @@
 | [Animation homework](https://x.com/NEXUS_TO_NOVA/status/2113564231065124894) | Opus 5.5 | [@NEXUS_TO_NOVA](https://x.com/NEXUS_TO_NOVA) | 0:24 | — |
 | [Animated visual piece](https://x.com/devteamdrew/status/2110156508097110075) | Opus 5.5 / Fable 5.5 (preview) | [@devteamdrew](https://x.com/devteamdrew) | 1:05 | — |
 | [AI-assisted motion graphics video](https://x.com/ai4everyday/status/2105715960220983304) | Opus 5.5 | [@ai4everyday](https://x.com/ai4everyday) | 0:10 | — |
+| [Tesla Roadster motion design](https://x.com/chetaslua/status/2115145163542790170) | Opus 5.5 / Fable 5.5 (preview) | [@chetaslua](https://x.com/chetaslua) | 0:19 | — |
 | [First motion design made on phone](https://x.com/jessica_moon04/status/2112440320386314407) | Sonnet 5.5 | [@jessica_moon04](https://x.com/jessica_moon04) | 0:26 | — |
 | [Fashion poster motion graphic](https://x.com/ponzponz15/status/2106266004515172366) | Opus 5.5 | [@ponzponz15](https://x.com/ponzponz15) | 0:46 | — |
 | [Noodle brand identity and animated ad](https://x.com/magnific/status/2110053239425294804) | Opus 5.5 | [@magnific](https://x.com/magnific) | 0:20 | — |

@@ -1,6 +1,6 @@
 # Characters & stories
 
-213 works, 49 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+214 works, 49 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Emotional short film test clip](https://x.com/RileyRalmuto/status/2102679018206052828) | Opus 5.5 | [@RileyRalmuto](https://x.com/RileyRalmuto) | 0:16 | — |
 | [Otter on a plane using Wi-Fi](https://x.com/emollick/status/2112656453685367004) | Opus 5.5 | [@emollick](https://x.com/emollick) | 1:50 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2112656453685367004) |
 | [Mid-Autumn collage-style animated short](https://x.com/ring_hyacinth/status/2102986085328716066) | Opus 5.5 | [@ring_hyacinth](https://x.com/ring_hyacinth) | 0:40 | — |
+| [True-story cartoon short with 2D characters and 3D sets](https://x.com/Y0urDumble/status/2115193601458151552) | Opus 5.5 | [@Y0urDumble](https://x.com/Y0urDumble) | 0:44 | — |
 | [p(Bloom) extended music video](https://x.com/PuppyPriestess/status/2105116325794488736) | Opus 5.5 | [@PuppyPriestess](https://x.com/PuppyPriestess) | 3:15 | — |
 | [Long-form AI video with audio and sound](https://x.com/dhruvalgolakiya/status/2102733714845491558) | Opus 5.5 | [@dhruvalgolakiya](https://x.com/dhruvalgolakiya) | 2:04 | — |
 | [Nidec earnings report music video](https://x.com/AbaneChan/status/2105288003543564590) | Opus 5.5 | [@AbaneChan](https://x.com/AbaneChan) | 5:12 | — |

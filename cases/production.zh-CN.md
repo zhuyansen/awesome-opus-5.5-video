@@ -1,6 +1,6 @@
 # 制作流程
 
-共 162 个作品，其中 31 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 164 个作品，其中 32 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [AI剪辑生成的发布视频](https://x.com/gregpr07/status/2102984873351037161) | Opus 5.5 | [@gregpr07](https://x.com/gregpr07) | 0:18 | — |
 | [AI创作的电子音乐视频](https://x.com/leodavincs3/status/2103777099941060913) | Opus 5.5 | [@leodavincs3](https://x.com/leodavincs3) | 2:32 | — |
 | [Opus5.5配合Gemini语音合成演示](https://x.com/YoheiN2023/status/2103590367518171295) | Opus 5.5 | [@YoheiN2023](https://x.com/YoheiN2023) | 0:15 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103590367518171295) |
+| [舞蹈角色视频的运镜与音效剪辑](https://x.com/29meat_ai/status/2115038221801570564) | Opus 5.5 | [@29meat_ai](https://x.com/29meat_ai) | 0:20 | — |
 | [After Effects自动化处理AI视频测试](https://x.com/aicreataro/status/2102656273112326609) | Opus 5.5 | [@aicreataro](https://x.com/aicreataro) | 0:15 | — |
 | [本地制作的动画音乐视频](https://x.com/anshuc/status/2106131543752122774) | Opus 5.5 | [@anshuc](https://x.com/anshuc) | 3:20 | — |
 | [梗图风格视频剪辑](https://x.com/blueemi99/status/2107459553369760024) | Fable 5.5 (preview) | [@blueemi99](https://x.com/blueemi99) | 0:30 | — |
@@ -153,6 +154,7 @@
 | [配有B-roll的完整剪辑出镜短视频](https://x.com/rpnickson/status/2113727289355554829) | Opus 5.5 | [@rpnickson](https://x.com/rpnickson) | 1:54 | — |
 | [28秒短片](https://x.com/N01ennn/status/2112882581809025189) | Opus 5.5 | [@N01ennn](https://x.com/N01ennn) | 0:37 | — |
 | [档案馆风格双语演讲视频](https://x.com/huangyun_122/status/2114417230792491070) | Opus 5.5 | [@huangyun_122](https://x.com/huangyun_122) | 1:32 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2114417230792491070) |
+| [五条悟时间网格剪辑](https://x.com/aimikoda/status/2115118260060656126) | Opus 5.5 | [@aimikoda](https://x.com/aimikoda) | 0:33 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2115118260060656126) |
 | [町中华料理变身美漫分格的卡点剪辑](https://x.com/aicreataro/status/2113252901405819014) | Opus 5.5 | [@aicreataro](https://x.com/aicreataro) | 0:30 | — |
 | [节拍同步视频剪辑](https://x.com/aimikoda/status/2114356633849516157) | Opus 5.5 | [@aimikoda](https://x.com/aimikoda) | 0:59 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2114356633849516157) |
 | [PCB设计流程演示](https://x.com/VectorCrossProd/status/2109610532365857198) | Opus 5.5 | [@VectorCrossProd](https://x.com/VectorCrossProd) | 1:00 | — |

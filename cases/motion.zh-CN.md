@@ -1,6 +1,6 @@
 # 动效设计
 
-共 304 个作品，其中 90 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 307 个作品，其中 90 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [复刻挑战视频效果](https://x.com/blueemi99/status/2109633997638938935) | Opus 5.5 | [@blueemi99](https://x.com/blueemi99) | 0:30 | — |
 | [简单提示生成的酷炫动画](https://x.com/cherry_mx_reds/status/2105816670896009224) | Fable 5.5 (preview) | [@cherry_mx_reds](https://x.com/cherry_mx_reds) | 0:17 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2105816670896009224) |
 | [对Karpathy推文的可视化动画解读](https://x.com/rileybrown/status/2109423417870954979) | Opus 5.5 | [@rileybrown](https://x.com/rileybrown) | 3:44 | — |
+| [基于 PDF 的动态设计](https://x.com/seeconvm/status/2115056349235052776) | Opus 5.5 | [@seeconvm](https://x.com/seeconvm) | 0:14 | — |
 | [生成的动画短片](https://x.com/imjustnewatai/status/2105808539495354669) | Fable 5.5 (preview) | [@imjustnewatai](https://x.com/imjustnewatai) | 1:02 | — |
 | [起号视频技能演示](https://x.com/xiaohu/status/2110729141289107485) | Opus 5.5 | [@xiaohu](https://x.com/xiaohu) | 1:48 | — |
 | [一次生成的动画演示视频](https://x.com/shapelayer/status/2102562623824757136) | Opus 5.5 | [@shapelayer](https://x.com/shapelayer) | 0:21 | — |
@@ -159,6 +160,7 @@
 | [加长版动感设计师展示视频](https://x.com/himanshutwtxs/status/2103620708601639016) | Opus 5.5 | [@himanshutwtxs](https://x.com/himanshutwtxs) | 0:30 | — |
 | [代码生成的个人风格视频](https://x.com/sarpstar/status/2110741762159288825) | Opus 5.5 | [@sarpstar](https://x.com/sarpstar) | 0:35 | — |
 | [节拍同步的K-pop动效音乐视频](https://x.com/minchoi/status/2110001964402831512) | Opus 5.5 | [@minchoi](https://x.com/minchoi) | 3:51 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2110001964402831512) |
+| [用PDF指南生成的动态设计动画](https://x.com/0xnicc0/status/2115109842641998134) | Opus 5.5 | [@0xnicc0](https://x.com/0xnicc0) | 0:21 | — |
 | [基于热门话题生成的病毒视频](https://x.com/DrClownPhD/status/2103510971046096906) | Opus 5.5 | [@DrClownPhD](https://x.com/DrClownPhD) | 0:34 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103510971046096906) |
 | [网站15秒动效展示视频](https://x.com/melvynx/status/2103714680577638493) | Opus 5.5 | [@melvynx](https://x.com/melvynx) | 0:45 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103714680577638493) |
 | [Chowdeck 动态广告](https://x.com/DesignSorceress/status/2113535202098372655) | Opus 5.5 | [@DesignSorceress](https://x.com/DesignSorceress) | 0:24 | — |
@@ -268,6 +270,7 @@
 | [动画练习作业](https://x.com/NEXUS_TO_NOVA/status/2113564231065124894) | Opus 5.5 | [@NEXUS_TO_NOVA](https://x.com/NEXUS_TO_NOVA) | 0:24 | — |
 | [动画视觉作品](https://x.com/devteamdrew/status/2110156508097110075) | Opus 5.5 / Fable 5.5 (preview) | [@devteamdrew](https://x.com/devteamdrew) | 1:05 | — |
 | [AI辅助制作的动效视频](https://x.com/ai4everyday/status/2105715960220983304) | Opus 5.5 | [@ai4everyday](https://x.com/ai4everyday) | 0:10 | — |
+| [特斯拉 Roadster 动态设计](https://x.com/chetaslua/status/2115145163542790170) | Opus 5.5 / Fable 5.5 (preview) | [@chetaslua](https://x.com/chetaslua) | 0:19 | — |
 | [手机上制作的首个动态设计](https://x.com/jessica_moon04/status/2112440320386314407) | Sonnet 5.5 | [@jessica_moon04](https://x.com/jessica_moon04) | 0:26 | — |
 | [时尚海报动态设计](https://x.com/ponzponz15/status/2106266004515172366) | Opus 5.5 | [@ponzponz15](https://x.com/ponzponz15) | 0:46 | — |
 | [面食品牌视觉与动画广告](https://x.com/magnific/status/2110053239425294804) | Opus 5.5 | [@magnific](https://x.com/magnific) | 0:20 | — |

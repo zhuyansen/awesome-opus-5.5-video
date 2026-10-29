@@ -1,6 +1,6 @@
 # Music, editing & production
 
-162 works, 31 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+164 works, 32 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [AI-edited launch video from raw takes](https://x.com/gregpr07/status/2102984873351037161) | Opus 5.5 | [@gregpr07](https://x.com/gregpr07) | 0:18 | — |
 | [AI-composed electronic music video](https://x.com/leodavincs3/status/2103777099941060913) | Opus 5.5 | [@leodavincs3](https://x.com/leodavincs3) | 2:32 | — |
 | [Opus 5.5 plus Gemini TTS demo](https://x.com/YoheiN2023/status/2103590367518171295) | Opus 5.5 | [@YoheiN2023](https://x.com/YoheiN2023) | 0:15 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103590367518171295) |
+| [Dancing character clip with added camera work and sound](https://x.com/29meat_ai/status/2115038221801570564) | Opus 5.5 | [@29meat_ai](https://x.com/29meat_ai) | 0:20 | — |
 | [After Effects automation test on AI video](https://x.com/aicreataro/status/2102656273112326609) | Opus 5.5 | [@aicreataro](https://x.com/aicreataro) | 0:15 | — |
 | [Locally produced animated music video](https://x.com/anshuc/status/2106131543752122774) | Opus 5.5 | [@anshuc](https://x.com/anshuc) | 3:20 | — |
 | [Brainrot Video Edit](https://x.com/blueemi99/status/2107459553369760024) | Fable 5.5 (preview) | [@blueemi99](https://x.com/blueemi99) | 0:30 | — |
@@ -153,6 +154,7 @@
 | [Fully edited talking-head reel with b-roll](https://x.com/rpnickson/status/2113727289355554829) | Opus 5.5 | [@rpnickson](https://x.com/rpnickson) | 1:54 | — |
 | [28-second short film](https://x.com/N01ennn/status/2112882581809025189) | Opus 5.5 | [@N01ennn](https://x.com/N01ennn) | 0:37 | — |
 | [Archival-style bilingual speech video](https://x.com/huangyun_122/status/2114417230792491070) | Opus 5.5 | [@huangyun_122](https://x.com/huangyun_122) | 1:32 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2114417230792491070) |
+| [Satoru Gojo temporal grid video edit](https://x.com/aimikoda/status/2115118260060656126) | Opus 5.5 | [@aimikoda](https://x.com/aimikoda) | 0:33 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2115118260060656126) |
 | [Chinese diner cooking clip edited as comic book pages](https://x.com/aicreataro/status/2113252901405819014) | Opus 5.5 | [@aicreataro](https://x.com/aicreataro) | 0:30 | — |
 | [Beat-synced video edit](https://x.com/aimikoda/status/2114356633849516157) | Opus 5.5 | [@aimikoda](https://x.com/aimikoda) | 0:59 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2114356633849516157) |
 | [PCB design pipeline demo](https://x.com/VectorCrossProd/status/2109610532365857198) | Opus 5.5 | [@VectorCrossProd](https://x.com/VectorCrossProd) | 1:00 | — |

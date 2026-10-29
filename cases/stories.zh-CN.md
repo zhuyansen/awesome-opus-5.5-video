@@ -1,6 +1,6 @@
 # 角色故事
 
-共 213 个作品，其中 49 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 214 个作品，其中 49 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [令人动容的短片测试片段](https://x.com/RileyRalmuto/status/2102679018206052828) | Opus 5.5 | [@RileyRalmuto](https://x.com/RileyRalmuto) | 0:16 | — |
 | [在飞机上使用无线网络的水獭](https://x.com/emollick/status/2112656453685367004) | Opus 5.5 | [@emollick](https://x.com/emollick) | 1:50 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2112656453685367004) |
 | [中秋节拼贴风格动画短片](https://x.com/ring_hyacinth/status/2102986085328716066) | Opus 5.5 | [@ring_hyacinth](https://x.com/ring_hyacinth) | 0:40 | — |
+| [二维角色配三维场景的真实故事动画短片](https://x.com/Y0urDumble/status/2115193601458151552) | Opus 5.5 | [@Y0urDumble](https://x.com/Y0urDumble) | 0:44 | — |
 | [p(Bloom）加长版音乐视频](https://x.com/PuppyPriestess/status/2105116325794488736) | Opus 5.5 | [@PuppyPriestess](https://x.com/PuppyPriestess) | 3:15 | — |
 | [带音效配乐的长篇AI视频](https://x.com/dhruvalgolakiya/status/2102733714845491558) | Opus 5.5 | [@dhruvalgolakiya](https://x.com/dhruvalgolakiya) | 2:04 | — |
 | [日本电产财报音乐视频](https://x.com/AbaneChan/status/2105288003543564590) | Opus 5.5 | [@AbaneChan](https://x.com/AbaneChan) | 5:12 | — |
