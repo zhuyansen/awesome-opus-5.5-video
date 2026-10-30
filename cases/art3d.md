@@ -1,6 +1,6 @@
 # 3D worlds & simulations
 
-355 works, 86 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+359 works, 88 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -191,6 +191,7 @@
 | [Cinematic 3D world with a free camera](https://x.com/LexnLin/status/2103194052850241739) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 1:24 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103194052850241739) |
 | [Roblox-style 3D models from tiny prompts](https://x.com/BlackJackieRBLX/status/2111552455846556003) | Opus 5.5 | [@BlackJackieRBLX](https://x.com/BlackJackieRBLX) | 0:38 | — |
 | [Real-time ray-traced spheres WebGL demo](https://x.com/akiy_8/status/2103434383218872503) | Opus 5.5 | [@akiy_8](https://x.com/akiy_8) | 0:15 | — |
+| [Sink Village 3D scene built with subagents](https://x.com/scottstts/status/2115439498729603545) | Opus 5.5 | [@scottstts](https://x.com/scottstts) | 1:19 | — |
 | [Recursive controller, bicycle and pelican SVG](https://x.com/Mr_Salio/status/2111816222811541641) | Fable 5.5 (preview) | [@Mr_Salio](https://x.com/Mr_Salio) | 0:19 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2111816222811541641) |
 | [Interactive ink-style shrimp shader](https://x.com/jshguo/status/2105250266392224097) | Opus 5.5 | [@jshguo](https://x.com/jshguo) | 0:10 | — |
 | [Animal walk animation with color-coded leg rig](https://x.com/Stefan_3D_AI/status/2109568757001756710) | Opus 5.5 | [@Stefan_3D_AI](https://x.com/Stefan_3D_AI) | 0:13 | — |
@@ -198,6 +199,7 @@
 | [3D water channel scene made with Opus 5.5](https://x.com/nachat_dayo/status/2109769320050090381) | Opus 5.5 | [@nachat_dayo](https://x.com/nachat_dayo) | 0:53 | — |
 | [Code-generated Chinese landscapes](https://x.com/LexnLin/status/2112264777309491443) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 1:00 | — |
 | [Procedural ocean and water scene](https://x.com/LexnLin/status/2113333862625648715) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 1:00 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2113333862625648715) |
+| [Procedural city built from a Blender node tree](https://x.com/0xWast3/status/2115482577712590977) | Opus 5.5 | [@0xWast3](https://x.com/0xWast3) | 0:23 | — |
 | [Ocean scene built from a single HTML file](https://x.com/AHSeslami/status/2112130638124138759) | Opus 5.5 | [@AHSeslami](https://x.com/AHSeslami) | 0:32 | — |
 | [City built from personal tweets](https://x.com/paularambles/status/2107125351784886642) | Opus 5.5 | [@paularambles](https://x.com/paularambles) | 0:46 | — |
 | [Blender ramen shop scene](https://x.com/victormustar/status/2109922839671562534) | Opus 5.5 | [@victormustar](https://x.com/victormustar) | 0:15 | — |
@@ -230,6 +232,7 @@
 | [Interactive bubble-blowing countryside scene](https://x.com/akakuma0219/status/2103045683452490054) | Opus 5.5 | [@akakuma0219](https://x.com/akakuma0219) | 0:39 | — |
 | [Image-to-Unreal Engine 3D scene](https://x.com/onofumi_AI/status/2102746676268351570) | Opus 5.5 | [@onofumi_AI](https://x.com/onofumi_AI) | 0:12 | — |
 | [Code-based 3D animation of the Duet character](https://x.com/higgsfield_ai/status/2113062105901658126) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:20 | — |
+| [Animated eight-legged mite game creature](https://x.com/theparuchh/status/2115508738891063617) | Opus 5.5 | [@theparuchh](https://x.com/theparuchh) | 0:51 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2115508738891063617) |
 | [Particle physics engine in one HTML file](https://x.com/cyrilXBT/status/2103532793406149036) | Opus 5.5 | [@cyrilXBT](https://x.com/cyrilXBT) | 0:44 | — |
 | [2D Live2D model rigging demo](https://x.com/sayaka_aiart/status/2109500565768270102) | Opus 5.5 | [@sayaka_aiart](https://x.com/sayaka_aiart) | 0:16 | — |
 | [Tiny harbor Three.js scene](https://x.com/chetanankola/status/2103649622963237261) | Opus 5.5 | [@chetanankola](https://x.com/chetanankola) | 0:25 | — |
@@ -273,6 +276,7 @@
 | [Toon shader built for custom 3D software](https://x.com/sekiun_creation/status/2103462799976575323) | Opus 5.5 | [@sekiun_creation](https://x.com/sekiun_creation) | 0:29 | — |
 | [VFX tolerance test in a 3D tool](https://x.com/MattiaMerenda2/status/2103864218449559853) | Opus 5.5 | [@MattiaMerenda2](https://x.com/MattiaMerenda2) | 0:10 | — |
 | [Interactive jelly press toy](https://x.com/vib3coded/status/2105285992865272110) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:18 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2105285992865272110) |
+| [Floating island town from day to night, 3D short film](https://x.com/0xbobaaa/status/2115486834755035178) | Opus 5.5 | [@0xbobaaa](https://x.com/0xbobaaa) | 0:58 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2115486834755035178) |
 | [Simulated metal 3D printer for rocket engine](https://x.com/konstantinsaifo/status/2106378121557782950) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 0:56 | — |
 | [Engineered flying wing aircraft model](https://x.com/konstantinsaifo/status/2107752275980476558) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 0:43 | — |
 | [Scrolling floor plan house](https://x.com/SammmAing/status/2112251300750458983) | Opus 5.5 | [@SammmAing](https://x.com/SammmAing) | 1:37 | — |

@@ -1,6 +1,6 @@
 # 制作流程
 
-共 164 个作品，其中 32 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 168 个作品，其中 32 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [自动生成的代码提交演示视频](https://x.com/theo/status/2103245685688771044) | Opus 5.5 | [@theo](https://x.com/theo) | 0:11 | — |
 | [回应歌曲与音乐视频](https://x.com/sayashk/status/2105704922499150308) | Opus 5.5 | [@sayashk](https://x.com/sayashk) | 3:27 | — |
 | [口播视频自动化剪辑流水线](https://x.com/leaf_sanren/status/2102745561732419772) | Opus 5.5 | [@leaf_sanren](https://x.com/leaf_sanren) | 0:18 | — |
+| [双人 AI 虚拟形象视频播客](https://x.com/nakazakifam/status/2115421296662036905) | Opus 5.5 | [@nakazakifam](https://x.com/nakazakifam) | 2:12 | — |
 | [口播视频的动效剪辑](https://x.com/condzxyz/status/2109454493415023080) | Opus 5.5 | [@condzxyz](https://x.com/condzxyz) | 6:19 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2109454493415023080) |
 | [用低成本片段合成的鱿鱼游戏场景](https://x.com/mickeyxfriedman/status/2112653827644301328) | Opus 5.5 | [@mickeyxfriedman](https://x.com/mickeyxfriedman) | 1:00 | — |
 | [用Claude Code生成Live2D动作](https://x.com/rotejin/status/2103384608301830297) | Opus 5.5 | [@rotejin](https://x.com/rotejin) | 0:27 | — |
@@ -48,6 +49,7 @@
 | [AI配音配合AE剪辑的广告视频流程](https://x.com/seiiiiiiiiiiru/status/2103227982592831846) | Opus 5.5 | [@seiiiiiiiiiiru](https://x.com/seiiiiiiiiiiru) | 0:29 | — |
 | [用代码生成的低音音乐](https://x.com/aj_dev_smith/status/2102504509637587339) | Opus 5.5 | [@aj_dev_smith](https://x.com/aj_dev_smith) | 2:00 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102504509637587339) |
 | [AI剪辑生成的发布视频](https://x.com/gregpr07/status/2102984873351037161) | Opus 5.5 | [@gregpr07](https://x.com/gregpr07) | 0:18 | — |
+| [新账号短视频爆款系列](https://x.com/bizdevelo/status/2115408359771779573) | Opus 5.5 | [@bizdevelo](https://x.com/bizdevelo) | 0:42 | — |
 | [AI创作的电子音乐视频](https://x.com/leodavincs3/status/2103777099941060913) | Opus 5.5 | [@leodavincs3](https://x.com/leodavincs3) | 2:32 | — |
 | [Opus5.5配合Gemini语音合成演示](https://x.com/YoheiN2023/status/2103590367518171295) | Opus 5.5 | [@YoheiN2023](https://x.com/YoheiN2023) | 0:15 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103590367518171295) |
 | [舞蹈角色视频的运镜与音效剪辑](https://x.com/29meat_ai/status/2115038221801570564) | Opus 5.5 | [@29meat_ai](https://x.com/29meat_ai) | 0:20 | — |
@@ -97,6 +99,7 @@
 | [自动化3D角色生产管线导入Unity](https://x.com/luccacerf/status/2113025837565870162) | Opus 5.5 / Fable 5.5 (preview) | [@luccacerf](https://x.com/luccacerf) | 1:43 | — |
 | [AI控制视频编辑软件自动化](https://x.com/FantasistaAI/status/2103117722741854377) | Opus 5.5 | [@FantasistaAI](https://x.com/FantasistaAI) | 0:25 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103117722741854377) |
 | [CAD制图工作流演示](https://x.com/hAru_mAki_ch/status/2103698137730924839) | Opus 5.5 | [@hAru_mAki_ch](https://x.com/hAru_mAki_ch) | 0:21 | — |
+| [全自动剪辑的 YouTube 视频](https://x.com/shikamarurobo/status/2115565614475759838) | Opus 5.5 | [@shikamarurobo](https://x.com/shikamarurobo) | 1:00 | — |
 | [枪手慢动作残影特效剪辑](https://x.com/aimikoda/status/2114007429146964169) | Opus 5.5 | [@aimikoda](https://x.com/aimikoda) | 0:32 | — |
 | [FreeCAD制作过程视频](https://x.com/hAru_mAki_ch/status/2103645693265219838) | Opus 5.5 | [@hAru_mAki_ch](https://x.com/hAru_mAki_ch) | 1:46 | — |
 | [AI创作的巴洛克风格三重奏奏鸣曲](https://x.com/aug5thmusic/status/2103549625076752493) | Opus 5.5 | [@aug5thmusic](https://x.com/aug5thmusic) | 1:46 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103549625076752493) |
@@ -118,6 +121,7 @@
 | [多工具漫才短片制作流程](https://x.com/tkz_aiart/status/2103408393470066754) | Opus 5.5 | [@tkz_aiart](https://x.com/tkz_aiart) | 0:56 | — |
 | [KAMI Circuit音乐可视化影像](https://x.com/aratamadao/status/2103706285204255186) | Opus 5.5 | [@aratamadao](https://x.com/aratamadao) | 0:28 | — |
 | [多模型协作的视频制作流程](https://x.com/KanaWorks_AI/status/2103836147277345052) | Opus 5.5 | [@KanaWorks_AI](https://x.com/KanaWorks_AI) | 0:15 | — |
+| [委内瑞拉政治集会画面对比剪辑](https://x.com/anibal/status/2115608213059940689) | Opus 5.5 | [@anibal](https://x.com/anibal) | 2:58 | — |
 | [用TidalCycles现场编码创作的歌曲](https://x.com/surucudev/status/2103917032706101254) | Opus 5.5 | [@surucudev](https://x.com/surucudev) | 2:42 | — |
 | [智能体生成的社交媒体图文轮播](https://x.com/_mattwelter/status/2112202863912861828) | Opus 5.5 | [@_mattwelter](https://x.com/_mattwelter) | 11:06 | — |
 | [AI执导的游戏引擎电影场景](https://x.com/sameerpallav/status/2103586713801257017) | Opus 5.5 | [@sameerpallav](https://x.com/sameerpallav) | 3:58 | — |

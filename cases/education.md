@@ -1,6 +1,6 @@
 # Explainers & education
 
-197 works, 52 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+201 works, 52 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Zero-shot documentary on Jewish history](https://x.com/eranshir/status/2103564391170089429) | Opus 5.5 | [@eranshir](https://x.com/eranshir) | 3:43 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103564391170089429) |
 | [Explainer video about the Dots AI agent](https://x.com/seiiiiiiiiiiru/status/2105187157841445314) | Sonnet 5.5 | [@seiiiiiiiiiiru](https://x.com/seiiiiiiiiiiru) | 2:11 | — |
 | [Evolution of the eye explainer](https://x.com/cagrimbakirci/status/2104011756397842869) | Opus 5.5 | [@cagrimbakirci](https://x.com/cagrimbakirci) | 1:10 | — |
+| [Interactive survival skills learning app](https://x.com/DilumSanjaya/status/2115488004425089201) | Opus 5.5 | [@DilumSanjaya](https://x.com/DilumSanjaya) | 1:35 | — |
 | [Doc-to-video explainer (Open Alignment)](https://x.com/Thom_Wolf/status/2103545533474206118) | Opus 5.5 | [@Thom_Wolf](https://x.com/Thom_Wolf) | 1:24 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103545533474206118) |
 | [Physics competition problem explainer video](https://x.com/akokoi1/status/2102680453912449223) | Opus 5.5 | [@akokoi1](https://x.com/akokoi1) | 3:09 | — |
 | [1-minute margin trading explainer](https://x.com/RtSubPozrT8wmsN/status/2102764115500687573) | Opus 5.5 | [@RtSubPozrT8wmsN](https://x.com/RtSubPozrT8wmsN) | 0:57 | — |
@@ -112,6 +113,7 @@
 | [Interactive electronics boards build-and-break lesson site](https://x.com/zodchiii/status/2113234379954888790) | Opus 5.5 | [@zodchiii](https://x.com/zodchiii) | 0:35 | — |
 | [Netflix-style explainer reel about El Nino](https://x.com/hanifproduktif/status/2103656501579862155) | Opus 5.5 | [@hanifproduktif](https://x.com/hanifproduktif) | 2:30 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103656501579862155) |
 | [Explainer video on JEM self-supervised learning paper](https://x.com/iScienceLuvr/status/2114676265093664978) | Opus 5.5 | [@iScienceLuvr](https://x.com/iScienceLuvr) | 26:01 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2114676265093664978) |
+| [Interactive biology lesson on oxygen from air to cells](https://x.com/techartist_/status/2115565230772392277) | Opus 5.5 | [@techartist_](https://x.com/techartist_) | 0:30 | — |
 | [Trace rarity system explainer video](https://x.com/traceforms/status/2105029763421147460) | Opus 5.5 | [@traceforms](https://x.com/traceforms) | 1:18 | — |
 | [GPT model history explainer animation](https://x.com/yanhua1010/status/2102610348427911592) | Opus 5.5 | [@yanhua1010](https://x.com/yanhua1010) | 1:30 | — |
 | [Chinese architecture history explainer](https://x.com/akokoi1/status/2103650399773475318) | Opus 5.5 | [@akokoi1](https://x.com/akokoi1) | 1:35 | — |
@@ -127,6 +129,7 @@
 | [IDOR vulnerability explainer video](https://x.com/BourAbdelhadi/status/2105236146246586434) | Sonnet 5.5 | [@BourAbdelhadi](https://x.com/BourAbdelhadi) | 0:35 | — |
 | [Interactive toilet flush mechanism demo](https://x.com/elliscrosby/status/2109570204556824624) | Opus 5.5 | [@elliscrosby](https://x.com/elliscrosby) | 0:18 | — |
 | [Engineering history animation on rotation axes](https://x.com/ootamato/status/2103099960069873856) | Opus 5.5 | [@ootamato](https://x.com/ootamato) | 0:31 | — |
+| [Visualization of how subagents work](https://x.com/devteamdrew/status/2115581339357286477) | Opus 5.5 | [@devteamdrew](https://x.com/devteamdrew) | 0:46 | — |
 | [Video on three physics theory styles](https://x.com/bukuro8810/status/2103739912591929851) | Opus 5.5 | [@bukuro8810](https://x.com/bukuro8810) | 5:04 | — |
 | [Code-generated math puzzle Instagram reels](https://x.com/shivangi_sriv/status/2112173194031587405) | Opus 5.5 | [@shivangi_sriv](https://x.com/shivangi_sriv) | 0:15 | — |
 | [Interactive view inside an LLM](https://x.com/KimizLlm/status/2106089511411409081) | Opus 5.5 | [@KimizLlm](https://x.com/KimizLlm) | 4:44 | — |
@@ -135,6 +138,7 @@
 | [Jensen's inequality lecture in personal style](https://x.com/prathoshap/status/2103843937735888898) | Opus 5.5 | [@prathoshap](https://x.com/prathoshap) | 0:30 | — |
 | [Manim derivative concept teaching video](https://x.com/LinearUncle/status/2103128559174971663) | Opus 5.5 | [@LinearUncle](https://x.com/LinearUncle) | 7:37 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103128559174971663) |
 | [Industrial materials problem physics simulation](https://x.com/kooshiar/status/2109001847792890082) | Opus 5.5 | [@kooshiar](https://x.com/kooshiar) | 0:53 | — |
+| [Interactive biology lesson on oxygen from air to cells](https://x.com/slashui/status/2115632086707225085) | Opus 5.5 | [@slashui](https://x.com/slashui) | 0:30 | — |
 | [Menara Ijazah AI-researched explainer video](https://x.com/ainunnajib/status/2108582046151180791) | Opus 5.5 | [@ainunnajib](https://x.com/ainunnajib) | 2:19 | — |
 | [Animated slides explaining embeddings](https://x.com/antonioleivag/status/2107833536669532671) | Opus 5.5 | [@antonioleivag](https://x.com/antonioleivag) | 0:42 | — |
 | [History of Indonesia animated documentary](https://x.com/sonnylazuardi/status/2103511590884815282) | Opus 5.5 | [@sonnylazuardi](https://x.com/sonnylazuardi) | 0:53 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103511590884815282) |

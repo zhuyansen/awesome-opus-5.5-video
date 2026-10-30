@@ -1,6 +1,6 @@
 # Games
 
-403 works, 55 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+406 works, 55 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -251,6 +251,7 @@
 | [AI-built 3D game concept](https://x.com/techartist_/status/2112265555780771886) | Opus 5.5 | [@techartist_](https://x.com/techartist_) | 0:28 | — |
 | [Native Swift FPS game](https://x.com/solotechdev/status/2107155466987987309) | Opus 5.5 | [@solotechdev](https://x.com/solotechdev) | 0:49 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2107155466987987309) |
 | [Fantasy sci-fi game visual update](https://x.com/aniketjart/status/2105793038048182737) | Opus 5.5 | [@aniketjart](https://x.com/aniketjart) | 0:36 | — |
+| [Aestra permadeath online RPG](https://x.com/M__Houser/status/2115438489995190285) | Opus 5.5 | [@M__Houser](https://x.com/M__Houser) | 0:20 | — |
 | [In-progress three.js game after seven-hour build](https://x.com/cryptomanavan/status/2102772685541347618) | Opus 5.5 | [@cryptomanavan](https://x.com/cryptomanavan) | 1:56 | — |
 | [Tennis domain expansion game](https://x.com/darel023/status/2110291409018212638) | Opus 5.5 | [@darel023](https://x.com/darel023) | 1:14 | — |
 | [Realistic fighter jet game](https://x.com/klattkev/status/2106102789160259910) | Opus 5.5 | [@klattkev](https://x.com/klattkev) | 0:43 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2106102789160259910) |
@@ -277,6 +278,7 @@
 | [Exit 8-style vegan cafe loop game](https://x.com/parhelion318/status/2111128415319548058) | Opus 5.5 | [@parhelion318](https://x.com/parhelion318) | 0:56 | — |
 | [UMBRAL game made from pure code](https://x.com/kikollan/status/2103578336018505763) | Opus 5.5 | [@kikollan](https://x.com/kikollan) | 0:18 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103578336018505763) |
 | [MV-inspired game built in Unity](https://x.com/ruku_practice/status/2102660297928638783) | Opus 5.5 | [@ruku_practice](https://x.com/ruku_practice) | 0:54 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102660297928638783) |
+| [Platformer with generated sprites and animations](https://x.com/asynkimo/status/2115422615439392937) | Opus 5.5 | [@asynkimo](https://x.com/asynkimo) | 0:12 | — |
 | [Rent-a-car management game built with Opus 5.5](https://x.com/oguzthedev/status/2105711220594745637) | Opus 5.5 | [@oguzthedev](https://x.com/oguzthedev) | 0:29 | — |
 | [21-world boss battle game](https://x.com/EMostaque/status/2106065029850091943) | Fable 5.5 (preview) | [@EMostaque](https://x.com/EMostaque) | 0:59 | — |
 | [Flying fantasy world built with three.js](https://x.com/0xRhinoX/status/2108931642542698801) | Opus 5.5 | [@0xRhinoX](https://x.com/0xRhinoX) | 0:28 | — |
@@ -365,6 +367,7 @@
 | [Small iOS game for kids built by Opus 5.5](https://x.com/Snorlxz/status/2108930097306837030) | Opus 5.5 | [@Snorlxz](https://x.com/Snorlxz) | 0:19 | — |
 | [Portal-physics Vision Pro game](https://x.com/RoszykAdam/status/2103574860958175339) | Opus 5.5 | [@RoszykAdam](https://x.com/RoszykAdam) | 0:24 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103574860958175339) |
 | [Arcade-style game recreation in progress](https://x.com/dave392750/status/2103252008321024478) | Opus 5.5 | [@dave392750](https://x.com/dave392750) | 0:15 | — |
+| [Early Roblox recreated inside Roblox](https://x.com/_kadokis/status/2115551949831684185) | Opus 5.5 | [@_kadokis](https://x.com/_kadokis) | 0:23 | — |
 | [Roblox model rigging and animation test](https://x.com/BlackJackieRBLX/status/2111556784418599403) | Opus 5.5 | [@BlackJackieRBLX](https://x.com/BlackJackieRBLX) | 0:28 | — |
 | [Custom-character Smash Bros-like game](https://x.com/shi3z/status/2102693511124713497) | Opus 5.5 | [@shi3z](https://x.com/shi3z) | 0:37 | — |
 | [Spinning apples Roblox game](https://x.com/JohnKlerAI/status/2103582509699313804) | Opus 5.5 | [@JohnKlerAI](https://x.com/JohnKlerAI) | 0:54 | — |

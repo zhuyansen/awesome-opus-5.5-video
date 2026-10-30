@@ -1,6 +1,6 @@
 # Motion graphics & UI
 
-307 works, 90 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+310 works, 90 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -254,6 +254,7 @@
 | [After Effects animation from a single prompt](https://x.com/0xCrosss/status/2103841408977150450) | Opus 5.5 | [@0xCrosss](https://x.com/0xCrosss) | 0:16 | — |
 | [One-shot AI video without reference assets](https://x.com/Charles_SEO/status/2103703459782660599) | Opus 5.5 | [@Charles_SEO](https://x.com/Charles_SEO) | 2:00 | — |
 | [Impressive AI output reaction video](https://x.com/antonioleivag/status/2103484611531866467) | Opus 5.5 | [@antonioleivag](https://x.com/antonioleivag) | 0:15 | — |
+| [Design creativity tests from short prompts](https://x.com/LexnLin/status/2115485798216687944) | Opus 5.5 / Sonnet 5.5 | [@LexnLin](https://x.com/LexnLin) | 0:09 | — |
 | [Animated website design](https://x.com/viktoroddy/status/2113819964536951243) | Opus 5.5 | [@viktoroddy](https://x.com/viktoroddy) | 0:07 | — |
 | [Motion graphics template app](https://x.com/techhalla/status/2103923805098070477) | Opus 5.5 | [@techhalla](https://x.com/techhalla) | 0:24 | — |
 | [AITuber avatar system built with Opus 5.5](https://x.com/lnkiai/status/2105607195224354898) | Opus 5.5 | [@lnkiai](https://x.com/lnkiai) | 0:09 | — |
@@ -263,6 +264,7 @@
 | [Documentary opening titles about Bitcoin](https://x.com/cyrilXBT/status/2103677214135124053) | Opus 5.5 | [@cyrilXBT](https://x.com/cyrilXBT) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103677214135124053) |
 | [Two-sentence prompt animation result](https://x.com/tomcupr/status/2103776902960042359) | Opus 5.5 | [@tomcupr](https://x.com/tomcupr) | 0:30 | — |
 | [Quick visual effect demo](https://x.com/shironagasu_ai/status/2103542106841075992) | Opus 5.5 | [@shironagasu_ai](https://x.com/shironagasu_ai) | 0:05 | — |
+| [20-second coded motion design clip](https://x.com/anstapnever/status/2115383752776098233) | Opus 5.5 | [@anstapnever](https://x.com/anstapnever) | 0:20 | — |
 | [Illustrated cinemagraph scene](https://x.com/shironagasu_ai/status/2106299981875347740) | Opus 5.5 | [@shironagasu_ai](https://x.com/shironagasu_ai) | 0:10 | — |
 | [Motion design showreel exploring "overthinking"](https://x.com/gizakdag/status/2103566030916239768) | Opus 5.5 | [@gizakdag](https://x.com/gizakdag) | 0:15 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103566030916239768) |
 | [Extreme zoom motion design animation](https://x.com/0xkerazcity/status/2111456178173583792) | Opus 5.5 | [@0xkerazcity](https://x.com/0xkerazcity) | 0:27 | — |
@@ -271,6 +273,7 @@
 | [Animated visual piece](https://x.com/devteamdrew/status/2110156508097110075) | Opus 5.5 / Fable 5.5 (preview) | [@devteamdrew](https://x.com/devteamdrew) | 1:05 | — |
 | [AI-assisted motion graphics video](https://x.com/ai4everyday/status/2105715960220983304) | Opus 5.5 | [@ai4everyday](https://x.com/ai4everyday) | 0:10 | — |
 | [Tesla Roadster motion design](https://x.com/chetaslua/status/2115145163542790170) | Opus 5.5 / Fable 5.5 (preview) | [@chetaslua](https://x.com/chetaslua) | 0:19 | — |
+| [Short coded motion design clip](https://x.com/0xwhrrari/status/2115473687466201208) | Opus 5.5 | [@0xwhrrari](https://x.com/0xwhrrari) | 0:10 | — |
 | [First motion design made on phone](https://x.com/jessica_moon04/status/2112440320386314407) | Sonnet 5.5 | [@jessica_moon04](https://x.com/jessica_moon04) | 0:26 | — |
 | [Fashion poster motion graphic](https://x.com/ponzponz15/status/2106266004515172366) | Opus 5.5 | [@ponzponz15](https://x.com/ponzponz15) | 0:46 | — |
 | [Noodle brand identity and animated ad](https://x.com/magnific/status/2110053239425294804) | Opus 5.5 | [@magnific](https://x.com/magnific) | 0:20 | — |

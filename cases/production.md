@@ -1,6 +1,6 @@
 # Music, editing & production
 
-164 works, 32 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+168 works, 32 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Auto-generated pull request demo video](https://x.com/theo/status/2103245685688771044) | Opus 5.5 | [@theo](https://x.com/theo) | 0:11 | — |
 | [Reply song and music video](https://x.com/sayashk/status/2105704922499150308) | Opus 5.5 | [@sayashk](https://x.com/sayashk) | 3:27 | — |
 | [Automated talking-head video editing pipeline](https://x.com/leaf_sanren/status/2102745561732419772) | Opus 5.5 | [@leaf_sanren](https://x.com/leaf_sanren) | 0:18 | — |
+| [Two-host AI avatar video podcast](https://x.com/nakazakifam/status/2115421296662036905) | Opus 5.5 | [@nakazakifam](https://x.com/nakazakifam) | 2:12 | — |
 | [Talking-head video edited into a motion-graphics cut](https://x.com/condzxyz/status/2109454493415023080) | Opus 5.5 | [@condzxyz](https://x.com/condzxyz) | 6:19 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2109454493415023080) |
 | [Squid Game scene assembled from low-cost clips](https://x.com/mickeyxfriedman/status/2112653827644301328) | Opus 5.5 | [@mickeyxfriedman](https://x.com/mickeyxfriedman) | 1:00 | — |
 | [Live2D motion generation via Claude Code](https://x.com/rotejin/status/2103384608301830297) | Opus 5.5 | [@rotejin](https://x.com/rotejin) | 0:27 | — |
@@ -48,6 +49,7 @@
 | [AI ad video with voice and AE editing pipeline](https://x.com/seiiiiiiiiiiru/status/2103227982592831846) | Opus 5.5 | [@seiiiiiiiiiiru](https://x.com/seiiiiiiiiiiru) | 0:29 | — |
 | [Bass music generated with code](https://x.com/aj_dev_smith/status/2102504509637587339) | Opus 5.5 | [@aj_dev_smith](https://x.com/aj_dev_smith) | 2:00 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102504509637587339) |
 | [AI-edited launch video from raw takes](https://x.com/gregpr07/status/2102984873351037161) | Opus 5.5 | [@gregpr07](https://x.com/gregpr07) | 0:18 | — |
+| [Short-form viral videos for a new account](https://x.com/bizdevelo/status/2115408359771779573) | Opus 5.5 | [@bizdevelo](https://x.com/bizdevelo) | 0:42 | — |
 | [AI-composed electronic music video](https://x.com/leodavincs3/status/2103777099941060913) | Opus 5.5 | [@leodavincs3](https://x.com/leodavincs3) | 2:32 | — |
 | [Opus 5.5 plus Gemini TTS demo](https://x.com/YoheiN2023/status/2103590367518171295) | Opus 5.5 | [@YoheiN2023](https://x.com/YoheiN2023) | 0:15 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103590367518171295) |
 | [Dancing character clip with added camera work and sound](https://x.com/29meat_ai/status/2115038221801570564) | Opus 5.5 | [@29meat_ai](https://x.com/29meat_ai) | 0:20 | — |
@@ -97,6 +99,7 @@
 | [Automated 3D character pipeline into Unity](https://x.com/luccacerf/status/2113025837565870162) | Opus 5.5 / Fable 5.5 (preview) | [@luccacerf](https://x.com/luccacerf) | 1:43 | — |
 | [Video editor automation via AI control](https://x.com/FantasistaAI/status/2103117722741854377) | Opus 5.5 | [@FantasistaAI](https://x.com/FantasistaAI) | 0:25 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103117722741854377) |
 | [CAD drafting workflow demo](https://x.com/hAru_mAki_ch/status/2103698137730924839) | Opus 5.5 | [@hAru_mAki_ch](https://x.com/hAru_mAki_ch) | 0:21 | — |
+| [Fully automated YouTube video edit](https://x.com/shikamarurobo/status/2115565614475759838) | Opus 5.5 | [@shikamarurobo](https://x.com/shikamarurobo) | 1:00 | — |
 | [Gunslinger slow-motion Sandevistan effect edit](https://x.com/aimikoda/status/2114007429146964169) | Opus 5.5 | [@aimikoda](https://x.com/aimikoda) | 0:32 | — |
 | [FreeCAD making-of video](https://x.com/hAru_mAki_ch/status/2103645693265219838) | Opus 5.5 | [@hAru_mAki_ch](https://x.com/hAru_mAki_ch) | 1:46 | — |
 | [AI-composed Baroque trio sonata](https://x.com/aug5thmusic/status/2103549625076752493) | Opus 5.5 | [@aug5thmusic](https://x.com/aug5thmusic) | 1:46 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103549625076752493) |
@@ -118,6 +121,7 @@
 | [Multi-tool comedy skit video pipeline](https://x.com/tkz_aiart/status/2103408393470066754) | Opus 5.5 | [@tkz_aiart](https://x.com/tkz_aiart) | 0:56 | — |
 | [KAMI Circuit music visualizer](https://x.com/aratamadao/status/2103706285204255186) | Opus 5.5 | [@aratamadao](https://x.com/aratamadao) | 0:28 | — |
 | [Multi-model video production pipeline](https://x.com/KanaWorks_AI/status/2103836147277345052) | Opus 5.5 | [@KanaWorks_AI](https://x.com/KanaWorks_AI) | 0:15 | — |
+| [Contrast edit of Venezuelan political rally footage](https://x.com/anibal/status/2115608213059940689) | Opus 5.5 | [@anibal](https://x.com/anibal) | 2:58 | — |
 | [Livecoded song made with TidalCycles](https://x.com/surucudev/status/2103917032706101254) | Opus 5.5 | [@surucudev](https://x.com/surucudev) | 2:42 | — |
 | [Agent-generated social media slideshows](https://x.com/_mattwelter/status/2112202863912861828) | Opus 5.5 | [@_mattwelter](https://x.com/_mattwelter) | 11:06 | — |
 | [AI-directed cinematic in a game engine](https://x.com/sameerpallav/status/2103586713801257017) | Opus 5.5 | [@sameerpallav](https://x.com/sameerpallav) | 3:58 | — |

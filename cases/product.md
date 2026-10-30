@@ -1,6 +1,6 @@
 # Product demos & ads
 
-230 works, 43 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+231 works, 44 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -213,6 +213,7 @@
 | [Disk space analyzer utility app](https://x.com/SonofNun/status/2103589196472766505) | Opus 5.5 | [@SonofNun](https://x.com/SonofNun) | 1:40 | — |
 | [App introduction video demo](https://x.com/hinata877889737/status/2102753427747168436) | Opus 5.5 | [@hinata877889737](https://x.com/hinata877889737) | 0:30 | — |
 | [Unity Dolby Atmos visualizer](https://x.com/chroman/status/2109778453625020920) | Opus 5.5 | [@chroman](https://x.com/chroman) | 0:50 | — |
+| [Animated bento feature grid for a product site](https://x.com/Kubai087/status/2115393082472681875) | Opus 5.5 | [@Kubai087](https://x.com/Kubai087) | 0:20 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2115393082472681875) |
 | [Unofficial Theranos commercial](https://x.com/kevin_t_ngo/status/2112877982239096988) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 1:04 | — |
 | [Franco-Belgian comic style coffee ad](https://x.com/jeanalexandre_b/status/2103514734716977599) | Opus 5.5 | [@jeanalexandre_b](https://x.com/jeanalexandre_b) | 1:25 | — |
 | [Book promotional video](https://x.com/ama_ch/status/2103621603628306747) | Opus 5.5 | [@ama_ch](https://x.com/ama_ch) | 1:06 | — |

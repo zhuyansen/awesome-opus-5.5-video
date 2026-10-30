@@ -1,6 +1,6 @@
 # 科普讲解
 
-共 197 个作品，其中 52 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 201 个作品，其中 52 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [犹太历史纪录片一次生成](https://x.com/eranshir/status/2103564391170089429) | Opus 5.5 | [@eranshir](https://x.com/eranshir) | 3:43 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103564391170089429) |
 | [关于Dots AI代理的讲解视频](https://x.com/seiiiiiiiiiiru/status/2105187157841445314) | Sonnet 5.5 | [@seiiiiiiiiiiru](https://x.com/seiiiiiiiiiiru) | 2:11 | — |
 | [眼睛进化过程科普动画](https://x.com/cagrimbakirci/status/2104011756397842869) | Opus 5.5 | [@cagrimbakirci](https://x.com/cagrimbakirci) | 1:10 | — |
+| [野外求生技能互动学习应用](https://x.com/DilumSanjaya/status/2115488004425089201) | Opus 5.5 | [@DilumSanjaya](https://x.com/DilumSanjaya) | 1:35 | — |
 | [文档转视频讲解（Open Alignment)](https://x.com/Thom_Wolf/status/2103545533474206118) | Opus 5.5 | [@Thom_Wolf](https://x.com/Thom_Wolf) | 1:24 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103545533474206118) |
 | [物理竞赛压轴题讲解视频](https://x.com/akokoi1/status/2102680453912449223) | Opus 5.5 | [@akokoi1](https://x.com/akokoi1) | 3:09 | — |
 | [一分钟看懂信用交易讲解](https://x.com/RtSubPozrT8wmsN/status/2102764115500687573) | Opus 5.5 | [@RtSubPozrT8wmsN](https://x.com/RtSubPozrT8wmsN) | 0:57 | — |
@@ -112,6 +113,7 @@
 | [电子开发板拆装与故障互动学习网站](https://x.com/zodchiii/status/2113234379954888790) | Opus 5.5 | [@zodchiii](https://x.com/zodchiii) | 0:35 | — |
 | [讲解厄尔尼诺现象的纪录片风格短片](https://x.com/hanifproduktif/status/2103656501579862155) | Opus 5.5 | [@hanifproduktif](https://x.com/hanifproduktif) | 2:30 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103656501579862155) |
 | [JEM自监督学习论文讲解视频](https://x.com/iScienceLuvr/status/2114676265093664978) | Opus 5.5 | [@iScienceLuvr](https://x.com/iScienceLuvr) | 26:01 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2114676265093664978) |
+| [氧气从空气到细胞的生物互动课](https://x.com/techartist_/status/2115565230772392277) | Opus 5.5 | [@techartist_](https://x.com/techartist_) | 0:30 | — |
 | [Trace稀有度系统讲解视频](https://x.com/traceforms/status/2105029763421147460) | Opus 5.5 | [@traceforms](https://x.com/traceforms) | 1:18 | — |
 | [GPT模型发展史解说动画](https://x.com/yanhua1010/status/2102610348427911592) | Opus 5.5 | [@yanhua1010](https://x.com/yanhua1010) | 1:30 | — |
 | [中国建筑史知识点讲解视频](https://x.com/akokoi1/status/2103650399773475318) | Opus 5.5 | [@akokoi1](https://x.com/akokoi1) | 1:35 | — |
@@ -127,6 +129,7 @@
 | [IDOR漏洞讲解视频](https://x.com/BourAbdelhadi/status/2105236146246586434) | Sonnet 5.5 | [@BourAbdelhadi](https://x.com/BourAbdelhadi) | 0:35 | — |
 | [马桶冲水机制互动演示](https://x.com/elliscrosby/status/2109570204556824624) | Opus 5.5 | [@elliscrosby](https://x.com/elliscrosby) | 0:18 | — |
 | [旋转轴主题工程历史动画](https://x.com/ootamato/status/2103099960069873856) | Opus 5.5 | [@ootamato](https://x.com/ootamato) | 0:31 | — |
+| [子代理工作原理可视化](https://x.com/devteamdrew/status/2115581339357286477) | Opus 5.5 | [@devteamdrew](https://x.com/devteamdrew) | 0:46 | — |
 | [关于三种物理理论风格的讲解视频](https://x.com/bukuro8810/status/2103739912591929851) | Opus 5.5 | [@bukuro8810](https://x.com/bukuro8810) | 5:04 | — |
 | [用代码生成的数学趣题Instagram短视频](https://x.com/shivangi_sriv/status/2112173194031587405) | Opus 5.5 | [@shivangi_sriv](https://x.com/shivangi_sriv) | 0:15 | — |
 | [大语言模型内部运作可视化](https://x.com/KimizLlm/status/2106089511411409081) | Opus 5.5 | [@KimizLlm](https://x.com/KimizLlm) | 4:44 | — |
@@ -135,6 +138,7 @@
 | [个人风格讲解詹森不等式](https://x.com/prathoshap/status/2103843937735888898) | Opus 5.5 | [@prathoshap](https://x.com/prathoshap) | 0:30 | — |
 | [Manim制作的导数概念教学视频](https://x.com/LinearUncle/status/2103128559174971663) | Opus 5.5 | [@LinearUncle](https://x.com/LinearUncle) | 7:37 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103128559174971663) |
 | [工业材料问题物理模拟](https://x.com/kooshiar/status/2109001847792890082) | Opus 5.5 | [@kooshiar](https://x.com/kooshiar) | 0:53 | — |
+| [氧气从空气到细胞的生物互动课](https://x.com/slashui/status/2115632086707225085) | Opus 5.5 | [@slashui](https://x.com/slashui) | 0:30 | — |
 | [Menara Ijazah AI研究解说视频](https://x.com/ainunnajib/status/2108582046151180791) | Opus 5.5 | [@ainunnajib](https://x.com/ainunnajib) | 2:19 | — |
 | [讲解嵌入向量的动画幻灯片](https://x.com/antonioleivag/status/2107833536669532671) | Opus 5.5 | [@antonioleivag](https://x.com/antonioleivag) | 0:42 | — |
 | [印度尼西亚历史动画纪录片](https://x.com/sonnylazuardi/status/2103511590884815282) | Opus 5.5 | [@sonnylazuardi](https://x.com/sonnylazuardi) | 0:53 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103511590884815282) |
