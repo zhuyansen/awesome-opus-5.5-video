@@ -1,6 +1,6 @@
 # 产品广告
 
-共 231 个作品，其中 44 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 233 个作品，其中 45 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [铁路车站体验重新设计概念](https://x.com/jgarcelan/status/2103131351557763433) | Opus 5.5 | [@jgarcelan](https://x.com/jgarcelan) | 0:15 | — |
 | [开源交易日志应用编辑](https://x.com/LuxAlgo/status/2104668775798739107) | Opus 5.5 | [@LuxAlgo](https://x.com/LuxAlgo) | 0:30 | — |
 | [苹果发布会风格产品视频](https://x.com/twoclipping/status/2103835273813496100) | Opus 5.5 | [@twoclipping](https://x.com/twoclipping) | 0:29 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103835273813496100) |
+| [跨平台磁盘清理应用](https://x.com/0xMovez/status/2115870373300326503) | Opus 5.5 | [@0xMovez](https://x.com/0xMovez) | 0:35 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2115870373300326503) |
 | [读取自家仓库后重建的工具](https://x.com/YoheiN2023/status/2103381925671104732) | Opus 5.5 | [@YoheiN2023](https://x.com/YoheiN2023) | 0:15 | — |
 | [爆款推文预测分析器演示](https://x.com/0xMovez/status/2102853032698433864) | Opus 5.5 | [@0xMovez](https://x.com/0xMovez) | 0:21 | — |
 | [iPhone Duo双屏钢琴应用概念演示](https://x.com/rameshsrivats/status/2103094473882509700) | Opus 5.5 | [@rameshsrivats](https://x.com/rameshsrivats) | 0:26 | — |
@@ -167,6 +168,7 @@
 | [非官方特斯拉Roadster广告](https://x.com/kevin_t_ngo/status/2111887585639624828) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 1:05 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2111887585639624828) |
 | [一键生成的产品发布视频](https://x.com/javiiarchive/status/2108149080568545694) | Opus 5.5 | [@javiiarchive](https://x.com/javiiarchive) | 0:31 | — |
 | [模型自制的介绍视频](https://x.com/nemumusitocha/status/2102528528613019932) | Opus 5.5 | [@nemumusitocha](https://x.com/nemumusitocha) | 6:37 | — |
+| [Chipper品牌动态广告](https://x.com/Aygramm_/status/2115759392192659746) | Opus 5.5 | [@Aygramm_](https://x.com/Aygramm_) | 0:30 | — |
 | [用Opus和ElevenLabs制作的小广告](https://x.com/pivi___/status/2103820692500156664) | Opus 5.5 | [@pivi___](https://x.com/pivi___) | 0:30 | — |
 | [贴图制作工具包的宣传视频](https://x.com/OoChihiroOO/status/2103821686164615243) | Opus 5.5 | [@OoChihiroOO](https://x.com/OoChihiroOO) | 0:17 | — |
 | [互动式三维机场运营应用](https://x.com/viktoroddy/status/2113602878288052581) | Opus 5.5 | [@viktoroddy](https://x.com/viktoroddy) | 0:26 | — |

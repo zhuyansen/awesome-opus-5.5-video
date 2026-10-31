@@ -1,6 +1,6 @@
 # 科普讲解
 
-共 201 个作品，其中 52 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 205 个作品，其中 52 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [个人基准测试重要性讲解视频](https://x.com/danshipper/status/2103678798827020298) | Opus 5.5 | [@danshipper](https://x.com/danshipper) | 2:52 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103678798827020298) |
 | [意识测试情境重现](https://x.com/VoidStateKate/status/2106848736609808531) | Opus 5.5 | [@VoidStateKate](https://x.com/VoidStateKate) | 1:27 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2106848736609808531) |
 | [3Blue1Brown 风格的注意力机制讲解](https://x.com/Michaelzsguo/status/2103433947040415996) | Opus 5.5 | [@Michaelzsguo](https://x.com/Michaelzsguo) | 4:40 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103433947040415996) |
+| [可暂停的十字曲轴V8发动机交互演示](https://x.com/elvar_official/status/2115882221319958984) | Opus 5.5 | [@elvar_official](https://x.com/elvar_official) | 0:26 | — |
 | [Gemini语音合成选项讲解视频](https://x.com/seiiiiiiiiiiru/status/2103590369816375359) | Opus 5.5 | [@seiiiiiiiiiiru](https://x.com/seiiiiiiiiiiru) | 0:30 | — |
 | [3D生物书：小肠中的消化过程](https://x.com/exploraX_/status/2114639979703939079) | Opus 5.5 | [@exploraX_](https://x.com/exploraX_) | 0:53 | — |
 | [罗马帝国纪录片](https://x.com/tkz_aiart/status/2105983802367688910) | Opus 5.5 | [@tkz_aiart](https://x.com/tkz_aiart) | 2:16 | — |
@@ -162,6 +163,8 @@
 | [键盘结构动画演示](https://x.com/quantapar/status/2109748221459546529) | Opus 5.5 | [@quantapar](https://x.com/quantapar) | 0:17 | — |
 | [将文章核心思想可视化的视频](https://x.com/Lonely__MH/status/2103637675609870374) | Opus 5.5 | [@Lonely__MH](https://x.com/Lonely__MH) | 1:01 | — |
 | [一分钟看懂股票投资讲解](https://x.com/RtSubPozrT8wmsN/status/2102763227629375648) | Opus 5.5 | [@RtSubPozrT8wmsN](https://x.com/RtSubPozrT8wmsN) | 0:59 | — |
+| [鸟类是现存恐龙的3D互动课本](https://x.com/techartist_/status/2115846417873039593) | Opus 5.5 | [@techartist_](https://x.com/techartist_) | 0:22 | — |
+| [基于3D心脏的十二导联心电图互动图谱](https://x.com/therealRYC/status/2115898852704456739) | Opus 5.5 | [@therealRYC](https://x.com/therealRYC) | 0:49 | — |
 | [植物生理3D水族箱式可视化](https://x.com/sonia_code/status/2103774074505949448) | Opus 5.5 | [@sonia_code](https://x.com/sonia_code) | 0:21 | — |
 | [光合作用艺术讲解动画](https://x.com/devteamdrew/status/2111172786286690324) | Opus 5.5 / Sonnet 5.5 | [@devteamdrew](https://x.com/devteamdrew) | 0:47 | — |
 | [古斯巴达行军歌曲重现](https://x.com/iosif_lazaridis/status/2103948875929358687) | Opus 5.5 | [@iosif_lazaridis](https://x.com/iosif_lazaridis) | 3:08 | — |
@@ -175,6 +178,7 @@
 | [Grok Bot模板视频指南](https://x.com/yaohongan2025/status/2114335185915269293) | Opus 5.5 | [@yaohongan2025](https://x.com/yaohongan2025) | 2:56 | — |
 | [板块漂移主题音乐动画视频](https://x.com/kevin_t_ngo/status/2108208479358026208) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 2:21 | — |
 | [互动式机器人工程实验室](https://x.com/0xForem/status/2113624961822646351) | Opus 5.5 | [@0xForem](https://x.com/0xForem) | 0:46 | — |
+| [人体解剖科普视频](https://x.com/zeuuss_01/status/2115889104617431257) | Opus 5.5 | [@zeuuss_01](https://x.com/zeuuss_01) | 0:54 | — |
 | [Gemini套餐对比图表视频](https://x.com/ksa8Turky/status/2111508035482825171) | Opus 5.5 | [@ksa8Turky](https://x.com/ksa8Turky) | 0:30 | — |
 | [查询扇出讲解视频](https://x.com/harpreetchatha_/status/2103591810253914585) | Opus 5.5 | [@harpreetchatha_](https://x.com/harpreetchatha_) | 0:20 | — |
 | [原子弹历史三维短片](https://x.com/imjustnewatai/status/2106238699872956427) | Fable 5.5 (preview) | [@imjustnewatai](https://x.com/imjustnewatai) | 3:00 | — |

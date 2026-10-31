@@ -1,6 +1,6 @@
 # Motion graphics & UI
 
-310 works, 90 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+313 works, 90 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Interactive art-style video generator](https://x.com/chetaslua/status/2102501773705670994) | Opus 5.5 | [@chetaslua](https://x.com/chetaslua) | 0:10 | — |
 | [Motion graphics video made within a usage limit](https://x.com/YarHmm/status/2103505435802341449) | Opus 5.5 | [@YarHmm](https://x.com/YarHmm) | 0:56 | — |
 | [Compilation of film visual technique demos](https://x.com/Kutinawa_VGamer/status/2103476071018766790) | Opus 5.5 | [@Kutinawa_VGamer](https://x.com/Kutinawa_VGamer) | 1:20 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103476071018766790) |
+| [Motion design piece from a PDF brief](https://x.com/0xnicc0/status/2115785376292102495) | Opus 5.5 | [@0xnicc0](https://x.com/0xnicc0) | 0:14 | — |
 | [Interactive tear-off calendar app](https://x.com/FiachraRM/status/2112188946809749658) | Opus 5.5 | [@FiachraRM](https://x.com/FiachraRM) | 0:38 | — |
 | [Beat-synced showreel from real clips](https://x.com/twoclipping/status/2102554209166000267) | Opus 5.5 | [@twoclipping](https://x.com/twoclipping) | 0:20 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102554209166000267) |
 | [Animated Midjourney image montage](https://x.com/ciguleva/status/2104051187825946929) | Opus 5.5 | [@ciguleva](https://x.com/ciguleva) | 0:48 | — |
@@ -169,6 +170,7 @@
 | [Dot-themed motion video](https://x.com/seiiiiiiiiiiru/status/2107018580265201724) | Opus 5.5 | [@seiiiiiiiiiiru](https://x.com/seiiiiiiiiiiru) | 0:15 | — |
 | [PDF-based motion graphic](https://x.com/seeconvm/status/2114063937109131638) | Opus 5.5 | [@seeconvm](https://x.com/seeconvm) | 0:14 | — |
 | [Quick ad video from one prompt](https://x.com/Nour_Sofanati/status/2103653780327641130) | Opus 5.5 | [@Nour_Sofanati](https://x.com/Nour_Sofanati) | 0:35 | — |
+| [Open-source motion shot library for promo videos](https://x.com/VincentWei93/status/2115797250689679394) | Opus 5.5 | [@VincentWei93](https://x.com/VincentWei93) | 2:17 | — |
 | [UI animation showcase](https://x.com/kevin_t_ngo/status/2111974919353544757) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 0:25 | — |
 | [Retro game card-reveal UX experiment](https://x.com/nickfromlater/status/2102504454721347822) | Opus 5.5 | [@nickfromlater](https://x.com/nickfromlater) | 0:16 | — |
 | [Self-introduction video made in minutes](https://x.com/shinjiko9/status/2103643458913304872) | Opus 5.5 | [@shinjiko9](https://x.com/shinjiko9) | 0:15 | — |
@@ -229,6 +231,7 @@
 | [Pokemon-themed UI animations](https://x.com/chetaslua/status/2114027737149288714) | Opus 5.5 | [@chetaslua](https://x.com/chetaslua) | 0:40 | — |
 | [UI animation sequence made with Sonnet 5.5](https://x.com/higgsfield_ai/status/2104655851529392363) | Sonnet 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:10 | — |
 | [Looping product launch motion template](https://x.com/twoclipping/status/2105927781678747965) | Opus 5.5 | [@twoclipping](https://x.com/twoclipping) | 0:24 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2105927781678747965) |
+| [Animated app paywall design](https://x.com/BreejeAnadkat/status/2115749240823583179) | Opus 5.5 | [@BreejeAnadkat](https://x.com/BreejeAnadkat) | 0:10 | — |
 | [Video built with Remotion and Three.js](https://x.com/lnkiai/status/2103759350330544254) | Opus 5.5 | [@lnkiai](https://x.com/lnkiai) | 0:32 | — |
 | [Mini Animated Scenes](https://x.com/nusretuzman/status/2106125405602123850) | Opus 5.5 | [@nusretuzman](https://x.com/nusretuzman) | 0:11 | — |
 | [Pixel art attack animation frame boost](https://x.com/MindGate_dev/status/2111668407418650660) | Opus 5.5 | [@MindGate_dev](https://x.com/MindGate_dev) | 0:40 | — |

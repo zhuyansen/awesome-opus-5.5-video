@@ -1,6 +1,6 @@
 # Explainers & education
 
-201 works, 52 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+205 works, 52 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Explainer on personal benchmarks](https://x.com/danshipper/status/2103678798827020298) | Opus 5.5 | [@danshipper](https://x.com/danshipper) | 2:52 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103678798827020298) |
 | [Consciousness tests reenacted](https://x.com/VoidStateKate/status/2106848736609808531) | Opus 5.5 | [@VoidStateKate](https://x.com/VoidStateKate) | 1:27 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2106848736609808531) |
 | [3Blue1Brown-style explainer of the attention mechanism](https://x.com/Michaelzsguo/status/2103433947040415996) | Opus 5.5 | [@Michaelzsguo](https://x.com/Michaelzsguo) | 4:40 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103433947040415996) |
+| [Interactive cross-plane V8 engine simulation](https://x.com/elvar_official/status/2115882221319958984) | Opus 5.5 | [@elvar_official](https://x.com/elvar_official) | 0:26 | — |
 | [Explainer video comparing Gemini TTS options](https://x.com/seiiiiiiiiiiru/status/2103590369816375359) | Opus 5.5 | [@seiiiiiiiiiiru](https://x.com/seiiiiiiiiiiru) | 0:30 | — |
 | [3D biology book: digestion in the small intestine](https://x.com/exploraX_/status/2114639979703939079) | Opus 5.5 | [@exploraX_](https://x.com/exploraX_) | 0:53 | — |
 | [Roman Empire Documentary](https://x.com/tkz_aiart/status/2105983802367688910) | Opus 5.5 | [@tkz_aiart](https://x.com/tkz_aiart) | 2:16 | — |
@@ -162,6 +163,8 @@
 | [Keyboard anatomy animation](https://x.com/quantapar/status/2109748221459546529) | Opus 5.5 | [@quantapar](https://x.com/quantapar) | 0:17 | — |
 | [Article core ideas visualized as video](https://x.com/Lonely__MH/status/2103637675609870374) | Opus 5.5 | [@Lonely__MH](https://x.com/Lonely__MH) | 1:01 | — |
 | [1-minute stock investing explainer](https://x.com/RtSubPozrT8wmsN/status/2102763227629375648) | Opus 5.5 | [@RtSubPozrT8wmsN](https://x.com/RtSubPozrT8wmsN) | 0:59 | — |
+| [3D book on birds as living dinosaurs](https://x.com/techartist_/status/2115846417873039593) | Opus 5.5 | [@techartist_](https://x.com/techartist_) | 0:22 | — |
+| [Interactive 12-lead EKG atlas with 3D heart](https://x.com/therealRYC/status/2115898852704456739) | Opus 5.5 | [@therealRYC](https://x.com/therealRYC) | 0:49 | — |
 | [Plant biology 3D aquarium-style visualization](https://x.com/sonia_code/status/2103774074505949448) | Opus 5.5 | [@sonia_code](https://x.com/sonia_code) | 0:21 | — |
 | [The Art of Photosynthesis explainer](https://x.com/devteamdrew/status/2111172786286690324) | Opus 5.5 / Sonnet 5.5 | [@devteamdrew](https://x.com/devteamdrew) | 0:47 | — |
 | [Reconstructed ancient Spartan marching song](https://x.com/iosif_lazaridis/status/2103948875929358687) | Opus 5.5 | [@iosif_lazaridis](https://x.com/iosif_lazaridis) | 3:08 | — |
@@ -175,6 +178,7 @@
 | [Grok Bot template video guide](https://x.com/yaohongan2025/status/2114335185915269293) | Opus 5.5 | [@yaohongan2025](https://x.com/yaohongan2025) | 2:56 | — |
 | [Plate tectonics music video animation](https://x.com/kevin_t_ngo/status/2108208479358026208) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 2:21 | — |
 | [Interactive robotics engineering lab](https://x.com/0xForem/status/2113624961822646351) | Opus 5.5 | [@0xForem](https://x.com/0xForem) | 0:46 | — |
+| [Human anatomy explainer video](https://x.com/zeuuss_01/status/2115889104617431257) | Opus 5.5 | [@zeuuss_01](https://x.com/zeuuss_01) | 0:54 | — |
 | [Gemini plans comparison chart video](https://x.com/ksa8Turky/status/2111508035482825171) | Opus 5.5 | [@ksa8Turky](https://x.com/ksa8Turky) | 0:30 | — |
 | [Query fan-out explainer video](https://x.com/harpreetchatha_/status/2103591810253914585) | Opus 5.5 | [@harpreetchatha_](https://x.com/harpreetchatha_) | 0:20 | — |
 | [Atomic bomb history 3D film](https://x.com/imjustnewatai/status/2106238699872956427) | Fable 5.5 (preview) | [@imjustnewatai](https://x.com/imjustnewatai) | 3:00 | — |

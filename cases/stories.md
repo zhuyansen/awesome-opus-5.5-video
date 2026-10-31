@@ -1,6 +1,6 @@
 # Characters & stories
 
-214 works, 49 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+215 works, 50 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [System prompt for humans](https://x.com/_brightmirror/status/2108268817201918414) | Opus 5.5 | [@_brightmirror](https://x.com/_brightmirror) | 3:56 | — |
 | [Personal travel recap video](https://x.com/__oQuery/status/2103819121821728993) | Opus 5.5 | [@__oQuery](https://x.com/__oQuery) | 3:37 | — |
 | [Avengers-inspired cinematic video](https://x.com/Xanderwow_A/status/2113345392238903325) | Opus 5.5 | [@Xanderwow_A](https://x.com/Xanderwow_A) | 2:53 | — |
+| [Stickman survival thriller](https://x.com/finnardley/status/2115786060231770351) | Opus 5.5 | [@finnardley](https://x.com/finnardley) | 1:23 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2115786060231770351) |
 | [Red panda Koda and the giant peach](https://x.com/HeyAbhishek/status/2109993586951663626) | Opus 5.5 | [@HeyAbhishek](https://x.com/HeyAbhishek) | 0:29 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2109993586951663626) |
 | [Superintelligence slopcore short film](https://x.com/toomasb/status/2111475672019300829) | Opus 5.5 | [@toomasb](https://x.com/toomasb) | 2:49 | — |
 | [Hugging Face incident music video](https://x.com/chetaslua/status/2105934928483701214) | Fable 5.5 (preview) | [@chetaslua](https://x.com/chetaslua) | 2:37 | — |

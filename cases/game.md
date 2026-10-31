@@ -1,6 +1,6 @@
 # Games
 
-406 works, 55 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+414 works, 56 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Splatoon-style browser game](https://x.com/JaydenDavisNC/status/2103352441886425310) | Opus 5.5 | [@JaydenDavisNC](https://x.com/JaydenDavisNC) | 4:02 | — |
 | [League of Legends MMO prototype](https://x.com/GamefxAI/status/2107116106280485047) | Opus 5.5 | [@GamefxAI](https://x.com/GamefxAI) | 0:12 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2107116106280485047) |
 | [Dark Souls-inspired demo showcase](https://x.com/The_Alex/status/2102440678282412195) | Opus 5.5 | [@The_Alex](https://x.com/The_Alex) | 2:11 | — |
+| [Unfinished AI-assisted strategy game](https://x.com/zin257856782/status/2115968923053195523) | Opus 5.5 | [@zin257856782](https://x.com/zin257856782) | 4:44 | — |
 | [Browser-based Rocket League clone](https://x.com/BlendiByl/status/2104800823620632641) | Opus 5.5 | [@BlendiByl](https://x.com/BlendiByl) | 0:39 | — |
 | [Fortnite-style game built with Sonnet 5.5](https://x.com/ericmaskfr/status/2104680817272500562) | Sonnet 5.5 | [@ericmaskfr](https://x.com/ericmaskfr) | 0:42 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104680817272500562) |
 | [Minecraft clone in browser](https://x.com/noahwachnik/status/2102470200415166699) | Opus 5.5 | [@noahwachnik](https://x.com/noahwachnik) | 0:23 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102470200415166699) |
@@ -40,6 +41,7 @@
 | [Karen Warfare browser game](https://x.com/KaladinOG/status/2112185653157118438) | Opus 5.5 | [@KaladinOG](https://x.com/KaladinOG) | 0:54 | — |
 | [Open-world earth-scale game engine demo](https://x.com/_chuckyc/status/2110779144191537364) | Opus 5.5 | [@_chuckyc](https://x.com/_chuckyc) | 24:07 | — |
 | [Trolley problem game](https://x.com/soyukke_game/status/2102899404336493045) | Opus 5.5 | [@soyukke_game](https://x.com/soyukke_game) | 0:19 | — |
+| [Frog King browser simulator](https://x.com/Belbizaz/status/2115878504067915826) | Opus 5.5 | [@Belbizaz](https://x.com/Belbizaz) | 0:34 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2115878504067915826) |
 | [AI iteratively fixes its own game via screenshots](https://x.com/prasenx/status/2107451914954911838) | Opus 5.5 | [@prasenx](https://x.com/prasenx) | 5:20 | — |
 | [1v1 basketball game ISO](https://x.com/databallr/status/2103592504386101512) | Opus 5.5 | [@databallr](https://x.com/databallr) | 0:15 | — |
 | [Endless shooter mobile game](https://x.com/Andrew_Blumson/status/2103861788987068922) | Opus 5.5 | [@Andrew_Blumson](https://x.com/Andrew_Blumson) | 2:06 | — |
@@ -56,6 +58,7 @@
 | [WoW-style game built in 36 hours](https://x.com/Stefan_3D_AI/status/2104109918894580091) | Opus 5.5 | [@Stefan_3D_AI](https://x.com/Stefan_3D_AI) | 1:17 | — |
 | [Frog King Simulator built with Claude](https://x.com/Belbizaz/status/2111120760660254842) | Opus 5.5 | [@Belbizaz](https://x.com/Belbizaz) | 0:30 | — |
 | [Game character VFX devlog](https://x.com/Stefan_3D_AI/status/2103467172995690835) | Opus 5.5 | [@Stefan_3D_AI](https://x.com/Stefan_3D_AI) | 0:49 | — |
+| [Family D&D game with an AI game master](https://x.com/MengTo/status/2115756268925448353) | Opus 5.5 | [@MengTo](https://x.com/MengTo) | 1:00 | — |
 | [Self-laying rail minecart mod](https://x.com/0xJarvi/status/2109776982200508771) | Opus 5.5 | [@0xJarvi](https://x.com/0xJarvi) | 0:54 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2109776982200508771) |
 | [Voxel Dynasty Warriors style hack-and-slash](https://x.com/BubuStd/status/2102991290568954264) | Opus 5.5 | [@BubuStd](https://x.com/BubuStd) | 0:19 | — |
 | [Browser-based VALORANT-style 3D demo](https://x.com/GamefxAI/status/2107949345312018897) | Opus 5.5 | [@GamefxAI](https://x.com/GamefxAI) | 2:49 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2107949345312018897) |
@@ -99,6 +102,7 @@
 | [Five playable 3D mini-games](https://x.com/nachat_dayo/status/2103670680466366577) | Opus 5.5 | [@nachat_dayo](https://x.com/nachat_dayo) | 0:34 | — |
 | [Overnight Roblox game build](https://x.com/albie_io/status/2102823486439973305) | Opus 5.5 | [@albie_io](https://x.com/albie_io) | 1:30 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102823486439973305) |
 | [New weapon added to decompiled Halo](https://x.com/robertskmiles/status/2109709807712366623) | Opus 5.5 | [@robertskmiles](https://x.com/robertskmiles) | 0:15 | — |
+| [Browser game development progress](https://x.com/PawelJLisowski/status/2115912672604496025) | Opus 5.5 | [@PawelJLisowski](https://x.com/PawelJLisowski) | 3:44 | — |
 | [Cozy metal detector game prototype](https://x.com/zacxbt/status/2103789882309234711) | Opus 5.5 | [@zacxbt](https://x.com/zacxbt) | 0:25 | — |
 | [Kerala snake boat race game](https://x.com/jessinvibe/status/2103565292198838314) | Opus 5.5 | [@jessinvibe](https://x.com/jessinvibe) | 0:51 | — |
 | [No Man's Sky-style multiplayer browser game](https://x.com/Rubzem/status/2107828818165833976) | Opus 5.5 | [@Rubzem](https://x.com/Rubzem) | 1:31 | — |
@@ -201,6 +205,7 @@
 | [Heatsink drone racing game update](https://x.com/aniketjart/status/2108767659873681627) | Opus 5.5 | [@aniketjart](https://x.com/aniketjart) | 0:30 | — |
 | [Eternauta online browser game update](https://x.com/santisiri/status/2112234872638976233) | Opus 5.5 | [@santisiri](https://x.com/santisiri) | 2:04 | — |
 | [Multiplayer capital ship game](https://x.com/McGrumby/status/2103590506106380330) | Opus 5.5 | [@McGrumby](https://x.com/McGrumby) | 0:28 | — |
+| [Voice negotiation with a game merchant](https://x.com/Keyfobe/status/2115822157242704205) | Opus 5.5 | [@Keyfobe](https://x.com/Keyfobe) | 1:36 | — |
 | [Tesla Roadster flip game update](https://x.com/aniketjart/status/2111987727067652561) | Opus 5.5 | [@aniketjart](https://x.com/aniketjart) | 0:23 | — |
 | [Minecraft-Style Browser Game](https://x.com/oviniciuslana/status/2103086714772463953) | Opus 5.5 | [@oviniciuslana](https://x.com/oviniciuslana) | 1:05 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103086714772463953) |
 | [Pixel-art skill VFX system for a top-down game](https://x.com/Nenlyonis/status/2113916518610420021) | Opus 5.5 | [@Nenlyonis](https://x.com/Nenlyonis) | 0:42 | — |
@@ -285,6 +290,7 @@
 | [Cozy fireflies and waterfall game scene](https://x.com/keydol123/status/2109314447508709796) | Opus 5.5 | [@keydol123](https://x.com/keydol123) | 1:09 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2109314447508709796) |
 | [Zen Garden puzzle game](https://x.com/jipvandervelde/status/2113335762850615298) | Opus 5.5 | [@jipvandervelde](https://x.com/jipvandervelde) | 0:25 | — |
 | [Interactive banana cursor tracker](https://x.com/himanshubuildss/status/2104852202682728856) | Sonnet 5.5 | [@himanshubuildss](https://x.com/himanshubuildss) | 0:11 | — |
+| [Tower defense game recreated in Roblox](https://x.com/friedPotato2722/status/2115785281445982233) | Opus 5.5 | [@friedPotato2722](https://x.com/friedPotato2722) | 0:30 | — |
 | [Roblox racing simulator](https://x.com/JavaCoded/status/2103330796085838252) | Opus 5.5 | [@JavaCoded](https://x.com/JavaCoded) | 0:21 | — |
 | [Classic game recreation by multiple AI models](https://x.com/ChrisGPT/status/2103561098930880952) | Opus 5.5 | [@ChrisGPT](https://x.com/ChrisGPT) | 0:36 | — |
 | [Battle royale game prototype](https://x.com/ruku_practice/status/2103099638517813292) | Opus 5.5 | [@ruku_practice](https://x.com/ruku_practice) | 0:49 | — |
@@ -366,6 +372,7 @@
 | [Image-to-3D game menu test](https://x.com/majidmanzarpour/status/2102544196808667471) | Opus 5.5 | [@majidmanzarpour](https://x.com/majidmanzarpour) | 0:16 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102544196808667471) |
 | [Small iOS game for kids built by Opus 5.5](https://x.com/Snorlxz/status/2108930097306837030) | Opus 5.5 | [@Snorlxz](https://x.com/Snorlxz) | 0:19 | — |
 | [Portal-physics Vision Pro game](https://x.com/RoszykAdam/status/2103574860958175339) | Opus 5.5 | [@RoszykAdam](https://x.com/RoszykAdam) | 0:24 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103574860958175339) |
+| [Dragon Ball turtle rescue game level](https://x.com/aniketjart/status/2115710904021225589) | Opus 5.5 | [@aniketjart](https://x.com/aniketjart) | 0:43 | — |
 | [Arcade-style game recreation in progress](https://x.com/dave392750/status/2103252008321024478) | Opus 5.5 | [@dave392750](https://x.com/dave392750) | 0:15 | — |
 | [Early Roblox recreated inside Roblox](https://x.com/_kadokis/status/2115551949831684185) | Opus 5.5 | [@_kadokis](https://x.com/_kadokis) | 0:23 | — |
 | [Roblox model rigging and animation test](https://x.com/BlackJackieRBLX/status/2111556784418599403) | Opus 5.5 | [@BlackJackieRBLX](https://x.com/BlackJackieRBLX) | 0:28 | — |
@@ -403,6 +410,7 @@
 | [Vibe-coded platformer experience](https://x.com/chetanankola/status/2103730428901498972) | Opus 5.5 | [@chetanankola](https://x.com/chetanankola) | 1:04 | — |
 | [Indie game development progress](https://x.com/iritec_jp/status/2102651240685744597) | Opus 5.5 | [@iritec_jp](https://x.com/iritec_jp) | 0:39 | — |
 | [Email gamification prototype Inbox Kingdom](https://x.com/thebuggeddev/status/2108206814236184802) | Opus 5.5 | [@thebuggeddev](https://x.com/thebuggeddev) | 1:13 | — |
+| [Pack of 90 anime-style skill effects](https://x.com/KanaWorks_AI/status/2115984446604329400) | Opus 5.5 | [@KanaWorks_AI](https://x.com/KanaWorks_AI) | 1:21 | — |
 | [Expanded terrain game map](https://x.com/Greysuki/status/2113527486869016974) | Opus 5.5 | [@Greysuki](https://x.com/Greysuki) | 0:30 | — |
 | [Fighting game inspired by a mecha series](https://x.com/elefolo2/status/2103310890716266620) | Opus 5.5 | [@elefolo2](https://x.com/elefolo2) | 0:34 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103310890716266620) |
 | [90s FMV horror adventure game prototype](https://x.com/pleometric/status/2108205076904894664) | Opus 5.5 | [@pleometric](https://x.com/pleometric) | 1:20 | — |

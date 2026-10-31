@@ -1,6 +1,6 @@
 # 动效设计
 
-共 310 个作品，其中 90 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 313 个作品，其中 90 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [可交互任意风格视频生成器](https://x.com/chetaslua/status/2102501773705670994) | Opus 5.5 | [@chetaslua](https://x.com/chetaslua) | 0:10 | — |
 | [额度内完成的动效设计视频](https://x.com/YarHmm/status/2103505435802341449) | Opus 5.5 | [@YarHmm](https://x.com/YarHmm) | 0:56 | — |
 | [影视视觉技法合集演示](https://x.com/Kutinawa_VGamer/status/2103476071018766790) | Opus 5.5 | [@Kutinawa_VGamer](https://x.com/Kutinawa_VGamer) | 1:20 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103476071018766790) |
+| [基于PDF说明的动态设计作品](https://x.com/0xnicc0/status/2115785376292102495) | Opus 5.5 | [@0xnicc0](https://x.com/0xnicc0) | 0:14 | — |
 | [可撕页互动日历应用](https://x.com/FiachraRM/status/2112188946809749658) | Opus 5.5 | [@FiachraRM](https://x.com/FiachraRM) | 0:38 | — |
 | [节拍同步的实拍混剪展示片](https://x.com/twoclipping/status/2102554209166000267) | Opus 5.5 | [@twoclipping](https://x.com/twoclipping) | 0:20 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102554209166000267) |
 | [Midjourney图像动态混剪](https://x.com/ciguleva/status/2104051187825946929) | Opus 5.5 | [@ciguleva](https://x.com/ciguleva) | 0:48 | — |
@@ -169,6 +170,7 @@
 | [点元素主题动态视频](https://x.com/seiiiiiiiiiiru/status/2107018580265201724) | Opus 5.5 | [@seiiiiiiiiiiru](https://x.com/seiiiiiiiiiiru) | 0:15 | — |
 | [根据 PDF 制作的动效](https://x.com/seeconvm/status/2114063937109131638) | Opus 5.5 | [@seeconvm](https://x.com/seeconvm) | 0:14 | — |
 | [一句提示词生成的广告视频](https://x.com/Nour_Sofanati/status/2103653780327641130) | Opus 5.5 | [@Nour_Sofanati](https://x.com/Nour_Sofanati) | 0:35 | — |
+| [宣传片动效镜头组件库（开源）](https://x.com/VincentWei93/status/2115797250689679394) | Opus 5.5 | [@VincentWei93](https://x.com/VincentWei93) | 2:17 | — |
 | [UI动画演示](https://x.com/kevin_t_ngo/status/2111974919353544757) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 0:25 | — |
 | [复古游戏卡片揭示UX实验](https://x.com/nickfromlater/status/2102504454721347822) | Opus 5.5 | [@nickfromlater](https://x.com/nickfromlater) | 0:16 | — |
 | [几分钟做出的自我介绍视频](https://x.com/shinjiko9/status/2103643458913304872) | Opus 5.5 | [@shinjiko9](https://x.com/shinjiko9) | 0:15 | — |
@@ -229,6 +231,7 @@
 | [宝可梦主题界面动效](https://x.com/chetaslua/status/2114027737149288714) | Opus 5.5 | [@chetaslua](https://x.com/chetaslua) | 0:40 | — |
 | [使用Sonnet 5.5制作的UI动画序列](https://x.com/higgsfield_ai/status/2104655851529392363) | Sonnet 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:10 | — |
 | [循环播放的产品发布动态模板](https://x.com/twoclipping/status/2105927781678747965) | Opus 5.5 | [@twoclipping](https://x.com/twoclipping) | 0:24 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2105927781678747965) |
+| [应用付费墙动效设计](https://x.com/BreejeAnadkat/status/2115749240823583179) | Opus 5.5 | [@BreejeAnadkat](https://x.com/BreejeAnadkat) | 0:10 | — |
 | [用Remotion与Three.js制作的视频](https://x.com/lnkiai/status/2103759350330544254) | Opus 5.5 | [@lnkiai](https://x.com/lnkiai) | 0:32 | — |
 | [迷你动画场景集](https://x.com/nusretuzman/status/2106125405602123850) | Opus 5.5 | [@nusretuzman](https://x.com/nusretuzman) | 0:11 | — |
 | [像素风角色攻击动作补帧](https://x.com/MindGate_dev/status/2111668407418650660) | Opus 5.5 | [@MindGate_dev](https://x.com/MindGate_dev) | 0:40 | — |

@@ -1,6 +1,6 @@
 # Product demos & ads
 
-231 works, 44 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+233 works, 45 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Redesigned railway station UX concept](https://x.com/jgarcelan/status/2103131351557763433) | Opus 5.5 | [@jgarcelan](https://x.com/jgarcelan) | 0:15 | — |
 | [Trade Journal open-source app edit](https://x.com/LuxAlgo/status/2104668775798739107) | Opus 5.5 | [@LuxAlgo](https://x.com/LuxAlgo) | 0:30 | — |
 | [Apple-style product launch video](https://x.com/twoclipping/status/2103835273813496100) | Opus 5.5 | [@twoclipping](https://x.com/twoclipping) | 0:29 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103835273813496100) |
+| [Cross-platform disk cleanup app](https://x.com/0xMovez/status/2115870373300326503) | Opus 5.5 | [@0xMovez](https://x.com/0xMovez) | 0:35 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2115870373300326503) |
 | [Company tool rebuilt from its own repository](https://x.com/YoheiN2023/status/2103381925671104732) | Opus 5.5 | [@YoheiN2023](https://x.com/YoheiN2023) | 0:15 | — |
 | [Viral post prediction analyzer app demo](https://x.com/0xMovez/status/2102853032698433864) | Opus 5.5 | [@0xMovez](https://x.com/0xMovez) | 0:21 | — |
 | [iPhone Duo piano app concept demo](https://x.com/rameshsrivats/status/2103094473882509700) | Opus 5.5 | [@rameshsrivats](https://x.com/rameshsrivats) | 0:26 | — |
@@ -167,6 +168,7 @@
 | [Unofficial Tesla Roadster commercial](https://x.com/kevin_t_ngo/status/2111887585639624828) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 1:05 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2111887585639624828) |
 | [One-prompt product launch video](https://x.com/javiiarchive/status/2108149080568545694) | Opus 5.5 | [@javiiarchive](https://x.com/javiiarchive) | 0:31 | — |
 | [Self-made introduction video for the model](https://x.com/nemumusitocha/status/2102528528613019932) | Opus 5.5 | [@nemumusitocha](https://x.com/nemumusitocha) | 6:37 | — |
+| [Motion ads for Chipper](https://x.com/Aygramm_/status/2115759392192659746) | Opus 5.5 | [@Aygramm_](https://x.com/Aygramm_) | 0:30 | — |
 | [Small ad made with Opus and ElevenLabs](https://x.com/pivi___/status/2103820692500156664) | Opus 5.5 | [@pivi___](https://x.com/pivi___) | 0:30 | — |
 | [PR video for a sticker creation kit](https://x.com/OoChihiroOO/status/2103821686164615243) | Opus 5.5 | [@OoChihiroOO](https://x.com/OoChihiroOO) | 0:17 | — |
 | [Interactive 3D airport operations app](https://x.com/viktoroddy/status/2113602878288052581) | Opus 5.5 | [@viktoroddy](https://x.com/viktoroddy) | 0:26 | — |
