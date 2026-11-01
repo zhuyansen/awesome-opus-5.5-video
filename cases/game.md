@@ -1,6 +1,6 @@
 # Games
 
-414 works, 56 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+420 works, 57 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [AI iteratively fixes its own game via screenshots](https://x.com/prasenx/status/2107451914954911838) | Opus 5.5 | [@prasenx](https://x.com/prasenx) | 5:20 | — |
 | [1v1 basketball game ISO](https://x.com/databallr/status/2103592504386101512) | Opus 5.5 | [@databallr](https://x.com/databallr) | 0:15 | — |
 | [Endless shooter mobile game](https://x.com/Andrew_Blumson/status/2103861788987068922) | Opus 5.5 | [@Andrew_Blumson](https://x.com/Andrew_Blumson) | 2:06 | — |
+| [Wuthering Waves Roblox port](https://x.com/phantomloxx/status/2116250433177939990) | Opus 5.5 | [@phantomloxx](https://x.com/phantomloxx) | 3:38 | — |
 | [Rainy night convenience store game](https://x.com/NFT_Chen/status/2109034305968336929) | Opus 5.5 | [@NFT_Chen](https://x.com/NFT_Chen) | 0:47 | — |
 | [Unreal Engine game world build](https://x.com/xikhar/status/2111290504491258080) | Opus 5.5 | [@xikhar](https://x.com/xikhar) | 1:36 | — |
 | [Japanese-style boating game](https://x.com/buildwithsid/status/2103198490746900830) | Opus 5.5 | [@buildwithsid](https://x.com/buildwithsid) | 1:11 | — |
@@ -65,6 +66,7 @@
 | [Game Boy Pokemon-themed TV home screen](https://x.com/robbietilton/status/2111936458923851923) | Opus 5.5 | [@robbietilton](https://x.com/robbietilton) | 0:51 | — |
 | [Far Cry 3-style playable game prototype in Three.js](https://x.com/maxt3chno/status/2103423427939897781) | Opus 5.5 | [@maxt3chno](https://x.com/maxt3chno) | 2:02 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103423427939897781) |
 | [Genshin-style game attempt](https://x.com/IHayato/status/2103043212869026013) | Opus 5.5 | [@IHayato](https://x.com/IHayato) | 1:09 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103043212869026013) |
+| [Resident Evil 4 Roblox port](https://x.com/namifl0w/status/2116149330356687315) | Opus 5.5 | [@namifl0w](https://x.com/namifl0w) | 1:00 | — |
 | [Halloween-themed mini game collection](https://x.com/YukaHara1019/status/2103881981985698252) | Opus 5.5 | [@YukaHara1019](https://x.com/YukaHara1019) | 3:03 | — |
 | [Browser-based basketball game demo](https://x.com/genex_games/status/2102695292113981770) | Opus 5.5 | [@genex_games](https://x.com/genex_games) | 0:29 | — |
 | [Persona 3 FES PC port progress](https://x.com/SrLinguicaVIVE/status/2112511666524922309) | Opus 5.5 | [@SrLinguicaVIVE](https://x.com/SrLinguicaVIVE) | 1:29 | — |
@@ -221,6 +223,7 @@
 | [Cozy game prototype 'Lantern Hallow'](https://x.com/notjazii/status/2109957002822889591) | Opus 5.5 | [@notjazii](https://x.com/notjazii) | 0:42 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2109957002822889591) |
 | [Game-like warehouse management software](https://x.com/ai_ba_reza/status/2106623136548720897) | Opus 5.5 | [@ai_ba_reza](https://x.com/ai_ba_reza) | 1:12 | — |
 | [Roblox agent-built game interface](https://x.com/killahdev/status/2114175291451187460) | Opus 5.5 | [@killahdev](https://x.com/killahdev) | 0:25 | — |
+| [AI-built tabletop adventure game](https://x.com/MengTo/status/2116404959277433240) | Opus 5.5 | [@MengTo](https://x.com/MengTo) | 1:00 | — |
 | [Playable JS guitar made with Opus 5.5](https://x.com/notargs/status/2104952295335370855) | Opus 5.5 | [@notargs](https://x.com/notargs) | 0:57 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104952295335370855) |
 | [3D kart racing game with real-world tracks](https://x.com/KenLin1985/status/2103866807954399530) | Opus 5.5 | [@KenLin1985](https://x.com/KenLin1985) | 2:57 | — |
 | [AI city news photography game](https://x.com/vamonke/status/2103176132585717823) | Opus 5.5 | [@vamonke](https://x.com/vamonke) | 0:34 | — |
@@ -249,6 +252,7 @@
 | [LLM-controlled AI avatar test in UE5](https://x.com/L_ARCH_01/status/2106656783221899534) | Opus 5.5 | [@L_ARCH_01](https://x.com/L_ARCH_01) | 0:22 | — |
 | [Kaiju city-destroying game prototype](https://x.com/Stefan_3D_AI/status/2105722739185385745) | Opus 5.5 | [@Stefan_3D_AI](https://x.com/Stefan_3D_AI) | 0:56 | — |
 | [Roblox game one-shot (5 minutes)](https://x.com/JohnKlerAI/status/2103593367284408448) | Opus 5.5 | [@JohnKlerAI](https://x.com/JohnKlerAI) | 0:06 | — |
+| [Windows 7 inside Roblox](https://x.com/foxgamin_/status/2116103363012223217) | Opus 5.5 | [@foxgamin_](https://x.com/foxgamin_) | 0:35 | — |
 | [Horse-slapping arcade mini-game](https://x.com/zenbuaini/status/2105261845963817140) | Sonnet 5.5 | [@zenbuaini](https://x.com/zenbuaini) | 0:22 | — |
 | [Endless procedurally generated exploration world](https://x.com/argofowl/status/2102529695908806728) | Opus 5.5 | [@argofowl](https://x.com/argofowl) | 1:21 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102529695908806728) |
 | [Before/after battleship weapon behavior fix](https://x.com/ShadeLurk/status/2102451828453675345) | Opus 5.5 | [@ShadeLurk](https://x.com/ShadeLurk) | 0:06 | — |
@@ -341,6 +345,7 @@
 | [Godot scene with Buddhist verse](https://x.com/KanaWorks_AI/status/2107826840035635328) | Opus 5.5 | [@KanaWorks_AI](https://x.com/KanaWorks_AI) | 1:04 | — |
 | [Japanese boat scene Three.js game](https://x.com/mdaman010/status/2107100320816095625) | Opus 5.5 | [@mdaman010](https://x.com/mdaman010) | 1:00 | — |
 | [Fighting game physics mechanics demo](https://x.com/onofumi_AI/status/2102583417208717748) | Opus 5.5 | [@onofumi_AI](https://x.com/onofumi_AI) | 0:31 | — |
+| [Pixel-art football stadium game](https://x.com/N1njaCodex/status/2116141712842293599) | Opus 5.5 | [@N1njaCodex](https://x.com/N1njaCodex) | 0:17 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2116141712842293599) |
 | [Browser game from 'make the most fun game in the world'](https://x.com/coyane_ai/status/2103668069801624015) | Opus 5.5 | [@coyane_ai](https://x.com/coyane_ai) | 1:00 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103668069801624015) |
 | [Multiplayer browser climbing game clone](https://x.com/_MaxBlade/status/2104763837777854923) | Sonnet 5.5 | [@_MaxBlade](https://x.com/_MaxBlade) | 0:57 | — |
 | [Modular mech multiplayer shooter](https://x.com/MeticulAi/status/2114414035726692735) | Opus 5.5 | [@MeticulAi](https://x.com/MeticulAi) | 2:19 | — |
@@ -360,6 +365,7 @@
 | [F-Zero-style racing game in Unreal](https://x.com/ForwardEditor/status/2104633533981491575) | Sonnet 5.5 | [@ForwardEditor](https://x.com/ForwardEditor) | 1:57 | — |
 | [AI-generated Geometry Dash level](https://x.com/phobboos/status/2110327573398143363) | Opus 5.5 | [@phobboos](https://x.com/phobboos) | 1:19 | — |
 | [Follow-up game recreation clip](https://x.com/LexnLin/status/2103539721649692713) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 0:36 | — |
+| [Roblox false-ban screen recreation](https://x.com/Acrelic395694/status/2116253042718703812) | Opus 5.5 | [@Acrelic395694](https://x.com/Acrelic395694) | 0:14 | — |
 | [CoD Zombies clone built in Three.js](https://x.com/intheworldofai/status/2104689634080882967) | Sonnet 5.5 | [@intheworldofai](https://x.com/intheworldofai) | 2:11 | — |
 | [AI data center strategy game](https://x.com/anxuanng/status/2110475736213819575) | Opus 5.5 | [@anxuanng](https://x.com/anxuanng) | 0:30 | — |
 | [Space civilization browser game](https://x.com/konstantinsaifo/status/2105261985235444072) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 1:01 | — |

@@ -1,6 +1,6 @@
 # 产品广告
 
-共 233 个作品，其中 45 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 235 个作品，其中 45 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [商业宣传视频展示](https://x.com/berlified/status/2107031729705984163) | Opus 5.5 | [@berlified](https://x.com/berlified) | 0:24 | — |
 | [游戏Rondo的3D动画宣传片](https://x.com/IHayato/status/2112430672090730746) | Opus 5.5 | [@IHayato](https://x.com/IHayato) | 0:30 | — |
 | [CapLog应用更新宣传视频](https://x.com/mommmkan/status/2105242269536354704) | Opus 5.5 | [@mommmkan](https://x.com/mommmkan) | 0:26 | — |
+| [Odin 与 raylib 桌面仪表盘界面](https://x.com/ggs4ns/status/2116088544519188528) | Opus 5.5 | [@ggs4ns](https://x.com/ggs4ns) | 0:27 | — |
 | [定制火焰品牌特效演示](https://x.com/nusretuzman/status/2103582679358718050) | Opus 5.5 | [@nusretuzman](https://x.com/nusretuzman) | 0:04 | — |
 | [可交互动画涂鸦板应用](https://x.com/ChrisGPT/status/2102615272054231093) | Opus 5.5 | [@ChrisGPT](https://x.com/ChrisGPT) | 1:51 | — |
 | [Lightspark产品宣传视频](https://x.com/davidmarcus/status/2103275618045686217) | Opus 5.5 | [@davidmarcus](https://x.com/davidmarcus) | 0:23 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103275618045686217) |
@@ -166,6 +167,7 @@
 | [互动式三维作品集书](https://x.com/KeWai386772/status/2112861606715814141) | Opus 5.5 | [@KeWai386772](https://x.com/KeWai386772) | 1:07 | — |
 | [从2D平面图制作的房地产视频](https://x.com/techhalla/status/2105376621737746716) | Opus 5.5 | [@techhalla](https://x.com/techhalla) | 0:37 | — |
 | [非官方特斯拉Roadster广告](https://x.com/kevin_t_ngo/status/2111887585639624828) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 1:05 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2111887585639624828) |
+| [根据PDF指南一小时完成的作品](https://x.com/seeconvm/status/2116138303028138040) | Opus 5.5 | [@seeconvm](https://x.com/seeconvm) | 0:18 | — |
 | [一键生成的产品发布视频](https://x.com/javiiarchive/status/2108149080568545694) | Opus 5.5 | [@javiiarchive](https://x.com/javiiarchive) | 0:31 | — |
 | [模型自制的介绍视频](https://x.com/nemumusitocha/status/2102528528613019932) | Opus 5.5 | [@nemumusitocha](https://x.com/nemumusitocha) | 6:37 | — |
 | [Chipper品牌动态广告](https://x.com/Aygramm_/status/2115759392192659746) | Opus 5.5 | [@Aygramm_](https://x.com/Aygramm_) | 0:30 | — |

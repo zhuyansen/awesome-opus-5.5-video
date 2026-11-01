@@ -1,6 +1,6 @@
 # Model comparisons
 
-444 works, 148 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+448 works, 148 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [SEO content research cost comparison](https://x.com/borjafat/status/2102469192851083619) | Opus 5.5 | [@borjafat](https://x.com/borjafat) | 0:27 | — |
 | [Dam break: Opus 5.5 vs DeepSeek cost compare](https://x.com/RafaCrackYT/status/2111809171716751720) | Opus 5.5 | [@RafaCrackYT](https://x.com/RafaCrackYT) | 0:30 | — |
 | [3D horse simulation model comparison](https://x.com/AI_Screening/status/2111750475930570800) | Opus 5.5 | [@AI_Screening](https://x.com/AI_Screening) | 0:15 | — |
+| [Frontier model matchup](https://x.com/RoundtableSpace/status/2116383410335907989) | Opus 5.5 | [@RoundtableSpace](https://x.com/RoundtableSpace) | 0:27 | — |
 | [Bosphorus ferry scene at three effort levels](https://x.com/Avenoxai/status/2109569929817305345) | Opus 5.5 | [@Avenoxai](https://x.com/Avenoxai) | 0:14 | — |
 | [Opus 5.5 vs GPT-6 Sol design comparison](https://x.com/bridgebench/status/2102469365903872306) | Opus 5.5 | [@bridgebench](https://x.com/bridgebench) | 1:19 | — |
 | [Sonnet 5 vs 5.5 orange peeling animation](https://x.com/ConsortiumAI/status/2104866677121007774) | Sonnet 5.5 | [@ConsortiumAI](https://x.com/ConsortiumAI) | 0:20 | — |
@@ -172,6 +173,7 @@
 | [Four-model 3D rocket launch comparison](https://x.com/higgsfield_ai/status/2102565251883606206) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:17 | — |
 | [Kimi and Opus scene comparison](https://x.com/nicos_ai/status/2114063235083358330) | Opus 5.5 | [@nicos_ai](https://x.com/nicos_ai) | 0:25 | — |
 | [Leaf-raking tool-call demo comparison](https://x.com/_catwu/status/2104639552170377399) | Sonnet 5.5 | [@_catwu](https://x.com/_catwu) | 0:19 | — |
+| [Four-stroke engine model comparison](https://x.com/EnvolDev/status/2116189885723734309) | Opus 5.5 | [@EnvolDev](https://x.com/EnvolDev) | 0:20 | — |
 | [Mario 3D test: Gemini 4 Argon vs Opus 5.5](https://x.com/luckeyfaraday/status/2110087305163854042) | Opus 5.5 / Sonnet 5.5 | [@luckeyfaraday](https://x.com/luckeyfaraday) | 0:24 | — |
 | [Mickey Mouse 3D recreation, two models compared](https://x.com/luckeyfaraday/status/2115459494163402987) | Opus 5.5 | [@luckeyfaraday](https://x.com/luckeyfaraday) | 0:12 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2115459494163402987) |
 | [Bowser 3D model comparison](https://x.com/RoundtableSpace/status/2112419793106276844) | Opus 5.5 | [@RoundtableSpace](https://x.com/RoundtableSpace) | 0:24 | — |
@@ -233,6 +235,7 @@
 | [Voxel self-portrait comparison](https://x.com/blueemi99/status/2106019592451789105) | Opus 5.5 | [@blueemi99](https://x.com/blueemi99) | 0:26 | — |
 | [Motion graphics comparison: Opus 5.5 vs 6.1 Sol](https://x.com/reoru_alt/status/2109584603573006403) | Opus 5.5 | [@reoru_alt](https://x.com/reoru_alt) | 0:05 | — |
 | [Opus 5.5 vs Gemini 4 Argon lighting test](https://x.com/anxuanng/status/2110357629159854196) | Opus 5.5 | [@anxuanng](https://x.com/anxuanng) | 0:24 | — |
+| [Tiny character animation comparison](https://x.com/0xPorterio/status/2116108534051905642) | Opus 5.5 | [@0xPorterio](https://x.com/0xPorterio) | 0:29 | — |
 | [Voxel Pagoda: Gemini 4 Argon vs Opus 5.5](https://x.com/LuminaBench/status/2106156060163620924) | Opus 5.5 | [@LuminaBench](https://x.com/LuminaBench) | 0:21 | — |
 | [Lighting comparison: Gemini 4 Argon vs Claude Haiku 5.5](https://x.com/Da7_Tech/status/2110073840424358377) | Haiku 5.5 | [@Da7_Tech](https://x.com/Da7_Tech) | 0:13 | — |
 | [Interactive planets website comparison](https://x.com/Kappaemme1926/status/2102729710174196022) | Opus 5.5 | [@Kappaemme1926](https://x.com/Kappaemme1926) | 0:47 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102729710174196022) |
@@ -418,6 +421,7 @@
 | [Sonnet 5.5 vs GPT-6 Astra artifact comparison](https://x.com/notjazii/status/2104657634775486794) | Sonnet 5.5 | [@notjazii](https://x.com/notjazii) | 0:50 | — |
 | [Volcano simulator model comparison](https://x.com/TokenGremlin/status/2106083195578122697) | Opus 5.5 | [@TokenGremlin](https://x.com/TokenGremlin) | 1:01 | — |
 | [Pelican wheelie bench test: DeepSeek vs Haiku 5.5](https://x.com/VulKan42069/status/2111431777781010510) | Haiku 5.5 | [@VulKan42069](https://x.com/VulKan42069) | 0:13 | — |
+| [SVG controller model comparison](https://x.com/marcthecreatorr/status/2116148349791346698) | Opus 5.5 | [@marcthecreatorr](https://x.com/marcthecreatorr) | 0:23 | — |
 | [Four-model test of a stone hand pump pumping water](https://x.com/kinderlayer/status/2115039207856988553) | Opus 5.5 | [@kinderlayer](https://x.com/kinderlayer) | 0:13 | — |
 | [Same prompt, four models side by side](https://x.com/hsprafrique/status/2112184729307091130) | Opus 5.5 / Sonnet 5.5 | [@hsprafrique](https://x.com/hsprafrique) | 0:25 | — |
 | [Same-prompt one-shot model comparison](https://x.com/Haleeeemahh/status/2113243268569870459) | Opus 5.5 | [@Haleeeemahh](https://x.com/Haleeeemahh) | 0:27 | — |

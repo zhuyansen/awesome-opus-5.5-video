@@ -1,6 +1,6 @@
 # 角色故事
 
-共 215 个作品，其中 50 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 216 个作品，其中 50 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [AI在等待间隙的梦境短片](https://x.com/Skoorbkaz/status/2103346477963550960) | Opus 5.5 | [@Skoorbkaz](https://x.com/Skoorbkaz) | 2:32 | — |
 | [夜晚电话亭文字动画小故事](https://x.com/aicreataro/status/2110689292737749146) | Opus 5.5 | [@aicreataro](https://x.com/aicreataro) | 1:11 | — |
 | [致敬视频一次性生成](https://x.com/chetaslua/status/2102717699600368045) | Opus 5.5 | [@chetaslua](https://x.com/chetaslua) | 3:18 | — |
+| [恐怖短片参赛作品](https://x.com/Just_sharon7/status/2116089891746640371) | Opus 5.5 | [@Just_sharon7](https://x.com/Just_sharon7) | 0:30 | — |
 | [苏联主题历史剪辑视频](https://x.com/Avinash25467/status/2104007585166991778) | Opus 5.5 | [@Avinash25467](https://x.com/Avinash25467) | 2:19 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104007585166991778) |
 | [博尔赫斯风格双线叙事短片](https://x.com/julianleiss/status/2108625504450592923) | Opus 5.5 | [@julianleiss](https://x.com/julianleiss) | 0:36 | — |
 | [《To What End》AI音乐视频](https://x.com/repligate/status/2104124976156786925) | Opus 5.5 | [@repligate](https://x.com/repligate) | 2:33 | — |

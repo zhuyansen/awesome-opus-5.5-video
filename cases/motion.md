@@ -1,6 +1,6 @@
 # Motion graphics & UI
 
-313 works, 90 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+321 works, 91 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Showreel built from AI dance clips](https://x.com/AbaneChan/status/2103903213363806575) | Opus 5.5 | [@AbaneChan](https://x.com/AbaneChan) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103903213363806575) |
 | [Reusable prompt template for a product motion video](https://x.com/ann_nnng/status/2103723183899852885) | Opus 5.5 | [@ann_nnng](https://x.com/ann_nnng) | 0:15 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103723183899852885) |
 | [Video generated from single prompt](https://x.com/bitfish/status/2103647787795824856) | Opus 5.5 | [@bitfish](https://x.com/bitfish) | 2:55 | — |
+| [Code-generated pixel art effects](https://x.com/rehan_shei/status/2116062680121540611) | Opus 5.5 | [@rehan_shei](https://x.com/rehan_shei) | 0:40 | — |
 | [301 recreated viral video effects](https://x.com/yihui_indie/status/2104122905961595267) | Opus 5.5 | [@yihui_indie](https://x.com/yihui_indie) | 13:39 | — |
 | [Motion graphics video](https://x.com/pratyushrungta/status/2104525735713206557) | Opus 5.5 | [@pratyushrungta](https://x.com/pratyushrungta) | 3:30 | — |
 | [Anatomy reveal motion design skill demo](https://x.com/0xMovez/status/2110735931401457935) | Opus 5.5 | [@0xMovez](https://x.com/0xMovez) | 0:12 | — |
@@ -81,6 +82,7 @@
 | [VTuber motion graphics in 5 minutes](https://x.com/shimotti_ai/status/2103831579575587190) | Opus 5.5 | [@shimotti_ai](https://x.com/shimotti_ai) | 0:15 | — |
 | [Bookmark UI micro-animation](https://x.com/kippe07/status/2103036199774585026) | Opus 5.5 | [@kippe07](https://x.com/kippe07) | 0:15 | — |
 | [One-prompt motion demo clip](https://x.com/Saccc_c/status/2105985484472377531) | Opus 5.5 / Fable 5.5 (preview) | [@Saccc_c](https://x.com/Saccc_c) | 0:15 | — |
+| [Music-synced motion graphics](https://x.com/posi_posi8/status/2116102597572755766) | Opus 5.5 | [@posi_posi8](https://x.com/posi_posi8) | 1:39 | — |
 | [Motion piece made with a design tool](https://x.com/javiiarchive/status/2103897550449516644) | Opus 5.5 | [@javiiarchive](https://x.com/javiiarchive) | 0:15 | — |
 | [Beat-Synced Motion Graphics Music Video](https://x.com/minchoi/status/2106946461980307633) | Opus 5.5 | [@minchoi](https://x.com/minchoi) | 4:30 | — |
 | [One-shot Blender animation by Opus 5.5](https://x.com/meowman_sol/status/2109637765684199564) | Opus 5.5 | [@meowman_sol](https://x.com/meowman_sol) | 0:40 | — |
@@ -157,10 +159,12 @@
 | [Showreel motion graphics for a media analytics brand](https://x.com/ismailfahmi/status/2103557833153466403) | Opus 5.5 | [@ismailfahmi](https://x.com/ismailfahmi) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103557833153466403) |
 | [20-second kinetic identity bumper for TechHalla](https://x.com/techhalla/status/2103411244468498547) | Opus 5.5 | [@techhalla](https://x.com/techhalla) | 0:20 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103411244468498547) |
 | [Collaborative Short Video](https://x.com/AiwithSaif7/status/2106268181413429416) | Opus 5.5 | [@AiwithSaif7](https://x.com/AiwithSaif7) | 0:46 | — |
+| [Coded show introduction](https://x.com/EnriTarta/status/2116251755851989096) | Opus 5.5 | [@EnriTarta](https://x.com/EnriTarta) | 0:19 | — |
 | [15-Second Motion Graphics Showcase](https://x.com/Saccc_c/status/2106376222309761094) | Opus 5.5 / Fable 5.5 (preview) | [@Saccc_c](https://x.com/Saccc_c) | 0:15 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2106376222309761094) |
 | [Extended motion designer showreel](https://x.com/himanshutwtxs/status/2103620708601639016) | Opus 5.5 | [@himanshutwtxs](https://x.com/himanshutwtxs) | 0:30 | — |
 | [Code-generated personal style video](https://x.com/sarpstar/status/2110741762159288825) | Opus 5.5 | [@sarpstar](https://x.com/sarpstar) | 0:35 | — |
 | [Beat-synced K-pop motion graphics music video](https://x.com/minchoi/status/2110001964402831512) | Opus 5.5 | [@minchoi](https://x.com/minchoi) | 3:51 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2110001964402831512) |
+| [Experimental visual interface](https://x.com/DilumSanjaya/status/2116212311170142568) | Opus 5.5 | [@DilumSanjaya](https://x.com/DilumSanjaya) | 1:05 | — |
 | [Motion design animation generated from a PDF guide](https://x.com/0xnicc0/status/2115109842641998134) | Opus 5.5 | [@0xnicc0](https://x.com/0xnicc0) | 0:21 | — |
 | [Viral video based on trending topics](https://x.com/DrClownPhD/status/2103510971046096906) | Opus 5.5 | [@DrClownPhD](https://x.com/DrClownPhD) | 0:34 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103510971046096906) |
 | [15-second motion graphics showreel for a website](https://x.com/melvynx/status/2103714680577638493) | Opus 5.5 | [@melvynx](https://x.com/melvynx) | 0:45 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103714680577638493) |
@@ -200,6 +204,7 @@
 | [GrokBot motion animation](https://x.com/0xMovez/status/2106078367833591915) | Opus 5.5 | [@0xMovez](https://x.com/0xMovez) | 2:12 | — |
 | [Self-portrait website with piano score and spiral line](https://x.com/chetaslua/status/2108902793797091808) | Opus 5.5 | [@chetaslua](https://x.com/chetaslua) | 0:53 | — |
 | [Single-prompt AI-generated video](https://x.com/akshaymarch7/status/2103546306849644678) | Opus 5.5 | [@akshaymarch7](https://x.com/akshaymarch7) | 0:52 | — |
+| [MagnatesMedia-style 3D parallax animations](https://x.com/trymirage/status/2116195377259106570) | Opus 5.5 | [@trymirage](https://x.com/trymirage) | 0:26 | — |
 | [30-second showreel as a niche branding agency](https://x.com/jacksonfall/status/2103925420211229164) | Opus 5.5 | [@jacksonfall](https://x.com/jacksonfall) | 0:36 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103925420211229164) |
 | [Motion graphic video made from GrotBot icon collection](https://x.com/Multi_Serio_Ai/status/2105722219892789560) | Opus 5.5 | [@Multi_Serio_Ai](https://x.com/Multi_Serio_Ai) | 3:04 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2105722219892789560) |
 | [Hand-directed motion graphics piece](https://x.com/johncodunayo/status/2105283066604454395) | Opus 5.5 | [@johncodunayo](https://x.com/johncodunayo) | 0:08 | — |
@@ -235,6 +240,7 @@
 | [Video built with Remotion and Three.js](https://x.com/lnkiai/status/2103759350330544254) | Opus 5.5 | [@lnkiai](https://x.com/lnkiai) | 0:32 | — |
 | [Mini Animated Scenes](https://x.com/nusretuzman/status/2106125405602123850) | Opus 5.5 | [@nusretuzman](https://x.com/nusretuzman) | 0:11 | — |
 | [Pixel art attack animation frame boost](https://x.com/MindGate_dev/status/2111668407418650660) | Opus 5.5 | [@MindGate_dev](https://x.com/MindGate_dev) | 0:40 | — |
+| [Claude-made showreel](https://x.com/kloss_xyz/status/2116296321313521795) | Opus 5.5 | [@kloss_xyz](https://x.com/kloss_xyz) | 1:30 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2116296321313521795) |
 | [Business motion design video](https://x.com/webasamoah/status/2112237497887658441) | Opus 5.5 | [@webasamoah](https://x.com/webasamoah) | 0:45 | — |
 | [Motion design sequence](https://x.com/flxrnc/status/2113703025239818247) | Opus 5.5 | [@flxrnc](https://x.com/flxrnc) | 0:19 | — |
 | [Code-based UI motion design loop](https://x.com/0xAiky/status/2111814234090693110) | Opus 5.5 | [@0xAiky](https://x.com/0xAiky) | 0:14 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2111814234090693110) |
@@ -290,6 +296,7 @@
 | [Lyrics integrated into a 3D video](https://x.com/aicreataro/status/2113549902084997427) | Opus 5.5 | [@aicreataro](https://x.com/aicreataro) | 0:25 | — |
 | [Smile benefits motion graphics video](https://x.com/ai4everyday/status/2106385179006685254) | Opus 5.5 | [@ai4everyday](https://x.com/ai4everyday) | 0:57 | — |
 | [Recreated motion graphic effect](https://x.com/trymirage/status/2110845066747007314) | Opus 5.5 | [@trymirage](https://x.com/trymirage) | 0:08 | — |
+| [Interactive pixel skeleton](https://x.com/ann_nnng/status/2116174452522435044) | Opus 5.5 | [@ann_nnng](https://x.com/ann_nnng) | 0:28 | — |
 | [Motion designer showreel with custom brand kit](https://x.com/lukasersil/status/2103742861971726495) | Opus 5.5 | [@lukasersil](https://x.com/lukasersil) | 0:15 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103742861971726495) |
 | [Teacher's Day tribute animation with handwriting effect](https://x.com/youssef_aymanc/status/2107466191178711054) | Opus 5.5 | [@youssef_aymanc](https://x.com/youssef_aymanc) | 0:33 | — |
 | [PUNCTUM dot font interactive site](https://x.com/sundyme/status/2107108673407627533) | Opus 5.5 | [@sundyme](https://x.com/sundyme) | 1:06 | — |
@@ -298,6 +305,7 @@
 | [Animated onboarding experience](https://x.com/BreejeAnadkat/status/2113620817649299590) | Opus 5.5 | [@BreejeAnadkat](https://x.com/BreejeAnadkat) | 0:22 | — |
 | [Lumno website SVG feature demo animations](https://x.com/Kubai087/status/2113241980268593422) | Opus 5.5 | [@Kubai087](https://x.com/Kubai087) | 1:07 | — |
 | [UI animation combining multiple AI tools](https://x.com/yitong/status/2110463528754880952) | Opus 5.5 | [@yitong](https://x.com/yitong) | 0:14 | — |
+| [Generated visual piece](https://x.com/devteamdrew/status/2116267359740518808) | Opus 5.5 | [@devteamdrew](https://x.com/devteamdrew) | 0:32 | — |
 | [Chaotic brain-rot style motion video](https://x.com/kloss_xyz/status/2103664956482941143) | Opus 5.5 | [@kloss_xyz](https://x.com/kloss_xyz) | 2:34 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103664956482941143) |
 | [Flat illustration mole animation via code](https://x.com/onofumi_AI/status/2102696204249526348) | Opus 5.5 | [@onofumi_AI](https://x.com/onofumi_AI) | 0:20 | — |
 | [Animated dark factory with 146 robot workers](https://x.com/0xwhrrari/status/2114703675264291003) | Opus 5.5 | [@0xwhrrari](https://x.com/0xwhrrari) | 0:21 | — |

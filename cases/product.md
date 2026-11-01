@@ -1,6 +1,6 @@
 # Product demos & ads
 
-233 works, 45 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+235 works, 45 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Business promo video showcase](https://x.com/berlified/status/2107031729705984163) | Opus 5.5 | [@berlified](https://x.com/berlified) | 0:24 | — |
 | [3D animated commercial for Rondo game](https://x.com/IHayato/status/2112430672090730746) | Opus 5.5 | [@IHayato](https://x.com/IHayato) | 0:30 | — |
 | [CapLog app update promo video](https://x.com/mommmkan/status/2105242269536354704) | Opus 5.5 | [@mommmkan](https://x.com/mommmkan) | 0:26 | — |
+| [Odin and raylib desktop dashboard UI](https://x.com/ggs4ns/status/2116088544519188528) | Opus 5.5 | [@ggs4ns](https://x.com/ggs4ns) | 0:27 | — |
 | [Custom flame branding effect demo](https://x.com/nusretuzman/status/2103582679358718050) | Opus 5.5 | [@nusretuzman](https://x.com/nusretuzman) | 0:04 | — |
 | [Interactive animated drawing scratchpad](https://x.com/ChrisGPT/status/2102615272054231093) | Opus 5.5 | [@ChrisGPT](https://x.com/ChrisGPT) | 1:51 | — |
 | [Lightspark product promo video](https://x.com/davidmarcus/status/2103275618045686217) | Opus 5.5 | [@davidmarcus](https://x.com/davidmarcus) | 0:23 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103275618045686217) |
@@ -166,6 +167,7 @@
 | [Interactive 3D portfolio book](https://x.com/KeWai386772/status/2112861606715814141) | Opus 5.5 | [@KeWai386772](https://x.com/KeWai386772) | 1:07 | — |
 | [Real estate video from 2D floor plan](https://x.com/techhalla/status/2105376621737746716) | Opus 5.5 | [@techhalla](https://x.com/techhalla) | 0:37 | — |
 | [Unofficial Tesla Roadster commercial](https://x.com/kevin_t_ngo/status/2111887585639624828) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 1:05 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2111887585639624828) |
+| [One-hour build from a PDF guide](https://x.com/seeconvm/status/2116138303028138040) | Opus 5.5 | [@seeconvm](https://x.com/seeconvm) | 0:18 | — |
 | [One-prompt product launch video](https://x.com/javiiarchive/status/2108149080568545694) | Opus 5.5 | [@javiiarchive](https://x.com/javiiarchive) | 0:31 | — |
 | [Self-made introduction video for the model](https://x.com/nemumusitocha/status/2102528528613019932) | Opus 5.5 | [@nemumusitocha](https://x.com/nemumusitocha) | 6:37 | — |
 | [Motion ads for Chipper](https://x.com/Aygramm_/status/2115759392192659746) | Opus 5.5 | [@Aygramm_](https://x.com/Aygramm_) | 0:30 | — |

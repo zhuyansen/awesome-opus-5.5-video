@@ -1,6 +1,6 @@
 # 制作流程
 
-共 168 个作品，其中 32 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 171 个作品，其中 32 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [用代码剪辑制作的品牌音乐视频](https://x.com/gkxspace/status/2107108561851445324) | Opus 5.5 | [@gkxspace](https://x.com/gkxspace) | 0:15 | — |
 | [万圣节涩谷街头影像剪辑](https://x.com/_3912657840/status/2110298969997996370) | Opus 5.5 | [@_3912657840](https://x.com/_3912657840) | 0:30 | — |
 | [幼儿日常瞬间短视频](https://x.com/hoko525/status/2110292964270608425) | Opus 5.5 | [@hoko525](https://x.com/hoko525) | 0:11 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2110292964270608425) |
+| [自动化二维半短视频代理](https://x.com/Y0urDumble/status/2116341413755453670) | Opus 5.5 | [@Y0urDumble](https://x.com/Y0urDumble) | 0:23 | — |
 | [动漫风格剪辑混剪视频](https://x.com/VincentWei93/status/2103415186086674920) | Opus 5.5 | [@VincentWei93](https://x.com/VincentWei93) | 0:59 | — |
 | [卡点漫画风音乐剪辑](https://x.com/aimikoda/status/2113764485429125125) | Opus 5.5 | [@aimikoda](https://x.com/aimikoda) | 0:27 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2113764485429125125) |
 | [犯罪纪录片风格视频](https://x.com/sarpstar/status/2113695392705523855) | Opus 5.5 | [@sarpstar](https://x.com/sarpstar) | 7:58 | — |
@@ -115,8 +116,10 @@
 | [After Effects中的场景转移特效](https://x.com/higgsfield_ai/status/2103521966376587593) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:06 | — |
 | [视频制作幕后工作流程](https://x.com/aicreataro/status/2109286588891214094) | Opus 5.5 | [@aicreataro](https://x.com/aicreataro) | 0:42 | — |
 | [互动音乐系统演示](https://x.com/kyubuns/status/2111453039228043604) | Opus 5.5 | [@kyubuns](https://x.com/kyubuns) | 0:27 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2111453039228043604) |
+| [代码剪辑视频导入剪映草稿](https://x.com/leaf_sanren/status/2116164468015337516) | Opus 5.5 | [@leaf_sanren](https://x.com/leaf_sanren) | 0:16 | — |
 | [在After Effects中用Claude操控TouchDesigner](https://x.com/higgsfield_ai/status/2103525847991025776) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:06 | — |
 | [喜爱美剧的介绍视频](https://x.com/_nogu66/status/2103751299808497959) | Opus 5.5 | [@_nogu66](https://x.com/_nogu66) | 0:15 | — |
+| [Claude视频剪辑实验](https://x.com/filip_animation/status/2116239008187425135) | Opus 5.5 | [@filip_animation](https://x.com/filip_animation) | 0:14 | — |
 | [希伯来语一次生成的AI配音特效视频](https://x.com/itaydressler/status/2105268598100865461) | Opus 5.5 | [@itaydressler](https://x.com/itaydressler) | 3:26 | — |
 | [多工具漫才短片制作流程](https://x.com/tkz_aiart/status/2103408393470066754) | Opus 5.5 | [@tkz_aiart](https://x.com/tkz_aiart) | 0:56 | — |
 | [KAMI Circuit音乐可视化影像](https://x.com/aratamadao/status/2103706285204255186) | Opus 5.5 | [@aratamadao](https://x.com/aratamadao) | 0:28 | — |

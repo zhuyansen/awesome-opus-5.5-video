@@ -1,6 +1,6 @@
 # 模型对比
 
-共 444 个作品，其中 148 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 448 个作品，其中 148 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [SEO内容调研成本对比](https://x.com/borjafat/status/2102469192851083619) | Opus 5.5 | [@borjafat](https://x.com/borjafat) | 0:27 | — |
 | [炸毁大坝：Opus 5.5与DeepSeek成本对比](https://x.com/RafaCrackYT/status/2111809171716751720) | Opus 5.5 | [@RafaCrackYT](https://x.com/RafaCrackYT) | 0:30 | — |
 | [3D马模拟多模型对比](https://x.com/AI_Screening/status/2111750475930570800) | Opus 5.5 | [@AI_Screening](https://x.com/AI_Screening) | 0:15 | — |
+| [前沿模型对比](https://x.com/RoundtableSpace/status/2116383410335907989) | Opus 5.5 | [@RoundtableSpace](https://x.com/RoundtableSpace) | 0:27 | — |
 | [博斯普鲁斯海峡渡轮场景三档推理强度对比](https://x.com/Avenoxai/status/2109569929817305345) | Opus 5.5 | [@Avenoxai](https://x.com/Avenoxai) | 0:14 | — |
 | [Opus5.5对比GPT-6 Sol设计能力](https://x.com/bridgebench/status/2102469365903872306) | Opus 5.5 | [@bridgebench](https://x.com/bridgebench) | 1:19 | — |
 | [Sonnet 5与5.5削橙子动画对比](https://x.com/ConsortiumAI/status/2104866677121007774) | Sonnet 5.5 | [@ConsortiumAI](https://x.com/ConsortiumAI) | 0:20 | — |
@@ -172,6 +173,7 @@
 | [四模型3D火箭发射对比](https://x.com/higgsfield_ai/status/2102565251883606206) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:17 | — |
 | [Kimi 与 Opus 场景对比](https://x.com/nicos_ai/status/2114063235083358330) | Opus 5.5 | [@nicos_ai](https://x.com/nicos_ai) | 0:25 | — |
 | [扫院子落叶的工具调用对比演示](https://x.com/_catwu/status/2104639552170377399) | Sonnet 5.5 | [@_catwu](https://x.com/_catwu) | 0:19 | — |
+| [四冲程发动机模型对比](https://x.com/EnvolDev/status/2116189885723734309) | Opus 5.5 | [@EnvolDev](https://x.com/EnvolDev) | 0:20 | — |
 | [马里奥3D测试：Gemini 4 Argon对比Opus 5.5](https://x.com/luckeyfaraday/status/2110087305163854042) | Opus 5.5 / Sonnet 5.5 | [@luckeyfaraday](https://x.com/luckeyfaraday) | 0:24 | — |
 | [米老鼠 3D 复刻双模型对比](https://x.com/luckeyfaraday/status/2115459494163402987) | Opus 5.5 | [@luckeyfaraday](https://x.com/luckeyfaraday) | 0:12 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2115459494163402987) |
 | [Bowser三维模型对比](https://x.com/RoundtableSpace/status/2112419793106276844) | Opus 5.5 | [@RoundtableSpace](https://x.com/RoundtableSpace) | 0:24 | — |
@@ -233,6 +235,7 @@
 | [体素自画像对比](https://x.com/blueemi99/status/2106019592451789105) | Opus 5.5 | [@blueemi99](https://x.com/blueemi99) | 0:26 | — |
 | [Opus 5.5与6.1 Sol动效对比](https://x.com/reoru_alt/status/2109584603573006403) | Opus 5.5 | [@reoru_alt](https://x.com/reoru_alt) | 0:05 | — |
 | [Opus 5.5对比Gemini 4 Argon灯光效果](https://x.com/anxuanng/status/2110357629159854196) | Opus 5.5 | [@anxuanng](https://x.com/anxuanng) | 0:24 | — |
+| [微型角色动画对比](https://x.com/0xPorterio/status/2116108534051905642) | Opus 5.5 | [@0xPorterio](https://x.com/0xPorterio) | 0:29 | — |
 | [体素宝塔：Gemini 4 Argon 与 Opus 5.5 对比](https://x.com/LuminaBench/status/2106156060163620924) | Opus 5.5 | [@LuminaBench](https://x.com/LuminaBench) | 0:21 | — |
 | [灯光效果对比：Gemini 4 Argon对比Claude Haiku 5.5](https://x.com/Da7_Tech/status/2110073840424358377) | Haiku 5.5 | [@Da7_Tech](https://x.com/Da7_Tech) | 0:13 | — |
 | [虚构行星互动网站模型对比](https://x.com/Kappaemme1926/status/2102729710174196022) | Opus 5.5 | [@Kappaemme1926](https://x.com/Kappaemme1926) | 0:47 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102729710174196022) |
@@ -418,6 +421,7 @@
 | [Sonnet 5.5对比GPT-6 Astra的产出对比](https://x.com/notjazii/status/2104657634775486794) | Sonnet 5.5 | [@notjazii](https://x.com/notjazii) | 0:50 | — |
 | [火山模拟器模型对比](https://x.com/TokenGremlin/status/2106083195578122697) | Opus 5.5 | [@TokenGremlin](https://x.com/TokenGremlin) | 1:01 | — |
 | [鹈鹕摇摇长椅测试：DeepSeek对比Haiku 5.5](https://x.com/VulKan42069/status/2111431777781010510) | Haiku 5.5 | [@VulKan42069](https://x.com/VulKan42069) | 0:13 | — |
+| [PS5 手柄 SVG 模型对比](https://x.com/marcthecreatorr/status/2116148349791346698) | Opus 5.5 | [@marcthecreatorr](https://x.com/marcthecreatorr) | 0:23 | — |
 | [四模型对比：石制手压泵抽水](https://x.com/kinderlayer/status/2115039207856988553) | Opus 5.5 | [@kinderlayer](https://x.com/kinderlayer) | 0:13 | — |
 | [同一提示词四模型并排对比](https://x.com/hsprafrique/status/2112184729307091130) | Opus 5.5 / Sonnet 5.5 | [@hsprafrique](https://x.com/hsprafrique) | 0:25 | — |
 | [同一提示词一次生成对比](https://x.com/Haleeeemahh/status/2113243268569870459) | Opus 5.5 | [@Haleeeemahh](https://x.com/Haleeeemahh) | 0:27 | — |

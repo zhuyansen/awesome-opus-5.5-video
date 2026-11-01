@@ -1,6 +1,6 @@
 # 科普讲解
 
-共 205 个作品，其中 52 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 208 个作品，其中 53 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -116,7 +116,9 @@
 | [氧气从空气到细胞的生物互动课](https://x.com/techartist_/status/2115565230772392277) | Opus 5.5 | [@techartist_](https://x.com/techartist_) | 0:30 | — |
 | [Trace稀有度系统讲解视频](https://x.com/traceforms/status/2105029763421147460) | Opus 5.5 | [@traceforms](https://x.com/traceforms) | 1:18 | — |
 | [GPT模型发展史解说动画](https://x.com/yanhua1010/status/2102610348427911592) | Opus 5.5 | [@yanhua1010](https://x.com/yanhua1010) | 1:30 | — |
+| [动物细胞生命过程图](https://x.com/kevin_t_ngo/status/2116423724379656329) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 0:44 | — |
 | [中国建筑史知识点讲解视频](https://x.com/akokoi1/status/2103650399773475318) | Opus 5.5 | [@akokoi1](https://x.com/akokoi1) | 1:35 | — |
+| [面部睡眠问题科普视频](https://x.com/gabriel1/status/2116382505440067968) | Opus 5.5 | [@gabriel1](https://x.com/gabriel1) | 1:42 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2116382505440067968) |
 | [灯塔照明定理动画证明](https://x.com/algekalipso/status/2110658162214785351) | Opus 5.5 | [@algekalipso](https://x.com/algekalipso) | 0:26 | — |
 | [星系恒星形成率探索器](https://x.com/jwuphysics/status/2103290186268365205) | Opus 5.5 | [@jwuphysics](https://x.com/jwuphysics) | 2:55 | — |
 | [一张 Shopify 订单从下单到送达的全过程](https://x.com/konstantinsaifo/status/2112654123669639665) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 0:44 | — |
@@ -180,6 +182,7 @@
 | [互动式机器人工程实验室](https://x.com/0xForem/status/2113624961822646351) | Opus 5.5 | [@0xForem](https://x.com/0xForem) | 0:46 | — |
 | [人体解剖科普视频](https://x.com/zeuuss_01/status/2115889104617431257) | Opus 5.5 | [@zeuuss_01](https://x.com/zeuuss_01) | 0:54 | — |
 | [Gemini套餐对比图表视频](https://x.com/ksa8Turky/status/2111508035482825171) | Opus 5.5 | [@ksa8Turky](https://x.com/ksa8Turky) | 0:30 | — |
+| [互动式客机系统科普](https://x.com/techartist_/status/2116213592068632863) | Opus 5.5 | [@techartist_](https://x.com/techartist_) | 0:29 | — |
 | [查询扇出讲解视频](https://x.com/harpreetchatha_/status/2103591810253914585) | Opus 5.5 | [@harpreetchatha_](https://x.com/harpreetchatha_) | 0:20 | — |
 | [原子弹历史三维短片](https://x.com/imjustnewatai/status/2106238699872956427) | Fable 5.5 (preview) | [@imjustnewatai](https://x.com/imjustnewatai) | 3:00 | — |
 | [AI发展史动画时间线视频](https://x.com/kloss_xyz/status/2103652674336067876) | Opus 5.5 | [@kloss_xyz](https://x.com/kloss_xyz) | 2:52 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103652674336067876) |

@@ -1,6 +1,6 @@
 # Characters & stories
 
-215 works, 50 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+216 works, 50 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [What an AI dreams about between messages](https://x.com/Skoorbkaz/status/2103346477963550960) | Opus 5.5 | [@Skoorbkaz](https://x.com/Skoorbkaz) | 2:32 | — |
 | [Night phone booth 3D text motion story](https://x.com/aicreataro/status/2110689292737749146) | Opus 5.5 | [@aicreataro](https://x.com/aicreataro) | 1:11 | — |
 | [Tribute video one-shot creation](https://x.com/chetaslua/status/2102717699600368045) | Opus 5.5 | [@chetaslua](https://x.com/chetaslua) | 3:18 | — |
+| [Horror contest short film](https://x.com/Just_sharon7/status/2116089891746640371) | Opus 5.5 | [@Just_sharon7](https://x.com/Just_sharon7) | 0:30 | — |
 | [USSR-themed history edit video](https://x.com/Avinash25467/status/2104007585166991778) | Opus 5.5 | [@Avinash25467](https://x.com/Avinash25467) | 2:19 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104007585166991778) |
 | [Borges-inspired dual narrative short film](https://x.com/julianleiss/status/2108625504450592923) | Opus 5.5 | [@julianleiss](https://x.com/julianleiss) | 0:36 | — |
 | [AI-made music video for 'To What End'](https://x.com/repligate/status/2104124976156786925) | Opus 5.5 | [@repligate](https://x.com/repligate) | 2:33 | — |

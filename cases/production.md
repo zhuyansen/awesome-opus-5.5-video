@@ -1,6 +1,6 @@
 # Music, editing & production
 
-168 works, 32 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+171 works, 32 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Branded music video edited with code](https://x.com/gkxspace/status/2107108561851445324) | Opus 5.5 | [@gkxspace](https://x.com/gkxspace) | 0:15 | — |
 | [Halloween Shibuya street footage edit](https://x.com/_3912657840/status/2110298969997996370) | Opus 5.5 | [@_3912657840](https://x.com/_3912657840) | 0:30 | — |
 | [Toddler relatable moments short video](https://x.com/hoko525/status/2110292964270608425) | Opus 5.5 | [@hoko525](https://x.com/hoko525) | 0:11 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2110292964270608425) |
+| [Automated 2.5D shorts agency](https://x.com/Y0urDumble/status/2116341413755453670) | Opus 5.5 | [@Y0urDumble](https://x.com/Y0urDumble) | 0:23 | — |
 | [Anime-style MAD video mashup](https://x.com/VincentWei93/status/2103415186086674920) | Opus 5.5 | [@VincentWei93](https://x.com/VincentWei93) | 0:59 | — |
 | [Beat-synced manga-style music edit](https://x.com/aimikoda/status/2113764485429125125) | Opus 5.5 | [@aimikoda](https://x.com/aimikoda) | 0:27 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2113764485429125125) |
 | [Crime documentary YouTube video](https://x.com/sarpstar/status/2113695392705523855) | Opus 5.5 | [@sarpstar](https://x.com/sarpstar) | 7:58 | — |
@@ -115,8 +116,10 @@
 | [Scene relocation VFX in After Effects](https://x.com/higgsfield_ai/status/2103521966376587593) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:06 | — |
 | [Behind-the-scenes video production workflow](https://x.com/aicreataro/status/2109286588891214094) | Opus 5.5 | [@aicreataro](https://x.com/aicreataro) | 0:42 | — |
 | [Interactive music system demo](https://x.com/kyubuns/status/2111453039228043604) | Opus 5.5 | [@kyubuns](https://x.com/kyubuns) | 0:27 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2111453039228043604) |
+| [Code-edited video pushed into a Jianying draft](https://x.com/leaf_sanren/status/2116164468015337516) | Opus 5.5 | [@leaf_sanren](https://x.com/leaf_sanren) | 0:16 | — |
 | [TouchDesigner controlled via Claude in After Effects](https://x.com/higgsfield_ai/status/2103525847991025776) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:06 | — |
 | [Intro video for a favorite TV drama](https://x.com/_nogu66/status/2103751299808497959) | Opus 5.5 | [@_nogu66](https://x.com/_nogu66) | 0:15 | — |
+| [Claude video editing experiment](https://x.com/filip_animation/status/2116239008187425135) | Opus 5.5 | [@filip_animation](https://x.com/filip_animation) | 0:14 | — |
 | [Hebrew one-shot video with AI voices and effects](https://x.com/itaydressler/status/2105268598100865461) | Opus 5.5 | [@itaydressler](https://x.com/itaydressler) | 3:26 | — |
 | [Multi-tool comedy skit video pipeline](https://x.com/tkz_aiart/status/2103408393470066754) | Opus 5.5 | [@tkz_aiart](https://x.com/tkz_aiart) | 0:56 | — |
 | [KAMI Circuit music visualizer](https://x.com/aratamadao/status/2103706285204255186) | Opus 5.5 | [@aratamadao](https://x.com/aratamadao) | 0:28 | — |

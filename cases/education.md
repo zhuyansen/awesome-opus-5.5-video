@@ -1,6 +1,6 @@
 # Explainers & education
 
-205 works, 52 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+208 works, 53 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -116,7 +116,9 @@
 | [Interactive biology lesson on oxygen from air to cells](https://x.com/techartist_/status/2115565230772392277) | Opus 5.5 | [@techartist_](https://x.com/techartist_) | 0:30 | — |
 | [Trace rarity system explainer video](https://x.com/traceforms/status/2105029763421147460) | Opus 5.5 | [@traceforms](https://x.com/traceforms) | 1:18 | — |
 | [GPT model history explainer animation](https://x.com/yanhua1010/status/2102610348427911592) | Opus 5.5 | [@yanhua1010](https://x.com/yanhua1010) | 1:30 | — |
+| [Animal cell life diagram](https://x.com/kevin_t_ngo/status/2116423724379656329) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 0:44 | — |
 | [Chinese architecture history explainer](https://x.com/akokoi1/status/2103650399773475318) | Opus 5.5 | [@akokoi1](https://x.com/akokoi1) | 1:35 | — |
+| [Sleep-related facial anatomy explainer](https://x.com/gabriel1/status/2116382505440067968) | Opus 5.5 | [@gabriel1](https://x.com/gabriel1) | 1:42 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2116382505440067968) |
 | [Lighthouse illumination proof animation](https://x.com/algekalipso/status/2110658162214785351) | Opus 5.5 | [@algekalipso](https://x.com/algekalipso) | 0:26 | — |
 | [Galaxy Star-Formation Explorer](https://x.com/jwuphysics/status/2103290186268365205) | Opus 5.5 | [@jwuphysics](https://x.com/jwuphysics) | 2:55 | — |
 | [Journey of a Shopify order from click to doorstep](https://x.com/konstantinsaifo/status/2112654123669639665) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 0:44 | — |
@@ -180,6 +182,7 @@
 | [Interactive robotics engineering lab](https://x.com/0xForem/status/2113624961822646351) | Opus 5.5 | [@0xForem](https://x.com/0xForem) | 0:46 | — |
 | [Human anatomy explainer video](https://x.com/zeuuss_01/status/2115889104617431257) | Opus 5.5 | [@zeuuss_01](https://x.com/zeuuss_01) | 0:54 | — |
 | [Gemini plans comparison chart video](https://x.com/ksa8Turky/status/2111508035482825171) | Opus 5.5 | [@ksa8Turky](https://x.com/ksa8Turky) | 0:30 | — |
+| [Interactive airliner systems lesson](https://x.com/techartist_/status/2116213592068632863) | Opus 5.5 | [@techartist_](https://x.com/techartist_) | 0:29 | — |
 | [Query fan-out explainer video](https://x.com/harpreetchatha_/status/2103591810253914585) | Opus 5.5 | [@harpreetchatha_](https://x.com/harpreetchatha_) | 0:20 | — |
 | [Atomic bomb history 3D film](https://x.com/imjustnewatai/status/2106238699872956427) | Fable 5.5 (preview) | [@imjustnewatai](https://x.com/imjustnewatai) | 3:00 | — |
 | [History of AI animated timeline video](https://x.com/kloss_xyz/status/2103652674336067876) | Opus 5.5 | [@kloss_xyz](https://x.com/kloss_xyz) | 2:52 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103652674336067876) |
