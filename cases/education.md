@@ -1,6 +1,6 @@
 # Explainers & education
 
-208 works, 53 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+211 works, 53 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Interactive ESP32 circuit lessons](https://x.com/DilumSanjaya/status/2114762155333689679) | Opus 5.5 | [@DilumSanjaya](https://x.com/DilumSanjaya) | 1:47 | — |
 | [Elementary math carrying addition lesson](https://x.com/akira_papa_IT/status/2102899599501668561) | Opus 5.5 | [@akira_papa_IT](https://x.com/akira_papa_IT) | 2:40 | — |
 | [America-focused civilization documentary](https://x.com/frontierism/status/2103738204411379949) | Opus 5.5 | [@frontierism](https://x.com/frontierism) | 1:59 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103738204411379949) |
+| [Interactive electricity lesson](https://x.com/techartist_/status/2116950641356705928) | Opus 5.5 | [@techartist_](https://x.com/techartist_) | 0:14 | — |
 | [Free-electron laser explainer video](https://x.com/Frenchie_/status/2103731959918948730) | Opus 5.5 | [@Frenchie_](https://x.com/Frenchie_) | 3:21 | — |
 | [Zoom journey from a cell to quantum fields](https://x.com/paraschopra/status/2103099756167991347) | Opus 5.5 | [@paraschopra](https://x.com/paraschopra) | 1:47 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103099756167991347) |
 | [History of Claude model releases explainer](https://x.com/superalesha/status/2102463796149440888) | Opus 5.5 | [@superalesha](https://x.com/superalesha) | 1:28 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102463796149440888) |
@@ -82,6 +83,7 @@
 | [UMAP explainer animation for ML students](https://x.com/goodside/status/2103505085292593220) | Opus 5.5 | [@goodside](https://x.com/goodside) | 5:05 | — |
 | [Interactive caching code explainer](https://x.com/BHolmesDev/status/2106829942206173497) | Opus 5.5 | [@BHolmesDev](https://x.com/BHolmesDev) | 0:19 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2106829942206173497) |
 | [Interactive survival skills learning app](https://x.com/DilumSanjaya/status/2115488004425089201) | Opus 5.5 | [@DilumSanjaya](https://x.com/DilumSanjaya) | 1:35 | — |
+| [DeepSeek superagent explainer video](https://x.com/nicbstme/status/2117129728872288512) | Opus 5.5 | [@nicbstme](https://x.com/nicbstme) | 1:30 | — |
 | [SpaceX history video made via chat](https://x.com/xiaohu/status/2110287968783179922) | Opus 5.5 | [@xiaohu](https://x.com/xiaohu) | 5:39 | — |
 | [Wordless animation on AI misconceptions](https://x.com/TheSpacerr/status/2105253140765479341) | Sonnet 5.5 | [@TheSpacerr](https://x.com/TheSpacerr) | 0:45 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2105253140765479341) |
 | [Zero-shot documentary on Jewish history](https://x.com/eranshir/status/2103564391170089429) | Opus 5.5 | [@eranshir](https://x.com/eranshir) | 3:43 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103564391170089429) |
@@ -200,6 +202,7 @@
 | [3D holographic book on Newton's laws](https://x.com/techartist_/status/2115122099161559140) | Opus 5.5 | [@techartist_](https://x.com/techartist_) | 0:26 | — |
 | [Torus cell decomposition math explainer](https://x.com/yohaku121244/status/2103744418977358021) | Opus 5.5 | [@yohaku121244](https://x.com/yohaku121244) | 2:21 | — |
 | [Relativity bike ride 3D explainer](https://x.com/techartist_/status/2107151400472088835) | Opus 5.5 | [@techartist_](https://x.com/techartist_) | 0:28 | — |
+| [Bacterium scientific visualization](https://x.com/thegreatest_sv/status/2116967509735747833) | Opus 5.5 | [@thegreatest_sv](https://x.com/thegreatest_sv) | 0:25 | — |
 | [Interactive wind tunnel lift explainer](https://x.com/konstantinsaifo/status/2109595253879816337) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 0:34 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2109595253879816337) |
 | [Econometrics explainer with simulations](https://x.com/mehmetsongur_/status/2108896132395061356) | Opus 5.5 | [@mehmetsongur_](https://x.com/mehmetsongur_) | 12:00 | — |
 | [Battle of Midway 3D explainer film](https://x.com/wshuyi/status/2103644455916175505) | Opus 5.5 | [@wshuyi](https://x.com/wshuyi) | 8:29 | — |

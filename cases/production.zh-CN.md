@@ -1,6 +1,6 @@
 # 制作流程
 
-共 171 个作品，其中 32 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 172 个作品，其中 32 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [VRChat着色器中构建的RISC-V模拟器](https://x.com/Michael_Moroz_/status/2107713497224130638) | Opus 5.5 | [@Michael_Moroz_](https://x.com/Michael_Moroz_) | 3:11 | — |
 | [一镜胜过两个月剪辑流程的视频](https://x.com/SimonHoiberg/status/2103916672080097521) | Opus 5.5 | [@SimonHoiberg](https://x.com/SimonHoiberg) | 0:15 | — |
 | [真人口播转线稿动画B-roll](https://x.com/AxtonLiu/status/2102827887732932956) | Opus 5.5 | [@AxtonLiu](https://x.com/AxtonLiu) | 1:24 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102827887732932956) |
+| [程序化三维舞蹈视频框架](https://x.com/lucianlamp/status/2116804148301848846) | Opus 5.5 | [@lucianlamp](https://x.com/lucianlamp) | 0:15 | — |
 | [用Opus和Blender完成单提示词视频剪辑](https://x.com/rileybrown/status/2111616349071913051) | Opus 5.5 | [@rileybrown](https://x.com/rileybrown) | 1:22 | — |
 | [AI配音配图制作的电台风格视频](https://x.com/mmmiyama_D/status/2109603289939738813) | Opus 5.5 | [@mmmiyama_D](https://x.com/mmmiyama_D) | 1:36 | — |
 | [斯里朗甘无人机素材短片](https://x.com/tnexplorer/status/2112880050706293081) | Opus 5.5 | [@tnexplorer](https://x.com/tnexplorer) | 0:57 | — |

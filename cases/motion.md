@@ -1,6 +1,6 @@
 # Motion graphics & UI
 
-324 works, 91 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+325 works, 92 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Typography motion graphics animation](https://x.com/higgsfield_ai/status/2103963588012744859) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:15 | — |
 | [Another Opus 5.5 showreel-style video](https://x.com/americanhodl8/status/2103959107862663337) | Opus 5.5 | [@americanhodl8](https://x.com/americanhodl8) | 2:59 | — |
 | [JavaScript animation via Replit Animation](https://x.com/samuel_spitz/status/2103293794594816100) | Opus 5.5 | [@samuel_spitz](https://x.com/samuel_spitz) | 0:28 | — |
+| [Animated pixel art Halloween diorama](https://x.com/zer0point_eth/status/2116832762912973220) | Opus 5.5 | [@zer0point_eth](https://x.com/zer0point_eth) | 0:13 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2116832762912973220) |
 | [Marketing video made with Opus 5.5](https://x.com/cocona_ailab/status/2102752076107497980) | Opus 5.5 | [@cocona_ailab](https://x.com/cocona_ailab) | 0:10 | — |
 | [Eminem Godzilla video redrawn in JavaScript](https://x.com/abhinavflac/status/2106638839666373114) | Fable 5.5 (preview) | [@abhinavflac](https://x.com/abhinavflac) | 0:45 | — |
 | [Personalized motion video about the creator's account](https://x.com/superalesha/status/2103578446056321426) | Opus 5.5 | [@superalesha](https://x.com/superalesha) | 0:25 | — |

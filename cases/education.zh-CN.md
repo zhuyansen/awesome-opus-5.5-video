@@ -1,6 +1,6 @@
 # 科普讲解
 
-共 208 个作品，其中 53 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 211 个作品，其中 53 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [ESP32电路互动入门课](https://x.com/DilumSanjaya/status/2114762155333689679) | Opus 5.5 | [@DilumSanjaya](https://x.com/DilumSanjaya) | 1:47 | — |
 | [小学数学进位加法讲解视频](https://x.com/akira_papa_IT/status/2102899599501668561) | Opus 5.5 | [@akira_papa_IT](https://x.com/akira_papa_IT) | 2:40 | — |
 | [聚焦美国的文明纪录片](https://x.com/frontierism/status/2103738204411379949) | Opus 5.5 | [@frontierism](https://x.com/frontierism) | 1:59 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103738204411379949) |
+| [互动电学课程](https://x.com/techartist_/status/2116950641356705928) | Opus 5.5 | [@techartist_](https://x.com/techartist_) | 0:14 | — |
 | [自由电子激光讲解视频](https://x.com/Frenchie_/status/2103731959918948730) | Opus 5.5 | [@Frenchie_](https://x.com/Frenchie_) | 3:21 | — |
 | [从细胞到量子场的缩放动画之旅](https://x.com/paraschopra/status/2103099756167991347) | Opus 5.5 | [@paraschopra](https://x.com/paraschopra) | 1:47 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103099756167991347) |
 | [Claude模型发展史解说动画](https://x.com/superalesha/status/2102463796149440888) | Opus 5.5 | [@superalesha](https://x.com/superalesha) | 1:28 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102463796149440888) |
@@ -82,6 +83,7 @@
 | [面向机器学习学生的UMAP讲解动画](https://x.com/goodside/status/2103505085292593220) | Opus 5.5 | [@goodside](https://x.com/goodside) | 5:05 | — |
 | [缓存代码交互式讲解](https://x.com/BHolmesDev/status/2106829942206173497) | Opus 5.5 | [@BHolmesDev](https://x.com/BHolmesDev) | 0:19 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2106829942206173497) |
 | [野外求生技能互动学习应用](https://x.com/DilumSanjaya/status/2115488004425089201) | Opus 5.5 | [@DilumSanjaya](https://x.com/DilumSanjaya) | 1:35 | — |
+| [DeepSeek 超级智能体讲解视频](https://x.com/nicbstme/status/2117129728872288512) | Opus 5.5 | [@nicbstme](https://x.com/nicbstme) | 1:30 | — |
 | [通过聊天制作的SpaceX历史视频](https://x.com/xiaohu/status/2110287968783179922) | Opus 5.5 | [@xiaohu](https://x.com/xiaohu) | 5:39 | — |
 | [无字动画：人们对AI的误解](https://x.com/TheSpacerr/status/2105253140765479341) | Sonnet 5.5 | [@TheSpacerr](https://x.com/TheSpacerr) | 0:45 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2105253140765479341) |
 | [犹太历史纪录片一次生成](https://x.com/eranshir/status/2103564391170089429) | Opus 5.5 | [@eranshir](https://x.com/eranshir) | 3:43 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103564391170089429) |
@@ -200,6 +202,7 @@
 | [牛顿定律3D全息互动书](https://x.com/techartist_/status/2115122099161559140) | Opus 5.5 | [@techartist_](https://x.com/techartist_) | 0:26 | — |
 | [环面胞腔分解数学讲解动画](https://x.com/yohaku121244/status/2103744418977358021) | Opus 5.5 | [@yohaku121244](https://x.com/yohaku121244) | 2:21 | — |
 | [相对论自行车3D演示](https://x.com/techartist_/status/2107151400472088835) | Opus 5.5 | [@techartist_](https://x.com/techartist_) | 0:28 | — |
+| [细菌科学可视化](https://x.com/thegreatest_sv/status/2116967509735747833) | Opus 5.5 | [@thegreatest_sv](https://x.com/thegreatest_sv) | 0:25 | — |
 | [升力原理互动风洞演示](https://x.com/konstantinsaifo/status/2109595253879816337) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 0:34 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2109595253879816337) |
 | [计量经济学模拟讲解视频](https://x.com/mehmetsongur_/status/2108896132395061356) | Opus 5.5 | [@mehmetsongur_](https://x.com/mehmetsongur_) | 12:00 | — |
 | [《中途岛海战》3D讲解影片](https://x.com/wshuyi/status/2103644455916175505) | Opus 5.5 | [@wshuyi](https://x.com/wshuyi) | 8:29 | — |

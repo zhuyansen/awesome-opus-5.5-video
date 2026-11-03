@@ -1,6 +1,6 @@
 # Characters & stories
 
-214 works, 49 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+215 works, 49 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Nidec earnings report music video](https://x.com/AbaneChan/status/2105288003543564590) | Opus 5.5 | [@AbaneChan](https://x.com/AbaneChan) | 5:12 | — |
 | [Claude parody song animated video](https://x.com/eudaemonea/status/2103159823407722893) | Opus 5.5 | [@eudaemonea](https://x.com/eudaemonea) | 6:02 | — |
 | [Animated episode drawn entirely in code](https://x.com/shfred0/status/2102879301876031808) | Opus 5.5 | [@shfred0](https://x.com/shfred0) | 2:00 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102879301876031808) |
+| [Post-human narrative video](https://x.com/chetaslua/status/2116878661035106515) | Fable 5.5 (preview) | [@chetaslua](https://x.com/chetaslua) | 0:50 | — |
 | [Animated day-in-the-life narration by an AI](https://x.com/kevin_t_ngo/status/2105004703906218366) | Sonnet 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 0:48 | — |
 | [1920s-style newsreel about a Tesla flying car](https://x.com/long_jingai/status/2113312553560687101) | Opus 5.5 | [@long_jingai](https://x.com/long_jingai) | 1:05 | — |
 | [Stickman survival thriller](https://x.com/finnardley/status/2115786060231770351) | Opus 5.5 | [@finnardley](https://x.com/finnardley) | 1:23 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2115786060231770351) |

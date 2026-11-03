@@ -1,6 +1,6 @@
 # Music, editing & production
 
-171 works, 32 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+172 works, 32 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [RISC-V emulator built in VRChat shader](https://x.com/Michael_Moroz_/status/2107713497224130638) | Opus 5.5 | [@Michael_Moroz_](https://x.com/Michael_Moroz_) | 3:11 | — |
 | [One-shot video outdoing a 2-month editing pipeline](https://x.com/SimonHoiberg/status/2103916672080097521) | Opus 5.5 | [@SimonHoiberg](https://x.com/SimonHoiberg) | 0:15 | — |
 | [Talking-head video converted to line-art B-roll](https://x.com/AxtonLiu/status/2102827887732932956) | Opus 5.5 | [@AxtonLiu](https://x.com/AxtonLiu) | 1:24 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102827887732932956) |
+| [Procedural 3D dance video framework](https://x.com/lucianlamp/status/2116804148301848846) | Opus 5.5 | [@lucianlamp](https://x.com/lucianlamp) | 0:15 | — |
 | [Single-prompt video edit with Opus and Blender](https://x.com/rileybrown/status/2111616349071913051) | Opus 5.5 | [@rileybrown](https://x.com/rileybrown) | 1:22 | — |
 | [Radio-style video with AI voice and images](https://x.com/mmmiyama_D/status/2109603289939738813) | Opus 5.5 | [@mmmiyama_D](https://x.com/mmmiyama_D) | 1:36 | — |
 | [Drone footage reel about Srirangam](https://x.com/tnexplorer/status/2112880050706293081) | Opus 5.5 | [@tnexplorer](https://x.com/tnexplorer) | 0:57 | — |

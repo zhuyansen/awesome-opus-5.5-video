@@ -1,6 +1,6 @@
 # 动效设计
 
-共 324 个作品，其中 91 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 325 个作品，其中 92 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [文字排版动效动画](https://x.com/higgsfield_ai/status/2103963588012744859) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:15 | — |
 | [另一段Opus 5.5展示片风格视频](https://x.com/americanhodl8/status/2103959107862663337) | Opus 5.5 | [@americanhodl8](https://x.com/americanhodl8) | 2:59 | — |
 | [Replit Animation结合Opus的JS动画](https://x.com/samuel_spitz/status/2103293794594816100) | Opus 5.5 | [@samuel_spitz](https://x.com/samuel_spitz) | 0:28 | — |
+| [万圣节动态像素艺术场景](https://x.com/zer0point_eth/status/2116832762912973220) | Opus 5.5 | [@zer0point_eth](https://x.com/zer0point_eth) | 0:13 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2116832762912973220) |
 | [用Opus5.5制作的营销视频](https://x.com/cocona_ailab/status/2102752076107497980) | Opus 5.5 | [@cocona_ailab](https://x.com/cocona_ailab) | 0:10 | — |
 | [用JavaScript重绘的埃米纳姆哥斯拉视频](https://x.com/abhinavflac/status/2106638839666373114) | Fable 5.5 (preview) | [@abhinavflac](https://x.com/abhinavflac) | 0:45 | — |
 | [关于创作者账号的定制动效视频](https://x.com/superalesha/status/2103578446056321426) | Opus 5.5 | [@superalesha](https://x.com/superalesha) | 0:25 | — |

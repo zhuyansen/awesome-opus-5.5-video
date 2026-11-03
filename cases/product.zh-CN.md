@@ -1,6 +1,6 @@
 # 产品广告
 
-共 237 个作品，其中 45 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 240 个作品，其中 46 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [密室逃脱游戏介绍视频](https://x.com/moya_vc/status/2103681038862147977) | Opus 5.5 | [@moya_vc](https://x.com/moya_vc) | 1:41 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103681038862147977) |
 | [订阅管理应用界面设计](https://x.com/amine_prcs/status/2114678483213234526) | Opus 5.5 | [@amine_prcs](https://x.com/amine_prcs) | 0:46 | — |
 | [快节奏品牌广告](https://x.com/LexnLin/status/2106101651010449796) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 0:14 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2106101651010449796) |
+| [代码制作的宣传片](https://x.com/GaoYipeng/status/2117045423378665704) | Opus 5.5 | [@GaoYipeng](https://x.com/GaoYipeng) | 0:30 | — |
 | [Sonnet 5.5自制游戏预告片](https://x.com/0xPaulius/status/2105368838699204717) | Sonnet 5.5 | [@0xPaulius](https://x.com/0xPaulius) | 0:27 | — |
 | [Opus 5.5 生成的产品宣传视频](https://x.com/decohack/status/2102621064518160485) | Opus 5.5 | [@decohack](https://x.com/decohack) | 0:39 | — |
 | [加州农田互动地图](https://x.com/sabhyac267/status/2109751973625110827) | Opus 5.5 | [@sabhyac267](https://x.com/sabhyac267) | 0:14 | — |
@@ -209,7 +210,9 @@
 | [完全由Opus制作的应用介绍视频](https://x.com/__oQuery/status/2103745537455673700) | Opus 5.5 | [@__oQuery](https://x.com/__oQuery) | 1:16 | — |
 | [AI相性测试小应用](https://x.com/hituji_1234/status/2103088141439787502) | Opus 5.5 | [@hituji_1234](https://x.com/hituji_1234) | 0:51 | — |
 | [《图书管理员》无限图书馆预告片](https://x.com/GuliMoreno/status/2111773991991943442) | Opus 5.5 | [@GuliMoreno](https://x.com/GuliMoreno) | 0:20 | — |
+| [电影感三维滚动品牌网站](https://x.com/janm_uiux/status/2116972762514207070) | Opus 5.5 | [@janm_uiux](https://x.com/janm_uiux) | 0:09 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2116972762514207070) |
 | [Remote Control功能的定格动画风格广告](https://x.com/noahzweben/status/2103522997978255704) | Opus 5.5 | [@noahzweben](https://x.com/noahzweben) | 0:12 | — |
+| [在浏览器 CAD 中设计的缝纫机](https://x.com/Solvaix/status/2116968405165375859) | Opus 5.5 | [@Solvaix](https://x.com/Solvaix) | 2:50 | — |
 | [交互式前端作品](https://x.com/LexnLin/status/2106843514772639995) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 0:42 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2106843514772639995) |
 | [非官方Theranos广告](https://x.com/kevin_t_ngo/status/2112877982239096988) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 1:04 | — |
 | [Flowith Canvas AI创作作品](https://x.com/DerekNee/status/2103729728549220815) | Opus 5.5 | [@DerekNee](https://x.com/DerekNee) | 0:45 | — |

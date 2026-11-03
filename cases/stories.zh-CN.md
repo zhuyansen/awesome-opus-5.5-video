@@ -1,6 +1,6 @@
 # 角色故事
 
-共 214 个作品，其中 49 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 215 个作品，其中 49 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [日本电产财报音乐视频](https://x.com/AbaneChan/status/2105288003543564590) | Opus 5.5 | [@AbaneChan](https://x.com/AbaneChan) | 5:12 | — |
 | [Claude拟人恶搞歌曲动画视频](https://x.com/eudaemonea/status/2103159823407722893) | Opus 5.5 | [@eudaemonea](https://x.com/eudaemonea) | 6:02 | — |
 | [纯代码绘制的动画短片](https://x.com/shfred0/status/2102879301876031808) | Opus 5.5 | [@shfred0](https://x.com/shfred0) | 2:00 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102879301876031808) |
+| [后人类主题叙事视频](https://x.com/chetaslua/status/2116878661035106515) | Fable 5.5 (preview) | [@chetaslua](https://x.com/chetaslua) | 0:50 | — |
 | [AI讲述训练者一天生活的动画](https://x.com/kevin_t_ngo/status/2105004703906218366) | Sonnet 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 0:48 | — |
 | [1920年代风格特斯拉飞行汽车新闻短片](https://x.com/long_jingai/status/2113312553560687101) | Opus 5.5 | [@long_jingai](https://x.com/long_jingai) | 1:05 | — |
 | [棍人 survival 惊悚短片](https://x.com/finnardley/status/2115786060231770351) | Opus 5.5 | [@finnardley](https://x.com/finnardley) | 1:23 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2115786060231770351) |
