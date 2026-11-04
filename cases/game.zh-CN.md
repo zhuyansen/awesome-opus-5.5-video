@@ -1,6 +1,6 @@
 # 游戏
 
-共 433 个作品，其中 61 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 437 个作品，其中 63 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [青蛙王国模拟器游戏](https://x.com/Belbizaz/status/2111120760660254842) | Opus 5.5 | [@Belbizaz](https://x.com/Belbizaz) | 0:30 | — |
 | [36小时打造魔兽世界风格游戏](https://x.com/Stefan_3D_AI/status/2104109918894580091) | Opus 5.5 | [@Stefan_3D_AI](https://x.com/Stefan_3D_AI) | 1:17 | — |
 | [游戏角色VFX开发日志](https://x.com/Stefan_3D_AI/status/2103467172995690835) | Opus 5.5 | [@Stefan_3D_AI](https://x.com/Stefan_3D_AI) | 0:49 | — |
+| [《战地1942》浏览器多人移植版](https://x.com/levelsio/status/2117374984192512391) | Opus 5.5 | [@levelsio](https://x.com/levelsio) | 2:01 | — |
 | [自带铁轨的矿车模组](https://x.com/0xJarvi/status/2109776982200508771) | Opus 5.5 | [@0xJarvi](https://x.com/0xJarvi) | 0:54 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2109776982200508771) |
 | [体素风三国无双式动作游戏](https://x.com/BubuStd/status/2102991290568954264) | Opus 5.5 | [@BubuStd](https://x.com/BubuStd) | 0:19 | — |
 | [宝可梦主题Game Boy电视主屏幕](https://x.com/robbietilton/status/2111936458923851923) | Opus 5.5 | [@robbietilton](https://x.com/robbietilton) | 0:51 | — |
@@ -247,6 +248,7 @@
 | [含商店、宠物与金币系统的Roblox游戏](https://x.com/ai_growth_avii/status/2111118746786165033) | Opus 5.5 | [@ai_growth_avii](https://x.com/ai_growth_avii) | 0:52 | — |
 | [单个HTML文件实现的Minecraft](https://x.com/dummerspast39/status/2111464346010152967) | Fable 5.5 (preview) | [@dummerspast39](https://x.com/dummerspast39) | 2:45 | — |
 | [可玩的芯片工厂策略模拟](https://x.com/anxuanng/status/2110816730163605912) | Opus 5.5 | [@anxuanng](https://x.com/anxuanng) | 0:30 | — |
+| [铅笔草稿世界主题的浏览器3D动作游戏](https://x.com/Nenlyonis/status/2117253593371922601) | Opus 5.5 | [@Nenlyonis](https://x.com/Nenlyonis) | 3:18 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2117253593371922601) |
 | [特斯拉跑车网页小游戏](https://x.com/edwinarbus/status/2112198585731440753) | Opus 5.5 | [@edwinarbus](https://x.com/edwinarbus) | 0:49 | — |
 | [Roblox游戏原型](https://x.com/jakebball11/status/2106160432184803363) | Opus 5.5 | [@jakebball11](https://x.com/jakebball11) | 0:17 | — |
 | [在网页平台构建部署的游戏](https://x.com/DEvansData/status/2103552268133949451) | Opus 5.5 | [@DEvansData](https://x.com/DEvansData) | 0:41 | — |
@@ -292,6 +294,7 @@
 | [Opus与Ultracode制作的Godot游戏](https://x.com/RealFedeURU/status/2103408134677250131) | Opus 5.5 | [@RealFedeURU](https://x.com/RealFedeURU) | 0:52 | — |
 | [披萨制作模拟游戏](https://x.com/MrTacticalX/status/2113987724260872333) | Opus 5.5 | [@MrTacticalX](https://x.com/MrTacticalX) | 0:56 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2113987724260872333) |
 | [警察追逐街机风格游戏原型](https://x.com/froessell/status/2103789415323562325) | Opus 5.5 | [@froessell](https://x.com/froessell) | 0:59 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103789415323562325) |
+| [3D像素风室内排球游戏](https://x.com/vib3coded/status/2117367865632227543) | Sonnet 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:17 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2117367865632227543) |
 | [商业大亨经营游戏](https://x.com/alexcooldev/status/2110742093404729651) | Opus 5.5 / Sonnet 5.5 | [@alexcooldev](https://x.com/alexcooldev) | 2:42 | — |
 | [手绘风格带招法分析的国际象棋游戏](https://x.com/higgsfield_ai/status/2102534514228822197) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:20 | — |
 | [自动生成精灵与动画的平台跳跃游戏](https://x.com/asynkimo/status/2115422615439392937) | Opus 5.5 | [@asynkimo](https://x.com/asynkimo) | 0:12 | — |
@@ -321,6 +324,7 @@
 | [包含117个动画的角色动画控制器](https://x.com/MrCollison/status/2107932939816435792) | Opus 5.5 | [@MrCollison](https://x.com/MrCollison) | 2:44 | — |
 | [受喷射战士启发的浏览器游戏v3](https://x.com/JaydenDavisNC/status/2103666159916638384) | Opus 5.5 | [@JaydenDavisNC](https://x.com/JaydenDavisNC) | 2:42 | — |
 | [像素风喷火龙大战水箭龟游戏](https://x.com/anxuanng/status/2113692879680115199) | Opus 5.5 | [@anxuanng](https://x.com/anxuanng) | 0:27 | — |
+| [GTA V 混合现实扩展层](https://x.com/stspanho/status/2117381588694757863) | Opus 5.5 | [@stspanho](https://x.com/stspanho) | 1:29 | — |
 | [B2B SaaS飞行模拟游戏](https://x.com/donaldjewkes/status/2108267057485898032) | Opus 5.5 | [@donaldjewkes](https://x.com/donaldjewkes) | 0:25 | — |
 | [2XKO格斗角色登陆英雄联盟可玩](https://x.com/GamefxAI/status/2108256673190306289) | Opus 5.5 | [@GamefxAI](https://x.com/GamefxAI) | 0:48 | — |
 | [像素风格肉鸽小游戏](https://x.com/KanaWorks_AI/status/2103691326088962290) | Opus 5.5 | [@KanaWorks_AI](https://x.com/KanaWorks_AI) | 0:36 | — |

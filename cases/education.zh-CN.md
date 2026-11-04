@@ -1,6 +1,6 @@
 # 科普讲解
 
-共 211 个作品，其中 53 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 212 个作品，其中 53 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [交互式引力透镜黑洞实验室](https://x.com/Voxyz_ai/status/2103117246860345550) | Opus 5.5 | [@Voxyz_ai](https://x.com/Voxyz_ai) | 0:22 | — |
 | [芯片发展简史科普动画](https://x.com/AndyL5cc/status/2104437066755125601) | Opus 5.5 | [@AndyL5cc](https://x.com/AndyL5cc) | 3:29 | — |
 | [随机微分方程讲解视频](https://x.com/tommy_love123/status/2103263710517350418) | Opus 5.5 | [@tommy_love123](https://x.com/tommy_love123) | 8:01 | — |
+| [贝多芬失聪纪录短片](https://x.com/naometzger/status/2117313324576821613) | Opus 5.5 | [@naometzger](https://x.com/naometzger) | 0:28 | — |
 | [三分钟讲述五千年印度历史](https://x.com/HindolSengupta/status/2103489466841362886) | Opus 5.5 | [@HindolSengupta](https://x.com/HindolSengupta) | 3:43 | — |
 | [动漫风格科普讲解视频](https://x.com/emollick/status/2103272686570918334) | Opus 5.5 | [@emollick](https://x.com/emollick) | 2:07 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103272686570918334) |
 | [SQLite代码库解析视频](https://x.com/deedydas/status/2104391577091407965) | Opus 5.5 | [@deedydas](https://x.com/deedydas) | 7:30 | — |

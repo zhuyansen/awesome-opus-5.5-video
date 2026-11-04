@@ -1,6 +1,6 @@
 # Model comparisons
 
-464 works, 155 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+467 works, 157 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Embroidered Apple logo model comparison](https://x.com/kaolti/status/2109774104027140410) | Opus 5.5 | [@kaolti](https://x.com/kaolti) | 0:13 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2109774104027140410) |
 | [Orbit landing page with and without TasteSkill](https://x.com/itsluneri/status/2110564814531797386) | Opus 5.5 | [@itsluneri](https://x.com/itsluneri) | 0:53 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2110564814531797386) |
 | [Elon Musk Paintbrush portrait](https://x.com/EvoLinkAi/status/2104617133820850379) | Opus 5.5 | [@EvoLinkAi](https://x.com/EvoLinkAi) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104617133820850379) |
+| [Giant Robot Anime Scene Model Comparison](https://x.com/SahilPanhotra/status/2117276551247278264) | Fable 5.5 (preview) | [@SahilPanhotra](https://x.com/SahilPanhotra) | 1:21 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2117276551247278264) |
 | [Running chicken animation comparison](https://x.com/whydeso/status/2109809320858722530) | Opus 5.5 | [@whydeso](https://x.com/whydeso) | 0:31 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2109809320858722530) |
 | [Gemini 4 Argon vs Opus 5.5 comparison](https://x.com/VulKan42069/status/2110029722046631985) | Opus 5.5 | [@VulKan42069](https://x.com/VulKan42069) | 0:32 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2110029722046631985) |
 | [White tiger model comparison](https://x.com/kinderlayer/status/2112887335687749657) | Opus 5.5 | [@kinderlayer](https://x.com/kinderlayer) | 0:15 | — |
@@ -194,6 +195,7 @@
 | [Japanese-style fantasy city pixel animation](https://x.com/notjazii/status/2105033612093698466) | Opus 5.5 / Sonnet 5.5 | [@notjazii](https://x.com/notjazii) | 0:08 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2105033612093698466) |
 | [Chun-Li Blender comparison](https://x.com/luckeyfaraday/status/2112369964749656153) | Opus 5.5 | [@luckeyfaraday](https://x.com/luckeyfaraday) | 0:24 | — |
 | [3D cyberpunk city high-speed ride](https://x.com/higgsfield_ai/status/2105087030464245944) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:21 | — |
+| [Ember Vale 3D open-world action RPG](https://x.com/noclipepe/status/2117222592536789149) | Opus 5.5 / Fable 5.5 (preview) | [@noclipepe](https://x.com/noclipepe) | 0:48 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2117222592536789149) |
 | [Four-model video prompt comparison](https://x.com/srikanthvaluri/status/2105278940906668233) | Opus 5.5 / Sonnet 5.5 | [@srikanthvaluri](https://x.com/srikanthvaluri) | 0:13 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2105278940906668233) |
 | [Solarpunk city shader benchmark result](https://x.com/danveloper/status/2102483043252424986) | Opus 5.5 | [@danveloper](https://x.com/danveloper) | 0:18 | — |
 | [Mentos and Coke physics experiment comparison](https://x.com/ivanainai/status/2105363571785789546) | Opus 5.5 | [@ivanainai](https://x.com/ivanainai) | 1:00 | — |
@@ -269,6 +271,7 @@
 | [Three.js test across three models](https://x.com/AI_Screening/status/2113184121883435047) | Opus 5.5 | [@AI_Screening](https://x.com/AI_Screening) | 0:15 | — |
 | [Multi-model cyberpunk character comparison](https://x.com/gtanczyk/status/2111932183946449162) | Opus 5.5 | [@gtanczyk](https://x.com/gtanczyk) | 0:24 | — |
 | [Soft-body physics simulation comparison](https://x.com/higgsfield_ai/status/2110471008285282669) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:16 | — |
+| [Front-end code animation comparison](https://x.com/Smlay_ero/status/2117210973576765462) | Fable 5.5 (preview) | [@Smlay_ero](https://x.com/Smlay_ero) | 1:02 | — |
 | [Mac mini internals explainer side-by-side](https://x.com/Zer0Sat0shi/status/2111831630339772899) | Opus 5.5 | [@Zer0Sat0shi](https://x.com/Zer0Sat0shi) | 0:54 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2111831630339772899) |
 | [Anime combat game dev comparison](https://x.com/higgsfield_ai/status/2110449758439723292) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:30 | — |
 | [Game brief comparison with tied visual quality](https://x.com/noclipepe/status/2103626667222515856) | Opus 5.5 | [@noclipepe](https://x.com/noclipepe) | 0:32 | — |

@@ -1,6 +1,6 @@
 # Explainers & education
 
-211 works, 53 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+212 works, 53 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Interactive gravitational lensing black hole lab](https://x.com/Voxyz_ai/status/2103117246860345550) | Opus 5.5 | [@Voxyz_ai](https://x.com/Voxyz_ai) | 0:22 | — |
 | [AI-generated history of computer chips](https://x.com/AndyL5cc/status/2104437066755125601) | Opus 5.5 | [@AndyL5cc](https://x.com/AndyL5cc) | 3:29 | — |
 | [Stochastic differential equations explainer](https://x.com/tommy_love123/status/2103263710517350418) | Opus 5.5 | [@tommy_love123](https://x.com/tommy_love123) | 8:01 | — |
+| [Documentary reel on Beethoven going deaf](https://x.com/naometzger/status/2117313324576821613) | Opus 5.5 | [@naometzger](https://x.com/naometzger) | 0:28 | — |
 | [5,000 years of Indian history in three minutes](https://x.com/HindolSengupta/status/2103489466841362886) | Opus 5.5 | [@HindolSengupta](https://x.com/HindolSengupta) | 3:43 | — |
 | [Anime-style explainer remix video](https://x.com/emollick/status/2103272686570918334) | Opus 5.5 | [@emollick](https://x.com/emollick) | 2:07 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103272686570918334) |
 | [SQLite Codebase Explainer](https://x.com/deedydas/status/2104391577091407965) | Opus 5.5 | [@deedydas](https://x.com/deedydas) | 7:30 | — |

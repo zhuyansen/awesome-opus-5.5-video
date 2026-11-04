@@ -1,6 +1,6 @@
 # Games
 
-433 works, 61 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+437 works, 63 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Frog King Simulator built with Claude](https://x.com/Belbizaz/status/2111120760660254842) | Opus 5.5 | [@Belbizaz](https://x.com/Belbizaz) | 0:30 | — |
 | [WoW-style game built in 36 hours](https://x.com/Stefan_3D_AI/status/2104109918894580091) | Opus 5.5 | [@Stefan_3D_AI](https://x.com/Stefan_3D_AI) | 1:17 | — |
 | [Game character VFX devlog](https://x.com/Stefan_3D_AI/status/2103467172995690835) | Opus 5.5 | [@Stefan_3D_AI](https://x.com/Stefan_3D_AI) | 0:49 | — |
+| [Battlefield 1942 Browser Port with Multiplayer](https://x.com/levelsio/status/2117374984192512391) | Opus 5.5 | [@levelsio](https://x.com/levelsio) | 2:01 | — |
 | [Self-laying rail minecart mod](https://x.com/0xJarvi/status/2109776982200508771) | Opus 5.5 | [@0xJarvi](https://x.com/0xJarvi) | 0:54 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2109776982200508771) |
 | [Voxel Dynasty Warriors style hack-and-slash](https://x.com/BubuStd/status/2102991290568954264) | Opus 5.5 | [@BubuStd](https://x.com/BubuStd) | 0:19 | — |
 | [Game Boy Pokemon-themed TV home screen](https://x.com/robbietilton/status/2111936458923851923) | Opus 5.5 | [@robbietilton](https://x.com/robbietilton) | 0:51 | — |
@@ -247,6 +248,7 @@
 | [Roblox game with shop, pets and cash systems](https://x.com/ai_growth_avii/status/2111118746786165033) | Opus 5.5 | [@ai_growth_avii](https://x.com/ai_growth_avii) | 0:52 | — |
 | [Minecraft clone built in single HTML file](https://x.com/dummerspast39/status/2111464346010152967) | Fable 5.5 (preview) | [@dummerspast39](https://x.com/dummerspast39) | 2:45 | — |
 | [Playable chip fab strategy simulation](https://x.com/anxuanng/status/2110816730163605912) | Opus 5.5 | [@anxuanng](https://x.com/anxuanng) | 0:30 | — |
+| [Browser 3D action game with sketch-world theme](https://x.com/Nenlyonis/status/2117253593371922601) | Opus 5.5 | [@Nenlyonis](https://x.com/Nenlyonis) | 3:18 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2117253593371922601) |
 | [Tesla Roadster browser game](https://x.com/edwinarbus/status/2112198585731440753) | Opus 5.5 | [@edwinarbus](https://x.com/edwinarbus) | 0:49 | — |
 | [Roblox game prototype](https://x.com/jakebball11/status/2106160432184803363) | Opus 5.5 | [@jakebball11](https://x.com/jakebball11) | 0:17 | — |
 | [Game built and deployed on a web platform](https://x.com/DEvansData/status/2103552268133949451) | Opus 5.5 | [@DEvansData](https://x.com/DEvansData) | 0:41 | — |
@@ -292,6 +294,7 @@
 | [Godot game built with Opus and Ultracode](https://x.com/RealFedeURU/status/2103408134677250131) | Opus 5.5 | [@RealFedeURU](https://x.com/RealFedeURU) | 0:52 | — |
 | [Pizza making simulator game](https://x.com/MrTacticalX/status/2113987724260872333) | Opus 5.5 | [@MrTacticalX](https://x.com/MrTacticalX) | 0:56 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2113987724260872333) |
 | [Police chase arcade game prototype](https://x.com/froessell/status/2103789415323562325) | Opus 5.5 | [@froessell](https://x.com/froessell) | 0:59 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103789415323562325) |
+| [3D pixel-art indoor volleyball game](https://x.com/vib3coded/status/2117367865632227543) | Sonnet 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:17 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2117367865632227543) |
 | [Business tycoon management game](https://x.com/alexcooldev/status/2110742093404729651) | Opus 5.5 / Sonnet 5.5 | [@alexcooldev](https://x.com/alexcooldev) | 2:42 | — |
 | [Hand-drawn style chess game with move analysis](https://x.com/higgsfield_ai/status/2102534514228822197) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:20 | — |
 | [Platformer with generated sprites and animations](https://x.com/asynkimo/status/2115422615439392937) | Opus 5.5 | [@asynkimo](https://x.com/asynkimo) | 0:12 | — |
@@ -321,6 +324,7 @@
 | [Character animation controller with 117 clips](https://x.com/MrCollison/status/2107932939816435792) | Opus 5.5 | [@MrCollison](https://x.com/MrCollison) | 2:44 | — |
 | [Splatoon-inspired browser game v3](https://x.com/JaydenDavisNC/status/2103666159916638384) | Opus 5.5 | [@JaydenDavisNC](https://x.com/JaydenDavisNC) | 2:42 | — |
 | [Pixel Charizard versus Blastoise game](https://x.com/anxuanng/status/2113692879680115199) | Opus 5.5 | [@anxuanng](https://x.com/anxuanng) | 0:27 | — |
+| [Mixed reality layer for GTA V](https://x.com/stspanho/status/2117381588694757863) | Opus 5.5 | [@stspanho](https://x.com/stspanho) | 1:29 | — |
 | [B2B SaaS flight simulator game](https://x.com/donaldjewkes/status/2108267057485898032) | Opus 5.5 | [@donaldjewkes](https://x.com/donaldjewkes) | 0:25 | — |
 | [2XKO fighters playable in League of Legends](https://x.com/GamefxAI/status/2108256673190306289) | Opus 5.5 | [@GamefxAI](https://x.com/GamefxAI) | 0:48 | — |
 | [Pixel-art roguelike mini game](https://x.com/KanaWorks_AI/status/2103691326088962290) | Opus 5.5 | [@KanaWorks_AI](https://x.com/KanaWorks_AI) | 0:36 | — |

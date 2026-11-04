@@ -1,6 +1,6 @@
 # Product demos & ads
 
-240 works, 46 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+242 works, 46 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Dedicated PR reviewer tool demo](https://x.com/jessethanley/status/2103981726779531444) | Opus 5.5 | [@jessethanley](https://x.com/jessethanley) | 0:07 | — |
 | [Mac app design system overhaul](https://x.com/dprophecyguy/status/2102735000177451446) | Opus 5.5 | [@dprophecyguy](https://x.com/dprophecyguy) | 0:45 | — |
 | [AI-generated brand guideline demo](https://x.com/PancaSeptiana/status/2103024285174673413) | Opus 5.5 | [@PancaSeptiana](https://x.com/PancaSeptiana) | 0:15 | — |
+| [Product concept video](https://x.com/thegreatola/status/2117336381630435666) | Opus 5.5 | [@thegreatola](https://x.com/thegreatola) | 0:13 | — |
 | [Product promo video in two aspect ratios](https://x.com/aiwarts/status/2103419586964316483) | Opus 5.5 | [@aiwarts](https://x.com/aiwarts) | 0:30 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103419586964316483) |
 | [Car-modifying app recreated with one Opus 5.5 prompt](https://x.com/ErnestoSOFTWARE/status/2104955803492864077) | Opus 5.5 | [@ErnestoSOFTWARE](https://x.com/ErnestoSOFTWARE) | 0:14 | — |
 | [CapLog app update promo video](https://x.com/mommmkan/status/2105242269536354704) | Opus 5.5 | [@mommmkan](https://x.com/mommmkan) | 0:26 | — |
@@ -139,6 +140,7 @@
 | [Custom flame branding effect demo](https://x.com/nusretuzman/status/2103582679358718050) | Opus 5.5 | [@nusretuzman](https://x.com/nusretuzman) | 0:04 | — |
 | [Interactive animated drawing scratchpad](https://x.com/ChrisGPT/status/2102615272054231093) | Opus 5.5 | [@ChrisGPT](https://x.com/ChrisGPT) | 1:51 | — |
 | [Lightspark product promo video](https://x.com/davidmarcus/status/2103275618045686217) | Opus 5.5 | [@davidmarcus](https://x.com/davidmarcus) | 0:23 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103275618045686217) |
+| [Iteratively refined website design](https://x.com/yogesharc/status/2117319579018088681) | Opus 5.5 | [@yogesharc](https://x.com/yogesharc) | 0:31 | — |
 | [Promotional travel video about Poland](https://x.com/KinasRemek/status/2102728913579327722) | Opus 5.5 | [@KinasRemek](https://x.com/KinasRemek) | 1:26 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102728913579327722) |
 | [Promotional video for a landing page](https://x.com/cleeeeeeeeement/status/2110039903312425385) | Opus 5.5 | [@cleeeeeeeeement](https://x.com/cleeeeeeeeement) | 0:15 | — |
 | [Hyprland desktop theme customization](https://x.com/XMihura/status/2109991235545190801) | Opus 5.5 | [@XMihura](https://x.com/XMihura) | 1:00 | — |

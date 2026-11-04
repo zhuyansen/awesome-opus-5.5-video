@@ -1,11 +1,12 @@
 # Characters & stories
 
-215 works, 49 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+220 works, 51 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
 | [Recreating the Girl with a Pearl Earring painting moment](https://x.com/EHuanglu/status/2105027077548429557) | Opus 5.5 | [@EHuanglu](https://x.com/EHuanglu) | 0:30 | — |
 | [Animated interactive data stories](https://x.com/bindureddy/status/2113115471327457666) | Opus 5.5 | [@bindureddy](https://x.com/bindureddy) | 0:46 | — |
+| [Moss-Covered Giant Robot Awakens at Sunrise](https://x.com/chetaslua/status/2117169796290916732) | Opus 5.5 / Fable 5.5 (preview) | [@chetaslua](https://x.com/chetaslua) | 1:21 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2117169796290916732) |
 | [Dystopian AI short film](https://x.com/Skoorbkaz/status/2113392757548941441) | Opus 5.5 | [@Skoorbkaz](https://x.com/Skoorbkaz) | 11:40 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2113392757548941441) |
 | [Music video for an AI-generated song](https://x.com/eudaemonea/status/2102610626321490404) | Opus 5.5 | [@eudaemonea](https://x.com/eudaemonea) | 6:13 | — |
 | [Video predicting the next 50 years](https://x.com/andrewjiang/status/2102987981695132140) | Opus 5.5 | [@andrewjiang](https://x.com/andrewjiang) | 4:00 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102987981695132140) |
@@ -18,6 +19,7 @@
 | [AI-history anime-opening music video](https://x.com/domenic/status/2103846928027160609) | Opus 5.5 | [@domenic](https://x.com/domenic) | 4:38 | — |
 | [Train phone stunt animation](https://x.com/ZetoGroovin/status/2113559786830942326) | Opus 5.5 | [@ZetoGroovin](https://x.com/ZetoGroovin) | 0:29 | — |
 | [Claude animates its own life story](https://x.com/shfred0/status/2102495989194236158) | Opus 5.5 | [@shfred0](https://x.com/shfred0) | 0:30 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102495989194236158) |
+| [Red Fox Wakes a Forgotten Library](https://x.com/chetaslua/status/2117224839010459987) | Opus 5.5 / Fable 5.5 (preview) | [@chetaslua](https://x.com/chetaslua) | 0:58 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2117224839010459987) |
 | [AI-made anime short Gus & Spark](https://x.com/ziwenxu_/status/2111212505947357651) | Opus 5.5 / Fable 5.5 (preview) | [@ziwenxu_](https://x.com/ziwenxu_) | 25:43 | — |
 | [Bir Sonraki Kelime animated music video](https://x.com/Avenoxai/status/2104131419853160477) | Opus 5.5 | [@Avenoxai](https://x.com/Avenoxai) | 3:13 | — |
 | [Visualization of the singularity experience](https://x.com/dirtman/status/2103686605517287620) | Opus 5.5 | [@dirtman](https://x.com/dirtman) | 2:26 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103686605517287620) |
@@ -33,6 +35,7 @@
 | [30-second AI-made short drama](https://x.com/AI_DVD6/status/2103444180861178199) | Opus 5.5 | [@AI_DVD6](https://x.com/AI_DVD6) | 1:47 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103444180861178199) |
 | [Sweet Tooth animated short](https://x.com/cherry_mx_reds/status/2102472218269900876) | Opus 5.5 | [@cherry_mx_reds](https://x.com/cherry_mx_reds) | 0:30 | — |
 | [Wolverine interactive demo](https://x.com/The_Alex/status/2104633977831301231) | Sonnet 5.5 | [@The_Alex](https://x.com/The_Alex) | 3:00 | — |
+| [Combat animation](https://x.com/notjazii/status/2117261864904351848) | Fable 5.5 (preview) | [@notjazii](https://x.com/notjazii) | 0:30 | — |
 | [Narrative animation "Small Print"](https://x.com/Voxyz_ai/status/2102531681450119426) | Opus 5.5 | [@Voxyz_ai](https://x.com/Voxyz_ai) | 0:29 | — |
 | [Video about what it feels like to be Claude](https://x.com/goodside/status/2102876925102555526) | Opus 5.5 | [@goodside](https://x.com/goodside) | 0:30 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102876925102555526) |
 | [Australia invades Bali war simulation](https://x.com/hanifproduktif/status/2109918956358357339) | Opus 5.5 | [@hanifproduktif](https://x.com/hanifproduktif) | 3:25 | — |
@@ -43,9 +46,11 @@
 | [Animation depicting Opus vs Astra rivalry](https://x.com/aollivier82/status/2103933824606613818) | Opus 5.5 | [@aollivier82](https://x.com/aollivier82) | 0:36 | — |
 | [Milo's River Crossing](https://x.com/HeyAbhishek/status/2106369769956065518) | Opus 5.5 | [@HeyAbhishek](https://x.com/HeyAbhishek) | 0:30 | — |
 | [Philosophical short video on purpose of life](https://x.com/HarveenChadha/status/2102591280538644596) | Opus 5.5 | [@HarveenChadha](https://x.com/HarveenChadha) | 0:39 | — |
+| [Hyperpop music video based on The Commanding Heights](https://x.com/zealcaiden/status/2117359490257629331) | Opus 5.5 | [@zealcaiden](https://x.com/zealcaiden) | 2:25 | — |
 | [Pixar-style imagined cartoon story](https://x.com/scheemunai/status/2102788223835463902) | Opus 5.5 | [@scheemunai](https://x.com/scheemunai) | 3:50 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102788223835463902) |
 | [Day in the life of Claude animation](https://x.com/ishuagra02/status/2106045364868419727) | Fable 5.5 (preview) | [@ishuagra02](https://x.com/ishuagra02) | 1:31 | — |
 | [Xuanzang's journey west animated short](https://x.com/threeaus/status/2103739780207096050) | Opus 5.5 | [@threeaus](https://x.com/threeaus) | 4:21 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103739780207096050) |
+| [Stylized 3D animation test with synthesized sound](https://x.com/ChrisGPT/status/2117381015069212910) | Fable 5.5 (preview) | [@ChrisGPT](https://x.com/ChrisGPT) | 0:09 | — |
 | [2076 AI apocalypse story animation](https://x.com/Hesamation/status/2103457566978162901) | Opus 5.5 | [@Hesamation](https://x.com/Hesamation) | 1:28 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103457566978162901) |
 | [Hand-drawn music video coded frame by frame](https://x.com/xiaohu/status/2102979455308439555) | Opus 5.5 | [@xiaohu](https://x.com/xiaohu) | 2:37 | — |
 | [Nolan-style short film on Musk's rise](https://x.com/newbeeyu/status/2111446964558770632) | Opus 5.5 | [@newbeeyu](https://x.com/newbeeyu) | 2:00 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2111446964558770632) |
