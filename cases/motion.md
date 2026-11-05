@@ -1,6 +1,6 @@
 # Motion graphics & UI
 
-331 works, 92 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+334 works, 93 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Short generated animated video](https://x.com/imjustnewatai/status/2105808539495354669) | Fable 5.5 (preview) | [@imjustnewatai](https://x.com/imjustnewatai) | 1:02 | — |
 | [Channel-building video skill demo](https://x.com/xiaohu/status/2110729141289107485) | Opus 5.5 | [@xiaohu](https://x.com/xiaohu) | 1:48 | — |
 | [One-shot animated video demo](https://x.com/shapelayer/status/2102562623824757136) | Opus 5.5 | [@shapelayer](https://x.com/shapelayer) | 0:21 | — |
+| [Police Robot and Kingfisher Anime Short](https://x.com/0xMovez/status/2117700681867903169) | Fable 5.5 (preview) | [@0xMovez](https://x.com/0xMovez) | 0:42 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2117700681867903169) |
 | [Game reward settlement animation](https://x.com/op7418/status/2103724883301814408) | Opus 5.5 | [@op7418](https://x.com/op7418) | 0:15 | — |
 | [Frame-by-frame JavaScript animation](https://x.com/strawhatsu4/status/2102457111787745405) | Opus 5.5 | [@strawhatsu4](https://x.com/strawhatsu4) | 0:14 | — |
 | [One-shot motion video demo](https://x.com/chhddavid/status/2102666619029999989) | Opus 5.5 | [@chhddavid](https://x.com/chhddavid) | 0:50 | — |
@@ -178,6 +179,7 @@
 | [Open-source motion shot library for promo videos](https://x.com/VincentWei93/status/2115797250689679394) | Opus 5.5 | [@VincentWei93](https://x.com/VincentWei93) | 2:17 | — |
 | [One-shot video generated with Opus 5.5 and Codex](https://x.com/yuno_miyako2/status/2110016393886445964) | Opus 5.5 | [@yuno_miyako2](https://x.com/yuno_miyako2) | 1:00 | — |
 | [Dot-themed motion video](https://x.com/seiiiiiiiiiiru/status/2107018580265201724) | Opus 5.5 | [@seiiiiiiiiiiru](https://x.com/seiiiiiiiiiiru) | 0:15 | — |
+| [Animated functional icon set](https://x.com/Kubai087/status/2117605750474428446) | Opus 5.5 | [@Kubai087](https://x.com/Kubai087) | 0:26 | — |
 | [Complex 2D shader animation in one HTML file](https://x.com/xikhar/status/2117325961578614798) | Fable 5.5 (preview) | [@xikhar](https://x.com/xikhar) | 0:30 | — |
 | [UI animation showcase](https://x.com/kevin_t_ngo/status/2111974919353544757) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 0:25 | — |
 | [Quick ad video from one prompt](https://x.com/Nour_Sofanati/status/2103653780327641130) | Opus 5.5 | [@Nour_Sofanati](https://x.com/Nour_Sofanati) | 0:35 | — |
@@ -330,6 +332,7 @@
 | [Watercolor fall animation](https://x.com/ishuagra02/status/2106000055706784118) | Fable 5.5 (preview) | [@ishuagra02](https://x.com/ishuagra02) | 0:25 | — |
 | [Code-drawn animation pipeline demo](https://x.com/p2ecoin91/status/2103398218793168921) | Opus 5.5 | [@p2ecoin91](https://x.com/p2ecoin91) | 2:37 | — |
 | [AR soccer passing lane analysis](https://x.com/virtual_amir/status/2106387068070826373) | Opus 5.5 | [@virtual_amir](https://x.com/virtual_amir) | 0:31 | — |
+| [100 effects on one character](https://x.com/m4lkxx/status/2117648108066640103) | Opus 5.5 | [@m4lkxx](https://x.com/m4lkxx) | 0:30 | — |
 | [Short animation](https://x.com/fakharkamario/status/2110218646689599861) | Opus 5.5 | [@fakharkamario](https://x.com/fakharkamario) | 0:10 | — |
 | [Impressive AI demo reaction video](https://x.com/dcbruck/status/2103549268321783859) | Opus 5.5 | [@dcbruck](https://x.com/dcbruck) | 0:15 | — |
 | [Opus 5.5 animation quality demo](https://x.com/makisuo/status/2103613318497997215) | Opus 5.5 | [@makisuo](https://x.com/makisuo) | 0:15 | — |

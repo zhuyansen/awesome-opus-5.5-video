@@ -1,6 +1,6 @@
 # Product demos & ads
 
-242 works, 46 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+247 works, 46 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Fishing game trailer made in Blender](https://x.com/Blushneyy/status/2108644023330390194) | Opus 5.5 | [@Blushneyy](https://x.com/Blushneyy) | 0:43 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2108644023330390194) |
 | [Marketing video made with simple prompt](https://x.com/samuel_yostt/status/2105746669035733275) | Opus 5.5 | [@samuel_yostt](https://x.com/samuel_yostt) | 0:15 | — |
 | [Dedicated PR reviewer tool demo](https://x.com/jessethanley/status/2103981726779531444) | Opus 5.5 | [@jessethanley](https://x.com/jessethanley) | 0:07 | — |
+| [Claudia Popstar video](https://x.com/heyglif/status/2117642044571288057) | Opus 5.5 | [@heyglif](https://x.com/heyglif) | 0:44 | — |
 | [Mac app design system overhaul](https://x.com/dprophecyguy/status/2102735000177451446) | Opus 5.5 | [@dprophecyguy](https://x.com/dprophecyguy) | 0:45 | — |
 | [AI-generated brand guideline demo](https://x.com/PancaSeptiana/status/2103024285174673413) | Opus 5.5 | [@PancaSeptiana](https://x.com/PancaSeptiana) | 0:15 | — |
 | [Product concept video](https://x.com/thegreatola/status/2117336381630435666) | Opus 5.5 | [@thegreatola](https://x.com/thegreatola) | 0:13 | — |
@@ -136,6 +137,7 @@
 | [F1 livery customizer built with Opus 5.5](https://x.com/RyanSael/status/2110038561127014418) | Opus 5.5 | [@RyanSael](https://x.com/RyanSael) | 0:38 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2110038561127014418) |
 | [Business promo video showcase](https://x.com/berlified/status/2107031729705984163) | Opus 5.5 | [@berlified](https://x.com/berlified) | 0:24 | — |
 | [3D animated commercial for Rondo game](https://x.com/IHayato/status/2112430672090730746) | Opus 5.5 | [@IHayato](https://x.com/IHayato) | 0:30 | — |
+| [Street-to-QR Pickup Transition](https://x.com/timothylindblom/status/2117597825081254024) | Opus 5.5 | [@timothylindblom](https://x.com/timothylindblom) | 0:08 | — |
 | [Odin and raylib desktop dashboard UI](https://x.com/ggs4ns/status/2116088544519188528) | Opus 5.5 | [@ggs4ns](https://x.com/ggs4ns) | 0:27 | — |
 | [Custom flame branding effect demo](https://x.com/nusretuzman/status/2103582679358718050) | Opus 5.5 | [@nusretuzman](https://x.com/nusretuzman) | 0:04 | — |
 | [Interactive animated drawing scratchpad](https://x.com/ChrisGPT/status/2102615272054231093) | Opus 5.5 | [@ChrisGPT](https://x.com/ChrisGPT) | 1:51 | — |
@@ -174,6 +176,7 @@
 | [Unofficial Tesla Roadster commercial](https://x.com/kevin_t_ngo/status/2111887585639624828) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 1:05 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2111887585639624828) |
 | [Real estate video from 2D floor plan](https://x.com/techhalla/status/2105376621737746716) | Opus 5.5 | [@techhalla](https://x.com/techhalla) | 0:37 | — |
 | [One-hour build from a PDF guide](https://x.com/seeconvm/status/2116138303028138040) | Opus 5.5 | [@seeconvm](https://x.com/seeconvm) | 0:18 | — |
+| [One-versus-ten advertising format](https://x.com/0xROAS/status/2117639164669653110) | Opus 5.5 | [@0xROAS](https://x.com/0xROAS) | 1:12 | — |
 | [Motion ads for Chipper](https://x.com/Aygramm_/status/2115759392192659746) | Opus 5.5 | [@Aygramm_](https://x.com/Aygramm_) | 0:30 | — |
 | [Self-made introduction video for the model](https://x.com/nemumusitocha/status/2102528528613019932) | Opus 5.5 | [@nemumusitocha](https://x.com/nemumusitocha) | 6:37 | — |
 | [One-prompt product launch video](https://x.com/javiiarchive/status/2108149080568545694) | Opus 5.5 | [@javiiarchive](https://x.com/javiiarchive) | 0:31 | — |
@@ -191,6 +194,7 @@
 | [Motion MCP product launch video](https://x.com/motion_so/status/2107136416342061418) | Opus 5.5 | [@motion_so](https://x.com/motion_so) | 0:26 | — |
 | [One-shot build using a shared skill file](https://x.com/mannupaaji/status/2103815657385267599) | Opus 5.5 | [@mannupaaji](https://x.com/mannupaaji) | 0:15 | — |
 | [App promotional video before launch](https://x.com/yayoi_threee/status/2103106389489127504) | Opus 5.5 | [@yayoi_threee](https://x.com/yayoi_threee) | 0:30 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103106389489127504) |
+| [Dashboard redesign prototype](https://x.com/PostiauxCharles/status/2117624804664647707) | Opus 5.5 | [@PostiauxCharles](https://x.com/PostiauxCharles) | 0:14 | — |
 | [Cut-out animation style clothing promo](https://x.com/hx831126/status/2111632702445437130) | Opus 5.5 | [@hx831126](https://x.com/hx831126) | 0:52 | — |
 | [Fly Anywhere app launch trailer](https://x.com/ai_for_success/status/2105289786647007685) | Opus 5.5 | [@ai_for_success](https://x.com/ai_for_success) | 0:30 | — |
 | [Spec advertisement for Fomo](https://x.com/Sevas_ae/status/2113609472639894013) | Opus 5.5 | [@Sevas_ae](https://x.com/Sevas_ae) | 0:20 | — |
@@ -239,6 +243,7 @@
 | [Product promo video via custom Skill](https://x.com/berryxia/status/2103419787565216023) | Opus 5.5 | [@berryxia](https://x.com/berryxia) | 1:01 | — |
 | [Auto-generated feature demo videos](https://x.com/okkshitij/status/2103570489071608061) | Opus 5.5 | [@okkshitij](https://x.com/okkshitij) | 0:37 | — |
 | [Foreign drama series intro video](https://x.com/hAru_mAki_ch/status/2103789217147240824) | Opus 5.5 | [@hAru_mAki_ch](https://x.com/hAru_mAki_ch) | 0:15 | — |
+| [Animated needle-felting kit characters](https://x.com/kevin_t_ngo/status/2117654352374702378) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 0:30 | — |
 | [Semantic Slack search tool](https://x.com/tkm_hmng8/status/2102923108156076261) | Opus 5.5 | [@tkm_hmng8](https://x.com/tkm_hmng8) | 0:37 | — |
 | [App visual built from a single icon asset](https://x.com/career_koumei/status/2103703814562087156) | Opus 5.5 | [@career_koumei](https://x.com/career_koumei) | 0:15 | — |
 | [Hover-flip artwork gallery](https://x.com/gabriell_lab/status/2112520073378488501) | Opus 5.5 | [@gabriell_lab](https://x.com/gabriell_lab) | 0:11 | — |

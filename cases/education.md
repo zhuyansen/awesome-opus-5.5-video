@@ -1,6 +1,6 @@
 # Explainers & education
 
-212 works, 53 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+216 works, 54 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [How Bombs Kill explainer video essay](https://x.com/tobiaschneider/status/2104538351504068848) | Opus 5.5 | [@tobiaschneider](https://x.com/tobiaschneider) | 18:32 | — |
 | [Ukraine front line situation visualization](https://x.com/tokumei_banzai_/status/2104062022560456795) | Opus 5.5 | [@tokumei_banzai_](https://x.com/tokumei_banzai_) | 1:27 | — |
 | [Interactive drone engineering build-and-fly lessons](https://x.com/0xMovez/status/2113292903741116893) | Opus 5.5 | [@0xMovez](https://x.com/0xMovez) | 0:37 | — |
+| [Interactive electricity physics book](https://x.com/techartist_/status/2117659337057517831) | Opus 5.5 | [@techartist_](https://x.com/techartist_) | 0:34 | — |
 | [History of dinosaurs animation in JavaScript](https://x.com/kevin_t_ngo/status/2104638743634391408) | Sonnet 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 0:48 | — |
 | [Learning How To Learn summary video](https://x.com/momoflilbit/status/2105276821214532096) | Opus 5.5 | [@momoflilbit](https://x.com/momoflilbit) | 10:40 | — |
 | [Interactive orbital elements learning tool](https://x.com/getBack_1969_/status/2105200070446751750) | Opus 5.5 | [@getBack_1969_](https://x.com/getBack_1969_) | 1:00 | — |
@@ -79,6 +80,7 @@
 | [Explainer video on how DeepInfer works](https://x.com/cneuralnetwork/status/2112500556916986309) | Opus 5.5 | [@cneuralnetwork](https://x.com/cneuralnetwork) | 1:58 | — |
 | [Article Explainer Video](https://x.com/noa_gpt/status/2104938147016765836) | Opus 5.5 / Sonnet 5.5 | [@noa_gpt](https://x.com/noa_gpt) | 1:34 | — |
 | [Narrated explainer video via a TTS integration](https://x.com/doerstokyo342/status/2103034063816905109) | Opus 5.5 | [@doerstokyo342](https://x.com/doerstokyo342) | 0:34 | — |
+| [Middle-class effects of rescue law](https://x.com/agaviriau/status/2117772107924828405) | Opus 5.5 | [@agaviriau](https://x.com/agaviriau) | 1:31 | — |
 | [Twin paradox relativity animation explainer](https://x.com/masahirochaen/status/2102722719502704941) | Opus 5.5 | [@masahirochaen](https://x.com/masahirochaen) | 0:47 | — |
 | [Pi-durable lecture condensed into a 7-minute explainer](https://x.com/_alejandroao/status/2112466641464267203) | Opus 5.5 | [@_alejandroao](https://x.com/_alejandroao) | 6:54 | — |
 | [UMAP explainer animation for ML students](https://x.com/goodside/status/2103505085292593220) | Opus 5.5 | [@goodside](https://x.com/goodside) | 5:05 | — |
@@ -90,6 +92,7 @@
 | [Zero-shot documentary on Jewish history](https://x.com/eranshir/status/2103564391170089429) | Opus 5.5 | [@eranshir](https://x.com/eranshir) | 3:43 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103564391170089429) |
 | [Explainer video about the Dots AI agent](https://x.com/seiiiiiiiiiiru/status/2105187157841445314) | Sonnet 5.5 | [@seiiiiiiiiiiru](https://x.com/seiiiiiiiiiiru) | 2:11 | — |
 | [Evolution of the eye explainer](https://x.com/cagrimbakirci/status/2104011756397842869) | Opus 5.5 | [@cagrimbakirci](https://x.com/cagrimbakirci) | 1:10 | — |
+| [Infographic explainer animation](https://x.com/treyscalez/status/2117602113509294520) | Opus 5.5 | [@treyscalez](https://x.com/treyscalez) | 1:02 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2117602113509294520) |
 | [Doc-to-video explainer (Open Alignment)](https://x.com/Thom_Wolf/status/2103545533474206118) | Opus 5.5 | [@Thom_Wolf](https://x.com/Thom_Wolf) | 1:24 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103545533474206118) |
 | [Physics competition problem explainer video](https://x.com/akokoi1/status/2102680453912449223) | Opus 5.5 | [@akokoi1](https://x.com/akokoi1) | 3:09 | — |
 | [1-minute margin trading explainer](https://x.com/RtSubPozrT8wmsN/status/2102764115500687573) | Opus 5.5 | [@RtSubPozrT8wmsN](https://x.com/RtSubPozrT8wmsN) | 0:57 | — |
@@ -130,6 +133,7 @@
 | [Frame-by-frame animation of burger making](https://x.com/kevin_t_ngo/status/2111569193347018977) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 1:04 | — |
 | [Explainer animation about Claude usage workflows](https://x.com/daniel_mac8/status/2103666105461924131) | Opus 5.5 | [@daniel_mac8](https://x.com/daniel_mac8) | 0:29 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103666105461924131) |
 | [Football history mini-documentary](https://x.com/agaviriau/status/2110798126453846207) | Opus 5.5 | [@agaviriau](https://x.com/agaviriau) | 3:30 | — |
+| [OKX strategy reversal explainer](https://x.com/AYi_AInotes/status/2117571163870171169) | Opus 5.5 | [@AYi_AInotes](https://x.com/AYi_AInotes) | 2:51 | — |
 | [Nobel Prize science explainer video](https://x.com/KeWai386772/status/2108143447496679553) | Opus 5.5 | [@KeWai386772](https://x.com/KeWai386772) | 13:00 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2108143447496679553) |
 | [Summary video of health system presentations](https://x.com/agaviriau/status/2105769916288930215) | Opus 5.5 | [@agaviriau](https://x.com/agaviriau) | 2:06 | — |
 | [IDOR vulnerability explainer video](https://x.com/BourAbdelhadi/status/2105236146246586434) | Sonnet 5.5 | [@BourAbdelhadi](https://x.com/BourAbdelhadi) | 0:35 | — |

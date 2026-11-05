@@ -1,6 +1,6 @@
 # 科普讲解
 
-共 212 个作品，其中 53 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 216 个作品，其中 54 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [《炸弹如何致命》科普视频](https://x.com/tobiaschneider/status/2104538351504068848) | Opus 5.5 | [@tobiaschneider](https://x.com/tobiaschneider) | 18:32 | — |
 | [乌克兰战线态势可视化](https://x.com/tokumei_banzai_/status/2104062022560456795) | Opus 5.5 | [@tokumei_banzai_](https://x.com/tokumei_banzai_) | 1:27 | — |
 | [无人机组装与飞行互动教学网站](https://x.com/0xMovez/status/2113292903741116893) | Opus 5.5 | [@0xMovez](https://x.com/0xMovez) | 0:37 | — |
+| [互动电学物理书](https://x.com/techartist_/status/2117659337057517831) | Opus 5.5 | [@techartist_](https://x.com/techartist_) | 0:34 | — |
 | [用JavaScript制作的恐龙历史动画](https://x.com/kevin_t_ngo/status/2104638743634391408) | Sonnet 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 0:48 | — |
 | [《学习如何学习》方法总结视频](https://x.com/momoflilbit/status/2105276821214532096) | Opus 5.5 | [@momoflilbit](https://x.com/momoflilbit) | 10:40 | — |
 | [轨道六要素互动学习工具](https://x.com/getBack_1969_/status/2105200070446751750) | Opus 5.5 | [@getBack_1969_](https://x.com/getBack_1969_) | 1:00 | — |
@@ -79,6 +80,7 @@
 | [DeepInfer工作原理讲解视频](https://x.com/cneuralnetwork/status/2112500556916986309) | Opus 5.5 | [@cneuralnetwork](https://x.com/cneuralnetwork) | 1:58 | — |
 | [文章解说视频](https://x.com/noa_gpt/status/2104938147016765836) | Opus 5.5 / Sonnet 5.5 | [@noa_gpt](https://x.com/noa_gpt) | 1:34 | — |
 | [接入语音合成生成的解说视频](https://x.com/doerstokyo342/status/2103034063816905109) | Opus 5.5 | [@doerstokyo342](https://x.com/doerstokyo342) | 0:34 | — |
+| [救助法案对中产阶级的影响](https://x.com/agaviriau/status/2117772107924828405) | Opus 5.5 | [@agaviriau](https://x.com/agaviriau) | 1:31 | — |
 | [双生子佯谬相对论动画讲解](https://x.com/masahirochaen/status/2102722719502704941) | Opus 5.5 | [@masahirochaen](https://x.com/masahirochaen) | 0:47 | — |
 | [pi-durable讲座浓缩成的7分钟讲解视频](https://x.com/_alejandroao/status/2112466641464267203) | Opus 5.5 | [@_alejandroao](https://x.com/_alejandroao) | 6:54 | — |
 | [面向机器学习学生的UMAP讲解动画](https://x.com/goodside/status/2103505085292593220) | Opus 5.5 | [@goodside](https://x.com/goodside) | 5:05 | — |
@@ -90,6 +92,7 @@
 | [犹太历史纪录片一次生成](https://x.com/eranshir/status/2103564391170089429) | Opus 5.5 | [@eranshir](https://x.com/eranshir) | 3:43 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103564391170089429) |
 | [关于Dots AI代理的讲解视频](https://x.com/seiiiiiiiiiiru/status/2105187157841445314) | Sonnet 5.5 | [@seiiiiiiiiiiru](https://x.com/seiiiiiiiiiiru) | 2:11 | — |
 | [眼睛进化过程科普动画](https://x.com/cagrimbakirci/status/2104011756397842869) | Opus 5.5 | [@cagrimbakirci](https://x.com/cagrimbakirci) | 1:10 | — |
+| [信息图解说动画](https://x.com/treyscalez/status/2117602113509294520) | Opus 5.5 | [@treyscalez](https://x.com/treyscalez) | 1:02 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2117602113509294520) |
 | [文档转视频讲解（Open Alignment)](https://x.com/Thom_Wolf/status/2103545533474206118) | Opus 5.5 | [@Thom_Wolf](https://x.com/Thom_Wolf) | 1:24 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103545533474206118) |
 | [物理竞赛压轴题讲解视频](https://x.com/akokoi1/status/2102680453912449223) | Opus 5.5 | [@akokoi1](https://x.com/akokoi1) | 3:09 | — |
 | [一分钟看懂信用交易讲解](https://x.com/RtSubPozrT8wmsN/status/2102764115500687573) | Opus 5.5 | [@RtSubPozrT8wmsN](https://x.com/RtSubPozrT8wmsN) | 0:57 | — |
@@ -130,6 +133,7 @@
 | [逐帧绘制的汉堡制作动画](https://x.com/kevin_t_ngo/status/2111569193347018977) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 1:04 | — |
 | [讲解Claude用量管理工作流的动画](https://x.com/daniel_mac8/status/2103666105461924131) | Opus 5.5 | [@daniel_mac8](https://x.com/daniel_mac8) | 0:29 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103666105461924131) |
 | [足球历史迷你纪录片](https://x.com/agaviriau/status/2110798126453846207) | Opus 5.5 | [@agaviriau](https://x.com/agaviriau) | 3:30 | — |
+| [OKX战略逆袭解析视频](https://x.com/AYi_AInotes/status/2117571163870171169) | Opus 5.5 | [@AYi_AInotes](https://x.com/AYi_AInotes) | 2:51 | — |
 | [诺贝尔奖科普视频](https://x.com/KeWai386772/status/2108143447496679553) | Opus 5.5 | [@KeWai386772](https://x.com/KeWai386772) | 13:00 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2108143447496679553) |
 | [医疗体系演讲内容总结视频](https://x.com/agaviriau/status/2105769916288930215) | Opus 5.5 | [@agaviriau](https://x.com/agaviriau) | 2:06 | — |
 | [IDOR漏洞讲解视频](https://x.com/BourAbdelhadi/status/2105236146246586434) | Sonnet 5.5 | [@BourAbdelhadi](https://x.com/BourAbdelhadi) | 0:35 | — |

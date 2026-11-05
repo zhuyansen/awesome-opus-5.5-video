@@ -1,6 +1,6 @@
 # 产品广告
 
-共 242 个作品，其中 46 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 247 个作品，其中 46 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [用Blender制作的钓鱼游戏预告片](https://x.com/Blushneyy/status/2108644023330390194) | Opus 5.5 | [@Blushneyy](https://x.com/Blushneyy) | 0:43 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2108644023330390194) |
 | [简单提示生成的营销视频](https://x.com/samuel_yostt/status/2105746669035733275) | Opus 5.5 | [@samuel_yostt](https://x.com/samuel_yostt) | 0:15 | — |
 | [专用PR审查工具演示](https://x.com/jessethanley/status/2103981726779531444) | Opus 5.5 | [@jessethanley](https://x.com/jessethanley) | 0:07 | — |
+| [克劳迪娅明星短片](https://x.com/heyglif/status/2117642044571288057) | Opus 5.5 | [@heyglif](https://x.com/heyglif) | 0:44 | — |
 | [Mac应用设计系统改版](https://x.com/dprophecyguy/status/2102735000177451446) | Opus 5.5 | [@dprophecyguy](https://x.com/dprophecyguy) | 0:45 | — |
 | [AI生成的品牌指南演示](https://x.com/PancaSeptiana/status/2103024285174673413) | Opus 5.5 | [@PancaSeptiana](https://x.com/PancaSeptiana) | 0:15 | — |
 | [产品概念短片](https://x.com/thegreatola/status/2117336381630435666) | Opus 5.5 | [@thegreatola](https://x.com/thegreatola) | 0:13 | — |
@@ -136,6 +137,7 @@
 | [用Opus 5.5构建的F1车身涂装定制器](https://x.com/RyanSael/status/2110038561127014418) | Opus 5.5 | [@RyanSael](https://x.com/RyanSael) | 0:38 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2110038561127014418) |
 | [商业宣传视频展示](https://x.com/berlified/status/2107031729705984163) | Opus 5.5 | [@berlified](https://x.com/berlified) | 0:24 | — |
 | [游戏Rondo的3D动画宣传片](https://x.com/IHayato/status/2112430672090730746) | Opus 5.5 | [@IHayato](https://x.com/IHayato) | 0:30 | — |
+| [街景变二维码取餐转场](https://x.com/timothylindblom/status/2117597825081254024) | Opus 5.5 | [@timothylindblom](https://x.com/timothylindblom) | 0:08 | — |
 | [Odin 与 raylib 桌面仪表盘界面](https://x.com/ggs4ns/status/2116088544519188528) | Opus 5.5 | [@ggs4ns](https://x.com/ggs4ns) | 0:27 | — |
 | [定制火焰品牌特效演示](https://x.com/nusretuzman/status/2103582679358718050) | Opus 5.5 | [@nusretuzman](https://x.com/nusretuzman) | 0:04 | — |
 | [可交互动画涂鸦板应用](https://x.com/ChrisGPT/status/2102615272054231093) | Opus 5.5 | [@ChrisGPT](https://x.com/ChrisGPT) | 1:51 | — |
@@ -174,6 +176,7 @@
 | [非官方特斯拉Roadster广告](https://x.com/kevin_t_ngo/status/2111887585639624828) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 1:05 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2111887585639624828) |
 | [从2D平面图制作的房地产视频](https://x.com/techhalla/status/2105376621737746716) | Opus 5.5 | [@techhalla](https://x.com/techhalla) | 0:37 | — |
 | [根据PDF指南一小时完成的作品](https://x.com/seeconvm/status/2116138303028138040) | Opus 5.5 | [@seeconvm](https://x.com/seeconvm) | 0:18 | — |
+| [一对十广告创意格式](https://x.com/0xROAS/status/2117639164669653110) | Opus 5.5 | [@0xROAS](https://x.com/0xROAS) | 1:12 | — |
 | [Chipper品牌动态广告](https://x.com/Aygramm_/status/2115759392192659746) | Opus 5.5 | [@Aygramm_](https://x.com/Aygramm_) | 0:30 | — |
 | [模型自制的介绍视频](https://x.com/nemumusitocha/status/2102528528613019932) | Opus 5.5 | [@nemumusitocha](https://x.com/nemumusitocha) | 6:37 | — |
 | [一键生成的产品发布视频](https://x.com/javiiarchive/status/2108149080568545694) | Opus 5.5 | [@javiiarchive](https://x.com/javiiarchive) | 0:31 | — |
@@ -191,6 +194,7 @@
 | [Motion MCP 产品发布视频](https://x.com/motion_so/status/2107136416342061418) | Opus 5.5 | [@motion_so](https://x.com/motion_so) | 0:26 | — |
 | [使用他人技能文件一次生成的作品](https://x.com/mannupaaji/status/2103815657385267599) | Opus 5.5 | [@mannupaaji](https://x.com/mannupaaji) | 0:15 | — |
 | [上架前的App宣传视频](https://x.com/yayoi_threee/status/2103106389489127504) | Opus 5.5 | [@yayoi_threee](https://x.com/yayoi_threee) | 0:30 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103106389489127504) |
+| [仪表板改版原型](https://x.com/PostiauxCharles/status/2117624804664647707) | Opus 5.5 | [@PostiauxCharles](https://x.com/PostiauxCharles) | 0:14 | — |
 | [剔纸动画风格服装宣传片](https://x.com/hx831126/status/2111632702445437130) | Opus 5.5 | [@hx831126](https://x.com/hx831126) | 0:52 | — |
 | [随处飞行应用发布预告片](https://x.com/ai_for_success/status/2105289786647007685) | Opus 5.5 | [@ai_for_success](https://x.com/ai_for_success) | 0:30 | — |
 | [Fomo 概念广告](https://x.com/Sevas_ae/status/2113609472639894013) | Opus 5.5 | [@Sevas_ae](https://x.com/Sevas_ae) | 0:20 | — |
@@ -239,6 +243,7 @@
 | [用自定义Skill生成产品宣传片](https://x.com/berryxia/status/2103419787565216023) | Opus 5.5 | [@berryxia](https://x.com/berryxia) | 1:01 | — |
 | [自动生成的新功能演示视频](https://x.com/okkshitij/status/2103570489071608061) | Opus 5.5 | [@okkshitij](https://x.com/okkshitij) | 0:37 | — |
 | [海外剧集介绍视频](https://x.com/hAru_mAki_ch/status/2103789217147240824) | Opus 5.5 | [@hAru_mAki_ch](https://x.com/hAru_mAki_ch) | 0:15 | — |
+| [针毡套装角色动画](https://x.com/kevin_t_ngo/status/2117654352374702378) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 0:30 | — |
 | [Slack语义搜索工具](https://x.com/tkm_hmng8/status/2102923108156076261) | Opus 5.5 | [@tkm_hmng8](https://x.com/tkm_hmng8) | 0:37 | — |
 | [仅用一张图标素材生成的视觉效果](https://x.com/career_koumei/status/2103703814562087156) | Opus 5.5 | [@career_koumei](https://x.com/career_koumei) | 0:15 | — |
 | [悬停翻转艺术画廊](https://x.com/gabriell_lab/status/2112520073378488501) | Opus 5.5 | [@gabriell_lab](https://x.com/gabriell_lab) | 0:11 | — |

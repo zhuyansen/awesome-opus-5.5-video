@@ -1,6 +1,6 @@
 # 3D worlds & simulations
 
-408 works, 98 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+415 works, 98 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -235,6 +235,7 @@
 | [Turkish marbling simulation engine](https://x.com/dhruvalgolakiya/status/2105705406958067765) | Opus 5.5 | [@dhruvalgolakiya](https://x.com/dhruvalgolakiya) | 0:51 | — |
 | [Animated SVG astronaut on pelican riding a bicycle](https://x.com/ChrisGPT/status/2117495471346176156) | Fable 5.5 (preview) | [@ChrisGPT](https://x.com/ChrisGPT) | 0:09 | — |
 | [Open world island running in the browser](https://x.com/prasenx/status/2114821178959565267) | Opus 5.5 | [@prasenx](https://x.com/prasenx) | 0:30 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2114821178959565267) |
+| [AI-generated visual clip](https://x.com/gizakdag/status/2117604816491085982) | Opus 5.5 | [@gizakdag](https://x.com/gizakdag) | 0:20 | — |
 | [Procedural ocean 3D scene](https://x.com/techartist_/status/2111912410131153254) | Opus 5.5 | [@techartist_](https://x.com/techartist_) | 0:16 | — |
 | [Generative architecture demo with shaders](https://x.com/jshguo/status/2110699640664600906) | Sonnet 5.5 | [@jshguo](https://x.com/jshguo) | 0:22 | — |
 | [Summer festival pond line 3D scene](https://x.com/scottstts/status/2114035230113984749) | Opus 5.5 | [@scottstts](https://x.com/scottstts) | 1:05 | — |
@@ -262,12 +263,14 @@
 | [Billion-triangle browser rendering demo](https://x.com/sara_kumodeck/status/2117062532439671028) | Opus 5.5 | [@sara_kumodeck](https://x.com/sara_kumodeck) | 0:10 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2117062532439671028) |
 | [Silicon Valley inspired city map](https://x.com/katedeyneka/status/2107149731252343202) | Opus 5.5 | [@katedeyneka](https://x.com/katedeyneka) | 0:15 | — |
 | [Animated eight-legged mite game creature](https://x.com/theparuchh/status/2115508738891063617) | Opus 5.5 | [@theparuchh](https://x.com/theparuchh) | 0:51 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2115508738891063617) |
+| [Low-cost Blender 3D animation](https://x.com/Stronkter/status/2117656832655409476) | Opus 5.5 | [@Stronkter](https://x.com/Stronkter) | 0:21 | — |
 | [Pixel-art basketball court diorama with weather](https://x.com/vib3coded/status/2112989996366102944) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:18 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2112989996366102944) |
 | [Boat floating in a garden scene](https://x.com/pankajkumar_dev/status/2111518872272814233) | Fable 5.5 (preview) | [@pankajkumar_dev](https://x.com/pankajkumar_dev) | 0:57 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2111518872272814233) |
 | [Mechanical cobra teardown simulator](https://x.com/0x_mura/status/2116597286155542961) | Opus 5.5 | [@0x_mura](https://x.com/0x_mura) | 0:25 | — |
 | [Interactive bubble-blowing countryside scene](https://x.com/akakuma0219/status/2103045683452490054) | Opus 5.5 | [@akakuma0219](https://x.com/akakuma0219) | 0:39 | — |
 | [Image-to-Unreal Engine 3D scene](https://x.com/onofumi_AI/status/2102746676268351570) | Opus 5.5 | [@onofumi_AI](https://x.com/onofumi_AI) | 0:12 | — |
 | [Voxel 3D stage animation](https://x.com/8co28/status/2110291146291466725) | Opus 5.5 | [@8co28](https://x.com/8co28) | 1:07 | — |
+| [WebGPU swamp scene port](https://x.com/chetanankola/status/2117536810184438037) | Opus 5.5 | [@chetanankola](https://x.com/chetanankola) | 0:49 | — |
 | [2D Live2D model rigging demo](https://x.com/sayaka_aiart/status/2109500565768270102) | Opus 5.5 | [@sayaka_aiart](https://x.com/sayaka_aiart) | 0:16 | — |
 | [Particle physics engine in one HTML file](https://x.com/cyrilXBT/status/2103532793406149036) | Opus 5.5 | [@cyrilXBT](https://x.com/cyrilXBT) | 0:44 | — |
 | [Roblox environment map](https://x.com/kentasakurajima/status/2112665300608929807) | Opus 5.5 | [@kentasakurajima](https://x.com/kentasakurajima) | 0:22 | — |
@@ -285,6 +288,7 @@
 | [Three.js robot web page with custom UI](https://x.com/studio_oneroom/status/2117214268483576266) | Opus 5.5 | [@studio_oneroom](https://x.com/studio_oneroom) | 0:47 | — |
 | [Browser water and sky shader scene](https://x.com/maxt3chno/status/2112213850682536223) | Opus 5.5 | [@maxt3chno](https://x.com/maxt3chno) | 1:12 | — |
 | [Athlete long jump reconstructed in 4D](https://x.com/higgsfield_ai/status/2102916405314330726) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:08 | — |
+| [Pixel art Halloween scene with code-driven effects](https://x.com/zer0point_eth/status/2117593246515810630) | Opus 5.5 | [@zer0point_eth](https://x.com/zer0point_eth) | 0:14 | — |
 | [Expanded historical art style](https://x.com/AlchainHust/status/2106955771183272343) | Opus 5.5 | [@AlchainHust](https://x.com/AlchainHust) | 2:08 | — |
 | [Moss-covered garden creature animation](https://x.com/theparuchh/status/2117293762153951564) | Opus 5.5 | [@theparuchh](https://x.com/theparuchh) | 1:53 | — |
 | [Gyroscopic 3D tilt motion in browser](https://x.com/ann_nnng/status/2111756250581270638) | Opus 5.5 | [@ann_nnng](https://x.com/ann_nnng) | 0:20 | — |
@@ -303,6 +307,7 @@
 | [Tool to convert icons into 3D assets](https://x.com/MengTo/status/2107445210011849103) | Opus 5.5 | [@MengTo](https://x.com/MengTo) | 0:57 | — |
 | [Paradise City theme park 3D recreation](https://x.com/Neetfujisub/status/2103658660874621079) | Opus 5.5 | [@Neetfujisub](https://x.com/Neetfujisub) | 1:35 | — |
 | [Foldable phone rebuilt part by part in code](https://x.com/andreysuperior/status/2113644365876691235) | Opus 5.5 | [@andreysuperior](https://x.com/andreysuperior) | 0:24 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2113644365876691235) |
+| [Cliffside room scene](https://x.com/LexnLin/status/2117760169480442201) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 0:45 | — |
 | [Three.js scene quality test](https://x.com/thoughtcrime___/status/2103598324687442284) | Opus 5.5 | [@thoughtcrime___](https://x.com/thoughtcrime___) | 0:40 | — |
 | [Pixel art animation with photo booth ending](https://x.com/ria_aicreator/status/2102543016389144975) | Opus 5.5 | [@ria_aicreator](https://x.com/ria_aicreator) | 0:23 | — |
 | [Shanghai penthouse scene for Vision Pro](https://x.com/ivanfioravanti/status/2103701018450288657) | Opus 5.5 | [@ivanfioravanti](https://x.com/ivanfioravanti) | 1:39 | — |
@@ -312,6 +317,7 @@
 | [3D jewelry brand visualization](https://x.com/HamidoFx1/status/2109603285938094545) | Opus 5.5 | [@HamidoFx1](https://x.com/HamidoFx1) | 0:10 | — |
 | [Adding a ring to a 3D character model via MCP](https://x.com/skyflash521/status/2111388497718423744) | Opus 5.5 | [@skyflash521](https://x.com/skyflash521) | 0:08 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2111388497718423744) |
 | [Floating island town from day to night, 3D short film](https://x.com/0xbobaaa/status/2115486834755035178) | Opus 5.5 | [@0xbobaaa](https://x.com/0xbobaaa) | 0:58 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2115486834755035178) |
+| [Live car factory simulation](https://x.com/konstantinsaifo/status/2117523739222982867) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 0:30 | — |
 | [Code-to-painting brush engine test](https://x.com/RLanceMartin/status/2104637229465538850) | Sonnet 5.5 | [@RLanceMartin](https://x.com/RLanceMartin) | 0:25 | — |
 | [Toon shader built for custom 3D software](https://x.com/sekiun_creation/status/2103462799976575323) | Opus 5.5 | [@sekiun_creation](https://x.com/sekiun_creation) | 0:29 | — |
 | [Interactive dancer worldline time sculpture](https://x.com/techartist_/status/2114819625242529992) | Opus 5.5 | [@techartist_](https://x.com/techartist_) | 0:30 | — |
@@ -349,6 +355,7 @@
 | [Construction site 4D model visualization](https://x.com/dobokuya77/status/2102579218953765071) | Opus 5.5 | [@dobokuya77](https://x.com/dobokuya77) | 0:38 | — |
 | [VR glasses 3D model and promo video](https://x.com/3DVR3/status/2103756080480387096) | Opus 5.5 | [@3DVR3](https://x.com/3DVR3) | 1:33 | — |
 | [Transforming tornado mecha design](https://x.com/ShadeLurk/status/2102465694894100862) | Opus 5.5 | [@ShadeLurk](https://x.com/ShadeLurk) | 0:15 | — |
+| [Mechanical scarab animation](https://x.com/Lummox_eth/status/2117649956777361809) | Opus 5.5 | [@Lummox_eth](https://x.com/Lummox_eth) | 0:17 | — |
 | [Blender pumpkin carving](https://x.com/MrTacticalX/status/2116471578812952836) | Opus 5.5 | [@MrTacticalX](https://x.com/MrTacticalX) | 0:16 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2116471578812952836) |
 | [3D scene built with Three.js](https://x.com/i2cjak/status/2110474945704903065) | Opus 5.5 | [@i2cjak](https://x.com/i2cjak) | 1:31 | — |
 | [Ants crawling over a company filing, coded animation](https://x.com/kevin_t_ngo/status/2114815615156486362) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 2:00 | — |

@@ -1,6 +1,6 @@
 # 动效设计
 
-共 331 个作品，其中 92 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 334 个作品，其中 93 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [生成的动画短片](https://x.com/imjustnewatai/status/2105808539495354669) | Fable 5.5 (preview) | [@imjustnewatai](https://x.com/imjustnewatai) | 1:02 | — |
 | [起号视频技能演示](https://x.com/xiaohu/status/2110729141289107485) | Opus 5.5 | [@xiaohu](https://x.com/xiaohu) | 1:48 | — |
 | [一次生成的动画演示视频](https://x.com/shapelayer/status/2102562623824757136) | Opus 5.5 | [@shapelayer](https://x.com/shapelayer) | 0:21 | — |
+| [警用机器人与翠鸟动画短片](https://x.com/0xMovez/status/2117700681867903169) | Fable 5.5 (preview) | [@0xMovez](https://x.com/0xMovez) | 0:42 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2117700681867903169) |
 | [游戏结算奖励动画](https://x.com/op7418/status/2103724883301814408) | Opus 5.5 | [@op7418](https://x.com/op7418) | 0:15 | — |
 | [逐帧绘制的JavaScript动画](https://x.com/strawhatsu4/status/2102457111787745405) | Opus 5.5 | [@strawhatsu4](https://x.com/strawhatsu4) | 0:14 | — |
 | [一次成型的动态视频演示](https://x.com/chhddavid/status/2102666619029999989) | Opus 5.5 | [@chhddavid](https://x.com/chhddavid) | 0:50 | — |
@@ -178,6 +179,7 @@
 | [宣传片动效镜头组件库（开源）](https://x.com/VincentWei93/status/2115797250689679394) | Opus 5.5 | [@VincentWei93](https://x.com/VincentWei93) | 2:17 | — |
 | [用Opus 5.5和Codex一次生成的视频](https://x.com/yuno_miyako2/status/2110016393886445964) | Opus 5.5 | [@yuno_miyako2](https://x.com/yuno_miyako2) | 1:00 | — |
 | [点元素主题动态视频](https://x.com/seiiiiiiiiiiru/status/2107018580265201724) | Opus 5.5 | [@seiiiiiiiiiiru](https://x.com/seiiiiiiiiiiru) | 0:15 | — |
+| [动态功能图标集](https://x.com/Kubai087/status/2117605750474428446) | Opus 5.5 | [@Kubai087](https://x.com/Kubai087) | 0:26 | — |
 | [单HTML文件实现的复杂2D着色器动画](https://x.com/xikhar/status/2117325961578614798) | Fable 5.5 (preview) | [@xikhar](https://x.com/xikhar) | 0:30 | — |
 | [UI动画演示](https://x.com/kevin_t_ngo/status/2111974919353544757) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 0:25 | — |
 | [一句提示词生成的广告视频](https://x.com/Nour_Sofanati/status/2103653780327641130) | Opus 5.5 | [@Nour_Sofanati](https://x.com/Nour_Sofanati) | 0:35 | — |
@@ -330,6 +332,7 @@
 | [水彩秋天动画](https://x.com/ishuagra02/status/2106000055706784118) | Fable 5.5 (preview) | [@ishuagra02](https://x.com/ishuagra02) | 0:25 | — |
 | [代码绘图动画制作流程演示](https://x.com/p2ecoin91/status/2103398218793168921) | Opus 5.5 | [@p2ecoin91](https://x.com/p2ecoin91) | 2:37 | — |
 | [足球传球路线AR分析](https://x.com/virtual_amir/status/2106387068070826373) | Opus 5.5 | [@virtual_amir](https://x.com/virtual_amir) | 0:31 | — |
+| [一个角色上的100种特效](https://x.com/m4lkxx/status/2117648108066640103) | Opus 5.5 | [@m4lkxx](https://x.com/m4lkxx) | 0:30 | — |
 | [短篇动画](https://x.com/fakharkamario/status/2110218646689599861) | Opus 5.5 | [@fakharkamario](https://x.com/fakharkamario) | 0:10 | — |
 | [令人惊叹的AI演示反应视频](https://x.com/dcbruck/status/2103549268321783859) | Opus 5.5 | [@dcbruck](https://x.com/dcbruck) | 0:15 | — |
 | [Opus 5.5动画质量演示](https://x.com/makisuo/status/2103613318497997215) | Opus 5.5 | [@makisuo](https://x.com/makisuo) | 0:15 | — |

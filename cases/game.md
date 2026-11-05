@@ -1,6 +1,6 @@
 # Games
 
-437 works, 63 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+442 works, 63 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -9,6 +9,7 @@
 | [Browser-based Fallout game built with code](https://x.com/chrisfirst/status/2104644598626934858) | Opus 5.5 | [@chrisfirst](https://x.com/chrisfirst) | 2:51 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104644598626934858) |
 | [Browser game world (third iteration)](https://x.com/xikhar/status/2104001664793600012) | Opus 5.5 | [@xikhar](https://x.com/xikhar) | 2:21 | — |
 | [Old-school MMO RPG built by AI](https://x.com/Stefan_3D_AI/status/2103778468660162615) | Opus 5.5 | [@Stefan_3D_AI](https://x.com/Stefan_3D_AI) | 1:17 | — |
+| [Original 3D puzzle platformer](https://x.com/xikhar/status/2117776295534997818) | Opus 5.5 | [@xikhar](https://x.com/xikhar) | 1:37 | — |
 | [Zelda-style paintbrush adventure game](https://x.com/DannyLimanseta/status/2104215873120764032) | Opus 5.5 | [@DannyLimanseta](https://x.com/DannyLimanseta) | 1:44 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104215873120764032) |
 | [Reverse-engineered Terraria clone with new features](https://x.com/rehan_shei/status/2104662849624981571) | Opus 5.5 | [@rehan_shei](https://x.com/rehan_shei) | 0:31 | — |
 | [Airplane simulator game](https://x.com/karankendre/status/2103821040174698674) | Opus 5.5 | [@karankendre](https://x.com/karankendre) | 0:32 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103821040174698674) |
@@ -339,6 +340,7 @@
 | [Mobile clicker game promo](https://x.com/IHayato/status/2103602246118428733) | Opus 5.5 | [@IHayato](https://x.com/IHayato) | 1:04 | — |
 | [Character-based game demo](https://x.com/AiFreak_tool/status/2102582031213613452) | Opus 5.5 | [@AiFreak_tool](https://x.com/AiFreak_tool) | 1:22 | — |
 | [Rocket League clone in Three.js](https://x.com/thoughtcrime___/status/2103946340598501771) | Opus 5.5 | [@thoughtcrime___](https://x.com/thoughtcrime___) | 0:16 | — |
+| [Team shooter game prototype](https://x.com/froessell/status/2117651179564126409) | Opus 5.5 | [@froessell](https://x.com/froessell) | 2:25 | — |
 | [Sword-fighting game in development](https://x.com/R_Nikaido/status/2103462848303378834) | Opus 5.5 | [@R_Nikaido](https://x.com/R_Nikaido) | 0:35 | — |
 | [Procedural mountain flight simulator](https://x.com/cyrilXBT/status/2103801828744061307) | Opus 5.5 | [@cyrilXBT](https://x.com/cyrilXBT) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103801828744061307) |
 | [Retro game remake in a modern engine](https://x.com/AIandDesign/status/2103327470485459444) | Opus 5.5 | [@AIandDesign](https://x.com/AIandDesign) | 4:00 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103327470485459444) |
@@ -348,6 +350,7 @@
 | [Cyber ronin game character](https://x.com/PixelLabAI/status/2116783925062169025) | Opus 5.5 | [@PixelLabAI](https://x.com/PixelLabAI) | 0:15 | — |
 | [Final boss](https://x.com/_brightmirror/status/2111539098234310975) | Opus 5.5 | [@_brightmirror](https://x.com/_brightmirror) | 5:58 | — |
 | [Zombie game animation attempt](https://x.com/notjazii/status/2109974240791498858) | Opus 5.5 | [@notjazii](https://x.com/notjazii) | 0:18 | — |
+| [Counter-strike style Roblox game](https://x.com/0xKense1/status/2117737002598543768) | Opus 5.5 | [@0xKense1](https://x.com/0xKense1) | 1:29 | — |
 | [Bully story mode with cutscenes ported to Unreal](https://x.com/ashen_one/status/2114775035575496991) | Opus 5.5 | [@ashen_one](https://x.com/ashen_one) | 5:54 | — |
 | [Roblox visual effect one-shot](https://x.com/JohnKlerAI/status/2103615638208217303) | Opus 5.5 | [@JohnKlerAI](https://x.com/JohnKlerAI) | 0:08 | — |
 | [Black hole effect for Roblox](https://x.com/JohnKlerAI/status/2112569096567210403) | Opus 5.5 | [@JohnKlerAI](https://x.com/JohnKlerAI) | 0:11 | — |
@@ -364,6 +367,7 @@
 | [Godot scene with Buddhist verse](https://x.com/KanaWorks_AI/status/2107826840035635328) | Opus 5.5 | [@KanaWorks_AI](https://x.com/KanaWorks_AI) | 1:04 | — |
 | [Terraria rebuilt in 3D](https://x.com/ai_growth_avii/status/2107673916550627508) | Opus 5.5 | [@ai_growth_avii](https://x.com/ai_growth_avii) | 1:05 | — |
 | [Japanese boat scene Three.js game](https://x.com/mdaman010/status/2107100320816095625) | Opus 5.5 | [@mdaman010](https://x.com/mdaman010) | 1:00 | — |
+| [Roblox tornado game](https://x.com/0xKense1/status/2117629203889659934) | Opus 5.5 | [@0xKense1](https://x.com/0xKense1) | 0:30 | — |
 | [Fighting game physics mechanics demo](https://x.com/onofumi_AI/status/2102583417208717748) | Opus 5.5 | [@onofumi_AI](https://x.com/onofumi_AI) | 0:31 | — |
 | [Browser game from 'make the most fun game in the world'](https://x.com/coyane_ai/status/2103668069801624015) | Opus 5.5 | [@coyane_ai](https://x.com/coyane_ai) | 1:00 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103668069801624015) |
 | [Tesla factory strategy simulation](https://x.com/konstantinsaifo/status/2112913135782756652) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 0:35 | — |
@@ -439,5 +443,6 @@
 | [Fighting game inspired by a mecha series](https://x.com/elefolo2/status/2103310890716266620) | Opus 5.5 | [@elefolo2](https://x.com/elefolo2) | 0:34 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103310890716266620) |
 | [Vault Street pixel-art bank heist diorama](https://x.com/vib3coded/status/2114054716959215724) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:17 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2114054716959215724) |
 | [Improved game prototype](https://x.com/ForkedPush/status/2113682278261944511) | Opus 5.5 | [@ForkedPush](https://x.com/ForkedPush) | 2:06 | — |
+| [Fishing and exploration game demo](https://x.com/hakimieiqbal/status/2117610999796941057) | Opus 5.5 | [@hakimieiqbal](https://x.com/hakimieiqbal) | 3:15 | — |
 | [Playable theme park strategy game](https://x.com/anxuanng/status/2111528513690026292) | Opus 5.5 | [@anxuanng](https://x.com/anxuanng) | 0:30 | — |
 | [Fallout 2 mod porting Megaton from Fallout 3](https://x.com/parhelion318/status/2108606277618413780) | Opus 5.5 | [@parhelion318](https://x.com/parhelion318) | 1:10 | — |
