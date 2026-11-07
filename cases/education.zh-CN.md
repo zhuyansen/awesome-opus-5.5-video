@@ -1,6 +1,6 @@
 # 科普讲解
 
-共 216 个作品，其中 54 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 221 个作品，其中 56 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Gmail实用功能讲解短视频](https://x.com/ClaudeCode_UT/status/2106958663525314769) | Opus 5.5 | [@ClaudeCode_UT](https://x.com/ClaudeCode_UT) | 0:32 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2106958663525314769) |
 | [可暂停的十字曲轴V8发动机交互演示](https://x.com/elvar_official/status/2115882221319958984) | Opus 5.5 | [@elvar_official](https://x.com/elvar_official) | 0:26 | — |
 | [自行车刹车原理3D讲解](https://x.com/RyanSael/status/2107111191210520608) | Opus 5.5 | [@RyanSael](https://x.com/RyanSael) | 0:40 | — |
+| [美国大选互动课程](https://x.com/GabLattanzio/status/2117891574587908310) | Opus 5.5 | [@GabLattanzio](https://x.com/GabLattanzio) | 0:31 | — |
 | [Anthropic上市招股书要点解读视频](https://x.com/tunguz/status/2114756330997055501) | Opus 5.5 | [@tunguz](https://x.com/tunguz) | 4:46 | — |
 | [讲解9条足球规则的科普视频](https://x.com/lukasersil/status/2105922894924501283) | Opus 5.5 | [@lukasersil](https://x.com/lukasersil) | 1:09 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2105922894924501283) |
 | [给孩子讲解四季与昼夜循环的科普视频](https://x.com/KashPrime/status/2103862007208591605) | Opus 5.5 | [@KashPrime](https://x.com/KashPrime) | 3:06 | — |
@@ -204,6 +205,7 @@
 | [地球恐龙时代到绳纹时代科普动画](https://x.com/mellow_neet2000/status/2103487198758834408) | Opus 5.5 | [@mellow_neet2000](https://x.com/mellow_neet2000) | 2:20 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103487198758834408) |
 | [达喀尔战役二战纪录短片](https://x.com/PapeDudu_ndoye/status/2111869029623157109) | Opus 5.5 | [@PapeDudu_ndoye](https://x.com/PapeDudu_ndoye) | 3:15 | — |
 | [用Manim讲解指针概念的视频](https://x.com/Hesamation/status/2103822595993018838) | Opus 5.5 | [@Hesamation](https://x.com/Hesamation) | 1:32 | — |
+| [卡通动物冷知识竖屏短片](https://x.com/finnardley/status/2118149077842133334) | Opus 5.5 | [@finnardley](https://x.com/finnardley) | 0:34 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2118149077842133334) |
 | [牛顿定律3D全息互动书](https://x.com/techartist_/status/2115122099161559140) | Opus 5.5 | [@techartist_](https://x.com/techartist_) | 0:26 | — |
 | [环面胞腔分解数学讲解动画](https://x.com/yohaku121244/status/2103744418977358021) | Opus 5.5 | [@yohaku121244](https://x.com/yohaku121244) | 2:21 | — |
 | [相对论自行车3D演示](https://x.com/techartist_/status/2107151400472088835) | Opus 5.5 | [@techartist_](https://x.com/techartist_) | 0:28 | — |
@@ -215,8 +217,11 @@
 | [京都秋季红叶旅行节目](https://x.com/CHIBIKURO_QnQ/status/2114324847966998934) | Opus 5.5 | [@CHIBIKURO_QnQ](https://x.com/CHIBIKURO_QnQ) | 0:48 | — |
 | [用舞蹈呈现数学函数](https://x.com/chetaslua/status/2114277081349853217) | Opus 5.5 | [@chetaslua](https://x.com/chetaslua) | 1:35 | — |
 | [加密货币交易概念动画](https://x.com/Dan_Kostecki/status/2103761581871964592) | Opus 5.5 | [@Dan_Kostecki](https://x.com/Dan_Kostecki) | 2:43 | — |
+| [家庭应急处理互动课](https://x.com/techartist_/status/2118138729064022046) | Opus 5.5 | [@techartist_](https://x.com/techartist_) | 0:27 | — |
 | [魔方结构原理互动讲解](https://x.com/0x_mura/status/2115026640795226402) | Opus 5.5 | [@0x_mura](https://x.com/0x_mura) | 0:35 | — |
 | [呼吁"终结美联储"的15秒说明视频](https://x.com/cboyack/status/2103617085402407181) | Opus 5.5 | [@cboyack](https://x.com/cboyack) | 0:15 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103617085402407181) |
 | [为Anthropic科学博客制作的讲解视频](https://x.com/deepwhitman/status/2103562764929389035) | Opus 5.5 | [@deepwhitman](https://x.com/deepwhitman) | 1:39 | — |
 | [跑车倒挂行驶原理动画解析](https://x.com/andreysuperior/status/2113323122682163307) | Opus 5.5 | [@andreysuperior](https://x.com/andreysuperior) | 0:45 | — |
 | [热钱包与冷钱包区别讲解视频](https://x.com/sergitosergito/status/2103835390998388796) | Opus 5.5 | [@sergitosergito](https://x.com/sergitosergito) | 1:36 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103835390998388796) |
+| [面包板原理讲解视频](https://x.com/sparklabhq/status/2118479089807888796) | Opus 5.5 | [@sparklabhq](https://x.com/sparklabhq) | 0:53 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2118479089807888796) |
+| [浏览器中的3D电子实验台](https://x.com/ruizemanueldev/status/2118183814815994174) | Opus 5.5 | [@ruizemanueldev](https://x.com/ruizemanueldev) | 0:57 | — |

@@ -2,22 +2,22 @@
 
 English | [简体中文](README.zh-CN.md)
 
-Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5, Sonnet 5.5, Haiku 5.5 and Fable 5.5 (limited preview, not yet announced) and shared on X, each with 5,000+ views on the original post. **2526 works** (Opus 5.5: 2359 · Sonnet 5.5: 135 · Fable 5.5: 109; comparisons count for each), **599 with a prompt** (293 full prompts).
+Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5, Sonnet 5.5, Haiku 5.5 and Fable 5.5 (limited preview, not yet announced) and shared on X, each with 5,000+ views on the original post. **2595 works** (Opus 5.5: 2417 · Sonnet 5.5: 141 · Fable 5.5: 118; comparisons count for each), **612 with a prompt** (301 full prompts).
 
 **[Browse online — play the videos and copy the prompts →](https://jasonzhu.ai/en/prompts/claude-opus-5-5)**
 
 <table>
   <tr>
     <td width="25%" align="center"><a href="https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102801274173587569"><img src="https://pbs.twimg.com/amplify_video_thumb/2102799458031534086/img/GBhRZ7O3fCXn59dk.jpg" width="200" alt="Remake of the 'Claude Pop' music video"></a><br><sub>Remake of the 'Claude Pop' music video</sub></td>
+    <td width="25%" align="center"><a href="https://jasonzhu.ai/en/prompts/claude-opus-5-5/2118343870450954318"><img src="https://pbs.twimg.com/amplify_video_thumb/2118343664552525824/img/WiMHZM9T8j_TQSvl.jpg" width="200" alt="Sci-fi first-person shooter game"></a><br><sub>Sci-fi first-person shooter game</sub></td>
     <td width="25%" align="center"><a href="https://jasonzhu.ai/en/prompts/claude-opus-5-5/2117169796290916732"><img src="https://pbs.twimg.com/amplify_video_thumb/2117167031636393985/img/CKADDY4IjwF3_y0c.jpg" width="200" alt="Moss-Covered Giant Robot Awakens at Sunrise"></a><br><sub>Moss-Covered Giant Robot Awakens at Sunrise</sub></td>
     <td width="25%" align="center"><a href="https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103273003555402193"><img src="https://pbs.twimg.com/amplify_video_thumb/2103272964967804928/img/DTuQzS4NOGKMbTDA.jpg" width="200" alt="Code-based UI motion design showreel"></a><br><sub>Code-based UI motion design showreel</sub></td>
-    <td width="25%" align="center"><a href="https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103817034618339682"><img src="https://pbs.twimg.com/amplify_video_thumb/2103816945854197760/img/EdioPORO7Xfgc5E1.jpg" width="200" alt="High-energy motion graphics showreel"></a><br><sub>High-energy motion graphics showreel</sub></td>
   </tr>
   <tr>
+    <td width="25%" align="center"><a href="https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103817034618339682"><img src="https://pbs.twimg.com/amplify_video_thumb/2103816945854197760/img/EdioPORO7Xfgc5E1.jpg" width="200" alt="High-energy motion graphics showreel"></a><br><sub>High-energy motion graphics showreel</sub></td>
     <td width="25%" align="center"><a href="https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103304514329854102"><img src="https://pbs.twimg.com/amplify_video_thumb/2103304202617520128/img/bpMVxBiJHhgYy27l.jpg" width="200" alt="AI documentary about superintelligence"></a><br><sub>AI documentary about superintelligence</sub></td>
     <td width="25%" align="center"><a href="https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103698854399099057"><img src="https://pbs.twimg.com/amplify_video_thumb/2103697667910168576/img/cqLRqTw7vVpTectN.jpg" width="200" alt="AI self-introduction song and video"></a><br><sub>AI self-introduction song and video</sub></td>
     <td width="25%" align="center"><a href="https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103116235009347650"><img src="https://pbs.twimg.com/amplify_video_thumb/2103113452726140928/img/cjQI93QJwNev_gQ1.jpg" width="200" alt="Battle of Austerlitz procedural film"></a><br><sub>Battle of Austerlitz procedural film</sub></td>
-    <td width="25%" align="center"><a href="https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104285370951012504"><img src="https://pbs.twimg.com/amplify_video_thumb/2104285268907859968/img/J8ePMThjFdD0EuEa.jpg" width="200" alt="Jelly watermelon slicing simulation"></a><br><sub>Jelly watermelon slicing simulation</sub></td>
   </tr>
 </table>
 
@@ -25,14 +25,14 @@ Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5, Sonnet 5
 
 ## Inclusion rule
 
-- The creator's own post, with a native video, and at least 5,000 views on that post (snapshot: 2026-11-05).
+- The creator's own post, with a native video, and at least 5,000 views on that post (snapshot: 2026-11-07).
 - The post states the work was made with Claude Opus 5.5, Sonnet 5.5, Haiku 5.5 or Fable 5.5; the Model column follows the creator's own words. **As of early October Fable 5.5 is in limited preview and not yet announced**; posts where the creator is unsure are excluded. **Model attribution is as stated by each creator and was not independently reproduced.**
 - A prompt is listed only when it has a source: the post itself, the creator's own replies, a screenshot in those replies, or a link the creator shared. Prompts are kept verbatim, never rewritten or translated.
 - Works with a video but no traceable instruction are still listed, with the prompt column left empty.
 
 ## Motion graphics & UI
 
-334 works · [full list](cases/motion.md)
+340 works · [full list](cases/motion.md)
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5, Sonnet 5
 
 ## Product demos & ads
 
-247 works · [full list](cases/product.md)
+254 works · [full list](cases/product.md)
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5, Sonnet 5
 
 ## Explainers & education
 
-216 works · [full list](cases/education.md)
+221 works · [full list](cases/education.md)
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5, Sonnet 5
 
 ## Characters & stories
 
-227 works · [full list](cases/stories.md)
+237 works · [full list](cases/stories.md)
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5, Sonnet 5
 
 ## 3D worlds & simulations
 
-415 works · [full list](cases/art3d.md)
+431 works · [full list](cases/art3d.md)
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -107,22 +107,22 @@ Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5, Sonnet 5
 
 ## Games
 
-442 works · [full list](cases/game.md)
+458 works · [full list](cases/game.md)
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
 | [Browser-based Fallout game built with code](https://x.com/chrisfirst/status/2104644598626934858) | Opus 5.5 | [@chrisfirst](https://x.com/chrisfirst) | 2:51 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104644598626934858) |
+| [Sci-fi first-person shooter game](https://x.com/Rubzem/status/2118343870450954318) | Opus 5.5 | [@Rubzem](https://x.com/Rubzem) | 3:03 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2118343870450954318) |
 | [Zelda-style paintbrush adventure game](https://x.com/DannyLimanseta/status/2104215873120764032) | Opus 5.5 | [@DannyLimanseta](https://x.com/DannyLimanseta) | 1:44 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104215873120764032) |
 | [Airplane simulator game](https://x.com/karankendre/status/2103821040174698674) | Opus 5.5 | [@karankendre](https://x.com/karankendre) | 0:32 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103821040174698674) |
 | [League of Legends x Dragon Ball FighterZ Mashup Game](https://x.com/GamefxAI/status/2106387548486738010) | Opus 5.5 | [@GamefxAI](https://x.com/GamefxAI) | 1:43 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2106387548486738010) |
 | [3D shooting mini-game](https://x.com/karankendre/status/2103456630679773669) | Opus 5.5 | [@karankendre](https://x.com/karankendre) | 0:22 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103456630679773669) |
 | [League of Legends MMO prototype](https://x.com/GamefxAI/status/2107116106280485047) | Opus 5.5 | [@GamefxAI](https://x.com/GamefxAI) | 0:12 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2107116106280485047) |
 | [Fortnite-style game built with Sonnet 5.5](https://x.com/ericmaskfr/status/2104680817272500562) | Sonnet 5.5 | [@ericmaskfr](https://x.com/ericmaskfr) | 0:42 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104680817272500562) |
-| [Minecraft clone in browser](https://x.com/noahwachnik/status/2102470200415166699) | Opus 5.5 | [@noahwachnik](https://x.com/noahwachnik) | 0:23 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102470200415166699) |
 
 ## Music, editing & production
 
-172 works · [full list](cases/production.md)
+176 works · [full list](cases/production.md)
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -137,7 +137,7 @@ Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5, Sonnet 5
 
 ## Model comparisons
 
-473 works · [full list](cases/comparison.md)
+478 works · [full list](cases/comparison.md)
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 # 制作流程
 
-共 172 个作品，其中 32 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 176 个作品，其中 32 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [基于语音同步的自动化品牌视频剪辑](https://x.com/Aykutuces/status/2110019799342260630) | Opus 5.5 | [@Aykutuces](https://x.com/Aykutuces) | 1:14 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2110019799342260630) |
 | [将视频复刻为可编辑的After Effects项目](https://x.com/gmharhar/status/2107936315081986480) | Opus 5.5 | [@gmharhar](https://x.com/gmharhar) | 0:20 | — |
 | [用于课程规划的AI动态分镜视频](https://x.com/mattpocockuk/status/2105212971307667862) | Opus 5.5 | [@mattpocockuk](https://x.com/mattpocockuk) | 8:31 | — |
+| [智力测试应用营销短视频](https://x.com/ErnestoSOFTWARE/status/2118352769534894202) | Opus 5.5 | [@ErnestoSOFTWARE](https://x.com/ErnestoSOFTWARE) | 0:30 | — |
 | [AI剪辑的口播视频](https://x.com/sab8a/status/2103144778481475686) | Opus 5.5 | [@sab8a](https://x.com/sab8a) | 0:37 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103144778481475686) |
 | [AI虚拟主播播客视频演示](https://x.com/nakazakifam/status/2111929310256984210) | Opus 5.5 | [@nakazakifam](https://x.com/nakazakifam) | 2:04 | — |
 | [AI制作的乐观续作歌曲](https://x.com/nssharpe/status/2103549676234637516) | Opus 5.5 | [@nssharpe](https://x.com/nssharpe) | 2:20 | — |
@@ -108,6 +109,7 @@
 | [AI创作的巴洛克风格三重奏奏鸣曲](https://x.com/aug5thmusic/status/2103549625076752493) | Opus 5.5 | [@aug5thmusic](https://x.com/aug5thmusic) | 1:46 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103549625076752493) |
 | [体素小人走过视频工作流的六个房间](https://x.com/francescoinweb3/status/2113585622317244526) | Opus 5.5 | [@francescoinweb3](https://x.com/francescoinweb3) | 0:24 | — |
 | [自动视频剪辑流程](https://x.com/Scenario_gg/status/2110020120865313063) | Opus 5.5 | [@Scenario_gg](https://x.com/Scenario_gg) | 0:13 | — |
+| [无时间线剪辑播客片段](https://x.com/Aygramm_/status/2118074468295700937) | Opus 5.5 | [@Aygramm_](https://x.com/Aygramm_) | 0:50 | — |
 | [自动化Blender场景搭建演示](https://x.com/higgsfield_ai/status/2103537802688463269) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:12 | — |
 | [代码渲染视频制作揭秘](https://x.com/konmari_tweet/status/2103846791976513981) | Opus 5.5 | [@konmari_tweet](https://x.com/konmari_tweet) | 1:23 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103846791976513981) |
 | [佛经动感remix版本](https://x.com/nishio/status/2103903175631880308) | Opus 5.5 | [@nishio](https://x.com/nishio) | 3:04 | — |
@@ -160,6 +162,7 @@
 | [全自动生成的三分钟AI新闻解说视频](https://x.com/old_pgmrs_will/status/2108908117874635170) | Opus 5.5 | [@old_pgmrs_will](https://x.com/old_pgmrs_will) | 2:53 | — |
 | [Excel定格动画结合Blender制作](https://x.com/aicreataro/status/2109892378383540394) | Opus 5.5 | [@aicreataro](https://x.com/aicreataro) | 1:01 | — |
 | [用原始素材剪辑出的AI视频](https://x.com/lewangx/status/2103523508957446423) | Opus 5.5 | [@lewangx](https://x.com/lewangx) | 0:42 | — |
+| [借助Suno MCP制作的音乐MV](https://x.com/Ayu_AI_0912/status/2117930777413603598) | Opus 5.5 | [@Ayu_AI_0912](https://x.com/Ayu_AI_0912) | 1:13 | — |
 | [档案馆风格双语演讲视频](https://x.com/huangyun_122/status/2114417230792491070) | Opus 5.5 | [@huangyun_122](https://x.com/huangyun_122) | 1:32 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2114417230792491070) |
 | [配有B-roll的完整剪辑出镜短视频](https://x.com/rpnickson/status/2113727289355554829) | Opus 5.5 | [@rpnickson](https://x.com/rpnickson) | 1:54 | — |
 | [AI搭建的自制视频编辑器](https://x.com/SoyMrBro/status/2103135398226735139) | Opus 5.5 | [@SoyMrBro](https://x.com/SoyMrBro) | 0:31 | — |
@@ -172,6 +175,7 @@
 | [霓虹故障风视频处理](https://x.com/aimikoda/status/2113344709682663503) | Opus 5.5 | [@aimikoda](https://x.com/aimikoda) | 0:07 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2113344709682663503) |
 | [用安卓手机制作的电影感角色短片](https://x.com/bozzxyz/status/2113170819635609957) | Opus 5.5 | [@bozzxyz](https://x.com/bozzxyz) | 0:33 | — |
 | [多工具AI视频制作作品](https://x.com/MakeAI_CEO/status/2102955436957983065) | Opus 5.5 | [@MakeAI_CEO](https://x.com/MakeAI_CEO) | 9:28 | — |
+| [全3D虚拟主播现场音乐MV](https://x.com/LidaMidorin/status/2118159125398061237) | Opus 5.5 | [@LidaMidorin](https://x.com/LidaMidorin) | 0:49 | — |
 | [加入战斗 HUD 界面的战斗场景视频](https://x.com/CHIBIKURO_QnQ/status/2113250911585980534) | Opus 5.5 | [@CHIBIKURO_QnQ](https://x.com/CHIBIKURO_QnQ) | 0:30 | — |
 | [用Claude Opus重新剪辑的2007年电影预告片](https://x.com/JoshDaws/status/2109982871209304334) | Opus 5.5 | [@JoshDaws](https://x.com/JoshDaws) | 2:21 | — |
 | [视频剪辑尝试](https://x.com/Madariyanhadi/status/2111004303075000494) | Opus 5.5 | [@Madariyanhadi](https://x.com/Madariyanhadi) | 1:08 | — |

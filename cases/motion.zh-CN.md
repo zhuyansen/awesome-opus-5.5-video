@@ -1,6 +1,6 @@
 # 动效设计
 
-共 334 个作品，其中 93 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 340 个作品，其中 93 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [从单张插画生成的Live2D风格建模](https://x.com/manaimovie/status/2102797971570196520) | Opus 5.5 | [@manaimovie](https://x.com/manaimovie) | 0:25 | — |
 | [额度内完成的动效设计视频](https://x.com/YarHmm/status/2103505435802341449) | Opus 5.5 | [@YarHmm](https://x.com/YarHmm) | 0:56 | — |
 | [可交互任意风格视频生成器](https://x.com/chetaslua/status/2102501773705670994) | Opus 5.5 | [@chetaslua](https://x.com/chetaslua) | 0:10 | — |
+| [Claude 制作的短视频](https://x.com/blueemi99/status/2118408673869594898) | Opus 5.5 | [@blueemi99](https://x.com/blueemi99) | 0:20 | — |
 | [基于PDF说明的动态设计作品](https://x.com/0xnicc0/status/2115785376292102495) | Opus 5.5 | [@0xnicc0](https://x.com/0xnicc0) | 0:14 | — |
 | [影视视觉技法合集演示](https://x.com/Kutinawa_VGamer/status/2103476071018766790) | Opus 5.5 | [@Kutinawa_VGamer](https://x.com/Kutinawa_VGamer) | 1:20 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103476071018766790) |
 | [可撕页互动日历应用](https://x.com/FiachraRM/status/2112188946809749658) | Opus 5.5 | [@FiachraRM](https://x.com/FiachraRM) | 0:38 | — |
@@ -149,11 +150,13 @@
 | [吉祥物宣传动效视频](https://x.com/patchy_dog/status/2103862188624785635) | Opus 5.5 | [@patchy_dog](https://x.com/patchy_dog) | 0:18 | — |
 | [公司宣传动效广告](https://x.com/showheyohtaki/status/2104095944686051492) | Opus 5.5 | [@showheyohtaki](https://x.com/showheyohtaki) | 0:30 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104095944686051492) |
 | [90秒动态设计与配乐演示](https://x.com/kloss_xyz/status/2103624187017572421) | Opus 5.5 | [@kloss_xyz](https://x.com/kloss_xyz) | 0:26 | — |
+| [设计指导前后的动效视频](https://x.com/ddmonyai/status/2118341924516139342) | Opus 5.5 | [@ddmonyai](https://x.com/ddmonyai) | 1:57 | — |
 | [生成的动画片段](https://x.com/driftauz/status/2111109055955763570) | Opus 5.5 | [@driftauz](https://x.com/driftauz) | 0:12 | — |
 | [动态设计转为SVG动画HTML文件](https://x.com/OdinLovis/status/2112536814393454735) | Opus 5.5 | [@OdinLovis](https://x.com/OdinLovis) | 0:35 | — |
 | [短篇动态视频](https://x.com/Aygramm_/status/2116663090364465534) | Opus 5.5 | [@Aygramm_](https://x.com/Aygramm_) | 0:28 | — |
 | [动态照片风格演出第9个](https://x.com/shironagasu_ai/status/2112119058422288468) | Opus 5.5 | [@shironagasu_ai](https://x.com/shironagasu_ai) | 0:10 | — |
 | [基于PDF指南生成的动态设计视频](https://x.com/0xwhrrari/status/2114001528562602485) | Opus 5.5 | [@0xwhrrari](https://x.com/0xwhrrari) | 0:18 | — |
+| [加泰罗尼亚选举图形改编](https://x.com/senyorfont/status/2118108224977072215) | Opus 5.5 | [@senyorfont](https://x.com/senyorfont) | 0:14 | — |
 | [武术短片改制的动画片头](https://x.com/aimikoda/status/2110119492076404869) | Opus 5.5 | [@aimikoda](https://x.com/aimikoda) | 0:32 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2110119492076404869) |
 | [令人惊艳的AI生成视频](https://x.com/GregorySchier/status/2103573891629371497) | Opus 5.5 | [@GregorySchier](https://x.com/GregorySchier) | 0:30 | — |
 | [无缝循环动态设计动画](https://x.com/0xkerazcity/status/2109705700930957328) | Opus 5.5 | [@0xkerazcity](https://x.com/0xkerazcity) | 0:16 | — |
@@ -240,6 +243,7 @@
 | [教师节动态海报视频](https://x.com/ai4everyday/status/2106992353219056006) | Opus 5.5 | [@ai4everyday](https://x.com/ai4everyday) | 1:06 | — |
 | [纯JS生成的视频](https://x.com/chetaslua/status/2103599163804098708) | Opus 5.5 | [@chetaslua](https://x.com/chetaslua) | 0:12 | — |
 | [AI制作的动效设计作品](https://x.com/lokidotdev/status/2103760837496418583) | Opus 5.5 | [@lokidotdev](https://x.com/lokidotdev) | 0:15 | — |
+| [Cinetic 动画场景短片](https://x.com/LexnLin/status/2118327859282612400) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 0:45 | — |
 | [液态铬金属动效作品集](https://x.com/kloss_xyz/status/2116612471880610054) | Opus 5.5 | [@kloss_xyz](https://x.com/kloss_xyz) | 1:30 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2116612471880610054) |
 | [应用付费墙动效设计](https://x.com/BreejeAnadkat/status/2115749240823583179) | Opus 5.5 | [@BreejeAnadkat](https://x.com/BreejeAnadkat) | 0:10 | — |
 | [AI产品动效设计视频](https://x.com/LexnLin/status/2110013871532490973) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 0:40 | — |
@@ -253,6 +257,7 @@
 | [迷你动画场景集](https://x.com/nusretuzman/status/2106125405602123850) | Opus 5.5 | [@nusretuzman](https://x.com/nusretuzman) | 0:11 | — |
 | [企业动态设计宣传视频](https://x.com/webasamoah/status/2112237497887658441) | Opus 5.5 | [@webasamoah](https://x.com/webasamoah) | 0:45 | — |
 | [动态设计片段](https://x.com/flxrnc/status/2113703025239818247) | Opus 5.5 | [@flxrnc](https://x.com/flxrnc) | 0:19 | — |
+| [加入潮流动效的音乐视频](https://x.com/mi7_crypto/status/2118077593828376881) | Opus 5.5 | [@mi7_crypto](https://x.com/mi7_crypto) | 0:30 | — |
 | [纯代码UI动效循环动画](https://x.com/0xAiky/status/2111814234090693110) | Opus 5.5 | [@0xAiky](https://x.com/0xAiky) | 0:14 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2111814234090693110) |
 | [60 帧动效短片](https://x.com/Aygramm_/status/2117294773081882838) | Opus 5.5 | [@Aygramm_](https://x.com/Aygramm_) | 0:48 | — |
 | [用Opus 5.5制作旧插画的电影图效果](https://x.com/shironagasu_ai/status/2105688303655632974) | Opus 5.5 | [@shironagasu_ai](https://x.com/shironagasu_ai) | 0:10 | — |
@@ -311,6 +316,7 @@
 | [互动像素骷髅](https://x.com/ann_nnng/status/2116174452522435044) | Opus 5.5 | [@ann_nnng](https://x.com/ann_nnng) | 0:28 | — |
 | [DeFi 3.0协议展示片](https://x.com/vvarrdi/status/2106674469658108379) | Opus 5.5 | [@vvarrdi](https://x.com/vvarrdi) | 0:13 | — |
 | [微笑好处动态图解视频](https://x.com/ai4everyday/status/2106385179006685254) | Opus 5.5 | [@ai4everyday](https://x.com/ai4everyday) | 0:57 | — |
+| [诗歌主题动效实验](https://x.com/julianleiss/status/2118406663434879113) | Opus 5.5 | [@julianleiss](https://x.com/julianleiss) | 0:54 | — |
 | [带品牌视觉的动效设计师展示片](https://x.com/lukasersil/status/2103742861971726495) | Opus 5.5 | [@lukasersil](https://x.com/lukasersil) | 0:15 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103742861971726495) |
 | [Roblox实时视觉特效](https://x.com/kinnievfx/status/2114514200735465924) | Opus 5.5 | [@kinnievfx](https://x.com/kinnievfx) | 0:21 | — |
 | [教师节主题手写动效短片](https://x.com/youssef_aymanc/status/2107466191178711054) | Opus 5.5 | [@youssef_aymanc](https://x.com/youssef_aymanc) | 0:33 | — |

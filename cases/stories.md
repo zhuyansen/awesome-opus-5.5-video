@@ -1,6 +1,6 @@
 # Characters & stories
 
-227 works, 52 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+237 works, 55 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Red Fox Wakes a Forgotten Library](https://x.com/chetaslua/status/2117224839010459987) | Opus 5.5 / Fable 5.5 (preview) | [@chetaslua](https://x.com/chetaslua) | 0:58 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2117224839010459987) |
 | [AI-made anime short Gus & Spark](https://x.com/ziwenxu_/status/2111212505947357651) | Opus 5.5 / Fable 5.5 (preview) | [@ziwenxu_](https://x.com/ziwenxu_) | 25:43 | — |
 | [Bir Sonraki Kelime animated music video](https://x.com/Avenoxai/status/2104131419853160477) | Opus 5.5 | [@Avenoxai](https://x.com/Avenoxai) | 3:13 | — |
+| [Replicated 3D cartoon animation style](https://x.com/kristerssulckis/status/2117947953897762899) | Opus 5.5 | [@kristerssulckis](https://x.com/kristerssulckis) | 1:01 | — |
 | [Visualization of the singularity experience](https://x.com/dirtman/status/2103686605517287620) | Opus 5.5 | [@dirtman](https://x.com/dirtman) | 2:26 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103686605517287620) |
 | [Animated music video about an evil plan](https://x.com/_brightmirror/status/2105714071681343654) | Opus 5.5 | [@_brightmirror](https://x.com/_brightmirror) | 6:18 | — |
 | [Realistic AI-generated video workflow demo](https://x.com/abxxai/status/2102775755646337530) | Opus 5.5 | [@abxxai](https://x.com/abxxai) | 0:19 | — |
@@ -69,6 +70,7 @@
 | [The Draconia Affair episode](https://x.com/viperstudios4/status/2117734324271300832) | Opus 5.5 | [@viperstudios4](https://x.com/viperstudios4) | 2:54 | — |
 | [Japanese folktale narrated video](https://x.com/AIPlus_AISchool/status/2103316853271769126) | Opus 5.5 | [@AIPlus_AISchool](https://x.com/AIPlus_AISchool) | 3:30 | — |
 | [Code-built anime girl dance stage](https://x.com/HaileyAILabs/status/2114712331896934747) | Opus 5.5 | [@HaileyAILabs](https://x.com/HaileyAILabs) | 0:30 | — |
+| [Giant archer robot versus leviathan anime short](https://x.com/0xMovez/status/2117987052419428576) | Fable 5.5 (preview) | [@0xMovez](https://x.com/0xMovez) | 1:23 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2117987052419428576) |
 | [Mascot-themed music video](https://x.com/IndraVahan/status/2103183939745751083) | Opus 5.5 | [@IndraVahan](https://x.com/IndraVahan) | 2:09 | — |
 | [Marvel and DC heroes one-shot animation](https://x.com/chetaslua/status/2105792187200147541) | Fable 5.5 (preview) | [@chetaslua](https://x.com/chetaslua) | 0:47 | — |
 | [Big Enough to See animated song film](https://x.com/icyklop1/status/2103821742682587327) | Opus 5.5 | [@icyklop1](https://x.com/icyklop1) | 5:04 | — |
@@ -85,6 +87,7 @@
 | [Claude parody song animated video](https://x.com/eudaemonea/status/2103159823407722893) | Opus 5.5 | [@eudaemonea](https://x.com/eudaemonea) | 6:02 | — |
 | [Animated episode drawn entirely in code](https://x.com/shfred0/status/2102879301876031808) | Opus 5.5 | [@shfred0](https://x.com/shfred0) | 2:00 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102879301876031808) |
 | [Post-human narrative video](https://x.com/chetaslua/status/2116878661035106515) | Fable 5.5 (preview) | [@chetaslua](https://x.com/chetaslua) | 0:50 | — |
+| [Code-built vertical cartoon short](https://x.com/treyscalez/status/2118357912624005300) | Opus 5.5 | [@treyscalez](https://x.com/treyscalez) | 0:34 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2118357912624005300) |
 | [Animated day-in-the-life narration by an AI](https://x.com/kevin_t_ngo/status/2105004703906218366) | Sonnet 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 0:48 | — |
 | [1920s-style newsreel about a Tesla flying car](https://x.com/long_jingai/status/2113312553560687101) | Opus 5.5 | [@long_jingai](https://x.com/long_jingai) | 1:05 | — |
 | [Stickman survival thriller](https://x.com/finnardley/status/2115786060231770351) | Opus 5.5 | [@finnardley](https://x.com/finnardley) | 1:23 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2115786060231770351) |
@@ -109,6 +112,7 @@
 | [System prompt for humans](https://x.com/_brightmirror/status/2108268817201918414) | Opus 5.5 | [@_brightmirror](https://x.com/_brightmirror) | 3:56 | — |
 | [Viral memes 2010-2026 timeline video](https://x.com/chetaslua/status/2106076940558082297) | Fable 5.5 (preview) | [@chetaslua](https://x.com/chetaslua) | 1:38 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2106076940558082297) |
 | [Personal travel recap video](https://x.com/__oQuery/status/2103819121821728993) | Opus 5.5 | [@__oQuery](https://x.com/__oQuery) | 3:37 | — |
+| [Sky whale anime short film](https://x.com/devteamdrew/status/2118008142403649662) | Fable 5.5 (preview) | [@devteamdrew](https://x.com/devteamdrew) | 1:40 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2118008142403649662) |
 | [Red panda Koda and the giant peach](https://x.com/HeyAbhishek/status/2109993586951663626) | Opus 5.5 | [@HeyAbhishek](https://x.com/HeyAbhishek) | 0:29 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2109993586951663626) |
 | [The Little Prince papercut animated short](https://x.com/Saccc_c/status/2114942260353868116) | Opus 5.5 | [@Saccc_c](https://x.com/Saccc_c) | 1:14 | — |
 | [Superintelligence slopcore short film](https://x.com/toomasb/status/2111475672019300829) | Opus 5.5 | [@toomasb](https://x.com/toomasb) | 2:49 | — |
@@ -186,6 +190,7 @@
 | [Cinematic 2D storyboard short film "Rain Station"](https://x.com/zhu185178/status/2103757767727255661) | Opus 5.5 | [@zhu185178](https://x.com/zhu185178) | 0:30 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103757767727255661) |
 | [Halloween trick-or-treat animated video](https://x.com/alexgreensh/status/2110404428691808308) | Opus 5.5 | [@alexgreensh](https://x.com/alexgreensh) | 1:12 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2110404428691808308) |
 | [Mid-Autumn artistic video with music remix](https://x.com/op7418/status/2103520946841862312) | Opus 5.5 | [@op7418](https://x.com/op7418) | 0:27 | — |
+| [Short story video remade from a reference](https://x.com/ugogofx/status/2117951332447359380) | Opus 5.5 | [@ugogofx](https://x.com/ugogofx) | 0:45 | — |
 | [Time-traveling AI transmission video](https://x.com/VoidStateKate/status/2103308194852303245) | Opus 5.5 | [@VoidStateKate](https://x.com/VoidStateKate) | 0:39 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103308194852303245) |
 | [The Last Train Home rainy Japanese night scene](https://x.com/pankajkumar_dev/status/2112176644018626840) | Fable 5.5 (preview) | [@pankajkumar_dev](https://x.com/pankajkumar_dev) | 0:56 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2112176644018626840) |
 | [Full AI-made music and animation piece](https://x.com/anthrupad/status/2110950344272527596) | Opus 5.5 | [@anthrupad](https://x.com/anthrupad) | 0:52 | — |
@@ -198,10 +203,12 @@
 | [Short animated mini film](https://x.com/jackfriks/status/2103525576912855363) | Opus 5.5 | [@jackfriks](https://x.com/jackfriks) | 0:35 | — |
 | [Claude reacting to silly questions video](https://x.com/belltyler/status/2103879008261931055) | Opus 5.5 | [@belltyler](https://x.com/belltyler) | 1:30 | — |
 | [What fear feels like to a superintelligence](https://x.com/jtevesobs/status/2106973139368296606) | Opus 5.5 | [@jtevesobs](https://x.com/jtevesobs) | 3:43 | — |
+| [Watercolor travel flipbook](https://x.com/ann_nnng/status/2118332327902470228) | Opus 5.5 | [@ann_nnng](https://x.com/ann_nnng) | 0:20 | — |
 | [Penguin hauls a giant apple on a bark sled](https://x.com/HeyAbhishek/status/2114340975132950878) | Opus 5.5 | [@HeyAbhishek](https://x.com/HeyAbhishek) | 0:30 | — |
 | [Lyric music video for a cover song](https://x.com/nemumusitocha/status/2102637652063461744) | Opus 5.5 | [@nemumusitocha](https://x.com/nemumusitocha) | 1:29 | — |
 | [Extended animation demo praised as unreal](https://x.com/AndrewOnXYZ/status/2103687133433086358) | Opus 5.5 | [@AndrewOnXYZ](https://x.com/AndrewOnXYZ) | 3:44 | — |
 | [Hand-drawn cartoon animation starter kit](https://x.com/GoSailGlobal/status/2103650801684262994) | Opus 5.5 | [@GoSailGlobal](https://x.com/GoSailGlobal) | 1:04 | — |
+| [Code-rendered anime film](https://x.com/sai0xgen/status/2118398623834878078) | Opus 5.5 / Fable 5.5 (preview) | [@sai0xgen](https://x.com/sai0xgen) | 1:19 | — |
 | [Workshop day animated short](https://x.com/devteamdrew/status/2112231979164873157) | Opus 5.5 / Sonnet 5.5 | [@devteamdrew](https://x.com/devteamdrew) | 0:32 | — |
 | [Style-matched video recreation beside the original](https://x.com/nateherk/status/2108198548324168056) | Opus 5.5 | [@nateherk](https://x.com/nateherk) | 0:20 | — |
 | [Pelican riding a bike animation](https://x.com/dummerspast39/status/2111391206848503923) | Fable 5.5 (preview) | [@dummerspast39](https://x.com/dummerspast39) | 0:30 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2111391206848503923) |
@@ -209,6 +216,7 @@
 | [History of humanity sketch animation](https://x.com/oalanicolas/status/2107958931230241037) | Fable 5.5 (preview) | [@oalanicolas](https://x.com/oalanicolas) | 1:29 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2107958931230241037) |
 | [AI-made short film with original music](https://x.com/notargs/status/2103790246102188069) | Opus 5.5 | [@notargs](https://x.com/notargs) | 2:00 | — |
 | [Paper collage Momotaro animation](https://x.com/tanabe_fragm/status/2110931024469540979) | Opus 5.5 | [@tanabe_fragm](https://x.com/tanabe_fragm) | 0:46 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2110931024469540979) |
+| [Ink Child animated short](https://x.com/ZryMiller/status/2118365752801812710) | Opus 5.5 | [@ZryMiller](https://x.com/ZryMiller) | 1:09 | — |
 | [Coded animated music video with puppets](https://x.com/vinceflibustier/status/2103567196882399606) | Opus 5.5 | [@vinceflibustier](https://x.com/vinceflibustier) | 3:01 | — |
 | [Day in the life of Clawd (Claude mascot)](https://x.com/vikktorrrre/status/2102702170986463421) | Opus 5.5 | [@vikktorrrre](https://x.com/vikktorrrre) | 1:04 | — |
 | [Animated short about a beaver in the rain](https://x.com/HeyAbhishek/status/2111428786914984092) | Opus 5.5 | [@HeyAbhishek](https://x.com/HeyAbhishek) | 0:30 | — |
@@ -221,6 +229,7 @@
 | [One-shot music video from song and lyrics](https://x.com/ParanoidAmerica/status/2103570879619686717) | Opus 5.5 | [@ParanoidAmerica](https://x.com/ParanoidAmerica) | 2:21 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103570879619686717) |
 | [Before Sunrise short animated film](https://x.com/aimikoda/status/2110450438638342283) | Opus 5.5 | [@aimikoda](https://x.com/aimikoda) | 0:30 | — |
 | [Lord of the Rings opening scene recreation](https://x.com/devteamdrew/status/2110433119731945964) | Opus 5.5 | [@devteamdrew](https://x.com/devteamdrew) | 1:33 | — |
+| [Cinematic battle scene](https://x.com/HeyAbhishek/status/2118316693105909875) | Opus 5.5 | [@HeyAbhishek](https://x.com/HeyAbhishek) | 0:29 | — |
 | [Agent on a film set short animation](https://x.com/devteamdrew/status/2114890266192515520) | Opus 5.5 | [@devteamdrew](https://x.com/devteamdrew) | 0:47 | — |
 | [Preview of an upcoming satirical animation](https://x.com/jgarcelan/status/2103797521612996910) | Opus 5.5 | [@jgarcelan](https://x.com/jgarcelan) | 0:08 | — |
 | [Narrative video generated from a market report](https://x.com/dfolloni/status/2110413422458241228) | Opus 5.5 | [@dfolloni](https://x.com/dfolloni) | 1:21 | — |
@@ -229,5 +238,6 @@
 | [Low-poly car fries-sharing skit](https://x.com/Classifiedv4/status/2117660101322698868) | Opus 5.5 | [@Classifiedv4](https://x.com/Classifiedv4) | 0:30 | — |
 | [Short film for kids coded in JavaScript](https://x.com/thebuggeddev/status/2103677413913976912) | Opus 5.5 | [@thebuggeddev](https://x.com/thebuggeddev) | 1:44 | — |
 | [Anime-style video made entirely in code](https://x.com/makwanatejas170/status/2103703815514173697) | Opus 5.5 | [@makwanatejas170](https://x.com/makwanatejas170) | 1:20 | — |
+| [Code-rendered anime short](https://x.com/zodchiii/status/2118363287738073343) | Fable 5.5 (preview) | [@zodchiii](https://x.com/zodchiii) | 1:23 | — |
 | [Funny self-deprecating animation](https://x.com/xat_t0b/status/2102581759733121421) | Opus 5.5 | [@xat_t0b](https://x.com/xat_t0b) | 0:30 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102581759733121421) |
 | [AI-built painting engine music video](https://x.com/SanjanaBandara/status/2103574159255318549) | Opus 5.5 | [@SanjanaBandara](https://x.com/SanjanaBandara) | 1:00 | — |
