@@ -1,6 +1,6 @@
 # 制作流程
 
-共 176 个作品，其中 32 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 180 个作品，其中 32 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [重新剪辑的Instagram发布视频](https://x.com/joshaeeee/status/2103386096411553888) | Opus 5.5 | [@joshaeeee](https://x.com/joshaeeee) | 0:25 | — |
 | [代码生成的朋克摇滚音乐视频](https://x.com/aj_dev_smith/status/2102575577563570450) | Opus 5.5 | [@aj_dev_smith](https://x.com/aj_dev_smith) | 2:30 | — |
 | [Blender Python动画配音](https://x.com/chetaslua/status/2111157145102397817) | Fable 5.5 (preview) | [@chetaslua](https://x.com/chetaslua) | 2:00 | — |
+| [《火箭》音乐视频制作流程](https://x.com/tapehead_Lab/status/2118659661394035007) | Opus 5.5 | [@tapehead_Lab](https://x.com/tapehead_Lab) | 2:46 | — |
 | [语音合成视听展示](https://x.com/keitowebai/status/2104184011820236976) | Opus 5.5 | [@keitowebai](https://x.com/keitowebai) | 0:43 | — |
 | [无限生成的LoFi音乐网站](https://x.com/SafaElmali/status/2103581911016685882) | Opus 5.5 | [@SafaElmali](https://x.com/SafaElmali) | 0:12 | — |
 | [一次生成的产品发布视频配乐](https://x.com/maria_rcks/status/2103363131896635699) | Opus 5.5 | [@maria_rcks](https://x.com/maria_rcks) | 1:16 | — |
@@ -104,6 +105,7 @@
 | [全自动剪辑的 YouTube 视频](https://x.com/shikamarurobo/status/2115565614475759838) | Opus 5.5 | [@shikamarurobo](https://x.com/shikamarurobo) | 1:00 | — |
 | [AI控制视频编辑软件自动化](https://x.com/FantasistaAI/status/2103117722741854377) | Opus 5.5 | [@FantasistaAI](https://x.com/FantasistaAI) | 0:25 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103117722741854377) |
 | [CAD制图工作流演示](https://x.com/hAru_mAki_ch/status/2103698137730924839) | Opus 5.5 | [@hAru_mAki_ch](https://x.com/hAru_mAki_ch) | 0:21 | — |
+| [用 Claude 制作的短视频](https://x.com/blueemi99/status/2118760592731484271) | Opus 5.5 | [@blueemi99](https://x.com/blueemi99) | 0:24 | — |
 | [《晚餐之跑》动画调色与升频处理](https://x.com/aimikoda/status/2111256122040406443) | Opus 5.5 | [@aimikoda](https://x.com/aimikoda) | 0:57 | — |
 | [FreeCAD制作过程视频](https://x.com/hAru_mAki_ch/status/2103645693265219838) | Opus 5.5 | [@hAru_mAki_ch](https://x.com/hAru_mAki_ch) | 1:46 | — |
 | [AI创作的巴洛克风格三重奏奏鸣曲](https://x.com/aug5thmusic/status/2103549625076752493) | Opus 5.5 | [@aug5thmusic](https://x.com/aug5thmusic) | 1:46 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103549625076752493) |
@@ -164,6 +166,7 @@
 | [用原始素材剪辑出的AI视频](https://x.com/lewangx/status/2103523508957446423) | Opus 5.5 | [@lewangx](https://x.com/lewangx) | 0:42 | — |
 | [借助Suno MCP制作的音乐MV](https://x.com/Ayu_AI_0912/status/2117930777413603598) | Opus 5.5 | [@Ayu_AI_0912](https://x.com/Ayu_AI_0912) | 1:13 | — |
 | [档案馆风格双语演讲视频](https://x.com/huangyun_122/status/2114417230792491070) | Opus 5.5 | [@huangyun_122](https://x.com/huangyun_122) | 1:32 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2114417230792491070) |
+| [AI 编辑的短视频](https://x.com/stevenvan_/status/2118799847293608416) | Opus 5.5 | [@stevenvan_](https://x.com/stevenvan_) | 0:56 | — |
 | [配有B-roll的完整剪辑出镜短视频](https://x.com/rpnickson/status/2113727289355554829) | Opus 5.5 | [@rpnickson](https://x.com/rpnickson) | 1:54 | — |
 | [AI搭建的自制视频编辑器](https://x.com/SoyMrBro/status/2103135398226735139) | Opus 5.5 | [@SoyMrBro](https://x.com/SoyMrBro) | 0:31 | — |
 | [28秒短片](https://x.com/N01ennn/status/2112882581809025189) | Opus 5.5 | [@N01ennn](https://x.com/N01ennn) | 0:37 | — |
@@ -180,3 +183,4 @@
 | [用Claude Opus重新剪辑的2007年电影预告片](https://x.com/JoshDaws/status/2109982871209304334) | Opus 5.5 | [@JoshDaws](https://x.com/JoshDaws) | 2:21 | — |
 | [视频剪辑尝试](https://x.com/Madariyanhadi/status/2111004303075000494) | Opus 5.5 | [@Madariyanhadi](https://x.com/Madariyanhadi) | 1:08 | — |
 | [用素材剪辑的频道介绍视频](https://x.com/kazunoko575/status/2103390803192352888) | Opus 5.5 | [@kazunoko575](https://x.com/kazunoko575) | 0:52 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103390803192352888) |
+| [卡通培根蛋面料理节目](https://x.com/CHIBIKURO_QnQ/status/2118674610078233016) | Opus 5.5 | [@CHIBIKURO_QnQ](https://x.com/CHIBIKURO_QnQ) | 0:50 | — |

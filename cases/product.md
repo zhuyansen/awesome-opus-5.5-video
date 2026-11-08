@@ -1,6 +1,6 @@
 # Product demos & ads
 
-254 works, 46 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+258 works, 48 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [Promotional video for a landing page](https://x.com/cleeeeeeeeement/status/2110039903312425385) | Opus 5.5 | [@cleeeeeeeeement](https://x.com/cleeeeeeeeement) | 0:15 | — |
 | [Hyprland desktop theme customization](https://x.com/XMihura/status/2109991235545190801) | Opus 5.5 | [@XMihura](https://x.com/XMihura) | 1:00 | — |
 | [Claude mascot coworker mod demo](https://x.com/ishuagra02/status/2106138602073641241) | Fable 5.5 (preview) | [@ishuagra02](https://x.com/ishuagra02) | 0:37 | — |
+| [Synthesizer with built-in visuals](https://x.com/parhelion318/status/2118917596980666793) | Opus 5.5 | [@parhelion318](https://x.com/parhelion318) | 0:28 | — |
 | [Run&Grow app showcase](https://x.com/utkarshbuilds_/status/2104039850060173761) | Opus 5.5 | [@utkarshbuilds_](https://x.com/utkarshbuilds_) | 0:15 | — |
 | [Comic-book style product ad](https://x.com/ladprofit/status/2103551010522399116) | Opus 5.5 | [@ladprofit](https://x.com/ladprofit) | 0:32 | — |
 | [Promo video for a science-based book](https://x.com/M_Adrian2/status/2103904736160120935) | Opus 5.5 | [@M_Adrian2](https://x.com/M_Adrian2) | 1:00 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103904736160120935) |
@@ -222,6 +223,7 @@
 | [App introduction video made entirely by Opus](https://x.com/__oQuery/status/2103745537455673700) | Opus 5.5 | [@__oQuery](https://x.com/__oQuery) | 1:16 | — |
 | [AI compatibility quiz app](https://x.com/hituji_1234/status/2103088141439787502) | Opus 5.5 | [@hituji_1234](https://x.com/hituji_1234) | 0:51 | — |
 | [El Bibliotecario infinite library teaser](https://x.com/GuliMoreno/status/2111773991991943442) | Opus 5.5 | [@GuliMoreno](https://x.com/GuliMoreno) | 0:20 | — |
+| [AI note-taking app landing page](https://x.com/LexnLin/status/2118860490734707053) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 0:29 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2118860490734707053) |
 | [Cinematic 3D scrolling brand website](https://x.com/janm_uiux/status/2116972762514207070) | Opus 5.5 | [@janm_uiux](https://x.com/janm_uiux) | 0:09 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2116972762514207070) |
 | [Claymation-style ad for Remote Control feature](https://x.com/noahzweben/status/2103522997978255704) | Opus 5.5 | [@noahzweben](https://x.com/noahzweben) | 0:12 | — |
 | [Sewing machine designed in a browser CAD clone](https://x.com/Solvaix/status/2116968405165375859) | Opus 5.5 | [@Solvaix](https://x.com/Solvaix) | 2:50 | — |
@@ -237,6 +239,7 @@
 | [App introduction video demo](https://x.com/hinata877889737/status/2102753427747168436) | Opus 5.5 | [@hinata877889737](https://x.com/hinata877889737) | 0:30 | — |
 | [Disk space analyzer utility app](https://x.com/SonofNun/status/2103589196472766505) | Opus 5.5 | [@SonofNun](https://x.com/SonofNun) | 1:40 | — |
 | [Unity Dolby Atmos visualizer](https://x.com/chroman/status/2109778453625020920) | Opus 5.5 | [@chroman](https://x.com/chroman) | 0:50 | — |
+| [Browser-rendered bottle design](https://x.com/AmirMushich/status/2118800755595292961) | Opus 5.5 | [@AmirMushich](https://x.com/AmirMushich) | 0:21 | — |
 | [Franco-Belgian comic style coffee ad](https://x.com/jeanalexandre_b/status/2103514734716977599) | Opus 5.5 | [@jeanalexandre_b](https://x.com/jeanalexandre_b) | 1:25 | — |
 | [Promo video for a gradient asset shop](https://x.com/basit_designs/status/2117933307585499192) | Opus 5.5 | [@basit_designs](https://x.com/basit_designs) | 0:30 | — |
 | [Book promotional video](https://x.com/ama_ch/status/2103621603628306747) | Opus 5.5 | [@ama_ch](https://x.com/ama_ch) | 1:06 | — |
@@ -254,6 +257,7 @@
 | [Semantic Slack search tool](https://x.com/tkm_hmng8/status/2102923108156076261) | Opus 5.5 | [@tkm_hmng8](https://x.com/tkm_hmng8) | 0:37 | — |
 | [App visual built from a single icon asset](https://x.com/career_koumei/status/2103703814562087156) | Opus 5.5 | [@career_koumei](https://x.com/career_koumei) | 0:15 | — |
 | [Hover-flip artwork gallery](https://x.com/gabriell_lab/status/2112520073378488501) | Opus 5.5 | [@gabriell_lab](https://x.com/gabriell_lab) | 0:11 | — |
+| [3D Find My interface concept](https://x.com/shmidtqq/status/2118665193479659569) | Opus 5.5 | [@shmidtqq](https://x.com/shmidtqq) | 0:16 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2118665193479659569) |
 | [Account introduction video from pinned tweet info](https://x.com/gin1910410/status/2103746670676853047) | Opus 5.5 | [@gin1910410](https://x.com/gin1910410) | 0:54 | — |
 | [Sponsorship promo video cut via MCP tools](https://x.com/Ror_Fly/status/2103549390933610685) | Opus 5.5 | [@Ror_Fly](https://x.com/Ror_Fly) | 1:00 | — |
 | [Isometric landing page design](https://x.com/itsnotryan/status/2107842500715065664) | Opus 5.5 | [@itsnotryan](https://x.com/itsnotryan) | 0:08 | — |

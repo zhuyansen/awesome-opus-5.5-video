@@ -1,6 +1,6 @@
 # Motion graphics & UI
 
-340 works, 93 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+342 works, 93 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -335,6 +335,7 @@
 | [One-shot motion graphics with original music](https://x.com/DentalAkimoto/status/2103417432757166200) | Opus 5.5 | [@DentalAkimoto](https://x.com/DentalAkimoto) | 0:15 | — |
 | [Tester's attempt at the viral showreel prompt](https://x.com/codeSTACKr/status/2103656229717328129) | Opus 5.5 | [@codeSTACKr](https://x.com/codeSTACKr) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103656229717328129) |
 | [Motion showreel from the Japanese version of the viral prompt](https://x.com/MatoToushi/status/2103484692997804334) | Opus 5.5 | [@MatoToushi](https://x.com/MatoToushi) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103484692997804334) |
+| [Liquid glass motion experiment](https://x.com/basit_designs/status/2118674355735667135) | Opus 5.5 | [@basit_designs](https://x.com/basit_designs) | 0:38 | — |
 | [Watercolor fall animation](https://x.com/ishuagra02/status/2106000055706784118) | Fable 5.5 (preview) | [@ishuagra02](https://x.com/ishuagra02) | 0:25 | — |
 | [Code-drawn animation pipeline demo](https://x.com/p2ecoin91/status/2103398218793168921) | Opus 5.5 | [@p2ecoin91](https://x.com/p2ecoin91) | 2:37 | — |
 | [AR soccer passing lane analysis](https://x.com/virtual_amir/status/2106387068070826373) | Opus 5.5 | [@virtual_amir](https://x.com/virtual_amir) | 0:31 | — |
@@ -344,3 +345,4 @@
 | [Opus 5.5 animation quality demo](https://x.com/makisuo/status/2103613318497997215) | Opus 5.5 | [@makisuo](https://x.com/makisuo) | 0:15 | — |
 | [Unspecified video creation showcase](https://x.com/GPTabby/status/2103581801490809069) | Opus 5.5 | [@GPTabby](https://x.com/GPTabby) | 3:51 | — |
 | [Google Apps Script themed video](https://x.com/kimura_0314/status/2102682159668720109) | Opus 5.5 | [@kimura_0314](https://x.com/kimura_0314) | 0:34 | — |
+| [Same car shot at four budget levels](https://x.com/m4lkxx/status/2118342622884384895) | Opus 5.5 | [@m4lkxx](https://x.com/m4lkxx) | 0:28 | — |

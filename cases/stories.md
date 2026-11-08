@@ -1,6 +1,6 @@
 # Characters & stories
 
-237 works, 55 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+240 works, 56 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Audience-directed choose-your-own-adventure movie](https://x.com/henloitsjoyce/status/2103261956375466225) | Opus 5.5 | [@henloitsjoyce](https://x.com/henloitsjoyce) | 0:42 | — |
 | [Animated short generated from a motion design PDF](https://x.com/0xwhrrari/status/2113254058815582614) | Opus 5.5 | [@0xwhrrari](https://x.com/0xwhrrari) | 0:12 | — |
 | [Music video for a Portuguese song](https://x.com/goncalo_canhoto/status/2103945822085738890) | Opus 5.5 | [@goncalo_canhoto](https://x.com/goncalo_canhoto) | 2:52 | — |
+| [Harbour Mech Anime Short Rendered in Code](https://x.com/anstapnever/status/2118700618915397795) | Fable 5.5 (preview) | [@anstapnever](https://x.com/anstapnever) | 1:32 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2118700618915397795) |
 | [Animated music video for a Claude-written song](https://x.com/Skoorbkaz/status/2102973119115690211) | Opus 5.5 | [@Skoorbkaz](https://x.com/Skoorbkaz) | 5:13 | — |
 | [Illustrated storybook animation with narration](https://x.com/HaileyAILabs/status/2110975805899825394) | Opus 5.5 | [@HaileyAILabs](https://x.com/HaileyAILabs) | 3:47 | — |
 | [Creation-myth style story on how the world formed](https://x.com/Iamshankhadeep/status/2103087123503177752) | Opus 5.5 | [@Iamshankhadeep](https://x.com/Iamshankhadeep) | 1:00 | — |
@@ -179,6 +180,7 @@
 | [Procedural animated short of a forest tram](https://x.com/guanmo_ai/status/2117830445945819190) | Opus 5.5 | [@guanmo_ai](https://x.com/guanmo_ai) | 1:15 | — |
 | [Equilibrium-inspired AI video edit](https://x.com/Xanderwow_A/status/2109951019706651045) | Opus 5.5 | [@Xanderwow_A](https://x.com/Xanderwow_A) | 1:37 | — |
 | [LEGO Star Wars intro recreation](https://x.com/ChrisGPT/status/2103976291699728742) | Opus 5.5 | [@ChrisGPT](https://x.com/ChrisGPT) | 1:37 | — |
+| [Santa and the Little Lost Star](https://x.com/JoshDaws/status/2118924098516488591) | Opus 5.5 | [@JoshDaws](https://x.com/JoshDaws) | 0:22 | — |
 | [Sword fight VFX animation](https://x.com/AiAniAlchemist/status/2111964964315709901) | Opus 5.5 | [@AiAniAlchemist](https://x.com/AiAniAlchemist) | 0:43 | — |
 | [AI capability growth training montage](https://x.com/ishuagra02/status/2102788371114246177) | Opus 5.5 | [@ishuagra02](https://x.com/ishuagra02) | 0:30 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102788371114246177) |
 | [Character video combining Midjourney and Seedance](https://x.com/aimikoda/status/2110360021988982817) | Opus 5.5 | [@aimikoda](https://x.com/aimikoda) | 0:32 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2110360021988982817) |
@@ -211,6 +213,7 @@
 | [Code-rendered anime film](https://x.com/sai0xgen/status/2118398623834878078) | Opus 5.5 / Fable 5.5 (preview) | [@sai0xgen](https://x.com/sai0xgen) | 1:19 | — |
 | [Workshop day animated short](https://x.com/devteamdrew/status/2112231979164873157) | Opus 5.5 / Sonnet 5.5 | [@devteamdrew](https://x.com/devteamdrew) | 0:32 | — |
 | [Style-matched video recreation beside the original](https://x.com/nateherk/status/2108198548324168056) | Opus 5.5 | [@nateherk](https://x.com/nateherk) | 0:20 | — |
+| [Game of Thrones-style title sequence](https://x.com/trymirage/status/2118811269079695372) | Opus 5.5 | [@trymirage](https://x.com/trymirage) | 0:39 | — |
 | [Pelican riding a bike animation](https://x.com/dummerspast39/status/2111391206848503923) | Fable 5.5 (preview) | [@dummerspast39](https://x.com/dummerspast39) | 0:30 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2111391206848503923) |
 | [Paper-style stop-motion animation](https://x.com/LexnLin/status/2108567673890111948) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 0:30 | — |
 | [History of humanity sketch animation](https://x.com/oalanicolas/status/2107958931230241037) | Fable 5.5 (preview) | [@oalanicolas](https://x.com/oalanicolas) | 1:29 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2107958931230241037) |

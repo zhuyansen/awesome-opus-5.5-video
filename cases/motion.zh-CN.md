@@ -1,6 +1,6 @@
 # 动效设计
 
-共 340 个作品，其中 93 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 342 个作品，其中 93 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -335,6 +335,7 @@
 | [原创配乐一键生成的动效](https://x.com/DentalAkimoto/status/2103417432757166200) | Opus 5.5 | [@DentalAkimoto](https://x.com/DentalAkimoto) | 0:15 | — |
 | [测试者复现爆款展示片提示词](https://x.com/codeSTACKr/status/2103656229717328129) | Opus 5.5 | [@codeSTACKr](https://x.com/codeSTACKr) | 0:15 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103656229717328129) |
 | [日文版爆款提示词的动效自荐片](https://x.com/MatoToushi/status/2103484692997804334) | Opus 5.5 | [@MatoToushi](https://x.com/MatoToushi) | 0:15 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103484692997804334) |
+| [液态玻璃动效实验](https://x.com/basit_designs/status/2118674355735667135) | Opus 5.5 | [@basit_designs](https://x.com/basit_designs) | 0:38 | — |
 | [水彩秋天动画](https://x.com/ishuagra02/status/2106000055706784118) | Fable 5.5 (preview) | [@ishuagra02](https://x.com/ishuagra02) | 0:25 | — |
 | [代码绘图动画制作流程演示](https://x.com/p2ecoin91/status/2103398218793168921) | Opus 5.5 | [@p2ecoin91](https://x.com/p2ecoin91) | 2:37 | — |
 | [足球传球路线AR分析](https://x.com/virtual_amir/status/2106387068070826373) | Opus 5.5 | [@virtual_amir](https://x.com/virtual_amir) | 0:31 | — |
@@ -344,3 +345,4 @@
 | [Opus 5.5动画质量演示](https://x.com/makisuo/status/2103613318497997215) | Opus 5.5 | [@makisuo](https://x.com/makisuo) | 0:15 | — |
 | [未说明内容的视频作品展示](https://x.com/GPTabby/status/2103581801490809069) | Opus 5.5 | [@GPTabby](https://x.com/GPTabby) | 3:51 | — |
 | [Google Apps Script主题视频](https://x.com/kimura_0314/status/2102682159668720109) | Opus 5.5 | [@kimura_0314](https://x.com/kimura_0314) | 0:34 | — |
+| [同一汽车镜头的四档预算版本](https://x.com/m4lkxx/status/2118342622884384895) | Opus 5.5 | [@m4lkxx](https://x.com/m4lkxx) | 0:28 | — |

@@ -1,6 +1,6 @@
 # 产品广告
 
-共 254 个作品，其中 46 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 258 个作品，其中 48 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [落地页宣传视频](https://x.com/cleeeeeeeeement/status/2110039903312425385) | Opus 5.5 | [@cleeeeeeeeement](https://x.com/cleeeeeeeeement) | 0:15 | — |
 | [Hyprland桌面主题定制](https://x.com/XMihura/status/2109991235545190801) | Opus 5.5 | [@XMihura](https://x.com/XMihura) | 1:00 | — |
 | [Claude 吉祥物同事插件演示](https://x.com/ishuagra02/status/2106138602073641241) | Fable 5.5 (preview) | [@ishuagra02](https://x.com/ishuagra02) | 0:37 | — |
+| [带内置视觉效果的合成器](https://x.com/parhelion318/status/2118917596980666793) | Opus 5.5 | [@parhelion318](https://x.com/parhelion318) | 0:28 | — |
 | [Run&Grow应用展示视频](https://x.com/utkarshbuilds_/status/2104039850060173761) | Opus 5.5 | [@utkarshbuilds_](https://x.com/utkarshbuilds_) | 0:15 | — |
 | [漫画风格产品广告](https://x.com/ladprofit/status/2103551010522399116) | Opus 5.5 | [@ladprofit](https://x.com/ladprofit) | 0:32 | — |
 | [基于科学文章创作图书的宣传视频](https://x.com/M_Adrian2/status/2103904736160120935) | Opus 5.5 | [@M_Adrian2](https://x.com/M_Adrian2) | 1:00 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103904736160120935) |
@@ -222,6 +223,7 @@
 | [完全由Opus制作的应用介绍视频](https://x.com/__oQuery/status/2103745537455673700) | Opus 5.5 | [@__oQuery](https://x.com/__oQuery) | 1:16 | — |
 | [AI相性测试小应用](https://x.com/hituji_1234/status/2103088141439787502) | Opus 5.5 | [@hituji_1234](https://x.com/hituji_1234) | 0:51 | — |
 | [《图书管理员》无限图书馆预告片](https://x.com/GuliMoreno/status/2111773991991943442) | Opus 5.5 | [@GuliMoreno](https://x.com/GuliMoreno) | 0:20 | — |
+| [AI 笔记应用落地页](https://x.com/LexnLin/status/2118860490734707053) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 0:29 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2118860490734707053) |
 | [电影感三维滚动品牌网站](https://x.com/janm_uiux/status/2116972762514207070) | Opus 5.5 | [@janm_uiux](https://x.com/janm_uiux) | 0:09 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2116972762514207070) |
 | [Remote Control功能的定格动画风格广告](https://x.com/noahzweben/status/2103522997978255704) | Opus 5.5 | [@noahzweben](https://x.com/noahzweben) | 0:12 | — |
 | [在浏览器 CAD 中设计的缝纫机](https://x.com/Solvaix/status/2116968405165375859) | Opus 5.5 | [@Solvaix](https://x.com/Solvaix) | 2:50 | — |
@@ -237,6 +239,7 @@
 | [应用介绍视频演示](https://x.com/hinata877889737/status/2102753427747168436) | Opus 5.5 | [@hinata877889737](https://x.com/hinata877889737) | 0:30 | — |
 | [磁盘空间分析实用工具应用](https://x.com/SonofNun/status/2103589196472766505) | Opus 5.5 | [@SonofNun](https://x.com/SonofNun) | 1:40 | — |
 | [Unity杜比全景声可视化工具](https://x.com/chroman/status/2109778453625020920) | Opus 5.5 | [@chroman](https://x.com/chroman) | 0:50 | — |
+| [浏览器渲染的瓶身设计](https://x.com/AmirMushich/status/2118800755595292961) | Opus 5.5 | [@AmirMushich](https://x.com/AmirMushich) | 0:21 | — |
 | [法比漫画风格咖啡广告](https://x.com/jeanalexandre_b/status/2103514734716977599) | Opus 5.5 | [@jeanalexandre_b](https://x.com/jeanalexandre_b) | 1:25 | — |
 | [渐变素材网站宣传片](https://x.com/basit_designs/status/2117933307585499192) | Opus 5.5 | [@basit_designs](https://x.com/basit_designs) | 0:30 | — |
 | [书籍宣传介绍视频](https://x.com/ama_ch/status/2103621603628306747) | Opus 5.5 | [@ama_ch](https://x.com/ama_ch) | 1:06 | — |
@@ -254,6 +257,7 @@
 | [Slack语义搜索工具](https://x.com/tkm_hmng8/status/2102923108156076261) | Opus 5.5 | [@tkm_hmng8](https://x.com/tkm_hmng8) | 0:37 | — |
 | [仅用一张图标素材生成的视觉效果](https://x.com/career_koumei/status/2103703814562087156) | Opus 5.5 | [@career_koumei](https://x.com/career_koumei) | 0:15 | — |
 | [悬停翻转艺术画廊](https://x.com/gabriell_lab/status/2112520073378488501) | Opus 5.5 | [@gabriell_lab](https://x.com/gabriell_lab) | 0:11 | — |
+| [三维查找界面概念](https://x.com/shmidtqq/status/2118665193479659569) | Opus 5.5 | [@shmidtqq](https://x.com/shmidtqq) | 0:16 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2118665193479659569) |
 | [根据置顶推文信息制作的账号介绍视频](https://x.com/gin1910410/status/2103746670676853047) | Opus 5.5 | [@gin1910410](https://x.com/gin1910410) | 0:54 | — |
 | [通过MCP工具剪辑的赞助宣传片](https://x.com/Ror_Fly/status/2103549390933610685) | Opus 5.5 | [@Ror_Fly](https://x.com/Ror_Fly) | 1:00 | — |
 | [等距风格落地页设计](https://x.com/itsnotryan/status/2107842500715065664) | Opus 5.5 | [@itsnotryan](https://x.com/itsnotryan) | 0:08 | — |

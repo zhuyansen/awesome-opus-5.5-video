@@ -1,6 +1,6 @@
 # 模型对比
 
-共 478 个作品，其中 163 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 480 个作品，其中 163 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [智能体团队制作海绵宝宝作品对比](https://x.com/atomic_chat_hq/status/2113700709506113948) | Opus 5.5 | [@atomic_chat_hq](https://x.com/atomic_chat_hq) | 0:40 | — |
 | [Unreal与Blender模型对比测试](https://x.com/quadcode_ai/status/2103959994685128846) | Opus 5.5 | [@quadcode_ai](https://x.com/quadcode_ai) | 0:25 | — |
 | [SVG自行车骑鹈鹕](https://x.com/dummerspast39/status/2111519245733654775) | Fable 5.5 (preview) | [@dummerspast39](https://x.com/dummerspast39) | 0:18 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2111519245733654775) |
+| [夜行列车Three.js短片四档推理强度对比](https://x.com/EnvolDev/status/2118742203371573615) | Opus 5.5 | [@EnvolDev](https://x.com/EnvolDev) | 0:25 | — |
 | [Opus 5.5对比GPT-6游戏效果](https://x.com/_MaxBlade/status/2102528632598274244) | Opus 5.5 | [@_MaxBlade](https://x.com/_MaxBlade) | 1:37 | — |
 | [模型输出并排对比](https://x.com/Da7_Tech/status/2113751648719839252) | Opus 5.5 | [@Da7_Tech](https://x.com/Da7_Tech) | 0:13 | — |
 | [语言模型如何把提示词变成答案：20 秒动效图解](https://x.com/TheHunterBohm/status/2102724864205566388) | Opus 5.5 | [@TheHunterBohm](https://x.com/TheHunterBohm) | 0:20 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102724864205566388) |
@@ -384,6 +385,7 @@
 | [可交互3D软糖水母双模型对比](https://x.com/vib3coded/status/2104651061336117614) | Sonnet 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:18 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104651061336117614) |
 | [Arena三款模型生成效果对比](https://x.com/AI_Screening/status/2113321010913292308) | Opus 5.5 | [@AI_Screening](https://x.com/AI_Screening) | 0:15 | — |
 | [3D人形机器人仿真对比](https://x.com/AI_Screening/status/2110056429931610237) | Opus 5.5 | [@AI_Screening](https://x.com/AI_Screening) | 0:17 | — |
+| [动效模型对比](https://x.com/deweytn/status/2118809236046246316) | Opus 5.5 | [@deweytn](https://x.com/deweytn) | 0:43 | — |
 | [鲸鱼图像对比：GPT-6对比Opus](https://x.com/vib3coded/status/2112487852156063849) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:18 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2112487852156063849) |
 | [同一提示词的效果、耗时与成本对比](https://x.com/notjazii/status/2114837324521783564) | Sonnet 5.5 | [@notjazii](https://x.com/notjazii) | 0:34 | — |
 | [果冻花园3D模型对比](https://x.com/marcthecreatorr/status/2110057849653002459) | Opus 5.5 | [@marcthecreatorr](https://x.com/marcthecreatorr) | 0:42 | — |

@@ -3,8 +3,8 @@
  "model": "Claude 5.5 (Opus 5.5 · Sonnet 5.5 · Haiku 5.5 · Fable 5.5)",
  "inclusion_rule": "Original post by the creator, native video attached, >= 5000 views on that post, creator states it was made with Claude Opus 5.5, Sonnet 5.5, Haiku 5.5 or Fable 5.5 (Fable 5.5 is in limited preview, not yet announced). Later posts that embed another account's upload are excluded.",
  "views_threshold": 5000,
- "stats_checked_at": "2026-11-07T07:25:17.070Z",
- "updated_at": "2026-11-07T07:25:17.070Z",
+ "stats_checked_at": "2026-11-08T09:39:36.452Z",
+ "updated_at": "2026-11-08T09:39:36.452Z",
  "model_attribution": "As stated by each creator; not independently reproduced.",
  "cases": [
   {
@@ -6362,6 +6362,36 @@
    "resources": []
   },
   {
+   "id": "2118742203371573615",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "夜行列车Three.js短片四档推理强度对比",
+    "en": "Night Train Three.js Film at Four Effort Levels"
+   },
+   "creator": {
+    "handle": "EnvolDev",
+    "name": "Tony"
+   },
+   "original_post_url": "https://x.com/EnvolDev/status/2118742203371573615",
+   "posted_at": "2026-11-06T16:28:00.000Z",
+   "language": "en",
+   "duration_seconds": 25,
+   "views": 247147,
+   "likes": 1675,
+   "bookmarks": 804,
+   "views_checked_at": "2026-11-08T07:18:15.251Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2118408951108943872/img/IK8r-g1J5uNC6YWZ.jpg",
+   "tools_reported": [
+    "Three.js"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2102528632598274244",
    "models": [
     "opus-5.5"
@@ -8319,6 +8349,34 @@
    "bookmarks": 1155,
    "views_checked_at": "2026-11-02T10:38:32.189Z",
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2111902143724556289/img/Yqj8itTTgvaO8OcI.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2118847014071120179",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "game",
+   "title": {
+    "zh": "无限自我演化的后室游戏",
+    "en": "Infinite self-evolving Backrooms game"
+   },
+   "creator": {
+    "handle": "apekshik",
+    "name": "apek"
+   },
+   "original_post_url": "https://x.com/apekshik/status/2118847014071120179",
+   "posted_at": "2026-11-06T23:24:29.000Z",
+   "language": "en",
+   "duration_seconds": 100,
+   "views": 196295,
+   "likes": 3308,
+   "bookmarks": 3033,
+   "views_checked_at": "2026-11-08T07:18:15.251Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2118846003684184064/img/QMo2z45FyJ3Q1ZdL.jpg",
    "tools_reported": [],
    "reference_assets": false,
    "prompt": null,
@@ -10283,6 +10341,38 @@
    "views_checked_at": "2026-11-02T10:38:32.189Z",
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2104213056888983552/img/_bR1miCnsEsRMGFN.jpg",
    "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2118659661394035007",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "production",
+   "title": {
+    "zh": "《火箭》音乐视频制作流程",
+    "en": "Rocket music video workflow"
+   },
+   "creator": {
+    "handle": "tapehead_Lab",
+    "name": "tapehead.lab"
+   },
+   "original_post_url": "https://x.com/tapehead_Lab/status/2118659661394035007",
+   "posted_at": "2026-11-06T11:00:00.000Z",
+   "language": "ja",
+   "duration_seconds": 166,
+   "views": 153268,
+   "likes": 1017,
+   "bookmarks": 673,
+   "views_checked_at": "2026-11-08T07:18:15.251Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2118650119952474112/img/2NkMUXfznWPOnX_m.jpg",
+   "tools_reported": [
+    "Suno V6",
+    "Seedance 2.5",
+    "Minimax H3"
+   ],
    "reference_assets": false,
    "prompt": null,
    "resources": []
@@ -17172,6 +17262,38 @@
    "resources": []
   },
   {
+   "id": "2118631442066682205",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "绑定骨骼的3D角色动画",
+    "en": "Rigged 3D Character Animation"
+   },
+   "creator": {
+    "handle": "dhruvalgolakiya",
+    "name": "Dhruval"
+   },
+   "original_post_url": "https://x.com/dhruvalgolakiya/status/2118631442066682205",
+   "posted_at": "2026-11-06T09:07:52.000Z",
+   "language": "en",
+   "duration_seconds": 8,
+   "views": 93894,
+   "likes": 1377,
+   "bookmarks": 1599,
+   "views_checked_at": "2026-11-08T07:18:15.251Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2118630129169838080/img/2t2VCYfwvzEJ1Nzx.jpg",
+   "tools_reported": [
+    "Codex",
+    "Tripo3D",
+    "Blender"
+   ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2102479924032577686",
    "models": [
     "opus-5.5"
@@ -21737,6 +21859,38 @@
    "views_checked_at": "2026-11-02T10:38:32.189Z",
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2105198727900073984/img/Z2qKZUsDQhe1KRvt.jpg",
    "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2118631658979250631",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "带雾效系统的3D场景",
+    "en": "Fog system 3D scene"
+   },
+   "creator": {
+    "handle": "chetanankola",
+    "name": "Chetan Ankola"
+   },
+   "original_post_url": "https://x.com/chetanankola/status/2118631658979250631",
+   "posted_at": "2026-11-06T09:08:44.000Z",
+   "language": "en",
+   "duration_seconds": 23,
+   "views": 71946,
+   "likes": 1981,
+   "bookmarks": 643,
+   "views_checked_at": "2026-11-08T07:18:15.251Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2118630465443921920/img/xyxETkegrCc__sv5.jpg",
+   "tools_reported": [
+    "Three.js",
+    "Blender",
+    "Astra"
+   ],
    "reference_assets": false,
    "prompt": null,
    "resources": []
@@ -30815,6 +30969,39 @@
    "resources": []
   },
   {
+   "id": "2118943445842804929",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "3D角色舞台舞蹈视频",
+    "en": "3D Character Dance Stage Video"
+   },
+   "creator": {
+    "handle": "Dstudio_ai",
+    "name": "Nano(ナノ)"
+   },
+   "original_post_url": "https://x.com/Dstudio_ai/status/2118943445842804929",
+   "posted_at": "2026-11-07T05:47:40.000Z",
+   "language": "ja",
+   "duration_seconds": 74,
+   "views": 47400,
+   "likes": 1010,
+   "bookmarks": 1058,
+   "views_checked_at": "2026-11-08T07:18:15.251Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2118943155949367296/img/6yOHiEgGGwK0MyFw.jpg",
+   "tools_reported": [
+    "Tripo",
+    "ChatGPT",
+    "X-STAGE",
+    "Blender"
+   ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2116945827738665060",
    "models": [
     "fable-5.5"
@@ -33738,6 +33925,36 @@
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2103020727691780096/img/AkZJWHuYYg0UOIpB.jpg",
    "tools_reported": [],
    "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2118689081475703236",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "由单张图片生成的可行走 3D 世界",
+    "en": "Walkable 3D world from one image"
+   },
+   "creator": {
+    "handle": "lucianlamp",
+    "name": "LUCIAN｜AI × Blockchain"
+   },
+   "original_post_url": "https://x.com/lucianlamp/status/2118689081475703236",
+   "posted_at": "2026-11-06T12:56:55.000Z",
+   "language": "ja",
+   "duration_seconds": 42,
+   "views": 42587,
+   "likes": 462,
+   "bookmarks": 385,
+   "views_checked_at": "2026-11-08T07:18:15.251Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2118689026291216385/img/vG-5QJgar4Q8_1t7.jpg",
+   "tools_reported": [
+    "GPT Image"
+   ],
+   "reference_assets": true,
    "prompt": null,
    "resources": []
   },
@@ -47220,6 +47437,34 @@
    "resources": []
   },
   {
+   "id": "2118917596980666793",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "product",
+   "title": {
+    "zh": "带内置视觉效果的合成器",
+    "en": "Synthesizer with built-in visuals"
+   },
+   "creator": {
+    "handle": "parhelion318",
+    "name": "Dr. Apolotary"
+   },
+   "original_post_url": "https://x.com/parhelion318/status/2118917596980666793",
+   "posted_at": "2026-11-07T04:04:57.000Z",
+   "language": "en",
+   "duration_seconds": 28,
+   "views": 24166,
+   "likes": 921,
+   "bookmarks": 546,
+   "views_checked_at": "2026-11-08T07:18:15.251Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2118917135535878144/img/SVDMdmjGaREXlkGn.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2104039850060173761",
    "models": [
     "opus-5.5"
@@ -48798,6 +49043,43 @@
    "tools_reported": [],
    "reference_assets": true,
    "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2118700618915397795",
+   "models": [
+    "fable-5.5"
+   ],
+   "category": "stories",
+   "title": {
+    "zh": "代码渲染的港口巨型机甲动画短片",
+    "en": "Harbour Mech Anime Short Rendered in Code"
+   },
+   "creator": {
+    "handle": "anstapnever",
+    "name": "anstap"
+   },
+   "original_post_url": "https://x.com/anstapnever/status/2118700618915397795",
+   "posted_at": "2026-11-06T13:42:45.000Z",
+   "language": "en",
+   "duration_seconds": 92,
+   "views": 22781,
+   "likes": 389,
+   "bookmarks": 410,
+   "views_checked_at": "2026-11-08T07:18:15.251Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2118699406379843584/img/20HMkCM5Mwj2Yfve.jpg",
+   "tools_reported": [
+    "Blender",
+    "Python"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "full",
+    "source": "author_reply",
+    "source_url": "https://x.com/anstapnever/status/2118700623004848474",
+    "length": 3505,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2118700618915397795"
+   },
    "resources": []
   },
   {
@@ -50728,6 +51010,38 @@
    "resources": []
   },
   {
+   "id": "2118815935582863486",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "game",
+   "title": {
+    "zh": "一天内制作的Unity 3D游戏",
+    "en": "Unity 3D Game Built in a Day"
+   },
+   "creator": {
+    "handle": "0xKense1",
+    "name": "Kensei"
+   },
+   "original_post_url": "https://x.com/0xKense1/status/2118815935582863486",
+   "posted_at": "2026-11-06T21:20:59.000Z",
+   "language": "en",
+   "duration_seconds": 45,
+   "views": 20995,
+   "likes": 215,
+   "bookmarks": 301,
+   "views_checked_at": "2026-11-08T07:18:15.251Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2118815498963935233/img/ru5Inw1fz0kG19DG.jpg",
+   "tools_reported": [
+    "Tripo",
+    "Blender",
+    "Unity"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2117391948348817828",
    "models": [
     "opus-5.5"
@@ -51920,6 +52234,34 @@
     "Godot",
     "Ultracode"
    ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2118760592731484271",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "production",
+   "title": {
+    "zh": "用 Claude 制作的短视频",
+    "en": "Short video made with Claude"
+   },
+   "creator": {
+    "handle": "blueemi99",
+    "name": "bluedev"
+   },
+   "original_post_url": "https://x.com/blueemi99/status/2118760592731484271",
+   "posted_at": "2026-11-06T17:41:04.000Z",
+   "language": "en",
+   "duration_seconds": 24,
+   "views": 19909,
+   "likes": 647,
+   "bookmarks": 316,
+   "views_checked_at": "2026-11-08T07:18:15.251Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2118760491229020161/img/PekgZtEfxGNBTPYz.jpg",
+   "tools_reported": [],
    "reference_assets": false,
    "prompt": null,
    "resources": []
@@ -55213,6 +55555,40 @@
    "resources": []
   },
   {
+   "id": "2118836711480508631",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "game",
+   "title": {
+    "zh": "24小时制作的原创Three.js游戏",
+    "en": "Original Three.js Game Built in 24 Hours"
+   },
+   "creator": {
+    "handle": "midn1ghtexigent",
+    "name": "Mercer 🌙"
+   },
+   "original_post_url": "https://x.com/midn1ghtexigent/status/2118836711480508631",
+   "posted_at": "2026-11-06T22:43:32.000Z",
+   "language": "en",
+   "duration_seconds": 30,
+   "views": 17948,
+   "likes": 113,
+   "bookmarks": 33,
+   "views_checked_at": "2026-11-08T07:18:15.251Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2117080134528405504/img/xd5ut85gUgMiHM45.jpg",
+   "tools_reported": [
+    "Flux 3 Max",
+    "GPT Image",
+    "Tripo",
+    "Blender",
+    "Three.js"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2106848736609808531",
    "models": [
     "opus-5.5"
@@ -57025,6 +57401,43 @@
     "Grok",
     "ChatGPT",
     "Suno"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2118924098516488591",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "stories",
+   "title": {
+    "zh": "圣诞老人和迷路的小星星",
+    "en": "Santa and the Little Lost Star"
+   },
+   "creator": {
+    "handle": "JoshDaws",
+    "name": "Josh Daws"
+   },
+   "original_post_url": "https://x.com/JoshDaws/status/2118924098516488591",
+   "posted_at": "2026-11-07T04:30:47.000Z",
+   "language": "en",
+   "duration_seconds": 22,
+   "views": 16744,
+   "likes": 246,
+   "bookmarks": 170,
+   "views_checked_at": "2026-11-08T07:18:15.251Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2118923979628871680/img/IoPhKwOBZDhgWydS.jpg",
+   "tools_reported": [
+    "Imagination Studio",
+    "MiniMax H3",
+    "Studio 1939 LoRA",
+    "MOSS-Image",
+    "FLUX3-K",
+    "Qwen-Image 2.1",
+    "Fish Audio Drama 3",
+    "MiniMax Music 3"
    ],
    "reference_assets": false,
    "prompt": null,
@@ -60461,6 +60874,43 @@
    "resources": []
   },
   {
+   "id": "2118728540976009336",
+   "models": [
+    "fable-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "慢动作火柴燃烧模拟",
+    "en": "Slow-motion match combustion simulation"
+   },
+   "creator": {
+    "handle": "camperaigg",
+    "name": "camper 🦎🎣"
+   },
+   "original_post_url": "https://x.com/camperaigg/status/2118728540976009336",
+   "posted_at": "2026-11-06T15:33:42.000Z",
+   "language": "en",
+   "duration_seconds": 27,
+   "views": 14734,
+   "likes": 248,
+   "bookmarks": 72,
+   "views_checked_at": "2026-11-08T07:18:15.251Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2118728297026912256/img/5lw4d4mrs4GnI4r5.jpg",
+   "tools_reported": [
+    "Three.js",
+    "Claude Code"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "brief",
+    "source": "post",
+    "source_url": "https://x.com/camperaigg/status/2118728540976009336",
+    "length": 45,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2118728540976009336"
+   },
+   "resources": []
+  },
+  {
    "id": "2114377433369739331",
    "models": [
     "opus-5.5"
@@ -61153,6 +61603,37 @@
     "length": 2515,
     "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2112189854234652746"
    },
+   "resources": []
+  },
+  {
+   "id": "2118809236046246316",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "动效模型对比",
+    "en": "Motion graphics model comparison"
+   },
+   "creator": {
+    "handle": "deweytn",
+    "name": "Claudia Galeán (💫,💫)"
+   },
+   "original_post_url": "https://x.com/deweytn/status/2118809236046246316",
+   "posted_at": "2026-11-06T20:54:22.000Z",
+   "language": "en",
+   "duration_seconds": 43,
+   "views": 14261,
+   "likes": 165,
+   "bookmarks": 61,
+   "views_checked_at": "2026-11-08T07:18:15.251Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2118808656166682624/img/ufROIdABFBKkgA2d.jpg",
+   "tools_reported": [
+    "Gemini 4 Hydrogen",
+    "Gemini 3.8 Flash"
+   ],
+   "reference_assets": false,
+   "prompt": null,
    "resources": []
   },
   {
@@ -64860,6 +65341,43 @@
    ],
    "reference_assets": false,
    "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2118870207045529812",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "Nanite风格WebGPU渲染引擎",
+    "en": "Nanite-style WebGPU rendering engine"
+   },
+   "creator": {
+    "handle": "SamGCoder",
+    "name": "SamG"
+   },
+   "original_post_url": "https://x.com/SamGCoder/status/2118870207045529812",
+   "posted_at": "2026-11-07T00:56:38.000Z",
+   "language": "en",
+   "duration_seconds": 83,
+   "views": 12665,
+   "likes": 277,
+   "bookmarks": 281,
+   "views_checked_at": "2026-11-08T07:18:15.251Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2118869080732323840/img/LIHw1cGiWBLH9GQE.jpg",
+   "tools_reported": [
+    "WebGPU",
+    "Rust"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "full",
+    "source": "post",
+    "source_url": "https://x.com/SamGCoder/status/2118870207045529812",
+    "length": 234,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2118870207045529812"
+   },
    "resources": []
   },
   {
@@ -69568,6 +70086,42 @@
    "resources": []
   },
   {
+   "id": "2118765227584246106",
+   "models": [
+    "sonnet-5.5"
+   ],
+   "category": "game",
+   "title": {
+    "zh": "像素风浮岛游乐园",
+    "en": "Pixel-art floating island park"
+   },
+   "creator": {
+    "handle": "vib3coded",
+    "name": "Vib3Coded"
+   },
+   "original_post_url": "https://x.com/vib3coded/status/2118765227584246106",
+   "posted_at": "2026-11-06T17:59:29.000Z",
+   "language": "en",
+   "duration_seconds": 17,
+   "views": 10820,
+   "likes": 242,
+   "bookmarks": 139,
+   "views_checked_at": "2026-11-08T07:18:15.251Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2118764939376480256/img/HeiKkWkihMmBge8_.jpg",
+   "tools_reported": [
+    "Three.js"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "full",
+    "source": "author_reply",
+    "source_url": "https://x.com/vib3coded/status/2118765349701116393",
+    "length": 3491,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2118765227584246106"
+   },
+   "resources": []
+  },
+  {
    "id": "2110474945704903065",
    "models": [
     "opus-5.5"
@@ -70152,6 +70706,37 @@
    "resources": []
   },
   {
+   "id": "2118811269079695372",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "stories",
+   "title": {
+    "zh": "权游风格片头动画",
+    "en": "Game of Thrones-style title sequence"
+   },
+   "creator": {
+    "handle": "trymirage",
+    "name": "Mirage"
+   },
+   "original_post_url": "https://x.com/trymirage/status/2118811269079695372",
+   "posted_at": "2026-11-06T21:02:26.000Z",
+   "language": "en",
+   "duration_seconds": 39,
+   "views": 10579,
+   "likes": 202,
+   "bookmarks": 203,
+   "views_checked_at": "2026-11-08T07:18:15.251Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2118806844168699904/img/6ZOVUoDDMR6vPXcg.jpg",
+   "tools_reported": [
+    "Tesseract",
+    "Rodin"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2103745537455673700",
    "models": [
     "opus-5.5"
@@ -70487,6 +71072,37 @@
    "resources": []
   },
   {
+   "id": "2118685753299349699",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "可用于游戏的绑定动画角色",
+    "en": "Rigged and animated game-ready hero"
+   },
+   "creator": {
+    "handle": "sorenxet",
+    "name": "sorenxet"
+   },
+   "original_post_url": "https://x.com/sorenxet/status/2118685753299349699",
+   "posted_at": "2026-11-06T12:43:41.000Z",
+   "language": "en",
+   "duration_seconds": 4,
+   "views": 10373,
+   "likes": 182,
+   "bookmarks": 172,
+   "views_checked_at": "2026-11-08T07:18:15.251Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2118680269234278400/img/KFUMd-G2R9yJmPYv.jpg",
+   "tools_reported": [
+    "Blender",
+    "MCP"
+   ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2109628088430510337",
    "models": [
     "opus-5.5"
@@ -70664,6 +71280,42 @@
    "tools_reported": [],
    "reference_assets": false,
    "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2118860490734707053",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "product",
+   "title": {
+    "zh": "AI 笔记应用落地页",
+    "en": "AI note-taking app landing page"
+   },
+   "creator": {
+    "handle": "LexnLin",
+    "name": "Leon Lin"
+   },
+   "original_post_url": "https://x.com/LexnLin/status/2118860490734707053",
+   "posted_at": "2026-11-07T00:18:02.000Z",
+   "language": "en",
+   "duration_seconds": 29,
+   "views": 10263,
+   "likes": 283,
+   "bookmarks": 195,
+   "views_checked_at": "2026-11-08T07:18:15.251Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2118857873153294336/img/9MbbsO6fSJKI_iAU.jpg",
+   "tools_reported": [
+    "TasteSkill"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "brief",
+    "source": "post",
+    "source_url": "https://x.com/LexnLin/status/2118860490734707053",
+    "length": 84,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2118860490734707053"
+   },
    "resources": []
   },
   {
@@ -72846,6 +73498,36 @@
    "resources": []
   },
   {
+   "id": "2118799847293608416",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "production",
+   "title": {
+    "zh": "AI 编辑的短视频",
+    "en": "AI-edited short-form video"
+   },
+   "creator": {
+    "handle": "stevenvan_",
+    "name": "Steven Van"
+   },
+   "original_post_url": "https://x.com/stevenvan_/status/2118799847293608416",
+   "posted_at": "2026-11-06T20:17:03.000Z",
+   "language": "en",
+   "duration_seconds": 56,
+   "views": 9347,
+   "likes": 104,
+   "bookmarks": 160,
+   "views_checked_at": "2026-11-08T07:18:15.251Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2118799823352557568/img/9RItwCpU1W6Sc63i.jpg",
+   "tools_reported": [
+    "AI Producer"
+   ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2103627106240602357",
    "models": [
     "opus-5.5"
@@ -74787,6 +75469,36 @@
     "length": 744,
     "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103742861971726495"
    },
+   "resources": []
+  },
+  {
+   "id": "2118800755595292961",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "product",
+   "title": {
+    "zh": "浏览器渲染的瓶身设计",
+    "en": "Browser-rendered bottle design"
+   },
+   "creator": {
+    "handle": "AmirMushich",
+    "name": "AmirMušić"
+   },
+   "original_post_url": "https://x.com/AmirMushich/status/2118800755595292961",
+   "posted_at": "2026-11-06T20:20:40.000Z",
+   "language": "en",
+   "duration_seconds": 21,
+   "views": 8671,
+   "likes": 140,
+   "bookmarks": 162,
+   "views_checked_at": "2026-11-08T07:18:15.251Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2118799863659769857/img/4WYVBv3sImTpUkBG.jpg",
+   "tools_reported": [
+    "Three.js"
+   ],
+   "reference_assets": false,
+   "prompt": null,
    "resources": []
   },
   {
@@ -76754,6 +77466,34 @@
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2114691037423685632/img/McOV9dGFPPZ3zk-T.jpg",
    "tools_reported": [],
    "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2118888042115277111",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "game",
+   "title": {
+    "zh": "Roblox 游戏原型",
+    "en": "Roblox game prototype"
+   },
+   "creator": {
+    "handle": "JohnKlerAI",
+    "name": "John Kler"
+   },
+   "original_post_url": "https://x.com/JohnKlerAI/status/2118888042115277111",
+   "posted_at": "2026-11-07T02:07:30.000Z",
+   "language": "en",
+   "duration_seconds": 7,
+   "views": 7745,
+   "likes": 116,
+   "bookmarks": 50,
+   "views_checked_at": "2026-11-08T07:18:15.251Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2118888005100343297/img/QUNaLiX-TFxnOHFz.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
    "prompt": null,
    "resources": []
   },
@@ -79036,6 +79776,34 @@
    "resources": []
   },
   {
+   "id": "2118674355735667135",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "motion",
+   "title": {
+    "zh": "液态玻璃动效实验",
+    "en": "Liquid glass motion experiment"
+   },
+   "creator": {
+    "handle": "basit_designs",
+    "name": "Basit A. Khan"
+   },
+   "original_post_url": "https://x.com/basit_designs/status/2118674355735667135",
+   "posted_at": "2026-11-06T11:58:24.000Z",
+   "language": "en",
+   "duration_seconds": 38,
+   "views": 6585,
+   "likes": 145,
+   "bookmarks": 161,
+   "views_checked_at": "2026-11-08T07:18:15.251Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2118674184369061888/img/_KI0TS1KEsFvgrii.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2106000055706784118",
    "models": [
     "fable-5.5"
@@ -79942,6 +80710,34 @@
    "resources": []
   },
   {
+   "id": "2118888671097114810",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "game",
+   "title": {
+    "zh": "冬日女妖游戏角色",
+    "en": "Winter Banshee game character"
+   },
+   "creator": {
+    "handle": "Pumpnasterr",
+    "name": "Abbi"
+   },
+   "original_post_url": "https://x.com/Pumpnasterr/status/2118888671097114810",
+   "posted_at": "2026-11-07T02:10:00.000Z",
+   "language": "en",
+   "duration_seconds": 46,
+   "views": 6004,
+   "likes": 111,
+   "bookmarks": 26,
+   "views_checked_at": "2026-11-08T07:18:15.251Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2118886268465553408/img/AqrSb0HivVgInBQl.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2118159125398061237",
    "models": [
     "opus-5.5"
@@ -79979,6 +80775,49 @@
    "resources": []
   },
   {
+   "id": "2118665193479659569",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "product",
+   "title": {
+    "zh": "三维查找界面概念",
+    "en": "3D Find My interface concept"
+   },
+   "creator": {
+    "handle": "shmidtqq",
+    "name": "shmidt"
+   },
+   "original_post_url": "https://x.com/shmidtqq/status/2118665193479659569",
+   "posted_at": "2026-11-06T11:21:59.000Z",
+   "language": "en",
+   "duration_seconds": 16,
+   "views": 5956,
+   "likes": 133,
+   "bookmarks": 72,
+   "views_checked_at": "2026-11-08T07:18:15.251Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2118665053679370240/img/K0QTNo5qyzGtCe-K.jpg",
+   "tools_reported": [
+    "Figma",
+    "React",
+    "Vite",
+    "Three.js",
+    "React Three Fiber",
+    "Drei",
+    "Motion",
+    "Lucide"
+   ],
+   "reference_assets": true,
+   "prompt": {
+    "kind": "full",
+    "source": "author_reply",
+    "source_url": "https://x.com/shmidtqq/status/2118665197334237616",
+    "length": 5001,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2118665193479659569"
+   },
+   "resources": []
+  },
+  {
    "id": "2114054716959215724",
    "models": [
     "opus-5.5"
@@ -80012,6 +80851,40 @@
     "length": 2941,
     "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2114054716959215724"
    },
+   "resources": []
+  },
+  {
+   "id": "2118735703119159514",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "game",
+   "title": {
+    "zh": "24小时制作的原创Three.js游戏",
+    "en": "Original Three.js game built in 24 hours"
+   },
+   "creator": {
+    "handle": "Heavy935",
+    "name": "Kasane Strauss"
+   },
+   "original_post_url": "https://x.com/Heavy935/status/2118735703119159514",
+   "posted_at": "2026-11-06T16:02:10.000Z",
+   "language": "en",
+   "duration_seconds": 27,
+   "views": 5942,
+   "likes": 100,
+   "bookmarks": 19,
+   "views_checked_at": "2026-11-08T07:18:15.251Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2118735658676035584/img/tN6geYDUL2ELJjnB.jpg",
+   "tools_reported": [
+    "Flux 3 Max",
+    "GPT Image",
+    "Tripo",
+    "Blender",
+    "Three.js"
+   ],
+   "reference_assets": false,
+   "prompt": null,
    "resources": []
   },
   {
@@ -80632,6 +81505,37 @@
    "resources": []
   },
   {
+   "id": "2118718007362920489",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "冰原生物动画",
+    "en": "Animated frozen plains creature"
+   },
+   "creator": {
+    "handle": "theparuchh",
+    "name": "Paruchh"
+   },
+   "original_post_url": "https://x.com/theparuchh/status/2118718007362920489",
+   "posted_at": "2026-11-06T14:51:51.000Z",
+   "language": "en",
+   "duration_seconds": 38,
+   "views": 5580,
+   "likes": 100,
+   "bookmarks": 64,
+   "views_checked_at": "2026-11-08T07:18:15.251Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2118717977398841344/img/-TQdsKWdyE3n0BN3.jpg",
+   "tools_reported": [
+    "Tripo",
+    "Blender"
+   ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2111528513690026292",
    "models": [
     "opus-5.5"
@@ -80657,6 +81561,37 @@
    "tools_reported": [
     "Blender",
     "Three.js"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2118782889806467483",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "吊顶管线碰撞自动重排",
+    "en": "Ceiling services clash rerouting"
+   },
+   "creator": {
+    "handle": "Solvaix",
+    "name": "Solvaix"
+   },
+   "original_post_url": "https://x.com/Solvaix/status/2118782889806467483",
+   "posted_at": "2026-11-06T19:09:40.000Z",
+   "language": "en",
+   "duration_seconds": 66,
+   "views": 5540,
+   "likes": 101,
+   "bookmarks": 85,
+   "views_checked_at": "2026-11-08T07:18:15.251Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2118778068869292033/img/c_pKxjZIq9pjkU1w.jpg",
+   "tools_reported": [
+    "Revit",
+    "MCP"
    ],
    "reference_assets": false,
    "prompt": null,
@@ -80843,6 +81778,37 @@
    "resources": []
   },
   {
+   "id": "2118674610078233016",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "production",
+   "title": {
+    "zh": "卡通培根蛋面料理节目",
+    "en": "Animated carbonara cooking show"
+   },
+   "creator": {
+    "handle": "CHIBIKURO_QnQ",
+    "name": "チビクロ🍀四刀流AI錬金術士"
+   },
+   "original_post_url": "https://x.com/CHIBIKURO_QnQ/status/2118674610078233016",
+   "posted_at": "2026-11-06T11:59:24.000Z",
+   "language": "ja",
+   "duration_seconds": 50,
+   "views": 5299,
+   "likes": 129,
+   "bookmarks": 1,
+   "views_checked_at": "2026-11-08T07:18:15.251Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2118674292133289985/img/6-OZYMnvT32qfqbr.jpg",
+   "tools_reported": [
+    "DomoAI",
+    "Seedance 2.5"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2105765253799903602",
    "models": [
     "fable-5.5"
@@ -80896,6 +81862,62 @@
    "tools_reported": [
     "Unity"
    ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2118342622884384895",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "motion",
+   "title": {
+    "zh": "同一汽车镜头的四档预算版本",
+    "en": "Same car shot at four budget levels"
+   },
+   "creator": {
+    "handle": "m4lkxx",
+    "name": "m4lka"
+   },
+   "original_post_url": "https://x.com/m4lkxx/status/2118342622884384895",
+   "posted_at": "2026-11-05T14:00:12.000Z",
+   "language": "en",
+   "duration_seconds": 28,
+   "views": 5096,
+   "likes": 110,
+   "bookmarks": 69,
+   "views_checked_at": "2026-11-08T09:39:36.452Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2118338526030790657/img/62Qqc-bz77imbIay.jpg",
+   "tools_reported": [],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2118874479862419640",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "game",
+   "title": {
+    "zh": "Game Boy 风格万智牌卡牌游戏",
+    "en": "Game Boy-style Magic: The Gathering card game"
+   },
+   "creator": {
+    "handle": "kylebrussell",
+    "name": "Kyle Russell"
+   },
+   "original_post_url": "https://x.com/kylebrussell/status/2118874479862419640",
+   "posted_at": "2026-11-07T01:13:37.000Z",
+   "language": "en",
+   "duration_seconds": 44,
+   "views": 5043,
+   "likes": 100,
+   "bookmarks": 46,
+   "views_checked_at": "2026-11-08T07:18:15.251Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2118874441677410304/img/TRK0L8Noc4aQROqs.jpg",
+   "tools_reported": [],
    "reference_assets": false,
    "prompt": null,
    "resources": []

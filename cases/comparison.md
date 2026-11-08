@@ -1,6 +1,6 @@
 # Model comparisons
 
-478 works, 163 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+480 works, 163 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [SpongeBob build by competing agent teams](https://x.com/atomic_chat_hq/status/2113700709506113948) | Opus 5.5 | [@atomic_chat_hq](https://x.com/atomic_chat_hq) | 0:40 | — |
 | [Model comparison using Unreal and Blender](https://x.com/quadcode_ai/status/2103959994685128846) | Opus 5.5 | [@quadcode_ai](https://x.com/quadcode_ai) | 0:25 | — |
 | [SVG bike riding pelican](https://x.com/dummerspast39/status/2111519245733654775) | Fable 5.5 (preview) | [@dummerspast39](https://x.com/dummerspast39) | 0:18 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2111519245733654775) |
+| [Night Train Three.js Film at Four Effort Levels](https://x.com/EnvolDev/status/2118742203371573615) | Opus 5.5 | [@EnvolDev](https://x.com/EnvolDev) | 0:25 | — |
 | [Opus 5.5 vs GPT-6 game comparison](https://x.com/_MaxBlade/status/2102528632598274244) | Opus 5.5 | [@_MaxBlade](https://x.com/_MaxBlade) | 1:37 | — |
 | [Side-by-side model output comparison](https://x.com/Da7_Tech/status/2113751648719839252) | Opus 5.5 | [@Da7_Tech](https://x.com/Da7_Tech) | 0:13 | — |
 | [How a language model answers a prompt: 20-second motion graphic](https://x.com/TheHunterBohm/status/2102724864205566388) | Opus 5.5 | [@TheHunterBohm](https://x.com/TheHunterBohm) | 0:20 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102724864205566388) |
@@ -384,6 +385,7 @@
 | [Interactive 3D gummy jellyfish, two-model build](https://x.com/vib3coded/status/2104651061336117614) | Sonnet 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:18 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104651061336117614) |
 | [Three-model Arena output comparison](https://x.com/AI_Screening/status/2113321010913292308) | Opus 5.5 | [@AI_Screening](https://x.com/AI_Screening) | 0:15 | — |
 | [3D humanoid robot simulation comparison](https://x.com/AI_Screening/status/2110056429931610237) | Opus 5.5 | [@AI_Screening](https://x.com/AI_Screening) | 0:17 | — |
+| [Motion graphics model comparison](https://x.com/deweytn/status/2118809236046246316) | Opus 5.5 | [@deweytn](https://x.com/deweytn) | 0:43 | — |
 | [Whale image comparison: GPT-6 vs Opus](https://x.com/vib3coded/status/2112487852156063849) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:18 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2112487852156063849) |
 | [Same-prompt build test with time and cost](https://x.com/notjazii/status/2114837324521783564) | Sonnet 5.5 | [@notjazii](https://x.com/notjazii) | 0:34 | — |
 | [Jelly Garden 3D model comparison](https://x.com/marcthecreatorr/status/2110057849653002459) | Opus 5.5 | [@marcthecreatorr](https://x.com/marcthecreatorr) | 0:42 | — |

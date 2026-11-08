@@ -1,6 +1,6 @@
 # Games
 
-458 works, 66 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+466 works, 67 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Open-world NYC multiplayer game](https://x.com/mattshumer_/status/2102874271316078841) | Opus 5.5 | [@mattshumer_](https://x.com/mattshumer_) | 1:18 | — |
 | [Multiplayer lawn mowing simulator](https://x.com/_MaxBlade/status/2102513817855094922) | Opus 5.5 | [@_MaxBlade](https://x.com/_MaxBlade) | 0:37 | — |
 | [Reverse-engineered game crossovers across engines](https://x.com/Roxx_0x/status/2111904848530555303) | Opus 5.5 | [@Roxx_0x](https://x.com/Roxx_0x) | 1:51 | — |
+| [Infinite self-evolving Backrooms game](https://x.com/apekshik/status/2118847014071120179) | Opus 5.5 | [@apekshik](https://x.com/apekshik) | 1:40 | — |
 | [Flappy Bird style game built with Opus 5.5](https://x.com/errenozgur/status/2112454816316158084) | Opus 5.5 | [@errenozgur](https://x.com/errenozgur) | 0:36 | — |
 | [Frog King Simulator built with Claude](https://x.com/Belbizaz/status/2111120760660254842) | Opus 5.5 | [@Belbizaz](https://x.com/Belbizaz) | 0:30 | — |
 | [WoW-style game built in 36 hours](https://x.com/Stefan_3D_AI/status/2104109918894580091) | Opus 5.5 | [@Stefan_3D_AI](https://x.com/Stefan_3D_AI) | 1:17 | — |
@@ -293,6 +294,7 @@
 | [Roblox simulator game](https://x.com/killahdev/status/2114173223281783215) | Opus 5.5 | [@killahdev](https://x.com/killahdev) | 0:38 | — |
 | [Zero-gravity movement shooter](https://x.com/0xPBIT/status/2106048668826546247) | Opus 5.5 | [@0xPBIT](https://x.com/0xPBIT) | 1:28 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2106048668826546247) |
 | [Pizza Tower engine recreation](https://x.com/lavbubl/status/2108205508012437682) | Opus 5.5 | [@lavbubl](https://x.com/lavbubl) | 0:23 | — |
+| [Unity 3D Game Built in a Day](https://x.com/0xKense1/status/2118815935582863486) | Opus 5.5 | [@0xKense1](https://x.com/0xKense1) | 0:45 | — |
 | [Realistic snow scene game build](https://x.com/jumperz/status/2102486361068425247) | Opus 5.5 | [@jumperz](https://x.com/jumperz) | 2:01 | — |
 | [Wave Runner 3D game](https://x.com/scottstts/status/2118041539180130607) | Opus 5.5 | [@scottstts](https://x.com/scottstts) | 1:30 | — |
 | [Card game direction redesign for a Steam festival](https://x.com/ShadeLurk/status/2102626930977870238) | Opus 5.5 | [@ShadeLurk](https://x.com/ShadeLurk) | 0:31 | — |
@@ -320,6 +322,7 @@
 | [Interactive banana cursor tracker](https://x.com/himanshubuildss/status/2104852202682728856) | Sonnet 5.5 | [@himanshubuildss](https://x.com/himanshubuildss) | 0:11 | — |
 | [Roblox racing simulator](https://x.com/JavaCoded/status/2103330796085838252) | Opus 5.5 | [@JavaCoded](https://x.com/JavaCoded) | 0:21 | — |
 | [Classic game recreation by multiple AI models](https://x.com/ChrisGPT/status/2103561098930880952) | Opus 5.5 | [@ChrisGPT](https://x.com/ChrisGPT) | 0:36 | — |
+| [Original Three.js Game Built in 24 Hours](https://x.com/midn1ghtexigent/status/2118836711480508631) | Opus 5.5 | [@midn1ghtexigent](https://x.com/midn1ghtexigent) | 0:30 | — |
 | [Playable airport ramp strategy game](https://x.com/anxuanng/status/2117096574878921119) | Opus 5.5 / Fable 5.5 (preview) | [@anxuanng](https://x.com/anxuanng) | 0:47 | — |
 | [Ghost-hunting game built in Unreal Engine 5](https://x.com/rewind02/status/2111034892750409811) | Opus 5.5 | [@rewind02](https://x.com/rewind02) | 0:24 | — |
 | [Battle royale game prototype](https://x.com/ruku_practice/status/2103099638517813292) | Opus 5.5 | [@ruku_practice](https://x.com/ruku_practice) | 0:49 | — |
@@ -392,6 +395,7 @@
 | [Crimson Oath 40-hour playable game build](https://x.com/benchmark_lb900/status/2103541534906052944) | Opus 5.5 | [@benchmark_lb900](https://x.com/benchmark_lb900) | 25:05 | — |
 | [Pokeidle game quick intro](https://x.com/pedrofasi/status/2110500370241765787) | Opus 5.5 | [@pedrofasi](https://x.com/pedrofasi) | 5:03 | — |
 | [Flying Roadster police chase browser game](https://x.com/viktoroddy/status/2111609842184130875) | Opus 5.5 | [@viktoroddy](https://x.com/viktoroddy) | 0:19 | — |
+| [Pixel-art floating island park](https://x.com/vib3coded/status/2118765227584246106) | Sonnet 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:17 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2118765227584246106) |
 | [AI data center strategy game](https://x.com/anxuanng/status/2110475736213819575) | Opus 5.5 | [@anxuanng](https://x.com/anxuanng) | 0:30 | — |
 | [Minecraft-style sandbox with weather, mobs and weapons](https://x.com/notjazii/status/2108590346309706221) | Haiku 5.5 / Fable 5.5 (preview) | [@notjazii](https://x.com/notjazii) | 1:09 | — |
 | [Stickman game with character customization](https://x.com/notjazii/status/2102831012686573744) | Opus 5.5 | [@notjazii](https://x.com/notjazii) | 1:54 | — |
@@ -441,6 +445,7 @@
 | [Playable robotic fulfillment center simulation](https://x.com/anxuanng/status/2111471324816404683) | Opus 5.5 | [@anxuanng](https://x.com/anxuanng) | 0:30 | — |
 | [Roblox game concept card showcase](https://x.com/Cyphryx/status/2108264801424269777) | Opus 5.5 | [@Cyphryx](https://x.com/Cyphryx) | 1:24 | — |
 | [30-player climate policy classroom game](https://x.com/GabLattanzio/status/2113137522561741180) | Opus 5.5 | [@GabLattanzio](https://x.com/GabLattanzio) | 0:49 | — |
+| [Roblox game prototype](https://x.com/JohnKlerAI/status/2118888042115277111) | Opus 5.5 | [@JohnKlerAI](https://x.com/JohnKlerAI) | 0:07 | — |
 | [Pixel art co-op arcade beat 'em up](https://x.com/zer0point_eth/status/2114675490057273405) | Opus 5.5 | [@zer0point_eth](https://x.com/zer0point_eth) | 1:31 | — |
 | [Minecraft Content in Red Dead Redemption 2](https://x.com/Roxx_0x/status/2107698613379838294) | Opus 5.5 | [@Roxx_0x](https://x.com/Roxx_0x) | 1:11 | — |
 | [Counter-Strike style shooter in Roblox](https://x.com/0xKense1/status/2117990538271932914) | Opus 5.5 | [@0xKense1](https://x.com/0xKense1) | 0:49 | — |
@@ -456,9 +461,12 @@
 | [Indie game development progress](https://x.com/iritec_jp/status/2102651240685744597) | Opus 5.5 | [@iritec_jp](https://x.com/iritec_jp) | 0:39 | — |
 | [Email gamification prototype Inbox Kingdom](https://x.com/thebuggeddev/status/2108206814236184802) | Opus 5.5 | [@thebuggeddev](https://x.com/thebuggeddev) | 1:13 | — |
 | [Fighting game inspired by a mecha series](https://x.com/elefolo2/status/2103310890716266620) | Opus 5.5 | [@elefolo2](https://x.com/elefolo2) | 0:34 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103310890716266620) |
+| [Winter Banshee game character](https://x.com/Pumpnasterr/status/2118888671097114810) | Opus 5.5 | [@Pumpnasterr](https://x.com/Pumpnasterr) | 0:46 | — |
 | [Vault Street pixel-art bank heist diorama](https://x.com/vib3coded/status/2114054716959215724) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:17 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2114054716959215724) |
+| [Original Three.js game built in 24 hours](https://x.com/Heavy935/status/2118735703119159514) | Opus 5.5 | [@Heavy935](https://x.com/Heavy935) | 0:27 | — |
 | [Improved game prototype](https://x.com/ForkedPush/status/2113682278261944511) | Opus 5.5 | [@ForkedPush](https://x.com/ForkedPush) | 2:06 | — |
 | [Fishing and exploration game demo](https://x.com/hakimieiqbal/status/2117610999796941057) | Opus 5.5 | [@hakimieiqbal](https://x.com/hakimieiqbal) | 3:15 | — |
 | [Playable theme park strategy game](https://x.com/anxuanng/status/2111528513690026292) | Opus 5.5 | [@anxuanng](https://x.com/anxuanng) | 0:30 | — |
 | [Fallout 2 mod porting Megaton from Fallout 3](https://x.com/parhelion318/status/2108606277618413780) | Opus 5.5 | [@parhelion318](https://x.com/parhelion318) | 1:10 | — |
 | [African cities racing game](https://x.com/webasamoah/status/2118335271133475027) | Opus 5.5 | [@webasamoah](https://x.com/webasamoah) | 1:55 | — |
+| [Game Boy-style Magic: The Gathering card game](https://x.com/kylebrussell/status/2118874479862419640) | Opus 5.5 | [@kylebrussell](https://x.com/kylebrussell) | 0:44 | — |
