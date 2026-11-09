@@ -2,15 +2,15 @@
 
 [English](README.md) | 简体中文
 
-X 上用 Claude Opus 5.5、Sonnet 5.5、Haiku 5.5 和 Fable 5.5（内测中、未官宣）做出来的视频、动效、3D 场景和游戏，原帖播放量都过 5,000。共 **2627 个作品**（Opus 5.5 2446 个 · Sonnet 5.5 142 个 · Fable 5.5 120 个，对比帖各边都计），其中 **618 个附提示词**（305 条完整提示词）。
+X 上用 Claude Opus 5.5、Sonnet 5.5、Haiku 5.5 和 Fable 5.5（内测中、未官宣）做出来的视频、动效、3D 场景和游戏，原帖播放量都过 5,000。共 **2651 个作品**（Opus 5.5 2467 个 · Sonnet 5.5 143 个 · Fable 5.5 124 个，对比帖各边都计），其中 **623 个附提示词**（306 条完整提示词）。
 
 **[在线浏览，可直接播放和复制提示词 →](https://jasonzhu.ai/zh/prompts/claude-opus-5-5)**
 
 <table>
   <tr>
     <td width="25%" align="center"><a href="https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102801274173587569"><img src="https://pbs.twimg.com/amplify_video_thumb/2102799458031534086/img/GBhRZ7O3fCXn59dk.jpg" width="200" alt="《Claude Pop》音乐视频重制版"></a><br><sub>《Claude Pop》音乐视频重制版</sub></td>
-    <td width="25%" align="center"><a href="https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2118343870450954318"><img src="https://pbs.twimg.com/amplify_video_thumb/2118343664552525824/img/WiMHZM9T8j_TQSvl.jpg" width="200" alt="科幻第一人称射击游戏"></a><br><sub>科幻第一人称射击游戏</sub></td>
     <td width="25%" align="center"><a href="https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2117169796290916732"><img src="https://pbs.twimg.com/amplify_video_thumb/2117167031636393985/img/CKADDY4IjwF3_y0c.jpg" width="200" alt="日出时苏醒的苔藓巨型机器人"></a><br><sub>日出时苏醒的苔藓巨型机器人</sub></td>
+    <td width="25%" align="center"><a href="https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2118343870450954318"><img src="https://pbs.twimg.com/amplify_video_thumb/2118343664552525824/img/WiMHZM9T8j_TQSvl.jpg" width="200" alt="科幻第一人称射击游戏"></a><br><sub>科幻第一人称射击游戏</sub></td>
     <td width="25%" align="center"><a href="https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103273003555402193"><img src="https://pbs.twimg.com/amplify_video_thumb/2103272964967804928/img/DTuQzS4NOGKMbTDA.jpg" width="200" alt="纯代码UI动效设计短片"></a><br><sub>纯代码UI动效设计短片</sub></td>
   </tr>
   <tr>
@@ -25,14 +25,14 @@ X 上用 Claude Opus 5.5、Sonnet 5.5、Haiku 5.5 和 Fable 5.5（内测中、�
 
 ## 收录标准
 
-- 创作者本人的原帖，帖子自带视频，原帖播放量不低于 5,000（快照时间 2026-11-08）。
+- 创作者本人的原帖，帖子自带视频，原帖播放量不低于 5,000（快照时间 2026-11-09）。
 - 帖子明确说作品是用 Claude Opus 5.5、Sonnet 5.5、Haiku 5.5 或 Fable 5.5 做的，「模型」一栏按作者的说法标注。**Fable 5.5 截至 10 月初只在内测、尚未官宣**，作者自己说「可能是」的不收。**模型归属以作者自述为准，没有逐条复现。**
 - 提示词只收有出处的：主帖正文、作者本人的回复、作者回复里的截图、作者给出的链接。提示词一律原文照录，不改写、不翻译。
 - 有视频但找不到指令来源的作品照常收录，提示词一栏留空。
 
 ## 动效设计
 
-342 个作品 · [完整清单](cases/motion.zh-CN.md)
+344 个作品 · [完整清单](cases/motion.zh-CN.md)
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ X 上用 Claude Opus 5.5、Sonnet 5.5、Haiku 5.5 和 Fable 5.5（内测中、�
 
 ## 产品广告
 
-258 个作品 · [完整清单](cases/product.zh-CN.md)
+259 个作品 · [完整清单](cases/product.zh-CN.md)
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -58,11 +58,11 @@ X 上用 Claude Opus 5.5、Sonnet 5.5、Haiku 5.5 和 Fable 5.5（内测中、�
 | [3D健身器材搭建应用](https://x.com/wesbos/status/2102450119975277027) | Opus 5.5 | [@wesbos](https://x.com/wesbos) | 0:18 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102450119975277027) |
 | [角色创建器滑块演示](https://x.com/magnific/status/2104587476014964879) | Opus 5.5 | [@magnific](https://x.com/magnific) | 0:20 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104587476014964879) |
 | [个人网站改版预告片](https://x.com/trq212/status/2102477340920152162) | Opus 5.5 | [@trq212](https://x.com/trq212) | 1:35 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102477340920152162) |
-| [根据营销邮件制作的动感广告视频](https://x.com/gastypm/status/2102863204472799549) | Opus 5.5 | [@gastypm](https://x.com/gastypm) | 0:20 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102863204472799549) |
+| [跨平台磁盘清理应用](https://x.com/0xMovez/status/2115870373300326503) | Opus 5.5 | [@0xMovez](https://x.com/0xMovez) | 0:35 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2115870373300326503) |
 
 ## 科普讲解
 
-221 个作品 · [完整清单](cases/education.zh-CN.md)
+223 个作品 · [完整清单](cases/education.zh-CN.md)
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ X 上用 Claude Opus 5.5、Sonnet 5.5、Haiku 5.5 和 Fable 5.5（内测中、�
 
 ## 角色故事
 
-240 个作品 · [完整清单](cases/stories.zh-CN.md)
+245 个作品 · [完整清单](cases/stories.zh-CN.md)
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -86,13 +86,13 @@ X 上用 Claude Opus 5.5、Sonnet 5.5、Haiku 5.5 和 Fable 5.5（内测中、�
 | [预测未来50年的视频](https://x.com/andrewjiang/status/2102987981695132140) | Opus 5.5 | [@andrewjiang](https://x.com/andrewjiang) | 4:00 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102987981695132140) |
 | [AI自我介绍歌曲与视频](https://x.com/johnknopf/status/2103698854399099057) | Opus 5.5 | [@johnknopf](https://x.com/johnknopf) | 5:25 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103698854399099057) |
 | [奥斯特里茨战役程序化生成影片](https://x.com/WinterArc2125/status/2103116235009347650) | Opus 5.5 | [@WinterArc2125](https://x.com/WinterArc2125) | 5:01 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103116235009347650) |
-| [Claude用代码演绎自己的成长故事](https://x.com/shfred0/status/2102495989194236158) | Opus 5.5 | [@shfred0](https://x.com/shfred0) | 0:30 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102495989194236158) |
+| [想象中的社媒信息流动画](https://x.com/pleometric/status/2102572941699354900) | Opus 5.5 | [@pleometric](https://x.com/pleometric) | 0:47 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102572941699354900) |
 | [小红狐唤醒被遗忘的图书馆](https://x.com/chetaslua/status/2117224839010459987) | Opus 5.5 / Fable 5.5 (preview) | [@chetaslua](https://x.com/chetaslua) | 0:58 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2117224839010459987) |
-| [奇点体验可视化短片](https://x.com/dirtman/status/2103686605517287620) | Opus 5.5 | [@dirtman](https://x.com/dirtman) | 2:26 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103686605517287620) |
+| [Claude用代码演绎自己的成长故事](https://x.com/shfred0/status/2102495989194236158) | Opus 5.5 | [@shfred0](https://x.com/shfred0) | 0:30 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102495989194236158) |
 
 ## 3D 场景
 
-440 个作品 · [完整清单](cases/art3d.zh-CN.md)
+446 个作品 · [完整清单](cases/art3d.zh-CN.md)
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -107,7 +107,7 @@ X 上用 Claude Opus 5.5、Sonnet 5.5、Haiku 5.5 和 Fable 5.5（内测中、�
 
 ## 游戏
 
-466 个作品 · [完整清单](cases/game.zh-CN.md)
+469 个作品 · [完整清单](cases/game.zh-CN.md)
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -122,7 +122,7 @@ X 上用 Claude Opus 5.5、Sonnet 5.5、Haiku 5.5 和 Fable 5.5（内测中、�
 
 ## 制作流程
 
-180 个作品 · [完整清单](cases/production.zh-CN.md)
+182 个作品 · [完整清单](cases/production.zh-CN.md)
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -137,7 +137,7 @@ X 上用 Claude Opus 5.5、Sonnet 5.5、Haiku 5.5 和 Fable 5.5（内测中、�
 
 ## 模型对比
 
-480 个作品 · [完整清单](cases/comparison.zh-CN.md)
+483 个作品 · [完整清单](cases/comparison.zh-CN.md)
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
