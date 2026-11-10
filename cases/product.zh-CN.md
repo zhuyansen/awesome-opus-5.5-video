@@ -1,6 +1,6 @@
 # 产品广告
 
-共 259 个作品，其中 48 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 262 个作品，其中 49 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [交互式房间布局与室内设计工具](https://x.com/RyanSael/status/2104155582555165055) | Opus 5.5 | [@RyanSael](https://x.com/RyanSael) | 0:36 | — |
 | [用逻辑门搭建的可运行电脑及操作系统](https://x.com/mattshumer_/status/2104301990985498783) | Opus 5.5 | [@mattshumer_](https://x.com/mattshumer_) | 1:02 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104301990985498783) |
 | [咖啡店网站概念设计](https://x.com/DilumSanjaya/status/2111864428010582082) | Opus 5.5 | [@DilumSanjaya](https://x.com/DilumSanjaya) | 1:03 | — |
+| [明暗模式切换按钮设计](https://x.com/chetaslua/status/2119353034165891308) | Opus 5.5 | [@chetaslua](https://x.com/chetaslua) | 0:49 | — |
 | [Cinecode 自我宣传短片](https://x.com/sarpstar/status/2118006090088517853) | Opus 5.5 | [@sarpstar](https://x.com/sarpstar) | 1:20 | — |
 | [3D健身器材搭建应用](https://x.com/wesbos/status/2102450119975277027) | Opus 5.5 | [@wesbos](https://x.com/wesbos) | 0:18 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102450119975277027) |
 | [角色创建器滑块演示](https://x.com/magnific/status/2104587476014964879) | Opus 5.5 | [@magnific](https://x.com/magnific) | 0:20 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104587476014964879) |
@@ -182,6 +183,7 @@
 | [Meta VR 眼镜视频方案合集](https://x.com/mouri45/status/2107036053949575311) | Opus 5.5 | [@mouri45](https://x.com/mouri45) | 4:46 | — |
 | [十条AI生成的UGC带货广告](https://x.com/jakecastilloooo/status/2112552356210778380) | Opus 5.5 | [@jakecastilloooo](https://x.com/jakecastilloooo) | 0:08 | — |
 | [非官方特斯拉Roadster广告](https://x.com/kevin_t_ngo/status/2111887585639624828) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 1:05 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2111887585639624828) |
+| [界面复刻演示](https://x.com/yyyole/status/2119439631330726244) | Opus 5.5 | [@yyyole](https://x.com/yyyole) | 0:14 | — |
 | [根据PDF指南一小时完成的作品](https://x.com/seeconvm/status/2116138303028138040) | Opus 5.5 | [@seeconvm](https://x.com/seeconvm) | 0:18 | — |
 | [Chipper品牌动态广告](https://x.com/Aygramm_/status/2115759392192659746) | Opus 5.5 | [@Aygramm_](https://x.com/Aygramm_) | 0:30 | — |
 | [从2D平面图制作的房地产视频](https://x.com/techhalla/status/2105376621737746716) | Opus 5.5 | [@techhalla](https://x.com/techhalla) | 0:37 | — |
@@ -251,6 +253,7 @@
 | [安卓版达芬奇调色风格应用](https://x.com/4k_isn/status/2110398564610523199) | Opus 5.5 | [@4k_isn](https://x.com/4k_isn) | 1:42 | — |
 | [动物乐队音乐播放器应用](https://x.com/ring_hyacinth/status/2109611621719109920) | Opus 5.5 | [@ring_hyacinth](https://x.com/ring_hyacinth) | 1:17 | — |
 | [粉丝站宣传视频](https://x.com/nek0n0tem0/status/2103637250420658403) | Opus 5.5 | [@nek0n0tem0](https://x.com/nek0n0tem0) | 0:15 | — |
+| [代码绘制的二维卡通故事广告](https://x.com/caesarscales/status/2119554953018773795) | Opus 5.5 | [@caesarscales](https://x.com/caesarscales) | 0:50 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2119554953018773795) |
 | [用自定义Skill生成产品宣传片](https://x.com/berryxia/status/2103419787565216023) | Opus 5.5 | [@berryxia](https://x.com/berryxia) | 1:01 | — |
 | [自动生成的新功能演示视频](https://x.com/okkshitij/status/2103570489071608061) | Opus 5.5 | [@okkshitij](https://x.com/okkshitij) | 0:37 | — |
 | [海外剧集介绍视频](https://x.com/hAru_mAki_ch/status/2103789217147240824) | Opus 5.5 | [@hAru_mAki_ch](https://x.com/hAru_mAki_ch) | 0:15 | — |

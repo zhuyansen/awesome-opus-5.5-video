@@ -1,6 +1,6 @@
 # Music, editing & production
 
-182 works, 32 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+184 works, 32 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Archival footage music video edit](https://x.com/bitstein/status/2104040489301295502) | Opus 5.5 | [@bitstein](https://x.com/bitstein) | 1:54 | — |
 | [Bilingual Gossip Video](https://x.com/dotey/status/2106144184449085474) | Opus 5.5 | [@dotey](https://x.com/dotey) | 5:51 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2106144184449085474) |
 | [Automated branded video edit with voice sync](https://x.com/Aykutuces/status/2110019799342260630) | Opus 5.5 | [@Aykutuces](https://x.com/Aykutuces) | 1:14 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2110019799342260630) |
+| [Multi-agent animated film](https://x.com/tetsuoai/status/2119341048367665201) | Opus 5.5 | [@tetsuoai](https://x.com/tetsuoai) | 5:26 | — |
 | [Recreating a video as an editable After Effects project](https://x.com/gmharhar/status/2107936315081986480) | Opus 5.5 | [@gmharhar](https://x.com/gmharhar) | 0:20 | — |
 | [AI-generated video animatics for lesson planning](https://x.com/mattpocockuk/status/2105212971307667862) | Opus 5.5 | [@mattpocockuk](https://x.com/mattpocockuk) | 8:31 | — |
 | [Dancing character clip with added camera work and sound](https://x.com/29meat_ai/status/2115038221801570564) | Opus 5.5 | [@29meat_ai](https://x.com/29meat_ai) | 0:20 | — |
@@ -163,6 +164,7 @@
 | [Agent-driven video edit with custom SFX skill](https://x.com/stxrmye/status/2110190072628642204) | Opus 5.5 | [@stxrmye](https://x.com/stxrmye) | 0:31 | — |
 | [Code-generated music video](https://x.com/kloss_xyz/status/2112006151885705553) | Opus 5.5 | [@kloss_xyz](https://x.com/kloss_xyz) | 2:16 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2112006151885705553) |
 | [Lyric music video built with Opus 5.5 and EffectCraft](https://x.com/wtry1102/status/2107744155007062101) | Opus 5.5 | [@wtry1102](https://x.com/wtry1102) | 1:51 | — |
+| [After Effects animated graph compositions](https://x.com/eback_4u/status/2119303823185612826) | Opus 5.5 | [@eback_4u](https://x.com/eback_4u) | 0:11 | — |
 | [Automated three-minute AI news explainer video](https://x.com/old_pgmrs_will/status/2108908117874635170) | Opus 5.5 | [@old_pgmrs_will](https://x.com/old_pgmrs_will) | 2:53 | — |
 | [Music video made with Suno MCP](https://x.com/Ayu_AI_0912/status/2117930777413603598) | Opus 5.5 | [@Ayu_AI_0912](https://x.com/Ayu_AI_0912) | 1:13 | — |
 | [Excel stop-motion animation with Blender](https://x.com/aicreataro/status/2109892378383540394) | Opus 5.5 | [@aicreataro](https://x.com/aicreataro) | 1:01 | — |

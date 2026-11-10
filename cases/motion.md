@@ -1,6 +1,6 @@
 # Motion graphics & UI
 
-344 works, 93 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+350 works, 93 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Attempt to match a reference motion design](https://x.com/makwanatejas170/status/2103922986155917592) | Opus 5.5 | [@makwanatejas170](https://x.com/makwanatejas170) | 0:16 | — |
 | [Animation examples for promo and course videos](https://x.com/mahiru35628/status/2102802579499700704) | Opus 5.5 | [@mahiru35628](https://x.com/mahiru35628) | 0:45 | — |
 | [Animated pixel art Halloween diorama](https://x.com/zer0point_eth/status/2116832762912973220) | Opus 5.5 | [@zer0point_eth](https://x.com/zer0point_eth) | 0:13 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2116832762912973220) |
+| [Code-generated frame animation](https://x.com/LexnLin/status/2119558994352304202) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 0:37 | — |
 | [Four-minute 2D animation made with up to 15 agents](https://x.com/ALSK_ai/status/2103135536634630632) | Opus 5.5 | [@ALSK_ai](https://x.com/ALSK_ai) | 1:00 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103135536634630632) |
 | [Code-generated pixel art effects](https://x.com/rehan_shei/status/2116062680121540611) | Opus 5.5 | [@rehan_shei](https://x.com/rehan_shei) | 0:40 | — |
 | [Distilbook motion graphics showreel](https://x.com/ajith_io/status/2103469807375208546) | Opus 5.5 | [@ajith_io](https://x.com/ajith_io) | 0:40 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103469807375208546) |
@@ -150,6 +151,7 @@
 | [Symbol-based lyric motion graphics](https://x.com/8co28/status/2102680701762216081) | Opus 5.5 | [@8co28](https://x.com/8co28) | 0:30 | — |
 | [Promotional mascot motion graphics video](https://x.com/patchy_dog/status/2103862188624785635) | Opus 5.5 | [@patchy_dog](https://x.com/patchy_dog) | 0:18 | — |
 | [Company commercial motion graphic](https://x.com/showheyohtaki/status/2104095944686051492) | Opus 5.5 | [@showheyohtaki](https://x.com/showheyohtaki) | 0:30 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104095944686051492) |
+| [Animated light and dark mode interface](https://x.com/chetaslua/status/2119499941185986722) | Opus 5.5 | [@chetaslua](https://x.com/chetaslua) | 0:24 | — |
 | [Motion graphics before and after design coaching](https://x.com/ddmonyai/status/2118341924516139342) | Opus 5.5 | [@ddmonyai](https://x.com/ddmonyai) | 1:57 | — |
 | [90-second motion design and sound demo](https://x.com/kloss_xyz/status/2103624187017572421) | Opus 5.5 | [@kloss_xyz](https://x.com/kloss_xyz) | 0:26 | — |
 | [Generated animated clip](https://x.com/driftauz/status/2111109055955763570) | Opus 5.5 | [@driftauz](https://x.com/driftauz) | 0:12 | — |
@@ -196,6 +198,7 @@
 | [Claude-made showreel](https://x.com/kloss_xyz/status/2116296321313521795) | Opus 5.5 | [@kloss_xyz](https://x.com/kloss_xyz) | 1:30 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2116296321313521795) |
 | [Professional-quality single-prompt creation](https://x.com/ailker/status/2103523453810921944) | Opus 5.5 | [@ailker](https://x.com/ailker) | 0:24 | — |
 | [Keyboard typing animation without keyframes](https://x.com/seeconvm/status/2110770664101527568) | Opus 5.5 | [@seeconvm](https://x.com/seeconvm) | 0:12 | — |
+| [Painted paper texture animation](https://x.com/kevin_t_ngo/status/2119436039488156158) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 0:38 | — |
 | [Logo reveal motion design for TypingMind](https://x.com/tdinh_me/status/2103704250329301409) | Opus 5.5 | [@tdinh_me](https://x.com/tdinh_me) | 0:21 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103704250329301409) |
 | [Code-painted animation](https://x.com/chetaslua/status/2106833074302710023) | Fable 5.5 (preview) | [@chetaslua](https://x.com/chetaslua) | 0:44 | — |
 | [Unity particle VFX logo transformation](https://x.com/_3912657840/status/2103417471063736729) | Opus 5.5 | [@_3912657840](https://x.com/_3912657840) | 0:07 | — |
@@ -216,6 +219,7 @@
 | [Pure code animation from a single prompt](https://x.com/PawelJLisowski/status/2117254471566622824) | Opus 5.5 / Fable 5.5 (preview) | [@PawelJLisowski](https://x.com/PawelJLisowski) | 1:17 | — |
 | [Motion design animation recreation](https://x.com/kaif9998/status/2109923678607876522) | Opus 5.5 | [@kaif9998](https://x.com/kaif9998) | 0:29 | — |
 | [GrokBot motion animation](https://x.com/0xMovez/status/2106078367833591915) | Opus 5.5 | [@0xMovez](https://x.com/0xMovez) | 2:12 | — |
+| [Stylized rhythmic dance animation](https://x.com/grmchn4ai/status/2119544045064356134) | Opus 5.5 | [@grmchn4ai](https://x.com/grmchn4ai) | 0:08 | — |
 | [Self-portrait website with piano score and spiral line](https://x.com/chetaslua/status/2108902793797091808) | Opus 5.5 | [@chetaslua](https://x.com/chetaslua) | 0:53 | — |
 | [Single-prompt AI-generated video](https://x.com/akshaymarch7/status/2103546306849644678) | Opus 5.5 | [@akshaymarch7](https://x.com/akshaymarch7) | 0:52 | — |
 | [30-second showreel as a niche branding agency](https://x.com/jacksonfall/status/2103925420211229164) | Opus 5.5 | [@jacksonfall](https://x.com/jacksonfall) | 0:36 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103925420211229164) |
@@ -328,6 +332,7 @@
 | [Launch motion video for mounis.app](https://x.com/MustaphaFenzar/status/2103708363074973906) | Opus 5.5 | [@MustaphaFenzar](https://x.com/MustaphaFenzar) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103708363074973906) |
 | [After Effects-style animation effects showcase](https://x.com/nakazakifam/status/2114202745636852063) | Opus 5.5 | [@nakazakifam](https://x.com/nakazakifam) | 0:24 | — |
 | [UI animation combining multiple AI tools](https://x.com/yitong/status/2110463528754880952) | Opus 5.5 | [@yitong](https://x.com/yitong) | 0:14 | — |
+| [Addictive motion graphic](https://x.com/nono_ai_archive/status/2119361788810875016) | Opus 5.5 | [@nono_ai_archive](https://x.com/nono_ai_archive) | 0:15 | — |
 | [Chaotic brain-rot style motion video](https://x.com/kloss_xyz/status/2103664956482941143) | Opus 5.5 | [@kloss_xyz](https://x.com/kloss_xyz) | 2:34 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103664956482941143) |
 | [Flat illustration mole animation via code](https://x.com/onofumi_AI/status/2102696204249526348) | Opus 5.5 | [@onofumi_AI](https://x.com/onofumi_AI) | 0:20 | — |
 | [Funny face photos animated with code](https://x.com/jAlpha_create/status/2103787665569272247) | Opus 5.5 | [@jAlpha_create](https://x.com/jAlpha_create) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103787665569272247) |
@@ -341,6 +346,7 @@
 | [Code-drawn animation pipeline demo](https://x.com/p2ecoin91/status/2103398218793168921) | Opus 5.5 | [@p2ecoin91](https://x.com/p2ecoin91) | 2:37 | — |
 | [Animated wireframe diver](https://x.com/devteamdrew/status/2119100405892190657) | Opus 5.5 | [@devteamdrew](https://x.com/devteamdrew) | 0:23 | — |
 | [AR soccer passing lane analysis](https://x.com/virtual_amir/status/2106387068070826373) | Opus 5.5 | [@virtual_amir](https://x.com/virtual_amir) | 0:31 | — |
+| [Bakumatsu-era first-person shooter video](https://x.com/CHIBIKURO_QnQ/status/2119399349511934269) | Opus 5.5 | [@CHIBIKURO_QnQ](https://x.com/CHIBIKURO_QnQ) | 0:30 | — |
 | [Short animation](https://x.com/fakharkamario/status/2110218646689599861) | Opus 5.5 | [@fakharkamario](https://x.com/fakharkamario) | 0:10 | — |
 | [Burger brand motion graphic](https://x.com/Aygramm_/status/2119080450287423996) | Opus 5.5 | [@Aygramm_](https://x.com/Aygramm_) | 0:20 | — |
 | [Impressive AI demo reaction video](https://x.com/dcbruck/status/2103549268321783859) | Opus 5.5 | [@dcbruck](https://x.com/dcbruck) | 0:15 | — |

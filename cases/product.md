@@ -1,6 +1,6 @@
 # Product demos & ads
 
-259 works, 48 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+262 works, 49 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Interactive room layout and interior design tool](https://x.com/RyanSael/status/2104155582555165055) | Opus 5.5 | [@RyanSael](https://x.com/RyanSael) | 0:36 | — |
 | [Working computer built from logic gates with OS](https://x.com/mattshumer_/status/2104301990985498783) | Opus 5.5 | [@mattshumer_](https://x.com/mattshumer_) | 1:02 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104301990985498783) |
 | [Coffee shop website concept](https://x.com/DilumSanjaya/status/2111864428010582082) | Opus 5.5 | [@DilumSanjaya](https://x.com/DilumSanjaya) | 1:03 | — |
+| [Light and dark mode toggle designs](https://x.com/chetaslua/status/2119353034165891308) | Opus 5.5 | [@chetaslua](https://x.com/chetaslua) | 0:49 | — |
 | [Cinecode self-promotional film](https://x.com/sarpstar/status/2118006090088517853) | Opus 5.5 | [@sarpstar](https://x.com/sarpstar) | 1:20 | — |
 | [3D gym equipment builder app](https://x.com/wesbos/status/2102450119975277027) | Opus 5.5 | [@wesbos](https://x.com/wesbos) | 0:18 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102450119975277027) |
 | [Character builder with sliders demo](https://x.com/magnific/status/2104587476014964879) | Opus 5.5 | [@magnific](https://x.com/magnific) | 0:20 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104587476014964879) |
@@ -182,6 +183,7 @@
 | [Meta VR Glasses video variations](https://x.com/mouri45/status/2107036053949575311) | Opus 5.5 | [@mouri45](https://x.com/mouri45) | 4:46 | — |
 | [Ten AI-generated UGC product ads](https://x.com/jakecastilloooo/status/2112552356210778380) | Opus 5.5 | [@jakecastilloooo](https://x.com/jakecastilloooo) | 0:08 | — |
 | [Unofficial Tesla Roadster commercial](https://x.com/kevin_t_ngo/status/2111887585639624828) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 1:05 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2111887585639624828) |
+| [Replicated interface demo](https://x.com/yyyole/status/2119439631330726244) | Opus 5.5 | [@yyyole](https://x.com/yyyole) | 0:14 | — |
 | [One-hour build from a PDF guide](https://x.com/seeconvm/status/2116138303028138040) | Opus 5.5 | [@seeconvm](https://x.com/seeconvm) | 0:18 | — |
 | [Motion ads for Chipper](https://x.com/Aygramm_/status/2115759392192659746) | Opus 5.5 | [@Aygramm_](https://x.com/Aygramm_) | 0:30 | — |
 | [Real estate video from 2D floor plan](https://x.com/techhalla/status/2105376621737746716) | Opus 5.5 | [@techhalla](https://x.com/techhalla) | 0:37 | — |
@@ -251,6 +253,7 @@
 | [DaVinci Resolve style app for Android](https://x.com/4k_isn/status/2110398564610523199) | Opus 5.5 | [@4k_isn](https://x.com/4k_isn) | 1:42 | — |
 | [Animal band music player app](https://x.com/ring_hyacinth/status/2109611621719109920) | Opus 5.5 | [@ring_hyacinth](https://x.com/ring_hyacinth) | 1:17 | — |
 | [Fan site promotional video](https://x.com/nek0n0tem0/status/2103637250420658403) | Opus 5.5 | [@nek0n0tem0](https://x.com/nek0n0tem0) | 0:15 | — |
+| [2D cartoon story ad drawn in code](https://x.com/caesarscales/status/2119554953018773795) | Opus 5.5 | [@caesarscales](https://x.com/caesarscales) | 0:50 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2119554953018773795) |
 | [Product promo video via custom Skill](https://x.com/berryxia/status/2103419787565216023) | Opus 5.5 | [@berryxia](https://x.com/berryxia) | 1:01 | — |
 | [Auto-generated feature demo videos](https://x.com/okkshitij/status/2103570489071608061) | Opus 5.5 | [@okkshitij](https://x.com/okkshitij) | 0:37 | — |
 | [Foreign drama series intro video](https://x.com/hAru_mAki_ch/status/2103789217147240824) | Opus 5.5 | [@hAru_mAki_ch](https://x.com/hAru_mAki_ch) | 0:15 | — |

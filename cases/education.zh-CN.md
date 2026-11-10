@@ -1,6 +1,6 @@
 # 科普讲解
 
-共 223 个作品，其中 56 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 229 个作品，其中 58 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [互动电学物理书](https://x.com/techartist_/status/2117659337057517831) | Opus 5.5 | [@techartist_](https://x.com/techartist_) | 0:34 | — |
 | [随机微分方程讲解视频](https://x.com/tommy_love123/status/2103263710517350418) | Opus 5.5 | [@tommy_love123](https://x.com/tommy_love123) | 8:01 | — |
 | [贝多芬失聪纪录短片](https://x.com/naometzger/status/2117313324576821613) | Opus 5.5 | [@naometzger](https://x.com/naometzger) | 0:28 | — |
+| [如果太阳消失了：动画科普片](https://x.com/treyscalez/status/2119489762134295014) | Opus 5.5 | [@treyscalez](https://x.com/treyscalez) | 1:07 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2119489762134295014) |
 | [ESP32电路互动入门课](https://x.com/DilumSanjaya/status/2114762155333689679) | Opus 5.5 | [@DilumSanjaya](https://x.com/DilumSanjaya) | 1:47 | — |
 | [三分钟讲述五千年印度历史](https://x.com/HindolSengupta/status/2103489466841362886) | Opus 5.5 | [@HindolSengupta](https://x.com/HindolSengupta) | 3:43 | — |
 | [动漫风格科普讲解视频](https://x.com/emollick/status/2103272686570918334) | Opus 5.5 | [@emollick](https://x.com/emollick) | 2:07 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103272686570918334) |
@@ -105,6 +106,7 @@
 | [密码与通行密钥互动讲解视频](https://x.com/Tz_2022/status/2102838830285898214) | Opus 5.5 | [@Tz_2022](https://x.com/Tz_2022) | 4:09 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102838830285898214) |
 | [驱动蛋白粘土动画讲解](https://x.com/JacobMolBio/status/2102569129026916389) | Opus 5.5 | [@JacobMolBio](https://x.com/JacobMolBio) | 0:23 | — |
 | [燃气轮机历史讲解视频](https://x.com/Xaraphim/status/2103576037426917779) | Opus 5.5 | [@Xaraphim](https://x.com/Xaraphim) | 2:08 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103576037426917779) |
+| [阿尔·卡彭纪录短片](https://x.com/exploraX_/status/2119350502961889592) | Opus 5.5 | [@exploraX_](https://x.com/exploraX_) | 5:22 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2119350502961889592) |
 | [动物细胞生命过程图](https://x.com/kevin_t_ngo/status/2116423724379656329) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 0:44 | — |
 | [Opus 5.5自我介绍讲解视频](https://x.com/_caty2_/status/2102473582333050959) | Opus 5.5 | [@_caty2_](https://x.com/_caty2_) | 1:18 | — |
 | [逐帧绘制的蜜蜂一生动画](https://x.com/kevin_t_ngo/status/2109766087328100521) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 0:53 | — |
@@ -161,6 +163,7 @@
 | [自行车刹车原理3D讲解](https://x.com/RyanSael/status/2107111191210520608) | Opus 5.5 | [@RyanSael](https://x.com/RyanSael) | 0:40 | — |
 | [Anthropic上市招股书要点解读视频](https://x.com/tunguz/status/2114756330997055501) | Opus 5.5 | [@tunguz](https://x.com/tunguz) | 4:46 | — |
 | [达喀尔战役二战纪录短片](https://x.com/PapeDudu_ndoye/status/2111869029623157109) | Opus 5.5 | [@PapeDudu_ndoye](https://x.com/PapeDudu_ndoye) | 3:15 | — |
+| [可拆解的手摇卷笔刀互动演示](https://x.com/Nyxera0x/status/2119386456607031460) | Opus 5.5 | [@Nyxera0x](https://x.com/Nyxera0x) | 0:24 | — |
 | [讲解9条足球规则的科普视频](https://x.com/lukasersil/status/2105922894924501283) | Opus 5.5 | [@lukasersil](https://x.com/lukasersil) | 1:09 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2105922894924501283) |
 | [给孩子讲解四季与昼夜循环的科普视频](https://x.com/KashPrime/status/2103862007208591605) | Opus 5.5 | [@KashPrime](https://x.com/KashPrime) | 3:06 | — |
 | [人类历史动画](https://x.com/blueemi99/status/2106041578204655748) | Fable 5.5 (preview) | [@blueemi99](https://x.com/blueemi99) | 2:00 | — |
@@ -187,6 +190,7 @@
 | [OpenAI三项新发现讲解视频](https://x.com/iScienceLuvr/status/2114896177099657535) | Opus 5.5 | [@iScienceLuvr](https://x.com/iScienceLuvr) | 8:56 | — |
 | [北京城历史变迁地图科普视频](https://x.com/KinGao476942/status/2112486220249133118) | Opus 5.5 | [@KinGao476942](https://x.com/KinGao476942) | 2:26 | — |
 | [互动式客机系统科普](https://x.com/techartist_/status/2116213592068632863) | Opus 5.5 | [@techartist_](https://x.com/techartist_) | 0:29 | — |
+| [日语词语用法讲解](https://x.com/kazur71507359/status/2119571954525184317) | Opus 5.5 | [@kazur71507359](https://x.com/kazur71507359) | 0:25 | — |
 | [伊斯坦布尔历史地图互动项目](https://x.com/cahidarda/status/2103218970115678497) | Opus 5.5 | [@cahidarda](https://x.com/cahidarda) | 0:10 | — |
 | [特斯拉Roadster科普讲解视频](https://x.com/KeWai386772/status/2111440772998599022) | Opus 5.5 | [@KeWai386772](https://x.com/KeWai386772) | 2:54 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2111440772998599022) |
 | [板块漂移主题音乐动画视频](https://x.com/kevin_t_ngo/status/2108208479358026208) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 2:21 | — |
@@ -225,5 +229,7 @@
 | [跑车倒挂行驶原理动画解析](https://x.com/andreysuperior/status/2113323122682163307) | Opus 5.5 | [@andreysuperior](https://x.com/andreysuperior) | 0:45 | — |
 | [互动光学学习应用](https://x.com/techartist_/status/2119120307458097260) | Opus 5.5 | [@techartist_](https://x.com/techartist_) | 0:30 | — |
 | [面包板原理讲解视频](https://x.com/sparklabhq/status/2118479089807888796) | Opus 5.5 | [@sparklabhq](https://x.com/sparklabhq) | 0:53 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2118479089807888796) |
+| [小学科学力的讲解动画](https://x.com/AdamPrabata/status/2119417363661775293) | Opus 5.5 | [@AdamPrabata](https://x.com/AdamPrabata) | 1:00 | — |
 | [热钱包与冷钱包区别讲解视频](https://x.com/sergitosergito/status/2103835390998388796) | Opus 5.5 | [@sergitosergito](https://x.com/sergitosergito) | 1:36 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103835390998388796) |
 | [浏览器中的3D电子实验台](https://x.com/ruizemanueldev/status/2118183814815994174) | Opus 5.5 | [@ruizemanueldev](https://x.com/ruizemanueldev) | 0:57 | — |
+| [交互式V8发动机模拟器](https://x.com/elvar_official/status/2119492039255749069) | Opus 5.5 | [@elvar_official](https://x.com/elvar_official) | 0:26 | — |

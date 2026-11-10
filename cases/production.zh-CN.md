@@ -1,6 +1,6 @@
 # 制作流程
 
-共 182 个作品，其中 32 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 184 个作品，其中 32 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [档案影像混剪音乐短片](https://x.com/bitstein/status/2104040489301295502) | Opus 5.5 | [@bitstein](https://x.com/bitstein) | 1:54 | — |
 | [双语八卦视频](https://x.com/dotey/status/2106144184449085474) | Opus 5.5 | [@dotey](https://x.com/dotey) | 5:51 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2106144184449085474) |
 | [基于语音同步的自动化品牌视频剪辑](https://x.com/Aykutuces/status/2110019799342260630) | Opus 5.5 | [@Aykutuces](https://x.com/Aykutuces) | 1:14 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2110019799342260630) |
+| [多智能体制作动画电影](https://x.com/tetsuoai/status/2119341048367665201) | Opus 5.5 | [@tetsuoai](https://x.com/tetsuoai) | 5:26 | — |
 | [将视频复刻为可编辑的After Effects项目](https://x.com/gmharhar/status/2107936315081986480) | Opus 5.5 | [@gmharhar](https://x.com/gmharhar) | 0:20 | — |
 | [用于课程规划的AI动态分镜视频](https://x.com/mattpocockuk/status/2105212971307667862) | Opus 5.5 | [@mattpocockuk](https://x.com/mattpocockuk) | 8:31 | — |
 | [舞蹈角色视频的运镜与音效剪辑](https://x.com/29meat_ai/status/2115038221801570564) | Opus 5.5 | [@29meat_ai](https://x.com/29meat_ai) | 0:20 | — |
@@ -163,6 +164,7 @@
 | [基于自定义音效技能的智能体视频剪辑](https://x.com/stxrmye/status/2110190072628642204) | Opus 5.5 | [@stxrmye](https://x.com/stxrmye) | 0:31 | — |
 | [代码生成音乐视频](https://x.com/kloss_xyz/status/2112006151885705553) | Opus 5.5 | [@kloss_xyz](https://x.com/kloss_xyz) | 2:16 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2112006151885705553) |
 | [用Opus 5.5和EffectCraft制作的歌词MV](https://x.com/wtry1102/status/2107744155007062101) | Opus 5.5 | [@wtry1102](https://x.com/wtry1102) | 1:51 | — |
+| [After Effects 动态图表合成](https://x.com/eback_4u/status/2119303823185612826) | Opus 5.5 | [@eback_4u](https://x.com/eback_4u) | 0:11 | — |
 | [全自动生成的三分钟AI新闻解说视频](https://x.com/old_pgmrs_will/status/2108908117874635170) | Opus 5.5 | [@old_pgmrs_will](https://x.com/old_pgmrs_will) | 2:53 | — |
 | [借助Suno MCP制作的音乐MV](https://x.com/Ayu_AI_0912/status/2117930777413603598) | Opus 5.5 | [@Ayu_AI_0912](https://x.com/Ayu_AI_0912) | 1:13 | — |
 | [Excel定格动画结合Blender制作](https://x.com/aicreataro/status/2109892378383540394) | Opus 5.5 | [@aicreataro](https://x.com/aicreataro) | 1:01 | — |

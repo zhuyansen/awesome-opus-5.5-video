@@ -1,6 +1,6 @@
 # Explainers & education
 
-223 works, 56 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+229 works, 58 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Interactive electricity physics book](https://x.com/techartist_/status/2117659337057517831) | Opus 5.5 | [@techartist_](https://x.com/techartist_) | 0:34 | — |
 | [Stochastic differential equations explainer](https://x.com/tommy_love123/status/2103263710517350418) | Opus 5.5 | [@tommy_love123](https://x.com/tommy_love123) | 8:01 | — |
 | [Documentary reel on Beethoven going deaf](https://x.com/naometzger/status/2117313324576821613) | Opus 5.5 | [@naometzger](https://x.com/naometzger) | 0:28 | — |
+| [What if the Sun vanished explainer](https://x.com/treyscalez/status/2119489762134295014) | Opus 5.5 | [@treyscalez](https://x.com/treyscalez) | 1:07 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2119489762134295014) |
 | [Interactive ESP32 circuit lessons](https://x.com/DilumSanjaya/status/2114762155333689679) | Opus 5.5 | [@DilumSanjaya](https://x.com/DilumSanjaya) | 1:47 | — |
 | [5,000 years of Indian history in three minutes](https://x.com/HindolSengupta/status/2103489466841362886) | Opus 5.5 | [@HindolSengupta](https://x.com/HindolSengupta) | 3:43 | — |
 | [Anime-style explainer remix video](https://x.com/emollick/status/2103272686570918334) | Opus 5.5 | [@emollick](https://x.com/emollick) | 2:07 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103272686570918334) |
@@ -105,6 +106,7 @@
 | [Password vs passkey interactive explainer](https://x.com/Tz_2022/status/2102838830285898214) | Opus 5.5 | [@Tz_2022](https://x.com/Tz_2022) | 4:09 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102838830285898214) |
 | [Kinesin motor protein claymation](https://x.com/JacobMolBio/status/2102569129026916389) | Opus 5.5 | [@JacobMolBio](https://x.com/JacobMolBio) | 0:23 | — |
 | [History of gas turbines explainer](https://x.com/Xaraphim/status/2103576037426917779) | Opus 5.5 | [@Xaraphim](https://x.com/Xaraphim) | 2:08 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103576037426917779) |
+| [Al Capone documentary film](https://x.com/exploraX_/status/2119350502961889592) | Opus 5.5 | [@exploraX_](https://x.com/exploraX_) | 5:22 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2119350502961889592) |
 | [Animal cell life diagram](https://x.com/kevin_t_ngo/status/2116423724379656329) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 0:44 | — |
 | [Explainer video about Opus 5.5 made by itself](https://x.com/_caty2_/status/2102473582333050959) | Opus 5.5 | [@_caty2_](https://x.com/_caty2_) | 1:18 | — |
 | [Frame-by-frame animation of a honey bee's life](https://x.com/kevin_t_ngo/status/2109766087328100521) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 0:53 | — |
@@ -161,6 +163,7 @@
 | [3D bike brake mechanics explainer](https://x.com/RyanSael/status/2107111191210520608) | Opus 5.5 | [@RyanSael](https://x.com/RyanSael) | 0:40 | — |
 | [Explainer video on Anthropic's S-1 filing highlights](https://x.com/tunguz/status/2114756330997055501) | Opus 5.5 | [@tunguz](https://x.com/tunguz) | 4:46 | — |
 | [Battle of Dakar WWII documentary video](https://x.com/PapeDudu_ndoye/status/2111869029623157109) | Opus 5.5 | [@PapeDudu_ndoye](https://x.com/PapeDudu_ndoye) | 3:15 | — |
+| [Interactive crank pencil sharpener](https://x.com/Nyxera0x/status/2119386456607031460) | Opus 5.5 | [@Nyxera0x](https://x.com/Nyxera0x) | 0:24 | — |
 | [Explainer video of 9 football rules](https://x.com/lukasersil/status/2105922894924501283) | Opus 5.5 | [@lukasersil](https://x.com/lukasersil) | 1:09 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2105922894924501283) |
 | [Seasons and day/night cycle explainer for kids](https://x.com/KashPrime/status/2103862007208591605) | Opus 5.5 | [@KashPrime](https://x.com/KashPrime) | 3:06 | — |
 | [History of humanity animation](https://x.com/blueemi99/status/2106041578204655748) | Fable 5.5 (preview) | [@blueemi99](https://x.com/blueemi99) | 2:00 | — |
@@ -187,6 +190,7 @@
 | [Explainer on OpenAI's three new discoveries](https://x.com/iScienceLuvr/status/2114896177099657535) | Opus 5.5 | [@iScienceLuvr](https://x.com/iScienceLuvr) | 8:56 | — |
 | [Beijing historical map explainer video](https://x.com/KinGao476942/status/2112486220249133118) | Opus 5.5 | [@KinGao476942](https://x.com/KinGao476942) | 2:26 | — |
 | [Interactive airliner systems lesson](https://x.com/techartist_/status/2116213592068632863) | Opus 5.5 | [@techartist_](https://x.com/techartist_) | 0:29 | — |
+| [Japanese word usage explainer](https://x.com/kazur71507359/status/2119571954525184317) | Opus 5.5 | [@kazur71507359](https://x.com/kazur71507359) | 0:25 | — |
 | [Interactive historical map of Istanbul](https://x.com/cahidarda/status/2103218970115678497) | Opus 5.5 | [@cahidarda](https://x.com/cahidarda) | 0:10 | — |
 | [Tesla Roadster explainer video](https://x.com/KeWai386772/status/2111440772998599022) | Opus 5.5 | [@KeWai386772](https://x.com/KeWai386772) | 2:54 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2111440772998599022) |
 | [Plate tectonics music video animation](https://x.com/kevin_t_ngo/status/2108208479358026208) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 2:21 | — |
@@ -225,5 +229,7 @@
 | [How a roadster drives upside down on an inverted ramp](https://x.com/andreysuperior/status/2113323122682163307) | Opus 5.5 | [@andreysuperior](https://x.com/andreysuperior) | 0:45 | — |
 | [Interactive optics learning app](https://x.com/techartist_/status/2119120307458097260) | Opus 5.5 | [@techartist_](https://x.com/techartist_) | 0:30 | — |
 | [Breadboard explainer video](https://x.com/sparklabhq/status/2118479089807888796) | Opus 5.5 | [@sparklabhq](https://x.com/sparklabhq) | 0:53 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2118479089807888796) |
+| [Elementary science lesson on forces](https://x.com/AdamPrabata/status/2119417363661775293) | Opus 5.5 | [@AdamPrabata](https://x.com/AdamPrabata) | 1:00 | — |
 | [Hot vs cold crypto wallet explainer](https://x.com/sergitosergito/status/2103835390998388796) | Opus 5.5 | [@sergitosergito](https://x.com/sergitosergito) | 1:36 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103835390998388796) |
 | [Browser-based 3D electronics workbench](https://x.com/ruizemanueldev/status/2118183814815994174) | Opus 5.5 | [@ruizemanueldev](https://x.com/ruizemanueldev) | 0:57 | — |
+| [Interactive V8 engine simulator](https://x.com/elvar_official/status/2119492039255749069) | Opus 5.5 | [@elvar_official](https://x.com/elvar_official) | 0:26 | — |
