@@ -1,6 +1,6 @@
 # Motion graphics & UI
 
-350 works, 93 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+352 works, 93 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [VTuber motion graphics in 5 minutes](https://x.com/shimotti_ai/status/2103831579575587190) | Opus 5.5 | [@shimotti_ai](https://x.com/shimotti_ai) | 0:15 | — |
 | [Motion piece made with a design tool](https://x.com/javiiarchive/status/2103897550449516644) | Opus 5.5 | [@javiiarchive](https://x.com/javiiarchive) | 0:15 | — |
 | [Beat-Synced Motion Graphics Music Video](https://x.com/minchoi/status/2106946461980307633) | Opus 5.5 | [@minchoi](https://x.com/minchoi) | 4:30 | — |
+| [Line art animation](https://x.com/dhruvtwt_/status/2119845363058426066) | Opus 5.5 | [@dhruvtwt_](https://x.com/dhruvtwt_) | 0:30 | — |
 | [One-shot Blender animation by Opus 5.5](https://x.com/meowman_sol/status/2109637765684199564) | Opus 5.5 | [@meowman_sol](https://x.com/meowman_sol) | 0:40 | — |
 | [Short motion design video](https://x.com/blueemi99/status/2106031355922387163) | Opus 5.5 / Fable 5.5 (preview) | [@blueemi99](https://x.com/blueemi99) | 0:15 | — |
 | [Smooth interface animation](https://x.com/BreejeAnadkat/status/2112873177185660940) | Opus 5.5 | [@BreejeAnadkat](https://x.com/BreejeAnadkat) | 0:11 | — |
@@ -188,6 +189,7 @@
 | [One-shot video generated with Opus 5.5 and Codex](https://x.com/yuno_miyako2/status/2110016393886445964) | Opus 5.5 | [@yuno_miyako2](https://x.com/yuno_miyako2) | 1:00 | — |
 | [Dot-themed motion video](https://x.com/seiiiiiiiiiiru/status/2107018580265201724) | Opus 5.5 | [@seiiiiiiiiiiru](https://x.com/seiiiiiiiiiiru) | 0:15 | — |
 | [UI animation showcase](https://x.com/kevin_t_ngo/status/2111974919353544757) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 0:25 | — |
+| [Analog smartwatch motion advertisement](https://x.com/Toarukanshiin/status/2119898654609920095) | Opus 5.5 | [@Toarukanshiin](https://x.com/Toarukanshiin) | 0:20 | — |
 | [Interactive pixel art portfolio with butterflies and flowers](https://x.com/ann_nnng/status/2114717745443127698) | Opus 5.5 | [@ann_nnng](https://x.com/ann_nnng) | 0:24 | — |
 | [Quick ad video from one prompt](https://x.com/Nour_Sofanati/status/2103653780327641130) | Opus 5.5 | [@Nour_Sofanati](https://x.com/Nour_Sofanati) | 0:35 | — |
 | [Retro game card-reveal UX experiment](https://x.com/nickfromlater/status/2102504454721347822) | Opus 5.5 | [@nickfromlater](https://x.com/nickfromlater) | 0:16 | — |

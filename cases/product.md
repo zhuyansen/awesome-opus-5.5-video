@@ -1,6 +1,6 @@
 # Product demos & ads
 
-262 works, 49 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+264 works, 50 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Promo video recreated from a reference clip](https://x.com/servasyy_ai/status/2103785302288687268) | Opus 5.5 | [@servasyy_ai](https://x.com/servasyy_ai) | 0:29 | — |
 | [SaaS product trailer](https://x.com/javiiarchive/status/2103501151438323850) | Opus 5.5 | [@javiiarchive](https://x.com/javiiarchive) | 0:15 | — |
 | [Short animated demo clip](https://x.com/devteamdrew/status/2108254006036296116) | Sonnet 5.5 / Haiku 5.5 | [@devteamdrew](https://x.com/devteamdrew) | 0:32 | — |
+| [Cooking app interface design](https://x.com/BreejeAnadkat/status/2119750356703809727) | Opus 5.5 | [@BreejeAnadkat](https://x.com/BreejeAnadkat) | 0:10 | — |
 | [Cinematic home renovation presentation](https://x.com/bnj/status/2118113244405739725) | Opus 5.5 | [@bnj](https://x.com/bnj) | 2:12 | — |
 | [SaaS product launch video (one shot)](https://x.com/pbteja1998/status/2103176101497651644) | Opus 5.5 | [@pbteja1998](https://x.com/pbteja1998) | 1:05 | — |
 | [VR time-freeze app built end to end](https://x.com/lucas_martinic/status/2112514417300758643) | Opus 5.5 | [@lucas_martinic](https://x.com/lucas_martinic) | 0:52 | — |
@@ -129,6 +130,7 @@
 | [Product redesign showcase video](https://x.com/Groovy_HQ/status/2103597420873646509) | Opus 5.5 | [@Groovy_HQ](https://x.com/Groovy_HQ) | 0:15 | — |
 | [Cinematic product launch film](https://x.com/AbhinavXJ/status/2104805179401068964) | Sonnet 5.5 | [@AbhinavXJ](https://x.com/AbhinavXJ) | 1:40 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104805179401068964) |
 | [Furniture-to-3D interior design app](https://x.com/higgsfield_ai/status/2102618445489795448) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:32 | — |
+| [App launch video workflow](https://x.com/rileybrown/status/2119651130963537996) | Opus 5.5 | [@rileybrown](https://x.com/rileybrown) | 0:37 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2119651130963537996) |
 | [Software intro video generated from codebase](https://x.com/gesoikuo3/status/2103723885204254734) | Opus 5.5 | [@gesoikuo3](https://x.com/gesoikuo3) | 0:50 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103723885204254734) |
 | [Open-source task management app](https://x.com/Tanjim38/status/2112964568616169890) | Opus 5.5 | [@Tanjim38](https://x.com/Tanjim38) | 0:22 | — |
 | [Free AI ad video generated in code](https://x.com/Lucas_IA_/status/2102757164158689759) | Opus 5.5 | [@Lucas_IA_](https://x.com/Lucas_IA_) | 1:12 | — |

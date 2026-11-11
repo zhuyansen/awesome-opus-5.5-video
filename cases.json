@@ -3,8 +3,8 @@
  "model": "Claude 5.5 (Opus 5.5 · Sonnet 5.5 · Haiku 5.5 · Fable 5.5)",
  "inclusion_rule": "Original post by the creator, native video attached, >= 5000 views on that post, creator states it was made with Claude Opus 5.5, Sonnet 5.5, Haiku 5.5 or Fable 5.5 (Fable 5.5 is in limited preview, not yet announced). Later posts that embed another account's upload are excluded.",
  "views_threshold": 5000,
- "stats_checked_at": "2026-11-10T01:17:19.002Z",
- "updated_at": "2026-11-10T01:17:19.002Z",
+ "stats_checked_at": "2026-11-11T01:17:16.866Z",
+ "updated_at": "2026-11-11T01:17:16.866Z",
  "model_attribution": "As stated by each creator; not independently reproduced.",
  "cases": [
   {
@@ -5178,6 +5178,42 @@
    "resources": []
   },
   {
+   "id": "2119907318729245180",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "冰之大教堂模型对比",
+    "en": "Cathedral of Ice model comparison"
+   },
+   "creator": {
+    "handle": "EnvolDev",
+    "name": "Tony"
+   },
+   "original_post_url": "https://x.com/EnvolDev/status/2119907318729245180",
+   "posted_at": "2026-11-09T21:37:45.000Z",
+   "language": "en",
+   "duration_seconds": 25,
+   "views": 323455,
+   "likes": 2081,
+   "bookmarks": 584,
+   "views_checked_at": "2026-11-11T01:17:16.866Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119907107449544704/img/_FXplhYeFHcSwGbz.jpg",
+   "tools_reported": [
+    "Three.js"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "brief",
+    "source": "author_reply",
+    "source_url": "https://x.com/EnvolDev/status/2120197072918126673",
+    "length": 112,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2119907318729245180"
+   },
+   "resources": []
+  },
+  {
    "id": "2103574428475154635",
    "models": [
     "opus-5.5"
@@ -8013,6 +8049,34 @@
    "resources": []
   },
   {
+   "id": "2119955647542542439",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "玻璃泳池模型对比",
+    "en": "Glass pool model comparison"
+   },
+   "creator": {
+    "handle": "MrTacticalX",
+    "name": "Mr Tactical"
+   },
+   "original_post_url": "https://x.com/MrTacticalX/status/2119955647542542439",
+   "posted_at": "2026-11-10T00:49:47.000Z",
+   "language": "en",
+   "duration_seconds": 30,
+   "views": 205379,
+   "likes": 1426,
+   "bookmarks": 450,
+   "views_checked_at": "2026-11-11T01:17:16.866Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119955491941949440/img/MgczBx8mkoU_O4Jy.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2113918837666267384",
    "models": [
     "opus-5.5"
@@ -8807,6 +8871,36 @@
    "resources": []
   },
   {
+   "id": "2119909996645298519",
+   "models": [
+    "fable-5.5"
+   ],
+   "category": "game",
+   "title": {
+    "zh": "虚幻引擎 5 赛车游戏",
+    "en": "Unreal Engine 5 racing game"
+   },
+   "creator": {
+    "handle": "GPTabby",
+    "name": "GPTabby"
+   },
+   "original_post_url": "https://x.com/GPTabby/status/2119909996645298519",
+   "posted_at": "2026-11-09T21:48:23.000Z",
+   "language": "en",
+   "duration_seconds": 20,
+   "views": 191531,
+   "likes": 2064,
+   "bookmarks": 581,
+   "views_checked_at": "2026-11-11T01:17:16.866Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119909976881655809/img/ACMngqYAN_td91J4.jpg",
+   "tools_reported": [
+    "Unreal Engine 5"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2102707412704919910",
    "models": [
     "opus-5.5"
@@ -9543,6 +9637,39 @@
    "views_checked_at": "2026-11-09T10:58:49.441Z",
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2109633948980592641/img/AR3l6MwRnOtgjIv6.jpg",
    "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2119670252414128387",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "game",
+   "title": {
+    "zh": "基于 CesiumJS、Tripo 与 Blender 的三维小游戏",
+    "en": "3D game built with CesiumJS, Tripo and Blender"
+   },
+   "creator": {
+    "handle": "aehyok",
+    "name": "AI少年"
+   },
+   "original_post_url": "https://x.com/aehyok/status/2119670252414128387",
+   "posted_at": "2026-11-09T05:55:44.000Z",
+   "language": "zh",
+   "duration_seconds": 47,
+   "views": 171363,
+   "likes": 102,
+   "bookmarks": 63,
+   "views_checked_at": "2026-11-11T01:17:16.866Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119624191700017152/img/xab4xyo0qxLebqYk.jpg",
+   "tools_reported": [
+    "CesiumJS",
+    "GPT Image 2.5",
+    "Tripo",
+    "Blender"
+   ],
    "reference_assets": false,
    "prompt": null,
    "resources": []
@@ -15012,6 +15139,36 @@
    "resources": []
   },
   {
+   "id": "2119746949121495303",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "可交互的公寓三维场景",
+    "en": "Interactive apartment 3D scene"
+   },
+   "creator": {
+    "handle": "MengTo",
+    "name": "Meng To"
+   },
+   "original_post_url": "https://x.com/MengTo/status/2119746949121495303",
+   "posted_at": "2026-11-09T11:00:30.000Z",
+   "language": "en",
+   "duration_seconds": 60,
+   "views": 112749,
+   "likes": 1940,
+   "bookmarks": 1495,
+   "views_checked_at": "2026-11-11T01:17:16.866Z",
+   "thumbnail_url": "https://pbs.twimg.com/ext_tw_video_thumb/2119746887326863360/pu/img/NfnIBe27R6Z-VmVN.jpg",
+   "tools_reported": [
+    "Three.js"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2103135536634630632",
    "models": [
     "opus-5.5"
@@ -16718,6 +16875,43 @@
    "reference_assets": false,
    "prompt": null,
    "resources": []
+  },
+  {
+   "id": "2119841736679686222",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "特拉维夫等距三维地图",
+    "en": "Isometric Tel Aviv 3D map"
+   },
+   "creator": {
+    "handle": "DmytroKrasun",
+    "name": "Dmytro Krasun"
+   },
+   "original_post_url": "https://x.com/DmytroKrasun/status/2119841736679686222",
+   "posted_at": "2026-11-09T17:17:09.000Z",
+   "language": "en",
+   "duration_seconds": 14,
+   "views": 101348,
+   "likes": 1280,
+   "bookmarks": 723,
+   "views_checked_at": "2026-11-11T01:17:16.866Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119835474554388480/img/vXE2wqLKgeYNqcOb.jpg",
+   "tools_reported": [
+    "Claude Code",
+    "GPT Image 2.6",
+    "OpenStreetMap",
+    "OpenSeadragon",
+    "Astro",
+    "Cloudflare R2"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": [
+    "https://github.com/krasun/isometricworld"
+   ]
   },
   {
    "id": "2103647787795824856",
@@ -19435,6 +19629,34 @@
    "resources": []
   },
   {
+   "id": "2119845363058426066",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "motion",
+   "title": {
+    "zh": "线稿动画",
+    "en": "Line art animation"
+   },
+   "creator": {
+    "handle": "dhruvtwt_",
+    "name": "Dhruv"
+   },
+   "original_post_url": "https://x.com/dhruvtwt_/status/2119845363058426066",
+   "posted_at": "2026-11-09T17:31:34.000Z",
+   "language": "en",
+   "duration_seconds": 30,
+   "views": 83743,
+   "likes": 1355,
+   "bookmarks": 782,
+   "views_checked_at": "2026-11-11T01:17:16.866Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119844365527060480/img/GfVCxMe4GMkgCBiK.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2115193601458151552",
    "models": [
     "opus-5.5"
@@ -21151,6 +21373,36 @@
    "resources": []
   },
   {
+   "id": "2119933150025363661",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "Opus 与 Fable 输出对比",
+    "en": "Opus and Fable output comparison"
+   },
+   "creator": {
+    "handle": "dom_scholz",
+    "name": "Dominik Scholz"
+   },
+   "original_post_url": "https://x.com/dom_scholz/status/2119933150025363661",
+   "posted_at": "2026-11-09T23:20:24.000Z",
+   "language": "en",
+   "duration_seconds": 30,
+   "views": 77754,
+   "likes": 522,
+   "bookmarks": 208,
+   "views_checked_at": "2026-11-11T01:17:16.866Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119932946857500672/img/SuMXv_lXpaQUUKDU.jpg",
+   "tools_reported": [
+    "Three.js"
+   ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2106369929813594134",
    "models": [
     "fable-5.5"
@@ -21714,6 +21966,34 @@
     "length": 122,
     "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2105361031371383180"
    },
+   "resources": []
+  },
+  {
+   "id": "2119913518015435103",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "冰之大教堂模型对比",
+    "en": "Ice cathedral model comparison"
+   },
+   "creator": {
+    "handle": "QQTeng",
+    "name": "Joker"
+   },
+   "original_post_url": "https://x.com/QQTeng/status/2119913518015435103",
+   "posted_at": "2026-11-09T22:02:23.000Z",
+   "language": "zh",
+   "duration_seconds": 25,
+   "views": 74870,
+   "likes": 129,
+   "bookmarks": 48,
+   "views_checked_at": "2026-11-11T01:17:16.866Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119913161382039552/img/r8d06NYvTpdCN8A5.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
    "resources": []
   },
   {
@@ -23903,6 +24183,38 @@
    "resources": []
   },
   {
+   "id": "2119857933093945378",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "消防飞机山火救援场景对比",
+    "en": "Firefighting plane wildfire scene comparison"
+   },
+   "creator": {
+    "handle": "Lummox_eth",
+    "name": "Lummox"
+   },
+   "original_post_url": "https://x.com/Lummox_eth/status/2119857933093945378",
+   "posted_at": "2026-11-09T18:21:30.000Z",
+   "language": "en",
+   "duration_seconds": 10,
+   "views": 68019,
+   "likes": 234,
+   "bookmarks": 248,
+   "views_checked_at": "2026-11-11T01:17:16.866Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119857846359625728/img/CGDJRO_K0cDEiMMF.jpg",
+   "tools_reported": [
+    "GPT-6 Astra",
+    "Blender MCP",
+    "Kimi K3.1"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2102826740951232530",
    "models": [
     "opus-5.5"
@@ -24112,6 +24424,36 @@
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2104115064609677313/img/SRGFkR90hcXD_kha.jpg",
    "tools_reported": [
     "Claude Code"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2119898145777983634",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "Opus 与 Fable 场景对比",
+    "en": "Opus and Fable scene comparison"
+   },
+   "creator": {
+    "handle": "developedbyed",
+    "name": "Dev Ed"
+   },
+   "original_post_url": "https://x.com/developedbyed/status/2119898145777983634",
+   "posted_at": "2026-11-09T21:01:18.000Z",
+   "language": "en",
+   "duration_seconds": 12,
+   "views": 67476,
+   "likes": 1165,
+   "bookmarks": 403,
+   "views_checked_at": "2026-11-11T01:17:16.866Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119896970118459392/img/qu7TCGwRXUvdDiR6.jpg",
+   "tools_reported": [
+    "Fable 5.2"
    ],
    "reference_assets": false,
    "prompt": null,
@@ -24779,6 +25121,36 @@
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2111509266490396672/img/gBQd7-eQd0liMu9O.jpg",
    "tools_reported": [
     "Higgsfield"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2119915243321397550",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "氛围编程模型对比",
+    "en": "Vibe coding model comparison"
+   },
+   "creator": {
+    "handle": "ivanainai",
+    "name": "Ivana"
+   },
+   "original_post_url": "https://x.com/ivanainai/status/2119915243321397550",
+   "posted_at": "2026-11-09T22:09:14.000Z",
+   "language": "en",
+   "duration_seconds": 112,
+   "views": 64989,
+   "likes": 1003,
+   "bookmarks": 270,
+   "views_checked_at": "2026-11-11T01:17:16.866Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119915117575839744/img/OL2wgcgGNRPTEcxj.jpg",
+   "tools_reported": [
+    "Fable 5.2"
    ],
    "reference_assets": false,
    "prompt": null,
@@ -25609,6 +25981,34 @@
    "tools_reported": [
     "Higgsfield"
    ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2119867622108066283",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "铁磁流体切换模拟",
+    "en": "Ferrofluid toggle simulation"
+   },
+   "creator": {
+    "handle": "argofowl",
+    "name": "🥔🥔🥔"
+   },
+   "original_post_url": "https://x.com/argofowl/status/2119867622108066283",
+   "posted_at": "2026-11-09T19:00:01.000Z",
+   "language": "en",
+   "duration_seconds": 32,
+   "views": 62796,
+   "likes": 879,
+   "bookmarks": 426,
+   "views_checked_at": "2026-11-11T01:17:16.866Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119848331253800962/img/SSCBUHnGGzlC53qm.jpg",
+   "tools_reported": [],
    "reference_assets": false,
    "prompt": null,
    "resources": []
@@ -26493,6 +26893,37 @@
     "Higgsfield"
    ],
    "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2119728047754547326",
+   "models": [
+    "opus-5.5",
+    "fable-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "地毯赛车游戏对比",
+    "en": "Rug racing game comparison"
+   },
+   "creator": {
+    "handle": "noclipepe",
+    "name": "noclipepe"
+   },
+   "original_post_url": "https://x.com/noclipepe/status/2119728047754547326",
+   "posted_at": "2026-11-09T09:45:23.000Z",
+   "language": "en",
+   "duration_seconds": 74,
+   "views": 59967,
+   "likes": 406,
+   "bookmarks": 179,
+   "views_checked_at": "2026-11-11T01:17:16.866Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119727893148241920/img/_fWAFhSw7ZIevWnk.jpg",
+   "tools_reported": [
+    "GPT-6.2 Sol"
+   ],
+   "reference_assets": true,
    "prompt": null,
    "resources": []
   },
@@ -28418,6 +28849,34 @@
    "resources": []
   },
   {
+   "id": "2119750356703809727",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "product",
+   "title": {
+    "zh": "烹饪应用界面设计",
+    "en": "Cooking app interface design"
+   },
+   "creator": {
+    "handle": "BreejeAnadkat",
+    "name": "Breeje Anadkat"
+   },
+   "original_post_url": "https://x.com/BreejeAnadkat/status/2119750356703809727",
+   "posted_at": "2026-11-09T11:14:02.000Z",
+   "language": "en",
+   "duration_seconds": 10,
+   "views": 55451,
+   "likes": 1006,
+   "bookmarks": 687,
+   "views_checked_at": "2026-11-11T01:17:16.866Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119750254656671744/img/diOkamkvnoIgovfm.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2102561495104291156",
    "models": [
     "opus-5.5"
@@ -28982,6 +29441,36 @@
     "length": 554,
     "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103564391170089429"
    },
+   "resources": []
+  },
+  {
+   "id": "2119797549729259982",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "game",
+   "title": {
+    "zh": "史诗冒险项目",
+    "en": "Epic adventure project"
+   },
+   "creator": {
+    "handle": "ai_am_furufuru",
+    "name": "ふるふるの大冒険/Furufuru’s Epic Adventure"
+   },
+   "original_post_url": "https://x.com/ai_am_furufuru/status/2119797549729259982",
+   "posted_at": "2026-11-09T14:21:34.000Z",
+   "language": "ja",
+   "duration_seconds": 461,
+   "views": 53825,
+   "likes": 605,
+   "bookmarks": 382,
+   "views_checked_at": "2026-11-11T01:17:16.866Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119796767508271104/img/YyOKPwnqMBJ61hJu.jpg",
+   "tools_reported": [
+    "Claude Code"
+   ],
+   "reference_assets": false,
+   "prompt": null,
    "resources": []
   },
   {
@@ -31516,6 +32005,39 @@
    "resources": []
   },
   {
+   "id": "2119792716934721869",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "十轮迭代后的视频对比",
+    "en": "Video comparison after ten iterations"
+   },
+   "creator": {
+    "handle": "dhruvalgolakiya",
+    "name": "Dhruval"
+   },
+   "original_post_url": "https://x.com/dhruvalgolakiya/status/2119792716934721869",
+   "posted_at": "2026-11-09T14:02:22.000Z",
+   "language": "en",
+   "duration_seconds": 10,
+   "views": 48370,
+   "likes": 336,
+   "bookmarks": 166,
+   "views_checked_at": "2026-11-11T01:17:16.866Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119792687813726208/img/tjZelb4zrkzwV_PQ.jpg",
+   "tools_reported": [
+    "GPT Image Gen",
+    "fal",
+    "TripoAI",
+    "Blender"
+   ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2102645793828036643",
    "models": [
     "opus-5.5"
@@ -32402,6 +32924,37 @@
    "resources": []
   },
   {
+   "id": "2119916096098582566",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "游戏角色绑定效果对比",
+    "en": "Rigged game character comparison"
+   },
+   "creator": {
+    "handle": "0xKense1",
+    "name": "Kensei"
+   },
+   "original_post_url": "https://x.com/0xKense1/status/2119916096098582566",
+   "posted_at": "2026-11-09T22:12:38.000Z",
+   "language": "en",
+   "duration_seconds": 28,
+   "views": 46416,
+   "likes": 512,
+   "bookmarks": 785,
+   "views_checked_at": "2026-11-11T01:17:16.866Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119915735342346241/img/qDheqtUrhsvmJ7Dy.jpg",
+   "tools_reported": [
+    "Tripo",
+    "Blender"
+   ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2110750857528803516",
    "models": [
     "opus-5.5"
@@ -33077,6 +33630,38 @@
     "Huashu-art-motion"
    ],
    "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2119746838450356673",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "千禧年风格互动三维世界",
+    "en": "Interactive millennium-style 3D world"
+   },
+   "creator": {
+    "handle": "Saccc_c",
+    "name": "Sac"
+   },
+   "original_post_url": "https://x.com/Saccc_c/status/2119746838450356673",
+   "posted_at": "2026-11-09T11:00:03.000Z",
+   "language": "zh",
+   "duration_seconds": 91,
+   "views": 45221,
+   "likes": 253,
+   "bookmarks": 173,
+   "views_checked_at": "2026-11-11T01:17:16.866Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119738978496847872/img/w4bxKHA72KZle6uT.jpg",
+   "tools_reported": [
+    "Three.js",
+    "Viggle",
+    "Pinoc MCP"
+   ],
+   "reference_assets": true,
    "prompt": null,
    "resources": []
   },
@@ -33831,6 +34416,34 @@
    "resources": []
   },
   {
+   "id": "2119902204320780676",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "火箭发射场景对比",
+    "en": "Rocket launch scene comparison"
+   },
+   "creator": {
+    "handle": "Bhavani_00007",
+    "name": "Bhavy☄️"
+   },
+   "original_post_url": "https://x.com/Bhavani_00007/status/2119902204320780676",
+   "posted_at": "2026-11-09T21:17:26.000Z",
+   "language": "en",
+   "duration_seconds": 25,
+   "views": 44217,
+   "likes": 324,
+   "bookmarks": 50,
+   "views_checked_at": "2026-11-11T01:17:16.866Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119899808148361217/img/2A6jzI7eSzX10H9L.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2103523994440012086",
    "models": [
     "opus-5.5"
@@ -34405,6 +35018,38 @@
     "JIZURA"
    ],
    "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2119797694801793403",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "Blender重现歌舞伎町",
+    "en": "Kabukicho recreation in Blender"
+   },
+   "creator": {
+    "handle": "hectorVFX",
+    "name": "hectorvfx"
+   },
+   "original_post_url": "https://x.com/hectorVFX/status/2119797694801793403",
+   "posted_at": "2026-11-09T14:22:09.000Z",
+   "language": "es",
+   "duration_seconds": 55,
+   "views": 43340,
+   "likes": 987,
+   "bookmarks": 485,
+   "views_checked_at": "2026-11-11T01:17:16.866Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119795326877904896/img/tuRc3rcb4tfHhQWS.jpg",
+   "tools_reported": [
+    "Blender 5.3",
+    "ComfyUI",
+    "Qwen Image-Edit 2.1"
+   ],
+   "reference_assets": true,
    "prompt": null,
    "resources": []
   },
@@ -35754,6 +36399,36 @@
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2116406992650862593/img/O-ouvIfElmso3DXR.jpg",
    "tools_reported": [],
    "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2119663783316758596",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "production",
+   "title": {
+    "zh": "使用 Seedance 的视频到视频转换",
+    "en": "Video-to-Video Transformation with Seedance"
+   },
+   "creator": {
+    "handle": "techguyver",
+    "name": "Techguyver"
+   },
+   "original_post_url": "https://x.com/techguyver/status/2119663783316758596",
+   "posted_at": "2026-11-09T05:30:02.000Z",
+   "language": "en",
+   "duration_seconds": 16,
+   "views": 40673,
+   "likes": 245,
+   "bookmarks": 172,
+   "views_checked_at": "2026-11-11T01:17:16.866Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119663647979180032/img/GOofedvRcdVfB1eF.jpg",
+   "tools_reported": [
+    "Seedance"
+   ],
+   "reference_assets": true,
    "prompt": null,
    "resources": []
   },
@@ -40139,6 +40814,42 @@
    "resources": []
   },
   {
+   "id": "2119651130963537996",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "product",
+   "title": {
+    "zh": "应用发布视频制作流程",
+    "en": "App launch video workflow"
+   },
+   "creator": {
+    "handle": "rileybrown",
+    "name": "Riley Brown"
+   },
+   "original_post_url": "https://x.com/rileybrown/status/2119651130963537996",
+   "posted_at": "2026-11-09T04:39:45.000Z",
+   "language": "en",
+   "duration_seconds": 37,
+   "views": 33564,
+   "likes": 395,
+   "bookmarks": 339,
+   "views_checked_at": "2026-11-11T01:17:16.866Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119649809690656768/img/6EUiHQQOKXELQ--O.jpg",
+   "tools_reported": [
+    "Blender"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "brief",
+    "source": "post",
+    "source_url": "https://x.com/rileybrown/status/2119651130963537996",
+    "length": 94,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2119651130963537996"
+   },
+   "resources": []
+  },
+  {
    "id": "2103411244468498547",
    "models": [
     "opus-5.5"
@@ -42434,6 +43145,36 @@
    "resources": []
   },
   {
+   "id": "2119941490969624679",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "电影预告片标题设计对比",
+    "en": "Trailer title design comparison"
+   },
+   "creator": {
+    "handle": "muku_sns",
+    "name": "むく | AIアートのプロ"
+   },
+   "original_post_url": "https://x.com/muku_sns/status/2119941490969624679",
+   "posted_at": "2026-11-09T23:53:32.000Z",
+   "language": "ja",
+   "duration_seconds": 15,
+   "views": 30476,
+   "likes": 102,
+   "bookmarks": 71,
+   "views_checked_at": "2026-11-11T01:17:16.866Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119941109262815232/img/GRjfGT8dEYsMHPI5.jpg",
+   "tools_reported": [
+    "Claude Fable 5.2"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2116533760938152111",
    "models": [
     "sonnet-5.5"
@@ -42500,6 +43241,36 @@
     "length": 651,
     "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2111754643604636049"
    },
+   "resources": []
+  },
+  {
+   "id": "2119901658394358005",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "浏览器卡丁车游戏对比",
+    "en": "Browser kart racer comparison"
+   },
+   "creator": {
+    "handle": "petergyang",
+    "name": "Peter Yang"
+   },
+   "original_post_url": "https://x.com/petergyang/status/2119901658394358005",
+   "posted_at": "2026-11-09T21:15:15.000Z",
+   "language": "en",
+   "duration_seconds": 20,
+   "views": 30394,
+   "likes": 133,
+   "bookmarks": 79,
+   "views_checked_at": "2026-11-11T01:17:16.866Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119901596008263680/img/Qlj1Rarz7q_pngBm.jpg",
+   "tools_reported": [
+    "Fable 5.2"
+   ],
+   "reference_assets": false,
+   "prompt": null,
    "resources": []
   },
   {
@@ -43505,6 +44276,36 @@
     "After Effects"
    ],
    "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2119877811951243616",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "太阳动画复刻对比",
+    "en": "Animated Sun recreation comparison"
+   },
+   "creator": {
+    "handle": "ITangieff",
+    "name": "Ibra Tangieff"
+   },
+   "original_post_url": "https://x.com/ITangieff/status/2119877811951243616",
+   "posted_at": "2026-11-09T19:40:30.000Z",
+   "language": "en",
+   "duration_seconds": 20,
+   "views": 29126,
+   "likes": 114,
+   "bookmarks": 33,
+   "views_checked_at": "2026-11-11T01:17:16.866Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119877517540757504/img/Miz9ChH1IrtROIu8.jpg",
+   "tools_reported": [
+    "Fable 5.2"
+   ],
+   "reference_assets": false,
    "prompt": null,
    "resources": []
   },
@@ -45162,6 +45963,36 @@
     "Gemini"
    ],
    "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2119898654609920095",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "motion",
+   "title": {
+    "zh": "模拟智能手表动态广告",
+    "en": "Analog smartwatch motion advertisement"
+   },
+   "creator": {
+    "handle": "Toarukanshiin",
+    "name": "とある / ago"
+   },
+   "original_post_url": "https://x.com/Toarukanshiin/status/2119898654609920095",
+   "posted_at": "2026-11-09T21:03:19.000Z",
+   "language": "ja",
+   "duration_seconds": 20,
+   "views": 27618,
+   "likes": 1025,
+   "bookmarks": 662,
+   "views_checked_at": "2026-11-11T01:17:16.866Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119897940068343808/img/xvyvZSygGTf0Nkmp.jpg",
+   "tools_reported": [
+    "Blender"
+   ],
+   "reference_assets": false,
    "prompt": null,
    "resources": []
   },
@@ -49119,6 +49950,36 @@
    "resources": []
   },
   {
+   "id": "2119915615351693483",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "浏览器池房世界",
+    "en": "Browser-based poolrooms world"
+   },
+   "creator": {
+    "handle": "Ben__Springer",
+    "name": "Benjamin Springer"
+   },
+   "original_post_url": "https://x.com/Ben__Springer/status/2119915615351693483",
+   "posted_at": "2026-11-09T22:10:43.000Z",
+   "language": "en",
+   "duration_seconds": 56,
+   "views": 23679,
+   "likes": 541,
+   "bookmarks": 433,
+   "views_checked_at": "2026-11-11T01:17:16.866Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119914033260163074/img/qqDLKpzloVNxvPMs.jpg",
+   "tools_reported": [
+    "Three.js"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2117062532439671028",
    "models": [
     "opus-5.5"
@@ -50211,6 +51072,38 @@
    "resources": []
   },
   {
+   "id": "2119927838321328577",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "Chrome 恐龙游戏模型对比",
+    "en": "Chrome Dino model comparison"
+   },
+   "creator": {
+    "handle": "noclipepe",
+    "name": "noclipepe"
+   },
+   "original_post_url": "https://x.com/noclipepe/status/2119927838321328577",
+   "posted_at": "2026-11-09T22:59:17.000Z",
+   "language": "en",
+   "duration_seconds": 27,
+   "views": 22757,
+   "likes": 108,
+   "bookmarks": 54,
+   "views_checked_at": "2026-11-11T01:17:16.866Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119923874267607040/img/3L1LL6Id1yXrKHCY.jpg",
+   "tools_reported": [
+    "Fable 5.2",
+    "Gemini 4 Carbon",
+    "GPT-6 Astra"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2104709328238199145",
    "models": [
     "sonnet-5.5"
@@ -50610,6 +51503,36 @@
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2115434115717812224/img/HrUN0TR-TCzASFfu.jpg",
    "tools_reported": [
     "Tesana"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2119717469455573044",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "两轮视觉生成对比",
+    "en": "Two-Round Visual Build Comparison"
+   },
+   "creator": {
+    "handle": "Mr_Salio",
+    "name": "Salio"
+   },
+   "original_post_url": "https://x.com/Mr_Salio/status/2119717469455573044",
+   "posted_at": "2026-11-09T09:03:21.000Z",
+   "language": "en",
+   "duration_seconds": 17,
+   "views": 22319,
+   "likes": 142,
+   "bookmarks": 21,
+   "views_checked_at": "2026-11-11T01:17:16.866Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119717402728427520/img/H-T01x9yCQ5mkLpn.jpg",
+   "tools_reported": [
+    "Gemini Krypton"
    ],
    "reference_assets": false,
    "prompt": null,
@@ -51761,6 +52684,36 @@
    "resources": []
   },
   {
+   "id": "2119903727876554868",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "游戏开发模型对比",
+    "en": "Game development model comparison"
+   },
+   "creator": {
+    "handle": "realNuun",
+    "name": "nuun"
+   },
+   "original_post_url": "https://x.com/realNuun/status/2119903727876554868",
+   "posted_at": "2026-11-09T21:23:29.000Z",
+   "language": "ja",
+   "duration_seconds": 121,
+   "views": 21576,
+   "likes": 142,
+   "bookmarks": 73,
+   "views_checked_at": "2026-11-11T01:17:16.866Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119902965628882944/img/DQ2IGHLDwBP3tlZM.jpg",
+   "tools_reported": [
+    "Fable 5.2"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2117231169301369311",
    "models": [
     "opus-5.5"
@@ -52609,6 +53562,38 @@
     "huashu-motion"
    ],
    "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2119734044623618208",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "日本神社生成效果对比",
+    "en": "Japanese shrine generation comparison"
+   },
+   "creator": {
+    "handle": "Lummox_eth",
+    "name": "Lummox"
+   },
+   "original_post_url": "https://x.com/Lummox_eth/status/2119734044623618208",
+   "posted_at": "2026-11-09T10:09:13.000Z",
+   "language": "en",
+   "duration_seconds": 15,
+   "views": 20829,
+   "likes": 190,
+   "bookmarks": 180,
+   "views_checked_at": "2026-11-11T01:17:16.866Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119733245461803008/img/Ky8WbDIHixc4aaf2.jpg",
+   "tools_reported": [
+    "Blender MCP",
+    "Kimi K3.1",
+    "GPT-6 Astra"
+   ],
+   "reference_assets": true,
    "prompt": null,
    "resources": []
   },
@@ -53483,6 +54468,36 @@
     "WebGL",
     "WebGPU",
     "GPT 6 Astra"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2119686633649782843",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "广义相对论讲解对比",
+    "en": "General relativity explanation comparison"
+   },
+   "creator": {
+    "handle": "Avenoxai",
+    "name": "Avenox"
+   },
+   "original_post_url": "https://x.com/Avenoxai/status/2119686633649782843",
+   "posted_at": "2026-11-09T07:00:49.000Z",
+   "language": "tr",
+   "duration_seconds": 60,
+   "views": 20158,
+   "likes": 106,
+   "bookmarks": 42,
+   "views_checked_at": "2026-11-11T01:17:16.866Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119584858280284160/img/zzG9JhAU8WadZSAc.jpg",
+   "tools_reported": [
+    "GPT 6.2 Sol"
    ],
    "reference_assets": false,
    "prompt": null,
@@ -57641,6 +58656,37 @@
    "resources": []
   },
   {
+   "id": "2119804350860017720",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "代码建模与生成式蘑菇对比",
+    "en": "Coded and generated 3D mushroom comparison"
+   },
+   "creator": {
+    "handle": "0xKense1",
+    "name": "Kensei"
+   },
+   "original_post_url": "https://x.com/0xKense1/status/2119804350860017720",
+   "posted_at": "2026-11-09T14:48:35.000Z",
+   "language": "en",
+   "duration_seconds": 27,
+   "views": 17860,
+   "likes": 270,
+   "bookmarks": 365,
+   "views_checked_at": "2026-11-11T01:17:16.866Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119803749904314368/img/BSfhkgjAxHemWbvo.jpg",
+   "tools_reported": [
+    "Tripo",
+    "Blender"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2117593246515810630",
    "models": [
     "opus-5.5"
@@ -59586,6 +60632,37 @@
    "resources": []
   },
   {
+   "id": "2119777467074580741",
+   "models": [
+    "fable-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "圆珠笔书写微距 ASMR",
+    "en": "Macro Ballpoint Pen Writing ASMR"
+   },
+   "creator": {
+    "handle": "camperaigg",
+    "name": "camper 🦎🎣"
+   },
+   "original_post_url": "https://x.com/camperaigg/status/2119777467074580741",
+   "posted_at": "2026-11-09T13:01:46.000Z",
+   "language": "en",
+   "duration_seconds": 22,
+   "views": 16670,
+   "likes": 243,
+   "bookmarks": 114,
+   "views_checked_at": "2026-11-11T01:17:16.866Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119757831654232064/img/VMu1B2wgDJo-FXBX.jpg",
+   "tools_reported": [
+    "Blender",
+    "Claude Code"
+   ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2115898852704456739",
    "models": [
     "opus-5.5"
@@ -61346,6 +62423,39 @@
     "length": 22,
     "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2113749929395114129"
    },
+   "resources": []
+  },
+  {
+   "id": "2119741907400360206",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "production",
+   "title": {
+    "zh": "音乐视频制作过程解说",
+    "en": "Music Video Making-Of Explainer"
+   },
+   "creator": {
+    "handle": "anko1oo7",
+    "name": "餡子(anko)@AIアニメMVを作る🐥"
+   },
+   "original_post_url": "https://x.com/anko1oo7/status/2119741907400360206",
+   "posted_at": "2026-11-09T10:40:28.000Z",
+   "language": "ja",
+   "duration_seconds": 144,
+   "views": 15390,
+   "likes": 135,
+   "bookmarks": 157,
+   "views_checked_at": "2026-11-11T01:17:16.866Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119739784541384704/img/jHkIFP-S-9Slj21j.jpg",
+   "tools_reported": [
+    "MiniMaxDesign",
+    "H3",
+    "ElevenLabs",
+    "Claude Code"
+   ],
+   "reference_assets": false,
+   "prompt": null,
    "resources": []
   },
   {
@@ -63676,6 +64786,45 @@
    ],
    "reference_assets": false,
    "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2119772039037014524",
+   "models": [
+    "fable-5.5"
+   ],
+   "category": "stories",
+   "title": {
+    "zh": "代码渲染的太空动漫战斗",
+    "en": "Code-rendered anime space battle"
+   },
+   "creator": {
+    "handle": "anstapnever",
+    "name": "anstap"
+   },
+   "original_post_url": "https://x.com/anstapnever/status/2119772039037014524",
+   "posted_at": "2026-11-09T12:40:12.000Z",
+   "language": "en",
+   "duration_seconds": 78,
+   "views": 14214,
+   "likes": 245,
+   "bookmarks": 232,
+   "views_checked_at": "2026-11-11T01:17:16.866Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119770418265612288/img/It8kV_Z-pqhkbeIG.jpg",
+   "tools_reported": [
+    "Three.js",
+    "WebGL2",
+    "Chrome",
+    "ffmpeg"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "full",
+    "source": "author_reply",
+    "source_url": "https://x.com/anstapnever/status/2119772043126489600",
+    "length": 3492,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2119772039037014524"
+   },
    "resources": []
   },
   {
@@ -67847,6 +68996,34 @@
    "resources": []
   },
   {
+   "id": "2119787191723511907",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "production",
+   "title": {
+    "zh": "虚构曲风的大合唱",
+    "en": "Invented-genre mass choir"
+   },
+   "creator": {
+    "handle": "balaena01",
+    "name": "Kujirachan/くじら"
+   },
+   "original_post_url": "https://x.com/balaena01/status/2119787191723511907",
+   "posted_at": "2026-11-09T13:40:24.000Z",
+   "language": "ja",
+   "duration_seconds": 86,
+   "views": 12291,
+   "likes": 329,
+   "bookmarks": 105,
+   "views_checked_at": "2026-11-11T01:17:16.866Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119786831009271811/img/l_gvF-mqAIpVM_rL.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2105957241148813340",
    "models": [
     "opus-5.5",
@@ -70603,6 +71780,38 @@
    "resources": []
   },
   {
+   "id": "2119916404560568419",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "不同推理强度下的 Three.js 视频对比",
+    "en": "Effort Level Comparison on a Three.js Video"
+   },
+   "creator": {
+    "handle": "sfc43588",
+    "name": "SF Create"
+   },
+   "original_post_url": "https://x.com/sfc43588/status/2119916404560568419",
+   "posted_at": "2026-11-09T22:13:51.000Z",
+   "language": "ja",
+   "duration_seconds": 30,
+   "views": 11324,
+   "likes": 103,
+   "bookmarks": 56,
+   "views_checked_at": "2026-11-11T01:17:16.866Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119914465596743680/img/xQbqJwihHN_Dqy5-.jpg",
+   "tools_reported": [
+    "Claude Code",
+    "Three.js",
+    "ultracode"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2102579218953765071",
    "models": [
     "opus-5.5"
@@ -72090,6 +73299,40 @@
    "tools_reported": [],
    "reference_assets": false,
    "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2119653253868630312",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "算法线艺创作过程",
+    "en": "Algorithmic string art process"
+   },
+   "creator": {
+    "handle": "aimikoda",
+    "name": "Kōda"
+   },
+   "original_post_url": "https://x.com/aimikoda/status/2119653253868630312",
+   "posted_at": "2026-11-09T04:48:11.000Z",
+   "language": "en",
+   "duration_seconds": 20,
+   "views": 10753,
+   "likes": 167,
+   "bookmarks": 130,
+   "views_checked_at": "2026-11-11T01:17:16.866Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119653004462747648/img/UeeBFuKt0oz6Ogu8.jpg",
+   "tools_reported": [],
+   "reference_assets": true,
+   "prompt": {
+    "kind": "full",
+    "source": "post",
+    "source_url": "https://x.com/aimikoda/status/2119653253868630312",
+    "length": 428,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2119653253868630312"
+   },
    "resources": []
   },
   {

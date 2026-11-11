@@ -1,6 +1,6 @@
 # Characters & stories
 
-245 works, 59 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+246 works, 60 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [Clockwork bird short film](https://x.com/camperaigg/status/2117666378174050352) | Fable 5.5 (preview) | [@camperaigg](https://x.com/camperaigg) | 1:00 | — |
 | [Girl and robot forest animation](https://x.com/ChrisGPT/status/2119140493091094672) | Opus 5.5 / Fable 5.5 (preview) | [@ChrisGPT](https://x.com/ChrisGPT) | 1:00 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2119140493091094672) |
 | [Mid-Autumn artistic video with music remix](https://x.com/op7418/status/2103520946841862312) | Opus 5.5 | [@op7418](https://x.com/op7418) | 0:27 | — |
+| [Code-rendered anime space battle](https://x.com/anstapnever/status/2119772039037014524) | Fable 5.5 (preview) | [@anstapnever](https://x.com/anstapnever) | 1:18 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2119772039037014524) |
 | [Time-traveling AI transmission video](https://x.com/VoidStateKate/status/2103308194852303245) | Opus 5.5 | [@VoidStateKate](https://x.com/VoidStateKate) | 0:39 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103308194852303245) |
 | [The Last Train Home rainy Japanese night scene](https://x.com/pankajkumar_dev/status/2112176644018626840) | Fable 5.5 (preview) | [@pankajkumar_dev](https://x.com/pankajkumar_dev) | 0:56 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2112176644018626840) |
 | [Full AI-made music and animation piece](https://x.com/anthrupad/status/2110950344272527596) | Opus 5.5 | [@anthrupad](https://x.com/anthrupad) | 0:52 | — |

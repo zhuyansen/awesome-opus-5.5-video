@@ -1,6 +1,6 @@
 # Games
 
-474 works, 67 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+477 works, 67 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -62,12 +62,14 @@
 | [Reverse-engineered game crossovers across engines](https://x.com/Roxx_0x/status/2111904848530555303) | Opus 5.5 | [@Roxx_0x](https://x.com/Roxx_0x) | 1:51 | — |
 | [Multiplayer lawn mowing simulator](https://x.com/_MaxBlade/status/2102513817855094922) | Opus 5.5 | [@_MaxBlade](https://x.com/_MaxBlade) | 0:37 | — |
 | [Battlefield 1942 Browser Port with Multiplayer](https://x.com/levelsio/status/2117374984192512391) | Opus 5.5 | [@levelsio](https://x.com/levelsio) | 2:01 | — |
+| [Unreal Engine 5 racing game](https://x.com/GPTabby/status/2119909996645298519) | Fable 5.5 (preview) | [@GPTabby](https://x.com/GPTabby) | 0:20 | — |
 | [Frog King Simulator built with Claude](https://x.com/Belbizaz/status/2111120760660254842) | Opus 5.5 | [@Belbizaz](https://x.com/Belbizaz) | 0:30 | — |
 | [3D pixel games](https://x.com/AmirMushich/status/2116509069477621819) | Opus 5.5 | [@AmirMushich](https://x.com/AmirMushich) | 0:29 | — |
 | [WoW-style game built in 36 hours](https://x.com/Stefan_3D_AI/status/2104109918894580091) | Opus 5.5 | [@Stefan_3D_AI](https://x.com/Stefan_3D_AI) | 1:17 | — |
 | [Tornado-eating game](https://x.com/0xKense1/status/2116999596299657492) | Opus 5.5 | [@0xKense1](https://x.com/0xKense1) | 0:36 | — |
 | [Game character VFX devlog](https://x.com/Stefan_3D_AI/status/2103467172995690835) | Opus 5.5 | [@Stefan_3D_AI](https://x.com/Stefan_3D_AI) | 0:49 | — |
 | [Self-laying rail minecart mod](https://x.com/0xJarvi/status/2109776982200508771) | Opus 5.5 | [@0xJarvi](https://x.com/0xJarvi) | 0:54 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2109776982200508771) |
+| [3D game built with CesiumJS, Tripo and Blender](https://x.com/aehyok/status/2119670252414128387) | Opus 5.5 | [@aehyok](https://x.com/aehyok) | 0:47 | — |
 | [Far Cry 3-style playable game prototype in Three.js](https://x.com/maxt3chno/status/2103423427939897781) | Opus 5.5 | [@maxt3chno](https://x.com/maxt3chno) | 2:02 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103423427939897781) |
 | [Voxel Dynasty Warriors style hack-and-slash](https://x.com/BubuStd/status/2102991290568954264) | Opus 5.5 | [@BubuStd](https://x.com/BubuStd) | 0:19 | — |
 | [Game Boy Pokemon-themed TV home screen](https://x.com/robbietilton/status/2111936458923851923) | Opus 5.5 | [@robbietilton](https://x.com/robbietilton) | 0:51 | — |
@@ -174,6 +176,7 @@
 | [Chang'an action game](https://x.com/akokoi1/status/2112365119187591189) | Opus 5.5 | [@akokoi1](https://x.com/akokoi1) | 1:35 | — |
 | [Minecraft-style game with scalable server built by Opus 5.5](https://x.com/lambda_funtaro/status/2103115036369760496) | Opus 5.5 | [@lambda_funtaro](https://x.com/lambda_funtaro) | 0:23 | — |
 | [Morrowind starting zone rebuilt from scratch](https://x.com/genex_games/status/2113715036296499441) | Opus 5.5 | [@genex_games](https://x.com/genex_games) | 1:53 | — |
+| [Epic adventure project](https://x.com/ai_am_furufuru/status/2119797549729259982) | Opus 5.5 | [@ai_am_furufuru](https://x.com/ai_am_furufuru) | 7:41 | — |
 | [Minecraft and Slime Rancher crossover](https://x.com/Angaisb_/status/2105952417980592248) | Opus 5.5 | [@Angaisb_](https://x.com/Angaisb_) | 1:47 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2105952417980592248) |
 | [Bully game NPC dialogue system](https://x.com/ashen_one/status/2112279650265092295) | Opus 5.5 | [@ashen_one](https://x.com/ashen_one) | 3:47 | — |
 | [Vibe-coded game with process notes](https://x.com/sonia_code/status/2103441886488990016) | Opus 5.5 | [@sonia_code](https://x.com/sonia_code) | 0:08 | — |

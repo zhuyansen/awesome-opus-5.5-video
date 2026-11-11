@@ -1,6 +1,6 @@
 # 3D worlds & simulations
 
-456 works, 106 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+464 works, 107 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Live 3D painting studio from SimReady models](https://x.com/anxuanng/status/2116773570663809364) | Opus 5.5 | [@anxuanng](https://x.com/anxuanng) | 0:24 | — |
 | [Realistic pelican bicycle animation](https://x.com/chetaslua/status/2116882694026269148) | Fable 5.5 (preview) | [@chetaslua](https://x.com/chetaslua) | 0:16 | — |
 | [Napoleon drawing on Google Sheets](https://x.com/hug0_plat/status/2104656573893144743) | Sonnet 5.5 | [@hug0_plat](https://x.com/hug0_plat) | 0:18 | — |
+| [Interactive apartment 3D scene](https://x.com/MengTo/status/2119746949121495303) | Opus 5.5 | [@MengTo](https://x.com/MengTo) | 1:00 | — |
 | [Realistic Minecraft and Star Wars renders](https://x.com/ChrisGPT/status/2102644063950475477) | Opus 5.5 | [@ChrisGPT](https://x.com/ChrisGPT) | 1:49 | — |
 | [Self-iterated second version output](https://x.com/dashiAIxz/status/2103344448696648058) | Opus 5.5 | [@dashiAIxz](https://x.com/dashiAIxz) | 0:30 | — |
 | [Lord of the Rings world-building render](https://x.com/Layton_Gott/status/2103632815677944206) | Opus 5.5 | [@Layton_Gott](https://x.com/Layton_Gott) | 2:22 | — |
@@ -85,6 +86,7 @@
 | [Motorcycle park racing game](https://x.com/chrisjdimarco/status/2104598205417591120) | Opus 5.5 | [@chrisjdimarco](https://x.com/chrisjdimarco) | 1:40 | — |
 | [Interactive Japanese garden simulation](https://x.com/SouranyPhomhome/status/2103539410302038359) | Opus 5.5 | [@SouranyPhomhome](https://x.com/SouranyPhomhome) | 2:36 | — |
 | [Lightning bolt simulation ride](https://x.com/camperaigg/status/2119052253982306393) | Fable 5.5 (preview) | [@camperaigg](https://x.com/camperaigg) | 0:28 | — |
+| [Isometric Tel Aviv 3D map](https://x.com/DmytroKrasun/status/2119841736679686222) | Opus 5.5 | [@DmytroKrasun](https://x.com/DmytroKrasun) | 0:14 | — |
 | [Atlas and P-body voxel portal scene](https://x.com/legit_api/status/2111193444345667813) | Fable 5.5 (preview) | [@legit_api](https://x.com/legit_api) | 1:53 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2111193444345667813) |
 | [AI self-portraits with an original piano score](https://x.com/kevin_t_ngo/status/2102878288008057171) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 0:20 | — |
 | [Textured village map](https://x.com/rehan_shei/status/2114573844858159372) | Opus 5.5 | [@rehan_shei](https://x.com/rehan_shei) | 0:42 | — |
@@ -125,6 +127,7 @@
 | [Browser-based 3D scene](https://x.com/KhalidDevLog/status/2106957256247902272) | Opus 5.5 | [@KhalidDevLog](https://x.com/KhalidDevLog) | 1:28 | — |
 | [Bicycle riding on a pelican animation](https://x.com/notjazii/status/2116861637890379891) | Fable 5.5 (preview) | [@notjazii](https://x.com/notjazii) | 0:26 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2116861637890379891) |
 | [Pixel art scene generation](https://x.com/HugoDuprez/status/2102746041250705890) | Opus 5.5 | [@HugoDuprez](https://x.com/HugoDuprez) | 0:13 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102746041250705890) |
+| [Ferrofluid toggle simulation](https://x.com/argofowl/status/2119867622108066283) | Opus 5.5 | [@argofowl](https://x.com/argofowl) | 0:32 | — |
 | [Illustration turned explorable 3D harbor town](https://x.com/chetanankola/status/2103393323520299428) | Opus 5.5 | [@chetanankola](https://x.com/chetanankola) | 0:25 | — |
 | [3D animation built with Python and Blender](https://x.com/kevin_t_ngo/status/2110010240825737683) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 0:28 | — |
 | [Pelican riding a bike benchmark demo](https://x.com/mylifcc/status/2102442484525842941) | Opus 5.5 | [@mylifcc](https://x.com/mylifcc) | 0:05 | — |
@@ -178,6 +181,7 @@
 | [Interactive interior design demo](https://x.com/nikosolenne/status/2111603809848029601) | Opus 5.5 | [@nikosolenne](https://x.com/nikosolenne) | 0:40 | — |
 | [Tesla Roadster flying animation](https://x.com/tuolaji2024/status/2110987175009685842) | Opus 5.5 | [@tuolaji2024](https://x.com/tuolaji2024) | 3:56 | — |
 | [Blender scene rendered with a personal VRM model](https://x.com/midori_tatsuta/status/2109609040716452113) | Opus 5.5 | [@midori_tatsuta](https://x.com/midori_tatsuta) | 0:10 | — |
+| [Interactive millennium-style 3D world](https://x.com/Saccc_c/status/2119746838450356673) | Opus 5.5 | [@Saccc_c](https://x.com/Saccc_c) | 1:31 | — |
 | [Foldable phone card holder design](https://x.com/bunkaich/status/2113500611052478632) | Opus 5.5 | [@bunkaich](https://x.com/bunkaich) | 1:03 | — |
 | [Nibs and the Sleeping Tortoise](https://x.com/HeyAbhishek/status/2107458140279394589) | Opus 5.5 | [@HeyAbhishek](https://x.com/HeyAbhishek) | 0:30 | — |
 | [3D Rube Goldberg machine simulation](https://x.com/imjustnewatai/status/2105889407056109991) | Fable 5.5 (preview) | [@imjustnewatai](https://x.com/imjustnewatai) | 1:00 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2105889407056109991) |
@@ -187,6 +191,7 @@
 | [Generated beach scene](https://x.com/akiba_tokyo_jp/status/2104731596494659706) | Sonnet 5.5 | [@akiba_tokyo_jp](https://x.com/akiba_tokyo_jp) | 0:30 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104731596494659706) |
 | [Game character reconstructed from reference views](https://x.com/rewind02/status/2116209421848064265) | Opus 5.5 | [@rewind02](https://x.com/rewind02) | 0:28 | — |
 | [Adaptive micro apartment 3D scene](https://x.com/techartist_/status/2102813614797472162) | Opus 5.5 | [@techartist_](https://x.com/techartist_) | 0:19 | — |
+| [Kabukicho recreation in Blender](https://x.com/hectorVFX/status/2119797694801793403) | Opus 5.5 | [@hectorVFX](https://x.com/hectorVFX) | 0:55 | — |
 | [Live water simulation demo](https://x.com/Avenoxai/status/2102500841097756743) | Opus 5.5 | [@Avenoxai](https://x.com/Avenoxai) | 1:01 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102500841097756743) |
 | [Generative JavaScript code art](https://x.com/mickeyxfriedman/status/2113768150840012988) | Opus 5.5 | [@mickeyxfriedman](https://x.com/mickeyxfriedman) | 0:20 | — |
 | [Code-built seaplane 3D model](https://x.com/maxt3chno/status/2107112922354790508) | Opus 5.5 | [@maxt3chno](https://x.com/maxt3chno) | 1:46 | — |
@@ -251,6 +256,7 @@
 | [Turkish marbling simulation engine](https://x.com/dhruvalgolakiya/status/2105705406958067765) | Opus 5.5 | [@dhruvalgolakiya](https://x.com/dhruvalgolakiya) | 0:51 | — |
 | [Open world island running in the browser](https://x.com/prasenx/status/2114821178959565267) | Opus 5.5 | [@prasenx](https://x.com/prasenx) | 0:30 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2114821178959565267) |
 | [Mechanical glass jellyfish simulator](https://x.com/0x_fokki/status/2116968438296150116) | Opus 5.5 | [@0x_fokki](https://x.com/0x_fokki) | 0:16 | — |
+| [Browser-based poolrooms world](https://x.com/Ben__Springer/status/2119915615351693483) | Opus 5.5 | [@Ben__Springer](https://x.com/Ben__Springer) | 0:56 | — |
 | [Billion-triangle browser rendering demo](https://x.com/sara_kumodeck/status/2117062532439671028) | Opus 5.5 | [@sara_kumodeck](https://x.com/sara_kumodeck) | 0:10 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2117062532439671028) |
 | [Procedural ocean 3D scene](https://x.com/techartist_/status/2111912410131153254) | Opus 5.5 | [@techartist_](https://x.com/techartist_) | 0:16 | — |
 | [Summer festival pond line 3D scene](https://x.com/scottstts/status/2114035230113984749) | Opus 5.5 | [@scottstts](https://x.com/scottstts) | 1:05 | — |
@@ -318,6 +324,7 @@
 | [Claude-designed 3D robotic body](https://x.com/SkyeSharkie/status/2118589617490604211) | Opus 5.5 | [@SkyeSharkie](https://x.com/SkyeSharkie) | 0:36 | — |
 | [Athlete long jump reconstructed in 4D](https://x.com/higgsfield_ai/status/2102916405314330726) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:08 | — |
 | [Expanded historical art style](https://x.com/AlchainHust/status/2106955771183272343) | Opus 5.5 | [@AlchainHust](https://x.com/AlchainHust) | 2:08 | — |
+| [Macro Ballpoint Pen Writing ASMR](https://x.com/camperaigg/status/2119777467074580741) | Fable 5.5 (preview) | [@camperaigg](https://x.com/camperaigg) | 0:22 | — |
 | [Gyroscopic 3D tilt motion in browser](https://x.com/ann_nnng/status/2111756250581270638) | Opus 5.5 | [@ann_nnng](https://x.com/ann_nnng) | 0:20 | — |
 | [Floor plan to 3D model](https://x.com/uncle_render/status/2110250093874229537) | Opus 5.5 | [@uncle_render](https://x.com/uncle_render) | 0:52 | — |
 | [Shiokaze sea breeze 3D scene](https://x.com/scottstts/status/2115228485304152146) | Opus 5.5 | [@scottstts](https://x.com/scottstts) | 1:11 | — |
@@ -392,6 +399,7 @@
 | [Paradise island 3D scene](https://x.com/badboyfoxy/status/2109523901105500260) | Opus 5.5 / Fable 5.5 (preview) | [@badboyfoxy](https://x.com/badboyfoxy) | 2:07 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2109523901105500260) |
 | [Pixel-art 3D football yard simulation with kids and dog](https://x.com/N1njaCodex/status/2113037013326627200) | Opus 5.5 | [@N1njaCodex](https://x.com/N1njaCodex) | 0:19 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2113037013326627200) |
 | [3D scene built with Three.js](https://x.com/i2cjak/status/2110474945704903065) | Opus 5.5 | [@i2cjak](https://x.com/i2cjak) | 1:31 | — |
+| [Algorithmic string art process](https://x.com/aimikoda/status/2119653253868630312) | Opus 5.5 | [@aimikoda](https://x.com/aimikoda) | 0:20 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2119653253868630312) |
 | [3D space generated from a single image](https://x.com/onofumi_AI/status/2112519702987854162) | Opus 5.5 | [@onofumi_AI](https://x.com/onofumi_AI) | 0:17 | — |
 | [Endless procedural tram ride through Lisbon](https://x.com/thebuggeddev/status/2103465304039076319) | Opus 5.5 | [@thebuggeddev](https://x.com/thebuggeddev) | 0:53 | — |
 | [Interactive plasma globe desktop wallpaper](https://x.com/chaseleantj/status/2104669620871536998) | Sonnet 5.5 | [@chaseleantj](https://x.com/chaseleantj) | 0:15 | — |

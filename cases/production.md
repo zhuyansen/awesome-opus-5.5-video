@@ -1,6 +1,6 @@
 # Music, editing & production
 
-184 works, 32 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+187 works, 32 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Generative music theory composition in code](https://x.com/dadabots/status/2103039181266338276) | Opus 5.5 | [@dadabots](https://x.com/dadabots) | 0:24 | — |
 | [Visual coding-agent harness demo](https://x.com/adocomplete/status/2103293477912268813) | Opus 5.5 | [@adocomplete](https://x.com/adocomplete) | 0:43 | — |
 | [AI-generated video clip](https://x.com/AiwithAlyar/status/2114609717758820574) | Opus 5.5 | [@AiwithAlyar](https://x.com/AiwithAlyar) | 0:46 | — |
+| [Video-to-Video Transformation with Seedance](https://x.com/techguyver/status/2119663783316758596) | Opus 5.5 | [@techguyver](https://x.com/techguyver) | 0:16 | — |
 | [Techno music composition](https://x.com/Dr_Singularity/status/2104013854909116657) | Opus 5.5 | [@Dr_Singularity](https://x.com/Dr_Singularity) | 5:02 | — |
 | [Automated VFX generation pipeline for games](https://x.com/KanaWorks_AI/status/2107752774423511539) | Opus 5.5 | [@KanaWorks_AI](https://x.com/KanaWorks_AI) | 0:32 | — |
 | [Voice cloning short video with multi-tool pipeline](https://x.com/masahirochaen/status/2103872865770836012) | Opus 5.5 | [@masahirochaen](https://x.com/masahirochaen) | 0:57 | — |
@@ -127,6 +128,7 @@
 | [Claude video editing experiment](https://x.com/filip_animation/status/2116239008187425135) | Opus 5.5 | [@filip_animation](https://x.com/filip_animation) | 0:14 | — |
 | [TouchDesigner controlled via Claude in After Effects](https://x.com/higgsfield_ai/status/2103525847991025776) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:06 | — |
 | [Intro video for a favorite TV drama](https://x.com/_nogu66/status/2103751299808497959) | Opus 5.5 | [@_nogu66](https://x.com/_nogu66) | 0:15 | — |
+| [Music Video Making-Of Explainer](https://x.com/anko1oo7/status/2119741907400360206) | Opus 5.5 | [@anko1oo7](https://x.com/anko1oo7) | 2:24 | — |
 | [Hebrew one-shot video with AI voices and effects](https://x.com/itaydressler/status/2105268598100865461) | Opus 5.5 | [@itaydressler](https://x.com/itaydressler) | 3:26 | — |
 | [KAMI Circuit music visualizer](https://x.com/aratamadao/status/2103706285204255186) | Opus 5.5 | [@aratamadao](https://x.com/aratamadao) | 0:28 | — |
 | [Contrast edit of Venezuelan political rally footage](https://x.com/anibal/status/2115608213059940689) | Opus 5.5 | [@anibal](https://x.com/anibal) | 2:58 | — |
@@ -142,6 +144,7 @@
 | [Bach-style Goldberg Variation composition](https://x.com/dotkrueger/status/2103671847531516144) | Opus 5.5 | [@dotkrueger](https://x.com/dotkrueger) | 2:02 | — |
 | [Satoru Gojo temporal grid video edit](https://x.com/aimikoda/status/2115118260060656126) | Opus 5.5 | [@aimikoda](https://x.com/aimikoda) | 0:33 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2115118260060656126) |
 | [Automated content video edit](https://x.com/condzxyz/status/2110068531941527601) | Opus 5.5 | [@condzxyz](https://x.com/condzxyz) | 7:49 | — |
+| [Invented-genre mass choir](https://x.com/balaena01/status/2119787191723511907) | Opus 5.5 | [@balaena01](https://x.com/balaena01) | 1:26 | — |
 | [AI video editing demo](https://x.com/shupeiman/status/2105272288769978634) | Opus 5.5 | [@shupeiman](https://x.com/shupeiman) | 0:23 | — |
 | [Bitcoin-themed video edit made in code](https://x.com/skwp/status/2103093628230873415) | Opus 5.5 | [@skwp](https://x.com/skwp) | 0:41 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103093628230873415) |
 | [AI image detail-fixing skill demo](https://x.com/higgsfield_ai/status/2103518041908908250) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:05 | — |

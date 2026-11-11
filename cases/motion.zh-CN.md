@@ -1,6 +1,6 @@
 # 动效设计
 
-共 350 个作品，其中 93 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 352 个作品，其中 93 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [5分钟完成VTuber动效制作](https://x.com/shimotti_ai/status/2103831579575587190) | Opus 5.5 | [@shimotti_ai](https://x.com/shimotti_ai) | 0:15 | — |
 | [使用设计工具制作的动效作品](https://x.com/javiiarchive/status/2103897550449516644) | Opus 5.5 | [@javiiarchive](https://x.com/javiiarchive) | 0:15 | — |
 | [节拍同步动效音乐视频](https://x.com/minchoi/status/2106946461980307633) | Opus 5.5 | [@minchoi](https://x.com/minchoi) | 4:30 | — |
+| [线稿动画](https://x.com/dhruvtwt_/status/2119845363058426066) | Opus 5.5 | [@dhruvtwt_](https://x.com/dhruvtwt_) | 0:30 | — |
 | [Opus 5.5一次生成的Blender动画](https://x.com/meowman_sol/status/2109637765684199564) | Opus 5.5 | [@meowman_sol](https://x.com/meowman_sol) | 0:40 | — |
 | [简短动效设计视频](https://x.com/blueemi99/status/2106031355922387163) | Opus 5.5 / Fable 5.5 (preview) | [@blueemi99](https://x.com/blueemi99) | 0:15 | — |
 | [流畅界面动画](https://x.com/BreejeAnadkat/status/2112873177185660940) | Opus 5.5 | [@BreejeAnadkat](https://x.com/BreejeAnadkat) | 0:11 | — |
@@ -188,6 +189,7 @@
 | [用Opus 5.5和Codex一次生成的视频](https://x.com/yuno_miyako2/status/2110016393886445964) | Opus 5.5 | [@yuno_miyako2](https://x.com/yuno_miyako2) | 1:00 | — |
 | [点元素主题动态视频](https://x.com/seiiiiiiiiiiru/status/2107018580265201724) | Opus 5.5 | [@seiiiiiiiiiiru](https://x.com/seiiiiiiiiiiru) | 0:15 | — |
 | [UI动画演示](https://x.com/kevin_t_ngo/status/2111974919353544757) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 0:25 | — |
+| [模拟智能手表动态广告](https://x.com/Toarukanshiin/status/2119898654609920095) | Opus 5.5 | [@Toarukanshiin](https://x.com/Toarukanshiin) | 0:20 | — |
 | [蝴蝶花朵像素风互动作品集](https://x.com/ann_nnng/status/2114717745443127698) | Opus 5.5 | [@ann_nnng](https://x.com/ann_nnng) | 0:24 | — |
 | [一句提示词生成的广告视频](https://x.com/Nour_Sofanati/status/2103653780327641130) | Opus 5.5 | [@Nour_Sofanati](https://x.com/Nour_Sofanati) | 0:35 | — |
 | [复古游戏卡片揭示UX实验](https://x.com/nickfromlater/status/2102504454721347822) | Opus 5.5 | [@nickfromlater](https://x.com/nickfromlater) | 0:16 | — |

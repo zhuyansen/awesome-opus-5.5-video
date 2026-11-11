@@ -1,6 +1,6 @@
 # 制作流程
 
-共 184 个作品，其中 32 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 187 个作品，其中 32 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [代码生成的音乐理论作品](https://x.com/dadabots/status/2103039181266338276) | Opus 5.5 | [@dadabots](https://x.com/dadabots) | 0:24 | — |
 | [可视化编程智能体管理界面演示](https://x.com/adocomplete/status/2103293477912268813) | Opus 5.5 | [@adocomplete](https://x.com/adocomplete) | 0:43 | — |
 | [AI生成视频短片](https://x.com/AiwithAlyar/status/2114609717758820574) | Opus 5.5 | [@AiwithAlyar](https://x.com/AiwithAlyar) | 0:46 | — |
+| [使用 Seedance 的视频到视频转换](https://x.com/techguyver/status/2119663783316758596) | Opus 5.5 | [@techguyver](https://x.com/techguyver) | 0:16 | — |
 | [电子音乐（Techno）创作](https://x.com/Dr_Singularity/status/2104013854909116657) | Opus 5.5 | [@Dr_Singularity](https://x.com/Dr_Singularity) | 5:02 | — |
 | [游戏自动VFX生成流水线](https://x.com/KanaWorks_AI/status/2107752774423511539) | Opus 5.5 | [@KanaWorks_AI](https://x.com/KanaWorks_AI) | 0:32 | — |
 | [多工具流水线制作的克隆声音短视频](https://x.com/masahirochaen/status/2103872865770836012) | Opus 5.5 | [@masahirochaen](https://x.com/masahirochaen) | 0:57 | — |
@@ -127,6 +128,7 @@
 | [Claude视频剪辑实验](https://x.com/filip_animation/status/2116239008187425135) | Opus 5.5 | [@filip_animation](https://x.com/filip_animation) | 0:14 | — |
 | [在After Effects中用Claude操控TouchDesigner](https://x.com/higgsfield_ai/status/2103525847991025776) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:06 | — |
 | [喜爱美剧的介绍视频](https://x.com/_nogu66/status/2103751299808497959) | Opus 5.5 | [@_nogu66](https://x.com/_nogu66) | 0:15 | — |
+| [音乐视频制作过程解说](https://x.com/anko1oo7/status/2119741907400360206) | Opus 5.5 | [@anko1oo7](https://x.com/anko1oo7) | 2:24 | — |
 | [希伯来语一次生成的AI配音特效视频](https://x.com/itaydressler/status/2105268598100865461) | Opus 5.5 | [@itaydressler](https://x.com/itaydressler) | 3:26 | — |
 | [KAMI Circuit音乐可视化影像](https://x.com/aratamadao/status/2103706285204255186) | Opus 5.5 | [@aratamadao](https://x.com/aratamadao) | 0:28 | — |
 | [委内瑞拉政治集会画面对比剪辑](https://x.com/anibal/status/2115608213059940689) | Opus 5.5 | [@anibal](https://x.com/anibal) | 2:58 | — |
@@ -142,6 +144,7 @@
 | [巴赫风格哥德堡变奏曲创作](https://x.com/dotkrueger/status/2103671847531516144) | Opus 5.5 | [@dotkrueger](https://x.com/dotkrueger) | 2:02 | — |
 | [五条悟时间网格剪辑](https://x.com/aimikoda/status/2115118260060656126) | Opus 5.5 | [@aimikoda](https://x.com/aimikoda) | 0:33 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2115118260060656126) |
 | [自动化内容视频剪辑](https://x.com/condzxyz/status/2110068531941527601) | Opus 5.5 | [@condzxyz](https://x.com/condzxyz) | 7:49 | — |
+| [虚构曲风的大合唱](https://x.com/balaena01/status/2119787191723511907) | Opus 5.5 | [@balaena01](https://x.com/balaena01) | 1:26 | — |
 | [AI视频剪辑演示](https://x.com/shupeiman/status/2105272288769978634) | Opus 5.5 | [@shupeiman](https://x.com/shupeiman) | 0:23 | — |
 | [用代码制作的比特币主题剪辑](https://x.com/skwp/status/2103093628230873415) | Opus 5.5 | [@skwp](https://x.com/skwp) | 0:41 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103093628230873415) |
 | [AI图像细节修复技能演示](https://x.com/higgsfield_ai/status/2103518041908908250) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:05 | — |

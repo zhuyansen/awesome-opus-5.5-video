@@ -1,6 +1,6 @@
 # 产品广告
 
-共 262 个作品，其中 49 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 264 个作品，其中 50 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [参考视频复刻的宣传片](https://x.com/servasyy_ai/status/2103785302288687268) | Opus 5.5 | [@servasyy_ai](https://x.com/servasyy_ai) | 0:29 | — |
 | [SaaS产品预告片](https://x.com/javiiarchive/status/2103501151438323850) | Opus 5.5 | [@javiiarchive](https://x.com/javiiarchive) | 0:15 | — |
 | [动画演示短片](https://x.com/devteamdrew/status/2108254006036296116) | Sonnet 5.5 / Haiku 5.5 | [@devteamdrew](https://x.com/devteamdrew) | 0:32 | — |
+| [烹饪应用界面设计](https://x.com/BreejeAnadkat/status/2119750356703809727) | Opus 5.5 | [@BreejeAnadkat](https://x.com/BreejeAnadkat) | 0:10 | — |
 | [住宅翻新电影感展示片](https://x.com/bnj/status/2118113244405739725) | Opus 5.5 | [@bnj](https://x.com/bnj) | 2:12 | — |
 | [SaaS产品发布视频（一次生成）](https://x.com/pbteja1998/status/2103176101497651644) | Opus 5.5 | [@pbteja1998](https://x.com/pbteja1998) | 1:05 | — |
 | [端到端打造的VR冻结时间应用](https://x.com/lucas_martinic/status/2112514417300758643) | Opus 5.5 | [@lucas_martinic](https://x.com/lucas_martinic) | 0:52 | — |
@@ -129,6 +130,7 @@
 | [产品改版展示视频](https://x.com/Groovy_HQ/status/2103597420873646509) | Opus 5.5 | [@Groovy_HQ](https://x.com/Groovy_HQ) | 0:15 | — |
 | [电影感产品发布影片](https://x.com/AbhinavXJ/status/2104805179401068964) | Sonnet 5.5 | [@AbhinavXJ](https://x.com/AbhinavXJ) | 1:40 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104805179401068964) |
 | [家具照片转3D室内设计应用](https://x.com/higgsfield_ai/status/2102618445489795448) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:32 | — |
+| [应用发布视频制作流程](https://x.com/rileybrown/status/2119651130963537996) | Opus 5.5 | [@rileybrown](https://x.com/rileybrown) | 0:37 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2119651130963537996) |
 | [根据软件代码生成的介绍视频](https://x.com/gesoikuo3/status/2103723885204254734) | Opus 5.5 | [@gesoikuo3](https://x.com/gesoikuo3) | 0:50 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103723885204254734) |
 | [开源任务管理应用](https://x.com/Tanjim38/status/2112964568616169890) | Opus 5.5 | [@Tanjim38](https://x.com/Tanjim38) | 0:22 | — |
 | [用代码免费生成的AI广告视频](https://x.com/Lucas_IA_/status/2102757164158689759) | Opus 5.5 | [@Lucas_IA_](https://x.com/Lucas_IA_) | 1:12 | — |

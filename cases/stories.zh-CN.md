@@ -1,6 +1,6 @@
 # 角色故事
 
-共 245 个作品，其中 59 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 246 个作品，其中 60 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [发条鸟短片](https://x.com/camperaigg/status/2117666378174050352) | Fable 5.5 (preview) | [@camperaigg](https://x.com/camperaigg) | 1:00 | — |
 | [森林中的女孩与机器人动画](https://x.com/ChrisGPT/status/2119140493091094672) | Opus 5.5 / Fable 5.5 (preview) | [@ChrisGPT](https://x.com/ChrisGPT) | 1:00 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2119140493091094672) |
 | [中秋艺术短片与音乐改编](https://x.com/op7418/status/2103520946841862312) | Opus 5.5 | [@op7418](https://x.com/op7418) | 0:27 | — |
+| [代码渲染的太空动漫战斗](https://x.com/anstapnever/status/2119772039037014524) | Fable 5.5 (preview) | [@anstapnever](https://x.com/anstapnever) | 1:18 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2119772039037014524) |
 | [来自未来AI的穿越时空讯息视频](https://x.com/VoidStateKate/status/2103308194852303245) | Opus 5.5 | [@VoidStateKate](https://x.com/VoidStateKate) | 0:39 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103308194852303245) |
 | [末班归途：日本雨夜街景](https://x.com/pankajkumar_dev/status/2112176644018626840) | Fable 5.5 (preview) | [@pankajkumar_dev](https://x.com/pankajkumar_dev) | 0:56 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2112176644018626840) |
 | [全由AI制作的音乐动画作品](https://x.com/anthrupad/status/2110950344272527596) | Opus 5.5 | [@anthrupad](https://x.com/anthrupad) | 0:52 | — |
