@@ -6,6 +6,8 @@ X 上用 Claude Opus 5.5、Sonnet 5.5、Haiku 5.5 和 Fable 5.5（内测中、�
 
 **[在线浏览，可直接播放和复制提示词 →](https://jasonzhu.ai/zh/prompts/claude-opus-5-5)**
 
+想自己做一条？**[Claude 视频 skill 实测与评级：Agent Skills Hub →](https://agentskillshub.top/best/claude-video-skills/zh/)**
+
 <table>
   <tr>
     <td width="25%" align="center"><a href="https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102801274173587569"><img src="https://pbs.twimg.com/amplify_video_thumb/2102799458031534086/img/GBhRZ7O3fCXn59dk.jpg" width="200" alt="《Claude Pop》音乐视频重制版"></a><br><sub>《Claude Pop》音乐视频重制版</sub></td>

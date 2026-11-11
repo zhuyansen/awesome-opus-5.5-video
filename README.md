@@ -6,6 +6,8 @@ Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5, Sonnet 5
 
 **[Browse online — play the videos and copy the prompts →](https://jasonzhu.ai/en/prompts/claude-opus-5-5)**
 
+Want to make one yourself? **[Claude video skills, tested and graded on Agent Skills Hub →](https://agentskillshub.top/best/claude-video-skills/)**
+
 <table>
   <tr>
     <td width="25%" align="center"><a href="https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102801274173587569"><img src="https://pbs.twimg.com/amplify_video_thumb/2102799458031534086/img/GBhRZ7O3fCXn59dk.jpg" width="200" alt="Remake of the 'Claude Pop' music video"></a><br><sub>Remake of the 'Claude Pop' music video</sub></td>
