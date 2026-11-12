@@ -1,6 +1,6 @@
 # 动效设计
 
-共 352 个作品，其中 93 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 354 个作品，其中 93 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [明暗模式切换界面动画](https://x.com/chetaslua/status/2119499941185986722) | Opus 5.5 | [@chetaslua](https://x.com/chetaslua) | 0:24 | — |
 | [设计指导前后的动效视频](https://x.com/ddmonyai/status/2118341924516139342) | Opus 5.5 | [@ddmonyai](https://x.com/ddmonyai) | 1:57 | — |
 | [90秒动态设计与配乐演示](https://x.com/kloss_xyz/status/2103624187017572421) | Opus 5.5 | [@kloss_xyz](https://x.com/kloss_xyz) | 0:26 | — |
+| [抽卡演出动画效果](https://x.com/tamaandchoco/status/2120077392794529987) | Opus 5.5 | [@tamaandchoco](https://x.com/tamaandchoco) | 0:45 | — |
 | [生成的动画片段](https://x.com/driftauz/status/2111109055955763570) | Opus 5.5 | [@driftauz](https://x.com/driftauz) | 0:12 | — |
 | [动态设计转为SVG动画HTML文件](https://x.com/OdinLovis/status/2112536814393454735) | Opus 5.5 | [@OdinLovis](https://x.com/OdinLovis) | 0:35 | — |
 | [武术短片改制的动画片头](https://x.com/aimikoda/status/2110119492076404869) | Opus 5.5 | [@aimikoda](https://x.com/aimikoda) | 0:32 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2110119492076404869) |
@@ -288,6 +289,7 @@
 | [基于 PDF 生成的动态设计](https://x.com/m4lkxx/status/2113978922949816588) | Opus 5.5 | [@m4lkxx](https://x.com/m4lkxx) | 0:13 | — |
 | [令人惊叹的AI输出反应视频](https://x.com/antonioleivag/status/2103484611531866467) | Opus 5.5 | [@antonioleivag](https://x.com/antonioleivag) | 0:15 | — |
 | [动效模板应用](https://x.com/techhalla/status/2103923805098070477) | Opus 5.5 | [@techhalla](https://x.com/techhalla) | 0:24 | — |
+| [移动应用动效广告](https://x.com/Aygramm_/status/2120112310505353379) | Opus 5.5 | [@Aygramm_](https://x.com/Aygramm_) | 0:40 | — |
 | [用Opus 5.5打造的AITuber虚拟形象系统](https://x.com/lnkiai/status/2105607195224354898) | Opus 5.5 | [@lnkiai](https://x.com/lnkiai) | 0:09 | — |
 | [两句提示词生成的动画](https://x.com/tomcupr/status/2103776902960042359) | Opus 5.5 | [@tomcupr](https://x.com/tomcupr) | 0:30 | — |
 | [不用After Effects制作的HTML动效](https://x.com/seiiiiiiiiiiru/status/2103764908764791286) | Opus 5.5 | [@seiiiiiiiiiiru](https://x.com/seiiiiiiiiiiru) | 0:12 | — |

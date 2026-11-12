@@ -1,6 +1,6 @@
 # Games
 
-477 works, 67 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+481 works, 67 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Trolley problem game](https://x.com/soyukke_game/status/2102899404336493045) | Opus 5.5 | [@soyukke_game](https://x.com/soyukke_game) | 0:19 | — |
 | [AI iteratively fixes its own game via screenshots](https://x.com/prasenx/status/2107451914954911838) | Opus 5.5 | [@prasenx](https://x.com/prasenx) | 5:20 | — |
 | [AI-built tower defense game trailer](https://x.com/remoteugur/status/2116660949042045216) | Opus 5.5 | [@remoteugur](https://x.com/remoteugur) | 1:00 | — |
+| [Age of Dragon browser open-world RPG](https://x.com/M__Houser/status/2120253236309569696) | Opus 5.5 | [@M__Houser](https://x.com/M__Houser) | 1:56 | — |
 | [Far Cry 3 clone game (polished)](https://x.com/maxt3chno/status/2103960867327115462) | Opus 5.5 | [@maxt3chno](https://x.com/maxt3chno) | 2:08 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103960867327115462) |
 | [1v1 basketball game ISO](https://x.com/databallr/status/2103592504386101512) | Opus 5.5 | [@databallr](https://x.com/databallr) | 0:15 | — |
 | [Endless shooter mobile game](https://x.com/Andrew_Blumson/status/2103861788987068922) | Opus 5.5 | [@Andrew_Blumson](https://x.com/Andrew_Blumson) | 2:06 | — |
@@ -407,6 +408,7 @@
 | [Roblox false-ban screen recreation](https://x.com/Acrelic395694/status/2116253042718703812) | Opus 5.5 | [@Acrelic395694](https://x.com/Acrelic395694) | 0:14 | — |
 | [Minecraft-style sandbox with weather, mobs and weapons](https://x.com/notjazii/status/2108590346309706221) | Haiku 5.5 / Fable 5.5 (preview) | [@notjazii](https://x.com/notjazii) | 1:09 | — |
 | [Stickman game with character customization](https://x.com/notjazii/status/2102831012686573744) | Opus 5.5 | [@notjazii](https://x.com/notjazii) | 1:54 | — |
+| [AI-generated game spell effects](https://x.com/CanItCode/status/2120135112876580869) | Opus 5.5 | [@CanItCode](https://x.com/CanItCode) | 0:46 | — |
 | [Balloon island building game](https://x.com/0xbobaaa/status/2109628088430510337) | Opus 5.5 | [@0xbobaaa](https://x.com/0xbobaaa) | 0:30 | — |
 | [Early Roblox recreated inside Roblox](https://x.com/_kadokis/status/2115551949831684185) | Opus 5.5 | [@_kadokis](https://x.com/_kadokis) | 0:23 | — |
 | [Procedural pixel-art game rebuild](https://x.com/aj_dev_smith/status/2114570392539107354) | Opus 5.5 | [@aj_dev_smith](https://x.com/aj_dev_smith) | 0:57 | — |
@@ -421,6 +423,7 @@
 | [3D platformer rebuilt from original game movement data](https://x.com/Stefan_3D_AI/status/2113252782287241232) | Opus 5.5 | [@Stefan_3D_AI](https://x.com/Stefan_3D_AI) | 0:45 | — |
 | [Space civilization browser game](https://x.com/konstantinsaifo/status/2105261985235444072) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 1:01 | — |
 | [Procedural mountain flight simulator](https://x.com/cyrilXBT/status/2103737605510836371) | Opus 5.5 | [@cyrilXBT](https://x.com/cyrilXBT) | 0:15 | — |
+| [Prompt-built racing game](https://x.com/DfinityToday/status/2120207860823212112) | Opus 5.5 | [@DfinityToday](https://x.com/DfinityToday) | 0:36 | — |
 | [Game battle screen in development](https://x.com/FRIENDS73539897/status/2103675800277106751) | Opus 5.5 | [@FRIENDS73539897](https://x.com/FRIENDS73539897) | 0:42 | — |
 | [Dragon Ball turtle rescue game level](https://x.com/aniketjart/status/2115710904021225589) | Opus 5.5 | [@aniketjart](https://x.com/aniketjart) | 0:43 | — |
 | [Multiplayer seaside town game with NPCs](https://x.com/chongdashu/status/2108195439606681975) | Haiku 5.5 | [@chongdashu](https://x.com/chongdashu) | 0:42 | — |
@@ -448,6 +451,7 @@
 | ["The Marrowfield Files" game teaser](https://x.com/firatlux/status/2103807534973038936) | Opus 5.5 | [@firatlux](https://x.com/firatlux) | 2:35 | — |
 | [Age of Empires remake with multiplayer](https://x.com/ForwardEditor/status/2104665557144322555) | Sonnet 5.5 | [@ForwardEditor](https://x.com/ForwardEditor) | 0:28 | — |
 | [Pixel-art container port simulation](https://x.com/anxuanng/status/2113610341599117427) | Opus 5.5 | [@anxuanng](https://x.com/anxuanng) | 0:30 | — |
+| [Open exploration game world](https://x.com/danjan_design/status/2120201821012525199) | Opus 5.5 | [@danjan_design](https://x.com/danjan_design) | 0:15 | — |
 | [Playable hospital emergency department sim](https://x.com/anxuanng/status/2111543476123042185) | Opus 5.5 | [@anxuanng](https://x.com/anxuanng) | 0:30 | — |
 | [Pixel art co-op arcade beat 'em up](https://x.com/zer0point_eth/status/2114675490057273405) | Opus 5.5 | [@zer0point_eth](https://x.com/zer0point_eth) | 1:31 | — |
 | [3D Snakeboard game](https://x.com/thebuggeddev/status/2107106516918743153) | Opus 5.5 | [@thebuggeddev](https://x.com/thebuggeddev) | 0:58 | — |

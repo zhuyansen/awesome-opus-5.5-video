@@ -1,6 +1,6 @@
 # 游戏
 
-共 477 个作品，其中 67 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 481 个作品，其中 67 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [电车难题游戏](https://x.com/soyukke_game/status/2102899404336493045) | Opus 5.5 | [@soyukke_game](https://x.com/soyukke_game) | 0:19 | — |
 | [AI通过截图自我修正游戏画面](https://x.com/prasenx/status/2107451914954911838) | Opus 5.5 | [@prasenx](https://x.com/prasenx) | 5:20 | — |
 | [AI 制作的塔防游戏预告片](https://x.com/remoteugur/status/2116660949042045216) | Opus 5.5 | [@remoteugur](https://x.com/remoteugur) | 1:00 | — |
+| [《龙之纪元》浏览器开放世界角色扮演游戏](https://x.com/M__Houser/status/2120253236309569696) | Opus 5.5 | [@M__Houser](https://x.com/M__Houser) | 1:56 | — |
 | [孤岛惊魂3克隆游戏（优化版）](https://x.com/maxt3chno/status/2103960867327115462) | Opus 5.5 | [@maxt3chno](https://x.com/maxt3chno) | 2:08 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103960867327115462) |
 | [1v1篮球游戏ISO](https://x.com/databallr/status/2103592504386101512) | Opus 5.5 | [@databallr](https://x.com/databallr) | 0:15 | — |
 | [无尽射击手机游戏](https://x.com/Andrew_Blumson/status/2103861788987068922) | Opus 5.5 | [@Andrew_Blumson](https://x.com/Andrew_Blumson) | 2:06 | — |
@@ -407,6 +408,7 @@
 | [Roblox 误封禁界面复刻](https://x.com/Acrelic395694/status/2116253042718703812) | Opus 5.5 | [@Acrelic395694](https://x.com/Acrelic395694) | 0:14 | — |
 | [带天气、生物和武器的我的世界式沙盒游戏](https://x.com/notjazii/status/2108590346309706221) | Haiku 5.5 / Fable 5.5 (preview) | [@notjazii](https://x.com/notjazii) | 1:09 | — |
 | [可自定义角色的火柴人游戏](https://x.com/notjazii/status/2102831012686573744) | Opus 5.5 | [@notjazii](https://x.com/notjazii) | 1:54 | — |
+| [人工智能生成的游戏法术特效](https://x.com/CanItCode/status/2120135112876580869) | Opus 5.5 | [@CanItCode](https://x.com/CanItCode) | 0:46 | — |
 | [气球岛建造游戏](https://x.com/0xbobaaa/status/2109628088430510337) | Opus 5.5 | [@0xbobaaa](https://x.com/0xbobaaa) | 0:30 | — |
 | [在Roblox中复刻早期版Roblox](https://x.com/_kadokis/status/2115551949831684185) | Opus 5.5 | [@_kadokis](https://x.com/_kadokis) | 0:23 | — |
 | [程序化像素风游戏重制](https://x.com/aj_dev_smith/status/2114570392539107354) | Opus 5.5 | [@aj_dev_smith](https://x.com/aj_dev_smith) | 0:57 | — |
@@ -421,6 +423,7 @@
 | [复刻经典手感的 3D 平台跳跃游戏](https://x.com/Stefan_3D_AI/status/2113252782287241232) | Opus 5.5 | [@Stefan_3D_AI](https://x.com/Stefan_3D_AI) | 0:45 | — |
 | [太空文明浏览器游戏](https://x.com/konstantinsaifo/status/2105261985235444072) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 1:01 | — |
 | [程序化山脉飞行模拟器](https://x.com/cyrilXBT/status/2103737605510836371) | Opus 5.5 | [@cyrilXBT](https://x.com/cyrilXBT) | 0:15 | — |
+| [通过提示词制作的赛车游戏](https://x.com/DfinityToday/status/2120207860823212112) | Opus 5.5 | [@DfinityToday](https://x.com/DfinityToday) | 0:36 | — |
 | [游戏战斗画面开发中](https://x.com/FRIENDS73539897/status/2103675800277106751) | Opus 5.5 | [@FRIENDS73539897](https://x.com/FRIENDS73539897) | 0:42 | — |
 | [龙珠营救龟仙人海龟游戏关卡](https://x.com/aniketjart/status/2115710904021225589) | Opus 5.5 | [@aniketjart](https://x.com/aniketjart) | 0:43 | — |
 | [多人海边小镇NPC游戏](https://x.com/chongdashu/status/2108195439606681975) | Haiku 5.5 | [@chongdashu](https://x.com/chongdashu) | 0:42 | — |
@@ -448,6 +451,7 @@
 | [《The Marrowfield Files》游戏预告](https://x.com/firatlux/status/2103807534973038936) | Opus 5.5 | [@firatlux](https://x.com/firatlux) | 2:35 | — |
 | [带多人模式的帝国时代重制版](https://x.com/ForwardEditor/status/2104665557144322555) | Sonnet 5.5 | [@ForwardEditor](https://x.com/ForwardEditor) | 0:28 | — |
 | [像素风集装箱港口模拟](https://x.com/anxuanng/status/2113610341599117427) | Opus 5.5 | [@anxuanng](https://x.com/anxuanng) | 0:30 | — |
+| [开放探索式游戏世界](https://x.com/danjan_design/status/2120201821012525199) | Opus 5.5 | [@danjan_design](https://x.com/danjan_design) | 0:15 | — |
 | [可玩的医院急诊科模拟场景](https://x.com/anxuanng/status/2111543476123042185) | Opus 5.5 | [@anxuanng](https://x.com/anxuanng) | 0:30 | — |
 | [像素风多人合作街机格斗游戏](https://x.com/zer0point_eth/status/2114675490057273405) | Opus 5.5 | [@zer0point_eth](https://x.com/zer0point_eth) | 1:31 | — |
 | [3D滑板蛇游戏](https://x.com/thebuggeddev/status/2107106516918743153) | Opus 5.5 | [@thebuggeddev](https://x.com/thebuggeddev) | 0:58 | — |

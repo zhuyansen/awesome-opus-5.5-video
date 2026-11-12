@@ -1,6 +1,6 @@
 # 角色故事
 
-共 246 个作品，其中 60 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 248 个作品，其中 60 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [AI预演制作的音乐短片《ripple》](https://x.com/tapehead_Lab/status/2111421646674514002) | Opus 5.5 | [@tapehead_Lab](https://x.com/tapehead_Lab) | 1:30 | — |
 | [NURSE RIOT AI音乐视频](https://x.com/mi7_crypto/status/2109834099217285170) | Opus 5.5 | [@mi7_crypto](https://x.com/mi7_crypto) | 1:00 | — |
 | [重阳节动画短片](https://x.com/ring_hyacinth/status/2111378795219632209) | Opus 5.5 | [@ring_hyacinth](https://x.com/ring_hyacinth) | 0:38 | — |
+| [纯代码制作的3D动画视频](https://x.com/ai_am_furufuru/status/2120146478983520257) | Opus 5.5 | [@ai_am_furufuru](https://x.com/ai_am_furufuru) | 8:09 | — |
 | [戏剧化个人"战斗"叙事视频](https://x.com/super_bonochin/status/2103881739131376035) | Opus 5.5 | [@super_bonochin](https://x.com/super_bonochin) | 1:05 | — |
 | [代码渲染的港口巨型机甲动画短片](https://x.com/anstapnever/status/2118700618915397795) | Fable 5.5 (preview) | [@anstapnever](https://x.com/anstapnever) | 1:32 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2118700618915397795) |
 | [手绘草图转3D对战动画](https://x.com/MinLiBuilds/status/2102756822990180387) | Opus 5.5 | [@MinLiBuilds](https://x.com/MinLiBuilds) | 1:43 | — |
@@ -249,4 +250,5 @@
 | [纯代码制作的动漫风格视频](https://x.com/makwanatejas170/status/2103703815514173697) | Opus 5.5 | [@makwanatejas170](https://x.com/makwanatejas170) | 1:20 | — |
 | [代码渲染的动漫短片](https://x.com/zodchiii/status/2118363287738073343) | Fable 5.5 (preview) | [@zodchiii](https://x.com/zodchiii) | 1:23 | — |
 | [自嘲搞笑动画](https://x.com/xat_t0b/status/2102581759733121421) | Opus 5.5 | [@xat_t0b](https://x.com/xat_t0b) | 0:30 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102581759733121421) |
+| [我的世界风格3D故事动画](https://x.com/Aneeqxv/status/2120139373492764752) | Opus 5.5 | [@Aneeqxv](https://x.com/Aneeqxv) | 0:10 | — |
 | [自建绘画引擎制作的音乐视频](https://x.com/SanjanaBandara/status/2103574159255318549) | Opus 5.5 | [@SanjanaBandara](https://x.com/SanjanaBandara) | 1:00 | — |

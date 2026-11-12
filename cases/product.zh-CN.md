@@ -1,6 +1,6 @@
 # 产品广告
 
-共 264 个作品，其中 50 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 268 个作品，其中 50 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [多版本App设计方案演示](https://x.com/heycape_/status/2102671212598132975) | Opus 5.5 | [@heycape_](https://x.com/heycape_) | 0:18 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102671212598132975) |
 | [用Blender制作的概念广告](https://x.com/granttheeking/status/2105773778676429021) | Opus 5.5 | [@granttheeking](https://x.com/granttheeking) | 0:51 | — |
 | [根据代码库生成的应用宣传片](https://x.com/akokoi1/status/2103299308460429602) | Opus 5.5 | [@akokoi1](https://x.com/akokoi1) | 0:40 | — |
+| [AI设计视觉作品](https://x.com/kevserctk/status/2120087191887970536) | Opus 5.5 | [@kevserctk](https://x.com/kevserctk) | 0:08 | — |
 | [用three.js重构的设计工具原型](https://x.com/MengTo/status/2105680287854440715) | Opus 5.5 | [@MengTo](https://x.com/MengTo) | 1:14 | — |
 | [Wrapscribe产品视频](https://x.com/shribuilds/status/2102827288190689364) | Opus 5.5 | [@shribuilds](https://x.com/shribuilds) | 0:41 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102827288190689364) |
 | [Snapchat品牌广告片](https://x.com/zentalksai/status/2105355973460369912) | Opus 5.5 | [@zentalksai](https://x.com/zentalksai) | 0:32 | — |
@@ -166,6 +167,7 @@
 | [配乐自我介绍视频](https://x.com/mattn_jp/status/2103491383554445613) | Opus 5.5 | [@mattn_jp](https://x.com/mattn_jp) | 0:38 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103491383554445613) |
 | [AI配音的自动化YouTube视频](https://x.com/thibaultbessonm/status/2103584854432514124) | Opus 5.5 | [@thibaultbessonm](https://x.com/thibaultbessonm) | 0:35 | — |
 | [DumbTV更新宣传视频](https://x.com/DevMuzzammil/status/2112227989685768653) | Opus 5.5 | [@DevMuzzammil](https://x.com/DevMuzzammil) | 0:31 | — |
+| [亚克力手帐本封面设计](https://x.com/Xian0063/status/2120135845453947205) | Opus 5.5 | [@Xian0063](https://x.com/Xian0063) | 1:22 | — |
 | [用Opus5.5制作的网站](https://x.com/xevrion_the1/status/2103557513962745923) | Opus 5.5 | [@xevrion_the1](https://x.com/xevrion_the1) | 0:15 | — |
 | [仪表板改版原型](https://x.com/PostiauxCharles/status/2117624804664647707) | Opus 5.5 | [@PostiauxCharles](https://x.com/PostiauxCharles) | 0:14 | — |
 | [Claude Duet宣传片重制版](https://x.com/AlchainHust/status/2113061393541050715) | Opus 5.5 | [@AlchainHust](https://x.com/AlchainHust) | 0:29 | — |
@@ -184,6 +186,7 @@
 | [纯代码一次生成的营销视频](https://x.com/matthewmillerai/status/2103532155481833538) | Opus 5.5 | [@matthewmillerai](https://x.com/matthewmillerai) | 1:00 | — |
 | [Meta VR 眼镜视频方案合集](https://x.com/mouri45/status/2107036053949575311) | Opus 5.5 | [@mouri45](https://x.com/mouri45) | 4:46 | — |
 | [十条AI生成的UGC带货广告](https://x.com/jakecastilloooo/status/2112552356210778380) | Opus 5.5 | [@jakecastilloooo](https://x.com/jakecastilloooo) | 0:08 | — |
+| [Lottie 驱动的 3D 落地页](https://x.com/MengTo/status/2120109458638712924) | Opus 5.5 | [@MengTo](https://x.com/MengTo) | 1:13 | — |
 | [非官方特斯拉Roadster广告](https://x.com/kevin_t_ngo/status/2111887585639624828) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 1:05 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2111887585639624828) |
 | [界面复刻演示](https://x.com/yyyole/status/2119439631330726244) | Opus 5.5 | [@yyyole](https://x.com/yyyole) | 0:14 | — |
 | [根据PDF指南一小时完成的作品](https://x.com/seeconvm/status/2116138303028138040) | Opus 5.5 | [@seeconvm](https://x.com/seeconvm) | 0:18 | — |
@@ -231,6 +234,7 @@
 | [AI相性测试小应用](https://x.com/hituji_1234/status/2103088141439787502) | Opus 5.5 | [@hituji_1234](https://x.com/hituji_1234) | 0:51 | — |
 | [《图书管理员》无限图书馆预告片](https://x.com/GuliMoreno/status/2111773991991943442) | Opus 5.5 | [@GuliMoreno](https://x.com/GuliMoreno) | 0:20 | — |
 | [非官方Theranos广告](https://x.com/kevin_t_ngo/status/2112877982239096988) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 1:04 | — |
+| [卡车卸货机器人模拟](https://x.com/konstantinsaifo/status/2119996244525543498) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 0:34 | — |
 | [Remote Control功能的定格动画风格广告](https://x.com/noahzweben/status/2103522997978255704) | Opus 5.5 | [@noahzweben](https://x.com/noahzweben) | 0:12 | — |
 | [交互式前端作品](https://x.com/LexnLin/status/2106843514772639995) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 0:42 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2106843514772639995) |
 | [Flowith Canvas AI创作作品](https://x.com/DerekNee/status/2103729728549220815) | Opus 5.5 | [@DerekNee](https://x.com/DerekNee) | 0:45 | — |

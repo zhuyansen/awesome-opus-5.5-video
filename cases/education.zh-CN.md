@@ -1,6 +1,6 @@
 # 科普讲解
 
-共 229 个作品，其中 58 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 232 个作品，其中 58 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -84,12 +84,14 @@
 | [信息图解说动画](https://x.com/treyscalez/status/2117602113509294520) | Opus 5.5 | [@treyscalez](https://x.com/treyscalez) | 1:02 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2117602113509294520) |
 | [文章解说视频](https://x.com/noa_gpt/status/2104938147016765836) | Opus 5.5 / Sonnet 5.5 | [@noa_gpt](https://x.com/noa_gpt) | 1:34 | — |
 | [接入语音合成生成的解说视频](https://x.com/doerstokyo342/status/2103034063816905109) | Opus 5.5 | [@doerstokyo342](https://x.com/doerstokyo342) | 0:34 | — |
+| [儿童英语启蒙动画](https://x.com/linxiaobei888/status/2120050837347258451) | Opus 5.5 | [@linxiaobei888](https://x.com/linxiaobei888) | 2:19 | — |
 | [双生子佯谬相对论动画讲解](https://x.com/masahirochaen/status/2102722719502704941) | Opus 5.5 | [@masahirochaen](https://x.com/masahirochaen) | 0:47 | — |
 | [pi-durable讲座浓缩成的7分钟讲解视频](https://x.com/_alejandroao/status/2112466641464267203) | Opus 5.5 | [@_alejandroao](https://x.com/_alejandroao) | 6:54 | — |
 | [面向机器学习学生的UMAP讲解动画](https://x.com/goodside/status/2103505085292593220) | Opus 5.5 | [@goodside](https://x.com/goodside) | 5:05 | — |
 | [缓存代码交互式讲解](https://x.com/BHolmesDev/status/2106829942206173497) | Opus 5.5 | [@BHolmesDev](https://x.com/BHolmesDev) | 0:19 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2106829942206173497) |
 | [DeepSeek 超级智能体讲解视频](https://x.com/nicbstme/status/2117129728872288512) | Opus 5.5 | [@nicbstme](https://x.com/nicbstme) | 1:30 | — |
 | [通过聊天制作的SpaceX历史视频](https://x.com/xiaohu/status/2110287968783179922) | Opus 5.5 | [@xiaohu](https://x.com/xiaohu) | 5:39 | — |
+| [3Blue1Brown 风格教材讲解视频](https://x.com/alanchan_tw/status/2120169953412202718) | Opus 5.5 | [@alanchan_tw](https://x.com/alanchan_tw) | 1:12 | — |
 | [无字动画：人们对AI的误解](https://x.com/TheSpacerr/status/2105253140765479341) | Sonnet 5.5 | [@TheSpacerr](https://x.com/TheSpacerr) | 0:45 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2105253140765479341) |
 | [犹太历史纪录片一次生成](https://x.com/eranshir/status/2103564391170089429) | Opus 5.5 | [@eranshir](https://x.com/eranshir) | 3:43 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103564391170089429) |
 | [关于Dots AI代理的讲解视频](https://x.com/seiiiiiiiiiiru/status/2105187157841445314) | Sonnet 5.5 | [@seiiiiiiiiiiru](https://x.com/seiiiiiiiiiiru) | 2:11 | — |
@@ -203,6 +205,7 @@
 | [卡通动物冷知识竖屏短片](https://x.com/finnardley/status/2118149077842133334) | Opus 5.5 | [@finnardley](https://x.com/finnardley) | 0:34 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2118149077842133334) |
 | [查询扇出讲解视频](https://x.com/harpreetchatha_/status/2103591810253914585) | Opus 5.5 | [@harpreetchatha_](https://x.com/harpreetchatha_) | 0:20 | — |
 | [原子弹历史三维短片](https://x.com/imjustnewatai/status/2106238699872956427) | Fable 5.5 (preview) | [@imjustnewatai](https://x.com/imjustnewatai) | 3:00 | — |
+| [明亮风格地形地图解说](https://x.com/lemomo_ai/status/2120084499736457604) | Opus 5.5 | [@lemomo_ai](https://x.com/lemomo_ai) | 0:52 | — |
 | [AI发展史动画时间线视频](https://x.com/kloss_xyz/status/2103652674336067876) | Opus 5.5 | [@kloss_xyz](https://x.com/kloss_xyz) | 2:52 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103652674336067876) |
 | [专注力指南动画讲解](https://x.com/chetaslua/status/2113229122596163955) | Opus 5.5 / Fable 5.5 (preview) | [@chetaslua](https://x.com/chetaslua) | 2:12 | — |
 | [互动逆向工程实验室](https://x.com/hanakoxbt/status/2113768083949232633) | Opus 5.5 | [@hanakoxbt](https://x.com/hanakoxbt) | 0:35 | — |

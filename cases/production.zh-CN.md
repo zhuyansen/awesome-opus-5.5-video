@@ -1,6 +1,6 @@
 # 制作流程
 
-共 187 个作品，其中 32 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 190 个作品，其中 32 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [梗图风格视频剪辑](https://x.com/blueemi99/status/2107459553369760024) | Fable 5.5 (preview) | [@blueemi99](https://x.com/blueemi99) | 0:30 | — |
 | [程序化三维舞蹈视频框架](https://x.com/lucianlamp/status/2116804148301848846) | Opus 5.5 | [@lucianlamp](https://x.com/lucianlamp) | 0:15 | — |
 | [未用剪辑软件制作的Pivot风格视频](https://x.com/shupeiman/status/2105191698523729997) | Opus 5.5 | [@shupeiman](https://x.com/shupeiman) | 1:01 | — |
+| [程序化拼贴音乐视频编辑工具](https://x.com/tapehead_Lab/status/2120122000727220618) | Opus 5.5 | [@tapehead_Lab](https://x.com/tapehead_Lab) | 0:49 | — |
 | [Tapnow短音乐视频](https://x.com/akuai33/status/2107131775592157694) | Opus 5.5 | [@akuai33](https://x.com/akuai33) | 1:32 | — |
 | [单一提示自动化视频剪辑与Blender场景](https://x.com/rileybrown/status/2111925755215040779) | Opus 5.5 | [@rileybrown](https://x.com/rileybrown) | 1:37 | — |
 | [全自动视频剪辑流程演示](https://x.com/AIPlus_AISchool/status/2103441866717073637) | Opus 5.5 | [@AIPlus_AISchool](https://x.com/AIPlus_AISchool) | 1:00 | — |
@@ -72,6 +73,7 @@
 | [使用 Seedance 的视频到视频转换](https://x.com/techguyver/status/2119663783316758596) | Opus 5.5 | [@techguyver](https://x.com/techguyver) | 0:16 | — |
 | [电子音乐（Techno）创作](https://x.com/Dr_Singularity/status/2104013854909116657) | Opus 5.5 | [@Dr_Singularity](https://x.com/Dr_Singularity) | 5:02 | — |
 | [游戏自动VFX生成流水线](https://x.com/KanaWorks_AI/status/2107752774423511539) | Opus 5.5 | [@KanaWorks_AI](https://x.com/KanaWorks_AI) | 0:32 | — |
+| [浏览器磁带氛围音机](https://x.com/parhelion318/status/2120212304809918827) | Opus 5.5 | [@parhelion318](https://x.com/parhelion318) | 0:44 | — |
 | [多工具流水线制作的克隆声音短视频](https://x.com/masahirochaen/status/2103872865770836012) | Opus 5.5 | [@masahirochaen](https://x.com/masahirochaen) | 0:57 | — |
 | [山姆·奥特曼YTP恶搞视频](https://x.com/JaydenDavisNC/status/2109764557308592537) | Opus 5.5 | [@JaydenDavisNC](https://x.com/JaydenDavisNC) | 3:39 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2109764557308592537) |
 | [Opus生成的工业电子BGM](https://x.com/mochitaro_de/status/2103343950996345191) | Opus 5.5 | [@mochitaro_de](https://x.com/mochitaro_de) | 0:15 | — |
@@ -117,6 +119,7 @@
 | [无时间线剪辑播客片段](https://x.com/Aygramm_/status/2118074468295700937) | Opus 5.5 | [@Aygramm_](https://x.com/Aygramm_) | 0:50 | — |
 | [自动视频剪辑流程](https://x.com/Scenario_gg/status/2110020120865313063) | Opus 5.5 | [@Scenario_gg](https://x.com/Scenario_gg) | 0:13 | — |
 | [自动化Blender场景搭建演示](https://x.com/higgsfield_ai/status/2103537802688463269) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:12 | — |
+| [YouTube 片头剪辑：原始素材、团队版与 AI 版对比](https://x.com/AasilKhan14/status/2120127394191409319) | Opus 5.5 | [@AasilKhan14](https://x.com/AasilKhan14) | 0:33 | — |
 | [代码渲染视频制作揭秘](https://x.com/konmari_tweet/status/2103846791976513981) | Opus 5.5 | [@konmari_tweet](https://x.com/konmari_tweet) | 1:23 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103846791976513981) |
 | [代码剪辑视频导入剪映草稿](https://x.com/leaf_sanren/status/2116164468015337516) | Opus 5.5 | [@leaf_sanren](https://x.com/leaf_sanren) | 0:16 | — |
 | [佛经动感remix版本](https://x.com/nishio/status/2103903175631880308) | Opus 5.5 | [@nishio](https://x.com/nishio) | 3:04 | — |

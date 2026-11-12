@@ -1,6 +1,6 @@
 # Product demos & ads
 
-264 works, 50 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+268 works, 50 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Multiple app design variations demo](https://x.com/heycape_/status/2102671212598132975) | Opus 5.5 | [@heycape_](https://x.com/heycape_) | 0:18 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102671212598132975) |
 | [Spec ad built with Blender](https://x.com/granttheeking/status/2105773778676429021) | Opus 5.5 | [@granttheeking](https://x.com/granttheeking) | 0:51 | — |
 | [App promo video generated from codebase](https://x.com/akokoi1/status/2103299308460429602) | Opus 5.5 | [@akokoi1](https://x.com/akokoi1) | 0:40 | — |
+| [AI-designed visual](https://x.com/kevserctk/status/2120087191887970536) | Opus 5.5 | [@kevserctk](https://x.com/kevserctk) | 0:08 | — |
 | [Rebuilt design tool prototype in three.js](https://x.com/MengTo/status/2105680287854440715) | Opus 5.5 | [@MengTo](https://x.com/MengTo) | 1:14 | — |
 | [Wrapscribe product video](https://x.com/shribuilds/status/2102827288190689364) | Opus 5.5 | [@shribuilds](https://x.com/shribuilds) | 0:41 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102827288190689364) |
 | [Snapchat brand ad spot](https://x.com/zentalksai/status/2105355973460369912) | Opus 5.5 | [@zentalksai](https://x.com/zentalksai) | 0:32 | — |
@@ -166,6 +167,7 @@
 | [Self-introduction video with music](https://x.com/mattn_jp/status/2103491383554445613) | Opus 5.5 | [@mattn_jp](https://x.com/mattn_jp) | 0:38 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103491383554445613) |
 | [Automated YouTube video with AI voice](https://x.com/thibaultbessonm/status/2103584854432514124) | Opus 5.5 | [@thibaultbessonm](https://x.com/thibaultbessonm) | 0:35 | — |
 | [DumbTV update promo video](https://x.com/DevMuzzammil/status/2112227989685768653) | Opus 5.5 | [@DevMuzzammil](https://x.com/DevMuzzammil) | 0:31 | — |
+| [Acrylic planner cover design](https://x.com/Xian0063/status/2120135845453947205) | Opus 5.5 | [@Xian0063](https://x.com/Xian0063) | 1:22 | — |
 | [Website made with Opus 5.5](https://x.com/xevrion_the1/status/2103557513962745923) | Opus 5.5 | [@xevrion_the1](https://x.com/xevrion_the1) | 0:15 | — |
 | [Dashboard redesign prototype](https://x.com/PostiauxCharles/status/2117624804664647707) | Opus 5.5 | [@PostiauxCharles](https://x.com/PostiauxCharles) | 0:14 | — |
 | [Claude Duet promo video remake](https://x.com/AlchainHust/status/2113061393541050715) | Opus 5.5 | [@AlchainHust](https://x.com/AlchainHust) | 0:29 | — |
@@ -184,6 +186,7 @@
 | [One-shot marketing video built with code](https://x.com/matthewmillerai/status/2103532155481833538) | Opus 5.5 | [@matthewmillerai](https://x.com/matthewmillerai) | 1:00 | — |
 | [Meta VR Glasses video variations](https://x.com/mouri45/status/2107036053949575311) | Opus 5.5 | [@mouri45](https://x.com/mouri45) | 4:46 | — |
 | [Ten AI-generated UGC product ads](https://x.com/jakecastilloooo/status/2112552356210778380) | Opus 5.5 | [@jakecastilloooo](https://x.com/jakecastilloooo) | 0:08 | — |
+| [Lottie-powered 3D landing page](https://x.com/MengTo/status/2120109458638712924) | Opus 5.5 | [@MengTo](https://x.com/MengTo) | 1:13 | — |
 | [Unofficial Tesla Roadster commercial](https://x.com/kevin_t_ngo/status/2111887585639624828) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 1:05 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2111887585639624828) |
 | [Replicated interface demo](https://x.com/yyyole/status/2119439631330726244) | Opus 5.5 | [@yyyole](https://x.com/yyyole) | 0:14 | — |
 | [One-hour build from a PDF guide](https://x.com/seeconvm/status/2116138303028138040) | Opus 5.5 | [@seeconvm](https://x.com/seeconvm) | 0:18 | — |
@@ -231,6 +234,7 @@
 | [AI compatibility quiz app](https://x.com/hituji_1234/status/2103088141439787502) | Opus 5.5 | [@hituji_1234](https://x.com/hituji_1234) | 0:51 | — |
 | [El Bibliotecario infinite library teaser](https://x.com/GuliMoreno/status/2111773991991943442) | Opus 5.5 | [@GuliMoreno](https://x.com/GuliMoreno) | 0:20 | — |
 | [Unofficial Theranos commercial](https://x.com/kevin_t_ngo/status/2112877982239096988) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 1:04 | — |
+| [Truck-unloading robot simulation](https://x.com/konstantinsaifo/status/2119996244525543498) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 0:34 | — |
 | [Claymation-style ad for Remote Control feature](https://x.com/noahzweben/status/2103522997978255704) | Opus 5.5 | [@noahzweben](https://x.com/noahzweben) | 0:12 | — |
 | [Interactive frontend artifact](https://x.com/LexnLin/status/2106843514772639995) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 0:42 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2106843514772639995) |
 | [Flowith Canvas AI-made piece](https://x.com/DerekNee/status/2103729728549220815) | Opus 5.5 | [@DerekNee](https://x.com/DerekNee) | 0:45 | — |

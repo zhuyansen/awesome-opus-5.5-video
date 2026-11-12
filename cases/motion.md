@@ -1,6 +1,6 @@
 # Motion graphics & UI
 
-352 works, 93 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+354 works, 93 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Animated light and dark mode interface](https://x.com/chetaslua/status/2119499941185986722) | Opus 5.5 | [@chetaslua](https://x.com/chetaslua) | 0:24 | — |
 | [Motion graphics before and after design coaching](https://x.com/ddmonyai/status/2118341924516139342) | Opus 5.5 | [@ddmonyai](https://x.com/ddmonyai) | 1:57 | — |
 | [90-second motion design and sound demo](https://x.com/kloss_xyz/status/2103624187017572421) | Opus 5.5 | [@kloss_xyz](https://x.com/kloss_xyz) | 0:26 | — |
+| [Gacha pull animation effects](https://x.com/tamaandchoco/status/2120077392794529987) | Opus 5.5 | [@tamaandchoco](https://x.com/tamaandchoco) | 0:45 | — |
 | [Generated animated clip](https://x.com/driftauz/status/2111109055955763570) | Opus 5.5 | [@driftauz](https://x.com/driftauz) | 0:12 | — |
 | [Motion design rebuilt as HTML/SVG animation](https://x.com/OdinLovis/status/2112536814393454735) | Opus 5.5 | [@OdinLovis](https://x.com/OdinLovis) | 0:35 | — |
 | [Anime opening edit of a martial arts clip](https://x.com/aimikoda/status/2110119492076404869) | Opus 5.5 | [@aimikoda](https://x.com/aimikoda) | 0:32 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2110119492076404869) |
@@ -288,6 +289,7 @@
 | [Motion design render from a PDF](https://x.com/m4lkxx/status/2113978922949816588) | Opus 5.5 | [@m4lkxx](https://x.com/m4lkxx) | 0:13 | — |
 | [Impressive AI output reaction video](https://x.com/antonioleivag/status/2103484611531866467) | Opus 5.5 | [@antonioleivag](https://x.com/antonioleivag) | 0:15 | — |
 | [Motion graphics template app](https://x.com/techhalla/status/2103923805098070477) | Opus 5.5 | [@techhalla](https://x.com/techhalla) | 0:24 | — |
+| [Motion ad for a mobile app](https://x.com/Aygramm_/status/2120112310505353379) | Opus 5.5 | [@Aygramm_](https://x.com/Aygramm_) | 0:40 | — |
 | [AITuber avatar system built with Opus 5.5](https://x.com/lnkiai/status/2105607195224354898) | Opus 5.5 | [@lnkiai](https://x.com/lnkiai) | 0:09 | — |
 | [Two-sentence prompt animation result](https://x.com/tomcupr/status/2103776902960042359) | Opus 5.5 | [@tomcupr](https://x.com/tomcupr) | 0:30 | — |
 | [HTML motion graphics without After Effects](https://x.com/seiiiiiiiiiiru/status/2103764908764791286) | Opus 5.5 | [@seiiiiiiiiiiru](https://x.com/seiiiiiiiiiiru) | 0:12 | — |
