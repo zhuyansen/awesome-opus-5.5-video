@@ -1,6 +1,6 @@
 # Explainers & education
 
-232 works, 58 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+233 works, 58 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -228,6 +228,7 @@
 | [Crypto trading concept animation](https://x.com/Dan_Kostecki/status/2103761581871964592) | Opus 5.5 | [@Dan_Kostecki](https://x.com/Dan_Kostecki) | 2:43 | — |
 | [Interactive Rubik's cube mechanics explainer](https://x.com/0x_mura/status/2115026640795226402) | Opus 5.5 | [@0x_mura](https://x.com/0x_mura) | 0:35 | — |
 | [15-second persuasive explainer on ending the Fed](https://x.com/cboyack/status/2103617085402407181) | Opus 5.5 | [@cboyack](https://x.com/cboyack) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103617085402407181) |
+| [Machu Picchu travel explainer](https://x.com/CHIBIKURO_QnQ/status/2120485627007558114) | Opus 5.5 | [@CHIBIKURO_QnQ](https://x.com/CHIBIKURO_QnQ) | 1:37 | — |
 | [Explainer video for an Anthropic science blog post](https://x.com/deepwhitman/status/2103562764929389035) | Opus 5.5 | [@deepwhitman](https://x.com/deepwhitman) | 1:39 | — |
 | [How a roadster drives upside down on an inverted ramp](https://x.com/andreysuperior/status/2113323122682163307) | Opus 5.5 | [@andreysuperior](https://x.com/andreysuperior) | 0:45 | — |
 | [Interactive optics learning app](https://x.com/techartist_/status/2119120307458097260) | Opus 5.5 | [@techartist_](https://x.com/techartist_) | 0:30 | — |

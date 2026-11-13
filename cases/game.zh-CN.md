@@ -1,6 +1,6 @@
 # 游戏
 
-共 481 个作品，其中 67 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 483 个作品，其中 67 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -416,6 +416,7 @@
 | [AI生成的几何冲刺关卡](https://x.com/phobboos/status/2110327573398143363) | Opus 5.5 | [@phobboos](https://x.com/phobboos) | 1:19 | — |
 | [带首领战的Roblox小镇游戏](https://x.com/0xKense1/status/2118086746248548653) | Opus 5.5 | [@0xKense1](https://x.com/0xKense1) | 0:36 | — |
 | [Unreal引擎制作的F-Zero风格赛车游戏](https://x.com/ForwardEditor/status/2104633533981491575) | Sonnet 5.5 | [@ForwardEditor](https://x.com/ForwardEditor) | 1:57 | — |
+| [骑马游戏原型](https://x.com/prasenx/status/2120565971270459430) | Opus 5.5 | [@prasenx](https://x.com/prasenx) | 2:11 | — |
 | [MD版推动漂移改版调试](https://x.com/hagihide/status/2110702464198660316) | Opus 5.5 | [@hagihide](https://x.com/hagihide) | 3:34 | — |
 | [游戏复刻项目后续视频](https://x.com/LexnLin/status/2103539721649692713) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 0:36 | — |
 | [宝石采掘与首饰制作浏览器游戏](https://x.com/maiwai1168/status/2119374866604544488) | Sonnet 5.5 | [@maiwai1168](https://x.com/maiwai1168) | 0:18 | — |
@@ -467,6 +468,7 @@
 | [歧路旅人风格麻将肉鸽游戏](https://x.com/ezshine/status/2103574793262141636) | Opus 5.5 | [@ezshine](https://x.com/ezshine) | 0:40 | — |
 | [科幻第一人称射击游戏首领战](https://x.com/Rubzem/status/2119449738592571559) | Opus 5.5 | [@Rubzem](https://x.com/Rubzem) | 0:51 | — |
 | [划船收集汉字的日语学习小游戏](https://x.com/icreatelife/status/2113022598368067751) | Opus 5.5 | [@icreatelife](https://x.com/icreatelife) | 2:25 | — |
+| [可玩的 Super Heavy 接取游戏](https://x.com/konstantinsaifo/status/2120356782690443382) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 0:26 | — |
 | [扩展地形游戏地图](https://x.com/Greysuki/status/2113527486869016974) | Opus 5.5 | [@Greysuki](https://x.com/Greysuki) | 0:30 | — |
 | [付丧神妖刀像素敌人角色](https://x.com/MindGate_dev/status/2119431394657288288) | Opus 5.5 | [@MindGate_dev](https://x.com/MindGate_dev) | 0:39 | — |
 | [单指可玩的《只狼》克隆](https://x.com/plum_very/status/2103481769999876528) | Opus 5.5 | [@plum_very](https://x.com/plum_very) | 1:08 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103481769999876528) |

@@ -1,6 +1,6 @@
 # Product demos & ads
 
-268 works, 50 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+272 works, 50 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Pig Love Notes: An Animated App Promo](https://x.com/jackfriks/status/2103132260589338762) | Opus 5.5 | [@jackfriks](https://x.com/jackfriks) | 0:20 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103132260589338762) |
 | [Landing page UI built quickly](https://x.com/dhruvalgolakiya/status/2102802914024845385) | Opus 5.5 | [@dhruvalgolakiya](https://x.com/dhruvalgolakiya) | 0:33 | — |
 | [Isometric landing page design](https://x.com/itsnotryan/status/2108228989063991575) | Opus 5.5 | [@itsnotryan](https://x.com/itsnotryan) | 0:06 | — |
+| [Mobile interface interaction design](https://x.com/nono_ai_archive/status/2120448953074286698) | Opus 5.5 | [@nono_ai_archive](https://x.com/nono_ai_archive) | 0:19 | — |
 | [Product promo video variation using 3D data](https://x.com/yoshifujidesign/status/2103988134069617127) | Opus 5.5 | [@yoshifujidesign](https://x.com/yoshifujidesign) | 0:30 | — |
 | [Product PV with fine-tuned instructions](https://x.com/yoshifujidesign/status/2103989912676741479) | Opus 5.5 | [@yoshifujidesign](https://x.com/yoshifujidesign) | 0:30 | — |
 | [Promotional video for a Roblox game](https://x.com/dataX_e/status/2104967024812118196) | Opus 5.5 | [@dataX_e](https://x.com/dataX_e) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104967024812118196) |
@@ -131,6 +132,7 @@
 | [Cinematic product launch film](https://x.com/AbhinavXJ/status/2104805179401068964) | Sonnet 5.5 | [@AbhinavXJ](https://x.com/AbhinavXJ) | 1:40 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104805179401068964) |
 | [Furniture-to-3D interior design app](https://x.com/higgsfield_ai/status/2102618445489795448) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:32 | — |
 | [App launch video workflow](https://x.com/rileybrown/status/2119651130963537996) | Opus 5.5 | [@rileybrown](https://x.com/rileybrown) | 0:37 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2119651130963537996) |
+| [Interactive 3D paper planner](https://x.com/Xian0063/status/2120417834694250522) | Opus 5.5 | [@Xian0063](https://x.com/Xian0063) | 0:40 | — |
 | [Software intro video generated from codebase](https://x.com/gesoikuo3/status/2103723885204254734) | Opus 5.5 | [@gesoikuo3](https://x.com/gesoikuo3) | 0:50 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103723885204254734) |
 | [Open-source task management app](https://x.com/Tanjim38/status/2112964568616169890) | Opus 5.5 | [@Tanjim38](https://x.com/Tanjim38) | 0:22 | — |
 | [Free AI ad video generated in code](https://x.com/Lucas_IA_/status/2102757164158689759) | Opus 5.5 | [@Lucas_IA_](https://x.com/Lucas_IA_) | 1:12 | — |
@@ -190,6 +192,7 @@
 | [Unofficial Tesla Roadster commercial](https://x.com/kevin_t_ngo/status/2111887585639624828) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 1:05 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2111887585639624828) |
 | [Replicated interface demo](https://x.com/yyyole/status/2119439631330726244) | Opus 5.5 | [@yyyole](https://x.com/yyyole) | 0:14 | — |
 | [One-hour build from a PDF guide](https://x.com/seeconvm/status/2116138303028138040) | Opus 5.5 | [@seeconvm](https://x.com/seeconvm) | 0:18 | — |
+| [Light and dark mode interfaces](https://x.com/Ben_escrito/status/2120531797008175491) | Opus 5.5 | [@Ben_escrito](https://x.com/Ben_escrito) | 0:49 | — |
 | [Motion ads for Chipper](https://x.com/Aygramm_/status/2115759392192659746) | Opus 5.5 | [@Aygramm_](https://x.com/Aygramm_) | 0:30 | — |
 | [Real estate video from 2D floor plan](https://x.com/techhalla/status/2105376621737746716) | Opus 5.5 | [@techhalla](https://x.com/techhalla) | 0:37 | — |
 | [Self-made introduction video for the model](https://x.com/nemumusitocha/status/2102528528613019932) | Opus 5.5 | [@nemumusitocha](https://x.com/nemumusitocha) | 6:37 | — |
@@ -201,6 +204,7 @@
 | [Six websites in distinct design styles](https://x.com/okapi_fukugyo/status/2118120814503763973) | Opus 5.5 | [@okapi_fukugyo](https://x.com/okapi_fukugyo) | 0:34 | — |
 | [PR video generated via a prompt with image gathering](https://x.com/hituji_1234/status/2102634536660316557) | Opus 5.5 | [@hituji_1234](https://x.com/hituji_1234) | 0:34 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102634536660316557) |
 | [iOS photo-to-video app prototype](https://x.com/Avenoxai/status/2105284205852696594) | Opus 5.5 | [@Avenoxai](https://x.com/Avenoxai) | 0:19 | — |
+| [Pixar-style animated song ad](https://x.com/0xROAS/status/2120520242136826183) | Opus 5.5 | [@0xROAS](https://x.com/0xROAS) | 1:51 | — |
 | [Liquid glass web hero section](https://x.com/viktoroddy/status/2106061619176620344) | Opus 5.5 | [@viktoroddy](https://x.com/viktoroddy) | 12:52 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2106061619176620344) |
 | [Real estate listing motion graphic ad](https://x.com/alfageeh9/status/2103771626395357203) | Opus 5.5 | [@alfageeh9](https://x.com/alfageeh9) | 0:30 | — |
 | [Animated bento feature grid for a product site](https://x.com/Kubai087/status/2115393082472681875) | Opus 5.5 | [@Kubai087](https://x.com/Kubai087) | 0:20 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2115393082472681875) |

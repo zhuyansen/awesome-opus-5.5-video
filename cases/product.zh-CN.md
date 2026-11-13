@@ -1,6 +1,6 @@
 # 产品广告
 
-共 268 个作品，其中 50 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 272 个作品，其中 50 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [小猪寄情书：应用宣传动画](https://x.com/jackfriks/status/2103132260589338762) | Opus 5.5 | [@jackfriks](https://x.com/jackfriks) | 0:20 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103132260589338762) |
 | [快速搭建的落地页界面](https://x.com/dhruvalgolakiya/status/2102802914024845385) | Opus 5.5 | [@dhruvalgolakiya](https://x.com/dhruvalgolakiya) | 0:33 | — |
 | [等轴测风格落地页设计](https://x.com/itsnotryan/status/2108228989063991575) | Opus 5.5 | [@itsnotryan](https://x.com/itsnotryan) | 0:06 | — |
+| [移动端界面交互设计](https://x.com/nono_ai_archive/status/2120448953074286698) | Opus 5.5 | [@nono_ai_archive](https://x.com/nono_ai_archive) | 0:19 | — |
 | [基于3D数据的产品宣传片变体](https://x.com/yoshifujidesign/status/2103988134069617127) | Opus 5.5 | [@yoshifujidesign](https://x.com/yoshifujidesign) | 0:30 | — |
 | [细节可控的产品宣传PV](https://x.com/yoshifujidesign/status/2103989912676741479) | Opus 5.5 | [@yoshifujidesign](https://x.com/yoshifujidesign) | 0:30 | — |
 | [Roblox游戏宣传视频](https://x.com/dataX_e/status/2104967024812118196) | Opus 5.5 | [@dataX_e](https://x.com/dataX_e) | 0:15 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104967024812118196) |
@@ -131,6 +132,7 @@
 | [电影感产品发布影片](https://x.com/AbhinavXJ/status/2104805179401068964) | Sonnet 5.5 | [@AbhinavXJ](https://x.com/AbhinavXJ) | 1:40 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104805179401068964) |
 | [家具照片转3D室内设计应用](https://x.com/higgsfield_ai/status/2102618445489795448) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:32 | — |
 | [应用发布视频制作流程](https://x.com/rileybrown/status/2119651130963537996) | Opus 5.5 | [@rileybrown](https://x.com/rileybrown) | 0:37 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2119651130963537996) |
+| [互动式三维电子手帐](https://x.com/Xian0063/status/2120417834694250522) | Opus 5.5 | [@Xian0063](https://x.com/Xian0063) | 0:40 | — |
 | [根据软件代码生成的介绍视频](https://x.com/gesoikuo3/status/2103723885204254734) | Opus 5.5 | [@gesoikuo3](https://x.com/gesoikuo3) | 0:50 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103723885204254734) |
 | [开源任务管理应用](https://x.com/Tanjim38/status/2112964568616169890) | Opus 5.5 | [@Tanjim38](https://x.com/Tanjim38) | 0:22 | — |
 | [用代码免费生成的AI广告视频](https://x.com/Lucas_IA_/status/2102757164158689759) | Opus 5.5 | [@Lucas_IA_](https://x.com/Lucas_IA_) | 1:12 | — |
@@ -190,6 +192,7 @@
 | [非官方特斯拉Roadster广告](https://x.com/kevin_t_ngo/status/2111887585639624828) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 1:05 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2111887585639624828) |
 | [界面复刻演示](https://x.com/yyyole/status/2119439631330726244) | Opus 5.5 | [@yyyole](https://x.com/yyyole) | 0:14 | — |
 | [根据PDF指南一小时完成的作品](https://x.com/seeconvm/status/2116138303028138040) | Opus 5.5 | [@seeconvm](https://x.com/seeconvm) | 0:18 | — |
+| [明暗模式切换界面](https://x.com/Ben_escrito/status/2120531797008175491) | Opus 5.5 | [@Ben_escrito](https://x.com/Ben_escrito) | 0:49 | — |
 | [Chipper品牌动态广告](https://x.com/Aygramm_/status/2115759392192659746) | Opus 5.5 | [@Aygramm_](https://x.com/Aygramm_) | 0:30 | — |
 | [从2D平面图制作的房地产视频](https://x.com/techhalla/status/2105376621737746716) | Opus 5.5 | [@techhalla](https://x.com/techhalla) | 0:37 | — |
 | [模型自制的介绍视频](https://x.com/nemumusitocha/status/2102528528613019932) | Opus 5.5 | [@nemumusitocha](https://x.com/nemumusitocha) | 6:37 | — |
@@ -201,6 +204,7 @@
 | [六种不同风格的网站设计](https://x.com/okapi_fukugyo/status/2118120814503763973) | Opus 5.5 | [@okapi_fukugyo](https://x.com/okapi_fukugyo) | 0:34 | — |
 | [提示词生成的宣传视频（含素材收集）](https://x.com/hituji_1234/status/2102634536660316557) | Opus 5.5 | [@hituji_1234](https://x.com/hituji_1234) | 0:34 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102634536660316557) |
 | [iOS图片转视频应用原型](https://x.com/Avenoxai/status/2105284205852696594) | Opus 5.5 | [@Avenoxai](https://x.com/Avenoxai) | 0:19 | — |
+| [皮克斯风格动画歌曲广告](https://x.com/0xROAS/status/2120520242136826183) | Opus 5.5 | [@0xROAS](https://x.com/0xROAS) | 1:51 | — |
 | [液态玻璃网页首屏](https://x.com/viktoroddy/status/2106061619176620344) | Opus 5.5 | [@viktoroddy](https://x.com/viktoroddy) | 12:52 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2106061619176620344) |
 | [房地产广告动效](https://x.com/alfageeh9/status/2103771626395357203) | Opus 5.5 | [@alfageeh9](https://x.com/alfageeh9) | 0:30 | — |
 | [产品官网动态便当格功能展示](https://x.com/Kubai087/status/2115393082472681875) | Opus 5.5 | [@Kubai087](https://x.com/Kubai087) | 0:20 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2115393082472681875) |

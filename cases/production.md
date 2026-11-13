@@ -1,6 +1,6 @@
 # Music, editing & production
 
-190 works, 32 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+191 works, 32 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Video edits produced with Opus 5.5](https://x.com/ErnestoSOFTWARE/status/2111878898552102934) | Opus 5.5 | [@ErnestoSOFTWARE](https://x.com/ErnestoSOFTWARE) | 1:01 | — |
 | [Autonomous 3D printer bed-clearing solution](https://x.com/mattshumer_/status/2104777202684301750) | Opus 5.5 | [@mattshumer_](https://x.com/mattshumer_) | 0:25 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104777202684301750) |
 | [Video edited by Opus 5.5](https://x.com/eguri89/status/2110316407485608282) | Opus 5.5 | [@eguri89](https://x.com/eguri89) | 0:57 | — |
+| [AI-assisted music video](https://x.com/jasondainter/status/2120429993755099515) | Opus 5.5 | [@jasondainter](https://x.com/jasondainter) | 3:37 | — |
 | [Video edit by an agent with a sound-effects library](https://x.com/lucakvlr/status/2110111408364888065) | Opus 5.5 | [@lucakvlr](https://x.com/lucakvlr) | 0:23 | — |
 | [Tribute music video](https://x.com/bradmillscan/status/2106096188915347821) | Opus 5.5 | [@bradmillscan](https://x.com/bradmillscan) | 5:30 | — |
 | [Code-generated video demo](https://x.com/VincentWei93/status/2103381720410333314) | Opus 5.5 | [@VincentWei93](https://x.com/VincentWei93) | 3:44 | — |

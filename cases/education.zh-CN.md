@@ -1,6 +1,6 @@
 # 科普讲解
 
-共 232 个作品，其中 58 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 233 个作品，其中 58 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -228,6 +228,7 @@
 | [加密货币交易概念动画](https://x.com/Dan_Kostecki/status/2103761581871964592) | Opus 5.5 | [@Dan_Kostecki](https://x.com/Dan_Kostecki) | 2:43 | — |
 | [魔方结构原理互动讲解](https://x.com/0x_mura/status/2115026640795226402) | Opus 5.5 | [@0x_mura](https://x.com/0x_mura) | 0:35 | — |
 | [呼吁"终结美联储"的15秒说明视频](https://x.com/cboyack/status/2103617085402407181) | Opus 5.5 | [@cboyack](https://x.com/cboyack) | 0:15 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103617085402407181) |
+| [马丘比丘旅行科普短片](https://x.com/CHIBIKURO_QnQ/status/2120485627007558114) | Opus 5.5 | [@CHIBIKURO_QnQ](https://x.com/CHIBIKURO_QnQ) | 1:37 | — |
 | [为Anthropic科学博客制作的讲解视频](https://x.com/deepwhitman/status/2103562764929389035) | Opus 5.5 | [@deepwhitman](https://x.com/deepwhitman) | 1:39 | — |
 | [跑车倒挂行驶原理动画解析](https://x.com/andreysuperior/status/2113323122682163307) | Opus 5.5 | [@andreysuperior](https://x.com/andreysuperior) | 0:45 | — |
 | [互动光学学习应用](https://x.com/techartist_/status/2119120307458097260) | Opus 5.5 | [@techartist_](https://x.com/techartist_) | 0:30 | — |

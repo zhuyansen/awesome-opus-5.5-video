@@ -1,6 +1,6 @@
 # Games
 
-481 works, 67 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+483 works, 67 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -416,6 +416,7 @@
 | [AI-generated Geometry Dash level](https://x.com/phobboos/status/2110327573398143363) | Opus 5.5 | [@phobboos](https://x.com/phobboos) | 1:19 | — |
 | [Roblox town game with boss fight](https://x.com/0xKense1/status/2118086746248548653) | Opus 5.5 | [@0xKense1](https://x.com/0xKense1) | 0:36 | — |
 | [F-Zero-style racing game in Unreal](https://x.com/ForwardEditor/status/2104633533981491575) | Sonnet 5.5 | [@ForwardEditor](https://x.com/ForwardEditor) | 1:57 | — |
+| [Horse riding game prototype](https://x.com/prasenx/status/2120565971270459430) | Opus 5.5 | [@prasenx](https://x.com/prasenx) | 2:11 | — |
 | [MD-style Power Drift remake tuning](https://x.com/hagihide/status/2110702464198660316) | Opus 5.5 | [@hagihide](https://x.com/hagihide) | 3:34 | — |
 | [Follow-up game recreation clip](https://x.com/LexnLin/status/2103539721649692713) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 0:36 | — |
 | [Gem mining and jewelry crafting browser game](https://x.com/maiwai1168/status/2119374866604544488) | Sonnet 5.5 | [@maiwai1168](https://x.com/maiwai1168) | 0:18 | — |
@@ -467,6 +468,7 @@
 | [Octopath-style mahjong roguelike game](https://x.com/ezshine/status/2103574793262141636) | Opus 5.5 | [@ezshine](https://x.com/ezshine) | 0:40 | — |
 | [Sci-fi FPS boss fight](https://x.com/Rubzem/status/2119449738592571559) | Opus 5.5 | [@Rubzem](https://x.com/Rubzem) | 0:51 | — |
 | [Cozy boat game for learning Japanese kanji](https://x.com/icreatelife/status/2113022598368067751) | Opus 5.5 | [@icreatelife](https://x.com/icreatelife) | 2:25 | — |
+| [Playable Super Heavy catch game](https://x.com/konstantinsaifo/status/2120356782690443382) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 0:26 | — |
 | [Expanded terrain game map](https://x.com/Greysuki/status/2113527486869016974) | Opus 5.5 | [@Greysuki](https://x.com/Greysuki) | 0:30 | — |
 | [Pixel-art tsukumogami cursed sword enemy](https://x.com/MindGate_dev/status/2119431394657288288) | Opus 5.5 | [@MindGate_dev](https://x.com/MindGate_dev) | 0:39 | — |
 | [One-finger playable Sekiro clone](https://x.com/plum_very/status/2103481769999876528) | Opus 5.5 | [@plum_very](https://x.com/plum_very) | 1:08 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103481769999876528) |

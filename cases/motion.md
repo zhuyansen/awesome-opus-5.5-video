@@ -1,6 +1,6 @@
 # Motion graphics & UI
 
-354 works, 93 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+356 works, 93 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [Experimental visual interface](https://x.com/DilumSanjaya/status/2116212311170142568) | Opus 5.5 | [@DilumSanjaya](https://x.com/DilumSanjaya) | 1:05 | — |
 | [Impressive AI-generated video](https://x.com/GregorySchier/status/2103573891629371497) | Opus 5.5 | [@GregorySchier](https://x.com/GregorySchier) | 0:30 | — |
 | [Seamless looping motion design animation](https://x.com/0xkerazcity/status/2109705700930957328) | Opus 5.5 | [@0xkerazcity](https://x.com/0xkerazcity) | 0:16 | — |
+| [Shape folding motion graphic](https://x.com/Toarukanshiin/status/2120415920761999378) | Opus 5.5 | [@Toarukanshiin](https://x.com/Toarukanshiin) | 0:37 | — |
 | [Visualization of encryption in secure file transfer](https://x.com/SyntaxDiffusion/status/2103182358635532377) | Opus 5.5 | [@SyntaxDiffusion](https://x.com/SyntaxDiffusion) | 1:36 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103182358635532377) |
 | [Stickman fight animation](https://x.com/DanielZambrini/status/2112700824220832140) | Opus 5.5 | [@DanielZambrini](https://x.com/DanielZambrini) | 0:15 | — |
 | [Showreel motion graphic for a media tool](https://x.com/ismailfahmi/status/2103759320664219750) | Opus 5.5 | [@ismailfahmi](https://x.com/ismailfahmi) | 2:08 | — |
@@ -337,6 +338,7 @@
 | [After Effects-style animation effects showcase](https://x.com/nakazakifam/status/2114202745636852063) | Opus 5.5 | [@nakazakifam](https://x.com/nakazakifam) | 0:24 | — |
 | [UI animation combining multiple AI tools](https://x.com/yitong/status/2110463528754880952) | Opus 5.5 | [@yitong](https://x.com/yitong) | 0:14 | — |
 | [Addictive motion graphic](https://x.com/nono_ai_archive/status/2119361788810875016) | Opus 5.5 | [@nono_ai_archive](https://x.com/nono_ai_archive) | 0:15 | — |
+| [Designer-developer toggle animation](https://x.com/hamzeh_ux/status/2120404657541615887) | Opus 5.5 | [@hamzeh_ux](https://x.com/hamzeh_ux) | 0:16 | — |
 | [Chaotic brain-rot style motion video](https://x.com/kloss_xyz/status/2103664956482941143) | Opus 5.5 | [@kloss_xyz](https://x.com/kloss_xyz) | 2:34 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103664956482941143) |
 | [Flat illustration mole animation via code](https://x.com/onofumi_AI/status/2102696204249526348) | Opus 5.5 | [@onofumi_AI](https://x.com/onofumi_AI) | 0:20 | — |
 | [Funny face photos animated with code](https://x.com/jAlpha_create/status/2103787665569272247) | Opus 5.5 | [@jAlpha_create](https://x.com/jAlpha_create) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103787665569272247) |

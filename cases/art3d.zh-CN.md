@@ -1,6 +1,6 @@
 # 3D 场景
 
-共 471 个作品，其中 108 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 473 个作品，其中 108 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [绑定骨骼的3D角色动画](https://x.com/dhruvalgolakiya/status/2118631442066682205) | Opus 5.5 | [@dhruvalgolakiya](https://x.com/dhruvalgolakiya) | 0:08 | — |
 | [机器蝎子拆解模拟器](https://x.com/Nyxera0x/status/2116277601794724232) | Opus 5.5 | [@Nyxera0x](https://x.com/Nyxera0x) | 0:26 | — |
 | [Three.js 还原的动画房间](https://x.com/MengTo/status/2119103146974957675) | Opus 5.5 | [@MengTo](https://x.com/MengTo) | 0:24 | — |
+| [不同三角面预算的猫模型重建](https://x.com/gokayfem/status/2120498448550023604) | Opus 5.5 | [@gokayfem](https://x.com/gokayfem) | 0:58 | — |
 | [云上世界无人机视角飞行影片](https://x.com/LexnLin/status/2117230395406364857) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 0:45 | — |
 | [蓝鲸果冻软体交互研究](https://x.com/vib3coded/status/2119542001775628299) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:17 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2119542001775628299) |
 | [输入词语实时生成的代码艺术作品](https://x.com/MiaAI_lab/status/2103837519615774895) | Opus 5.5 | [@MiaAI_lab](https://x.com/MiaAI_lab) | 1:37 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103837519615774895) |
@@ -405,6 +406,7 @@
 | [用Three.js制作的3D场景](https://x.com/i2cjak/status/2110474945704903065) | Opus 5.5 | [@i2cjak](https://x.com/i2cjak) | 1:31 | — |
 | [算法线艺创作过程](https://x.com/aimikoda/status/2119653253868630312) | Opus 5.5 | [@aimikoda](https://x.com/aimikoda) | 0:20 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2119653253868630312) |
 | [由单张图片生成的三维空间](https://x.com/onofumi_AI/status/2112519702987854162) | Opus 5.5 | [@onofumi_AI](https://x.com/onofumi_AI) | 0:17 | — |
+| [大范围三维重建场景](https://x.com/kotohibi_3d/status/2120508846758400485) | Opus 5.5 | [@kotohibi_3d](https://x.com/kotohibi_3d) | 0:48 | — |
 | [无限延伸的里斯本电车程序化漫游](https://x.com/thebuggeddev/status/2103465304039076319) | Opus 5.5 | [@thebuggeddev](https://x.com/thebuggeddev) | 0:53 | — |
 | [交互式等离子球桌面壁纸](https://x.com/chaseleantj/status/2104669620871536998) | Sonnet 5.5 | [@chaseleantj](https://x.com/chaseleantj) | 0:15 | — |
 | [可交互的果冻章鱼软体模拟](https://x.com/vib3coded/status/2115173334031737112) | Opus 5.5 / Fable 5.5 (preview) | [@vib3coded](https://x.com/vib3coded) | 0:17 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2115173334031737112) |

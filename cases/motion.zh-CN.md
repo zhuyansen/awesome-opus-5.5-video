@@ -1,6 +1,6 @@
 # 动效设计
 
-共 354 个作品，其中 93 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 356 个作品，其中 93 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [实验性视觉界面](https://x.com/DilumSanjaya/status/2116212311170142568) | Opus 5.5 | [@DilumSanjaya](https://x.com/DilumSanjaya) | 1:05 | — |
 | [令人惊艳的AI生成视频](https://x.com/GregorySchier/status/2103573891629371497) | Opus 5.5 | [@GregorySchier](https://x.com/GregorySchier) | 0:30 | — |
 | [无缝循环动态设计动画](https://x.com/0xkerazcity/status/2109705700930957328) | Opus 5.5 | [@0xkerazcity](https://x.com/0xkerazcity) | 0:16 | — |
+| [形状折叠动效短片](https://x.com/Toarukanshiin/status/2120415920761999378) | Opus 5.5 | [@Toarukanshiin](https://x.com/Toarukanshiin) | 0:37 | — |
 | [文件加密传输原理可视化](https://x.com/SyntaxDiffusion/status/2103182358635532377) | Opus 5.5 | [@SyntaxDiffusion](https://x.com/SyntaxDiffusion) | 1:36 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103182358635532377) |
 | [火柴人打斗动画](https://x.com/DanielZambrini/status/2112700824220832140) | Opus 5.5 | [@DanielZambrini](https://x.com/DanielZambrini) | 0:15 | — |
 | [媒体工具展示片动效](https://x.com/ismailfahmi/status/2103759320664219750) | Opus 5.5 | [@ismailfahmi](https://x.com/ismailfahmi) | 2:08 | — |
@@ -337,6 +338,7 @@
 | [After Effects 风格动画效果展示](https://x.com/nakazakifam/status/2114202745636852063) | Opus 5.5 | [@nakazakifam](https://x.com/nakazakifam) | 0:24 | — |
 | [多种AI工具合成的UI动画](https://x.com/yitong/status/2110463528754880952) | Opus 5.5 | [@yitong](https://x.com/yitong) | 0:14 | — |
 | [令人上瘾的动效](https://x.com/nono_ai_archive/status/2119361788810875016) | Opus 5.5 | [@nono_ai_archive](https://x.com/nono_ai_archive) | 0:15 | — |
+| [设计师与开发者切换动画](https://x.com/hamzeh_ux/status/2120404657541615887) | Opus 5.5 | [@hamzeh_ux](https://x.com/hamzeh_ux) | 0:16 | — |
 | [混乱风格的短视频动效](https://x.com/kloss_xyz/status/2103664956482941143) | Opus 5.5 | [@kloss_xyz](https://x.com/kloss_xyz) | 2:34 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103664956482941143) |
 | [代码生成的扁平插画鼹鼠动画](https://x.com/onofumi_AI/status/2102696204249526348) | Opus 5.5 | [@onofumi_AI](https://x.com/onofumi_AI) | 0:20 | — |
 | [搞怪表情照片代码动画化](https://x.com/jAlpha_create/status/2103787665569272247) | Opus 5.5 | [@jAlpha_create](https://x.com/jAlpha_create) | 0:15 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103787665569272247) |

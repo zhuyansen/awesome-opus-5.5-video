@@ -1,6 +1,6 @@
 # 制作流程
 
-共 190 个作品，其中 32 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 191 个作品，其中 32 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [用Opus 5.5制作的视频剪辑](https://x.com/ErnestoSOFTWARE/status/2111878898552102934) | Opus 5.5 | [@ErnestoSOFTWARE](https://x.com/ErnestoSOFTWARE) | 1:01 | — |
 | [自动清理3D打印机打印床的方案](https://x.com/mattshumer_/status/2104777202684301750) | Opus 5.5 | [@mattshumer_](https://x.com/mattshumer_) | 0:25 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104777202684301750) |
 | [由Opus 5.5剪辑的视频](https://x.com/eguri89/status/2110316407485608282) | Opus 5.5 | [@eguri89](https://x.com/eguri89) | 0:57 | — |
+| [AI 辅助音乐视频](https://x.com/jasondainter/status/2120429993755099515) | Opus 5.5 | [@jasondainter](https://x.com/jasondainter) | 3:37 | — |
 | [由代理调用音效库完成的视频剪辑](https://x.com/lucakvlr/status/2110111408364888065) | Opus 5.5 | [@lucakvlr](https://x.com/lucakvlr) | 0:23 | — |
 | [致敬主题音乐视频](https://x.com/bradmillscan/status/2106096188915347821) | Opus 5.5 | [@bradmillscan](https://x.com/bradmillscan) | 5:30 | — |
 | [代码生成的视频演示](https://x.com/VincentWei93/status/2103381720410333314) | Opus 5.5 | [@VincentWei93](https://x.com/VincentWei93) | 3:44 | — |

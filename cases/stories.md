@@ -1,6 +1,6 @@
 # Characters & stories
 
-248 works, 60 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+251 works, 60 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [3D set AITuber camera-switching demo](https://x.com/ivy432hz/status/2105269408537235572) | Opus 5.5 | [@ivy432hz](https://x.com/ivy432hz) | 0:06 | — |
 | [Plato's Protagoras adapted into a film scene](https://x.com/danshipper/status/2103850415930708437) | Opus 5.5 | [@danshipper](https://x.com/danshipper) | 3:10 | — |
 | [Ink-wash animation: Little Tadpole Finds Mother](https://x.com/akokoi1/status/2102699703309898026) | Opus 5.5 | [@akokoi1](https://x.com/akokoi1) | 3:55 | — |
+| [Better Half: animated crab short film](https://x.com/JacobMolBio/status/2120648796334178374) | Opus 5.5 | [@JacobMolBio](https://x.com/JacobMolBio) | 1:25 | — |
 | [Mid-Autumn animated short official release](https://x.com/ring_hyacinth/status/2103476866917290441) | Opus 5.5 | [@ring_hyacinth](https://x.com/ring_hyacinth) | 0:41 | — |
 | [Satirical video of a current situation](https://x.com/SergioGMN/status/2111582026092470741) | Opus 5.5 | [@SergioGMN](https://x.com/SergioGMN) | 0:31 | — |
 | [Rap music video explaining a research paper](https://x.com/Tz_2022/status/2103683260144292176) | Opus 5.5 | [@Tz_2022](https://x.com/Tz_2022) | 3:43 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103683260144292176) |
@@ -241,12 +242,14 @@
 | [Before Sunrise short animated film](https://x.com/aimikoda/status/2110450438638342283) | Opus 5.5 | [@aimikoda](https://x.com/aimikoda) | 0:30 | — |
 | [Lord of the Rings opening scene recreation](https://x.com/devteamdrew/status/2110433119731945964) | Opus 5.5 | [@devteamdrew](https://x.com/devteamdrew) | 1:33 | — |
 | [Low-poly car fries-sharing skit](https://x.com/Classifiedv4/status/2117660101322698868) | Opus 5.5 | [@Classifiedv4](https://x.com/Classifiedv4) | 0:30 | — |
+| [Minecraft-style story short](https://x.com/fuckscales/status/2120542368827097253) | Opus 5.5 | [@fuckscales](https://x.com/fuckscales) | 1:21 | — |
 | [Agent on a film set short animation](https://x.com/devteamdrew/status/2114890266192515520) | Opus 5.5 | [@devteamdrew](https://x.com/devteamdrew) | 0:47 | — |
 | [Short animated video](https://x.com/BubbleBrain/status/2117629531733332057) | Fable 5.5 (preview) | [@BubbleBrain](https://x.com/BubbleBrain) | 2:15 | — |
 | [Preview of an upcoming satirical animation](https://x.com/jgarcelan/status/2103797521612996910) | Opus 5.5 | [@jgarcelan](https://x.com/jgarcelan) | 0:08 | — |
 | [Narrative video generated from a market report](https://x.com/dfolloni/status/2110413422458241228) | Opus 5.5 | [@dfolloni](https://x.com/dfolloni) | 1:21 | — |
 | [Harry Potter style animation clip](https://x.com/CCICC1024/status/2112027568203534798) | Opus 5.5 | [@CCICC1024](https://x.com/CCICC1024) | 1:00 | — |
 | [Short film for kids coded in JavaScript](https://x.com/thebuggeddev/status/2103677413913976912) | Opus 5.5 | [@thebuggeddev](https://x.com/thebuggeddev) | 1:44 | — |
+| [Torn-paper music video](https://x.com/taku_studio/status/2120487739800068571) | Opus 5.5 | [@taku_studio](https://x.com/taku_studio) | 3:05 | — |
 | [Anime-style video made entirely in code](https://x.com/makwanatejas170/status/2103703815514173697) | Opus 5.5 | [@makwanatejas170](https://x.com/makwanatejas170) | 1:20 | — |
 | [Code-rendered anime short](https://x.com/zodchiii/status/2118363287738073343) | Fable 5.5 (preview) | [@zodchiii](https://x.com/zodchiii) | 1:23 | — |
 | [Funny self-deprecating animation](https://x.com/xat_t0b/status/2102581759733121421) | Opus 5.5 | [@xat_t0b](https://x.com/xat_t0b) | 0:30 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102581759733121421) |

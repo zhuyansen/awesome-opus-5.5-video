@@ -1,6 +1,6 @@
 # 3D worlds & simulations
 
-471 works, 108 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+473 works, 108 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Rigged 3D Character Animation](https://x.com/dhruvalgolakiya/status/2118631442066682205) | Opus 5.5 | [@dhruvalgolakiya](https://x.com/dhruvalgolakiya) | 0:08 | — |
 | [Robot scorpion teardown simulator](https://x.com/Nyxera0x/status/2116277601794724232) | Opus 5.5 | [@Nyxera0x](https://x.com/Nyxera0x) | 0:26 | — |
 | [Animated Three.js recreation of a room](https://x.com/MengTo/status/2119103146974957675) | Opus 5.5 | [@MengTo](https://x.com/MengTo) | 0:24 | — |
+| [Triangle-budget cat reconstructions](https://x.com/gokayfem/status/2120498448550023604) | Opus 5.5 | [@gokayfem](https://x.com/gokayfem) | 0:58 | — |
 | [Drone Fly-Through of a World Above the Clouds](https://x.com/LexnLin/status/2117230395406364857) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 0:45 | — |
 | [Blue whale jelly soft-body study](https://x.com/vib3coded/status/2119542001775628299) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:17 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2119542001775628299) |
 | [Live generative code art from a typed word](https://x.com/MiaAI_lab/status/2103837519615774895) | Opus 5.5 | [@MiaAI_lab](https://x.com/MiaAI_lab) | 1:37 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103837519615774895) |
@@ -405,6 +406,7 @@
 | [3D scene built with Three.js](https://x.com/i2cjak/status/2110474945704903065) | Opus 5.5 | [@i2cjak](https://x.com/i2cjak) | 1:31 | — |
 | [Algorithmic string art process](https://x.com/aimikoda/status/2119653253868630312) | Opus 5.5 | [@aimikoda](https://x.com/aimikoda) | 0:20 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2119653253868630312) |
 | [3D space generated from a single image](https://x.com/onofumi_AI/status/2112519702987854162) | Opus 5.5 | [@onofumi_AI](https://x.com/onofumi_AI) | 0:17 | — |
+| [Wide-area 3D reconstruction](https://x.com/kotohibi_3d/status/2120508846758400485) | Opus 5.5 | [@kotohibi_3d](https://x.com/kotohibi_3d) | 0:48 | — |
 | [Endless procedural tram ride through Lisbon](https://x.com/thebuggeddev/status/2103465304039076319) | Opus 5.5 | [@thebuggeddev](https://x.com/thebuggeddev) | 0:53 | — |
 | [Interactive plasma globe desktop wallpaper](https://x.com/chaseleantj/status/2104669620871536998) | Sonnet 5.5 | [@chaseleantj](https://x.com/chaseleantj) | 0:15 | — |
 | [Interactive jelly octopus soft-body study](https://x.com/vib3coded/status/2115173334031737112) | Opus 5.5 / Fable 5.5 (preview) | [@vib3coded](https://x.com/vib3coded) | 0:17 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2115173334031737112) |
