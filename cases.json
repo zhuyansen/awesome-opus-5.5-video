@@ -3,8 +3,8 @@
  "model": "Claude 5.5 (Opus 5.5 · Sonnet 5.5 · Haiku 5.5 · Fable 5.5)",
  "inclusion_rule": "Original post by the creator, native video attached, >= 5000 views on that post, creator states it was made with Claude Opus 5.5, Sonnet 5.5, Haiku 5.5 or Fable 5.5 (Fable 5.5 is in limited preview, not yet announced). Later posts that embed another account's upload are excluded.",
  "views_threshold": 5000,
- "stats_checked_at": "2026-11-13T01:17:15.239Z",
- "updated_at": "2026-11-13T01:17:15.239Z",
+ "stats_checked_at": "2026-11-14T01:17:17.314Z",
+ "updated_at": "2026-11-14T01:17:17.314Z",
  "model_attribution": "As stated by each creator; not independently reproduced.",
  "cases": [
   {
@@ -33054,6 +33054,40 @@
    "resources": []
   },
   {
+   "id": "2120810499415908356",
+   "models": [
+    "opus-5.5",
+    "fable-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "电影感中世纪攻城场景",
+    "en": "Cinematic medieval siege scene"
+   },
+   "creator": {
+    "handle": "davis7",
+    "name": "Ben Davis"
+   },
+   "original_post_url": "https://x.com/davis7/status/2120810499415908356",
+   "posted_at": "2026-11-12T09:26:40.000Z",
+   "language": "en",
+   "duration_seconds": 26,
+   "views": 46863,
+   "likes": 693,
+   "bookmarks": 265,
+   "views_checked_at": "2026-11-14T01:17:17.314Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120808975012855808/img/i_ERQTMJQH-kR4T0.jpg",
+   "tools_reported": [
+    "Fable 5.2",
+    "Astra",
+    "Sol",
+    "Fable 5.5"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2109598324609409331",
    "models": [
     "opus-5.5"
@@ -39396,6 +39430,38 @@
    "resources": []
   },
   {
+   "id": "2120956699951628637",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "女孩与猫的双人自行车 SVG",
+    "en": "Girl and cat tandem ride SVG"
+   },
+   "creator": {
+    "handle": "marcthecreatorr",
+    "name": "Marcel"
+   },
+   "original_post_url": "https://x.com/marcthecreatorr/status/2120956699951628637",
+   "posted_at": "2026-11-12T19:07:37.000Z",
+   "language": "en",
+   "duration_seconds": 28,
+   "views": 36608,
+   "likes": 369,
+   "bookmarks": 94,
+   "views_checked_at": "2026-11-14T01:17:17.314Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120956511706820608/img/--IRgcT_lAngEvPo.jpg",
+   "tools_reported": [
+    "Gemini 4 Hydrogen",
+    "Claude Code",
+    "Cursor"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2108767659873681627",
    "models": [
     "opus-5.5"
@@ -42158,6 +42224,34 @@
    "resources": []
   },
   {
+   "id": "2120860182901305465",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "game",
+   "title": {
+    "zh": "Roblox 游戏界面套件",
+    "en": "Roblox game UI kit"
+   },
+   "creator": {
+    "handle": "netgraphicss",
+    "name": "Net"
+   },
+   "original_post_url": "https://x.com/netgraphicss/status/2120860182901305465",
+   "posted_at": "2026-11-12T12:44:05.000Z",
+   "language": "en",
+   "duration_seconds": 30,
+   "views": 32629,
+   "likes": 508,
+   "bookmarks": 394,
+   "views_checked_at": "2026-11-14T01:17:17.314Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120856949503950848/img/SJsiUD8Hwdx9a_1k.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2110454477027496395",
    "models": [
     "opus-5.5"
@@ -43981,6 +44075,39 @@
    "resources": []
   },
   {
+   "id": "2120875907476783361",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "中世纪投石机攻城场景对比",
+    "en": "Medieval catapult siege scene comparison"
+   },
+   "creator": {
+    "handle": "Lummox_eth",
+    "name": "Lummox"
+   },
+   "original_post_url": "https://x.com/Lummox_eth/status/2120875907476783361",
+   "posted_at": "2026-11-12T13:46:34.000Z",
+   "language": "en",
+   "duration_seconds": 10,
+   "views": 30252,
+   "likes": 140,
+   "bookmarks": 110,
+   "views_checked_at": "2026-11-14T01:17:17.314Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120875864082530304/img/WCAYpSkFmbb3fJxH.jpg",
+   "tools_reported": [
+    "Claude Code",
+    "Fable 5.2",
+    "GPT-6 Astra",
+    "Claude 3.7 Sonnet"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2117298037261550073",
    "models": [
     "opus-5.5"
@@ -44430,6 +44557,38 @@
     "length": 26,
     "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2116503955119255977"
    },
+   "resources": []
+  },
+  {
+   "id": "2120938455115116754",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "北极探险场景比较",
+    "en": "Arctic expedition scene comparison"
+   },
+   "creator": {
+    "handle": "Marlenuii",
+    "name": "Marlen"
+   },
+   "original_post_url": "https://x.com/Marlenuii/status/2120938455115116754",
+   "posted_at": "2026-11-12T17:55:07.000Z",
+   "language": "en",
+   "duration_seconds": 10,
+   "views": 29769,
+   "likes": 126,
+   "bookmarks": 128,
+   "views_checked_at": "2026-11-14T01:17:17.314Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120938415105470464/img/8aYccELqbF3TtG8H.jpg",
+   "tools_reported": [
+    "Blender MCP",
+    "GPT-6 Astra",
+    "Kimi K3.1"
+   ],
+   "reference_assets": false,
+   "prompt": null,
    "resources": []
   },
   {
@@ -47593,6 +47752,37 @@
     "length": 383,
     "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2105370568178479476"
    },
+   "resources": []
+  },
+  {
+   "id": "2120846734901367105",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "风格化角色绑定与动画",
+    "en": "Stylized hero rig and animation"
+   },
+   "creator": {
+    "handle": "rewind02",
+    "name": "rewind"
+   },
+   "original_post_url": "https://x.com/rewind02/status/2120846734901367105",
+   "posted_at": "2026-11-12T11:50:39.000Z",
+   "language": "en",
+   "duration_seconds": 4,
+   "views": 26588,
+   "likes": 564,
+   "bookmarks": 550,
+   "views_checked_at": "2026-11-14T01:17:17.314Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120846696875757568/img/oPinOHoug2VVcQ0d.jpg",
+   "tools_reported": [
+    "Blender",
+    "MCP"
+   ],
+   "reference_assets": true,
+   "prompt": null,
    "resources": []
   },
   {
@@ -57507,6 +57697,44 @@
    "resources": []
   },
   {
+   "id": "2120973310959784394",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "四种模型生成的机器人场景对比",
+    "en": "Four-model robot scene comparison"
+   },
+   "creator": {
+    "handle": "Model_Culture",
+    "name": "Big Pip"
+   },
+   "original_post_url": "https://x.com/Model_Culture/status/2120973310959784394",
+   "posted_at": "2026-11-12T20:13:37.000Z",
+   "language": "en",
+   "duration_seconds": 10,
+   "views": 18961,
+   "likes": 119,
+   "bookmarks": 26,
+   "views_checked_at": "2026-11-14T01:17:17.314Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120973122740396033/img/3uYcULs9GXK4WMr2.jpg",
+   "tools_reported": [
+    "Fable 5.2",
+    "Kimi K3.1",
+    "GPT 6 Astra"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "brief",
+    "source": "post",
+    "source_url": "https://x.com/Model_Culture/status/2120973310959784394",
+    "length": 49,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2120973310959784394"
+   },
+   "resources": []
+  },
+  {
    "id": "2105269408537235572",
    "models": [
     "opus-5.5"
@@ -63200,6 +63428,36 @@
    "resources": []
   },
   {
+   "id": "2120855435230187993",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "motion",
+   "title": {
+    "zh": "现代界面动效",
+    "en": "Modern UI motion effects"
+   },
+   "creator": {
+    "handle": "csaba_kissi",
+    "name": "Csaba Kissi"
+   },
+   "original_post_url": "https://x.com/csaba_kissi/status/2120855435230187993",
+   "posted_at": "2026-11-12T12:25:14.000Z",
+   "language": "en",
+   "duration_seconds": 25,
+   "views": 15682,
+   "likes": 247,
+   "bookmarks": 155,
+   "views_checked_at": "2026-11-14T01:17:17.314Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120855136662618112/img/ActobosKUgKwjEI1.jpg",
+   "tools_reported": [
+    "Fable 5.2"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2120454553216651660",
    "models": [
     "opus-5.5"
@@ -64465,6 +64723,36 @@
     "Muse"
    ],
    "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2120939694984675409",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "motion",
+   "title": {
+    "zh": "Stewdio 发布动效视频",
+    "en": "Stewdio launch motion graphics"
+   },
+   "creator": {
+    "handle": "blak3shao",
+    "name": "Blake Shao"
+   },
+   "original_post_url": "https://x.com/blak3shao/status/2120939694984675409",
+   "posted_at": "2026-11-12T18:00:03.000Z",
+   "language": "en",
+   "duration_seconds": 51,
+   "views": 15127,
+   "likes": 291,
+   "bookmarks": 226,
+   "views_checked_at": "2026-11-14T01:17:17.314Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120938262688616448/img/pU1XZ_p9mbJyBJ8f.jpg",
+   "tools_reported": [
+    "StewdioAI"
+   ],
+   "reference_assets": false,
    "prompt": null,
    "resources": []
   },
@@ -75582,6 +75870,36 @@
    "resources": []
   },
   {
+   "id": "2120862767452414226",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "火光场景真实感对比",
+    "en": "Fire-lit scene realism comparison"
+   },
+   "creator": {
+    "handle": "rubenssoto_ai",
+    "name": "Rubens Soto | AI & SaaS"
+   },
+   "original_post_url": "https://x.com/rubenssoto_ai/status/2120862767452414226",
+   "posted_at": "2026-11-12T12:54:22.000Z",
+   "language": "en",
+   "duration_seconds": 30,
+   "views": 10403,
+   "likes": 205,
+   "bookmarks": 23,
+   "views_checked_at": "2026-11-14T01:17:17.314Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120862129964122112/img/OTmcgrVcxRIOLInn.jpg",
+   "tools_reported": [
+    "Fable 5.2"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2119384176793153579",
    "models": [
     "opus-5.5"
@@ -81253,6 +81571,34 @@
    "resources": []
   },
   {
+   "id": "2120919476174827528",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "motion",
+   "title": {
+    "zh": "八组动态组件",
+    "en": "Eight motion components"
+   },
+   "creator": {
+    "handle": "csaba_kissi",
+    "name": "Csaba Kissi"
+   },
+   "original_post_url": "https://x.com/csaba_kissi/status/2120919476174827528",
+   "posted_at": "2026-11-12T16:39:42.000Z",
+   "language": "en",
+   "duration_seconds": 25,
+   "views": 8172,
+   "likes": 161,
+   "bookmarks": 129,
+   "views_checked_at": "2026-11-14T01:17:17.314Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120919369261707264/img/utX8ZJ8xssjTmKeZ.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2103340873773916491",
    "models": [
     "opus-5.5"
@@ -86573,6 +86919,38 @@
    "resources": []
   },
   {
+   "id": "2120848591904489575",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "education",
+   "title": {
+    "zh": "奈良景点旅行动画指南",
+    "en": "Animated Nara travel guide"
+   },
+   "creator": {
+    "handle": "CHIBIKURO_QnQ",
+    "name": "チビクロ🍀四刀流AI錬金術士"
+   },
+   "original_post_url": "https://x.com/CHIBIKURO_QnQ/status/2120848591904489575",
+   "posted_at": "2026-11-12T11:58:02.000Z",
+   "language": "ja",
+   "duration_seconds": 99,
+   "views": 5688,
+   "likes": 131,
+   "bookmarks": 1,
+   "views_checked_at": "2026-11-14T01:17:17.314Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120848425591996416/img/rThW8nVGY4hdQES_.jpg",
+   "tools_reported": [
+    "Seedance 2.5",
+    "どこでも旅行エンジン",
+    "Flova"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2120139373492764752",
    "models": [
     "opus-5.5"
@@ -86778,6 +87156,37 @@
     "Three.js"
    ],
    "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2120755778810269834",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "product",
+   "title": {
+    "zh": "用于健身应用的类 Figma 设计工具",
+    "en": "Figma-style design tool for a fitness app"
+   },
+   "creator": {
+    "handle": "diegoarias941",
+    "name": "Diego Arias"
+   },
+   "original_post_url": "https://x.com/diegoarias941/status/2120755778810269834",
+   "posted_at": "2026-11-12T05:49:14.000Z",
+   "language": "en",
+   "duration_seconds": 21,
+   "views": 5573,
+   "likes": 113,
+   "bookmarks": 75,
+   "views_checked_at": "2026-11-14T01:17:17.314Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120755448039055360/img/OKF3KDjtImUzTFab.jpg",
+   "tools_reported": [
+    "Exact",
+    "Expo"
+   ],
+   "reference_assets": true,
    "prompt": null,
    "resources": []
   },

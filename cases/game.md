@@ -1,6 +1,6 @@
 # Games
 
-483 works, 67 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+484 works, 67 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -242,6 +242,7 @@
 | [New area added to a game-recompilation mod](https://x.com/davis7/status/2103567411782078485) | Opus 5.5 | [@davis7](https://x.com/davis7) | 1:03 | — |
 | [Boss fight built in Unreal Engine from video motions](https://x.com/CanItCode/status/2115143705342382159) | Opus 5.5 | [@CanItCode](https://x.com/CanItCode) | 0:25 | — |
 | [Music-themed driving game demo](https://x.com/merttcanc/status/2103571973343252562) | Opus 5.5 | [@merttcanc](https://x.com/merttcanc) | 1:46 | — |
+| [Roblox game UI kit](https://x.com/netgraphicss/status/2120860182901305465) | Opus 5.5 | [@netgraphicss](https://x.com/netgraphicss) | 0:30 | — |
 | [Retro space pixel game with mascot](https://x.com/riku720720/status/2102547249834385584) | Opus 5.5 | [@riku720720](https://x.com/riku720720) | 1:00 | — |
 | [Roguelike naval battle game trailer](https://x.com/ootamato/status/2103752104892612736) | Opus 5.5 | [@ootamato](https://x.com/ootamato) | 0:22 | — |
 | [Code-generated glass breaking game](https://x.com/prasenx/status/2116914502390480919) | Opus 5.5 | [@prasenx](https://x.com/prasenx) | 0:27 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2116914502390480919) |

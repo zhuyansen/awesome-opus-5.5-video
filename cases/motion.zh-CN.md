@@ -1,6 +1,6 @@
 # 动效设计
 
-共 356 个作品，其中 93 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 359 个作品，其中 93 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -254,10 +254,12 @@
 | [应用付费墙动效设计](https://x.com/BreejeAnadkat/status/2115749240823583179) | Opus 5.5 | [@BreejeAnadkat](https://x.com/BreejeAnadkat) | 0:10 | — |
 | [纯JS生成的视频](https://x.com/chetaslua/status/2103599163804098708) | Opus 5.5 | [@chetaslua](https://x.com/chetaslua) | 0:12 | — |
 | [AI制作的动效设计作品](https://x.com/lokidotdev/status/2103760837496418583) | Opus 5.5 | [@lokidotdev](https://x.com/lokidotdev) | 0:15 | — |
+| [现代界面动效](https://x.com/csaba_kissi/status/2120855435230187993) | Opus 5.5 | [@csaba_kissi](https://x.com/csaba_kissi) | 0:25 | — |
 | [AI产品动效设计视频](https://x.com/LexnLin/status/2110013871532490973) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 0:40 | — |
 | [我的世界藏宝图动画](https://x.com/sethfowIer/status/2113248976984068329) | Opus 5.5 | [@sethfowIer](https://x.com/sethfowIer) | 0:19 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2113248976984068329) |
 | [为设计作品配套制作的动画](https://x.com/askwhykartik/status/2103825020334285239) | Opus 5.5 | [@askwhykartik](https://x.com/askwhykartik) | 0:07 | — |
 | [60 帧动效短片](https://x.com/Aygramm_/status/2117294773081882838) | Opus 5.5 | [@Aygramm_](https://x.com/Aygramm_) | 0:48 | — |
+| [Stewdio 发布动效视频](https://x.com/blak3shao/status/2120939694984675409) | Opus 5.5 | [@blak3shao](https://x.com/blak3shao) | 0:51 | — |
 | [循环播放的产品发布动态模板](https://x.com/twoclipping/status/2105927781678747965) | Opus 5.5 | [@twoclipping](https://x.com/twoclipping) | 0:24 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2105927781678747965) |
 | [像素风角色攻击动作补帧](https://x.com/MindGate_dev/status/2111668407418650660) | Opus 5.5 | [@MindGate_dev](https://x.com/MindGate_dev) | 0:40 | — |
 | [配乐全由代码合成的动效自荐片](https://x.com/prasenx/status/2103538744695693512) | Opus 5.5 | [@prasenx](https://x.com/prasenx) | 0:15 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103538744695693512) |
@@ -329,6 +331,7 @@
 | [带品牌视觉的动效设计师展示片](https://x.com/lukasersil/status/2103742861971726495) | Opus 5.5 | [@lukasersil](https://x.com/lukasersil) | 0:15 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103742861971726495) |
 | [机械鱿鱼拆解动画](https://x.com/elvar_official/status/2119085076939948251) | Opus 5.5 | [@elvar_official](https://x.com/elvar_official) | 0:24 | — |
 | [教师节主题手写动效短片](https://x.com/youssef_aymanc/status/2107466191178711054) | Opus 5.5 | [@youssef_aymanc](https://x.com/youssef_aymanc) | 0:33 | — |
+| [八组动态组件](https://x.com/csaba_kissi/status/2120919476174827528) | Opus 5.5 | [@csaba_kissi](https://x.com/csaba_kissi) | 0:25 | — |
 | [动效入职引导界面](https://x.com/BreejeAnadkat/status/2113620817649299590) | Opus 5.5 | [@BreejeAnadkat](https://x.com/BreejeAnadkat) | 0:22 | — |
 | [PUNCTUM点阵字体互动网站](https://x.com/sundyme/status/2107108673407627533) | Opus 5.5 | [@sundyme](https://x.com/sundyme) | 1:06 | — |
 | [Lumno 官网功能演示 SVG 动画](https://x.com/Kubai087/status/2113241980268593422) | Opus 5.5 | [@Kubai087](https://x.com/Kubai087) | 1:07 | — |

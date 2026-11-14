@@ -1,6 +1,6 @@
 # Product demos & ads
 
-272 works, 50 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+273 works, 50 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -275,4 +275,5 @@
 | [Sponsorship promo video cut via MCP tools](https://x.com/Ror_Fly/status/2103549390933610685) | Opus 5.5 | [@Ror_Fly](https://x.com/Ror_Fly) | 1:00 | — |
 | [Isometric landing page design](https://x.com/itsnotryan/status/2107842500715065664) | Opus 5.5 | [@itsnotryan](https://x.com/itsnotryan) | 0:08 | — |
 | [Notes app built with Sonnet 5.5](https://x.com/CodingNoobie/status/2104642394503409862) | Sonnet 5.5 | [@CodingNoobie](https://x.com/CodingNoobie) | 0:16 | — |
+| [Figma-style design tool for a fitness app](https://x.com/diegoarias941/status/2120755778810269834) | Opus 5.5 | [@diegoarias941](https://x.com/diegoarias941) | 0:21 | — |
 | [Gamified warehouse management software](https://x.com/LearnWithSubhan/status/2110235247745052913) | Opus 5.5 | [@LearnWithSubhan](https://x.com/LearnWithSubhan) | 1:12 | — |

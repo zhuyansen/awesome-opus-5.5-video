@@ -1,6 +1,6 @@
 # 3D worlds & simulations
 
-473 works, 108 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+475 works, 108 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Walkable 3D world from one image](https://x.com/lucianlamp/status/2118689081475703236) | Opus 5.5 | [@lucianlamp](https://x.com/lucianlamp) | 0:42 | — |
 | [Scenario Blender plugin demo](https://x.com/emmanuel_2m/status/2102767332116316380) | Opus 5.5 | [@emmanuel_2m](https://x.com/emmanuel_2m) | 0:16 | — |
 | [Cow riding a bicycle 3D animation](https://x.com/yupi996/status/2102632124994191682) | Opus 5.5 | [@yupi996](https://x.com/yupi996) | 2:18 | — |
+| [Cinematic medieval siege scene](https://x.com/davis7/status/2120810499415908356) | Opus 5.5 / Fable 5.5 (preview) | [@davis7](https://x.com/davis7) | 0:26 | — |
 | [3D building model from reference image](https://x.com/_3912657840/status/2114937668635435233) | Opus 5.5 | [@_3912657840](https://x.com/_3912657840) | 0:15 | — |
 | [Golden hour Japanese temple 3D scene](https://x.com/LexnLin/status/2110657641831956870) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 1:10 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2110657641831956870) |
 | [House photo turned into explorable 3D model](https://x.com/higgsfield_ai/status/2102499166635352354) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:30 | — |
@@ -245,6 +246,7 @@
 | [Office scene rebuilt in 3ds Max from reference](https://x.com/rewind02/status/2114316443261002226) | Opus 5.5 | [@rewind02](https://x.com/rewind02) | 0:40 | — |
 | [Taiwan invasion simulation](https://x.com/TyMoneyJ03/status/2116296544307605711) | Opus 5.5 | [@TyMoneyJ03](https://x.com/TyMoneyJ03) | 2:09 | — |
 | [Browser physics simulation of a robot packing cell](https://x.com/konstantinsaifo/status/2115722519336345861) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 0:46 | — |
+| [Stylized hero rig and animation](https://x.com/rewind02/status/2120846734901367105) | Opus 5.5 | [@rewind02](https://x.com/rewind02) | 0:04 | — |
 | [Ocean scene built from a single HTML file](https://x.com/AHSeslami/status/2112130638124138759) | Opus 5.5 | [@AHSeslami](https://x.com/AHSeslami) | 0:32 | — |
 | [City environment with interiors and props](https://x.com/badboyfoxy/status/2115046586703057244) | Opus 5.5 / Fable 5.5 (preview) | [@badboyfoxy](https://x.com/badboyfoxy) | 2:25 | — |
 | [City built from personal tweets](https://x.com/paularambles/status/2107125351784886642) | Opus 5.5 | [@paularambles](https://x.com/paularambles) | 0:46 | — |

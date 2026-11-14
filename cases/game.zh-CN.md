@@ -1,6 +1,6 @@
 # 游戏
 
-共 483 个作品，其中 67 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 484 个作品，其中 67 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -242,6 +242,7 @@
 | [游戏反编译模组新增地图区域](https://x.com/davis7/status/2103567411782078485) | Opus 5.5 | [@davis7](https://x.com/davis7) | 1:03 | — |
 | [基于视频动作的虚幻引擎 Boss 战](https://x.com/CanItCode/status/2115143705342382159) | Opus 5.5 | [@CanItCode](https://x.com/CanItCode) | 0:25 | — |
 | [音乐主题驾驶游戏演示](https://x.com/merttcanc/status/2103571973343252562) | Opus 5.5 | [@merttcanc](https://x.com/merttcanc) | 1:46 | — |
+| [Roblox 游戏界面套件](https://x.com/netgraphicss/status/2120860182901305465) | Opus 5.5 | [@netgraphicss](https://x.com/netgraphicss) | 0:30 | — |
 | [吉祥物复古太空像素游戏](https://x.com/riku720720/status/2102547249834385584) | Opus 5.5 | [@riku720720](https://x.com/riku720720) | 1:00 | — |
 | [海战题材Roguelike游戏预告片](https://x.com/ootamato/status/2103752104892612736) | Opus 5.5 | [@ootamato](https://x.com/ootamato) | 0:22 | — |
 | [代码生成的碎玻璃游戏](https://x.com/prasenx/status/2116914502390480919) | Opus 5.5 | [@prasenx](https://x.com/prasenx) | 0:27 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2116914502390480919) |

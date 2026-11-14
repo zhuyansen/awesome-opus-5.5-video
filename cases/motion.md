@@ -1,6 +1,6 @@
 # Motion graphics & UI
 
-356 works, 93 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+359 works, 93 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -254,10 +254,12 @@
 | [Animated app paywall design](https://x.com/BreejeAnadkat/status/2115749240823583179) | Opus 5.5 | [@BreejeAnadkat](https://x.com/BreejeAnadkat) | 0:10 | — |
 | [Pure-JS generated video](https://x.com/chetaslua/status/2103599163804098708) | Opus 5.5 | [@chetaslua](https://x.com/chetaslua) | 0:12 | — |
 | [AI-made motion design piece](https://x.com/lokidotdev/status/2103760837496418583) | Opus 5.5 | [@lokidotdev](https://x.com/lokidotdev) | 0:15 | — |
+| [Modern UI motion effects](https://x.com/csaba_kissi/status/2120855435230187993) | Opus 5.5 | [@csaba_kissi](https://x.com/csaba_kissi) | 0:25 | — |
 | [AI product motion design video](https://x.com/LexnLin/status/2110013871532490973) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 0:40 | — |
 | [Animated Minecraft treasure map graphic](https://x.com/sethfowIer/status/2113248976984068329) | Opus 5.5 | [@sethfowIer](https://x.com/sethfowIer) | 0:19 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2113248976984068329) |
 | [Animation made to complement a design](https://x.com/askwhykartik/status/2103825020334285239) | Opus 5.5 | [@askwhykartik](https://x.com/askwhykartik) | 0:07 | — |
 | [60fps motion graphics reel](https://x.com/Aygramm_/status/2117294773081882838) | Opus 5.5 | [@Aygramm_](https://x.com/Aygramm_) | 0:48 | — |
+| [Stewdio launch motion graphics](https://x.com/blak3shao/status/2120939694984675409) | Opus 5.5 | [@blak3shao](https://x.com/blak3shao) | 0:51 | — |
 | [Looping product launch motion template](https://x.com/twoclipping/status/2105927781678747965) | Opus 5.5 | [@twoclipping](https://x.com/twoclipping) | 0:24 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2105927781678747965) |
 | [Pixel art attack animation frame boost](https://x.com/MindGate_dev/status/2111668407418650660) | Opus 5.5 | [@MindGate_dev](https://x.com/MindGate_dev) | 0:40 | — |
 | [Motion showreel with a fully code-synthesized soundtrack](https://x.com/prasenx/status/2103538744695693512) | Opus 5.5 | [@prasenx](https://x.com/prasenx) | 0:15 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103538744695693512) |
@@ -329,6 +331,7 @@
 | [Motion designer showreel with custom brand kit](https://x.com/lukasersil/status/2103742861971726495) | Opus 5.5 | [@lukasersil](https://x.com/lukasersil) | 0:15 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103742861971726495) |
 | [Exploded robot squid animation](https://x.com/elvar_official/status/2119085076939948251) | Opus 5.5 | [@elvar_official](https://x.com/elvar_official) | 0:24 | — |
 | [Teacher's Day tribute animation with handwriting effect](https://x.com/youssef_aymanc/status/2107466191178711054) | Opus 5.5 | [@youssef_aymanc](https://x.com/youssef_aymanc) | 0:33 | — |
+| [Eight motion components](https://x.com/csaba_kissi/status/2120919476174827528) | Opus 5.5 | [@csaba_kissi](https://x.com/csaba_kissi) | 0:25 | — |
 | [Animated onboarding experience](https://x.com/BreejeAnadkat/status/2113620817649299590) | Opus 5.5 | [@BreejeAnadkat](https://x.com/BreejeAnadkat) | 0:22 | — |
 | [PUNCTUM dot font interactive site](https://x.com/sundyme/status/2107108673407627533) | Opus 5.5 | [@sundyme](https://x.com/sundyme) | 1:06 | — |
 | [Lumno website SVG feature demo animations](https://x.com/Kubai087/status/2113241980268593422) | Opus 5.5 | [@Kubai087](https://x.com/Kubai087) | 1:07 | — |

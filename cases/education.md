@@ -1,6 +1,6 @@
 # Explainers & education
 
-233 works, 58 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+234 works, 58 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -236,4 +236,5 @@
 | [Elementary science lesson on forces](https://x.com/AdamPrabata/status/2119417363661775293) | Opus 5.5 | [@AdamPrabata](https://x.com/AdamPrabata) | 1:00 | — |
 | [Hot vs cold crypto wallet explainer](https://x.com/sergitosergito/status/2103835390998388796) | Opus 5.5 | [@sergitosergito](https://x.com/sergitosergito) | 1:36 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103835390998388796) |
 | [Browser-based 3D electronics workbench](https://x.com/ruizemanueldev/status/2118183814815994174) | Opus 5.5 | [@ruizemanueldev](https://x.com/ruizemanueldev) | 0:57 | — |
+| [Animated Nara travel guide](https://x.com/CHIBIKURO_QnQ/status/2120848591904489575) | Opus 5.5 | [@CHIBIKURO_QnQ](https://x.com/CHIBIKURO_QnQ) | 1:39 | — |
 | [Interactive V8 engine simulator](https://x.com/elvar_official/status/2119492039255749069) | Opus 5.5 | [@elvar_official](https://x.com/elvar_official) | 0:26 | — |

@@ -1,6 +1,6 @@
 # 科普讲解
 
-共 233 个作品，其中 58 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 234 个作品，其中 58 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -236,4 +236,5 @@
 | [小学科学力的讲解动画](https://x.com/AdamPrabata/status/2119417363661775293) | Opus 5.5 | [@AdamPrabata](https://x.com/AdamPrabata) | 1:00 | — |
 | [热钱包与冷钱包区别讲解视频](https://x.com/sergitosergito/status/2103835390998388796) | Opus 5.5 | [@sergitosergito](https://x.com/sergitosergito) | 1:36 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103835390998388796) |
 | [浏览器中的3D电子实验台](https://x.com/ruizemanueldev/status/2118183814815994174) | Opus 5.5 | [@ruizemanueldev](https://x.com/ruizemanueldev) | 0:57 | — |
+| [奈良景点旅行动画指南](https://x.com/CHIBIKURO_QnQ/status/2120848591904489575) | Opus 5.5 | [@CHIBIKURO_QnQ](https://x.com/CHIBIKURO_QnQ) | 1:39 | — |
 | [交互式V8发动机模拟器](https://x.com/elvar_official/status/2119492039255749069) | Opus 5.5 | [@elvar_official](https://x.com/elvar_official) | 0:26 | — |

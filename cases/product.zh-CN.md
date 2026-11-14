@@ -1,6 +1,6 @@
 # 产品广告
 
-共 272 个作品，其中 50 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 273 个作品，其中 50 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -275,4 +275,5 @@
 | [通过MCP工具剪辑的赞助宣传片](https://x.com/Ror_Fly/status/2103549390933610685) | Opus 5.5 | [@Ror_Fly](https://x.com/Ror_Fly) | 1:00 | — |
 | [等距风格落地页设计](https://x.com/itsnotryan/status/2107842500715065664) | Opus 5.5 | [@itsnotryan](https://x.com/itsnotryan) | 0:08 | — |
 | [用Sonnet 5.5搭建的笔记应用](https://x.com/CodingNoobie/status/2104642394503409862) | Sonnet 5.5 | [@CodingNoobie](https://x.com/CodingNoobie) | 0:16 | — |
+| [用于健身应用的类 Figma 设计工具](https://x.com/diegoarias941/status/2120755778810269834) | Opus 5.5 | [@diegoarias941](https://x.com/diegoarias941) | 0:21 | — |
 | [游戏化仓库管理软件](https://x.com/LearnWithSubhan/status/2110235247745052913) | Opus 5.5 | [@LearnWithSubhan](https://x.com/LearnWithSubhan) | 1:12 | — |
