@@ -1,6 +1,6 @@
 # 动效设计
 
-共 359 个作品，其中 93 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 360 个作品，其中 93 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -334,6 +334,7 @@
 | [八组动态组件](https://x.com/csaba_kissi/status/2120919476174827528) | Opus 5.5 | [@csaba_kissi](https://x.com/csaba_kissi) | 0:25 | — |
 | [动效入职引导界面](https://x.com/BreejeAnadkat/status/2113620817649299590) | Opus 5.5 | [@BreejeAnadkat](https://x.com/BreejeAnadkat) | 0:22 | — |
 | [PUNCTUM点阵字体互动网站](https://x.com/sundyme/status/2107108673407627533) | Opus 5.5 | [@sundyme](https://x.com/sundyme) | 1:06 | — |
+| [短动画作品](https://x.com/kevserctk/status/2121219834637627527) | Opus 5.5 | [@kevserctk](https://x.com/kevserctk) | 0:07 | — |
 | [Lumno 官网功能演示 SVG 动画](https://x.com/Kubai087/status/2113241980268593422) | Opus 5.5 | [@Kubai087](https://x.com/Kubai087) | 1:07 | — |
 | [生成式视觉作品](https://x.com/devteamdrew/status/2116267359740518808) | Opus 5.5 | [@devteamdrew](https://x.com/devteamdrew) | 0:32 | — |
 | [146个机器人的黑灯工厂动画](https://x.com/0xwhrrari/status/2114703675264291003) | Opus 5.5 | [@0xwhrrari](https://x.com/0xwhrrari) | 0:21 | — |

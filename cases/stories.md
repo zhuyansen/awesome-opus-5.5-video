@@ -1,6 +1,6 @@
 # Characters & stories
 
-251 works, 60 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+252 works, 60 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Procedural animated short of a forest tram](https://x.com/guanmo_ai/status/2117830445945819190) | Opus 5.5 | [@guanmo_ai](https://x.com/guanmo_ai) | 1:15 | — |
 | [Paper crane journey animation drawn frame by frame](https://x.com/kevin_t_ngo/status/2109856686588801285) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 1:09 | — |
 | [Live-action-style music video via multi-tool workflow](https://x.com/ai6vyy/status/2103415770973958400) | Opus 5.5 | [@ai6vyy](https://x.com/ai6vyy) | 1:30 | — |
+| [True-story mystery documentary rendered in Blender](https://x.com/DeepDive_KR/status/2121411942388736142) | Opus 5.5 | [@DeepDive_KR](https://x.com/DeepDive_KR) | 0:33 | — |
 | [Animated train window seasons short film](https://x.com/itsolelehmann/status/2103124033365762215) | Opus 5.5 | [@itsolelehmann](https://x.com/itsolelehmann) | 0:30 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103124033365762215) |
 | [Unofficial fan video for a music artist](https://x.com/ystknsh/status/2102766871007436993) | Opus 5.5 | [@ystknsh](https://x.com/ystknsh) | 0:30 | — |
 | [Animated AGI declaration short](https://x.com/AndrewOnXYZ/status/2106097745098395712) | Fable 5.5 (preview) | [@AndrewOnXYZ](https://x.com/AndrewOnXYZ) | 4:26 | — |

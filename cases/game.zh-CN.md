@@ -1,6 +1,6 @@
 # 游戏
 
-共 484 个作品，其中 67 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 486 个作品，其中 67 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -383,7 +383,9 @@
 | [用Claude Opus 5.5在Godot制作的SCP-096恐怖游戏](https://x.com/imjustnewatai/status/2105596869720322429) | Opus 5.5 | [@imjustnewatai](https://x.com/imjustnewatai) | 1:53 | — |
 | [用Sonnet 5.5制作的恐怖游戏](https://x.com/The_Alex/status/2104640571004567617) | Sonnet 5.5 | [@The_Alex](https://x.com/The_Alex) | 5:13 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104640571004567617) |
 | [像素风足球场游戏](https://x.com/N1njaCodex/status/2116141712842293599) | Opus 5.5 | [@N1njaCodex](https://x.com/N1njaCodex) | 0:17 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2116141712842293599) |
+| [养蜂主题手机游戏](https://x.com/oguzthedev/status/2121285909018763358) | Opus 5.5 | [@oguzthedev](https://x.com/oguzthedev) | 0:16 | — |
 | [Roblox龙卷风吞噬游戏](https://x.com/0xKense1/status/2117629203889659934) | Opus 5.5 | [@0xKense1](https://x.com/0xKense1) | 0:30 | — |
+| [Roblox 游戏及预告片](https://x.com/Hamzaa_i/status/2121165425052402063) | Opus 5.5 | [@Hamzaa_i](https://x.com/Hamzaa_i) | 1:46 | — |
 | [可在浏览器游玩的Nuketown地图复刻](https://x.com/_MaxBlade/status/2112694762436186118) | Opus 5.5 | [@_MaxBlade](https://x.com/_MaxBlade) | 0:47 | — |
 | [塞尔达与宝可梦跨界游戏](https://x.com/MozeTech/status/2111652513846026593) | Fable 5.5 (preview) | [@MozeTech](https://x.com/MozeTech) | 0:55 | — |
 | [数小时内完成的第一人称开放世界游戏](https://x.com/badboyfoxy/status/2109902063916257466) | Opus 5.5 | [@badboyfoxy](https://x.com/badboyfoxy) | 2:32 | — |

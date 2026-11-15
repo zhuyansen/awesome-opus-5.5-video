@@ -1,6 +1,6 @@
 # Games
 
-484 works, 67 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+486 works, 67 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -383,7 +383,9 @@
 | [SCP-096 horror game built in Godot with Claude Opus 5.5](https://x.com/imjustnewatai/status/2105596869720322429) | Opus 5.5 | [@imjustnewatai](https://x.com/imjustnewatai) | 1:53 | — |
 | [Horror game built with Sonnet 5.5](https://x.com/The_Alex/status/2104640571004567617) | Sonnet 5.5 | [@The_Alex](https://x.com/The_Alex) | 5:13 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104640571004567617) |
 | [Pixel-art football stadium game](https://x.com/N1njaCodex/status/2116141712842293599) | Opus 5.5 | [@N1njaCodex](https://x.com/N1njaCodex) | 0:17 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2116141712842293599) |
+| [Beekeeping mobile game](https://x.com/oguzthedev/status/2121285909018763358) | Opus 5.5 | [@oguzthedev](https://x.com/oguzthedev) | 0:16 | — |
 | [Roblox tornado game](https://x.com/0xKense1/status/2117629203889659934) | Opus 5.5 | [@0xKense1](https://x.com/0xKense1) | 0:30 | — |
+| [Roblox game with trailer](https://x.com/Hamzaa_i/status/2121165425052402063) | Opus 5.5 | [@Hamzaa_i](https://x.com/Hamzaa_i) | 1:46 | — |
 | [Browser-playable Nuketown map clone](https://x.com/_MaxBlade/status/2112694762436186118) | Opus 5.5 | [@_MaxBlade](https://x.com/_MaxBlade) | 0:47 | — |
 | [Zelda Pokemon crossover game](https://x.com/MozeTech/status/2111652513846026593) | Fable 5.5 (preview) | [@MozeTech](https://x.com/MozeTech) | 0:55 | — |
 | [First-person open world game built in hours](https://x.com/badboyfoxy/status/2109902063916257466) | Opus 5.5 | [@badboyfoxy](https://x.com/badboyfoxy) | 2:32 | — |

@@ -1,6 +1,6 @@
 # 3D 场景
 
-共 475 个作品，其中 108 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 478 个作品，其中 109 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -251,6 +251,7 @@
 | [含室内与道具的城市场景](https://x.com/badboyfoxy/status/2115046586703057244) | Opus 5.5 / Fable 5.5 (preview) | [@badboyfoxy](https://x.com/badboyfoxy) | 2:25 | — |
 | [由个人推文构建的城市可视化](https://x.com/paularambles/status/2107125351784886642) | Opus 5.5 | [@paularambles](https://x.com/paularambles) | 0:46 | — |
 | [《彼方へ》三维意境短片](https://x.com/scottstts/status/2115883707072385445) | Opus 5.5 | [@scottstts](https://x.com/scottstts) | 1:17 | — |
+| [程序化海天场景游艇模拟器](https://x.com/maxt3chno/status/2121296570872107145) | Opus 5.5 | [@maxt3chno](https://x.com/maxt3chno) | 1:36 | — |
 | [复刻《食物森林》动画短片](https://x.com/scottstts/status/2113955828021563857) | Opus 5.5 | [@scottstts](https://x.com/scottstts) | 0:12 | — |
 | [互动公寓场景](https://x.com/MengTo/status/2120316203738829180) | Opus 5.5 | [@MengTo](https://x.com/MengTo) | 0:52 | — |
 | [Blender拉面店场景](https://x.com/victormustar/status/2109922839671562534) | Opus 5.5 | [@victormustar](https://x.com/victormustar) | 0:15 | — |
@@ -324,6 +325,7 @@
 | [金阁寺CAD转3D动画](https://x.com/Ayu_AI_0912/status/2103243328041132100) | Opus 5.5 | [@Ayu_AI_0912](https://x.com/Ayu_AI_0912) | 0:24 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103243328041132100) |
 | [Haiku 5.5一笔画人脸挑战](https://x.com/Avenoxai/status/2108930079363637288) | Haiku 5.5 | [@Avenoxai](https://x.com/Avenoxai) | 0:21 | — |
 | [穿越雷暴巨浪的划船场景](https://x.com/camperaigg/status/2118317021935071339) | Fable 5.5 (preview) | [@camperaigg](https://x.com/camperaigg) | 0:35 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2118317021935071339) |
+| [可互动的果冻鳄鱼软体模拟](https://x.com/vib3coded/status/2121290268779618790) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:17 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2121290268779618790) |
 | [代码驱动特效的像素风万圣节场景](https://x.com/zer0point_eth/status/2117593246515810630) | Opus 5.5 | [@zer0point_eth](https://x.com/zer0point_eth) | 0:14 | — |
 | [AI工作智能体的3D虚拟办公室](https://x.com/anxuanng/status/2110453070236922090) | Opus 5.5 | [@anxuanng](https://x.com/anxuanng) | 0:30 | — |
 | [用 Blender 建模的电影片场公寓](https://x.com/rewind02/status/2118404190041235738) | Opus 5.5 | [@rewind02](https://x.com/rewind02) | 0:18 | — |
@@ -381,6 +383,7 @@
 | [Three.js怪兽模拟](https://x.com/majidmanzarpour/status/2102810710791401883) | Opus 5.5 | [@majidmanzarpour](https://x.com/majidmanzarpour) | 2:13 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102810710791401883) |
 | [戴女巫帽吉祥物的万圣节3D循环动画](https://x.com/flxrnc/status/2114779295830679998) | Opus 5.5 | [@flxrnc](https://x.com/flxrnc) | 0:24 | — |
 | [Blender 三维渲染场景](https://x.com/orpheuskaze/status/2119453145478881479) | Opus 5.5 | [@orpheuskaze](https://x.com/orpheuskaze) | 0:25 | — |
+| [十二臂机器人装配单元模拟](https://x.com/konstantinsaifo/status/2121097161589039470) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 0:35 | — |
 | [虚构火箭CAD图纸与发射动画](https://x.com/Ayu_AI_0912/status/2109515393220083912) | Opus 5.5 | [@Ayu_AI_0912](https://x.com/Ayu_AI_0912) | 0:24 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2109515393220083912) |
 | [铃兰岛屿三维场景](https://x.com/ann_nnng/status/2112897537430741143) | Opus 5.5 | [@ann_nnng](https://x.com/ann_nnng) | 0:24 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2112897537430741143) |
 | [光线追踪黑洞之旅](https://x.com/camperaigg/status/2119429740041732118) | Fable 5.5 (preview) | [@camperaigg](https://x.com/camperaigg) | 0:30 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2119429740041732118) |

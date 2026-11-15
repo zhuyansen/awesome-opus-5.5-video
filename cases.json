@@ -3,8 +3,8 @@
  "model": "Claude 5.5 (Opus 5.5 · Sonnet 5.5 · Haiku 5.5 · Fable 5.5)",
  "inclusion_rule": "Original post by the creator, native video attached, >= 5000 views on that post, creator states it was made with Claude Opus 5.5, Sonnet 5.5, Haiku 5.5 or Fable 5.5 (Fable 5.5 is in limited preview, not yet announced). Later posts that embed another account's upload are excluded.",
  "views_threshold": 5000,
- "stats_checked_at": "2026-11-14T01:17:17.314Z",
- "updated_at": "2026-11-14T01:17:17.314Z",
+ "stats_checked_at": "2026-11-15T01:17:14.399Z",
+ "updated_at": "2026-11-15T01:17:14.399Z",
  "model_attribution": "As stated by each creator; not independently reproduced.",
  "cases": [
   {
@@ -40834,6 +40834,40 @@
    "resources": []
   },
   {
+   "id": "2121219803268452726",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "切西瓜物理模拟效果对比",
+    "en": "Watermelon slicing physics simulation comparison"
+   },
+   "creator": {
+    "handle": "AIMind_Ai",
+    "name": "AiMind"
+   },
+   "original_post_url": "https://x.com/AIMind_Ai/status/2121219803268452726",
+   "posted_at": "2026-11-13T12:33:06.000Z",
+   "language": "en",
+   "duration_seconds": 38,
+   "views": 34661,
+   "likes": 146,
+   "bookmarks": 45,
+   "views_checked_at": "2026-11-15T01:17:14.399Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121219596954824704/img/AM4MBU4YXkPCmmlY.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "brief",
+    "source": "post",
+    "source_url": "https://x.com/AIMind_Ai/status/2121219803268452726",
+    "length": 77,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2121219803268452726"
+   },
+   "resources": []
+  },
+  {
    "id": "2117674341533913591",
    "models": [
     "opus-5.5"
@@ -48678,6 +48712,36 @@
    "resources": []
   },
   {
+   "id": "2121296570872107145",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "程序化海天场景游艇模拟器",
+    "en": "Yacht simulator with procedural water and sky"
+   },
+   "creator": {
+    "handle": "maxt3chno",
+    "name": "Max"
+   },
+   "original_post_url": "https://x.com/maxt3chno/status/2121296570872107145",
+   "posted_at": "2026-11-13T17:38:08.000Z",
+   "language": "en",
+   "duration_seconds": 96,
+   "views": 25714,
+   "likes": 567,
+   "bookmarks": 279,
+   "views_checked_at": "2026-11-15T01:17:14.399Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121295707931893760/img/sOHG_15Ht6xjaoTj.jpg",
+   "tools_reported": [
+    "Three.js"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2102728913579327722",
    "models": [
     "opus-5.5"
@@ -49097,6 +49161,34 @@
     "Claude Code",
     "PixVerse CPP"
    ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2121245217152016866",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "西部峡谷追逐场景多模型对比",
+    "en": "Wild West canyon chase scene comparison"
+   },
+   "creator": {
+    "handle": "Lummox_eth",
+    "name": "Lummox"
+   },
+   "original_post_url": "https://x.com/Lummox_eth/status/2121245217152016866",
+   "posted_at": "2026-11-13T14:14:05.000Z",
+   "language": "en",
+   "duration_seconds": 10,
+   "views": 25459,
+   "likes": 140,
+   "bookmarks": 163,
+   "views_checked_at": "2026-11-15T01:17:14.399Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121244847034052608/img/LrcCPNjgnVLOCXPp.jpg",
+   "tools_reported": [],
    "reference_assets": false,
    "prompt": null,
    "resources": []
@@ -55073,6 +55165,34 @@
    "resources": []
   },
   {
+   "id": "2121326233044537688",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "飞屋房子建模四模型对比测试",
+    "en": "Up house build test across four models"
+   },
+   "creator": {
+    "handle": "noclipepe",
+    "name": "noclipepe"
+   },
+   "original_post_url": "https://x.com/noclipepe/status/2121326233044537688",
+   "posted_at": "2026-11-13T19:36:00.000Z",
+   "language": "en",
+   "duration_seconds": 36,
+   "views": 20600,
+   "likes": 137,
+   "bookmarks": 39,
+   "views_checked_at": "2026-11-15T01:17:14.399Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121325889690460160/img/Ej_0aw6X-YRrAMZ9.jpg",
+   "tools_reported": [],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2105723245722812598",
    "models": [
     "opus-5.5"
@@ -55425,6 +55545,37 @@
     "length": 49,
     "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2106237162505265499"
    },
+   "resources": []
+  },
+  {
+   "id": "2121411942388736142",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "stories",
+   "title": {
+    "zh": "Blender制作的真实悬疑纪录片",
+    "en": "True-story mystery documentary rendered in Blender"
+   },
+   "creator": {
+    "handle": "DeepDive_KR",
+    "name": "DeepDive"
+   },
+   "original_post_url": "https://x.com/DeepDive_KR/status/2121411942388736142",
+   "posted_at": "2026-11-14T01:16:35.000Z",
+   "language": "ko",
+   "duration_seconds": 33,
+   "views": 20285,
+   "likes": 241,
+   "bookmarks": 337,
+   "views_checked_at": "2026-11-15T01:17:14.399Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121410445957619712/img/UL3p8jHk7R9_hCPH.jpg",
+   "tools_reported": [
+    "Blender",
+    "Codex"
+   ],
+   "reference_assets": false,
+   "prompt": null,
    "resources": []
   },
   {
@@ -59807,6 +59958,42 @@
    ],
    "reference_assets": true,
    "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2121290268779618790",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "可互动的果冻鳄鱼软体模拟",
+    "en": "Interactive jelly crocodile soft-body study"
+   },
+   "creator": {
+    "handle": "vib3coded",
+    "name": "Vib3Coded"
+   },
+   "original_post_url": "https://x.com/vib3coded/status/2121290268779618790",
+   "posted_at": "2026-11-13T17:13:06.000Z",
+   "language": "en",
+   "duration_seconds": 17,
+   "views": 17888,
+   "likes": 328,
+   "bookmarks": 151,
+   "views_checked_at": "2026-11-15T01:17:14.399Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121290025744678912/img/XTncU0St3T0cQ4lz.jpg",
+   "tools_reported": [
+    "Three.js"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "full",
+    "source": "author_reply",
+    "source_url": "https://x.com/vib3coded/status/2121290347196342467",
+    "length": 4732,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2121290268779618790"
+   },
    "resources": []
   },
   {
@@ -64949,6 +65136,38 @@
    "resources": []
   },
   {
+   "id": "2121221667619852660",
+   "models": [
+    "sonnet-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "同一提示词的3D飞船建模对比",
+    "en": "3D ship build comparison with same prompt"
+   },
+   "creator": {
+    "handle": "marcthecreatorr",
+    "name": "Marcel"
+   },
+   "original_post_url": "https://x.com/marcthecreatorr/status/2121221667619852660",
+   "posted_at": "2026-11-13T12:40:30.000Z",
+   "language": "en",
+   "duration_seconds": 54,
+   "views": 14988,
+   "likes": 117,
+   "bookmarks": 27,
+   "views_checked_at": "2026-11-15T01:17:14.399Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121221429853134848/img/tmfLYkezKWakHyki.jpg",
+   "tools_reported": [
+    "Claude Code",
+    "Cursor",
+    "Gemini 4 Hydrogen"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2110696310340718884",
    "models": [
     "opus-5.5"
@@ -69541,6 +69760,34 @@
    "resources": []
   },
   {
+   "id": "2121285909018763358",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "game",
+   "title": {
+    "zh": "养蜂主题手机游戏",
+    "en": "Beekeeping mobile game"
+   },
+   "creator": {
+    "handle": "oguzthedev",
+    "name": "Oguz"
+   },
+   "original_post_url": "https://x.com/oguzthedev/status/2121285909018763358",
+   "posted_at": "2026-11-13T16:55:46.000Z",
+   "language": "tr",
+   "duration_seconds": 16,
+   "views": 12916,
+   "likes": 113,
+   "bookmarks": 107,
+   "views_checked_at": "2026-11-15T01:17:14.399Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121285835068674048/img/V0JYbdWXSy0mfZta.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2103591755564085589",
    "models": [
     "opus-5.5"
@@ -69968,6 +70215,36 @@
     "length": 2099,
     "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2109015574177075610"
    },
+   "resources": []
+  },
+  {
+   "id": "2121165425052402063",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "game",
+   "title": {
+    "zh": "Roblox 游戏及预告片",
+    "en": "Roblox game with trailer"
+   },
+   "creator": {
+    "handle": "Hamzaa_i",
+    "name": "Hamza"
+   },
+   "original_post_url": "https://x.com/Hamzaa_i/status/2121165425052402063",
+   "posted_at": "2026-11-13T08:57:01.000Z",
+   "language": "en",
+   "duration_seconds": 106,
+   "views": 12632,
+   "likes": 248,
+   "bookmarks": 199,
+   "views_checked_at": "2026-11-15T01:17:14.399Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121165181594079232/img/apM1sjm-3aqCgHPe.jpg",
+   "tools_reported": [
+    "Roblox"
+   ],
+   "reference_assets": false,
+   "prompt": null,
    "resources": []
   },
   {
@@ -71080,6 +71357,36 @@
     "Claude Code",
     "REA",
     "/colorfigures skill"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2121097161589039470",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "十二臂机器人装配单元模拟",
+    "en": "Twelve-arm robot assembly cell simulation"
+   },
+   "creator": {
+    "handle": "konstantinsaifo",
+    "name": "Konstantin Saifoulline"
+   },
+   "original_post_url": "https://x.com/konstantinsaifo/status/2121097161589039470",
+   "posted_at": "2026-11-13T04:25:46.000Z",
+   "language": "en",
+   "duration_seconds": 35,
+   "views": 12167,
+   "likes": 145,
+   "bookmarks": 102,
+   "views_checked_at": "2026-11-15T01:17:14.399Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121096658260017152/img/fCeF3lC98V3KKAK7.jpg",
+   "tools_reported": [
+    "Airsup"
    ],
    "reference_assets": false,
    "prompt": null,
@@ -81796,6 +82103,34 @@
    "tools_reported": [
     "GPT-6 Sol"
    ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2121219834637627527",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "motion",
+   "title": {
+    "zh": "短动画作品",
+    "en": "Short generated animation"
+   },
+   "creator": {
+    "handle": "kevserctk",
+    "name": "Kevser"
+   },
+   "original_post_url": "https://x.com/kevserctk/status/2121219834637627527",
+   "posted_at": "2026-11-13T12:33:13.000Z",
+   "language": "en",
+   "duration_seconds": 7,
+   "views": 8131,
+   "likes": 312,
+   "bookmarks": 196,
+   "views_checked_at": "2026-11-15T01:17:14.399Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121219797148979200/img/KwDwoJnfLxjaNp8C.jpg",
+   "tools_reported": [],
    "reference_assets": false,
    "prompt": null,
    "resources": []

@@ -1,6 +1,6 @@
 # Motion graphics & UI
 
-359 works, 93 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+360 works, 93 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -334,6 +334,7 @@
 | [Eight motion components](https://x.com/csaba_kissi/status/2120919476174827528) | Opus 5.5 | [@csaba_kissi](https://x.com/csaba_kissi) | 0:25 | — |
 | [Animated onboarding experience](https://x.com/BreejeAnadkat/status/2113620817649299590) | Opus 5.5 | [@BreejeAnadkat](https://x.com/BreejeAnadkat) | 0:22 | — |
 | [PUNCTUM dot font interactive site](https://x.com/sundyme/status/2107108673407627533) | Opus 5.5 | [@sundyme](https://x.com/sundyme) | 1:06 | — |
+| [Short generated animation](https://x.com/kevserctk/status/2121219834637627527) | Opus 5.5 | [@kevserctk](https://x.com/kevserctk) | 0:07 | — |
 | [Lumno website SVG feature demo animations](https://x.com/Kubai087/status/2113241980268593422) | Opus 5.5 | [@Kubai087](https://x.com/Kubai087) | 1:07 | — |
 | [Generated visual piece](https://x.com/devteamdrew/status/2116267359740518808) | Opus 5.5 | [@devteamdrew](https://x.com/devteamdrew) | 0:32 | — |
 | [Animated dark factory with 146 robot workers](https://x.com/0xwhrrari/status/2114703675264291003) | Opus 5.5 | [@0xwhrrari](https://x.com/0xwhrrari) | 0:21 | — |

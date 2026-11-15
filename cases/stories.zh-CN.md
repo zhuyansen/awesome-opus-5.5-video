@@ -1,6 +1,6 @@
 # 角色故事
 
-共 251 个作品，其中 60 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 252 个作品，其中 60 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [森林电车程序化动画短片](https://x.com/guanmo_ai/status/2117830445945819190) | Opus 5.5 | [@guanmo_ai](https://x.com/guanmo_ai) | 1:15 | — |
 | [逐帧绘制的纸鹤旅程动画](https://x.com/kevin_t_ngo/status/2109856686588801285) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 1:09 | — |
 | [多工具协作的真人风格MV](https://x.com/ai6vyy/status/2103415770973958400) | Opus 5.5 | [@ai6vyy](https://x.com/ai6vyy) | 1:30 | — |
+| [Blender制作的真实悬疑纪录片](https://x.com/DeepDive_KR/status/2121411942388736142) | Opus 5.5 | [@DeepDive_KR](https://x.com/DeepDive_KR) | 0:33 | — |
 | [火车窗外四季变换动画短片](https://x.com/itsolelehmann/status/2103124033365762215) | Opus 5.5 | [@itsolelehmann](https://x.com/itsolelehmann) | 0:30 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103124033365762215) |
 | [音乐人非官方粉丝视频](https://x.com/ystknsh/status/2102766871007436993) | Opus 5.5 | [@ystknsh](https://x.com/ystknsh) | 0:30 | — |
 | [自称AGI的动画短片](https://x.com/AndrewOnXYZ/status/2106097745098395712) | Fable 5.5 (preview) | [@AndrewOnXYZ](https://x.com/AndrewOnXYZ) | 4:26 | — |
