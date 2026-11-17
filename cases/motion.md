@@ -1,6 +1,6 @@
 # Motion graphics & UI
 
-362 works, 94 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+363 works, 94 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -330,6 +330,7 @@
 | [Smile benefits motion graphics video](https://x.com/ai4everyday/status/2106385179006685254) | Opus 5.5 | [@ai4everyday](https://x.com/ai4everyday) | 0:57 | — |
 | [Exploded robot squid animation](https://x.com/elvar_official/status/2119085076939948251) | Opus 5.5 | [@elvar_official](https://x.com/elvar_official) | 0:24 | — |
 | [Roblox real-time visual effects](https://x.com/kinnievfx/status/2114514200735465924) | Opus 5.5 | [@kinnievfx](https://x.com/kinnievfx) | 0:21 | — |
+| [Animated charts and timelines](https://x.com/csaba_kissi/status/2122006586268745841) | Opus 5.5 | [@csaba_kissi](https://x.com/csaba_kissi) | 0:25 | — |
 | [Motion designer showreel with custom brand kit](https://x.com/lukasersil/status/2103742861971726495) | Opus 5.5 | [@lukasersil](https://x.com/lukasersil) | 0:15 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103742861971726495) |
 | [Eight motion components](https://x.com/csaba_kissi/status/2120919476174827528) | Opus 5.5 | [@csaba_kissi](https://x.com/csaba_kissi) | 0:25 | — |
 | [Teacher's Day tribute animation with handwriting effect](https://x.com/youssef_aymanc/status/2107466191178711054) | Opus 5.5 | [@youssef_aymanc](https://x.com/youssef_aymanc) | 0:33 | — |

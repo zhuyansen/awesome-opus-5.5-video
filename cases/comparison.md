@@ -1,6 +1,6 @@
 # Model comparisons
 
-548 works, 177 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+551 works, 178 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -11,6 +11,7 @@
 | [GPT-6 Astra vs Claude Opus 5.5 comparison](https://x.com/Rixhabh__/status/2104225147184132310) | Opus 5.5 | [@Rixhabh__](https://x.com/Rixhabh__) | 0:30 | — |
 | [Grok vs Opus grass-touching simulator cost test](https://x.com/coldopn/status/2102474335172640989) | Opus 5.5 | [@coldopn](https://x.com/coldopn) | 0:22 | — |
 | [Opus 5.5 vs GPT-6 Sol Unreal game dev](https://x.com/higgsfield_ai/status/2102533401110802552) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:44 | — |
+| [Four-model output comparison](https://x.com/jony_palino/status/2122072152686121146) | Opus 5.5 | [@jony_palino](https://x.com/jony_palino) | 0:17 | — |
 | [Lawn mower simulator built from the same prompt](https://x.com/_MaxBlade/status/2109723440710066646) | Opus 5.5 | [@_MaxBlade](https://x.com/_MaxBlade) | 0:34 | — |
 | [Glitter sticker effect comparison](https://x.com/ann_nnng/status/2104159923886244176) | Opus 5.5 | [@ann_nnng](https://x.com/ann_nnng) | 0:13 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104159923886244176) |
 | [3D-printed load-bearing bridge](https://x.com/rpnickson/status/2104234974350111108) | Opus 5.5 | [@rpnickson](https://x.com/rpnickson) | 1:19 | — |
@@ -313,6 +314,7 @@
 | [Rocket launch video: model speed and cost comparison](https://x.com/bridgebench/status/2103118921024872571) | Opus 5.5 | [@bridgebench](https://x.com/bridgebench) | 0:10 | — |
 | [Three.js test across three models](https://x.com/AI_Screening/status/2113184121883435047) | Opus 5.5 | [@AI_Screening](https://x.com/AI_Screening) | 0:15 | — |
 | [Water simulation model comparison](https://x.com/runable_hq/status/2120097886117781660) | Opus 5.5 | [@runable_hq](https://x.com/runable_hq) | 0:06 | — |
+| [Three.js seaplane model comparison](https://x.com/maxt3chno/status/2121951993212076357) | Opus 5.5 | [@maxt3chno](https://x.com/maxt3chno) | 0:24 | — |
 | [Front-end code animation comparison](https://x.com/Smlay_ero/status/2117210973576765462) | Fable 5.5 (preview) | [@Smlay_ero](https://x.com/Smlay_ero) | 1:02 | — |
 | [Multi-model cyberpunk character comparison](https://x.com/gtanczyk/status/2111932183946449162) | Opus 5.5 | [@gtanczyk](https://x.com/gtanczyk) | 0:24 | — |
 | [Soft-body physics simulation comparison](https://x.com/higgsfield_ai/status/2110471008285282669) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:16 | — |
@@ -440,6 +442,7 @@
 | [Soft-body jelly kiwi wedge simulation](https://x.com/vib3coded/status/2109932661204517203) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:17 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2109932661204517203) |
 | [Rhino image comparison: Gemini vs Opus](https://x.com/kinderlayer/status/2112514831362175151) | Opus 5.5 | [@kinderlayer](https://x.com/kinderlayer) | 0:15 | — |
 | [Motion graphics model comparison](https://x.com/deweytn/status/2118809236046246316) | Opus 5.5 | [@deweytn](https://x.com/deweytn) | 0:43 | — |
+| [Humanoid worm swarm comparison](https://x.com/AiBattle_/status/2121989497252438473) | Opus 5.5 | [@AiBattle_](https://x.com/AiBattle_) | 0:26 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2121989497252438473) |
 | [Interactive 3D gummy jellyfish, two-model build](https://x.com/vib3coded/status/2104651061336117614) | Sonnet 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:18 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104651061336117614) |
 | [Three-model Arena output comparison](https://x.com/AI_Screening/status/2113321010913292308) | Opus 5.5 | [@AI_Screening](https://x.com/AI_Screening) | 0:15 | — |
 | [Whale image comparison: GPT-6 vs Opus](https://x.com/vib3coded/status/2112487852156063849) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:18 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2112487852156063849) |

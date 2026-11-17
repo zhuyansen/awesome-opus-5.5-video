@@ -1,6 +1,6 @@
 # 动效设计
 
-共 362 个作品，其中 94 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 363 个作品，其中 94 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -330,6 +330,7 @@
 | [微笑好处动态图解视频](https://x.com/ai4everyday/status/2106385179006685254) | Opus 5.5 | [@ai4everyday](https://x.com/ai4everyday) | 0:57 | — |
 | [机械鱿鱼拆解动画](https://x.com/elvar_official/status/2119085076939948251) | Opus 5.5 | [@elvar_official](https://x.com/elvar_official) | 0:24 | — |
 | [Roblox实时视觉特效](https://x.com/kinnievfx/status/2114514200735465924) | Opus 5.5 | [@kinnievfx](https://x.com/kinnievfx) | 0:21 | — |
+| [动态图表与时间线](https://x.com/csaba_kissi/status/2122006586268745841) | Opus 5.5 | [@csaba_kissi](https://x.com/csaba_kissi) | 0:25 | — |
 | [带品牌视觉的动效设计师展示片](https://x.com/lukasersil/status/2103742861971726495) | Opus 5.5 | [@lukasersil](https://x.com/lukasersil) | 0:15 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103742861971726495) |
 | [八组动态组件](https://x.com/csaba_kissi/status/2120919476174827528) | Opus 5.5 | [@csaba_kissi](https://x.com/csaba_kissi) | 0:25 | — |
 | [教师节主题手写动效短片](https://x.com/youssef_aymanc/status/2107466191178711054) | Opus 5.5 | [@youssef_aymanc](https://x.com/youssef_aymanc) | 0:33 | — |

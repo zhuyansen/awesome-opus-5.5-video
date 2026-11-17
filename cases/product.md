@@ -1,6 +1,6 @@
 # Product demos & ads
 
-275 works, 50 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+278 works, 51 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -11,6 +11,7 @@
 | [Interactive Tokyo last-train map site](https://x.com/MatoToushi/status/2103643548163928183) | Opus 5.5 | [@MatoToushi](https://x.com/MatoToushi) | 1:02 | — |
 | [Apple HomeView mock commercial](https://x.com/kevin_t_ngo/status/2110722582689546297) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 1:22 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2110722582689546297) |
 | [Interactive recalculating slide deck](https://x.com/uchita_success/status/2103786580838420912) | Opus 5.5 | [@uchita_success](https://x.com/uchita_success) | 0:31 | — |
+| [Ring XY plotter introduction](https://x.com/kohya_tech/status/2121781040360608076) | Opus 5.5 | [@kohya_tech](https://x.com/kohya_tech) | 1:50 | — |
 | [Virtual office for managing coding agents](https://x.com/webdevcody/status/2103653857377292720) | Opus 5.5 | [@webdevcody](https://x.com/webdevcody) | 0:41 | — |
 | [Lyric video generator app JIZURA](https://x.com/8co28/status/2102572322016370781) | Opus 5.5 | [@8co28](https://x.com/8co28) | 1:46 | — |
 | [Intro video for Bend 2 programming language](https://x.com/VictorTaelin/status/2104568082169749982) | Opus 5.5 | [@VictorTaelin](https://x.com/VictorTaelin) | 1:30 | — |
@@ -90,6 +91,7 @@
 | [Dark-mode sales dashboard build](https://x.com/salungprastyo/status/2103015120104525942) | Opus 5.5 | [@salungprastyo](https://x.com/salungprastyo) | 0:33 | — |
 | [Single-prompt design result](https://x.com/PancaSeptiana/status/2103395361058664888) | Opus 5.5 | [@PancaSeptiana](https://x.com/PancaSeptiana) | 0:06 | — |
 | [Storycast narrated explainer video generator launch](https://x.com/ailker/status/2103235288306774127) | Opus 5.5 | [@ailker](https://x.com/ailker) | 0:10 | — |
+| [Machine-vision product inspection film](https://x.com/AmirMushich/status/2121982602122760352) | Opus 5.5 | [@AmirMushich](https://x.com/AmirMushich) | 0:10 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2121982602122760352) |
 | [Promo video recreated from a reference clip](https://x.com/servasyy_ai/status/2103785302288687268) | Opus 5.5 | [@servasyy_ai](https://x.com/servasyy_ai) | 0:29 | — |
 | [UGC fashion try-on video](https://x.com/abxxai/status/2107847831168196890) | Sonnet 5.5 | [@abxxai](https://x.com/abxxai) | 0:30 | — |
 | [SaaS product trailer](https://x.com/javiiarchive/status/2103501151438323850) | Opus 5.5 | [@javiiarchive](https://x.com/javiiarchive) | 0:15 | — |
@@ -248,6 +250,7 @@
 | [Interactive frontend artifact](https://x.com/LexnLin/status/2106843514772639995) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 0:42 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2106843514772639995) |
 | [Flowith Canvas AI-made piece](https://x.com/DerekNee/status/2103729728549220815) | Opus 5.5 | [@DerekNee](https://x.com/DerekNee) | 0:45 | — |
 | [Claude introduction video](https://x.com/devteamdrew/status/2106155815707021549) | Fable 5.5 (preview) | [@devteamdrew](https://x.com/devteamdrew) | 0:30 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2106155815707021549) |
+| [Espresso machine model and demo](https://x.com/MrTacticalX/status/2121879124268437739) | Opus 5.5 | [@MrTacticalX](https://x.com/MrTacticalX) | 0:53 | — |
 | [Effort slider UI feature in MyGo](https://x.com/localhost_5173/status/2108236225291407435) | Opus 5.5 | [@localhost_5173](https://x.com/localhost_5173) | 0:07 | — |
 | [Demo video for a Claude mods tool](https://x.com/oikon48/status/2103756961938633159) | Opus 5.5 | [@oikon48](https://x.com/oikon48) | 0:25 | — |
 | [AI drama-style commercial](https://x.com/unikoukokun/status/2102991418860184057) | Opus 5.5 | [@unikoukokun](https://x.com/unikoukokun) | 2:34 | — |

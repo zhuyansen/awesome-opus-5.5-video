@@ -1,6 +1,6 @@
 # 游戏
 
-共 478 个作品，其中 63 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 480 个作品，其中 63 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [从零搭建的Roblox大富翁风格游戏](https://x.com/0xCarnival/status/2102752120978190579) | Opus 5.5 | [@0xCarnival](https://x.com/0xCarnival) | 0:29 | — |
 | [用Opus构建的大亨游戏海滩更新](https://x.com/alexcooldev/status/2109920822068654290) | Opus 5.5 | [@alexcooldev](https://x.com/alexcooldev) | 0:27 | — |
 | [游戏中的城市建造](https://x.com/xikhar/status/2112709928771277158) | Opus 5.5 | [@xikhar](https://x.com/xikhar) | 0:41 | — |
+| [黑暗之魂风格浏览器游戏](https://x.com/MengTo/status/2121896633848017145) | Opus 5.5 | [@MengTo](https://x.com/MengTo) | 1:39 | — |
 | [可在网页游玩的类奥日平台跳跃游戏](https://x.com/rewind02/status/2111466550045622537) | Opus 5.5 | [@rewind02](https://x.com/rewind02) | 0:16 | — |
 | [带水体物理的类Minecraft游戏](https://x.com/notjazii/status/2102480420923420790) | Opus 5.5 | [@notjazii](https://x.com/notjazii) | 1:24 | — |
 | [重制经典头球闪客游戏](https://x.com/melih_cat/status/2102731155879391418) | Opus 5.5 | [@melih_cat](https://x.com/melih_cat) | 0:18 | — |
@@ -459,6 +460,7 @@
 | [九十种动漫风技能特效素材包](https://x.com/KanaWorks_AI/status/2115984446604329400) | Opus 5.5 | [@KanaWorks_AI](https://x.com/KanaWorks_AI) | 1:21 | — |
 | [30人同时参与的气候政策课堂游戏](https://x.com/GabLattanzio/status/2113137522561741180) | Opus 5.5 | [@GabLattanzio](https://x.com/GabLattanzio) | 0:49 | — |
 | [可玩的汽车工厂策略游戏](https://x.com/konstantinsaifo/status/2118454837935313228) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 0:30 | — |
+| [沙盒大型多人游戏城镇原型](https://x.com/PawelJLisowski/status/2122046713661702211) | Opus 5.5 | [@PawelJLisowski](https://x.com/PawelJLisowski) | 2:57 | — |
 | [《我的世界》内容融入《荒野大镖客：救赎2》](https://x.com/Roxx_0x/status/2107698613379838294) | Opus 5.5 | [@Roxx_0x](https://x.com/Roxx_0x) | 1:11 | — |
 | [史蒂夫在 GTA V 中遭遇凋零风暴](https://x.com/bonnyxen/status/2109056524496892098) | Opus 5.5 | [@bonnyxen](https://x.com/bonnyxen) | 3:37 | — |
 | [付丧神妖刀像素敌人角色](https://x.com/MindGate_dev/status/2119431394657288288) | Opus 5.5 | [@MindGate_dev](https://x.com/MindGate_dev) | 0:39 | — |

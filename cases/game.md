@@ -1,6 +1,6 @@
 # Games
 
-478 works, 63 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+480 works, 63 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Roblox-style board game built from scratch](https://x.com/0xCarnival/status/2102752120978190579) | Opus 5.5 | [@0xCarnival](https://x.com/0xCarnival) | 0:29 | — |
 | [Beach update for tycoon game built with Opus](https://x.com/alexcooldev/status/2109920822068654290) | Opus 5.5 | [@alexcooldev](https://x.com/alexcooldev) | 0:27 | — |
 | [City built inside a game](https://x.com/xikhar/status/2112709928771277158) | Opus 5.5 | [@xikhar](https://x.com/xikhar) | 0:41 | — |
+| [Dark Souls-inspired browser game](https://x.com/MengTo/status/2121896633848017145) | Opus 5.5 | [@MengTo](https://x.com/MengTo) | 1:39 | — |
 | [Ori-style platformer playable on web](https://x.com/rewind02/status/2111466550045622537) | Opus 5.5 | [@rewind02](https://x.com/rewind02) | 0:16 | — |
 | [Minecraft-style clone with water physics](https://x.com/notjazii/status/2102480420923420790) | Opus 5.5 | [@notjazii](https://x.com/notjazii) | 1:24 | — |
 | [Recreated classic head-ball flash game](https://x.com/melih_cat/status/2102731155879391418) | Opus 5.5 | [@melih_cat](https://x.com/melih_cat) | 0:18 | — |
@@ -459,6 +460,7 @@
 | [Pack of 90 anime-style skill effects](https://x.com/KanaWorks_AI/status/2115984446604329400) | Opus 5.5 | [@KanaWorks_AI](https://x.com/KanaWorks_AI) | 1:21 | — |
 | [30-player climate policy classroom game](https://x.com/GabLattanzio/status/2113137522561741180) | Opus 5.5 | [@GabLattanzio](https://x.com/GabLattanzio) | 0:49 | — |
 | [Playable car factory strategy game](https://x.com/konstantinsaifo/status/2118454837935313228) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 0:30 | — |
+| [Sandbox MMO town prototype](https://x.com/PawelJLisowski/status/2122046713661702211) | Opus 5.5 | [@PawelJLisowski](https://x.com/PawelJLisowski) | 2:57 | — |
 | [Minecraft Content in Red Dead Redemption 2](https://x.com/Roxx_0x/status/2107698613379838294) | Opus 5.5 | [@Roxx_0x](https://x.com/Roxx_0x) | 1:11 | — |
 | [Steve in GTA V under a Wither Storm](https://x.com/bonnyxen/status/2109056524496892098) | Opus 5.5 | [@bonnyxen](https://x.com/bonnyxen) | 3:37 | — |
 | [Pixel-art tsukumogami cursed sword enemy](https://x.com/MindGate_dev/status/2119431394657288288) | Opus 5.5 | [@MindGate_dev](https://x.com/MindGate_dev) | 0:39 | — |

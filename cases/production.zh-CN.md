@@ -1,6 +1,6 @@
 # 制作流程
 
-共 192 个作品，其中 32 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 193 个作品，其中 32 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [AI执导的游戏引擎电影场景](https://x.com/sameerpallav/status/2103586713801257017) | Opus 5.5 | [@sameerpallav](https://x.com/sameerpallav) | 3:58 | — |
 | [动画转漫画制作流程](https://x.com/aicreataro/status/2105254490773623268) | Opus 5.5 | [@aicreataro](https://x.com/aicreataro) | 0:53 | — |
 | [用Opus和HeyGen剪辑的YouTube视频](https://x.com/MakeAI_CEO/status/2103086491157336249) | Opus 5.5 | [@MakeAI_CEO](https://x.com/MakeAI_CEO) | 1:03 | — |
+| [预演引导的动作视频](https://x.com/aichof21/status/2121863059664973915) | Opus 5.5 | [@aichof21](https://x.com/aichof21) | 0:10 | — |
 | [巴赫风格哥德堡变奏曲创作](https://x.com/dotkrueger/status/2103671847531516144) | Opus 5.5 | [@dotkrueger](https://x.com/dotkrueger) | 2:02 | — |
 | [虚构曲风的大合唱](https://x.com/balaena01/status/2119787191723511907) | Opus 5.5 | [@balaena01](https://x.com/balaena01) | 1:26 | — |
 | [五条悟时间网格剪辑](https://x.com/aimikoda/status/2115118260060656126) | Opus 5.5 | [@aimikoda](https://x.com/aimikoda) | 0:33 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2115118260060656126) |

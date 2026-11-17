@@ -1,6 +1,6 @@
 # 3D worlds & simulations
 
-487 works, 112 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+492 works, 112 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -283,6 +283,7 @@
 | [Image-to-3D Blender render](https://x.com/xikhar/status/2110143242591510835) | Opus 5.5 | [@xikhar](https://x.com/xikhar) | 0:05 | — |
 | [Procedural 3D Napoleon field cannon](https://x.com/thebuggeddev/status/2107449104926482912) | Opus 5.5 | [@thebuggeddev](https://x.com/thebuggeddev) | 0:51 | — |
 | [3D cafe with captured characters](https://x.com/onofumi_AI/status/2118254309595029634) | Opus 5.5 | [@onofumi_AI](https://x.com/onofumi_AI) | 0:16 | — |
+| [Animated cloaked hero](https://x.com/rewind02/status/2121933776884269192) | Opus 5.5 | [@rewind02](https://x.com/rewind02) | 0:04 | — |
 | [Claymation via open-source Blender skill](https://x.com/angrypenguinPNG/status/2103205636662341661) | Opus 5.5 | [@angrypenguinPNG](https://x.com/angrypenguinPNG) | 0:20 | — |
 | [Interactive firefly experience at a real location](https://x.com/RileyRalmuto/status/2103690926019191124) | Opus 5.5 | [@RileyRalmuto](https://x.com/RileyRalmuto) | 6:16 | — |
 | [Godot plugin that pops 2D tilemaps into 3D dioramas](https://x.com/KanaWorks_AI/status/2115011274023325950) | Opus 5.5 | [@KanaWorks_AI](https://x.com/KanaWorks_AI) | 2:24 | — |
@@ -294,6 +295,7 @@
 | [Relaxing generative visual made with Jig and Opus 5.5](https://x.com/numaausaumon/status/2109943963536998694) | Opus 5.5 | [@numaausaumon](https://x.com/numaausaumon) | 0:34 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2109943963536998694) |
 | [Personal site visual scenes](https://x.com/brian1zhou/status/2119966939535786306) | Opus 5.5 | [@brian1zhou](https://x.com/brian1zhou) | 0:38 | — |
 | [Adding a ring to a 3D character model via MCP](https://x.com/skyflash521/status/2111388497718423744) | Opus 5.5 | [@skyflash521](https://x.com/skyflash521) | 0:08 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2111388497718423744) |
+| [Blender 4D construction model from a 2D plan](https://x.com/dobokuya77/status/2121936943969898742) | Opus 5.5 | [@dobokuya77](https://x.com/dobokuya77) | 0:51 | — |
 | [Rigged and animated game-ready hero](https://x.com/sorenxet/status/2118685753299349699) | Opus 5.5 | [@sorenxet](https://x.com/sorenxet) | 0:04 | — |
 | [Walkable 3D museum tour](https://x.com/mohamedbakuly/status/2102746374450094323) | Opus 5.5 | [@mohamedbakuly](https://x.com/mohamedbakuly) | 1:59 | — |
 | [Spiritual-style generative art](https://x.com/sato_neet/status/2102652916335296913) | Opus 5.5 | [@sato_neet](https://x.com/sato_neet) | 1:04 | — |
@@ -332,6 +334,7 @@
 | [Mechanical folding robot bat](https://x.com/0xKitsui/status/2116525446560977059) | Opus 5.5 | [@0xKitsui](https://x.com/0xKitsui) | 0:24 | — |
 | [Pixel art Halloween scene with code-driven effects](https://x.com/zer0point_eth/status/2117593246515810630) | Opus 5.5 | [@zer0point_eth](https://x.com/zer0point_eth) | 0:14 | — |
 | [Robot jellyfish that splits apart in three clicks](https://x.com/0x_fokki/status/2115890589556236681) | Opus 5.5 | [@0x_fokki](https://x.com/0x_fokki) | 0:21 | — |
+| [Functional modeled excavator](https://x.com/aricccq/status/2121916952134463637) | Opus 5.5 | [@aricccq](https://x.com/aricccq) | 0:19 | — |
 | [Character modeled and rigged in Blender](https://x.com/majidmanzarpour/status/2102920224718873027) | Opus 5.5 | [@majidmanzarpour](https://x.com/majidmanzarpour) | 0:48 | — |
 | [Golden Pavilion CAD-to-3D animation](https://x.com/Ayu_AI_0912/status/2103243328041132100) | Opus 5.5 | [@Ayu_AI_0912](https://x.com/Ayu_AI_0912) | 0:24 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103243328041132100) |
 | [Single-line face drawing challenge by Haiku 5.5](https://x.com/Avenoxai/status/2108930079363637288) | Haiku 5.5 | [@Avenoxai](https://x.com/Avenoxai) | 0:21 | — |
@@ -363,6 +366,7 @@
 | [Three.js scene quality test](https://x.com/thoughtcrime___/status/2103598324687442284) | Opus 5.5 | [@thoughtcrime___](https://x.com/thoughtcrime___) | 0:40 | — |
 | [Pixel art animation with photo booth ending](https://x.com/ria_aicreator/status/2102543016389144975) | Opus 5.5 | [@ria_aicreator](https://x.com/ria_aicreator) | 0:23 | — |
 | [Jelly peach specimen sheet](https://x.com/vib3coded/status/2112240323560645092) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:18 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2112240323560645092) |
+| [Painted 3D browser world](https://x.com/rewind02/status/2121991760825995575) | Opus 5.5 | [@rewind02](https://x.com/rewind02) | 0:28 | — |
 | [Interactive isometric Rome](https://x.com/dom_gag_96/status/2121560021339451523) | Opus 5.5 | [@dom_gag_96](https://x.com/dom_gag_96) | 0:55 | — |
 | [Six-axis industrial robot arm with routed harness](https://x.com/konstantinsaifo/status/2107821059772661912) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 0:35 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2107821059772661912) |
 | [Shanghai penthouse scene for Vision Pro](https://x.com/ivanfioravanti/status/2103701018450288657) | Opus 5.5 | [@ivanfioravanti](https://x.com/ivanfioravanti) | 1:39 | — |
@@ -482,6 +486,7 @@
 | [Voxel pagoda](https://x.com/LuminaBench/status/2107965327040475264) | Haiku 5.5 | [@LuminaBench](https://x.com/LuminaBench) | 0:13 | — |
 | [House interior light baking result](https://x.com/scottstts/status/2112569441854669069) | Opus 5.5 | [@scottstts](https://x.com/scottstts) | 3:40 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2112569441854669069) |
 | [Particle water simulation with raymarching](https://x.com/hartspecs/status/2105715231884468384) | Opus 5.5 | [@hartspecs](https://x.com/hartspecs) | 0:21 | — |
+| [Rigged and animated 3D character](https://x.com/hiyouwhatsapp/status/2122077126711181465) | Opus 5.5 | [@hiyouwhatsapp](https://x.com/hiyouwhatsapp) | 0:08 | — |
 | [Procedurally generated concept car in code](https://x.com/techartist_/status/2104715277120180702) | Sonnet 5.5 | [@techartist_](https://x.com/techartist_) | 0:18 | — |
 | [Jelly octopus soft-body toy](https://x.com/vib3coded/status/2121757715881963715) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:18 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2121757715881963715) |
 | [Pelican riding bicycle SVG animation](https://x.com/Ananth7e/status/2111749047598117102) | Opus 5.5 | [@Ananth7e](https://x.com/Ananth7e) | 0:19 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2111749047598117102) |

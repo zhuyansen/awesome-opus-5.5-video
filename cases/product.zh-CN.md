@@ -1,6 +1,6 @@
 # 产品广告
 
-共 275 个作品，其中 50 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 278 个作品，其中 51 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -11,6 +11,7 @@
 | [东京末班车地图互动网站](https://x.com/MatoToushi/status/2103643548163928183) | Opus 5.5 | [@MatoToushi](https://x.com/MatoToushi) | 1:02 | — |
 | [苹果HomeView模拟广告](https://x.com/kevin_t_ngo/status/2110722582689546297) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 1:22 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2110722582689546297) |
 | [可交互动态演示幻灯片](https://x.com/uchita_success/status/2103786580838420912) | Opus 5.5 | [@uchita_success](https://x.com/uchita_success) | 0:31 | — |
+| [环形XY绘图仪介绍](https://x.com/kohya_tech/status/2121781040360608076) | Opus 5.5 | [@kohya_tech](https://x.com/kohya_tech) | 1:50 | — |
 | [管理编程 Agent 的虚拟办公室](https://x.com/webdevcody/status/2103653857377292720) | Opus 5.5 | [@webdevcody](https://x.com/webdevcody) | 0:41 | — |
 | [歌词动态视频生成器JIZURA](https://x.com/8co28/status/2102572322016370781) | Opus 5.5 | [@8co28](https://x.com/8co28) | 1:46 | — |
 | [Bend 2编程语言介绍视频](https://x.com/VictorTaelin/status/2104568082169749982) | Opus 5.5 | [@VictorTaelin](https://x.com/VictorTaelin) | 1:30 | — |
@@ -90,6 +91,7 @@
 | [深色模式销售仪表盘实现](https://x.com/salungprastyo/status/2103015120104525942) | Opus 5.5 | [@salungprastyo](https://x.com/salungprastyo) | 0:33 | — |
 | [单条提示生成的设计成果](https://x.com/PancaSeptiana/status/2103395361058664888) | Opus 5.5 | [@PancaSeptiana](https://x.com/PancaSeptiana) | 0:06 | — |
 | [Storycast旁白解说视频生成器上线](https://x.com/ailker/status/2103235288306774127) | Opus 5.5 | [@ailker](https://x.com/ailker) | 0:10 | — |
+| [机器视觉风格产品检测短片](https://x.com/AmirMushich/status/2121982602122760352) | Opus 5.5 | [@AmirMushich](https://x.com/AmirMushich) | 0:10 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2121982602122760352) |
 | [参考视频复刻的宣传片](https://x.com/servasyy_ai/status/2103785302288687268) | Opus 5.5 | [@servasyy_ai](https://x.com/servasyy_ai) | 0:29 | — |
 | [UGC风格服装试穿短片](https://x.com/abxxai/status/2107847831168196890) | Sonnet 5.5 | [@abxxai](https://x.com/abxxai) | 0:30 | — |
 | [SaaS产品预告片](https://x.com/javiiarchive/status/2103501151438323850) | Opus 5.5 | [@javiiarchive](https://x.com/javiiarchive) | 0:15 | — |
@@ -248,6 +250,7 @@
 | [交互式前端作品](https://x.com/LexnLin/status/2106843514772639995) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 0:42 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2106843514772639995) |
 | [Flowith Canvas AI创作作品](https://x.com/DerekNee/status/2103729728549220815) | Opus 5.5 | [@DerekNee](https://x.com/DerekNee) | 0:45 | — |
 | [Claude 产品介绍视频](https://x.com/devteamdrew/status/2106155815707021549) | Fable 5.5 (preview) | [@devteamdrew](https://x.com/devteamdrew) | 0:30 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2106155815707021549) |
+| [浓缩咖啡机建模与演示](https://x.com/MrTacticalX/status/2121879124268437739) | Opus 5.5 | [@MrTacticalX](https://x.com/MrTacticalX) | 0:53 | — |
 | [MyGo中的努力程度滑块界面功能](https://x.com/localhost_5173/status/2108236225291407435) | Opus 5.5 | [@localhost_5173](https://x.com/localhost_5173) | 0:07 | — |
 | [Claude模组工具演示视频](https://x.com/oikon48/status/2103756961938633159) | Opus 5.5 | [@oikon48](https://x.com/oikon48) | 0:25 | — |
 | [AI剧情风格广告片](https://x.com/unikoukokun/status/2102991418860184057) | Opus 5.5 | [@unikoukokun](https://x.com/unikoukokun) | 2:34 | — |

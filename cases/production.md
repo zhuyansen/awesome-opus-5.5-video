@@ -1,6 +1,6 @@
 # Music, editing & production
 
-192 works, 32 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+193 works, 32 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [AI-directed cinematic in a game engine](https://x.com/sameerpallav/status/2103586713801257017) | Opus 5.5 | [@sameerpallav](https://x.com/sameerpallav) | 3:58 | — |
 | [Anime-to-manga conversion pipeline](https://x.com/aicreataro/status/2105254490773623268) | Opus 5.5 | [@aicreataro](https://x.com/aicreataro) | 0:53 | — |
 | [YouTube video edited with Opus and HeyGen](https://x.com/MakeAI_CEO/status/2103086491157336249) | Opus 5.5 | [@MakeAI_CEO](https://x.com/MakeAI_CEO) | 1:03 | — |
+| [Previs-guided action video](https://x.com/aichof21/status/2121863059664973915) | Opus 5.5 | [@aichof21](https://x.com/aichof21) | 0:10 | — |
 | [Bach-style Goldberg Variation composition](https://x.com/dotkrueger/status/2103671847531516144) | Opus 5.5 | [@dotkrueger](https://x.com/dotkrueger) | 2:02 | — |
 | [Invented-genre mass choir](https://x.com/balaena01/status/2119787191723511907) | Opus 5.5 | [@balaena01](https://x.com/balaena01) | 1:26 | — |
 | [Satoru Gojo temporal grid video edit](https://x.com/aimikoda/status/2115118260060656126) | Opus 5.5 | [@aimikoda](https://x.com/aimikoda) | 0:33 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2115118260060656126) |
