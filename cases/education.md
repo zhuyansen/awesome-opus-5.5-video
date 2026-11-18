@@ -1,6 +1,6 @@
 # Explainers & education
 
-235 works, 58 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+236 works, 58 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -221,6 +221,7 @@
 | [How water becomes urine](https://x.com/AdamPrabata/status/2121451941624713588) | Opus 5.5 | [@AdamPrabata](https://x.com/AdamPrabata) | 0:30 | — |
 | [Interactive wind tunnel lift explainer](https://x.com/konstantinsaifo/status/2109595253879816337) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 0:34 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2109595253879816337) |
 | [Econometrics explainer with simulations](https://x.com/mehmetsongur_/status/2108896132395061356) | Opus 5.5 | [@mehmetsongur_](https://x.com/mehmetsongur_) | 12:00 | — |
+| [WebXR camera focus lens lab](https://x.com/RyanSael/status/2122324810223304734) | Opus 5.5 | [@RyanSael](https://x.com/RyanSael) | 0:35 | — |
 | [Battle of Midway 3D explainer film](https://x.com/wshuyi/status/2103644455916175505) | Opus 5.5 | [@wshuyi](https://x.com/wshuyi) | 8:29 | — |
 | [Interactive home emergency lesson](https://x.com/techartist_/status/2118138729064022046) | Opus 5.5 | [@techartist_](https://x.com/techartist_) | 0:27 | — |
 | [Warehouse parcel sorting decision simulation](https://x.com/konstantinsaifo/status/2108914585340428549) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 0:40 | — |

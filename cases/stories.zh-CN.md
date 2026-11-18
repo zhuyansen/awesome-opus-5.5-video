@@ -1,6 +1,6 @@
 # 角色故事
 
-共 254 个作品，其中 60 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 255 个作品，其中 60 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -208,6 +208,7 @@
 | [中秋艺术短片与音乐改编](https://x.com/op7418/status/2103520946841862312) | Opus 5.5 | [@op7418](https://x.com/op7418) | 0:27 | — |
 | [回形针与便利贴短片](https://x.com/kevin_t_ngo/status/2112584730856366140) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 1:00 | — |
 | [来自未来AI的穿越时空讯息视频](https://x.com/VoidStateKate/status/2103308194852303245) | Opus 5.5 | [@VoidStateKate](https://x.com/VoidStateKate) | 0:39 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103308194852303245) |
+| [未来从侧面抵达](https://x.com/kallistosiii/status/2122494506566390205) | Opus 5.5 | [@kallistosiii](https://x.com/kallistosiii) | 3:56 | — |
 | [末班归途：日本雨夜街景](https://x.com/pankajkumar_dev/status/2112176644018626840) | Fable 5.5 (preview) | [@pankajkumar_dev](https://x.com/pankajkumar_dev) | 0:56 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2112176644018626840) |
 | [全由AI制作的音乐动画作品](https://x.com/anthrupad/status/2110950344272527596) | Opus 5.5 | [@anthrupad](https://x.com/anthrupad) | 0:52 | — |
 | [小角色被困高处向人类求救的短片](https://x.com/marichaadaisuki/status/2114683465635655963) | Opus 5.5 | [@marichaadaisuki](https://x.com/marichaadaisuki) | 0:33 | — |

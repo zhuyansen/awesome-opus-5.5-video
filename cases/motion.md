@@ -1,6 +1,6 @@
 # Motion graphics & UI
 
-363 works, 94 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+364 works, 94 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [15-second motion designer showreel by @jasonzhou1993](https://x.com/jasonzhou1993/status/2103663364958515541) | Opus 5.5 | [@jasonzhou1993](https://x.com/jasonzhou1993) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103663364958515541) |
 | [Motion design piece with custom 3D models](https://x.com/MengTo/status/2103825139964227999) | Opus 5.5 | [@MengTo](https://x.com/MengTo) | 0:41 | — |
 | [Ideas turned into motion graphics](https://x.com/0xnicc0/status/2117231169301369311) | Opus 5.5 | [@0xnicc0](https://x.com/0xnicc0) | 0:14 | — |
+| [Lesmana template preloader animation](https://x.com/RalconStudio/status/2122302314476343667) | Opus 5.5 | [@RalconStudio](https://x.com/RalconStudio) | 0:09 | — |
 | [Pure code animation from a single prompt](https://x.com/PawelJLisowski/status/2117254471566622824) | Opus 5.5 / Fable 5.5 (preview) | [@PawelJLisowski](https://x.com/PawelJLisowski) | 1:17 | — |
 | [10-second motion showreel remake](https://x.com/mattiapomelli/status/2103757371357229129) | Opus 5.5 | [@mattiapomelli](https://x.com/mattiapomelli) | 0:10 | — |
 | [Motion design animation recreation](https://x.com/kaif9998/status/2109923678607876522) | Opus 5.5 | [@kaif9998](https://x.com/kaif9998) | 0:29 | — |

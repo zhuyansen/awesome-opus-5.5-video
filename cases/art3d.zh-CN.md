@@ -1,6 +1,6 @@
 # 3D 场景
 
-共 492 个作品，其中 112 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 496 个作品，其中 112 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -328,6 +328,7 @@
 | [两层别墅机电管线设计三维演示](https://x.com/Solvaix/status/2112614086932611107) | Opus 5.5 | [@Solvaix](https://x.com/Solvaix) | 1:11 | — |
 | [Roblox 场景地图](https://x.com/kentasakurajima/status/2112665300608929807) | Opus 5.5 | [@kentasakurajima](https://x.com/kentasakurajima) | 0:22 | — |
 | [单文件HTML粒子物理引擎](https://x.com/cyrilXBT/status/2103532793406149036) | Opus 5.5 | [@cyrilXBT](https://x.com/cyrilXBT) | 0:44 | — |
+| [浏览器中的绘画风三维世界](https://x.com/rewind02/status/2122298720955830563) | Opus 5.5 | [@rewind02](https://x.com/rewind02) | 1:54 | — |
 | [微缩港口Three.js场景](https://x.com/chetanankola/status/2103649622963237261) | Opus 5.5 | [@chetanankola](https://x.com/chetanankola) | 0:25 | — |
 | [用Opus 5.5为自建服务制作的3D世界](https://x.com/Dstudio_ai/status/2105858848380907985) | Opus 5.5 | [@Dstudio_ai](https://x.com/Dstudio_ai) | 0:24 | — |
 | [用 Blender 建模的电影片场公寓](https://x.com/rewind02/status/2118404190041235738) | Opus 5.5 | [@rewind02](https://x.com/rewind02) | 0:18 | — |
@@ -379,6 +380,7 @@
 | [可拆解的机器蜂鸟](https://x.com/0x_fokki/status/2119449808645607874) | Opus 5.5 | [@0x_fokki](https://x.com/0x_fokki) | 0:24 | — |
 | [舞者世界线时间雕塑互动作品](https://x.com/techartist_/status/2114819625242529992) | Opus 5.5 | [@techartist_](https://x.com/techartist_) | 0:30 | — |
 | [3D珠宝品牌展示](https://x.com/HamidoFx1/status/2109603285938094545) | Opus 5.5 | [@HamidoFx1](https://x.com/HamidoFx1) | 0:10 | — |
+| [互动式奥尼尔圆柱世界](https://x.com/NathanWilbanks_/status/2122359334290313441) | Opus 5.5 | [@NathanWilbanks_](https://x.com/NathanWilbanks_) | 1:17 | — |
 | [代码生成绘画笔刷引擎测试](https://x.com/RLanceMartin/status/2104637229465538850) | Sonnet 5.5 | [@RLanceMartin](https://x.com/RLanceMartin) | 0:25 | — |
 | [Blender 三维渲染场景](https://x.com/orpheuskaze/status/2119453145478881479) | Opus 5.5 | [@orpheuskaze](https://x.com/orpheuskaze) | 0:25 | — |
 | [用JS绘制自画像并配钢琴曲](https://x.com/kevin_t_ngo/status/2107462206610935857) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 0:20 | — |
@@ -445,6 +447,7 @@
 | [耗时30小时搭建的3D高速服务区场景](https://x.com/Kashiko_AIart/status/2112030342240694323) | Opus 5.5 | [@Kashiko_AIart](https://x.com/Kashiko_AIart) | 0:36 | — |
 | [海洋场景中加入的巨兽](https://x.com/KanaWorks_AI/status/2110349862487375873) | Opus 5.5 | [@KanaWorks_AI](https://x.com/KanaWorks_AI) | 0:25 | — |
 | [陨落泰坦三维场景](https://x.com/scottstts/status/2115933104812724307) | Opus 5.5 | [@scottstts](https://x.com/scottstts) | 1:13 | — |
+| [批量生成的3D服装角色](https://x.com/andreintg/status/2122348362611486768) | Opus 5.5 | [@andreintg](https://x.com/andreintg) | 0:13 | — |
 | [点云生成地形模型](https://x.com/dobokuya77/status/2109456453262266641) | Opus 5.5 | [@dobokuya77](https://x.com/dobokuya77) | 0:31 | — |
 | [程序化机械巨型乌贼拆解展示](https://x.com/vib3coded/status/2119392067646345249) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:17 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2119392067646345249) |
 | [战舰周围旋转刀刃3D模型](https://x.com/ShadeLurk/status/2102462310224900476) | Opus 5.5 | [@ShadeLurk](https://x.com/ShadeLurk) | 0:06 | — |
@@ -478,6 +481,7 @@
 | [交互式果冻软体旗鱼](https://x.com/vib3coded/status/2115752978946687084) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:17 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2115752978946687084) |
 | [卡通渲染海洋中的鲸鱼跃出模拟](https://x.com/camperaigg/status/2118069524306284556) | Fable 5.5 (preview) | [@camperaigg](https://x.com/camperaigg) | 0:31 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2118069524306284556) |
 | [汇集果冻鱼群的泳池场景](https://x.com/vib3coded/status/2115912302272618696) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:16 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2115912302272618696) |
+| [Blender与Three.js三维场景](https://x.com/aakkshhayy/status/2122180195000164838) | Opus 5.5 | [@aakkshhayy](https://x.com/aakkshhayy) | 0:23 | — |
 | [训练Opus绘制像素画技能](https://x.com/BeamManP/status/2103555482095149320) | Opus 5.5 | [@BeamManP](https://x.com/BeamManP) | 0:45 | — |
 | [雨中日式庭院鹿威模拟](https://x.com/mizugame_22/status/2103822799580307674) | Opus 5.5 | [@mizugame_22](https://x.com/mizugame_22) | 0:15 | — |
 | [Blender制作的JRPG风格体素场景](https://x.com/gunsturn_tw/status/2103089094666686850) | Opus 5.5 | [@gunsturn_tw](https://x.com/gunsturn_tw) | 1:00 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103089094666686850) |

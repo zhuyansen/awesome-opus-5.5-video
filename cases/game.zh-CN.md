@@ -1,6 +1,6 @@
 # 游戏
 
-共 480 个作品，其中 63 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 482 个作品，其中 63 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -386,6 +386,7 @@
 | [Godot制作的佛经意境场景](https://x.com/KanaWorks_AI/status/2107826840035635328) | Opus 5.5 | [@KanaWorks_AI](https://x.com/KanaWorks_AI) | 1:04 | — |
 | [像素风浮岛游乐园](https://x.com/vib3coded/status/2118765227584246106) | Sonnet 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:17 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2118765227584246106) |
 | [互动蚂蚁巢穴模拟器](https://x.com/kevin_t_ngo/status/2112215957276070188) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 0:50 | — |
+| [虚幻引擎游戏原型](https://x.com/KieranWarwick/status/2122527161961889959) | Opus 5.5 | [@KieranWarwick](https://x.com/KieranWarwick) | 0:38 | — |
 | [高细节 Minecraft 单次生成游戏](https://x.com/notjazii/status/2116919129974411584) | Fable 5.5 (preview) | [@notjazii](https://x.com/notjazii) | 1:32 | — |
 | [用3D重建的《泰拉瑞亚》](https://x.com/ai_growth_avii/status/2107673916550627508) | Opus 5.5 | [@ai_growth_avii](https://x.com/ai_growth_avii) | 1:05 | — |
 | [骑马游戏原型](https://x.com/prasenx/status/2120565971270459430) | Opus 5.5 | [@prasenx](https://x.com/prasenx) | 2:11 | — |
@@ -479,6 +480,7 @@
 | [仿机甲系列格斗游戏](https://x.com/elefolo2/status/2103310890716266620) | Opus 5.5 | [@elefolo2](https://x.com/elefolo2) | 0:34 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103310890716266620) |
 | [24小时制作的原创Three.js游戏](https://x.com/Heavy935/status/2118735703119159514) | Opus 5.5 | [@Heavy935](https://x.com/Heavy935) | 0:27 | — |
 | [90年代风格FMV恐怖冒险游戏原型](https://x.com/pleometric/status/2108205076904894664) | Opus 5.5 | [@pleometric](https://x.com/pleometric) | 1:20 | — |
+| [浏览器喷气滑艇小游戏](https://x.com/maxt3chno/status/2122305000479052022) | Opus 5.5 | [@maxt3chno](https://x.com/maxt3chno) | 1:22 | — |
 | [改进后的游戏原型](https://x.com/ForkedPush/status/2113682278261944511) | Opus 5.5 | [@ForkedPush](https://x.com/ForkedPush) | 2:06 | — |
 | [可互动游玩的主题公园策略游戏](https://x.com/anxuanng/status/2111528513690026292) | Opus 5.5 | [@anxuanng](https://x.com/anxuanng) | 0:30 | — |
 | [非洲城市赛车游戏](https://x.com/webasamoah/status/2118335271133475027) | Opus 5.5 | [@webasamoah](https://x.com/webasamoah) | 1:55 | — |

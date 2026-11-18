@@ -1,6 +1,6 @@
 # 动效设计
 
-共 363 个作品，其中 94 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 364 个作品，其中 94 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [15 秒动效设计师自荐片 · @jasonzhou1993 版](https://x.com/jasonzhou1993/status/2103663364958515541) | Opus 5.5 | [@jasonzhou1993](https://x.com/jasonzhou1993) | 0:15 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103663364958515541) |
 | [含自制3D模型的动态设计作品](https://x.com/MengTo/status/2103825139964227999) | Opus 5.5 | [@MengTo](https://x.com/MengTo) | 0:41 | — |
 | [把想法变成动效](https://x.com/0xnicc0/status/2117231169301369311) | Opus 5.5 | [@0xnicc0](https://x.com/0xnicc0) | 0:14 | — |
+| [Lesmana模板预加载动画](https://x.com/RalconStudio/status/2122302314476343667) | Opus 5.5 | [@RalconStudio](https://x.com/RalconStudio) | 0:09 | — |
 | [单条提示词生成的纯代码动画](https://x.com/PawelJLisowski/status/2117254471566622824) | Opus 5.5 / Fable 5.5 (preview) | [@PawelJLisowski](https://x.com/PawelJLisowski) | 1:17 | — |
 | [10秒版动感设计展示视频](https://x.com/mattiapomelli/status/2103757371357229129) | Opus 5.5 | [@mattiapomelli](https://x.com/mattiapomelli) | 0:10 | — |
 | [动态设计动画复刻](https://x.com/kaif9998/status/2109923678607876522) | Opus 5.5 | [@kaif9998](https://x.com/kaif9998) | 0:29 | — |

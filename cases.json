@@ -3,8 +3,8 @@
  "model": "Claude 5.5 (Opus 5.5 · Sonnet 5.5 · Haiku 5.5 · Fable 5.5)",
  "inclusion_rule": "Original post by the creator, native video attached, >= 5000 views on that post, creator states it was made with Claude Opus 5.5, Sonnet 5.5, Haiku 5.5 or Fable 5.5 (Fable 5.5 is in limited preview, not yet announced). Later posts that embed another account's upload are excluded.",
  "views_threshold": 5000,
- "stats_checked_at": "2026-11-17T01:17:13.595Z",
- "updated_at": "2026-11-17T01:17:13.595Z",
+ "stats_checked_at": "2026-11-18T08:44:59.676Z",
+ "updated_at": "2026-11-18T08:44:59.676Z",
  "model_attribution": "As stated by each creator; not independently reproduced.",
  "cases": [
   {
@@ -6830,6 +6830,36 @@
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2113749996042391552/img/QCq-HsDtGgg5j-QR.jpg",
    "tools_reported": [
     "Kimi K3.1"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2122338680945975589",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "人工智能实验室样本选择测试",
+    "en": "AI lab sample selection test"
+   },
+   "creator": {
+    "handle": "embodianalysis",
+    "name": "Embodied Analysis"
+   },
+   "original_post_url": "https://x.com/embodianalysis/status/2122338680945975589",
+   "posted_at": "2026-11-16T14:39:07.000Z",
+   "language": "en",
+   "duration_seconds": 26,
+   "views": 247885,
+   "likes": 178,
+   "bookmarks": 12,
+   "views_checked_at": "2026-11-18T08:32:08.586Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2122338653758525440/img/Rtsp5dMUaamnLjAu.jpg",
+   "tools_reported": [
+    "GPT-6 Astra"
    ],
    "reference_assets": false,
    "prompt": null,
@@ -39002,6 +39032,36 @@
    "resources": []
   },
   {
+   "id": "2122194551938891902",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "体素风格的玩具总动员场景",
+    "en": "Toy Story scene in 3D voxels"
+   },
+   "creator": {
+    "handle": "aimlapi",
+    "name": "AI/ML API"
+   },
+   "original_post_url": "https://x.com/aimlapi/status/2122194551938891902",
+   "posted_at": "2026-11-16T05:06:24.000Z",
+   "language": "en",
+   "duration_seconds": 32,
+   "views": 38058,
+   "likes": 194,
+   "bookmarks": 50,
+   "views_checked_at": "2026-11-18T08:32:08.586Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2122194409030635520/img/hRD6s0i4bnxrRTWT.jpg",
+   "tools_reported": [
+    "Qwen 4 Max"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2114001528562602485",
    "models": [
     "opus-5.5"
@@ -40244,6 +40304,36 @@
    "resources": []
   },
   {
+   "id": "2122415600802627683",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "医疗产品动画广告对比",
+    "en": "Animated medical product ad comparison"
+   },
+   "creator": {
+    "handle": "maxxmalist",
+    "name": "MAX"
+   },
+   "original_post_url": "https://x.com/maxxmalist/status/2122415600802627683",
+   "posted_at": "2026-11-16T19:44:46.000Z",
+   "language": "en",
+   "duration_seconds": 59,
+   "views": 36394,
+   "likes": 560,
+   "bookmarks": 774,
+   "views_checked_at": "2026-11-18T08:32:08.586Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2122412495390322689/img/Py-z-U2z9BCsOXR4.jpg",
+   "tools_reported": [
+    "Fable 5.2"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2112359668379234684",
    "models": [
     "opus-5.5"
@@ -40477,6 +40567,43 @@
    ],
    "reference_assets": true,
    "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2122384446397768047",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "抹香鲸果冻软体物理研究",
+    "en": "Sperm whale jelly soft-body study"
+   },
+   "creator": {
+    "handle": "vib3coded",
+    "name": "Vib3Coded"
+   },
+   "original_post_url": "https://x.com/vib3coded/status/2122384446397768047",
+   "posted_at": "2026-11-16T17:40:58.000Z",
+   "language": "en",
+   "duration_seconds": 17,
+   "views": 36035,
+   "likes": 356,
+   "bookmarks": 122,
+   "views_checked_at": "2026-11-18T08:32:08.586Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2122384302881009665/img/cB8nrIjEXDpYKre8.jpg",
+   "tools_reported": [
+    "Three.js",
+    "Fable 5.2"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "full",
+    "source": "author_reply",
+    "source_url": "https://x.com/vib3coded/status/2122384502097846361",
+    "length": 3135,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2122384446397768047"
+   },
    "resources": []
   },
   {
@@ -54210,6 +54337,40 @@
    "resources": []
   },
   {
+   "id": "2122387800762810870",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "狼形象生成模型对比",
+    "en": "Wolf generation model comparison"
+   },
+   "creator": {
+    "handle": "0xRhinoX",
+    "name": "Rhino"
+   },
+   "original_post_url": "https://x.com/0xRhinoX/status/2122387800762810870",
+   "posted_at": "2026-11-16T17:54:18.000Z",
+   "language": "en",
+   "duration_seconds": 15,
+   "views": 22072,
+   "likes": 122,
+   "bookmarks": 36,
+   "views_checked_at": "2026-11-18T08:32:08.586Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2122354336214749184/img/PReEvOGk1CiUdxYZ.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "brief",
+    "source": "post",
+    "source_url": "https://x.com/0xRhinoX/status/2122387800762810870",
+    "length": 54,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2122387800762810870"
+   },
+   "resources": []
+  },
+  {
    "id": "2105793038048182737",
    "models": [
     "opus-5.5"
@@ -55383,6 +55544,34 @@
     "Blender"
    ],
    "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2122302314476343667",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "motion",
+   "title": {
+    "zh": "Lesmana模板预加载动画",
+    "en": "Lesmana template preloader animation"
+   },
+   "creator": {
+    "handle": "RalconStudio",
+    "name": "Widya Bayu W"
+   },
+   "original_post_url": "https://x.com/RalconStudio/status/2122302314476343667",
+   "posted_at": "2026-11-16T12:14:36.000Z",
+   "language": "en",
+   "duration_seconds": 9,
+   "views": 21149,
+   "likes": 432,
+   "bookmarks": 357,
+   "views_checked_at": "2026-11-18T08:32:08.586Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2122301928550129664/img/MobtopvsveHlTnX8.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
    "prompt": null,
    "resources": []
   },
@@ -59448,6 +59637,36 @@
     "length": 484,
     "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2112393665209303177"
    },
+   "resources": []
+  },
+  {
+   "id": "2122298720955830563",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "浏览器中的绘画风三维世界",
+    "en": "Painted 3D world in the browser"
+   },
+   "creator": {
+    "handle": "rewind02",
+    "name": "rewind"
+   },
+   "original_post_url": "https://x.com/rewind02/status/2122298720955830563",
+   "posted_at": "2026-11-16T12:00:20.000Z",
+   "language": "en",
+   "duration_seconds": 114,
+   "views": 18770,
+   "likes": 270,
+   "bookmarks": 230,
+   "views_checked_at": "2026-11-18T08:32:08.586Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2122298565661708288/img/KWPH0IHFQuaUsNyo.jpg",
+   "tools_reported": [
+    "Three.js"
+   ],
+   "reference_assets": false,
+   "prompt": null,
    "resources": []
   },
   {
@@ -68163,6 +68382,37 @@
    "resources": []
   },
   {
+   "id": "2122494506566390205",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "stories",
+   "title": {
+    "zh": "未来从侧面抵达",
+    "en": "The Future Arrives Sideways"
+   },
+   "creator": {
+    "handle": "kallistosiii",
+    "name": "Kallistos III"
+   },
+   "original_post_url": "https://x.com/kallistosiii/status/2122494506566390205",
+   "posted_at": "2026-11-17T00:58:19.000Z",
+   "language": "en",
+   "duration_seconds": 236,
+   "views": 13978,
+   "likes": 426,
+   "bookmarks": 240,
+   "views_checked_at": "2026-11-18T08:32:08.586Z",
+   "thumbnail_url": "https://pbs.twimg.com/media/HXSdXm2akAAactH.jpg",
+   "tools_reported": [
+    "Suno",
+    "Grok Imagine"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2110807768550764628",
    "models": [
     "opus-5.5"
@@ -68981,6 +69231,37 @@
    "tools_reported": [
     "Unreal Engine",
     "Devin"
+   ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2122359334290313441",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "互动式奥尼尔圆柱世界",
+    "en": "Interactive O'Neill cylinder world"
+   },
+   "creator": {
+    "handle": "NathanWilbanks_",
+    "name": "Nathan Wilbanks"
+   },
+   "original_post_url": "https://x.com/NathanWilbanks_/status/2122359334290313441",
+   "posted_at": "2026-11-16T16:01:11.000Z",
+   "language": "en",
+   "duration_seconds": 77,
+   "views": 13630,
+   "likes": 353,
+   "bookmarks": 270,
+   "views_checked_at": "2026-11-18T08:32:08.586Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2122353156512215040/img/GDARhWf041RsLDEU.jpg",
+   "tools_reported": [
+    "agnt.gg",
+    "Fable 5.2"
    ],
    "reference_assets": true,
    "prompt": null,
@@ -72478,6 +72759,36 @@
    "resources": []
   },
   {
+   "id": "2122527161961889959",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "game",
+   "title": {
+    "zh": "虚幻引擎游戏原型",
+    "en": "Unreal Engine game prototype"
+   },
+   "creator": {
+    "handle": "KieranWarwick",
+    "name": "Kieran.eth"
+   },
+   "original_post_url": "https://x.com/KieranWarwick/status/2122527161961889959",
+   "posted_at": "2026-11-17T03:08:04.000Z",
+   "language": "en",
+   "duration_seconds": 38,
+   "views": 12266,
+   "likes": 210,
+   "bookmarks": 28,
+   "views_checked_at": "2026-11-18T08:44:59.676Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2122526942662696960/img/PpqptkJKwqXBsOqT.jpg",
+   "tools_reported": [
+    "Unreal Engine 5"
+   ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2103093628230873415",
    "models": [
     "opus-5.5"
@@ -73743,6 +74054,34 @@
     "Vidfield.ai"
    ],
    "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2122281778140557707",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "production",
+   "title": {
+    "zh": "GTA 6主题视频剪辑",
+    "en": "GTA 6 themed video edit"
+   },
+   "creator": {
+    "handle": "facetagramai",
+    "name": "Jake"
+   },
+   "original_post_url": "https://x.com/facetagramai/status/2122281778140557707",
+   "posted_at": "2026-11-16T10:53:00.000Z",
+   "language": "en",
+   "duration_seconds": 61,
+   "views": 11861,
+   "likes": 167,
+   "bookmarks": 181,
+   "views_checked_at": "2026-11-18T08:32:08.586Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2122280879133495296/img/3iqIeTj3cAsW2u41.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
    "prompt": null,
    "resources": []
   },
@@ -81054,6 +81393,34 @@
    "resources": []
   },
   {
+   "id": "2122329088509739132",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "product",
+   "title": {
+    "zh": "表单与列表界面组件合集",
+    "en": "Form and list UI component collection"
+   },
+   "creator": {
+    "handle": "csaba_kissi",
+    "name": "Csaba Kissi"
+   },
+   "original_post_url": "https://x.com/csaba_kissi/status/2122329088509739132",
+   "posted_at": "2026-11-16T14:01:00.000Z",
+   "language": "en",
+   "duration_seconds": 25,
+   "views": 9045,
+   "likes": 197,
+   "bookmarks": 147,
+   "views_checked_at": "2026-11-18T08:32:08.586Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2122253535379156992/img/tRAYZP5myBKxbM0f.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2111428909203866089",
    "models": [
     "opus-5.5"
@@ -81243,6 +81610,38 @@
     "Three.js"
    ],
    "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2122348362611486768",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "批量生成的3D服装角色",
+    "en": "Mass-produced 3D clothed characters"
+   },
+   "creator": {
+    "handle": "andreintg",
+    "name": "Andrea Intg."
+   },
+   "original_post_url": "https://x.com/andreintg/status/2122348362611486768",
+   "posted_at": "2026-11-16T15:17:35.000Z",
+   "language": "en",
+   "duration_seconds": 13,
+   "views": 8962,
+   "likes": 161,
+   "bookmarks": 197,
+   "views_checked_at": "2026-11-18T08:32:08.586Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2122340641422094337/img/LDb3_A8SHG7CKrAn.jpg",
+   "tools_reported": [
+    "Three.js",
+    "Nano Banana",
+    "Unbound Zero"
+   ],
+   "reference_assets": false,
    "prompt": null,
    "resources": []
   },
@@ -82366,6 +82765,38 @@
    "resources": []
   },
   {
+   "id": "2122324810223304734",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "education",
+   "title": {
+    "zh": "WebXR相机对焦镜头实验室",
+    "en": "WebXR camera focus lens lab"
+   },
+   "creator": {
+    "handle": "RyanSael",
+    "name": "Ryan Sael"
+   },
+   "original_post_url": "https://x.com/RyanSael/status/2122324810223304734",
+   "posted_at": "2026-11-16T13:44:00.000Z",
+   "language": "en",
+   "duration_seconds": 35,
+   "views": 8504,
+   "likes": 204,
+   "bookmarks": 130,
+   "views_checked_at": "2026-11-18T08:32:08.586Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121992819405733888/img/_OoFDK_z1U-2RHLP.jpg",
+   "tools_reported": [
+    "Fable 5.2",
+    "three.js",
+    "WebXR"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2102620856740720761",
    "models": [
     "opus-5.5"
@@ -83290,6 +83721,36 @@
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2104682326806376448/img/j3EKBtCzM_Gq4_kw.jpg",
    "tools_reported": [
     "GPT-6 Sol"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2122163779471569261",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "product",
+   "title": {
+    "zh": "咖啡订阅服务广告",
+    "en": "Coffee subscription advertisement"
+   },
+   "creator": {
+    "handle": "Toarukanshiin",
+    "name": "とある / ago"
+   },
+   "original_post_url": "https://x.com/Toarukanshiin/status/2122163779471569261",
+   "posted_at": "2026-11-16T03:04:07.000Z",
+   "language": "ja",
+   "duration_seconds": 15,
+   "views": 8127,
+   "likes": 291,
+   "bookmarks": 181,
+   "views_checked_at": "2026-11-18T08:32:08.586Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2122163472419151872/img/5PHPgEaQIvLA-3Sq.jpg",
+   "tools_reported": [
+    "Blender"
    ],
    "reference_assets": false,
    "prompt": null,
@@ -86718,6 +87179,38 @@
    "resources": []
   },
   {
+   "id": "2122180195000164838",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "Blender与Three.js三维场景",
+    "en": "Blender and Three.js 3D scene"
+   },
+   "creator": {
+    "handle": "aakkshhayy",
+    "name": "Akshay"
+   },
+   "original_post_url": "https://x.com/aakkshhayy/status/2122180195000164838",
+   "posted_at": "2026-11-16T04:09:21.000Z",
+   "language": "en",
+   "duration_seconds": 23,
+   "views": 6702,
+   "likes": 278,
+   "bookmarks": 63,
+   "views_checked_at": "2026-11-18T08:32:08.586Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2122179973377314816/img/HlupGoA68Q3D_Q5X.jpg",
+   "tools_reported": [
+    "Astra",
+    "Blender",
+    "Three.js"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2108206814236184802",
    "models": [
     "opus-5.5"
@@ -87778,6 +88271,37 @@
     "Reason Network"
    ],
    "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2122305000479052022",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "game",
+   "title": {
+    "zh": "浏览器喷气滑艇小游戏",
+    "en": "Jet ski browser mini-game"
+   },
+   "creator": {
+    "handle": "maxt3chno",
+    "name": "Max"
+   },
+   "original_post_url": "https://x.com/maxt3chno/status/2122305000479052022",
+   "posted_at": "2026-11-16T12:25:17.000Z",
+   "language": "en",
+   "duration_seconds": 82,
+   "views": 6056,
+   "likes": 153,
+   "bookmarks": 58,
+   "views_checked_at": "2026-11-18T08:32:08.586Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2122304554133831680/img/HeHi5TGJUtYCHuyy.jpg",
+   "tools_reported": [
+    "Fable 5.2",
+    "Three.js"
+   ],
+   "reference_assets": false,
    "prompt": null,
    "resources": []
   },

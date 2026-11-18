@@ -1,6 +1,6 @@
 # 科普讲解
 
-共 235 个作品，其中 58 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 236 个作品，其中 58 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -221,6 +221,7 @@
 | [水变成尿液的过程](https://x.com/AdamPrabata/status/2121451941624713588) | Opus 5.5 | [@AdamPrabata](https://x.com/AdamPrabata) | 0:30 | — |
 | [升力原理互动风洞演示](https://x.com/konstantinsaifo/status/2109595253879816337) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 0:34 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2109595253879816337) |
 | [计量经济学模拟讲解视频](https://x.com/mehmetsongur_/status/2108896132395061356) | Opus 5.5 | [@mehmetsongur_](https://x.com/mehmetsongur_) | 12:00 | — |
+| [WebXR相机对焦镜头实验室](https://x.com/RyanSael/status/2122324810223304734) | Opus 5.5 | [@RyanSael](https://x.com/RyanSael) | 0:35 | — |
 | [《中途岛海战》3D讲解影片](https://x.com/wshuyi/status/2103644455916175505) | Opus 5.5 | [@wshuyi](https://x.com/wshuyi) | 8:29 | — |
 | [家庭应急处理互动课](https://x.com/techartist_/status/2118138729064022046) | Opus 5.5 | [@techartist_](https://x.com/techartist_) | 0:27 | — |
 | [仓库包裹分拣决策模拟](https://x.com/konstantinsaifo/status/2108914585340428549) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 0:40 | — |

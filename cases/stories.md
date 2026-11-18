@@ -1,6 +1,6 @@
 # Characters & stories
 
-254 works, 60 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+255 works, 60 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -208,6 +208,7 @@
 | [Mid-Autumn artistic video with music remix](https://x.com/op7418/status/2103520946841862312) | Opus 5.5 | [@op7418](https://x.com/op7418) | 0:27 | — |
 | [Paperclip and sticky note short film](https://x.com/kevin_t_ngo/status/2112584730856366140) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 1:00 | — |
 | [Time-traveling AI transmission video](https://x.com/VoidStateKate/status/2103308194852303245) | Opus 5.5 | [@VoidStateKate](https://x.com/VoidStateKate) | 0:39 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103308194852303245) |
+| [The Future Arrives Sideways](https://x.com/kallistosiii/status/2122494506566390205) | Opus 5.5 | [@kallistosiii](https://x.com/kallistosiii) | 3:56 | — |
 | [The Last Train Home rainy Japanese night scene](https://x.com/pankajkumar_dev/status/2112176644018626840) | Fable 5.5 (preview) | [@pankajkumar_dev](https://x.com/pankajkumar_dev) | 0:56 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2112176644018626840) |
 | [Full AI-made music and animation piece](https://x.com/anthrupad/status/2110950344272527596) | Opus 5.5 | [@anthrupad](https://x.com/anthrupad) | 0:52 | — |
 | [Little character stranded up high asks a human for help](https://x.com/marichaadaisuki/status/2114683465635655963) | Opus 5.5 | [@marichaadaisuki](https://x.com/marichaadaisuki) | 0:33 | — |

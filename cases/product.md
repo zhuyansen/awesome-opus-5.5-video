@@ -1,6 +1,6 @@
 # Product demos & ads
 
-278 works, 51 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+280 works, 51 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -256,6 +256,7 @@
 | [AI drama-style commercial](https://x.com/unikoukokun/status/2102991418860184057) | Opus 5.5 | [@unikoukokun](https://x.com/unikoukokun) | 2:34 | — |
 | [Personal website redesign with Sonnet 5.5](https://x.com/_tenZdhon_/status/2104680469451157900) | Sonnet 5.5 | [@_tenZdhon_](https://x.com/_tenZdhon_) | 0:27 | — |
 | [Ink-bleed brand effect tool](https://x.com/ann_nnng/status/2108926571021279560) | Opus 5.5 | [@ann_nnng](https://x.com/ann_nnng) | 0:17 | — |
+| [Form and list UI component collection](https://x.com/csaba_kissi/status/2122329088509739132) | Opus 5.5 | [@csaba_kissi](https://x.com/csaba_kissi) | 0:25 | — |
 | [Promo video for a gradient asset shop](https://x.com/basit_designs/status/2117933307585499192) | Opus 5.5 | [@basit_designs](https://x.com/basit_designs) | 0:30 | — |
 | [Unity Dolby Atmos visualizer](https://x.com/chroman/status/2109778453625020920) | Opus 5.5 | [@chroman](https://x.com/chroman) | 0:50 | — |
 | [App introduction video demo](https://x.com/hinata877889737/status/2102753427747168436) | Opus 5.5 | [@hinata877889737](https://x.com/hinata877889737) | 0:30 | — |
@@ -265,6 +266,7 @@
 | [Brand showreel from guidelines and website](https://x.com/AidinShahi/status/2103898861177880665) | Opus 5.5 | [@AidinShahi](https://x.com/AidinShahi) | 0:55 | — |
 | [Automation platform one-shot demo](https://x.com/getlindy/status/2103596650401018048) | Opus 5.5 | [@getlindy](https://x.com/getlindy) | 0:12 | — |
 | [Website promo video from a short request](https://x.com/sankenainai/status/2103340873773916491) | Opus 5.5 | [@sankenainai](https://x.com/sankenainai) | 0:29 | — |
+| [Coffee subscription advertisement](https://x.com/Toarukanshiin/status/2122163779471569261) | Opus 5.5 | [@Toarukanshiin](https://x.com/Toarukanshiin) | 0:15 | — |
 | [Animal band music player app](https://x.com/ring_hyacinth/status/2109611621719109920) | Opus 5.5 | [@ring_hyacinth](https://x.com/ring_hyacinth) | 1:17 | — |
 | [DaVinci Resolve style app for Android](https://x.com/4k_isn/status/2110398564610523199) | Opus 5.5 | [@4k_isn](https://x.com/4k_isn) | 1:42 | — |
 | [Fifteen-second motion graphics showreel](https://x.com/AntSeed/status/2104659402007703925) | Sonnet 5.5 | [@AntSeed](https://x.com/AntSeed) | 0:15 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104659402007703925) |

@@ -1,6 +1,6 @@
 # Games
 
-480 works, 63 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+482 works, 63 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -386,6 +386,7 @@
 | [Godot scene with Buddhist verse](https://x.com/KanaWorks_AI/status/2107826840035635328) | Opus 5.5 | [@KanaWorks_AI](https://x.com/KanaWorks_AI) | 1:04 | — |
 | [Pixel-art floating island park](https://x.com/vib3coded/status/2118765227584246106) | Sonnet 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:17 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2118765227584246106) |
 | [Interactive ant colony simulator](https://x.com/kevin_t_ngo/status/2112215957276070188) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 0:50 | — |
+| [Unreal Engine game prototype](https://x.com/KieranWarwick/status/2122527161961889959) | Opus 5.5 | [@KieranWarwick](https://x.com/KieranWarwick) | 0:38 | — |
 | [Detailed Minecraft one-shot game](https://x.com/notjazii/status/2116919129974411584) | Fable 5.5 (preview) | [@notjazii](https://x.com/notjazii) | 1:32 | — |
 | [Terraria rebuilt in 3D](https://x.com/ai_growth_avii/status/2107673916550627508) | Opus 5.5 | [@ai_growth_avii](https://x.com/ai_growth_avii) | 1:05 | — |
 | [Horse riding game prototype](https://x.com/prasenx/status/2120565971270459430) | Opus 5.5 | [@prasenx](https://x.com/prasenx) | 2:11 | — |
@@ -479,6 +480,7 @@
 | [Fighting game inspired by a mecha series](https://x.com/elefolo2/status/2103310890716266620) | Opus 5.5 | [@elefolo2](https://x.com/elefolo2) | 0:34 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103310890716266620) |
 | [Original Three.js game built in 24 hours](https://x.com/Heavy935/status/2118735703119159514) | Opus 5.5 | [@Heavy935](https://x.com/Heavy935) | 0:27 | — |
 | [90s FMV horror adventure game prototype](https://x.com/pleometric/status/2108205076904894664) | Opus 5.5 | [@pleometric](https://x.com/pleometric) | 1:20 | — |
+| [Jet ski browser mini-game](https://x.com/maxt3chno/status/2122305000479052022) | Opus 5.5 | [@maxt3chno](https://x.com/maxt3chno) | 1:22 | — |
 | [Improved game prototype](https://x.com/ForkedPush/status/2113682278261944511) | Opus 5.5 | [@ForkedPush](https://x.com/ForkedPush) | 2:06 | — |
 | [Playable theme park strategy game](https://x.com/anxuanng/status/2111528513690026292) | Opus 5.5 | [@anxuanng](https://x.com/anxuanng) | 0:30 | — |
 | [African cities racing game](https://x.com/webasamoah/status/2118335271133475027) | Opus 5.5 | [@webasamoah](https://x.com/webasamoah) | 1:55 | — |

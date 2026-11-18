@@ -1,6 +1,6 @@
 # 产品广告
 
-共 278 个作品，其中 51 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 280 个作品，其中 51 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -256,6 +256,7 @@
 | [AI剧情风格广告片](https://x.com/unikoukokun/status/2102991418860184057) | Opus 5.5 | [@unikoukokun](https://x.com/unikoukokun) | 2:34 | — |
 | [用Sonnet 5.5重新设计的个人网站](https://x.com/_tenZdhon_/status/2104680469451157900) | Sonnet 5.5 | [@_tenZdhon_](https://x.com/_tenZdhon_) | 0:27 | — |
 | [品牌墨渍效果生成工具](https://x.com/ann_nnng/status/2108926571021279560) | Opus 5.5 | [@ann_nnng](https://x.com/ann_nnng) | 0:17 | — |
+| [表单与列表界面组件合集](https://x.com/csaba_kissi/status/2122329088509739132) | Opus 5.5 | [@csaba_kissi](https://x.com/csaba_kissi) | 0:25 | — |
 | [渐变素材网站宣传片](https://x.com/basit_designs/status/2117933307585499192) | Opus 5.5 | [@basit_designs](https://x.com/basit_designs) | 0:30 | — |
 | [Unity杜比全景声可视化工具](https://x.com/chroman/status/2109778453625020920) | Opus 5.5 | [@chroman](https://x.com/chroman) | 0:50 | — |
 | [应用介绍视频演示](https://x.com/hinata877889737/status/2102753427747168436) | Opus 5.5 | [@hinata877889737](https://x.com/hinata877889737) | 0:30 | — |
@@ -265,6 +266,7 @@
 | [根据品牌指南与网站生成的品牌展示片](https://x.com/AidinShahi/status/2103898861177880665) | Opus 5.5 | [@AidinShahi](https://x.com/AidinShahi) | 0:55 | — |
 | [自动化平台一键演示视频](https://x.com/getlindy/status/2103596650401018048) | Opus 5.5 | [@getlindy](https://x.com/getlindy) | 0:12 | — |
 | [简单需求生成的网站宣传片](https://x.com/sankenainai/status/2103340873773916491) | Opus 5.5 | [@sankenainai](https://x.com/sankenainai) | 0:29 | — |
+| [咖啡订阅服务广告](https://x.com/Toarukanshiin/status/2122163779471569261) | Opus 5.5 | [@Toarukanshiin](https://x.com/Toarukanshiin) | 0:15 | — |
 | [动物乐队音乐播放器应用](https://x.com/ring_hyacinth/status/2109611621719109920) | Opus 5.5 | [@ring_hyacinth](https://x.com/ring_hyacinth) | 1:17 | — |
 | [安卓版达芬奇调色风格应用](https://x.com/4k_isn/status/2110398564610523199) | Opus 5.5 | [@4k_isn](https://x.com/4k_isn) | 1:42 | — |
 | [15秒动效展示片](https://x.com/AntSeed/status/2104659402007703925) | Sonnet 5.5 | [@AntSeed](https://x.com/AntSeed) | 0:15 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104659402007703925) |
