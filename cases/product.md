@@ -1,6 +1,6 @@
 # Product demos & ads
 
-280 works, 51 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+283 works, 51 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [App launch video workflow](https://x.com/rileybrown/status/2119651130963537996) | Opus 5.5 | [@rileybrown](https://x.com/rileybrown) | 0:37 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2119651130963537996) |
 | [Launch film for a web product](https://x.com/nikhilbhima/status/2109019765134213540) | Opus 5.5 | [@nikhilbhima](https://x.com/nikhilbhima) | 0:44 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2109019765134213540) |
 | [Redesigned book website](https://x.com/emollick/status/2114404221021778347) | Opus 5.5 | [@emollick](https://x.com/emollick) | 0:33 | — |
+| [Seafood market brand concept](https://x.com/nono_ai_archive/status/2122623281375133941) | Opus 5.5 | [@nono_ai_archive](https://x.com/nono_ai_archive) | 0:19 | — |
 | [Product redesign showcase video](https://x.com/Groovy_HQ/status/2103597420873646509) | Opus 5.5 | [@Groovy_HQ](https://x.com/Groovy_HQ) | 0:15 | — |
 | [Cinematic product launch film](https://x.com/AbhinavXJ/status/2104805179401068964) | Sonnet 5.5 | [@AbhinavXJ](https://x.com/AbhinavXJ) | 1:40 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104805179401068964) |
 | [Furniture-to-3D interior design app](https://x.com/higgsfield_ai/status/2102618445489795448) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:32 | — |
@@ -174,6 +175,7 @@
 | [Self-introduction video with music](https://x.com/mattn_jp/status/2103491383554445613) | Opus 5.5 | [@mattn_jp](https://x.com/mattn_jp) | 0:38 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103491383554445613) |
 | [DumbTV update promo video](https://x.com/DevMuzzammil/status/2112227989685768653) | Opus 5.5 | [@DevMuzzammil](https://x.com/DevMuzzammil) | 0:31 | — |
 | [Automated YouTube video with AI voice](https://x.com/thibaultbessonm/status/2103584854432514124) | Opus 5.5 | [@thibaultbessonm](https://x.com/thibaultbessonm) | 0:35 | — |
+| [Meta advertising video prototype](https://x.com/tadako_ai/status/2122612440571756938) | Opus 5.5 | [@tadako_ai](https://x.com/tadako_ai) | 0:15 | — |
 | [Website made with Opus 5.5](https://x.com/xevrion_the1/status/2103557513962745923) | Opus 5.5 | [@xevrion_the1](https://x.com/xevrion_the1) | 0:15 | — |
 | [Claude Duet promo video remake](https://x.com/AlchainHust/status/2113061393541050715) | Opus 5.5 | [@AlchainHust](https://x.com/AlchainHust) | 0:29 | — |
 | [Bluey voice-controlled Mac app and 3D box](https://x.com/rileybrown/status/2107960241065263265) | Opus 5.5 | [@rileybrown](https://x.com/rileybrown) | 0:40 | — |
@@ -195,6 +197,7 @@
 | [Unofficial Tesla Roadster commercial](https://x.com/kevin_t_ngo/status/2111887585639624828) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 1:05 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2111887585639624828) |
 | [Ten AI-generated UGC product ads](https://x.com/jakecastilloooo/status/2112552356210778380) | Opus 5.5 | [@jakecastilloooo](https://x.com/jakecastilloooo) | 0:08 | — |
 | [Pet dog brand concept](https://x.com/nono_ai_archive/status/2121551216329343363) | Opus 5.5 | [@nono_ai_archive](https://x.com/nono_ai_archive) | 0:29 | — |
+| [Animated website built from a reference image](https://x.com/exploraX_/status/2122714974980116893) | Opus 5.5 | [@exploraX_](https://x.com/exploraX_) | 0:40 | — |
 | [Light and dark mode interfaces](https://x.com/Ben_escrito/status/2120531797008175491) | Opus 5.5 | [@Ben_escrito](https://x.com/Ben_escrito) | 0:49 | — |
 | [Motion ads for Chipper](https://x.com/Aygramm_/status/2115759392192659746) | Opus 5.5 | [@Aygramm_](https://x.com/Aygramm_) | 0:30 | — |
 | [One-hour build from a PDF guide](https://x.com/seeconvm/status/2116138303028138040) | Opus 5.5 | [@seeconvm](https://x.com/seeconvm) | 0:18 | — |

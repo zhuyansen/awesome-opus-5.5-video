@@ -1,6 +1,6 @@
 # Motion graphics & UI
 
-364 works, 94 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+365 works, 94 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Beat-synced motion graphics with code breakdown](https://x.com/aiehon_aya/status/2103403361022419005) | Opus 5.5 | [@aiehon_aya](https://x.com/aiehon_aya) | 0:15 | — |
 | [UX decision explainer animation](https://x.com/moguzbulbul/status/2104206095313215591) | Opus 5.5 | [@moguzbulbul](https://x.com/moguzbulbul) | 0:42 | — |
 | [Voiceover with Motion Graphics](https://x.com/tu_u_k/status/2104629219607114206) | Opus 5.5 | [@tu_u_k](https://x.com/tu_u_k) | 0:34 | — |
+| [Promo video for a test-pruning skill](https://x.com/mazeincoding/status/2122718134679298058) | Opus 5.5 | [@mazeincoding](https://x.com/mazeincoding) | 0:11 | — |
 | [Jelly wobble transparency effect site](https://x.com/MatoToushi/status/2104778232683999363) | Opus 5.5 | [@MatoToushi](https://x.com/MatoToushi) | 0:41 | — |
 | [Real-time cartoon spinner for agent activity](https://x.com/anshuc/status/2105773281936650247) | Sonnet 5.5 | [@anshuc](https://x.com/anshuc) | 1:51 | — |
 | [TypingMind product intro motion video](https://x.com/tdinh_me/status/2103703135902740699) | Opus 5.5 | [@tdinh_me](https://x.com/tdinh_me) | 0:15 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103703135902740699) |

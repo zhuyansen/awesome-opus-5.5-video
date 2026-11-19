@@ -1,6 +1,6 @@
 # 动效设计
 
-共 364 个作品，其中 94 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 365 个作品，其中 94 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [节拍同步动效与技术解析](https://x.com/aiehon_aya/status/2103403361022419005) | Opus 5.5 | [@aiehon_aya](https://x.com/aiehon_aya) | 0:15 | — |
 | [UX决策讲解动画](https://x.com/moguzbulbul/status/2104206095313215591) | Opus 5.5 | [@moguzbulbul](https://x.com/moguzbulbul) | 0:42 | — |
 | [配音与动效](https://x.com/tu_u_k/status/2104629219607114206) | Opus 5.5 | [@tu_u_k](https://x.com/tu_u_k) | 0:34 | — |
+| [测试清理技能宣传视频](https://x.com/mazeincoding/status/2122718134679298058) | Opus 5.5 | [@mazeincoding](https://x.com/mazeincoding) | 0:11 | — |
 | [果冻抖动透明效果网站](https://x.com/MatoToushi/status/2104778232683999363) | Opus 5.5 | [@MatoToushi](https://x.com/MatoToushi) | 0:41 | — |
 | [实时显示代理状态的卡通动画小图标](https://x.com/anshuc/status/2105773281936650247) | Sonnet 5.5 | [@anshuc](https://x.com/anshuc) | 1:51 | — |
 | [TypingMind 产品介绍动效片](https://x.com/tdinh_me/status/2103703135902740699) | Opus 5.5 | [@tdinh_me](https://x.com/tdinh_me) | 0:15 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103703135902740699) |

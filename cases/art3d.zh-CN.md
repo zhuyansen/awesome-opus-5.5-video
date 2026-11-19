@@ -1,6 +1,6 @@
 # 3D 场景
 
-共 496 个作品，其中 112 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 500 个作品，其中 112 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [果冻西瓜切片模拟](https://x.com/vib3coded/status/2104285370951012504) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:18 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104285370951012504) |
 | [虚拟世界中的热带水面模拟](https://x.com/Data01/status/2104406657216237990) | Opus 5.5 | [@Data01](https://x.com/Data01) | 0:21 | — |
 | [在 Blender 中重建花园场景](https://x.com/gokayfem/status/2114314785575604491) | Opus 5.5 | [@gokayfem](https://x.com/gokayfem) | 1:00 | — |
+| [住宅机电管线布置模拟](https://x.com/Solvaix/status/2122759994672120184) | Opus 5.5 | [@Solvaix](https://x.com/Solvaix) | 0:28 | — |
 | [日式风景中的可玩船只场景](https://x.com/MengTo/status/2102760783344189761) | Opus 5.5 | [@MengTo](https://x.com/MengTo) | 1:00 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102760783344189761) |
 | [Three.js制作的清澈溪流场景](https://x.com/hayashimon1/status/2102576886182453454) | Opus 5.5 | [@hayashimon1](https://x.com/hayashimon1) | 0:15 | — |
 | [沙丘沙虫变身机器人概念](https://x.com/DilumSanjaya/status/2104253761137127597) | Opus 5.5 | [@DilumSanjaya](https://x.com/DilumSanjaya) | 1:19 | — |
@@ -98,6 +99,7 @@
 | [机器蝎子拆解模拟器](https://x.com/Nyxera0x/status/2116277601794724232) | Opus 5.5 | [@Nyxera0x](https://x.com/Nyxera0x) | 0:26 | — |
 | [云上世界无人机视角飞行影片](https://x.com/LexnLin/status/2117230395406364857) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 0:45 | — |
 | [不同三角面预算的猫模型重建](https://x.com/gokayfem/status/2120498448550023604) | Opus 5.5 | [@gokayfem](https://x.com/gokayfem) | 0:58 | — |
+| [互动纸艺世界](https://x.com/xikhar/status/2122682962647122403) | Opus 5.5 | [@xikhar](https://x.com/xikhar) | 0:54 | — |
 | [带雾效系统的3D场景](https://x.com/chetanankola/status/2118631658979250631) | Opus 5.5 | [@chetanankola](https://x.com/chetanankola) | 0:23 | — |
 | [输入词语实时生成的代码艺术作品](https://x.com/MiaAI_lab/status/2103837519615774895) | Opus 5.5 | [@MiaAI_lab](https://x.com/MiaAI_lab) | 1:37 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103837519615774895) |
 | [浏览器中的夜晚城市场景](https://x.com/xikhar/status/2105838937688400174) | Opus 5.5 | [@xikhar](https://x.com/xikhar) | 1:13 | — |
@@ -324,6 +326,7 @@
 | [穿越雷暴巨浪的划船场景](https://x.com/camperaigg/status/2118317021935071339) | Fable 5.5 (preview) | [@camperaigg](https://x.com/camperaigg) | 0:35 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2118317021935071339) |
 | [Live2D二维模型绑定演示](https://x.com/sayaka_aiart/status/2109500565768270102) | Opus 5.5 | [@sayaka_aiart](https://x.com/sayaka_aiart) | 0:16 | — |
 | [可用于游戏的英雄角色](https://x.com/rewind02/status/2117999411397525798) | Opus 5.5 | [@rewind02](https://x.com/rewind02) | 0:04 | — |
+| [以声音捕猎的洞穴生物](https://x.com/thegreatest_sv/status/2122761185678299602) | Opus 5.5 | [@thegreatest_sv](https://x.com/thegreatest_sv) | 0:22 | — |
 | [液态形状路径追踪渲染网页工具](https://x.com/aecyydesign/status/2114825374961897939) | Opus 5.5 | [@aecyydesign](https://x.com/aecyydesign) | 0:10 | — |
 | [两层别墅机电管线设计三维演示](https://x.com/Solvaix/status/2112614086932611107) | Opus 5.5 | [@Solvaix](https://x.com/Solvaix) | 1:11 | — |
 | [Roblox 场景地图](https://x.com/kentasakurajima/status/2112665300608929807) | Opus 5.5 | [@kentasakurajima](https://x.com/kentasakurajima) | 0:22 | — |
@@ -466,6 +469,7 @@
 | [环绕船只的海蛇动画](https://x.com/Stefan_3D_AI/status/2120039417981333599) | Opus 5.5 | [@Stefan_3D_AI](https://x.com/Stefan_3D_AI) | 0:32 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2120039417981333599) |
 | [程序化材质测试](https://x.com/wizardbrainz/status/2112599376438907310) | Opus 5.5 | [@wizardbrainz](https://x.com/wizardbrainz) | 0:10 | — |
 | [像素风宣传动画](https://x.com/dummerspast39/status/2111957286620930535) | Fable 5.5 (preview) | [@dummerspast39](https://x.com/dummerspast39) | 4:32 | — |
+| [分部件与整体网格三维角色制作对比](https://x.com/maxt3chno/status/2122678098197959150) | Opus 5.5 | [@maxt3chno](https://x.com/maxt3chno) | 0:40 | — |
 | [机器学习概念可视化演示](https://x.com/techy_windy/status/2103600911566438589) | Opus 5.5 | [@techy_windy](https://x.com/techy_windy) | 1:43 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103600911566438589) |
 | [互动像素风游泳俱乐部](https://x.com/N1njaCodex/status/2114467181912322353) | Opus 5.5 | [@N1njaCodex](https://x.com/N1njaCodex) | 0:17 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2114467181912322353) |
 | [平面图转制的3D模型与视频](https://x.com/uncle_render/status/2103707225646936402) | Opus 5.5 | [@uncle_render](https://x.com/uncle_render) | 0:47 | — |

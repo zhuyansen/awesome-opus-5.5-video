@@ -1,6 +1,6 @@
 # 游戏
 
-共 482 个作品，其中 63 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 485 个作品，其中 63 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [龙珠主题跑酷游戏](https://x.com/aniketjart/status/2113427367477878971) | Opus 5.5 | [@aniketjart](https://x.com/aniketjart) | 0:58 | — |
 | [斯普拉遁风格网页游戏](https://x.com/JaydenDavisNC/status/2103352441886425310) | Opus 5.5 | [@JaydenDavisNC](https://x.com/JaydenDavisNC) | 4:02 | — |
 | [黑暗之魂风格演示合集](https://x.com/The_Alex/status/2102440678282412195) | Opus 5.5 | [@The_Alex](https://x.com/The_Alex) | 2:11 | — |
+| [弹幕射击训练视频](https://x.com/korinVR/status/2122856839608177052) | Opus 5.5 | [@korinVR](https://x.com/korinVR) | 0:38 | — |
 | [浏览器版火箭联盟克隆游戏](https://x.com/BlendiByl/status/2104800823620632641) | Opus 5.5 | [@BlendiByl](https://x.com/BlendiByl) | 0:39 | — |
 | [用Sonnet 5.5一次生成的堡垒之夜风格游戏](https://x.com/ericmaskfr/status/2104680817272500562) | Sonnet 5.5 | [@ericmaskfr](https://x.com/ericmaskfr) | 0:42 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104680817272500562) |
 | [浏览器版我的世界克隆](https://x.com/noahwachnik/status/2102470200415166699) | Opus 5.5 | [@noahwachnik](https://x.com/noahwachnik) | 0:23 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102470200415166699) |
@@ -291,6 +292,7 @@
 | [原生 Swift 第一人称射击游戏](https://x.com/solotechdev/status/2107155466987987309) | Opus 5.5 | [@solotechdev](https://x.com/solotechdev) | 0:49 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2107155466987987309) |
 | [奇幻科幻游戏画面更新](https://x.com/aniketjart/status/2105793038048182737) | Opus 5.5 | [@aniketjart](https://x.com/aniketjart) | 0:36 | — |
 | [反恐精英风格的 Roblox 游戏](https://x.com/0xKense1/status/2117737002598543768) | Opus 5.5 | [@0xKense1](https://x.com/0xKense1) | 1:29 | — |
+| [有巨龙和泰坦的开放世界奇幻游戏](https://x.com/M__Houser/status/2122724998846775553) | Opus 5.5 | [@M__Houser](https://x.com/M__Houser) | 2:38 | — |
 | [耗时七小时制作中的three.js游戏](https://x.com/cryptomanavan/status/2102772685541347618) | Opus 5.5 | [@cryptomanavan](https://x.com/cryptomanavan) | 1:56 | — |
 | [《我的世界》军事模组](https://x.com/0xJarvi/status/2113380380158107985) | Opus 5.5 | [@0xJarvi](https://x.com/0xJarvi) | 0:19 | — |
 | [网球领域展开游戏](https://x.com/darel023/status/2110291409018212638) | Opus 5.5 | [@darel023](https://x.com/darel023) | 1:14 | — |
@@ -427,6 +429,7 @@
 | [程序化山脉飞行模拟器](https://x.com/cyrilXBT/status/2103737605510836371) | Opus 5.5 | [@cyrilXBT](https://x.com/cyrilXBT) | 0:15 | — |
 | [游戏战斗画面开发中](https://x.com/FRIENDS73539897/status/2103675800277106751) | Opus 5.5 | [@FRIENDS73539897](https://x.com/FRIENDS73539897) | 0:42 | — |
 | [多人海边小镇NPC游戏](https://x.com/chongdashu/status/2108195439606681975) | Haiku 5.5 | [@chongdashu](https://x.com/chongdashu) | 0:42 | — |
+| [温馨钓鱼游戏原型](https://x.com/neviannn/status/2122655307780215056) | Opus 5.5 | [@neviannn](https://x.com/neviannn) | 1:17 | — |
 | [用代码制作的我的世界克隆游戏预告片](https://x.com/ai_for_success/status/2105930067717357724) | Opus 5.5 | [@ai_for_success](https://x.com/ai_for_success) | 1:39 | — |
 | [Opus 5.5制作的儿童iOS小游戏](https://x.com/Snorlxz/status/2108930097306837030) | Opus 5.5 | [@Snorlxz](https://x.com/Snorlxz) | 0:19 | — |
 | [图片转Three.js游戏菜单测试](https://x.com/majidmanzarpour/status/2102544196808667471) | Opus 5.5 | [@majidmanzarpour](https://x.com/majidmanzarpour) | 0:16 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102544196808667471) |

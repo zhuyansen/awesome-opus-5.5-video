@@ -3,8 +3,8 @@
  "model": "Claude 5.5 (Opus 5.5 · Sonnet 5.5 · Haiku 5.5 · Fable 5.5)",
  "inclusion_rule": "Original post by the creator, native video attached, >= 5000 views on that post, creator states it was made with Claude Opus 5.5, Sonnet 5.5, Haiku 5.5 or Fable 5.5 (Fable 5.5 is in limited preview, not yet announced). Later posts that embed another account's upload are excluded.",
  "views_threshold": 5000,
- "stats_checked_at": "2026-11-18T08:44:59.676Z",
- "updated_at": "2026-11-18T08:44:59.676Z",
+ "stats_checked_at": "2026-11-19T01:17:14.095Z",
+ "updated_at": "2026-11-19T01:17:14.095Z",
  "model_attribution": "As stated by each creator; not independently reproduced.",
  "cases": [
   {
@@ -2405,6 +2405,36 @@
    "resources": []
   },
   {
+   "id": "2122856839608177052",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "game",
+   "title": {
+    "zh": "弹幕射击训练视频",
+    "en": "Bullet hell skill training video"
+   },
+   "creator": {
+    "handle": "korinVR",
+    "name": "Korin"
+   },
+   "original_post_url": "https://x.com/korinVR/status/2122856839608177052",
+   "posted_at": "2026-11-18T00:58:05.000Z",
+   "language": "ja",
+   "duration_seconds": 38,
+   "views": 602759,
+   "likes": 5554,
+   "bookmarks": 1977,
+   "views_checked_at": "2026-11-19T01:17:14.095Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2122856337004765184/img/hqTLF13I4mdzIZNK.jpg",
+   "tools_reported": [
+    "Godot"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2104406657216237990",
    "models": [
     "opus-5.5"
@@ -2766,6 +2796,34 @@
     "length": 151,
     "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103337314021937232"
    },
+   "resources": []
+  },
+  {
+   "id": "2122759994672120184",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "住宅机电管线布置模拟",
+    "en": "Residential MEP routing simulation"
+   },
+   "creator": {
+    "handle": "Solvaix",
+    "name": "Solvaix"
+   },
+   "original_post_url": "https://x.com/Solvaix/status/2122759994672120184",
+   "posted_at": "2026-11-17T18:33:16.000Z",
+   "language": "en",
+   "duration_seconds": 28,
+   "views": 524020,
+   "likes": 3283,
+   "bookmarks": 4924,
+   "views_checked_at": "2026-11-19T01:17:14.095Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2122759917291347968/img/DPvZpJknErqT6OdT.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
    "resources": []
   },
   {
@@ -8436,6 +8494,34 @@
    "resources": []
   },
   {
+   "id": "2122718134679298058",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "motion",
+   "title": {
+    "zh": "测试清理技能宣传视频",
+    "en": "Promo video for a test-pruning skill"
+   },
+   "creator": {
+    "handle": "mazeincoding",
+    "name": "Maze"
+   },
+   "original_post_url": "https://x.com/mazeincoding/status/2122718134679298058",
+   "posted_at": "2026-11-17T15:46:56.000Z",
+   "language": "en",
+   "duration_seconds": 11,
+   "views": 202714,
+   "likes": 3953,
+   "bookmarks": 5874,
+   "views_checked_at": "2026-11-19T01:17:14.095Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2122718054593216512/img/p_G_9i91_sijYRsY.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2102803889183736141",
    "models": [
     "opus-5.5"
@@ -9556,6 +9642,42 @@
    "resources": []
   },
   {
+   "id": "2122770271828631554",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "Astra与Opus效果对比",
+    "en": "Astra and Opus output comparison"
+   },
+   "creator": {
+    "handle": "tcballard",
+    "name": "Tom Ballard"
+   },
+   "original_post_url": "https://x.com/tcballard/status/2122770271828631554",
+   "posted_at": "2026-11-17T19:14:06.000Z",
+   "language": "en",
+   "duration_seconds": 15,
+   "views": 181979,
+   "likes": 825,
+   "bookmarks": 522,
+   "views_checked_at": "2026-11-19T01:17:14.095Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2122769834081398784/img/RRQ546plr5pVH9M-.jpg",
+   "tools_reported": [
+    "Astra 6.2"
+   ],
+   "reference_assets": true,
+   "prompt": {
+    "kind": "brief",
+    "source": "author_reply",
+    "source_url": "https://x.com/tcballard/status/2122771468320944464",
+    "length": 208,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2122770271828631554"
+   },
+   "resources": []
+  },
+  {
    "id": "2103444180861178199",
    "models": [
     "opus-5.5"
@@ -10249,6 +10371,39 @@
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2102471444336611328/img/fChOztrV0vxnEi56.jpg",
    "tools_reported": [],
    "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2122803967272866254",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "四模型飞机场景对比",
+    "en": "Four-model aircraft scene comparison"
+   },
+   "creator": {
+    "handle": "EnvolDev",
+    "name": "Tony"
+   },
+   "original_post_url": "https://x.com/EnvolDev/status/2122803967272866254",
+   "posted_at": "2026-11-17T21:28:00.000Z",
+   "language": "en",
+   "duration_seconds": 25,
+   "views": 169100,
+   "likes": 966,
+   "bookmarks": 344,
+   "views_checked_at": "2026-11-19T01:17:14.095Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2122801610845982720/img/pjrDJrtzUujYGxyz.jpg",
+   "tools_reported": [
+    "GPT-6.2 Astra",
+    "GPT-6.2 Sol",
+    "Fable 5.2",
+    "Three.js"
+   ],
+   "reference_assets": false,
    "prompt": null,
    "resources": []
   },
@@ -18963,6 +19118,38 @@
    "resources": []
   },
   {
+   "id": "2122682962647122403",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "互动纸艺世界",
+    "en": "Interactive papercraft world"
+   },
+   "creator": {
+    "handle": "xikhar",
+    "name": "Shikhar"
+   },
+   "original_post_url": "https://x.com/xikhar/status/2122682962647122403",
+   "posted_at": "2026-11-17T13:27:10.000Z",
+   "language": "en",
+   "duration_seconds": 54,
+   "views": 91657,
+   "likes": 2173,
+   "bookmarks": 2005,
+   "views_checked_at": "2026-11-19T01:17:14.095Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2122681462378139648/img/tOK8vGnGhVJhI0E7.jpg",
+   "tools_reported": [
+    "Fable 5.2",
+    "Three.js",
+    "GPT Image"
+   ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2103506875165859922",
    "models": [
     "opus-5.5"
@@ -19057,6 +19244,38 @@
     "length": 147,
     "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103739780207096050"
    },
+   "resources": []
+  },
+  {
+   "id": "2122740421256474787",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "山地卡车场景对比",
+    "en": "Mountain truck scene comparison"
+   },
+   "creator": {
+    "handle": "0xmurasame",
+    "name": "Murasame"
+   },
+   "original_post_url": "https://x.com/0xmurasame/status/2122740421256474787",
+   "posted_at": "2026-11-17T17:15:29.000Z",
+   "language": "en",
+   "duration_seconds": 9,
+   "views": 90630,
+   "likes": 122,
+   "bookmarks": 140,
+   "views_checked_at": "2026-11-19T01:17:14.095Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2122740326297141248/img/CJVtB4hPxUwVCLFo.jpg",
+   "tools_reported": [
+    "Fable 5.2",
+    "Blender MCP",
+    "GPT-6 Astra"
+   ],
+   "reference_assets": false,
+   "prompt": null,
    "resources": []
   },
   {
@@ -25944,6 +26163,36 @@
    "views_checked_at": "2026-11-16T10:43:30.012Z",
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2118408219261304832/img/_-_ytR-7xam3HSmW.jpg",
    "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2122794828266377538",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "程序化火焰模拟对比",
+    "en": "Procedural fire simulation comparison"
+   },
+   "creator": {
+    "handle": "camperaigg",
+    "name": "camper 🦎🎣"
+   },
+   "original_post_url": "https://x.com/camperaigg/status/2122794828266377538",
+   "posted_at": "2026-11-17T20:51:41.000Z",
+   "language": "en",
+   "duration_seconds": 24,
+   "views": 65028,
+   "likes": 220,
+   "bookmarks": 76,
+   "views_checked_at": "2026-11-19T01:17:14.095Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2122794767960752128/img/aNAMzj8oR3DXdJRh.jpg",
+   "tools_reported": [
+    "GPT 6.2 Sol"
+   ],
    "reference_assets": false,
    "prompt": null,
    "resources": []
@@ -33199,6 +33448,43 @@
    ],
    "reference_assets": true,
    "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2122788867694858629",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "飞机场景成本对比",
+    "en": "Aircraft scene cost comparison"
+   },
+   "creator": {
+    "handle": "EnvolDev",
+    "name": "Tony"
+   },
+   "original_post_url": "https://x.com/EnvolDev/status/2122788867694858629",
+   "posted_at": "2026-11-17T20:28:00.000Z",
+   "language": "en",
+   "duration_seconds": 25,
+   "views": 48004,
+   "likes": 282,
+   "bookmarks": 87,
+   "views_checked_at": "2026-11-19T01:17:14.095Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2122787106263289856/img/Jv0KdyEXHJGyXZoS.jpg",
+   "tools_reported": [
+    "GPT-6.2 Sol",
+    "Three.js"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "brief",
+    "source": "author_reply",
+    "source_url": "https://x.com/EnvolDev/status/2122856073245892987",
+    "length": 49,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2122788867694858629"
+   },
    "resources": []
   },
   {
@@ -41959,6 +42245,36 @@
    "resources": []
   },
   {
+   "id": "2122623281375133941",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "product",
+   "title": {
+    "zh": "海鲜市场品牌概念",
+    "en": "Seafood market brand concept"
+   },
+   "creator": {
+    "handle": "nono_ai_archive",
+    "name": "노노아카이브"
+   },
+   "original_post_url": "https://x.com/nono_ai_archive/status/2122623281375133941",
+   "posted_at": "2026-11-17T09:30:01.000Z",
+   "language": "ko",
+   "duration_seconds": 19,
+   "views": 34182,
+   "likes": 1111,
+   "bookmarks": 680,
+   "views_checked_at": "2026-11-19T01:17:14.095Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2122544317982220288/img/szAJwHbW5SbhGy5I.jpg",
+   "tools_reported": [
+    "GPT"
+   ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2103597420873646509",
    "models": [
     "opus-5.5"
@@ -49989,6 +50305,49 @@
    "resources": []
   },
   {
+   "id": "2122793788087193650",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "GPT与Opus效果对比",
+    "en": "GPT and Opus result comparison"
+   },
+   "creator": {
+    "handle": "rubenssoto_ai",
+    "name": "Rubens Soto | AI & SaaS"
+   },
+   "original_post_url": "https://x.com/rubenssoto_ai/status/2122793788087193650",
+   "posted_at": "2026-11-17T20:47:33.000Z",
+   "language": "en",
+   "duration_seconds": 30,
+   "views": 25647,
+   "likes": 396,
+   "bookmarks": 52,
+   "views_checked_at": "2026-11-19T01:17:14.095Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2122793239052775425/img/r6yZlA4aOWj3QMVL.jpg",
+   "tools_reported": [
+    "GPT-6.2 Astra",
+    "Three.js",
+    "WebGL 2",
+    "GLSL",
+    "JavaScript",
+    "TypeScript",
+    "Puppeteer",
+    "Playwright"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "full",
+    "source": "author_reply",
+    "source_url": "https://x.com/rubenssoto_ai/status/2122812937501016279",
+    "length": 9401,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2122793788087193650"
+   },
+   "resources": []
+  },
+  {
    "id": "2103420244018573385",
    "models": [
     "opus-5.5"
@@ -54616,6 +54975,39 @@
    "resources": []
   },
   {
+   "id": "2122724998846775553",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "game",
+   "title": {
+    "zh": "有巨龙和泰坦的开放世界奇幻游戏",
+    "en": "Open-world fantasy game with dragons and titans"
+   },
+   "creator": {
+    "handle": "M__Houser",
+    "name": "Mike Houser"
+   },
+   "original_post_url": "https://x.com/M__Houser/status/2122724998846775553",
+   "posted_at": "2026-11-17T16:14:12.000Z",
+   "language": "en",
+   "duration_seconds": 158,
+   "views": 21914,
+   "likes": 267,
+   "bookmarks": 220,
+   "views_checked_at": "2026-11-19T01:17:14.095Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2122724832546885633/img/V_kdSvM-_4NDM8Dc.jpg",
+   "tools_reported": [
+    "Fable 5.2",
+    "Tripo",
+    "Blender",
+    "ElevenLabs"
+   ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2102772685541347618",
    "models": [
     "opus-5.5"
@@ -55448,6 +55840,36 @@
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2108205488139862016/img/Vd7RmfUkBwPhz17X.jpg",
    "tools_reported": [
     "GameMaker"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2122612440571756938",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "product",
+   "title": {
+    "zh": "Meta广告视频原型",
+    "en": "Meta advertising video prototype"
+   },
+   "creator": {
+    "handle": "tadako_ai",
+    "name": "ただこ（多田勇輝）"
+   },
+   "original_post_url": "https://x.com/tadako_ai/status/2122612440571756938",
+   "posted_at": "2026-11-17T08:46:56.000Z",
+   "language": "ja",
+   "duration_seconds": 15,
+   "views": 21265,
+   "likes": 144,
+   "bookmarks": 161,
+   "views_checked_at": "2026-11-19T01:17:14.095Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2122611892170674176/img/5wrW1Qp7LAtb-_Kw.jpg",
+   "tools_reported": [
+    "Claude Code"
    ],
    "reference_assets": false,
    "prompt": null,
@@ -56759,6 +57181,44 @@
     "source_url": "https://x.com/theparuchh/status/2115628379697213825",
     "length": 50,
     "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2115508738891063617"
+   },
+   "resources": []
+  },
+  {
+   "id": "2122695064304435566",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "浮空岛三维网页应用",
+    "en": "Floating island 3D web app"
+   },
+   "creator": {
+    "handle": "0xShoopy",
+    "name": "Shoopy"
+   },
+   "original_post_url": "https://x.com/0xShoopy/status/2122695064304435566",
+   "posted_at": "2026-11-17T14:15:15.000Z",
+   "language": "en",
+   "duration_seconds": 22,
+   "views": 20277,
+   "likes": 201,
+   "bookmarks": 205,
+   "views_checked_at": "2026-11-19T01:17:14.095Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2122689798037028864/img/RhNEK2ZXekERLfpA.jpg",
+   "tools_reported": [
+    "Claude Code",
+    "Three.js",
+    "Fable 5.2"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "full",
+    "source": "author_reply",
+    "source_url": "https://x.com/0xShoopy/status/2122695112207589602",
+    "length": 1645,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2122695064304435566"
    },
    "resources": []
   },
@@ -59058,6 +59518,43 @@
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2103964473547710464/img/58AV6Imcx4UyPhw_.jpg",
    "tools_reported": [
     "Higgsfield"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2122761185678299602",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "以声音捕猎的洞穴生物",
+    "en": "Sound-hunting cave creature"
+   },
+   "creator": {
+    "handle": "thegreatest_sv",
+    "name": "kiosa"
+   },
+   "original_post_url": "https://x.com/thegreatest_sv/status/2122761185678299602",
+   "posted_at": "2026-11-17T18:38:00.000Z",
+   "language": "en",
+   "duration_seconds": 22,
+   "views": 19008,
+   "likes": 292,
+   "bookmarks": 438,
+   "views_checked_at": "2026-11-19T01:17:14.095Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2122684462538301440/img/OrzExw7UXdgfKvk4.jpg",
+   "tools_reported": [
+    "Blender 5.3",
+    "Blender MCP",
+    "Blender Skills",
+    "dream-loop",
+    "TRELLIS.2",
+    "SAM 3D Objects",
+    "MeshAnything V2",
+    "UniRig"
    ],
    "reference_assets": false,
    "prompt": null,
@@ -62781,6 +63278,34 @@
    "resources": []
   },
   {
+   "id": "2122714974980116893",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "product",
+   "title": {
+    "zh": "用参考图制作的动态网站",
+    "en": "Animated website built from a reference image"
+   },
+   "creator": {
+    "handle": "exploraX_",
+    "name": "m0h"
+   },
+   "original_post_url": "https://x.com/exploraX_/status/2122714974980116893",
+   "posted_at": "2026-11-17T15:34:22.000Z",
+   "language": "en",
+   "duration_seconds": 40,
+   "views": 16851,
+   "likes": 232,
+   "bookmarks": 308,
+   "views_checked_at": "2026-11-19T01:17:14.095Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2122701314899496960/img/U0LdPAV-i-6pfWLs.jpg",
+   "tools_reported": [],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2103768914551603465",
    "models": [
     "opus-5.5"
@@ -65312,6 +65837,36 @@
     "length": 22,
     "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2113749929395114129"
    },
+   "resources": []
+  },
+  {
+   "id": "2122778769597554693",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "高斯溅射世界模型对比",
+    "en": "Gaussian splat world model comparison"
+   },
+   "creator": {
+    "handle": "sshayahmet",
+    "name": "Serik"
+   },
+   "original_post_url": "https://x.com/sshayahmet/status/2122778769597554693",
+   "posted_at": "2026-11-17T19:47:52.000Z",
+   "language": "en",
+   "duration_seconds": 20,
+   "views": 15474,
+   "likes": 147,
+   "bookmarks": 51,
+   "views_checked_at": "2026-11-19T01:17:14.095Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2122778178783752192/img/SpeQ_YC1rbkH7M0k.jpg",
+   "tools_reported": [
+    "GPT-6.2 Sol"
+   ],
+   "reference_assets": false,
+   "prompt": null,
    "resources": []
   },
   {
@@ -75236,6 +75791,38 @@
    "resources": []
   },
   {
+   "id": "2122809542660825292",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "Fawnbench三维建模对比",
+    "en": "Fawnbench 3D modeling comparison"
+   },
+   "creator": {
+    "handle": "fawnunwrap",
+    "name": "fawn"
+   },
+   "original_post_url": "https://x.com/fawnunwrap/status/2122809542660825292",
+   "posted_at": "2026-11-17T21:50:09.000Z",
+   "language": "en",
+   "duration_seconds": 16,
+   "views": 11449,
+   "likes": 128,
+   "bookmarks": 19,
+   "views_checked_at": "2026-11-19T01:17:14.095Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2122809522817290242/img/dLfojJWnNKte0f8g.jpg",
+   "tools_reported": [
+    "GPT 6.2 SOL",
+    "ASTRA",
+    "Fable 5.2"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2119053573526901001",
    "models": [
     "opus-5.5",
@@ -80752,6 +81339,38 @@
    "resources": []
   },
   {
+   "id": "2122655307780215056",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "game",
+   "title": {
+    "zh": "温馨钓鱼游戏原型",
+    "en": "Cozy fishing game prototype"
+   },
+   "creator": {
+    "handle": "neviannn",
+    "name": "nevian"
+   },
+   "original_post_url": "https://x.com/neviannn/status/2122655307780215056",
+   "posted_at": "2026-11-17T11:37:17.000Z",
+   "language": "en",
+   "duration_seconds": 77,
+   "views": 9204,
+   "likes": 171,
+   "bookmarks": 159,
+   "views_checked_at": "2026-11-19T01:17:14.095Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2122655056415657984/img/TUdvXV2cmPIvLnA2.jpg",
+   "tools_reported": [
+    "Blender",
+    "Unity",
+    "Blender MCP"
+   ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2111431777781010510",
    "models": [
     "haiku-5.5"
@@ -85067,6 +85686,37 @@
     "length": 2743,
     "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2114894485389791613"
    },
+   "resources": []
+  },
+  {
+   "id": "2122678098197959150",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "分部件与整体网格三维角色制作对比",
+    "en": "Part-by-part vs single-mesh 3D character builds"
+   },
+   "creator": {
+    "handle": "maxt3chno",
+    "name": "Max"
+   },
+   "original_post_url": "https://x.com/maxt3chno/status/2122678098197959150",
+   "posted_at": "2026-11-17T13:07:50.000Z",
+   "language": "en",
+   "duration_seconds": 40,
+   "views": 7658,
+   "likes": 112,
+   "bookmarks": 141,
+   "views_checked_at": "2026-11-19T01:17:14.095Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2122677650393079808/img/f2nkmXSDTqPJNNy9.jpg",
+   "tools_reported": [
+    "Tripo",
+    "Meshy"
+   ],
+   "reference_assets": false,
+   "prompt": null,
    "resources": []
   },
   {

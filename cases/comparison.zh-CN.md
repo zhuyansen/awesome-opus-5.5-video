@@ -1,6 +1,6 @@
 # 模型对比
 
-共 556 个作品，其中 180 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 565 个作品，其中 184 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -60,9 +60,11 @@
 | [电动机动画模型对比](https://x.com/rubenssoto_ai/status/2110065587279798719) | Opus 5.5 | [@rubenssoto_ai](https://x.com/rubenssoto_ai) | 0:40 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2110065587279798719) |
 | [中世纪体素世界生成对比](https://x.com/marcthecreatorr/status/2111427716142571554) | Opus 5.5 | [@marcthecreatorr](https://x.com/marcthecreatorr) | 0:57 | — |
 | [可拉伸的西瓜果冻网页玩具](https://x.com/N1njaCodex/status/2105203269312336285) | Sonnet 5.5 | [@N1njaCodex](https://x.com/N1njaCodex) | 0:17 | — |
+| [Astra与Opus效果对比](https://x.com/tcballard/status/2122770271828631554) | Opus 5.5 | [@tcballard](https://x.com/tcballard) | 0:15 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2122770271828631554) |
 | [Opus与GPT-6 Sol在Canva作画对比](https://x.com/ego_agent/status/2103137597631701188) | Opus 5.5 | [@ego_agent](https://x.com/ego_agent) | 0:32 | — |
 | [AI场景细节对比](https://x.com/scheemunai/status/2102515382556954935) | Opus 5.5 | [@scheemunai](https://x.com/scheemunai) | 1:11 | — |
 | [GPT-6 Astra对战Opus 5.5](https://x.com/PrashantByte09/status/2102742011346567287) | Opus 5.5 | [@PrashantByte09](https://x.com/PrashantByte09) | 0:20 | — |
+| [四模型飞机场景对比](https://x.com/EnvolDev/status/2122803967272866254) | Opus 5.5 | [@EnvolDev](https://x.com/EnvolDev) | 0:25 | — |
 | [埃菲尔铁塔Three.js模型对比](https://x.com/Bhavani_00007/status/2102795814355763277) | Opus 5.5 | [@Bhavani_00007](https://x.com/Bhavani_00007) | 0:30 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102795814355763277) |
 | [瓶中船体素场景](https://x.com/vib3coded/status/2110136719827747181) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:18 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2110136719827747181) |
 | [Opus 5.5对比GPT-6 3D游戏开发](https://x.com/higgsfield_ai/status/2102496940047094124) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:15 | — |
@@ -124,6 +126,7 @@
 | [古希腊3D世界游戏测试](https://x.com/higgsfield_ai/status/2110426709422133611) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:34 | — |
 | [电脑操作画图测试：Opus5.5对比GPT-6 Sol](https://x.com/superalesha/status/2103209293919223872) | Opus 5.5 | [@superalesha](https://x.com/superalesha) | 0:45 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103209293919223872) |
 | [3D鹈鹕骑车测试：Opus5.5对比GPT-6 Sol（Blender）](https://x.com/akshdeeps_001/status/2103105995606282719) | Opus 5.5 | [@akshdeeps_001](https://x.com/akshdeeps_001) | 0:10 | — |
+| [山地卡车场景对比](https://x.com/0xmurasame/status/2122740421256474787) | Opus 5.5 | [@0xmurasame](https://x.com/0xmurasame) | 0:09 | — |
 | [笔记本手绘草图动画化对比](https://x.com/higgsfield_ai/status/2102838124288283008) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:18 | — |
 | [模型输出并排对比](https://x.com/YouArtStudio/status/2113414387666927980) | Opus 5.5 | [@YouArtStudio](https://x.com/YouArtStudio) | 0:25 | — |
 | [星形发动机动画模型对比](https://x.com/olezhavich/status/2116606788241969445) | Opus 5.5 | [@olezhavich](https://x.com/olezhavich) | 0:11 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2116606788241969445) |
@@ -169,6 +172,7 @@
 | [三维体素跑车组装动画](https://x.com/atomic_chat_hq/status/2110145714659664275) | Opus 5.5 | [@atomic_chat_hq](https://x.com/atomic_chat_hq) | 0:26 | — |
 | [电动机3D动画对比](https://x.com/rubenssoto_ai/status/2111513156589629941) | Opus 5.5 | [@rubenssoto_ai](https://x.com/rubenssoto_ai) | 0:40 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2111513156589629941) |
 | [浮岛3D模型对比](https://x.com/higgsfield_ai/status/2111509918490755394) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:22 | — |
+| [程序化火焰模拟对比](https://x.com/camperaigg/status/2122794828266377538) | Opus 5.5 | [@camperaigg](https://x.com/camperaigg) | 0:24 | — |
 | [同一提示词的多模型视频对比](https://x.com/bridgemindai/status/2103594719544525016) | Opus 5.5 | [@bridgemindai](https://x.com/bridgemindai) | 1:00 | — |
 | [模型输出并排对比](https://x.com/Haleeeemahh/status/2115819373973708975) | Opus 5.5 | [@Haleeeemahh](https://x.com/Haleeeemahh) | 0:12 | — |
 | [Claude Sonnet与Opus自画像动态设计对比](https://x.com/motion_so/status/2104981908241486064) | Opus 5.5 / Sonnet 5.5 | [@motion_so](https://x.com/motion_so) | 0:24 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104981908241486064) |
@@ -212,6 +216,7 @@
 | [四模型3D火箭发射对比](https://x.com/higgsfield_ai/status/2102565251883606206) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:17 | — |
 | [米老鼠 3D 复刻双模型对比](https://x.com/luckeyfaraday/status/2115459494163402987) | Opus 5.5 | [@luckeyfaraday](https://x.com/luckeyfaraday) | 0:12 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2115459494163402987) |
 | [《Ember Vale》3D开放世界动作RPG对比](https://x.com/noclipepe/status/2117222592536789149) | Opus 5.5 / Fable 5.5 (preview) | [@noclipepe](https://x.com/noclipepe) | 0:48 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2117222592536789149) |
+| [飞机场景成本对比](https://x.com/EnvolDev/status/2122788867694858629) | Opus 5.5 | [@EnvolDev](https://x.com/EnvolDev) | 0:25 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2122788867694858629) |
 | [积木拼装汽车并驾驶测试](https://x.com/higgsfield_ai/status/2114860921579528689) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:23 | — |
 | [马里奥3D测试：Gemini 4 Argon对比Opus 5.5](https://x.com/luckeyfaraday/status/2110087305163854042) | Opus 5.5 / Sonnet 5.5 | [@luckeyfaraday](https://x.com/luckeyfaraday) | 0:24 | — |
 | [火箭发射场景对比](https://x.com/Bhavani_00007/status/2119902204320780676) | Opus 5.5 | [@Bhavani_00007](https://x.com/Bhavani_00007) | 0:25 | — |
@@ -337,6 +342,7 @@
 | [飞屋房子建模四模型对比测试](https://x.com/noclipepe/status/2121326233044537688) | Opus 5.5 | [@noclipepe](https://x.com/noclipepe) | 0:36 | — |
 | [纸张与织物变形效果对比](https://x.com/sakatayasha/status/2112827697030414461) | Opus 5.5 | [@sakatayasha](https://x.com/sakatayasha) | 0:06 | — |
 | [夜间列车模型基准对比](https://x.com/EnvolDev/status/2109317150980940047) | Sonnet 5.5 / Haiku 5.5 | [@EnvolDev](https://x.com/EnvolDev) | 0:25 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2109317150980940047) |
+| [GPT与Opus效果对比](https://x.com/rubenssoto_ai/status/2122793788087193650) | Opus 5.5 | [@rubenssoto_ai](https://x.com/rubenssoto_ai) | 0:30 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2122793788087193650) |
 | [飞行模拟器：Fable5对比Opus5.5](https://x.com/samuelrdt/status/2103420244018573385) | Opus 5.5 | [@samuelrdt](https://x.com/samuelrdt) | 2:01 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103420244018573385) |
 | [多模型火箭场景生成对比](https://x.com/Bhavani_00007/status/2110099864650702928) | Opus 5.5 | [@Bhavani_00007](https://x.com/Bhavani_00007) | 0:20 | — |
 | [可运转V8发动机CAD建模对比](https://x.com/devteamdrew/status/2109634337222414402) | Opus 5.5 | [@devteamdrew](https://x.com/devteamdrew) | 0:24 | — |
@@ -382,6 +388,7 @@
 | [Three.js 体素风日本庭园](https://x.com/vikktorrrre/status/2105955048018588084) | Opus 5.5 / Fable 5.5 (preview) | [@vikktorrrre](https://x.com/vikktorrrre) | 1:04 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2105955048018588084) |
 | [两款模型生成效果并排对比](https://x.com/Mr_Salio/status/2114805369167843330) | Opus 5.5 | [@Mr_Salio](https://x.com/Mr_Salio) | 0:32 | — |
 | [纸船海洋动画模型对比](https://x.com/ivanainai/status/2102502183891587378) | Opus 5.5 | [@ivanainai](https://x.com/ivanainai) | 0:24 | — |
+| [浮空岛三维网页应用](https://x.com/0xShoopy/status/2122695064304435566) | Opus 5.5 | [@0xShoopy](https://x.com/0xShoopy) | 0:22 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2122695064304435566) |
 | [果冻立方体太空港对比](https://x.com/vib3coded/status/2114132632166347208) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:18 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2114132632166347208) |
 | [3D建模物理效果对比](https://x.com/higgsfield_ai/status/2110421012542366141) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:30 | — |
 | [Blender 中组装火星车的模型对比](https://x.com/k1rallik/status/2112615679379616081) | Opus 5.5 | [@k1rallik](https://x.com/k1rallik) | 0:26 | — |
@@ -440,6 +447,7 @@
 | [全息材质渲染效果对比](https://x.com/higgsfield_ai/status/2110526612500623718) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:14 | — |
 | [同一提示词的3D飞船建模对比](https://x.com/marcthecreatorr/status/2121221667619852660) | Sonnet 5.5 | [@marcthecreatorr](https://x.com/marcthecreatorr) | 0:54 | — |
 | [埃菲尔铁塔建模对比](https://x.com/Bhavani_00007/status/2113749929395114129) | Opus 5.5 | [@Bhavani_00007](https://x.com/Bhavani_00007) | 0:15 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2113749929395114129) |
+| [高斯溅射世界模型对比](https://x.com/sshayahmet/status/2122778769597554693) | Opus 5.5 | [@sshayahmet](https://x.com/sshayahmet) | 0:20 | — |
 | [互动锦鲤池同题对比](https://x.com/vib3coded/status/2108926847442378848) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:15 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2108926847442378848) |
 | [夜间火车场景对比：Sonnet5.5与Opus5.5](https://x.com/EnvolDev/status/2105331703145443681) | Opus 5.5 / Sonnet 5.5 | [@EnvolDev](https://x.com/EnvolDev) | 0:25 | — |
 | [交互式3D眼球解剖模型对比](https://x.com/higgsfield_ai/status/2102536138884092185) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:20 | — |
@@ -500,6 +508,7 @@
 | [火箭发射模拟模型对比](https://x.com/RafaCrackYT/status/2112573104996089906) | Opus 5.5 | [@RafaCrackYT](https://x.com/RafaCrackYT) | 0:30 | — |
 | [低价模型阿尔卑斯飞行场景对比测试](https://x.com/EnvolDev/status/2112624894680645801) | Opus 5.5 / Sonnet 5.5 / Haiku 5.5 | [@EnvolDev](https://x.com/EnvolDev) | 0:25 | — |
 | [火光场景真实感对比](https://x.com/rubenssoto_ai/status/2120862767452414226) | Opus 5.5 | [@rubenssoto_ai](https://x.com/rubenssoto_ai) | 0:30 | — |
+| [Fawnbench三维建模对比](https://x.com/fawnunwrap/status/2122809542660825292) | Opus 5.5 | [@fawnunwrap](https://x.com/fawnunwrap) | 0:16 | — |
 | [3D像素艺术橱窗对比](https://x.com/AIMind_Ai/status/2119053573526901001) | Opus 5.5 / Fable 5.5 (preview) | [@AIMind_Ai](https://x.com/AIMind_Ai) | 0:20 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2119053573526901001) |
 | [Opus 5.5对比GPT-6 Astra背景生成](https://x.com/EnvolDev/status/2111115013398352298) | Opus 5.5 | [@EnvolDev](https://x.com/EnvolDev) | 0:25 | — |
 | [四模型对比：石制手压泵抽水](https://x.com/kinderlayer/status/2115039207856988553) | Opus 5.5 | [@kinderlayer](https://x.com/kinderlayer) | 0:13 | — |

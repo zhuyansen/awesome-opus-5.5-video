@@ -1,6 +1,6 @@
 # 产品广告
 
-共 280 个作品，其中 51 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 283 个作品，其中 51 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [应用发布视频制作流程](https://x.com/rileybrown/status/2119651130963537996) | Opus 5.5 | [@rileybrown](https://x.com/rileybrown) | 0:37 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2119651130963537996) |
 | [网页产品发布短片](https://x.com/nikhilbhima/status/2109019765134213540) | Opus 5.5 | [@nikhilbhima](https://x.com/nikhilbhima) | 0:44 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2109019765134213540) |
 | [重新设计的书籍网站](https://x.com/emollick/status/2114404221021778347) | Opus 5.5 | [@emollick](https://x.com/emollick) | 0:33 | — |
+| [海鲜市场品牌概念](https://x.com/nono_ai_archive/status/2122623281375133941) | Opus 5.5 | [@nono_ai_archive](https://x.com/nono_ai_archive) | 0:19 | — |
 | [产品改版展示视频](https://x.com/Groovy_HQ/status/2103597420873646509) | Opus 5.5 | [@Groovy_HQ](https://x.com/Groovy_HQ) | 0:15 | — |
 | [电影感产品发布影片](https://x.com/AbhinavXJ/status/2104805179401068964) | Sonnet 5.5 | [@AbhinavXJ](https://x.com/AbhinavXJ) | 1:40 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104805179401068964) |
 | [家具照片转3D室内设计应用](https://x.com/higgsfield_ai/status/2102618445489795448) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:32 | — |
@@ -174,6 +175,7 @@
 | [配乐自我介绍视频](https://x.com/mattn_jp/status/2103491383554445613) | Opus 5.5 | [@mattn_jp](https://x.com/mattn_jp) | 0:38 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103491383554445613) |
 | [DumbTV更新宣传视频](https://x.com/DevMuzzammil/status/2112227989685768653) | Opus 5.5 | [@DevMuzzammil](https://x.com/DevMuzzammil) | 0:31 | — |
 | [AI配音的自动化YouTube视频](https://x.com/thibaultbessonm/status/2103584854432514124) | Opus 5.5 | [@thibaultbessonm](https://x.com/thibaultbessonm) | 0:35 | — |
+| [Meta广告视频原型](https://x.com/tadako_ai/status/2122612440571756938) | Opus 5.5 | [@tadako_ai](https://x.com/tadako_ai) | 0:15 | — |
 | [用Opus5.5制作的网站](https://x.com/xevrion_the1/status/2103557513962745923) | Opus 5.5 | [@xevrion_the1](https://x.com/xevrion_the1) | 0:15 | — |
 | [Claude Duet宣传片重制版](https://x.com/AlchainHust/status/2113061393541050715) | Opus 5.5 | [@AlchainHust](https://x.com/AlchainHust) | 0:29 | — |
 | [Bluey语音控制Mac应用与3D打印盒](https://x.com/rileybrown/status/2107960241065263265) | Opus 5.5 | [@rileybrown](https://x.com/rileybrown) | 0:40 | — |
@@ -195,6 +197,7 @@
 | [非官方特斯拉Roadster广告](https://x.com/kevin_t_ngo/status/2111887585639624828) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 1:05 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2111887585639624828) |
 | [十条AI生成的UGC带货广告](https://x.com/jakecastilloooo/status/2112552356210778380) | Opus 5.5 | [@jakecastilloooo](https://x.com/jakecastilloooo) | 0:08 | — |
 | [宠物狗品牌概念设计](https://x.com/nono_ai_archive/status/2121551216329343363) | Opus 5.5 | [@nono_ai_archive](https://x.com/nono_ai_archive) | 0:29 | — |
+| [用参考图制作的动态网站](https://x.com/exploraX_/status/2122714974980116893) | Opus 5.5 | [@exploraX_](https://x.com/exploraX_) | 0:40 | — |
 | [明暗模式切换界面](https://x.com/Ben_escrito/status/2120531797008175491) | Opus 5.5 | [@Ben_escrito](https://x.com/Ben_escrito) | 0:49 | — |
 | [Chipper品牌动态广告](https://x.com/Aygramm_/status/2115759392192659746) | Opus 5.5 | [@Aygramm_](https://x.com/Aygramm_) | 0:30 | — |
 | [根据PDF指南一小时完成的作品](https://x.com/seeconvm/status/2116138303028138040) | Opus 5.5 | [@seeconvm](https://x.com/seeconvm) | 0:18 | — |
