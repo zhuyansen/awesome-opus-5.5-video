@@ -1,6 +1,6 @@
 # 3D worlds & simulations
 
-500 works, 112 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+502 works, 112 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -304,6 +304,7 @@
 | [Wordless visual of history's biggest scam](https://x.com/Kadiner_ir/status/2105910487015674058) | Opus 5.5 | [@Kadiner_ir](https://x.com/Kadiner_ir) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2105910487015674058) |
 | [Mechanical cobra teardown simulator](https://x.com/0x_mura/status/2116597286155542961) | Opus 5.5 | [@0x_mura](https://x.com/0x_mura) | 0:25 | — |
 | [Blender stress test animation](https://x.com/rileybrown/status/2111285052617445438) | Opus 5.5 | [@rileybrown](https://x.com/rileybrown) | 2:33 | — |
+| [Original Gundam first 3D draft](https://x.com/ChrisHKAI/status/2123061791299416339) | Opus 5.5 | [@ChrisHKAI](https://x.com/ChrisHKAI) | 0:52 | — |
 | [Animated scene with synced music and sound effects](https://x.com/chetaslua/status/2111087834329399635) | Opus 5.5 / Fable 5.5 (preview) | [@chetaslua](https://x.com/chetaslua) | 0:32 | — |
 | [Automated shorts production factory](https://x.com/Y0urDumble/status/2118038616257515823) | Opus 5.5 | [@Y0urDumble](https://x.com/Y0urDumble) | 0:21 | — |
 | [WebGPU swamp scene port](https://x.com/chetanankola/status/2117536810184438037) | Opus 5.5 | [@chetanankola](https://x.com/chetanankola) | 0:49 | — |
@@ -380,6 +381,7 @@
 | [Live car factory simulation](https://x.com/konstantinsaifo/status/2117523739222982867) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 0:30 | — |
 | [Rigged rowing-game character from a concept sheet](https://x.com/0xKense1/status/2117273092284112963) | Opus 5.5 | [@0xKense1](https://x.com/0xKense1) | 0:28 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2117273092284112963) |
 | [Open-source Gothic basilica 3D scene](https://x.com/TokenGremlin/status/2103145953859375539) | Opus 5.5 | [@TokenGremlin](https://x.com/TokenGremlin) | 1:54 | — |
+| [Interactive prismatic forms](https://x.com/nono_ai_archive/status/2122988750250901956) | Opus 5.5 | [@nono_ai_archive](https://x.com/nono_ai_archive) | 0:44 | — |
 | [Exploded robot hummingbird](https://x.com/0x_fokki/status/2119449808645607874) | Opus 5.5 | [@0x_fokki](https://x.com/0x_fokki) | 0:24 | — |
 | [Interactive dancer worldline time sculpture](https://x.com/techartist_/status/2114819625242529992) | Opus 5.5 | [@techartist_](https://x.com/techartist_) | 0:30 | — |
 | [3D jewelry brand visualization](https://x.com/HamidoFx1/status/2109603285938094545) | Opus 5.5 | [@HamidoFx1](https://x.com/HamidoFx1) | 0:10 | — |

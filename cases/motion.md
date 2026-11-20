@@ -1,6 +1,6 @@
 # Motion graphics & UI
 
-365 works, 94 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+367 works, 94 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Code-generated frame animation](https://x.com/LexnLin/status/2119558994352304202) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 0:37 | — |
 | [20 animation styles compilation](https://x.com/yasinozmeen/status/2104086740600254919) | Opus 5.5 | [@yasinozmeen](https://x.com/yasinozmeen) | 3:46 | — |
 | [Dot battle motion study](https://x.com/aicreataro/status/2106236856979607569) | Opus 5.5 | [@aicreataro](https://x.com/aicreataro) | 0:20 | — |
+| [Code-built visual effects sequence](https://x.com/Ssr360535694/status/2122934850407510386) | Opus 5.5 | [@Ssr360535694](https://x.com/Ssr360535694) | 0:15 | — |
 | [Graphic posts and animation from one prompt](https://x.com/nazmijavierl/status/2102712897701097828) | Opus 5.5 | [@nazmijavierl](https://x.com/nazmijavierl) | 0:16 | — |
 | [Violin score with animation](https://x.com/Hesamation/status/2103535326325055843) | Opus 5.5 | [@Hesamation](https://x.com/Hesamation) | 1:02 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103535326325055843) |
 | [Music-synced motion graphics](https://x.com/posi_posi8/status/2116102597572755766) | Opus 5.5 | [@posi_posi8](https://x.com/posi_posi8) | 1:39 | — |
@@ -223,6 +224,7 @@
 | [15-second motion designer showreel by @jasonzhou1993](https://x.com/jasonzhou1993/status/2103663364958515541) | Opus 5.5 | [@jasonzhou1993](https://x.com/jasonzhou1993) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103663364958515541) |
 | [Motion design piece with custom 3D models](https://x.com/MengTo/status/2103825139964227999) | Opus 5.5 | [@MengTo](https://x.com/MengTo) | 0:41 | — |
 | [Ideas turned into motion graphics](https://x.com/0xnicc0/status/2117231169301369311) | Opus 5.5 | [@0xnicc0](https://x.com/0xnicc0) | 0:14 | — |
+| [Three interactive card pack opening effects](https://x.com/Ayoubka_/status/2123075696717074493) | Opus 5.5 | [@Ayoubka_](https://x.com/Ayoubka_) | 0:17 | — |
 | [Lesmana template preloader animation](https://x.com/RalconStudio/status/2122302314476343667) | Opus 5.5 | [@RalconStudio](https://x.com/RalconStudio) | 0:09 | — |
 | [Pure code animation from a single prompt](https://x.com/PawelJLisowski/status/2117254471566622824) | Opus 5.5 / Fable 5.5 (preview) | [@PawelJLisowski](https://x.com/PawelJLisowski) | 1:17 | — |
 | [10-second motion showreel remake](https://x.com/mattiapomelli/status/2103757371357229129) | Opus 5.5 | [@mattiapomelli](https://x.com/mattiapomelli) | 0:10 | — |

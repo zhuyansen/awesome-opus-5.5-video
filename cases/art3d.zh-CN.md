@@ -1,6 +1,6 @@
 # 3D 场景
 
-共 500 个作品，其中 112 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 502 个作品，其中 112 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -304,6 +304,7 @@
 | [无文字呈现人类史上最大骗局的画面](https://x.com/Kadiner_ir/status/2105910487015674058) | Opus 5.5 | [@Kadiner_ir](https://x.com/Kadiner_ir) | 0:15 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2105910487015674058) |
 | [机械眼镜蛇拆解模拟器](https://x.com/0x_mura/status/2116597286155542961) | Opus 5.5 | [@0x_mura](https://x.com/0x_mura) | 0:25 | — |
 | [Blender压力测试动画](https://x.com/rileybrown/status/2111285052617445438) | Opus 5.5 | [@rileybrown](https://x.com/rileybrown) | 2:33 | — |
+| [元祖高达三维模型初稿](https://x.com/ChrisHKAI/status/2123061791299416339) | Opus 5.5 | [@ChrisHKAI](https://x.com/ChrisHKAI) | 0:52 | — |
 | [音乐与音效同步的动画场景](https://x.com/chetaslua/status/2111087834329399635) | Opus 5.5 / Fable 5.5 (preview) | [@chetaslua](https://x.com/chetaslua) | 0:32 | — |
 | [自动化短视频生产工厂](https://x.com/Y0urDumble/status/2118038616257515823) | Opus 5.5 | [@Y0urDumble](https://x.com/Y0urDumble) | 0:21 | — |
 | [WebGPU沼泽场景移植](https://x.com/chetanankola/status/2117536810184438037) | Opus 5.5 | [@chetanankola](https://x.com/chetanankola) | 0:49 | — |
@@ -380,6 +381,7 @@
 | [实时汽车工厂模拟场景](https://x.com/konstantinsaifo/status/2117523739222982867) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 0:30 | — |
 | [由概念设定图制作的划船游戏角色](https://x.com/0xKense1/status/2117273092284112963) | Opus 5.5 | [@0xKense1](https://x.com/0xKense1) | 0:28 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2117273092284112963) |
 | [开源哥特式大教堂3D场景](https://x.com/TokenGremlin/status/2103145953859375539) | Opus 5.5 | [@TokenGremlin](https://x.com/TokenGremlin) | 1:54 | — |
+| [棱镜形态互动视觉](https://x.com/nono_ai_archive/status/2122988750250901956) | Opus 5.5 | [@nono_ai_archive](https://x.com/nono_ai_archive) | 0:44 | — |
 | [可拆解的机器蜂鸟](https://x.com/0x_fokki/status/2119449808645607874) | Opus 5.5 | [@0x_fokki](https://x.com/0x_fokki) | 0:24 | — |
 | [舞者世界线时间雕塑互动作品](https://x.com/techartist_/status/2114819625242529992) | Opus 5.5 | [@techartist_](https://x.com/techartist_) | 0:30 | — |
 | [3D珠宝品牌展示](https://x.com/HamidoFx1/status/2109603285938094545) | Opus 5.5 | [@HamidoFx1](https://x.com/HamidoFx1) | 0:10 | — |

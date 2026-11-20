@@ -1,6 +1,6 @@
 # Explainers & education
 
-236 works, 58 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+237 works, 58 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [Gmail features explainer short](https://x.com/ClaudeCode_UT/status/2106958663525314769) | Opus 5.5 | [@ClaudeCode_UT](https://x.com/ClaudeCode_UT) | 0:32 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2106958663525314769) |
 | [Interactive US elections lesson](https://x.com/GabLattanzio/status/2117891574587908310) | Opus 5.5 | [@GabLattanzio](https://x.com/GabLattanzio) | 0:31 | — |
 | [3D bike brake mechanics explainer](https://x.com/RyanSael/status/2107111191210520608) | Opus 5.5 | [@RyanSael](https://x.com/RyanSael) | 0:40 | — |
+| [Documentary on the theft of the Mona Lisa](https://x.com/sarpstar/status/2123069314177613977) | Opus 5.5 | [@sarpstar](https://x.com/sarpstar) | 5:32 | — |
 | [Explainer video on Anthropic's S-1 filing highlights](https://x.com/tunguz/status/2114756330997055501) | Opus 5.5 | [@tunguz](https://x.com/tunguz) | 4:46 | — |
 | [Explainer video of 9 football rules](https://x.com/lukasersil/status/2105922894924501283) | Opus 5.5 | [@lukasersil](https://x.com/lukasersil) | 1:09 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2105922894924501283) |
 | [Seasons and day/night cycle explainer for kids](https://x.com/KashPrime/status/2103862007208591605) | Opus 5.5 | [@KashPrime](https://x.com/KashPrime) | 3:06 | — |

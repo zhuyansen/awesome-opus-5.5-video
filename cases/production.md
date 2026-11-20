@@ -1,6 +1,6 @@
 # Music, editing & production
 
-194 works, 32 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+195 works, 32 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [Neon glitch video treatment](https://x.com/aimikoda/status/2113344709682663503) | Opus 5.5 | [@aimikoda](https://x.com/aimikoda) | 0:07 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2113344709682663503) |
 | [Full 3D VTuber live music video](https://x.com/LidaMidorin/status/2118159125398061237) | Opus 5.5 | [@LidaMidorin](https://x.com/LidaMidorin) | 0:49 | — |
 | [Cinematic character video produced from an Android phone](https://x.com/bozzxyz/status/2113170819635609957) | Opus 5.5 | [@bozzxyz](https://x.com/bozzxyz) | 0:33 | — |
+| [Continuous tracking shot with 3D blocking](https://x.com/Kiber_Alla/status/2123196686839197817) | Opus 5.5 | [@Kiber_Alla](https://x.com/Kiber_Alla) | 0:30 | — |
 | [Multi-tool AI video production piece](https://x.com/MakeAI_CEO/status/2102955436957983065) | Opus 5.5 | [@MakeAI_CEO](https://x.com/MakeAI_CEO) | 9:28 | — |
 | [Battle scene video with edited combat HUD overlay](https://x.com/CHIBIKURO_QnQ/status/2113250911585980534) | Opus 5.5 | [@CHIBIKURO_QnQ](https://x.com/CHIBIKURO_QnQ) | 0:30 | — |
 | [2007 film trailer re-edited with Claude Opus](https://x.com/JoshDaws/status/2109982871209304334) | Opus 5.5 | [@JoshDaws](https://x.com/JoshDaws) | 2:21 | — |

@@ -1,6 +1,6 @@
 # Product demos & ads
 
-283 works, 51 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+284 works, 51 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -250,6 +250,7 @@
 | [AI compatibility quiz app](https://x.com/hituji_1234/status/2103088141439787502) | Opus 5.5 | [@hituji_1234](https://x.com/hituji_1234) | 0:51 | — |
 | [El Bibliotecario infinite library teaser](https://x.com/GuliMoreno/status/2111773991991943442) | Opus 5.5 | [@GuliMoreno](https://x.com/GuliMoreno) | 0:20 | — |
 | [Claymation-style ad for Remote Control feature](https://x.com/noahzweben/status/2103522997978255704) | Opus 5.5 | [@noahzweben](https://x.com/noahzweben) | 0:12 | — |
+| [Photo letter tool promotional video](https://x.com/Gimi_min/status/2122896130073854346) | Opus 5.5 | [@Gimi_min](https://x.com/Gimi_min) | 3:06 | — |
 | [Interactive frontend artifact](https://x.com/LexnLin/status/2106843514772639995) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 0:42 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2106843514772639995) |
 | [Flowith Canvas AI-made piece](https://x.com/DerekNee/status/2103729728549220815) | Opus 5.5 | [@DerekNee](https://x.com/DerekNee) | 0:45 | — |
 | [Claude introduction video](https://x.com/devteamdrew/status/2106155815707021549) | Fable 5.5 (preview) | [@devteamdrew](https://x.com/devteamdrew) | 0:30 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2106155815707021549) |

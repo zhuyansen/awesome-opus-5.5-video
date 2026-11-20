@@ -1,6 +1,6 @@
 # 科普讲解
 
-共 236 个作品，其中 58 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 237 个作品，其中 58 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [Gmail实用功能讲解短视频](https://x.com/ClaudeCode_UT/status/2106958663525314769) | Opus 5.5 | [@ClaudeCode_UT](https://x.com/ClaudeCode_UT) | 0:32 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2106958663525314769) |
 | [美国大选互动课程](https://x.com/GabLattanzio/status/2117891574587908310) | Opus 5.5 | [@GabLattanzio](https://x.com/GabLattanzio) | 0:31 | — |
 | [自行车刹车原理3D讲解](https://x.com/RyanSael/status/2107111191210520608) | Opus 5.5 | [@RyanSael](https://x.com/RyanSael) | 0:40 | — |
+| [《蒙娜丽莎》失窃事件纪录片](https://x.com/sarpstar/status/2123069314177613977) | Opus 5.5 | [@sarpstar](https://x.com/sarpstar) | 5:32 | — |
 | [Anthropic上市招股书要点解读视频](https://x.com/tunguz/status/2114756330997055501) | Opus 5.5 | [@tunguz](https://x.com/tunguz) | 4:46 | — |
 | [讲解9条足球规则的科普视频](https://x.com/lukasersil/status/2105922894924501283) | Opus 5.5 | [@lukasersil](https://x.com/lukasersil) | 1:09 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2105922894924501283) |
 | [给孩子讲解四季与昼夜循环的科普视频](https://x.com/KashPrime/status/2103862007208591605) | Opus 5.5 | [@KashPrime](https://x.com/KashPrime) | 3:06 | — |

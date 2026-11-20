@@ -1,6 +1,6 @@
 # Characters & stories
 
-255 works, 60 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+256 works, 60 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Night phone booth 3D text motion story](https://x.com/aicreataro/status/2110689292737749146) | Opus 5.5 | [@aicreataro](https://x.com/aicreataro) | 1:11 | — |
 | [Borges-inspired dual narrative short film](https://x.com/julianleiss/status/2108625504450592923) | Opus 5.5 | [@julianleiss](https://x.com/julianleiss) | 0:36 | — |
 | [What an AI dreams about between messages](https://x.com/Skoorbkaz/status/2103346477963550960) | Opus 5.5 | [@Skoorbkaz](https://x.com/Skoorbkaz) | 2:32 | — |
+| [Childhood Viking fleet battles a sea serpent](https://x.com/Linus_K_AI/status/2123007811722326104) | Opus 5.5 | [@Linus_K_AI](https://x.com/Linus_K_AI) | 1:20 | — |
 | [Tribute video one-shot creation](https://x.com/chetaslua/status/2102717699600368045) | Opus 5.5 | [@chetaslua](https://x.com/chetaslua) | 3:18 | — |
 | [Horror contest short film](https://x.com/Just_sharon7/status/2116089891746640371) | Opus 5.5 | [@Just_sharon7](https://x.com/Just_sharon7) | 0:30 | — |
 | [Harbour Mech Anime Short Rendered in Code](https://x.com/anstapnever/status/2118700618915397795) | Fable 5.5 (preview) | [@anstapnever](https://x.com/anstapnever) | 1:32 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2118700618915397795) |

@@ -3,8 +3,8 @@
  "model": "Claude 5.5 (Opus 5.5 · Sonnet 5.5 · Haiku 5.5 · Fable 5.5)",
  "inclusion_rule": "Original post by the creator, native video attached, >= 5000 views on that post, creator states it was made with Claude Opus 5.5, Sonnet 5.5, Haiku 5.5 or Fable 5.5 (Fable 5.5 is in limited preview, not yet announced). Later posts that embed another account's upload are excluded.",
  "views_threshold": 5000,
- "stats_checked_at": "2026-11-19T01:17:14.095Z",
- "updated_at": "2026-11-19T01:17:14.095Z",
+ "stats_checked_at": "2026-11-20T01:17:19.293Z",
+ "updated_at": "2026-11-20T01:17:19.293Z",
  "model_attribution": "As stated by each creator; not independently reproduced.",
  "cases": [
   {
@@ -10653,6 +10653,36 @@
    "resources": []
   },
   {
+   "id": "2122884312706043956",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "游戏衣柜与服装效果对比",
+    "en": "Game wardrobe and outfit comparison"
+   },
+   "creator": {
+    "handle": "0xorlau",
+    "name": "orlau"
+   },
+   "original_post_url": "https://x.com/0xorlau/status/2122884312706043956",
+   "posted_at": "2026-11-18T02:47:16.000Z",
+   "language": "en",
+   "duration_seconds": 10,
+   "views": 165355,
+   "likes": 1177,
+   "bookmarks": 502,
+   "views_checked_at": "2026-11-20T01:17:19.293Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2122884262831542272/img/dCHOrZP8Xk82m7gU.jpg",
+   "tools_reported": [
+    "GPT Astra"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2103386096411553888",
    "models": [
     "opus-5.5"
@@ -14071,6 +14101,36 @@
     "Seedance 2.0"
    ],
    "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2122934850407510386",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "motion",
+   "title": {
+    "zh": "代码构建的视觉特效短片",
+    "en": "Code-built visual effects sequence"
+   },
+   "creator": {
+    "handle": "Ssr360535694",
+    "name": "Kernel"
+   },
+   "original_post_url": "https://x.com/Ssr360535694/status/2122934850407510386",
+   "posted_at": "2026-11-18T06:08:05.000Z",
+   "language": "zh",
+   "duration_seconds": 15,
+   "views": 125613,
+   "likes": 1951,
+   "bookmarks": 1261,
+   "views_checked_at": "2026-11-20T01:17:19.293Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2122934713463476224/img/m4uY55yjB5O7DAdM.jpg",
+   "tools_reported": [
+    "Fable 5.2"
+   ],
+   "reference_assets": false,
    "prompt": null,
    "resources": []
   },
@@ -19150,6 +19210,37 @@
    "resources": []
   },
   {
+   "id": "2122879969420566740",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "植被与火焰场景效果对比",
+    "en": "Vegetation and fire scene comparison"
+   },
+   "creator": {
+    "handle": "rubenssoto_ai",
+    "name": "Rubens Soto | AI & SaaS"
+   },
+   "original_post_url": "https://x.com/rubenssoto_ai/status/2122879969420566740",
+   "posted_at": "2026-11-18T02:30:00.000Z",
+   "language": "en",
+   "duration_seconds": 30,
+   "views": 91438,
+   "likes": 381,
+   "bookmarks": 99,
+   "views_checked_at": "2026-11-20T01:17:19.293Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2122858751497498624/img/nIomLeoXh7po5igY.jpg",
+   "tools_reported": [
+    "GPT-6.2 Astra",
+    "Fable 5.2"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2103506875165859922",
    "models": [
     "opus-5.5"
@@ -23440,6 +23531,38 @@
    "resources": []
   },
   {
+   "id": "2123164032882659819",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "三款模型的Three.js场景测试",
+    "en": "Three.js scene test across three models"
+   },
+   "creator": {
+    "handle": "AI_Screening",
+    "name": "Pranav Reddy"
+   },
+   "original_post_url": "https://x.com/AI_Screening/status/2123164032882659819",
+   "posted_at": "2026-11-18T21:18:46.000Z",
+   "language": "en",
+   "duration_seconds": 14,
+   "views": 73127,
+   "likes": 350,
+   "bookmarks": 66,
+   "views_checked_at": "2026-11-20T01:17:19.293Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123163888606949376/img/RiY9cEZ3eFHE9CSV.jpg",
+   "tools_reported": [
+    "Gemini 4 Neon",
+    "Gemini 4 Carbon",
+    "Three.js"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2103188137220427958",
    "models": [
     "opus-5.5"
@@ -27506,6 +27629,47 @@
    ],
    "reference_assets": false,
    "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2122977741993660867",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "暴风雨中的灯塔场景对比",
+    "en": "Stormy lighthouse scene comparison"
+   },
+   "creator": {
+    "handle": "PawelJLisowski",
+    "name": "Paweł J Lisowski"
+   },
+   "original_post_url": "https://x.com/PawelJLisowski/status/2122977741993660867",
+   "posted_at": "2026-11-18T08:58:31.000Z",
+   "language": "en",
+   "duration_seconds": 10,
+   "views": 61004,
+   "likes": 201,
+   "bookmarks": 117,
+   "views_checked_at": "2026-11-20T01:17:19.293Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2122977463135334400/img/-uemnjv7cItmsetB.jpg",
+   "tools_reported": [
+    "Astra 6.2",
+    "Python",
+    "Blender",
+    "Fable 5.2",
+    "Sol 6.2",
+    "Tripo"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "brief",
+    "source": "post",
+    "source_url": "https://x.com/PawelJLisowski/status/2122977741993660867",
+    "length": 100,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2122977741993660867"
+   },
    "resources": []
   },
   {
@@ -40301,6 +40465,38 @@
    "resources": []
   },
   {
+   "id": "2123105267139383530",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "四镜头海岸风暴渲染对比",
+    "en": "Four-shot coastal storm rendering comparison"
+   },
+   "creator": {
+    "handle": "choopyplug1",
+    "name": "chuplung"
+   },
+   "original_post_url": "https://x.com/choopyplug1/status/2123105267139383530",
+   "posted_at": "2026-11-18T17:25:15.000Z",
+   "language": "en",
+   "duration_seconds": 24,
+   "views": 36893,
+   "likes": 144,
+   "bookmarks": 105,
+   "views_checked_at": "2026-11-20T01:17:19.293Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123105165033062400/img/GvyhRCp8QQ1ZPq1v.jpg",
+   "tools_reported": [
+    "Astra 6.2",
+    "Fable 5.2",
+    "Claude Code"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2105070161908957633",
    "models": [
     "opus-5.5"
@@ -42049,6 +42245,45 @@
    "tools_reported": [],
    "reference_assets": false,
    "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2123162596790718674",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "纽约披萨店落地页生成效果对比",
+    "en": "New York pizzeria landing page comparison"
+   },
+   "creator": {
+    "handle": "eliadele",
+    "name": "Elia De Leo"
+   },
+   "original_post_url": "https://x.com/eliadele/status/2123162596790718674",
+   "posted_at": "2026-11-18T21:13:04.000Z",
+   "language": "en",
+   "duration_seconds": 76,
+   "views": 34570,
+   "likes": 381,
+   "bookmarks": 77,
+   "views_checked_at": "2026-11-20T01:17:19.293Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123162533758644224/img/WKIblmM_gm5curf4.jpg",
+   "tools_reported": [
+    "OutputBench",
+    "Claude Fable 5.2",
+    "GPT-6.2 Astra",
+    "GPT-6.2 Sol"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "brief",
+    "source": "post",
+    "source_url": "https://x.com/eliadele/status/2123162596790718674",
+    "length": 82,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2123162596790718674"
+   },
    "resources": []
   },
   {
@@ -44782,6 +45017,39 @@
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110071272088403969/img/lg-_W08m60zA3b_y.jpg",
    "tools_reported": [
     "Gemini 4 Argon"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2123007811722326104",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "stories",
+   "title": {
+    "zh": "童年想象中的维京舰队大战海蛇",
+    "en": "Childhood Viking fleet battles a sea serpent"
+   },
+   "creator": {
+    "handle": "Linus_K_AI",
+    "name": "Linus Konetschnig"
+   },
+   "original_post_url": "https://x.com/Linus_K_AI/status/2123007811722326104",
+   "posted_at": "2026-11-18T10:58:00.000Z",
+   "language": "en",
+   "duration_seconds": 80,
+   "views": 30828,
+   "likes": 321,
+   "bookmarks": 223,
+   "views_checked_at": "2026-11-20T01:17:19.293Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123007496977633280/img/V7OvzpdT6Zf8eypR.jpg",
+   "tools_reported": [
+    "omp",
+    "fal",
+    "Seedance",
+    "Seedream"
    ],
    "reference_assets": false,
    "prompt": null,
@@ -55498,6 +55766,37 @@
    "resources": []
   },
   {
+   "id": "2123075696717074493",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "motion",
+   "title": {
+    "zh": "三种互动卡包开封特效",
+    "en": "Three interactive card pack opening effects"
+   },
+   "creator": {
+    "handle": "Ayoubka_",
+    "name": "Ayoub kada"
+   },
+   "original_post_url": "https://x.com/Ayoubka_/status/2123075696717074493",
+   "posted_at": "2026-11-18T15:27:45.000Z",
+   "language": "en",
+   "duration_seconds": 17,
+   "views": 21541,
+   "likes": 377,
+   "bookmarks": 491,
+   "views_checked_at": "2026-11-20T01:17:19.293Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123075615683190784/img/sOnc1O9BFxS34kue.jpg",
+   "tools_reported": [
+    "Figma",
+    "WebGL"
+   ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2103863167830876510",
    "models": [
     "opus-5.5"
@@ -56118,6 +56417,36 @@
    "resources": []
   },
   {
+   "id": "2123177347046355324",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "两款模型的生成效果对比",
+    "en": "Two-model output comparison"
+   },
+   "creator": {
+    "handle": "IndependentEco",
+    "name": "Eco"
+   },
+   "original_post_url": "https://x.com/IndependentEco/status/2123177347046355324",
+   "posted_at": "2026-11-18T22:11:40.000Z",
+   "language": "en",
+   "duration_seconds": 80,
+   "views": 21022,
+   "likes": 235,
+   "bookmarks": 35,
+   "views_checked_at": "2026-11-20T01:17:19.293Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123176976735195139/img/qlFQDzBuvQ1cwX8p.jpg",
+   "tools_reported": [
+    "Gemini 4 Neon"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2102746374450094323",
    "models": [
     "opus-5.5"
@@ -56474,6 +56803,38 @@
    "views_checked_at": "2026-11-16T10:43:30.012Z",
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2102485332616732672/img/HFWZKifnWCmxWBec.jpg",
    "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2123061791299416339",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "元祖高达三维模型初稿",
+    "en": "Original Gundam first 3D draft"
+   },
+   "creator": {
+    "handle": "ChrisHKAI",
+    "name": "Chris"
+   },
+   "original_post_url": "https://x.com/ChrisHKAI/status/2123061791299416339",
+   "posted_at": "2026-11-18T14:32:30.000Z",
+   "language": "zh",
+   "duration_seconds": 52,
+   "views": 20744,
+   "likes": 194,
+   "bookmarks": 58,
+   "views_checked_at": "2026-11-20T01:17:19.293Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123060934872870912/img/mBurWtLJZCnMLgSf.jpg",
+   "tools_reported": [
+    "Fable 5.2",
+    "Astra 6.2",
+    "Blender"
+   ],
    "reference_assets": false,
    "prompt": null,
    "resources": []
@@ -58544,6 +58905,39 @@
    "views_checked_at": "2026-11-16T10:43:30.012Z",
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2107109962237534208/img/8nucCwj4oDU6rOtt.jpg",
    "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2123069314177613977",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "education",
+   "title": {
+    "zh": "《蒙娜丽莎》失窃事件纪录片",
+    "en": "Documentary on the theft of the Mona Lisa"
+   },
+   "creator": {
+    "handle": "sarpstar",
+    "name": "sarpstar"
+   },
+   "original_post_url": "https://x.com/sarpstar/status/2123069314177613977",
+   "posted_at": "2026-11-18T15:02:23.000Z",
+   "language": "tr",
+   "duration_seconds": 332,
+   "views": 19608,
+   "likes": 182,
+   "bookmarks": 333,
+   "views_checked_at": "2026-11-20T01:17:19.293Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123055681032896512/img/m5mEszCVpj2Adm3L.jpg",
+   "tools_reported": [
+    "cinecode",
+    "Claude Code",
+    "Codex",
+    "ChatGPT"
+   ],
    "reference_assets": false,
    "prompt": null,
    "resources": []
@@ -69068,6 +69462,37 @@
    "resources": []
   },
   {
+   "id": "2122988750250901956",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "棱镜形态互动视觉",
+    "en": "Interactive prismatic forms"
+   },
+   "creator": {
+    "handle": "nono_ai_archive",
+    "name": "노노아카이브"
+   },
+   "original_post_url": "https://x.com/nono_ai_archive/status/2122988750250901956",
+   "posted_at": "2026-11-18T09:42:15.000Z",
+   "language": "ko",
+   "duration_seconds": 44,
+   "views": 13934,
+   "likes": 639,
+   "bookmarks": 296,
+   "views_checked_at": "2026-11-20T01:17:19.293Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2122988661038055424/img/-SBByxvWsz1a9LKT.jpg",
+   "tools_reported": [
+    "GPT",
+    "Midjourney"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2108595566578192759",
    "models": [
     "opus-5.5"
@@ -70747,6 +71172,37 @@
     "Godot"
    ],
    "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2123188460639117489",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "纽约城市三维场景对比",
+    "en": "New York City 3D scene comparison"
+   },
+   "creator": {
+    "handle": "aipulseda1ly",
+    "name": "aipulsedaily"
+   },
+   "original_post_url": "https://x.com/aipulseda1ly/status/2123188460639117489",
+   "posted_at": "2026-11-18T22:55:50.000Z",
+   "language": "en",
+   "duration_seconds": 25,
+   "views": 13274,
+   "likes": 132,
+   "bookmarks": 31,
+   "views_checked_at": "2026-11-20T01:17:19.293Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123188221945274368/img/weI-fRjSrDtDMmjz.jpg",
+   "tools_reported": [
+    "Gemini 4 Neon",
+    "Gemini 4 Carbon"
+   ],
+   "reference_assets": false,
    "prompt": null,
    "resources": []
   },
@@ -78253,6 +78709,38 @@
    "resources": []
   },
   {
+   "id": "2123091774520623462",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "风暴灯塔场景生成对比",
+    "en": "Stormbreak Lighthouse scene comparison"
+   },
+   "creator": {
+    "handle": "EnvolDev",
+    "name": "Tony"
+   },
+   "original_post_url": "https://x.com/EnvolDev/status/2123091774520623462",
+   "posted_at": "2026-11-18T16:31:38.000Z",
+   "language": "en",
+   "duration_seconds": 25,
+   "views": 10441,
+   "likes": 100,
+   "bookmarks": 45,
+   "views_checked_at": "2026-11-20T01:17:19.293Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123091637643706370/img/xjvObJxO7bsKUMF7.jpg",
+   "tools_reported": [
+    "GPT-6.2 Astra",
+    "GPT-6.2 Sol",
+    "Fable 5.2"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2103088141439787502",
    "models": [
     "opus-5.5"
@@ -79802,6 +80290,34 @@
     "length": 100,
     "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103520155640938565"
    },
+   "resources": []
+  },
+  {
+   "id": "2122896130073854346",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "product",
+   "title": {
+    "zh": "照片信件工具宣传片",
+    "en": "Photo letter tool promotional video"
+   },
+   "creator": {
+    "handle": "Gimi_min",
+    "name": "Gimi 米未可"
+   },
+   "original_post_url": "https://x.com/Gimi_min/status/2122896130073854346",
+   "posted_at": "2026-11-18T03:34:13.000Z",
+   "language": "zh",
+   "duration_seconds": 186,
+   "views": 9954,
+   "likes": 217,
+   "bookmarks": 161,
+   "views_checked_at": "2026-11-20T01:17:19.293Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2122888885554253824/img/PAWNMITQsbbYmAoL.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
    "resources": []
   },
   {
@@ -88485,6 +89001,38 @@
    "resources": []
   },
   {
+   "id": "2123196686839197817",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "production",
+   "title": {
+    "zh": "借助三维预演制作连续跟拍镜头",
+    "en": "Continuous tracking shot with 3D blocking"
+   },
+   "creator": {
+    "handle": "Kiber_Alla",
+    "name": "Kiber Alla"
+   },
+   "original_post_url": "https://x.com/Kiber_Alla/status/2123196686839197817",
+   "posted_at": "2026-11-18T23:28:31.000Z",
+   "language": "en",
+   "duration_seconds": 30,
+   "views": 6279,
+   "likes": 135,
+   "bookmarks": 136,
+   "views_checked_at": "2026-11-20T01:17:19.293Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123187908483989504/img/1QnoUoJjp7KkeKvM.jpg",
+   "tools_reported": [
+    "Seedance 2.5",
+    "Higgsfield",
+    "Suno"
+   ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2110423328016220179",
    "models": [
     "sonnet-5.5"
@@ -88980,6 +89528,36 @@
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2104684114473615360/img/cCb1fboVR373GGKE.jpg",
    "tools_reported": [
     "Three.js"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2123055984243511482",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "奔驰300 SL鸥翼车生成效果对比",
+    "en": "Mercedes-Benz 300 SL Gullwing build comparison"
+   },
+   "creator": {
+    "handle": "rubenssoto_ai",
+    "name": "Rubens Soto | AI & SaaS"
+   },
+   "original_post_url": "https://x.com/rubenssoto_ai/status/2123055984243511482",
+   "posted_at": "2026-11-18T14:09:25.000Z",
+   "language": "en",
+   "duration_seconds": 40,
+   "views": 5975,
+   "likes": 212,
+   "bookmarks": 26,
+   "views_checked_at": "2026-11-20T01:17:19.293Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123055805712748544/img/b_PrhWXnQI4p0Bni.jpg",
+   "tools_reported": [
+    "GPT-6.2 Astra"
    ],
    "reference_assets": false,
    "prompt": null,
@@ -89567,6 +90145,47 @@
     "source_url": "https://x.com/xat_t0b/status/2102581759733121421",
     "length": 9,
     "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102581759733121421"
+   },
+   "resources": []
+  },
+  {
+   "id": "2123083433744425116",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "西瓜果冻弹跳物理效果对比",
+    "en": "Watermelon jelly bounce physics comparison"
+   },
+   "creator": {
+    "handle": "vib3coded",
+    "name": "Vib3Coded"
+   },
+   "original_post_url": "https://x.com/vib3coded/status/2123083433744425116",
+   "posted_at": "2026-11-18T15:58:30.000Z",
+   "language": "en",
+   "duration_seconds": 17,
+   "views": 5689,
+   "likes": 100,
+   "bookmarks": 41,
+   "views_checked_at": "2026-11-20T01:17:19.293Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123083136955191296/img/KxxegxBlaZEy3eGS.jpg",
+   "tools_reported": [
+    "GPT-6.2 Astra",
+    "WebGPU",
+    "WGSL",
+    "JavaScript",
+    "CSS",
+    "HTML"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "full",
+    "source": "author_reply",
+    "source_url": "https://x.com/vib3coded/status/2123083512597070177",
+    "length": 4469,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2123083433744425116"
    },
    "resources": []
   },
