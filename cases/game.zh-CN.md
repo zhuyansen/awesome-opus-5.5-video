@@ -1,6 +1,6 @@
 # 游戏
 
-共 485 个作品，其中 63 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 487 个作品，其中 63 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -334,6 +334,7 @@
 | [HarbourLine 港口模拟游戏](https://x.com/BenjaminDEKR/status/2117042700872802448) | Opus 5.5 | [@BenjaminDEKR](https://x.com/BenjaminDEKR) | 0:30 | — |
 | [多个AI模型合作复刻经典游戏](https://x.com/ChrisGPT/status/2103561098930880952) | Opus 5.5 | [@ChrisGPT](https://x.com/ChrisGPT) | 0:36 | — |
 | [卖火柴的小女孩3D故事游戏](https://x.com/gengdaJ/status/2114350632215924921) | Opus 5.5 | [@gengdaJ](https://x.com/gengdaJ) | 1:37 | — |
+| [驾驶模拟器原型](https://x.com/korinVR/status/2123432180827508995) | Opus 5.5 | [@korinVR](https://x.com/korinVR) | 0:30 | — |
 | [二十四小时制作的原创游戏](https://x.com/violettaseki/status/2119240856981107074) | Opus 5.5 | [@violettaseki](https://x.com/violettaseki) | 0:55 | — |
 | [Kong Royale多人大逃杀](https://x.com/_MaxBlade/status/2111164202891059422) | Opus 5.5 | [@_MaxBlade](https://x.com/_MaxBlade) | 1:12 | — |
 | [大逃杀游戏原型](https://x.com/ruku_practice/status/2103099638517813292) | Opus 5.5 | [@ruku_practice](https://x.com/ruku_practice) | 0:49 | — |
@@ -427,6 +428,7 @@
 | [龙珠营救龟仙人海龟游戏关卡](https://x.com/aniketjart/status/2115710904021225589) | Opus 5.5 | [@aniketjart](https://x.com/aniketjart) | 0:43 | — |
 | [Roblox 游戏原型](https://x.com/JohnKlerAI/status/2118888042115277111) | Opus 5.5 | [@JohnKlerAI](https://x.com/JohnKlerAI) | 0:07 | — |
 | [程序化山脉飞行模拟器](https://x.com/cyrilXBT/status/2103737605510836371) | Opus 5.5 | [@cyrilXBT](https://x.com/cyrilXBT) | 0:15 | — |
+| [迈阿密开放世界游戏中的绑定角色](https://x.com/0xKense1/status/2123416266132058376) | Opus 5.5 | [@0xKense1](https://x.com/0xKense1) | 0:43 | — |
 | [游戏战斗画面开发中](https://x.com/FRIENDS73539897/status/2103675800277106751) | Opus 5.5 | [@FRIENDS73539897](https://x.com/FRIENDS73539897) | 0:42 | — |
 | [多人海边小镇NPC游戏](https://x.com/chongdashu/status/2108195439606681975) | Haiku 5.5 | [@chongdashu](https://x.com/chongdashu) | 0:42 | — |
 | [温馨钓鱼游戏原型](https://x.com/neviannn/status/2122655307780215056) | Opus 5.5 | [@neviannn](https://x.com/neviannn) | 1:17 | — |

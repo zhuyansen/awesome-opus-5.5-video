@@ -1,6 +1,6 @@
 # 科普讲解
 
-共 237 个作品，其中 58 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 238 个作品，其中 58 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [记忆系统可视化](https://x.com/RileyRalmuto/status/2106067156949520616) | Opus 5.5 | [@RileyRalmuto](https://x.com/RileyRalmuto) | 0:56 | — |
 | [浏览器工作原理讲解动画](https://x.com/DataChaz/status/2103020750060028222) | Opus 5.5 | [@DataChaz](https://x.com/DataChaz) | 0:40 | — |
 | [密码与通行密钥互动讲解视频](https://x.com/Tz_2022/status/2102838830285898214) | Opus 5.5 | [@Tz_2022](https://x.com/Tz_2022) | 4:09 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102838830285898214) |
+| [节奏游戏视觉训练视频](https://x.com/sk_bemani/status/2123341258294984927) | Opus 5.5 | [@sk_bemani](https://x.com/sk_bemani) | 0:31 | — |
 | [动物细胞生命过程图](https://x.com/kevin_t_ngo/status/2116423724379656329) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 0:44 | — |
 | [驱动蛋白粘土动画讲解](https://x.com/JacobMolBio/status/2102569129026916389) | Opus 5.5 | [@JacobMolBio](https://x.com/JacobMolBio) | 0:23 | — |
 | [燃气轮机历史讲解视频](https://x.com/Xaraphim/status/2103576037426917779) | Opus 5.5 | [@Xaraphim](https://x.com/Xaraphim) | 2:08 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103576037426917779) |

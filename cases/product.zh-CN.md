@@ -1,6 +1,6 @@
 # 产品广告
 
-共 284 个作品，其中 51 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 285 个作品，其中 51 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -196,6 +196,7 @@
 | [界面复刻演示](https://x.com/yyyole/status/2119439631330726244) | Opus 5.5 | [@yyyole](https://x.com/yyyole) | 0:14 | — |
 | [非官方特斯拉Roadster广告](https://x.com/kevin_t_ngo/status/2111887585639624828) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 1:05 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2111887585639624828) |
 | [十条AI生成的UGC带货广告](https://x.com/jakecastilloooo/status/2112552356210778380) | Opus 5.5 | [@jakecastilloooo](https://x.com/jakecastilloooo) | 0:08 | — |
+| [呼吁保留模型 API 的宣传视频](https://x.com/Sophty_/status/2123338829524586994) | Opus 5.5 | [@Sophty_](https://x.com/Sophty_) | 0:38 | — |
 | [宠物狗品牌概念设计](https://x.com/nono_ai_archive/status/2121551216329343363) | Opus 5.5 | [@nono_ai_archive](https://x.com/nono_ai_archive) | 0:29 | — |
 | [用参考图制作的动态网站](https://x.com/exploraX_/status/2122714974980116893) | Opus 5.5 | [@exploraX_](https://x.com/exploraX_) | 0:40 | — |
 | [明暗模式切换界面](https://x.com/Ben_escrito/status/2120531797008175491) | Opus 5.5 | [@Ben_escrito](https://x.com/Ben_escrito) | 0:49 | — |

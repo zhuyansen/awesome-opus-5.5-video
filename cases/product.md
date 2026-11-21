@@ -1,6 +1,6 @@
 # Product demos & ads
 
-284 works, 51 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+285 works, 51 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -196,6 +196,7 @@
 | [Replicated interface demo](https://x.com/yyyole/status/2119439631330726244) | Opus 5.5 | [@yyyole](https://x.com/yyyole) | 0:14 | — |
 | [Unofficial Tesla Roadster commercial](https://x.com/kevin_t_ngo/status/2111887585639624828) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 1:05 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2111887585639624828) |
 | [Ten AI-generated UGC product ads](https://x.com/jakecastilloooo/status/2112552356210778380) | Opus 5.5 | [@jakecastilloooo](https://x.com/jakecastilloooo) | 0:08 | — |
+| [Campaign video for preserving an API model](https://x.com/Sophty_/status/2123338829524586994) | Opus 5.5 | [@Sophty_](https://x.com/Sophty_) | 0:38 | — |
 | [Pet dog brand concept](https://x.com/nono_ai_archive/status/2121551216329343363) | Opus 5.5 | [@nono_ai_archive](https://x.com/nono_ai_archive) | 0:29 | — |
 | [Animated website built from a reference image](https://x.com/exploraX_/status/2122714974980116893) | Opus 5.5 | [@exploraX_](https://x.com/exploraX_) | 0:40 | — |
 | [Light and dark mode interfaces](https://x.com/Ben_escrito/status/2120531797008175491) | Opus 5.5 | [@Ben_escrito](https://x.com/Ben_escrito) | 0:49 | — |

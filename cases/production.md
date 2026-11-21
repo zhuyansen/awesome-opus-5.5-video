@@ -1,6 +1,6 @@
 # Music, editing & production
 
-195 works, 32 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+197 works, 32 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Talking-head video converted to line-art B-roll](https://x.com/AxtonLiu/status/2102827887732932956) | Opus 5.5 | [@AxtonLiu](https://x.com/AxtonLiu) | 1:24 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102827887732932956) |
 | [Radio-style video with AI voice and images](https://x.com/mmmiyama_D/status/2109603289939738813) | Opus 5.5 | [@mmmiyama_D](https://x.com/mmmiyama_D) | 1:36 | — |
 | [Single-prompt video edit with Opus and Blender](https://x.com/rileybrown/status/2111616349071913051) | Opus 5.5 | [@rileybrown](https://x.com/rileybrown) | 1:22 | — |
+| [AI-edited Instagram reel](https://x.com/naometzger/status/2123522798488539388) | Opus 5.5 | [@naometzger](https://x.com/naometzger) | 0:08 | — |
 | [High-energy code-made video edit](https://x.com/pleometric/status/2102804821623386523) | Opus 5.5 | [@pleometric](https://x.com/pleometric) | 0:23 | — |
 | [Drone footage reel about Srirangam](https://x.com/tnexplorer/status/2112880050706293081) | Opus 5.5 | [@tnexplorer](https://x.com/tnexplorer) | 0:57 | — |
 | [Opus 5.5 video production demo](https://x.com/dabit3/status/2103523033264656464) | Opus 5.5 | [@dabit3](https://x.com/dabit3) | 0:44 | — |
@@ -184,6 +185,7 @@
 | [Custom video editor app built with AI](https://x.com/SoyMrBro/status/2103135398226735139) | Opus 5.5 | [@SoyMrBro](https://x.com/SoyMrBro) | 0:31 | — |
 | [28-second short film](https://x.com/N01ennn/status/2112882581809025189) | Opus 5.5 | [@N01ennn](https://x.com/N01ennn) | 0:37 | — |
 | [Chinese diner cooking clip edited as comic book pages](https://x.com/aicreataro/status/2113252901405819014) | Opus 5.5 | [@aicreataro](https://x.com/aicreataro) | 0:30 | — |
+| [Sofia travel mini-vlog edit](https://x.com/yulikay/status/2123499388605808890) | Opus 5.5 | [@yulikay](https://x.com/yulikay) | 0:36 | — |
 | [Making-of video for Carla Botcoin music video](https://x.com/WalkerAmerica/status/2110825075729727875) | Opus 5.5 | [@WalkerAmerica](https://x.com/WalkerAmerica) | 1:01 | — |
 | [Common video editing effects showcase](https://x.com/liu8in/status/2111678979413598560) | Opus 5.5 | [@liu8in](https://x.com/liu8in) | 0:17 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2111678979413598560) |
 | [PCB design pipeline demo](https://x.com/VectorCrossProd/status/2109610532365857198) | Opus 5.5 | [@VectorCrossProd](https://x.com/VectorCrossProd) | 1:00 | — |

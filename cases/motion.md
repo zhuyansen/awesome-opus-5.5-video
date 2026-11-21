@@ -1,6 +1,6 @@
 # Motion graphics & UI
 
-367 works, 94 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+368 works, 94 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -313,6 +313,7 @@
 | [Motion design showreel exploring "overthinking"](https://x.com/gizakdag/status/2103566030916239768) | Opus 5.5 | [@gizakdag](https://x.com/gizakdag) | 0:15 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103566030916239768) |
 | [Extreme zoom motion design animation](https://x.com/0xkerazcity/status/2111456178173583792) | Opus 5.5 | [@0xkerazcity](https://x.com/0xkerazcity) | 0:27 | — |
 | [Animated visual piece](https://x.com/devteamdrew/status/2110156508097110075) | Opus 5.5 / Fable 5.5 (preview) | [@devteamdrew](https://x.com/devteamdrew) | 1:05 | — |
+| [Vector character animation using 3D poses](https://x.com/grmchn4ai/status/2123309958557278704) | Opus 5.5 | [@grmchn4ai](https://x.com/grmchn4ai) | 0:06 | — |
 | [AI-assisted motion graphics video](https://x.com/ai4everyday/status/2105715960220983304) | Opus 5.5 | [@ai4everyday](https://x.com/ai4everyday) | 0:10 | — |
 | [Pixel art effects for games](https://x.com/theMikaro/status/2116566344283898276) | Opus 5.5 | [@theMikaro](https://x.com/theMikaro) | 0:48 | — |
 | [Addictive motion graphic](https://x.com/nono_ai_archive/status/2119361788810875016) | Opus 5.5 | [@nono_ai_archive](https://x.com/nono_ai_archive) | 0:15 | — |

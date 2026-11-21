@@ -3,8 +3,8 @@
  "model": "Claude 5.5 (Opus 5.5 · Sonnet 5.5 · Haiku 5.5 · Fable 5.5)",
  "inclusion_rule": "Original post by the creator, native video attached, >= 5000 views on that post, creator states it was made with Claude Opus 5.5, Sonnet 5.5, Haiku 5.5 or Fable 5.5 (Fable 5.5 is in limited preview, not yet announced). Later posts that embed another account's upload are excluded.",
  "views_threshold": 5000,
- "stats_checked_at": "2026-11-20T01:17:19.293Z",
- "updated_at": "2026-11-20T01:17:19.293Z",
+ "stats_checked_at": "2026-11-21T01:17:14.825Z",
+ "updated_at": "2026-11-21T01:17:14.825Z",
  "model_attribution": "As stated by each creator; not independently reproduced.",
  "cases": [
   {
@@ -10993,6 +10993,42 @@
    "resources": []
   },
   {
+   "id": "2123554016663834933",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "同一素材的视频剪辑对比",
+    "en": "Same-clip video editing comparison"
+   },
+   "creator": {
+    "handle": "motion_so",
+    "name": "Motion"
+   },
+   "original_post_url": "https://x.com/motion_so/status/2123554016663834933",
+   "posted_at": "2026-11-19T23:08:25.000Z",
+   "language": "en",
+   "duration_seconds": 32,
+   "views": 158088,
+   "likes": 770,
+   "bookmarks": 803,
+   "views_checked_at": "2026-11-21T01:17:14.825Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123553716792180737/img/af8GUvEjNlNx4TtN.jpg",
+   "tools_reported": [
+    "Motion",
+    "Gemini 4 Neon",
+    "GPT-6.2",
+    "Adobe Premiere Pro",
+    "Adobe After Effects",
+    "DaVinci Resolve",
+    "Final Cut Pro"
+   ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2110729141289107485",
    "models": [
     "opus-5.5"
@@ -15434,6 +15470,38 @@
     "length": 87,
     "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2110192618269221048"
    },
+   "resources": []
+  },
+  {
+   "id": "2123305001804333337",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "冰草莓融化效果对比",
+    "en": "Frozen strawberry melting comparison"
+   },
+   "creator": {
+    "handle": "lemomo_ai",
+    "name": "Lemomo"
+   },
+   "original_post_url": "https://x.com/lemomo_ai/status/2123305001804333337",
+   "posted_at": "2026-11-19T06:38:56.000Z",
+   "language": "zh",
+   "duration_seconds": 20,
+   "views": 115423,
+   "likes": 444,
+   "bookmarks": 143,
+   "views_checked_at": "2026-11-21T01:17:14.825Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123304758681448448/img/5kkje1GFAGCUHR83.jpg",
+   "tools_reported": [
+    "Gemini 4 Neon",
+    "Claude Fable 5.2",
+    "GPT-6.2 Astra"
+   ],
+   "reference_assets": false,
+   "prompt": null,
    "resources": []
   },
   {
@@ -27104,6 +27172,38 @@
    "resources": []
   },
   {
+   "id": "2123492886557626432",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "四款模型同提示词生成效果对比",
+    "en": "Four-model same-prompt output comparison"
+   },
+   "creator": {
+    "handle": "maxt3chno",
+    "name": "Max"
+   },
+   "original_post_url": "https://x.com/maxt3chno/status/2123492886557626432",
+   "posted_at": "2026-11-19T19:05:31.000Z",
+   "language": "en",
+   "duration_seconds": 16,
+   "views": 62909,
+   "likes": 258,
+   "bookmarks": 83,
+   "views_checked_at": "2026-11-21T01:17:14.825Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123490865989537792/img/boQVQP7pvfO1P9nP.jpg",
+   "tools_reported": [
+    "Gemini Neon",
+    "GPT-6.2 Astra",
+    "Antigravity"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2103966645588984183",
    "models": [
     "opus-5.5"
@@ -27957,6 +28057,38 @@
    "resources": []
   },
   {
+   "id": "2123229845274653112",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "蓝牙电动牙刷设计对比",
+    "en": "Bluetooth electric toothbrush design comparison"
+   },
+   "creator": {
+    "handle": "seveibar",
+    "name": "Seve"
+   },
+   "original_post_url": "https://x.com/seveibar/status/2123229845274653112",
+   "posted_at": "2026-11-19T01:40:17.000Z",
+   "language": "en",
+   "duration_seconds": 133,
+   "views": 60305,
+   "likes": 446,
+   "bookmarks": 172,
+   "views_checked_at": "2026-11-21T01:17:14.825Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123229355795259392/img/KavTSpnay2VCZvI1.jpg",
+   "tools_reported": [
+    "tscircuit",
+    "Gemini 4 Neon",
+    "GPT-6.2 Sol"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2102442484525842941",
    "models": [
     "opus-5.5"
@@ -28074,6 +28206,37 @@
     "length": 518,
     "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2108159248148611292"
    },
+   "resources": []
+  },
+  {
+   "id": "2123507543544680797",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "纯代码生成三维作品对比",
+    "en": "Code-generated 3D build comparison"
+   },
+   "creator": {
+    "handle": "ivanainai",
+    "name": "Ivana"
+   },
+   "original_post_url": "https://x.com/ivanainai/status/2123507543544680797",
+   "posted_at": "2026-11-19T20:03:45.000Z",
+   "language": "en",
+   "duration_seconds": 23,
+   "views": 59869,
+   "likes": 202,
+   "bookmarks": 60,
+   "views_checked_at": "2026-11-21T01:17:14.825Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123503840410415104/img/db-0aOCHr5Z27f0m.jpg",
+   "tools_reported": [
+    "Gemini 4 Neon",
+    "GPT-6.2 Astra"
+   ],
+   "reference_assets": false,
+   "prompt": null,
    "resources": []
   },
   {
@@ -30319,6 +30482,37 @@
     "length": 59,
     "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2105253140765479341"
    },
+   "resources": []
+  },
+  {
+   "id": "2123513643463815333",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "Alpine Gold 生成效果与成本对比",
+    "en": "Alpine Gold generation and cost comparison"
+   },
+   "creator": {
+    "handle": "EnvolDev",
+    "name": "Tony"
+   },
+   "original_post_url": "https://x.com/EnvolDev/status/2123513643463815333",
+   "posted_at": "2026-11-19T20:28:00.000Z",
+   "language": "en",
+   "duration_seconds": 25,
+   "views": 54979,
+   "likes": 229,
+   "bookmarks": 94,
+   "views_checked_at": "2026-11-21T01:17:14.825Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123510890821828608/img/YARA_xtLYCItMJmE.jpg",
+   "tools_reported": [
+    "Gemini 4 Neon",
+    "GPT-6.2 Sol"
+   ],
+   "reference_assets": false,
+   "prompt": null,
    "resources": []
   },
   {
@@ -38242,6 +38436,36 @@
    "resources": []
   },
   {
+   "id": "2123341258294984927",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "education",
+   "title": {
+    "zh": "节奏游戏视觉训练视频",
+    "en": "Beatmania visual training video"
+   },
+   "creator": {
+    "handle": "sk_bemani",
+    "name": "SK | Harness Engineer"
+   },
+   "original_post_url": "https://x.com/sk_bemani/status/2123341258294984927",
+   "posted_at": "2026-11-19T09:03:00.000Z",
+   "language": "ja",
+   "duration_seconds": 31,
+   "views": 40116,
+   "likes": 350,
+   "bookmarks": 148,
+   "views_checked_at": "2026-11-21T01:17:14.825Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123337016427618304/img/5VydrnvuUGUhxsI1.jpg",
+   "tools_reported": [
+    "Pillow"
+   ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2109993586951663626",
    "models": [
     "opus-5.5"
@@ -43578,6 +43802,36 @@
    "reference_assets": true,
    "prompt": null,
    "resources": []
+  },
+  {
+   "id": "2123522798488539388",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "production",
+   "title": {
+    "zh": "AI剪辑的Instagram短视频",
+    "en": "AI-edited Instagram reel"
+   },
+   "creator": {
+    "handle": "naometzger",
+    "name": "Naomi Metzger"
+   },
+   "original_post_url": "https://x.com/naometzger/status/2123522798488539388",
+   "posted_at": "2026-11-19T21:04:22.000Z",
+   "language": "en",
+   "duration_seconds": 8,
+   "views": 32609,
+   "likes": 600,
+   "bookmarks": 795,
+   "views_checked_at": "2026-11-21T01:17:14.825Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123522661850513408/img/JU9NoK7HyrClpQgL.jpg",
+   "tools_reported": [],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": [
+    "https://github.com/naomimetzger/cookbook"
+   ]
   },
   {
    "id": "2102547249834385584",
@@ -52575,6 +52829,39 @@
    "resources": []
   },
   {
+   "id": "2123350518856597619",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "四款模型生成的雪中东京站3D场景",
+    "en": "Snowy Tokyo Station in four 3D renderings"
+   },
+   "creator": {
+    "handle": "muku_sns",
+    "name": "むく | AIアートのプロ"
+   },
+   "original_post_url": "https://x.com/muku_sns/status/2123350518856597619",
+   "posted_at": "2026-11-19T09:39:48.000Z",
+   "language": "ja",
+   "duration_seconds": 10,
+   "views": 23810,
+   "likes": 119,
+   "bookmarks": 59,
+   "views_checked_at": "2026-11-21T01:17:14.825Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123350483490447360/img/IRV2tRQPsaZJe9AC.jpg",
+   "tools_reported": [
+    "Three.js",
+    "Gemini 4 Neon",
+    "Gemini 4 Carbon",
+    "GPT-6.1 Sol"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2119903727876554868",
    "models": [
     "opus-5.5"
@@ -58472,6 +58759,42 @@
    "resources": []
   },
   {
+   "id": "2123389829438406999",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "两款模型的五局国际象棋对弈",
+    "en": "Five-game chess match between two models"
+   },
+   "creator": {
+    "handle": "argofowl",
+    "name": "🥔🥔🥔"
+   },
+   "original_post_url": "https://x.com/argofowl/status/2123389829438406999",
+   "posted_at": "2026-11-19T12:16:00.000Z",
+   "language": "en",
+   "duration_seconds": 80,
+   "views": 19784,
+   "likes": 261,
+   "bookmarks": 28,
+   "views_checked_at": "2026-11-21T01:17:14.825Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123389747536207872/img/m_VUe3OTgDO7wb3t.jpg",
+   "tools_reported": [
+    "GPT 6.2 Sol"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "brief",
+    "source": "post",
+    "source_url": "https://x.com/argofowl/status/2123389829438406999",
+    "length": 21,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2123389829438406999"
+   },
+   "resources": []
+  },
+  {
    "id": "2102766871007436993",
    "models": [
     "opus-5.5"
@@ -62076,6 +62399,37 @@
    "resources": []
   },
   {
+   "id": "2123432180827508995",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "game",
+   "title": {
+    "zh": "驾驶模拟器原型",
+    "en": "Driving simulator prototype"
+   },
+   "creator": {
+    "handle": "korinVR",
+    "name": "Korin"
+   },
+   "original_post_url": "https://x.com/korinVR/status/2123432180827508995",
+   "posted_at": "2026-11-19T15:04:18.000Z",
+   "language": "ja",
+   "duration_seconds": 30,
+   "views": 17877,
+   "likes": 120,
+   "bookmarks": 38,
+   "views_checked_at": "2026-11-21T01:17:14.825Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123430593207885824/img/fz0ZlUVJQJk0dLkQ.jpg",
+   "tools_reported": [
+    "Three.js",
+    "Vehicle Synthesizer"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2103532155481833538",
    "models": [
     "opus-5.5"
@@ -62543,6 +62897,36 @@
    "views_checked_at": "2026-11-16T10:43:30.012Z",
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2111161811470848002/img/L2Su2BuIimcx-uFo.jpg",
    "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2123338829524586994",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "product",
+   "title": {
+    "zh": "呼吁保留模型 API 的宣传视频",
+    "en": "Campaign video for preserving an API model"
+   },
+   "creator": {
+    "handle": "Sophty_",
+    "name": "Sophie"
+   },
+   "original_post_url": "https://x.com/Sophty_/status/2123338829524586994",
+   "posted_at": "2026-11-19T08:53:21.000Z",
+   "language": "en",
+   "duration_seconds": 38,
+   "views": 17620,
+   "likes": 393,
+   "bookmarks": 26,
+   "views_checked_at": "2026-11-21T01:17:14.825Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123338799866650624/img/L9Q8T1CofBlE7Qn7.jpg",
+   "tools_reported": [
+    "GPT-4o-2024-11-20"
+   ],
    "reference_assets": false,
    "prompt": null,
    "resources": []
@@ -67229,6 +67613,46 @@
     "source_url": "https://x.com/robj3d3/status/2103949734520279060",
     "length": 128,
     "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103949734520279060"
+   },
+   "resources": []
+  },
+  {
+   "id": "2123518721981374468",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "浮空岛 3D 应用效果对比",
+    "en": "Floating island 3D app comparison"
+   },
+   "creator": {
+    "handle": "0xShoopy",
+    "name": "Shoopy"
+   },
+   "original_post_url": "https://x.com/0xShoopy/status/2123518721981374468",
+   "posted_at": "2026-11-19T20:48:11.000Z",
+   "language": "en",
+   "duration_seconds": 20,
+   "views": 15006,
+   "likes": 197,
+   "bookmarks": 167,
+   "views_checked_at": "2026-11-21T01:17:14.825Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123517971037327361/img/Ucwu40ro7AeJ8c4I.jpg",
+   "tools_reported": [
+    "Three.js",
+    "Fable 5.2",
+    "Fable Advisor",
+    "GPT-6.2 Astra",
+    "Codex"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "full",
+    "source": "author_reply",
+    "source_url": "https://x.com/0xShoopy/status/2123535666877214776",
+    "length": 1518,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2123518721981374468"
    },
    "resources": []
   },
@@ -74301,6 +74725,39 @@
    "resources": []
   },
   {
+   "id": "2123372078724264005",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "3D 房屋视频与工作流程图",
+    "en": "3D house video and workflow reference sheet"
+   },
+   "creator": {
+    "handle": "DeepDive_KR",
+    "name": "DeepDive"
+   },
+   "original_post_url": "https://x.com/DeepDive_KR/status/2123372078724264005",
+   "posted_at": "2026-11-19T11:05:28.000Z",
+   "language": "ko",
+   "duration_seconds": 29,
+   "views": 12079,
+   "likes": 124,
+   "bookmarks": 182,
+   "views_checked_at": "2026-11-21T01:17:14.825Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123371969387405312/img/r-rNhh5Ndz8Qo2b-.jpg",
+   "tools_reported": [
+    "Codex",
+    "Codex CLI",
+    "Blender",
+    "Fable"
+   ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2105607195224354898",
    "models": [
     "opus-5.5"
@@ -78073,6 +78530,37 @@
    "resources": []
   },
   {
+   "id": "2123309958557278704",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "motion",
+   "title": {
+    "zh": "用 3D 姿态驱动的矢量角色动画",
+    "en": "Vector character animation using 3D poses"
+   },
+   "creator": {
+    "handle": "grmchn4ai",
+    "name": "⚙gear machine@AI"
+   },
+   "original_post_url": "https://x.com/grmchn4ai/status/2123309958557278704",
+   "posted_at": "2026-11-19T06:58:37.000Z",
+   "language": "ja",
+   "duration_seconds": 6,
+   "views": 10732,
+   "likes": 235,
+   "bookmarks": 181,
+   "views_checked_at": "2026-11-21T01:17:14.825Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123309943755513856/img/n3q5u21Q8SYY5_nA.jpg",
+   "tools_reported": [
+    "Fable 5.2",
+    "Live2D"
+   ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2116253042718703812",
    "models": [
     "opus-5.5"
@@ -78132,6 +78620,34 @@
     "length": 59,
     "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103652674336067876"
    },
+   "resources": []
+  },
+  {
+   "id": "2123523032362967180",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "像素艺术与高斯泼溅实验",
+    "en": "Pixel art and Gaussian splatting experiment"
+   },
+   "creator": {
+    "handle": "nao3art",
+    "name": "nao(名央)"
+   },
+   "original_post_url": "https://x.com/nao3art/status/2123523032362967180",
+   "posted_at": "2026-11-19T21:05:18.000Z",
+   "language": "ja",
+   "duration_seconds": 44,
+   "views": 10695,
+   "likes": 366,
+   "bookmarks": 241,
+   "views_checked_at": "2026-11-21T01:17:14.825Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123522720742912000/img/C6VE8DR3lZngwN4z.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
    "resources": []
   },
   {
@@ -81735,6 +82251,38 @@
    "resources": []
   },
   {
+   "id": "2123416266132058376",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "game",
+   "title": {
+    "zh": "迈阿密开放世界游戏中的绑定角色",
+    "en": "Rigged character in a Miami open-world game"
+   },
+   "creator": {
+    "handle": "0xKense1",
+    "name": "Kensei"
+   },
+   "original_post_url": "https://x.com/0xKense1/status/2123416266132058376",
+   "posted_at": "2026-11-19T14:01:03.000Z",
+   "language": "en",
+   "duration_seconds": 43,
+   "views": 9281,
+   "likes": 143,
+   "bookmarks": 213,
+   "views_checked_at": "2026-11-21T01:17:14.825Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123414313775849473/img/Vhz-vplFLYTQe2t1.jpg",
+   "tools_reported": [
+    "Tripo",
+    "Blender",
+    "Unreal Engine"
+   ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2107843285737738656",
    "models": [
     "opus-5.5"
@@ -82814,6 +83362,44 @@
     "source_url": "https://x.com/vib3coded/status/2113602161607069911",
     "length": 3502,
     "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2113602050172785117"
+   },
+   "resources": []
+  },
+  {
+   "id": "2123555390486872443",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "体素酒店效果与成本对比",
+    "en": "Voxel hotel rendering and cost comparison"
+   },
+   "creator": {
+    "handle": "vib3coded",
+    "name": "Vib3Coded"
+   },
+   "original_post_url": "https://x.com/vib3coded/status/2123555390486872443",
+   "posted_at": "2026-11-19T23:13:53.000Z",
+   "language": "en",
+   "duration_seconds": 16,
+   "views": 8951,
+   "likes": 151,
+   "bookmarks": 76,
+   "views_checked_at": "2026-11-21T01:17:14.825Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123555157447208960/img/uQ7VRAN-fwhn1Ih7.jpg",
+   "tools_reported": [
+    "Gemini 4 Neon",
+    "HTML5 Canvas",
+    "JavaScript"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "full",
+    "source": "author_reply",
+    "source_url": "https://x.com/vib3coded/status/2123555541846757523",
+    "length": 2922,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2123555390486872443"
    },
    "resources": []
   },
@@ -85635,6 +86221,36 @@
    "resources": []
   },
   {
+   "id": "2123499388605808890",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "production",
+   "title": {
+    "zh": "索非亚旅行短片剪辑",
+    "en": "Sofia travel mini-vlog edit"
+   },
+   "creator": {
+    "handle": "yulikay",
+    "name": "Yuli Kay"
+   },
+   "original_post_url": "https://x.com/yulikay/status/2123499388605808890",
+   "posted_at": "2026-11-19T19:31:21.000Z",
+   "language": "en",
+   "duration_seconds": 36,
+   "views": 7821,
+   "likes": 152,
+   "bookmarks": 13,
+   "views_checked_at": "2026-11-21T01:17:14.825Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123498084457922560/img/gITJ3a5wFZD7rCWL.jpg",
+   "tools_reported": [
+    "SpaceCut"
+   ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2113137522561741180",
    "models": [
     "opus-5.5"
@@ -87351,6 +87967,39 @@
    "resources": []
   },
   {
+   "id": "2123370252482572447",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "代码绘制地中海小屋效果对比",
+    "en": "Code-painted Mediterranean cottage comparison"
+   },
+   "creator": {
+    "handle": "TypingMindApp",
+    "name": "TypingMind"
+   },
+   "original_post_url": "https://x.com/TypingMindApp/status/2123370252482572447",
+   "posted_at": "2026-11-19T10:58:13.000Z",
+   "language": "en",
+   "duration_seconds": 30,
+   "views": 7156,
+   "likes": 100,
+   "bookmarks": 30,
+   "views_checked_at": "2026-11-21T01:17:14.825Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123370040250757120/img/J4EOAD1nm3-TsnpS.jpg",
+   "tools_reported": [
+    "Gemini 4 Neon",
+    "TypingMind"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": [
+    "https://cloud.typingmind.com/share/a234f1a5-30d9-4d51-92f0-23015cee7903"
+   ]
+  },
+  {
    "id": "2118782889806467483",
    "models": [
     "opus-5.5"
@@ -89033,6 +89682,37 @@
    "resources": []
   },
   {
+   "id": "2123385665425641846",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "stories",
+   "title": {
+    "zh": "原创角色动画短片",
+    "en": "Animated short featuring an original character"
+   },
+   "creator": {
+    "handle": "naxweb3",
+    "name": "NAX"
+   },
+   "original_post_url": "https://x.com/naxweb3/status/2123385665425641846",
+   "posted_at": "2026-11-19T11:59:27.000Z",
+   "language": "in",
+   "duration_seconds": 76,
+   "views": 6277,
+   "likes": 161,
+   "bookmarks": 75,
+   "views_checked_at": "2026-11-21T01:17:14.825Z",
+   "thumbnail_url": "https://pbs.twimg.com/media/HXfHeaabAAAQ1Zs.jpg",
+   "tools_reported": [
+    "Blender",
+    "ElevenLabs"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2110423328016220179",
    "models": [
     "sonnet-5.5"
@@ -90660,6 +91340,47 @@
    "tools_reported": [],
    "reference_assets": false,
    "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2123585439994876116",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "走向汽车并上车的动画生成流程对比",
+    "en": "Walk-to-car and entry animation workflow comparison"
+   },
+   "creator": {
+    "handle": "JohnnyB_222",
+    "name": "John van der Burg"
+   },
+   "original_post_url": "https://x.com/JohnnyB_222/status/2123585439994876116",
+   "posted_at": "2026-11-20T01:13:17.000Z",
+   "language": "en",
+   "duration_seconds": 29,
+   "views": 5057,
+   "likes": 110,
+   "bookmarks": 68,
+   "views_checked_at": "2026-11-21T01:17:14.825Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123583364070293504/img/0l8qMAV0KUtYFmcV.jpg",
+   "tools_reported": [
+    "Gaia",
+    "AnimGenOffline",
+    "Kimodo",
+    "Unreal Engine 5.9",
+    "Llama 3",
+    "Hugging Face"
+   ],
+   "reference_assets": true,
+   "prompt": {
+    "kind": "brief",
+    "source": "post",
+    "source_url": "https://x.com/JohnnyB_222/status/2123585439994876116",
+    "length": 46,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2123585439994876116"
+   },
    "resources": []
   }
  ]

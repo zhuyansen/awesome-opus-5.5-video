@@ -1,6 +1,6 @@
 # Characters & stories
 
-256 works, 60 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+257 works, 60 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -257,6 +257,7 @@
 | [Short film for kids coded in JavaScript](https://x.com/thebuggeddev/status/2103677413913976912) | Opus 5.5 | [@thebuggeddev](https://x.com/thebuggeddev) | 1:44 | — |
 | [Code-rendered anime short](https://x.com/zodchiii/status/2118363287738073343) | Fable 5.5 (preview) | [@zodchiii](https://x.com/zodchiii) | 1:23 | — |
 | [Anime-style video made entirely in code](https://x.com/makwanatejas170/status/2103703815514173697) | Opus 5.5 | [@makwanatejas170](https://x.com/makwanatejas170) | 1:20 | — |
+| [Animated short featuring an original character](https://x.com/naxweb3/status/2123385665425641846) | Opus 5.5 | [@naxweb3](https://x.com/naxweb3) | 1:16 | — |
 | [Minecraft-style 3D story animation](https://x.com/Aneeqxv/status/2120139373492764752) | Opus 5.5 | [@Aneeqxv](https://x.com/Aneeqxv) | 0:10 | — |
 | [Funny self-deprecating animation](https://x.com/xat_t0b/status/2102581759733121421) | Opus 5.5 | [@xat_t0b](https://x.com/xat_t0b) | 0:30 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102581759733121421) |
 | [AI-built painting engine music video](https://x.com/SanjanaBandara/status/2103574159255318549) | Opus 5.5 | [@SanjanaBandara](https://x.com/SanjanaBandara) | 1:00 | — |

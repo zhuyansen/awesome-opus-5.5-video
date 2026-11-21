@@ -1,6 +1,6 @@
 # Explainers & education
 
-237 works, 58 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+238 works, 58 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Memory system visualization](https://x.com/RileyRalmuto/status/2106067156949520616) | Opus 5.5 | [@RileyRalmuto](https://x.com/RileyRalmuto) | 0:56 | — |
 | [How browsers work explainer animation](https://x.com/DataChaz/status/2103020750060028222) | Opus 5.5 | [@DataChaz](https://x.com/DataChaz) | 0:40 | — |
 | [Password vs passkey interactive explainer](https://x.com/Tz_2022/status/2102838830285898214) | Opus 5.5 | [@Tz_2022](https://x.com/Tz_2022) | 4:09 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102838830285898214) |
+| [Beatmania visual training video](https://x.com/sk_bemani/status/2123341258294984927) | Opus 5.5 | [@sk_bemani](https://x.com/sk_bemani) | 0:31 | — |
 | [Animal cell life diagram](https://x.com/kevin_t_ngo/status/2116423724379656329) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 0:44 | — |
 | [Kinesin motor protein claymation](https://x.com/JacobMolBio/status/2102569129026916389) | Opus 5.5 | [@JacobMolBio](https://x.com/JacobMolBio) | 0:23 | — |
 | [History of gas turbines explainer](https://x.com/Xaraphim/status/2103576037426917779) | Opus 5.5 | [@Xaraphim](https://x.com/Xaraphim) | 2:08 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103576037426917779) |

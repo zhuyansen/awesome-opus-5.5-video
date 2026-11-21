@@ -1,6 +1,6 @@
 # 3D worlds & simulations
 
-502 works, 112 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+504 works, 112 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -411,6 +411,7 @@
 | [Fictional rocket CAD drawings and launch animation](https://x.com/Ayu_AI_0912/status/2109515393220083912) | Opus 5.5 | [@Ayu_AI_0912](https://x.com/Ayu_AI_0912) | 0:24 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2109515393220083912) |
 | [Sliceable jelly watermelon physics toy](https://x.com/vib3coded/status/2112638127483343162) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:17 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2112638127483343162) |
 | [Lanternweb Matriarch 3D character](https://x.com/theparuchh/status/2116920743392907274) | Opus 5.5 | [@theparuchh](https://x.com/theparuchh) | 0:49 | — |
+| [3D house video and workflow reference sheet](https://x.com/DeepDive_KR/status/2123372078724264005) | Opus 5.5 | [@DeepDive_KR](https://x.com/DeepDive_KR) | 0:29 | — |
 | [Rendered objects with subsurface scattering](https://x.com/trymirage/status/2118436517383492006) | Opus 5.5 | [@trymirage](https://x.com/trymirage) | 0:25 | — |
 | [Logistics palletizing robot simulation](https://x.com/neka_nat/status/2103728863666896933) | Opus 5.5 | [@neka_nat](https://x.com/neka_nat) | 0:26 | — |
 | [Browser sky and cloud rendering project](https://x.com/maxt3chno/status/2110832228775371226) | Opus 5.5 | [@maxt3chno](https://x.com/maxt3chno) | 1:39 | — |
@@ -434,6 +435,7 @@
 | [3D scene built with Three.js](https://x.com/i2cjak/status/2110474945704903065) | Opus 5.5 | [@i2cjak](https://x.com/i2cjak) | 1:31 | — |
 | [Interactive jelly octopus soft-body study](https://x.com/vib3coded/status/2115173334031737112) | Opus 5.5 / Fable 5.5 (preview) | [@vib3coded](https://x.com/vib3coded) | 0:17 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2115173334031737112) |
 | [3D space generated from a single image](https://x.com/onofumi_AI/status/2112519702987854162) | Opus 5.5 | [@onofumi_AI](https://x.com/onofumi_AI) | 0:17 | — |
+| [Pixel art and Gaussian splatting experiment](https://x.com/nao3art/status/2123523032362967180) | Opus 5.5 | [@nao3art](https://x.com/nao3art) | 0:44 | — |
 | [Interactive plasma globe desktop wallpaper](https://x.com/chaseleantj/status/2104669620871536998) | Sonnet 5.5 | [@chaseleantj](https://x.com/chaseleantj) | 0:15 | — |
 | [Endless procedural tram ride through Lisbon](https://x.com/thebuggeddev/status/2103465304039076319) | Opus 5.5 | [@thebuggeddev](https://x.com/thebuggeddev) | 0:53 | — |
 | [3D wax seal stamp](https://x.com/thebuggeddev/status/2113469231308382333) | Opus 5.5 | [@thebuggeddev](https://x.com/thebuggeddev) | 0:55 | — |

@@ -1,6 +1,6 @@
 # Games
 
-485 works, 63 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+487 works, 63 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -334,6 +334,7 @@
 | [HarbourLine port simulation game](https://x.com/BenjaminDEKR/status/2117042700872802448) | Opus 5.5 | [@BenjaminDEKR](https://x.com/BenjaminDEKR) | 0:30 | — |
 | [Classic game recreation by multiple AI models](https://x.com/ChrisGPT/status/2103561098930880952) | Opus 5.5 | [@ChrisGPT](https://x.com/ChrisGPT) | 0:36 | — |
 | [Match Girl 3D story game](https://x.com/gengdaJ/status/2114350632215924921) | Opus 5.5 | [@gengdaJ](https://x.com/gengdaJ) | 1:37 | — |
+| [Driving simulator prototype](https://x.com/korinVR/status/2123432180827508995) | Opus 5.5 | [@korinVR](https://x.com/korinVR) | 0:30 | — |
 | [Original game built in 24 hours](https://x.com/violettaseki/status/2119240856981107074) | Opus 5.5 | [@violettaseki](https://x.com/violettaseki) | 0:55 | — |
 | [Kong Royale multiplayer battle royale](https://x.com/_MaxBlade/status/2111164202891059422) | Opus 5.5 | [@_MaxBlade](https://x.com/_MaxBlade) | 1:12 | — |
 | [Battle royale game prototype](https://x.com/ruku_practice/status/2103099638517813292) | Opus 5.5 | [@ruku_practice](https://x.com/ruku_practice) | 0:49 | — |
@@ -427,6 +428,7 @@
 | [Dragon Ball turtle rescue game level](https://x.com/aniketjart/status/2115710904021225589) | Opus 5.5 | [@aniketjart](https://x.com/aniketjart) | 0:43 | — |
 | [Roblox game prototype](https://x.com/JohnKlerAI/status/2118888042115277111) | Opus 5.5 | [@JohnKlerAI](https://x.com/JohnKlerAI) | 0:07 | — |
 | [Procedural mountain flight simulator](https://x.com/cyrilXBT/status/2103737605510836371) | Opus 5.5 | [@cyrilXBT](https://x.com/cyrilXBT) | 0:15 | — |
+| [Rigged character in a Miami open-world game](https://x.com/0xKense1/status/2123416266132058376) | Opus 5.5 | [@0xKense1](https://x.com/0xKense1) | 0:43 | — |
 | [Game battle screen in development](https://x.com/FRIENDS73539897/status/2103675800277106751) | Opus 5.5 | [@FRIENDS73539897](https://x.com/FRIENDS73539897) | 0:42 | — |
 | [Multiplayer seaside town game with NPCs](https://x.com/chongdashu/status/2108195439606681975) | Haiku 5.5 | [@chongdashu](https://x.com/chongdashu) | 0:42 | — |
 | [Cozy fishing game prototype](https://x.com/neviannn/status/2122655307780215056) | Opus 5.5 | [@neviannn](https://x.com/neviannn) | 1:17 | — |
