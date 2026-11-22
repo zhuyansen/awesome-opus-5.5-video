@@ -1,6 +1,6 @@
 # 动效设计
 
-共 368 个作品，其中 94 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 369 个作品，其中 94 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [依参考视频复刻的动态设计](https://x.com/gxjo_dev/status/2108632470551933011) | Opus 5.5 | [@gxjo_dev](https://x.com/gxjo_dev) | 0:19 | — |
 | [MagnatesMedia风格三维视差动画](https://x.com/trymirage/status/2116195377259106570) | Opus 5.5 | [@trymirage](https://x.com/trymirage) | 0:26 | — |
 | [Vox风格纪录短片：Remotion与自制技能对比](https://x.com/naometzger/status/2117391948348817828) | Opus 5.5 | [@naometzger](https://x.com/naometzger) | 0:28 | — |
+| [基于技能构建的动态界面](https://x.com/saluiux/status/2123752991694205295) | Opus 5.5 | [@saluiux](https://x.com/saluiux) | 0:14 | — |
 | [从玻璃球中飞出的鸟群](https://x.com/HBCoop_/status/2107139305324122491) | Opus 5.5 | [@HBCoop_](https://x.com/HBCoop_) | 0:29 | — |
 | [雨滴氢键微观动画](https://x.com/0xkerazcity/status/2112187184858145200) | Opus 5.5 | [@0xkerazcity](https://x.com/0xkerazcity) | 0:27 | — |
 | [监控风格人物分析动图](https://x.com/aimikoda/status/2112590477144797190) | Opus 5.5 | [@aimikoda](https://x.com/aimikoda) | 0:15 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2112590477144797190) |

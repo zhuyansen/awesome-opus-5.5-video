@@ -1,6 +1,6 @@
 # Music, editing & production
 
-197 works, 32 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+198 works, 32 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Bitcoin-themed video edit made in code](https://x.com/skwp/status/2103093628230873415) | Opus 5.5 | [@skwp](https://x.com/skwp) | 0:41 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103093628230873415) |
 | [Satoru Gojo AMV from still images and music](https://x.com/aimikoda/status/2114745463736082828) | Opus 5.5 | [@aimikoda](https://x.com/aimikoda) | 0:33 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2114745463736082828) |
 | [AI image detail-fixing skill demo](https://x.com/higgsfield_ai/status/2103518041908908250) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:05 | — |
+| [Custom video editing tool built with Remotion](https://x.com/nerikeshi_k/status/2123783641088327940) | Opus 5.5 | [@nerikeshi_k](https://x.com/nerikeshi_k) | 1:05 | — |
 | [GTA 6 themed video edit](https://x.com/facetagramai/status/2122281778140557707) | Opus 5.5 | [@facetagramai](https://x.com/facetagramai) | 1:01 | — |
 | [Game trailer edited from still images](https://x.com/yugen_matuni/status/2103621917785862229) | Opus 5.5 | [@yugen_matuni](https://x.com/yugen_matuni) | 3:04 | — |
 | [After Effects automated edit demo](https://x.com/fumanpnp/status/2102990349098799471) | Opus 5.5 | [@fumanpnp](https://x.com/fumanpnp) | 0:24 | — |

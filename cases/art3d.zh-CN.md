@@ -1,6 +1,6 @@
 # 3D 场景
 
-共 504 个作品，其中 112 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 507 个作品，其中 112 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -236,6 +236,7 @@
 | [可自由漫游的电影感 3D 世界](https://x.com/LexnLin/status/2103194052850241739) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 1:24 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103194052850241739) |
 | [2.5D像素风雨中庭院场景](https://x.com/KanaWorks_AI/status/2102801635638673762) | Opus 5.5 | [@KanaWorks_AI](https://x.com/KanaWorks_AI) | 0:57 | — |
 | [风暴中的油井与怪兽场景](https://x.com/Guronnimo/status/2116503955119255977) | Opus 5.5 | [@Guronnimo](https://x.com/Guronnimo) | 0:24 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2116503955119255977) |
+| [基于物理渲染的浏览器游戏场景](https://x.com/rewind02/status/2123745767286276410) | Opus 5.5 | [@rewind02](https://x.com/rewind02) | 0:22 | — |
 | [互动公寓场景](https://x.com/MengTo/status/2120316203738829180) | Opus 5.5 | [@MengTo](https://x.com/MengTo) | 0:52 | — |
 | [在 Blender 中复刻的游戏预告片](https://x.com/MengTo/status/2121614786245104107) | Opus 5.5 | [@MengTo](https://x.com/MengTo) | 0:57 | — |
 | [实时光线追踪球体WebGL演示](https://x.com/akiy_8/status/2103434383218872503) | Opus 5.5 | [@akiy_8](https://x.com/akiy_8) | 0:15 | — |
@@ -447,6 +448,7 @@
 | [冰霜堡垒奇幻场景](https://x.com/vib3coded/status/2116533061495947270) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:12 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2116533061495947270) |
 | [通过AI工作流制作的鱼架模型](https://x.com/ForkedPush/status/2112565571585712627) | Opus 5.5 | [@ForkedPush](https://x.com/ForkedPush) | 0:28 | — |
 | [3D 打印机模型](https://x.com/MrTacticalX/status/2121565804374180344) | Opus 5.5 | [@MrTacticalX](https://x.com/MrTacticalX) | 0:42 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2121565804374180344) |
+| [Blender 三维达摩角色模型](https://x.com/fe_yukichi/status/2123613656009392338) | Opus 5.5 | [@fe_yukichi](https://x.com/fe_yukichi) | 0:21 | — |
 | [3D空间测试场景](https://x.com/studio_veco/status/2102650069136933039) | Opus 5.5 | [@studio_veco](https://x.com/studio_veco) | 0:51 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102650069136933039) |
 | [互动光学错觉盒](https://x.com/ann_nnng/status/2119042707943494127) | Opus 5.5 | [@ann_nnng](https://x.com/ann_nnng) | 0:21 | — |
 | [汉堡市政厅程序化3D重建](https://x.com/rewind02/status/2107843285737738656) | Opus 5.5 | [@rewind02](https://x.com/rewind02) | 1:26 | — |
@@ -507,4 +509,5 @@
 | [泵送机油的机械心脏剖面动画](https://x.com/camperaigg/status/2118002649929056373) | Fable 5.5 (preview) | [@camperaigg](https://x.com/camperaigg) | 0:30 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2118002649929056373) |
 | [骑马宇航员SVG图形](https://x.com/dummerspast39/status/2112490492684296664) | Fable 5.5 (preview) | [@dummerspast39](https://x.com/dummerspast39) | 0:15 | — |
 | [斑马奔跑动画](https://x.com/AI_Screening/status/2115845754468356465) | Fable 5.5 (preview) | [@AI_Screening](https://x.com/AI_Screening) | 0:27 | — |
+| [大规模军团实时路径追踪渲染](https://x.com/wizardbrainz/status/2123935773561094149) | Opus 5.5 | [@wizardbrainz](https://x.com/wizardbrainz) | 1:46 | — |
 | [超级智能时代场景](https://x.com/HarshithLucky3/status/2105765253799903602) | Fable 5.5 (preview) | [@HarshithLucky3](https://x.com/HarshithLucky3) | 0:40 | — |

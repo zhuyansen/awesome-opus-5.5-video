@@ -1,6 +1,6 @@
 # 产品广告
 
-共 285 个作品，其中 51 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 287 个作品，其中 51 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -219,6 +219,7 @@
 | [液态玻璃网页首屏](https://x.com/viktoroddy/status/2106061619176620344) | Opus 5.5 | [@viktoroddy](https://x.com/viktoroddy) | 12:52 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2106061619176620344) |
 | [房地产广告动效](https://x.com/alfageeh9/status/2103771626395357203) | Opus 5.5 | [@alfageeh9](https://x.com/alfageeh9) | 0:30 | — |
 | [浏览器渲染的瓶身设计](https://x.com/AmirMushich/status/2118800755595292961) | Opus 5.5 | [@AmirMushich](https://x.com/AmirMushich) | 0:21 | — |
+| [虚构化妆品广告短片](https://x.com/tadako_ai/status/2123728056699224538) | Opus 5.5 | [@tadako_ai](https://x.com/tadako_ai) | 0:11 | — |
 | [无广告流媒体平台克隆](https://x.com/0x0SojalSec/status/2110110952008069345) | Opus 5.5 | [@0x0SojalSec](https://x.com/0x0SojalSec) | 0:23 | — |
 | [人工智能突破展示](https://x.com/devteamdrew/status/2113761947325702324) | Opus 5.5 | [@devteamdrew](https://x.com/devteamdrew) | 1:05 | — |
 | [房车旅行规划交互地图](https://x.com/Skylartkitchen/status/2103591755564085589) | Opus 5.5 | [@Skylartkitchen](https://x.com/Skylartkitchen) | 0:30 | — |
@@ -276,6 +277,7 @@
 | [安卓版达芬奇调色风格应用](https://x.com/4k_isn/status/2110398564610523199) | Opus 5.5 | [@4k_isn](https://x.com/4k_isn) | 1:42 | — |
 | [15秒动效展示片](https://x.com/AntSeed/status/2104659402007703925) | Sonnet 5.5 | [@AntSeed](https://x.com/AntSeed) | 0:15 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104659402007703925) |
 | [粉丝站宣传视频](https://x.com/nek0n0tem0/status/2103637250420658403) | Opus 5.5 | [@nek0n0tem0](https://x.com/nek0n0tem0) | 0:15 | — |
+| [与设计师协作构建的产品界面](https://x.com/Tanjim38/status/2123752535106158980) | Opus 5.5 | [@Tanjim38](https://x.com/Tanjim38) | 0:44 | — |
 | [用自定义Skill生成产品宣传片](https://x.com/berryxia/status/2103419787565216023) | Opus 5.5 | [@berryxia](https://x.com/berryxia) | 1:01 | — |
 | [自动生成的新功能演示视频](https://x.com/okkshitij/status/2103570489071608061) | Opus 5.5 | [@okkshitij](https://x.com/okkshitij) | 0:37 | — |
 | [海外剧集介绍视频](https://x.com/hAru_mAki_ch/status/2103789217147240824) | Opus 5.5 | [@hAru_mAki_ch](https://x.com/hAru_mAki_ch) | 0:15 | — |

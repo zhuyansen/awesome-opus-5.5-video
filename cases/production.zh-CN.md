@@ -1,6 +1,6 @@
 # 制作流程
 
-共 197 个作品，其中 32 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 198 个作品，其中 32 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [用代码制作的比特币主题剪辑](https://x.com/skwp/status/2103093628230873415) | Opus 5.5 | [@skwp](https://x.com/skwp) | 0:41 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103093628230873415) |
 | [用静态图和音乐制作的五条悟动漫混剪](https://x.com/aimikoda/status/2114745463736082828) | Opus 5.5 | [@aimikoda](https://x.com/aimikoda) | 0:33 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2114745463736082828) |
 | [AI图像细节修复技能演示](https://x.com/higgsfield_ai/status/2103518041908908250) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:05 | — |
+| [基于Remotion自制的视频剪辑工具](https://x.com/nerikeshi_k/status/2123783641088327940) | Opus 5.5 | [@nerikeshi_k](https://x.com/nerikeshi_k) | 1:05 | — |
 | [GTA 6主题视频剪辑](https://x.com/facetagramai/status/2122281778140557707) | Opus 5.5 | [@facetagramai](https://x.com/facetagramai) | 1:01 | — |
 | [静态图片剪辑成游戏预告片](https://x.com/yugen_matuni/status/2103621917785862229) | Opus 5.5 | [@yugen_matuni](https://x.com/yugen_matuni) | 3:04 | — |
 | [After Effects自动剪辑演示](https://x.com/fumanpnp/status/2102990349098799471) | Opus 5.5 | [@fumanpnp](https://x.com/fumanpnp) | 0:24 | — |

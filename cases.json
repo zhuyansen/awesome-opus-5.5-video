@@ -3,8 +3,8 @@
  "model": "Claude 5.5 (Opus 5.5 · Sonnet 5.5 · Haiku 5.5 · Fable 5.5)",
  "inclusion_rule": "Original post by the creator, native video attached, >= 5000 views on that post, creator states it was made with Claude Opus 5.5, Sonnet 5.5, Haiku 5.5 or Fable 5.5 (Fable 5.5 is in limited preview, not yet announced). Later posts that embed another account's upload are excluded.",
  "views_threshold": 5000,
- "stats_checked_at": "2026-11-21T01:17:14.825Z",
- "updated_at": "2026-11-21T01:17:14.825Z",
+ "stats_checked_at": "2026-11-22T01:17:18.734Z",
+ "updated_at": "2026-11-22T01:17:18.734Z",
  "model_attribution": "As stated by each creator; not independently reproduced.",
  "cases": [
   {
@@ -5312,6 +5312,37 @@
    "resources": []
   },
   {
+   "id": "2123816232109719894",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "game",
+   "title": {
+    "zh": "浏览器端科幻第一人称射击游戏原型",
+    "en": "Browser-based sci-fi FPS game prototype"
+   },
+   "creator": {
+    "handle": "Rubzem",
+    "name": "S"
+   },
+   "original_post_url": "https://x.com/Rubzem/status/2123816232109719894",
+   "posted_at": "2026-11-20T16:30:22.000Z",
+   "language": "en",
+   "duration_seconds": 135,
+   "views": 325961,
+   "likes": 704,
+   "bookmarks": 362,
+   "views_checked_at": "2026-11-22T01:17:18.734Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123816057983074304/img/88SxwsxEkd0wlfpV.jpg",
+   "tools_reported": [
+    "Tripo",
+    "Fable 5.2"
+   ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2103407771102421285",
    "models": [
     "opus-5.5"
@@ -9236,6 +9267,45 @@
    "tools_reported": [],
    "reference_assets": true,
    "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2123878763624857693",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "波拉波拉岛水上飞机 3D 场景多模型对比",
+    "en": "Bora Bora seaplane 3D scene comparison"
+   },
+   "creator": {
+    "handle": "eliadele",
+    "name": "Elia De Leo"
+   },
+   "original_post_url": "https://x.com/eliadele/status/2123878763624857693",
+   "posted_at": "2026-11-20T20:38:51.000Z",
+   "language": "en",
+   "duration_seconds": 76,
+   "views": 186163,
+   "likes": 755,
+   "bookmarks": 332,
+   "views_checked_at": "2026-11-22T01:17:18.734Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123878694540419072/img/wsLz7tTa9pItro4G.jpg",
+   "tools_reported": [
+    "Gemini 4 Neon",
+    "GPT-6.2 Astra",
+    "Claude Fable 5.2",
+    "Three.js"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "brief",
+    "source": "post",
+    "source_url": "https://x.com/eliadele/status/2123878763624857693",
+    "length": 96,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2123878763624857693"
+   },
    "resources": []
   },
   {
@@ -16461,6 +16531,37 @@
    "views_checked_at": "2026-11-16T10:43:30.012Z",
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2103630512614993921/img/z1DyF3jfTFTf6z1_.jpg",
    "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2123902537937866974",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "Blender 与 Three.js 3D 船只生成对比",
+    "en": "3D ship in Blender vs Three.js"
+   },
+   "creator": {
+    "handle": "shmopixbzn",
+    "name": "shmopix"
+   },
+   "original_post_url": "https://x.com/shmopixbzn/status/2123902537937866974",
+   "posted_at": "2026-11-20T22:13:19.000Z",
+   "language": "en",
+   "duration_seconds": 20,
+   "views": 108609,
+   "likes": 730,
+   "bookmarks": 649,
+   "views_checked_at": "2026-11-22T01:17:18.734Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123901308344098816/img/a6Bg41a0IPGE9Svm.jpg",
+   "tools_reported": [
+    "Blender",
+    "Three.js"
+   ],
    "reference_assets": false,
    "prompt": null,
    "resources": []
@@ -24684,6 +24785,39 @@
     "Kimi K3.1"
    ],
    "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2123675208041312427",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "game",
+   "title": {
+    "zh": "一周内完成的3D游戏原型",
+    "en": "3D game prototype built in one week"
+   },
+   "creator": {
+    "handle": "badboyfoxy",
+    "name": "badboyfoxy"
+   },
+   "original_post_url": "https://x.com/badboyfoxy/status/2123675208041312427",
+   "posted_at": "2026-11-20T07:10:00.000Z",
+   "language": "en",
+   "duration_seconds": 98,
+   "views": 69466,
+   "likes": 203,
+   "bookmarks": 144,
+   "views_checked_at": "2026-11-22T01:17:18.734Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123635378208813056/img/eMdjMjltn7mQbKkS.jpg",
+   "tools_reported": [
+    "Fable 5.2",
+    "Unreal Engine",
+    "Blender",
+    "Tripo"
+   ],
+   "reference_assets": true,
    "prompt": null,
    "resources": []
   },
@@ -38832,6 +38966,43 @@
    "resources": []
   },
   {
+   "id": "2123898746329071698",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "夜间飞机起飞多模型效果对比",
+    "en": "Night airplane takeoff multi-model comparison"
+   },
+   "creator": {
+    "handle": "SamgreyAi",
+    "name": "Sam"
+   },
+   "original_post_url": "https://x.com/SamgreyAi/status/2123898746329071698",
+   "posted_at": "2026-11-20T21:58:15.000Z",
+   "language": "en",
+   "duration_seconds": 10,
+   "views": 39194,
+   "likes": 107,
+   "bookmarks": 40,
+   "views_checked_at": "2026-11-22T01:17:18.734Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123898554414424064/img/HcUbNwfSS1jt5880.jpg",
+   "tools_reported": [
+    "Gemini 4 Neon",
+    "Astra 6.2"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "brief",
+    "source": "post",
+    "source_url": "https://x.com/SamgreyAi/status/2123898746329071698",
+    "length": 31,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2123898746329071698"
+   },
+   "resources": []
+  },
+  {
    "id": "2107752774423511539",
    "models": [
     "opus-5.5"
@@ -42080,6 +42251,38 @@
     "length": 336,
     "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103638102333858193"
    },
+   "resources": []
+  },
+  {
+   "id": "2123816445180088544",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "多模型绘制草莓对比测试",
+    "en": "Model battle drawing a strawberry"
+   },
+   "creator": {
+    "handle": "AIMind_Ai",
+    "name": "AiMind"
+   },
+   "original_post_url": "https://x.com/AIMind_Ai/status/2123816445180088544",
+   "posted_at": "2026-11-20T16:31:13.000Z",
+   "language": "en",
+   "duration_seconds": 31,
+   "views": 35050,
+   "likes": 115,
+   "bookmarks": 53,
+   "views_checked_at": "2026-11-22T01:17:18.734Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123816357686890496/img/DJF74xBBCg4xQ78R.jpg",
+   "tools_reported": [
+    "Claude Fable 5.2",
+    "Gemini 4 Neon",
+    "Gemini 4 Carbon"
+   ],
+   "reference_assets": false,
+   "prompt": null,
    "resources": []
   },
   {
@@ -46033,6 +46236,36 @@
     "ElevenLabs"
    ],
    "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2123745767286276410",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "基于物理渲染的浏览器游戏场景",
+    "en": "Browser game environments with physically based rendering"
+   },
+   "creator": {
+    "handle": "rewind02",
+    "name": "rewind"
+   },
+   "original_post_url": "https://x.com/rewind02/status/2123745767286276410",
+   "posted_at": "2026-11-20T11:50:22.000Z",
+   "language": "en",
+   "duration_seconds": 22,
+   "views": 30008,
+   "likes": 620,
+   "bookmarks": 697,
+   "views_checked_at": "2026-11-22T01:17:18.734Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123745647811510272/img/18al8zE0bz1h1EER.jpg",
+   "tools_reported": [
+    "Three.js"
+   ],
+   "reference_assets": true,
    "prompt": null,
    "resources": []
   },
@@ -53858,6 +54091,34 @@
    "tools_reported": [
     "Boreal-H3"
    ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2123752991694205295",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "motion",
+   "title": {
+    "zh": "基于技能构建的动态界面",
+    "en": "Live animated UI built with skills"
+   },
+   "creator": {
+    "handle": "saluiux",
+    "name": "Salman"
+   },
+   "original_post_url": "https://x.com/saluiux/status/2123752991694205295",
+   "posted_at": "2026-11-20T12:19:05.000Z",
+   "language": "en",
+   "duration_seconds": 14,
+   "views": 23064,
+   "likes": 451,
+   "bookmarks": 828,
+   "views_checked_at": "2026-11-22T01:17:18.734Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123751932191797248/img/a1GUHachbrUHKXMf.jpg",
+   "tools_reported": [],
    "reference_assets": false,
    "prompt": null,
    "resources": []
@@ -69693,6 +69954,46 @@
    "resources": []
   },
   {
+   "id": "2123911052832190818",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "诅咒战锤3D建模多模型对比",
+    "en": "Cursed war hammer 3D modeling comparison"
+   },
+   "creator": {
+    "handle": "maxt3chno",
+    "name": "Max"
+   },
+   "original_post_url": "https://x.com/maxt3chno/status/2123911052832190818",
+   "posted_at": "2026-11-20T22:47:10.000Z",
+   "language": "en",
+   "duration_seconds": 40,
+   "views": 13985,
+   "likes": 119,
+   "bookmarks": 140,
+   "views_checked_at": "2026-11-22T01:17:18.734Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123909795690184704/img/RZn8VXAj9KGKR5rE.jpg",
+   "tools_reported": [
+    "Blender",
+    "Blender MCP",
+    "Fable 5.2",
+    "GPT Astra 6.2",
+    "Gemini 4 Neon"
+   ],
+   "reference_assets": true,
+   "prompt": {
+    "kind": "full",
+    "source": "author_reply",
+    "source_url": "https://x.com/maxt3chno/status/2123911186903167192",
+    "length": 4481,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2123911052832190818"
+   },
+   "resources": []
+  },
+  {
    "id": "2103308194852303245",
    "models": [
     "opus-5.5"
@@ -71727,6 +72028,37 @@
     "length": 44,
     "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2112861737980494273"
    },
+   "resources": []
+  },
+  {
+   "id": "2123728056699224538",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "product",
+   "title": {
+    "zh": "虚构化妆品广告短片",
+    "en": "Fictional cosmetics commercial"
+   },
+   "creator": {
+    "handle": "tadako_ai",
+    "name": "ただこ（多田勇輝）"
+   },
+   "original_post_url": "https://x.com/tadako_ai/status/2123728056699224538",
+   "posted_at": "2026-11-20T10:40:00.000Z",
+   "language": "ja",
+   "duration_seconds": 11,
+   "views": 13260,
+   "likes": 121,
+   "bookmarks": 109,
+   "views_checked_at": "2026-11-22T01:17:18.734Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123700190548992000/img/IQU0Sdk3ZYiAyXpw.jpg",
+   "tools_reported": [
+    "Claude Code",
+    "Blender MCP"
+   ],
+   "reference_assets": true,
+   "prompt": null,
    "resources": []
   },
   {
@@ -75520,6 +75852,41 @@
    "tools_reported": [
     "Seedance 2.5",
     "Vidfield.ai"
+   ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2123783641088327940",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "production",
+   "title": {
+    "zh": "基于Remotion自制的视频剪辑工具",
+    "en": "Custom video editing tool built with Remotion"
+   },
+   "creator": {
+    "handle": "nerikeshi_k",
+    "name": "ねりけし🍪"
+   },
+   "original_post_url": "https://x.com/nerikeshi_k/status/2123783641088327940",
+   "posted_at": "2026-11-20T14:20:52.000Z",
+   "language": "ja",
+   "duration_seconds": 65,
+   "views": 11864,
+   "likes": 111,
+   "bookmarks": 58,
+   "views_checked_at": "2026-11-22T01:17:18.734Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123782849958735872/img/OSHzMZ7Zet7lnLY9.jpg",
+   "tools_reported": [
+    "Remotion",
+    "React",
+    "Immer",
+    "Zustand",
+    "Vite",
+    "FFmpeg"
    ],
    "reference_assets": true,
    "prompt": null,
@@ -81674,6 +82041,36 @@
    "resources": []
   },
   {
+   "id": "2123613656009392338",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "Blender 三维达摩角色模型",
+    "en": "3D Daruma character model in Blender"
+   },
+   "creator": {
+    "handle": "fe_yukichi",
+    "name": "ゆきち/ AI"
+   },
+   "original_post_url": "https://x.com/fe_yukichi/status/2123613656009392338",
+   "posted_at": "2026-11-20T03:05:25.000Z",
+   "language": "ja",
+   "duration_seconds": 21,
+   "views": 9556,
+   "likes": 287,
+   "bookmarks": 193,
+   "views_checked_at": "2026-11-22T01:17:18.734Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123613418007736320/img/esBceXNyaNQDh4nZ.jpg",
+   "tools_reported": [
+    "Blender"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2102650069136933039",
    "models": [
     "opus-5.5"
@@ -81915,6 +82312,36 @@
    "tools_reported": [
     "Crayon",
     "Three.js"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2123822432171806865",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "模型写实与细节能力对比视频",
+    "en": "Model comparison video on realism and detail"
+   },
+   "creator": {
+    "handle": "rubenssoto_ai",
+    "name": "Rubens Soto | AI & SaaS"
+   },
+   "original_post_url": "https://x.com/rubenssoto_ai/status/2123822432171806865",
+   "posted_at": "2026-11-20T16:55:01.000Z",
+   "language": "en",
+   "duration_seconds": 30,
+   "views": 9396,
+   "likes": 179,
+   "bookmarks": 30,
+   "views_checked_at": "2026-11-22T01:17:18.734Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123821947171610624/img/bPSEzU2PVlQRpop8.jpg",
+   "tools_reported": [
+    "Gemini Neon"
    ],
    "reference_assets": false,
    "prompt": null,
@@ -87240,6 +87667,34 @@
    "resources": []
   },
   {
+   "id": "2123752535106158980",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "product",
+   "title": {
+    "zh": "与设计师协作构建的产品界面",
+    "en": "Product interface built with designer"
+   },
+   "creator": {
+    "handle": "Tanjim38",
+    "name": "Tanjim"
+   },
+   "original_post_url": "https://x.com/Tanjim38/status/2123752535106158980",
+   "posted_at": "2026-11-20T12:17:16.000Z",
+   "language": "en",
+   "duration_seconds": 44,
+   "views": 7530,
+   "likes": 227,
+   "bookmarks": 174,
+   "views_checked_at": "2026-11-22T01:17:18.734Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123752245258829824/img/KRPpCy1fbWiwak9q.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2103450061275586618",
    "models": [
     "opus-5.5"
@@ -91099,6 +91554,37 @@
    "views_checked_at": "2026-11-16T10:43:30.012Z",
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2118874441677410304/img/TRK0L8Noc4aQROqs.jpg",
    "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2123935773561094149",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "大规模军团实时路径追踪渲染",
+    "en": "Realtime path tracing of massive 3D armies"
+   },
+   "creator": {
+    "handle": "wizardbrainz",
+    "name": "wbk ᕦ(ò_ó )ᕤ"
+   },
+   "original_post_url": "https://x.com/wizardbrainz/status/2123935773561094149",
+   "posted_at": "2026-11-21T00:25:23.000Z",
+   "language": "en",
+   "duration_seconds": 106,
+   "views": 5499,
+   "likes": 119,
+   "bookmarks": 59,
+   "views_checked_at": "2026-11-22T01:17:18.734Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123933261709918208/img/sGWhU4FQV5fwI03A.jpg",
+   "tools_reported": [
+    "Vulkan",
+    "NVIDIA DLSS-RR"
+   ],
    "reference_assets": false,
    "prompt": null,
    "resources": []

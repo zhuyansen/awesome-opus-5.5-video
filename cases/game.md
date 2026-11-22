@@ -1,6 +1,6 @@
 # Games
 
-487 works, 63 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+489 works, 63 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Frog King browser simulator](https://x.com/Belbizaz/status/2115878504067915826) | Opus 5.5 | [@Belbizaz](https://x.com/Belbizaz) | 0:34 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2115878504067915826) |
 | [Trolley problem game](https://x.com/soyukke_game/status/2102899404336493045) | Opus 5.5 | [@soyukke_game](https://x.com/soyukke_game) | 0:19 | — |
 | [AI iteratively fixes its own game via screenshots](https://x.com/prasenx/status/2107451914954911838) | Opus 5.5 | [@prasenx](https://x.com/prasenx) | 5:20 | — |
+| [Browser-based sci-fi FPS game prototype](https://x.com/Rubzem/status/2123816232109719894) | Opus 5.5 | [@Rubzem](https://x.com/Rubzem) | 2:15 | — |
 | [Far Cry 3 clone game (polished)](https://x.com/maxt3chno/status/2103960867327115462) | Opus 5.5 | [@maxt3chno](https://x.com/maxt3chno) | 2:08 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103960867327115462) |
 | [AI-built tower defense game trailer](https://x.com/remoteugur/status/2116660949042045216) | Opus 5.5 | [@remoteugur](https://x.com/remoteugur) | 1:00 | — |
 | [1v1 basketball game ISO](https://x.com/databallr/status/2103592504386101512) | Opus 5.5 | [@databallr](https://x.com/databallr) | 0:15 | — |
@@ -140,6 +141,7 @@
 | [Roblox game made for young players](https://x.com/IHayato/status/2103997319284940856) | Opus 5.5 | [@IHayato](https://x.com/IHayato) | 0:33 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103997319284940856) |
 | [Dandy’s World Roblox remake](https://x.com/solarzz_zz/status/2118179398650093577) | Opus 5.5 | [@solarzz_zz](https://x.com/solarzz_zz) | 0:28 | — |
 | [Stardew Valley-style farming game clone](https://x.com/ziwenxu_/status/2103312027359875458) | Opus 5.5 | [@ziwenxu_](https://x.com/ziwenxu_) | 2:52 | — |
+| [3D game prototype built in one week](https://x.com/badboyfoxy/status/2123675208041312427) | Opus 5.5 | [@badboyfoxy](https://x.com/badboyfoxy) | 1:38 | — |
 | [Reskinned Chrome Dino browser game](https://x.com/danmana/status/2102855299413516678) | Opus 5.5 | [@danmana](https://x.com/danmana) | 0:34 | — |
 | [Pressure Wash Panic mobile game](https://x.com/chongdashu/status/2102674509593796808) | Opus 5.5 | [@chongdashu](https://x.com/chongdashu) | 0:15 | — |
 | [3D game development with Godot](https://x.com/KanaWorks_AI/status/2102955708321062975) | Opus 5.5 | [@KanaWorks_AI](https://x.com/KanaWorks_AI) | 0:32 | — |

@@ -1,6 +1,6 @@
 # Product demos & ads
 
-285 works, 51 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+287 works, 51 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -219,6 +219,7 @@
 | [Liquid glass web hero section](https://x.com/viktoroddy/status/2106061619176620344) | Opus 5.5 | [@viktoroddy](https://x.com/viktoroddy) | 12:52 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2106061619176620344) |
 | [Real estate listing motion graphic ad](https://x.com/alfageeh9/status/2103771626395357203) | Opus 5.5 | [@alfageeh9](https://x.com/alfageeh9) | 0:30 | — |
 | [Browser-rendered bottle design](https://x.com/AmirMushich/status/2118800755595292961) | Opus 5.5 | [@AmirMushich](https://x.com/AmirMushich) | 0:21 | — |
+| [Fictional cosmetics commercial](https://x.com/tadako_ai/status/2123728056699224538) | Opus 5.5 | [@tadako_ai](https://x.com/tadako_ai) | 0:11 | — |
 | [Ad-free streaming service clone](https://x.com/0x0SojalSec/status/2110110952008069345) | Opus 5.5 | [@0x0SojalSec](https://x.com/0x0SojalSec) | 0:23 | — |
 | [AI breakthroughs showcase](https://x.com/devteamdrew/status/2113761947325702324) | Opus 5.5 | [@devteamdrew](https://x.com/devteamdrew) | 1:05 | — |
 | [Camper van trip planner interactive map](https://x.com/Skylartkitchen/status/2103591755564085589) | Opus 5.5 | [@Skylartkitchen](https://x.com/Skylartkitchen) | 0:30 | — |
@@ -276,6 +277,7 @@
 | [DaVinci Resolve style app for Android](https://x.com/4k_isn/status/2110398564610523199) | Opus 5.5 | [@4k_isn](https://x.com/4k_isn) | 1:42 | — |
 | [Fifteen-second motion graphics showreel](https://x.com/AntSeed/status/2104659402007703925) | Sonnet 5.5 | [@AntSeed](https://x.com/AntSeed) | 0:15 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104659402007703925) |
 | [Fan site promotional video](https://x.com/nek0n0tem0/status/2103637250420658403) | Opus 5.5 | [@nek0n0tem0](https://x.com/nek0n0tem0) | 0:15 | — |
+| [Product interface built with designer](https://x.com/Tanjim38/status/2123752535106158980) | Opus 5.5 | [@Tanjim38](https://x.com/Tanjim38) | 0:44 | — |
 | [Product promo video via custom Skill](https://x.com/berryxia/status/2103419787565216023) | Opus 5.5 | [@berryxia](https://x.com/berryxia) | 1:01 | — |
 | [Auto-generated feature demo videos](https://x.com/okkshitij/status/2103570489071608061) | Opus 5.5 | [@okkshitij](https://x.com/okkshitij) | 0:37 | — |
 | [Foreign drama series intro video](https://x.com/hAru_mAki_ch/status/2103789217147240824) | Opus 5.5 | [@hAru_mAki_ch](https://x.com/hAru_mAki_ch) | 0:15 | — |

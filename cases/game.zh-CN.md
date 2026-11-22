@@ -1,6 +1,6 @@
 # 游戏
 
-共 487 个作品，其中 63 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 489 个作品，其中 63 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [青蛙国王浏览器模拟器](https://x.com/Belbizaz/status/2115878504067915826) | Opus 5.5 | [@Belbizaz](https://x.com/Belbizaz) | 0:34 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2115878504067915826) |
 | [电车难题游戏](https://x.com/soyukke_game/status/2102899404336493045) | Opus 5.5 | [@soyukke_game](https://x.com/soyukke_game) | 0:19 | — |
 | [AI通过截图自我修正游戏画面](https://x.com/prasenx/status/2107451914954911838) | Opus 5.5 | [@prasenx](https://x.com/prasenx) | 5:20 | — |
+| [浏览器端科幻第一人称射击游戏原型](https://x.com/Rubzem/status/2123816232109719894) | Opus 5.5 | [@Rubzem](https://x.com/Rubzem) | 2:15 | — |
 | [孤岛惊魂3克隆游戏（优化版）](https://x.com/maxt3chno/status/2103960867327115462) | Opus 5.5 | [@maxt3chno](https://x.com/maxt3chno) | 2:08 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103960867327115462) |
 | [AI 制作的塔防游戏预告片](https://x.com/remoteugur/status/2116660949042045216) | Opus 5.5 | [@remoteugur](https://x.com/remoteugur) | 1:00 | — |
 | [1v1篮球游戏ISO](https://x.com/databallr/status/2103592504386101512) | Opus 5.5 | [@databallr](https://x.com/databallr) | 0:15 | — |
@@ -140,6 +141,7 @@
 | [面向儿童玩家的Roblox游戏](https://x.com/IHayato/status/2103997319284940856) | Opus 5.5 | [@IHayato](https://x.com/IHayato) | 0:33 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103997319284940856) |
 | [《Dandy’s World》 Roblox 重制版](https://x.com/solarzz_zz/status/2118179398650093577) | Opus 5.5 | [@solarzz_zz](https://x.com/solarzz_zz) | 0:28 | — |
 | [星露谷物语风格农场游戏复刻](https://x.com/ziwenxu_/status/2103312027359875458) | Opus 5.5 | [@ziwenxu_](https://x.com/ziwenxu_) | 2:52 | — |
+| [一周内完成的3D游戏原型](https://x.com/badboyfoxy/status/2123675208041312427) | Opus 5.5 | [@badboyfoxy](https://x.com/badboyfoxy) | 1:38 | — |
 | [重新换皮的Chrome恐龙游戏](https://x.com/danmana/status/2102855299413516678) | Opus 5.5 | [@danmana](https://x.com/danmana) | 0:34 | — |
 | [移动端小游戏Pressure Wash Panic](https://x.com/chongdashu/status/2102674509593796808) | Opus 5.5 | [@chongdashu](https://x.com/chongdashu) | 0:15 | — |
 | [使用Godot开发的3D游戏](https://x.com/KanaWorks_AI/status/2102955708321062975) | Opus 5.5 | [@KanaWorks_AI](https://x.com/KanaWorks_AI) | 0:32 | — |

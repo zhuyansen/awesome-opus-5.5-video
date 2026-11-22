@@ -1,6 +1,6 @@
 # Motion graphics & UI
 
-368 works, 94 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+369 works, 94 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [Motion design recreated from reference clip](https://x.com/gxjo_dev/status/2108632470551933011) | Opus 5.5 | [@gxjo_dev](https://x.com/gxjo_dev) | 0:19 | — |
 | [MagnatesMedia-style 3D parallax animations](https://x.com/trymirage/status/2116195377259106570) | Opus 5.5 | [@trymirage](https://x.com/trymirage) | 0:26 | — |
 | [Vox-style documentary reel: Remotion vs custom skill](https://x.com/naometzger/status/2117391948348817828) | Opus 5.5 | [@naometzger](https://x.com/naometzger) | 0:28 | — |
+| [Live animated UI built with skills](https://x.com/saluiux/status/2123752991694205295) | Opus 5.5 | [@saluiux](https://x.com/saluiux) | 0:14 | — |
 | [Birds emerging from a glass sphere](https://x.com/HBCoop_/status/2107139305324122491) | Opus 5.5 | [@HBCoop_](https://x.com/HBCoop_) | 0:29 | — |
 | [Raindrop hydrogen bond macro animation](https://x.com/0xkerazcity/status/2112187184858145200) | Opus 5.5 | [@0xkerazcity](https://x.com/0xkerazcity) | 0:27 | — |
 | [Surveillance-style subject analysis loop](https://x.com/aimikoda/status/2112590477144797190) | Opus 5.5 | [@aimikoda](https://x.com/aimikoda) | 0:15 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2112590477144797190) |
