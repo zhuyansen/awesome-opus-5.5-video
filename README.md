@@ -2,7 +2,7 @@
 
 English | [简体中文](README.zh-CN.md)
 
-Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5, Sonnet 5.5, Haiku 5.5 and Fable 5.5 (limited preview, not yet announced) and shared on X, each with 5,000+ views on the original post. **2939 works** (Opus 5.5: 2748 · Sonnet 5.5: 145 · Fable 5.5: 131; comparisons count for each), **664 with a prompt** (326 full prompts).
+Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5, Sonnet 5.5, Haiku 5.5 and Fable 5.5 (limited preview, not yet announced) and shared on X, each with 5,000+ views on the original post. **2948 works** (Opus 5.5: 2757 · Sonnet 5.5: 145 · Fable 5.5: 131; comparisons count for each), **667 with a prompt** (327 full prompts).
 
 **[Browse online — play the videos and copy the prompts →](https://jasonzhu.ai/en/prompts/claude-opus-5-5)**
 
@@ -13,10 +13,10 @@ Want to make one yourself? **[Claude video skills, tested and graded on Agent Sk
     <td width="25%" align="center"><a href="https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102801274173587569"><img src="https://pbs.twimg.com/amplify_video_thumb/2102799458031534086/img/GBhRZ7O3fCXn59dk.jpg" width="200" alt="Remake of the 'Claude Pop' music video"></a><br><sub>Remake of the 'Claude Pop' music video</sub></td>
     <td width="25%" align="center"><a href="https://jasonzhu.ai/en/prompts/claude-opus-5-5/2117169796290916732"><img src="https://pbs.twimg.com/amplify_video_thumb/2117167031636393985/img/CKADDY4IjwF3_y0c.jpg" width="200" alt="Moss-Covered Giant Robot Awakens at Sunrise"></a><br><sub>Moss-Covered Giant Robot Awakens at Sunrise</sub></td>
     <td width="25%" align="center"><a href="https://jasonzhu.ai/en/prompts/claude-opus-5-5/2118343870450954318"><img src="https://pbs.twimg.com/amplify_video_thumb/2118343664552525824/img/WiMHZM9T8j_TQSvl.jpg" width="200" alt="Sci-fi first-person shooter game"></a><br><sub>Sci-fi first-person shooter game</sub></td>
-    <td width="25%" align="center"><a href="https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103273003555402193"><img src="https://pbs.twimg.com/amplify_video_thumb/2103272964967804928/img/DTuQzS4NOGKMbTDA.jpg" width="200" alt="Code-based UI motion design showreel"></a><br><sub>Code-based UI motion design showreel</sub></td>
+    <td width="25%" align="center"><a href="https://jasonzhu.ai/en/prompts/claude-opus-5-5/2121646685319221546"><img src="https://pbs.twimg.com/amplify_video_thumb/2121646347770015745/img/K08-DO_3Grg3VTTv.jpg" width="200" alt="Interactive gummy orange slice comparison"></a><br><sub>Interactive gummy orange slice comparison</sub></td>
   </tr>
   <tr>
-    <td width="25%" align="center"><a href="https://jasonzhu.ai/en/prompts/claude-opus-5-5/2121646685319221546"><img src="https://pbs.twimg.com/amplify_video_thumb/2121646347770015745/img/K08-DO_3Grg3VTTv.jpg" width="200" alt="Interactive gummy orange slice comparison"></a><br><sub>Interactive gummy orange slice comparison</sub></td>
+    <td width="25%" align="center"><a href="https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103273003555402193"><img src="https://pbs.twimg.com/amplify_video_thumb/2103272964967804928/img/DTuQzS4NOGKMbTDA.jpg" width="200" alt="Code-based UI motion design showreel"></a><br><sub>Code-based UI motion design showreel</sub></td>
     <td width="25%" align="center"><a href="https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103817034618339682"><img src="https://pbs.twimg.com/amplify_video_thumb/2103816945854197760/img/EdioPORO7Xfgc5E1.jpg" width="200" alt="High-energy motion graphics showreel"></a><br><sub>High-energy motion graphics showreel</sub></td>
     <td width="25%" align="center"><a href="https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103304514329854102"><img src="https://pbs.twimg.com/amplify_video_thumb/2103304202617520128/img/bpMVxBiJHhgYy27l.jpg" width="200" alt="AI documentary about superintelligence"></a><br><sub>AI documentary about superintelligence</sub></td>
     <td width="25%" align="center"><a href="https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103698854399099057"><img src="https://pbs.twimg.com/amplify_video_thumb/2103697667910168576/img/cqLRqTw7vVpTectN.jpg" width="200" alt="AI self-introduction song and video"></a><br><sub>AI self-introduction song and video</sub></td>
@@ -27,14 +27,14 @@ Want to make one yourself? **[Claude video skills, tested and graded on Agent Sk
 
 ## Inclusion rule
 
-- The creator's own post, with a native video, and at least 5,000 views on that post (snapshot: 2026-11-22).
+- The creator's own post, with a native video, and at least 5,000 views on that post (snapshot: 2026-11-23).
 - The post states the work was made with Claude Opus 5.5, Sonnet 5.5, Haiku 5.5 or Fable 5.5; the Model column follows the creator's own words. **As of early October Fable 5.5 is in limited preview and not yet announced**; posts where the creator is unsure are excluded. **Model attribution is as stated by each creator and was not independently reproduced.**
 - A prompt is listed only when it has a source: the post itself, the creator's own replies, a screenshot in those replies, or a link the creator shared. Prompts are kept verbatim, never rewritten or translated.
 - Works with a video but no traceable instruction are still listed, with the prompt column left empty.
 
 ## Motion graphics & UI
 
-369 works · [full list](cases/motion.md)
+370 works · [full list](cases/motion.md)
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ Want to make one yourself? **[Claude video skills, tested and graded on Agent Sk
 
 ## Explainers & education
 
-238 works · [full list](cases/education.md)
+239 works · [full list](cases/education.md)
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ Want to make one yourself? **[Claude video skills, tested and graded on Agent Sk
 
 ## Characters & stories
 
-257 works · [full list](cases/stories.md)
+259 works · [full list](cases/stories.md)
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ Want to make one yourself? **[Claude video skills, tested and graded on Agent Sk
 
 ## 3D worlds & simulations
 
-507 works · [full list](cases/art3d.md)
+505 works · [full list](cases/art3d.md)
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -109,7 +109,7 @@ Want to make one yourself? **[Claude video skills, tested and graded on Agent Sk
 
 ## Games
 
-489 works · [full list](cases/game.md)
+490 works · [full list](cases/game.md)
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -124,7 +124,7 @@ Want to make one yourself? **[Claude video skills, tested and graded on Agent Sk
 
 ## Music, editing & production
 
-198 works · [full list](cases/production.md)
+199 works · [full list](cases/production.md)
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -139,7 +139,7 @@ Want to make one yourself? **[Claude video skills, tested and graded on Agent Sk
 
 ## Model comparisons
 
-594 works · [full list](cases/comparison.md)
+599 works · [full list](cases/comparison.md)
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|

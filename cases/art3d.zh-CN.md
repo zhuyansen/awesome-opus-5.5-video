@@ -1,6 +1,6 @@
 # 3D 场景
 
-共 507 个作品，其中 112 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 505 个作品，其中 112 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -25,11 +25,11 @@
 | [橡皮筋压爆西瓜模拟](https://x.com/vib3coded/status/2104928244382277727) | Sonnet 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:17 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104928244382277727) |
 | [Three.js骑车鹈鹕演示](https://x.com/addyosmani/status/2102436416437580159) | Opus 5.5 | [@addyosmani](https://x.com/addyosmani) | 1:31 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102436416437580159) |
 | [一次性3D建模流程测试](https://x.com/santisiri/status/2111466480357244992) | Opus 5.5 | [@santisiri](https://x.com/santisiri) | 0:28 | — |
+| [程序化 Blender 场景及制作过程](https://x.com/arafune/status/2118582485412131107) | Opus 5.5 | [@arafune](https://x.com/arafune) | 0:36 | — |
 | [修正AI视频中的物理错误](https://x.com/gokayfem/status/2114819508032684289) | Opus 5.5 | [@gokayfem](https://x.com/gokayfem) | 0:51 | — |
 | [新床摆放的3D房间预览](https://x.com/scheemunai/status/2103059885361598633) | Opus 5.5 | [@scheemunai](https://x.com/scheemunai) | 1:27 | — |
-| [在虚幻引擎中重建旧金山](https://x.com/MatthewBerman/status/2102483668468195539) | Opus 5.5 | [@MatthewBerman](https://x.com/MatthewBerman) | 0:54 | — |
 | [户型图转3D室内设计工具](https://x.com/akokoi1/status/2104520072014508316) | Opus 5.5 | [@akokoi1](https://x.com/akokoi1) | 0:33 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104520072014508316) |
-| [程序化 Blender 场景及制作过程](https://x.com/arafune/status/2118582485412131107) | Opus 5.5 | [@arafune](https://x.com/arafune) | 0:36 | — |
+| [在虚幻引擎中重建旧金山](https://x.com/MatthewBerman/status/2102483668468195539) | Opus 5.5 | [@MatthewBerman](https://x.com/MatthewBerman) | 0:54 | — |
 | [交互式机械拆解场景](https://x.com/elvar_official/status/2116192984299344372) | Opus 5.5 | [@elvar_official](https://x.com/elvar_official) | 0:24 | — |
 | [Bend2实现的三体问题物理模拟](https://x.com/zAdrielsan/status/2105822678519001360) | Fable 5.5 (preview) | [@zAdrielsan](https://x.com/zAdrielsan) | 2:14 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2105822678519001360) |
 | [草图到房屋三维建模动画](https://x.com/techartist_/status/2102503719762018434) | Opus 5.5 | [@techartist_](https://x.com/techartist_) | 0:19 | — |
@@ -43,9 +43,9 @@
 | [草图转物理模拟动画](https://x.com/poolio/status/2102445641205248145) | Opus 5.5 | [@poolio](https://x.com/poolio) | 1:20 | — |
 | [纯代码构建的古希腊世界](https://x.com/LexnLin/status/2111582260818239777) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 0:54 | — |
 | [可漫游的印度城市世界](https://x.com/pracosm/status/2103387804281745459) | Opus 5.5 | [@pracosm](https://x.com/pracosm) | 0:54 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103387804281745459) |
+| [蓝鲸果冻软体交互研究](https://x.com/vib3coded/status/2119542001775628299) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:17 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2119542001775628299) |
 | [虚幻引擎开放世界构建](https://x.com/xikhar/status/2111652839634456996) | Opus 5.5 | [@xikhar](https://x.com/xikhar) | 0:29 | — |
 | [Blender 生成的视频](https://x.com/matabee_GTO/status/2113077084528779288) | Opus 5.5 | [@matabee_GTO](https://x.com/matabee_GTO) | 1:05 | — |
-| [蓝鲸果冻软体交互研究](https://x.com/vib3coded/status/2119542001775628299) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:17 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2119542001775628299) |
 | [雕塑创作尝试](https://x.com/gokayfem/status/2119493602900369465) | Opus 5.5 | [@gokayfem](https://x.com/gokayfem) | 0:24 | — |
 | [纯数学渲染的人眼](https://x.com/__rockbiter/status/2114728296034226583) | Opus 5.5 | [@__rockbiter](https://x.com/__rockbiter) | 1:18 | — |
 | [实时海岸模拟场景](https://x.com/hajimetwi3/status/2104381179151753464) | Opus 5.5 | [@hajimetwi3](https://x.com/hajimetwi3) | 2:02 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104381179151753464) |
@@ -56,21 +56,22 @@
 | [滚动生成房屋的平面图动画](https://x.com/SammmAing/status/2109708195031900310) | Opus 5.5 | [@SammmAing](https://x.com/SammmAing) | 0:57 | — |
 | [写实地球模拟器](https://x.com/RiadEtm/status/2116974743005913262) | Opus 5.5 | [@RiadEtm](https://x.com/RiadEtm) | 0:50 | — |
 | [超音速地球飞行模拟器](https://x.com/RiadEtm/status/2114350973619437706) | Opus 5.5 | [@RiadEtm](https://x.com/RiadEtm) | 1:17 | — |
-| [1906年旧金山街道3D复原](https://x.com/alexalbert__/status/2102466523164274839) | Opus 5.5 | [@alexalbert__](https://x.com/alexalbert__) | 0:08 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102466523164274839) |
+| [互动纸艺世界](https://x.com/xikhar/status/2122682962647122403) | Opus 5.5 | [@xikhar](https://x.com/xikhar) | 0:54 | — |
 | [可交互的公寓三维场景](https://x.com/MengTo/status/2119746949121495303) | Opus 5.5 | [@MengTo](https://x.com/MengTo) | 1:00 | — |
+| [1906年旧金山街道3D复原](https://x.com/alexalbert__/status/2102466523164274839) | Opus 5.5 | [@alexalbert__](https://x.com/alexalbert__) | 0:08 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102466523164274839) |
 | [基于 SimReady 模型的实时 3D 仓库](https://x.com/anxuanng/status/2116504653215248436) | Opus 5.5 | [@anxuanng](https://x.com/anxuanng) | 0:25 | — |
 | [用语音指挥Claude制作的Houdini场景](https://x.com/hectorVFX/status/2111435045109903540) | Opus 5.5 | [@hectorVFX](https://x.com/hectorVFX) | 0:15 | — |
 | [可交互的反乌托邦3D箱庭都市](https://x.com/akakuma0219/status/2103820733159981151) | Opus 5.5 | [@akakuma0219](https://x.com/akakuma0219) | 0:52 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103820733159981151) |
+| [旅行照片转丙烯画风动画](https://x.com/ann_nnng/status/2102573127192727704) | Opus 5.5 | [@ann_nnng](https://x.com/ann_nnng) | 0:22 | — |
 | [新干线高精度3D建模](https://x.com/higgsfield_ai/status/2102507018372436264) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:18 | — |
 | [Tripo与Opus制作的3D角色动画](https://x.com/manaimovie/status/2103138089790996843) | Opus 5.5 | [@manaimovie](https://x.com/manaimovie) | 0:05 | — |
 | [十分钟做出的WeeSpy网页应用](https://x.com/Gregoirechp/status/2103977724796649763) | Opus 5.5 | [@Gregoirechp](https://x.com/Gregoirechp) | 0:20 | — |
-| [旅行照片转丙烯画风动画](https://x.com/ann_nnng/status/2102573127192727704) | Opus 5.5 | [@ann_nnng](https://x.com/ann_nnng) | 0:22 | — |
+| [3D角色舞台舞蹈视频](https://x.com/Dstudio_ai/status/2118943445842804929) | Opus 5.5 | [@Dstudio_ai](https://x.com/Dstudio_ai) | 1:14 | — |
 | [用Blender制作的3D场景](https://x.com/superalesha/status/2102487989381156991) | Opus 5.5 | [@superalesha](https://x.com/superalesha) | 1:01 | — |
 | [280KB 单文件 HTML 演示程序](https://x.com/JustinPerea/status/2102893186330841502) | Opus 5.5 | [@JustinPerea](https://x.com/JustinPerea) | 0:43 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102893186330841502) |
-| [3D角色舞台舞蹈视频](https://x.com/Dstudio_ai/status/2118943445842804929) | Opus 5.5 | [@Dstudio_ai](https://x.com/Dstudio_ai) | 1:14 | — |
 | [3D模型设计打印及机械臂取件](https://x.com/dimentary/status/2104094838035820607) | Opus 5.5 | [@dimentary](https://x.com/dimentary) | 0:23 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104094838035820607) |
-| [严岛神社3D场景](https://x.com/Ayu_AI_0912/status/2103737014508216515) | Opus 5.5 | [@Ayu_AI_0912](https://x.com/Ayu_AI_0912) | 0:24 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103737014508216515) |
 | [特拉维夫等距三维地图](https://x.com/DmytroKrasun/status/2119841736679686222) | Opus 5.5 | [@DmytroKrasun](https://x.com/DmytroKrasun) | 0:14 | — |
+| [严岛神社3D场景](https://x.com/Ayu_AI_0912/status/2103737014508216515) | Opus 5.5 | [@Ayu_AI_0912](https://x.com/Ayu_AI_0912) | 0:24 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103737014508216515) |
 | [纯代码生成的黄昏寺庙场景](https://x.com/leo_xiaolei/status/2112545748944556038) | Opus 5.5 | [@leo_xiaolei](https://x.com/leo_xiaolei) | 1:10 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2112545748944556038) |
 | [插件集成生成的Blender场景](https://x.com/emmanuel_2m/status/2102539293122035875) | Opus 5.5 | [@emmanuel_2m](https://x.com/emmanuel_2m) | 0:09 | — |
 | [写实鹈鹕骑自行车动画](https://x.com/chetaslua/status/2116882694026269148) | Fable 5.5 (preview) | [@chetaslua](https://x.com/chetaslua) | 0:16 | — |
@@ -82,69 +83,69 @@
 | [在Google表格上画拿破仑](https://x.com/hug0_plat/status/2104656573893144743) | Sonnet 5.5 | [@hug0_plat](https://x.com/hug0_plat) | 0:18 | — |
 | [逼真风格的《我的世界》与《星球大战》渲染](https://x.com/ChrisGPT/status/2102644063950475477) | Opus 5.5 | [@ChrisGPT](https://x.com/ChrisGPT) | 1:49 | — |
 | [自我迭代出的第二版效果](https://x.com/dashiAIxz/status/2103344448696648058) | Opus 5.5 | [@dashiAIxz](https://x.com/dashiAIxz) | 0:30 | — |
-| [Opus 5.5一次性构建的互动3D世界](https://x.com/Ainthropos/status/2109718931409699043) | Opus 5.5 | [@Ainthropos](https://x.com/Ainthropos) | 0:56 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2109718931409699043) |
 | [闪电模拟镜头之旅](https://x.com/camperaigg/status/2119052253982306393) | Fable 5.5 (preview) | [@camperaigg](https://x.com/camperaigg) | 0:28 | — |
+| [Opus 5.5一次性构建的互动3D世界](https://x.com/Ainthropos/status/2109718931409699043) | Opus 5.5 | [@Ainthropos](https://x.com/Ainthropos) | 0:56 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2109718931409699043) |
 | [指环王世界生成渲染实验](https://x.com/Layton_Gott/status/2103632815677944206) | Opus 5.5 | [@Layton_Gott](https://x.com/Layton_Gott) | 2:22 | — |
 | [全息3D交易卡设计](https://x.com/MengTo/status/2104565735288938804) | Opus 5.5 | [@MengTo](https://x.com/MengTo) | 0:30 | — |
 | [Three.js 还原的动画房间](https://x.com/MengTo/status/2119103146974957675) | Opus 5.5 | [@MengTo](https://x.com/MengTo) | 0:24 | — |
 | [JavaScript生成艺术作品](https://x.com/mickeyxfriedman/status/2115932308138287552) | Opus 5.5 | [@mickeyxfriedman](https://x.com/mickeyxfriedman) | 0:29 | — |
 | [摩托车公园竞速游戏](https://x.com/chrisjdimarco/status/2104598205417591120) | Opus 5.5 | [@chrisjdimarco](https://x.com/chrisjdimarco) | 1:40 | — |
 | [可交互日式庭院模拟场景](https://x.com/SouranyPhomhome/status/2103539410302038359) | Opus 5.5 | [@SouranyPhomhome](https://x.com/SouranyPhomhome) | 2:36 | — |
-| [Atlas与P-body体素传送门场景](https://x.com/legit_api/status/2111193444345667813) | Fable 5.5 (preview) | [@legit_api](https://x.com/legit_api) | 1:53 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2111193444345667813) |
-| [带纹理的村庄地图](https://x.com/rehan_shei/status/2114573844858159372) | Opus 5.5 | [@rehan_shei](https://x.com/rehan_shei) | 0:42 | — |
-| [AI自画像与原创钢琴配乐](https://x.com/kevin_t_ngo/status/2102878288008057171) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 0:20 | — |
 | [绑定骨骼的3D角色动画](https://x.com/dhruvalgolakiya/status/2118631442066682205) | Opus 5.5 | [@dhruvalgolakiya](https://x.com/dhruvalgolakiya) | 0:08 | — |
+| [带纹理的村庄地图](https://x.com/rehan_shei/status/2114573844858159372) | Opus 5.5 | [@rehan_shei](https://x.com/rehan_shei) | 0:42 | — |
+| [Atlas与P-body体素传送门场景](https://x.com/legit_api/status/2111193444345667813) | Fable 5.5 (preview) | [@legit_api](https://x.com/legit_api) | 1:53 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2111193444345667813) |
+| [AI自画像与原创钢琴配乐](https://x.com/kevin_t_ngo/status/2102878288008057171) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 0:20 | — |
 | [海岸观景台场景生成](https://x.com/LexnLin/status/2105704408898003333) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 0:30 | — |
 | [一次生成的纽约电影场景](https://x.com/Mr_Salio/status/2111097153074470950) | Fable 5.5 (preview) | [@Mr_Salio](https://x.com/Mr_Salio) | 0:39 | — |
 | [机器蝎子拆解模拟器](https://x.com/Nyxera0x/status/2116277601794724232) | Opus 5.5 | [@Nyxera0x](https://x.com/Nyxera0x) | 0:26 | — |
+| [带雾效系统的3D场景](https://x.com/chetanankola/status/2118631658979250631) | Opus 5.5 | [@chetanankola](https://x.com/chetanankola) | 0:23 | — |
 | [云上世界无人机视角飞行影片](https://x.com/LexnLin/status/2117230395406364857) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 0:45 | — |
 | [不同三角面预算的猫模型重建](https://x.com/gokayfem/status/2120498448550023604) | Opus 5.5 | [@gokayfem](https://x.com/gokayfem) | 0:58 | — |
-| [互动纸艺世界](https://x.com/xikhar/status/2122682962647122403) | Opus 5.5 | [@xikhar](https://x.com/xikhar) | 0:54 | — |
-| [带雾效系统的3D场景](https://x.com/chetanankola/status/2118631658979250631) | Opus 5.5 | [@chetanankola](https://x.com/chetanankola) | 0:23 | — |
+| [用Blender制作的虚构书房场景](https://x.com/shion_takk/status/2110896887096369573) | Opus 5.5 / Sonnet 5.5 | [@shion_takk](https://x.com/shion_takk) | 0:36 | — |
+| [Three.js 与 Blender 中的超级游艇](https://x.com/maxt3chno/status/2121714155757441227) | Opus 5.5 | [@maxt3chno](https://x.com/maxt3chno) | 0:52 | — |
+| [玻璃键盘三维模型](https://x.com/MrTacticalX/status/2121671659371585638) | Opus 5.5 | [@MrTacticalX](https://x.com/MrTacticalX) | 0:32 | — |
 | [输入词语实时生成的代码艺术作品](https://x.com/MiaAI_lab/status/2103837519615774895) | Opus 5.5 | [@MiaAI_lab](https://x.com/MiaAI_lab) | 1:37 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103837519615774895) |
 | [浏览器中的夜晚城市场景](https://x.com/xikhar/status/2105838937688400174) | Opus 5.5 | [@xikhar](https://x.com/xikhar) | 1:13 | — |
 | [铁磁流体切换模拟](https://x.com/argofowl/status/2119867622108066283) | Opus 5.5 | [@argofowl](https://x.com/argofowl) | 0:32 | — |
 | [按参考图还原的三维办公室](https://x.com/rewind02/status/2112890224426553836) | Opus 5.5 | [@rewind02](https://x.com/rewind02) | 0:40 | — |
-| [玻璃键盘三维模型](https://x.com/MrTacticalX/status/2121671659371585638) | Opus 5.5 | [@MrTacticalX](https://x.com/MrTacticalX) | 0:32 | — |
 | [大型强子对撞机质子碰撞Blender场景](https://x.com/superalesha/status/2102779758408774104) | Opus 5.5 | [@superalesha](https://x.com/superalesha) | 0:34 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102779758408774104) |
 | [PDF转3D组装说明应用](https://x.com/numaausaumon/status/2112217790870680012) | Opus 5.5 | [@numaausaumon](https://x.com/numaausaumon) | 1:15 | — |
 | [AI数据中心的交互式3D可视化](https://x.com/RyanSael/status/2102740041621762166) | Opus 5.5 | [@RyanSael](https://x.com/RyanSael) | 0:34 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102740041621762166) |
+| [用AI流程在Blender中搭建的虚拟书房](https://x.com/shion_takk/status/2109993123606941955) | Opus 5.5 | [@shion_takk](https://x.com/shion_takk) | 0:20 | — |
 | [东京3D城市模拟器](https://x.com/xiaohua_888/status/2103037354101629157) | Opus 5.5 | [@xiaohua_888](https://x.com/xiaohua_888) | 1:00 | — |
 | [Cybertruck变形动画](https://x.com/scottstts/status/2102539904274325540) | Opus 5.5 | [@scottstts](https://x.com/scottstts) | 1:13 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102539904274325540) |
+| [带配音音效的沙画动画](https://x.com/Michaelzsguo/status/2102592355165782312) | Opus 5.5 | [@Michaelzsguo](https://x.com/Michaelzsguo) | 2:00 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102592355165782312) |
 | [开源的1300个3D模型合集](https://x.com/emmanuel_2m/status/2113990638748241966) | Opus 5.5 | [@emmanuel_2m](https://x.com/emmanuel_2m) | 0:28 | — |
 | [金门大桥3D场景](https://x.com/petergyang/status/2102458049856479474) | Opus 5.5 | [@petergyang](https://x.com/petergyang) | 0:30 | — |
-| [带配音音效的沙画动画](https://x.com/Michaelzsguo/status/2102592355165782312) | Opus 5.5 | [@Michaelzsguo](https://x.com/Michaelzsguo) | 2:00 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102592355165782312) |
 | [对人类最反感之处的可视化](https://x.com/TheSpacerr/status/2105744712330354723) | Sonnet 5.5 | [@TheSpacerr](https://x.com/TheSpacerr) | 0:45 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2105744712330354723) |
-| [用AI流程在Blender中搭建的虚拟书房](https://x.com/shion_takk/status/2109993123606941955) | Opus 5.5 | [@shion_takk](https://x.com/shion_takk) | 0:20 | — |
 | [可爱风格互动3D世界](https://x.com/studio_veco/status/2102684366996738511) | Opus 5.5 | [@studio_veco](https://x.com/studio_veco) | 1:21 | — |
-| [Three.js 与 Blender 中的超级游艇](https://x.com/maxt3chno/status/2121714155757441227) | Opus 5.5 | [@maxt3chno](https://x.com/maxt3chno) | 0:52 | — |
 | [从船舶图纸到海盗船动画](https://x.com/Ayu_AI_0912/status/2109043294911291886) | Opus 5.5 | [@Ayu_AI_0912](https://x.com/Ayu_AI_0912) | 0:24 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2109043294911291886) |
 | [夕阳下的温馨水车世界](https://x.com/keydol123/status/2115168883040817610) | Opus 5.5 | [@keydol123](https://x.com/keydol123) | 1:17 | — |
 | [从房间缩放到夸克的3D场景](https://x.com/VictorTaelin/status/2103299766473875778) | Opus 5.5 | [@VictorTaelin](https://x.com/VictorTaelin) | 3:30 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103299766473875778) |
+| [橙色小人三维场景卡片](https://x.com/0xclayo/status/2120129460254933035) | Opus 5.5 | [@0xclayo](https://x.com/0xclayo) | 0:15 | — |
 | [Three.js真实水面效果测试](https://x.com/studio_veco/status/2102641653647581517) | Opus 5.5 | [@studio_veco](https://x.com/studio_veco) | 0:35 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102641653647581517) |
 | [将概念图转换为三维关卡](https://x.com/rewind02/status/2113573386794254715) | Opus 5.5 | [@rewind02](https://x.com/rewind02) | 0:38 | — |
 | [互动珊瑚礁壁纸](https://x.com/chaseleantj/status/2102480866404360215) | Opus 5.5 | [@chaseleantj](https://x.com/chaseleantj) | 0:13 | — |
 | [浏览器内程序化骑行场景](https://x.com/prasenx/status/2102717687604633959) | Opus 5.5 | [@prasenx](https://x.com/prasenx) | 3:40 | — |
-| [橙色小人三维场景卡片](https://x.com/0xclayo/status/2120129460254933035) | Opus 5.5 | [@0xclayo](https://x.com/0xclayo) | 0:15 | — |
 | [颠覆重力的道路three.js体验](https://x.com/chetanankola/status/2103001194696458512) | Opus 5.5 | [@chetanankola](https://x.com/chetanankola) | 0:52 | — |
 | [纯代码构建的蜘蛛侠电影场景](https://x.com/Mr_Salio/status/2111590674961154433) | Opus 5.5 / Fable 5.5 (preview) | [@Mr_Salio](https://x.com/Mr_Salio) | 1:02 | — |
 | [交互式3D房屋建造可视化](https://x.com/techartist_/status/2105350783416021472) | Opus 5.5 | [@techartist_](https://x.com/techartist_) | 0:37 | — |
 | [纯代码生成的高山湖泊场景](https://x.com/LexnLin/status/2112560562609803311) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 1:00 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2112560562609803311) |
-| [会呼吸的水墨画生成作品](https://x.com/AxtonLiu/status/2103288413969621231) | Opus 5.5 | [@AxtonLiu](https://x.com/AxtonLiu) | 0:39 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103288413969621231) |
 | [浏览器三维场景](https://x.com/KhalidDevLog/status/2106957256247902272) | Opus 5.5 | [@KhalidDevLog](https://x.com/KhalidDevLog) | 1:28 | — |
+| [会呼吸的水墨画生成作品](https://x.com/AxtonLiu/status/2103288413969621231) | Opus 5.5 | [@AxtonLiu](https://x.com/AxtonLiu) | 0:39 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103288413969621231) |
 | [自行车骑鹈鹕动画](https://x.com/notjazii/status/2116861637890379891) | Fable 5.5 (preview) | [@notjazii](https://x.com/notjazii) | 0:26 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2116861637890379891) |
 | [像素风场景生成](https://x.com/HugoDuprez/status/2102746041250705890) | Opus 5.5 | [@HugoDuprez](https://x.com/HugoDuprez) | 0:13 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102746041250705890) |
 | [用Python和Blender制作的3D动画](https://x.com/kevin_t_ngo/status/2110010240825737683) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 0:28 | — |
+| [风格化角色绑定与动画](https://x.com/rewind02/status/2120846734901367105) | Opus 5.5 | [@rewind02](https://x.com/rewind02) | 0:04 | — |
 | [插画转可探索3D港口小镇](https://x.com/chetanankola/status/2103393323520299428) | Opus 5.5 | [@chetanankola](https://x.com/chetanankola) | 0:25 | — |
-| [用Blender制作的虚构书房场景](https://x.com/shion_takk/status/2110896887096369573) | Opus 5.5 / Sonnet 5.5 | [@shion_takk](https://x.com/shion_takk) | 0:36 | — |
+| [电影感中世纪攻城场景](https://x.com/davis7/status/2120810499415908356) | Opus 5.5 / Fable 5.5 (preview) | [@davis7](https://x.com/davis7) | 0:26 | — |
+| [基于物理渲染的浏览器游戏场景](https://x.com/rewind02/status/2123745767286276410) | Opus 5.5 | [@rewind02](https://x.com/rewind02) | 0:22 | — |
 | [骑车鹈鹕基准测试演示](https://x.com/mylifcc/status/2102442484525842941) | Opus 5.5 | [@mylifcc](https://x.com/mylifcc) | 0:05 | — |
 | [玻璃盒中的互动天气世界](https://x.com/LexnLin/status/2108159248148611292) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 1:02 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2108159248148611292) |
 | [用Python在Blender中制作的3D动画](https://x.com/chetaslua/status/2110808933074092371) | Opus 5.5 / Fable 5.5 (preview) | [@chetaslua](https://x.com/chetaslua) | 1:42 | — |
 | [程序生成的古罗马马赛克](https://x.com/0xKenny1st/status/2106103150037852211) | Opus 5.5 | [@0xKenny1st](https://x.com/0xKenny1st) | 0:23 | — |
 | [单张参考图生成的3D世界](https://x.com/xikhar/status/2109782676085539061) | Opus 5.5 | [@xikhar](https://x.com/xikhar) | 1:33 | — |
 | [藏有直升机的互动世界](https://x.com/mattshumer_/status/2103570652116467998) | Opus 5.5 | [@mattshumer_](https://x.com/mattshumer_) | 0:41 | — |
-| [电影感中世纪攻城场景](https://x.com/davis7/status/2120810499415908356) | Opus 5.5 / Fable 5.5 (preview) | [@davis7](https://x.com/davis7) | 0:26 | — |
-| [风格化角色绑定与动画](https://x.com/rewind02/status/2120846734901367105) | Opus 5.5 | [@rewind02](https://x.com/rewind02) | 0:04 | — |
 | [互动式历史帆船场景](https://x.com/abhinavflac/status/2116945827738665060) | Fable 5.5 (preview) | [@abhinavflac](https://x.com/abhinavflac) | 1:24 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2116945827738665060) |
 | [音乐驱动的Blender视觉场景](https://x.com/kloss_xyz/status/2107696042053431360) | Opus 5.5 | [@kloss_xyz](https://x.com/kloss_xyz) | 0:21 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2107696042053431360) |
 | [纳帕利海岸无人机航拍](https://x.com/LexnLin/status/2113720560920428685) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 0:53 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2113720560920428685) |
@@ -158,34 +159,35 @@
 | [体素变形动画](https://x.com/LexnLin/status/2112310361194140058) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 1:18 | — |
 | [从PSD文件生成的3D角色骨架](https://x.com/sayaka_aiart/status/2102965242439590112) | Opus 5.5 | [@sayaka_aiart](https://x.com/sayaka_aiart) | 0:17 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102965242439590112) |
 | [可交互的果冻鲸鱼](https://x.com/vib3coded/status/2114674922802782355) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:18 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2114674922802782355) |
+| [千禧年风格互动三维世界](https://x.com/Saccc_c/status/2119746838450356673) | Opus 5.5 | [@Saccc_c](https://x.com/Saccc_c) | 1:31 | — |
 | [外骨骼重新设计3D模型](https://x.com/higgsfield_ai/status/2102449278283313303) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:29 | — |
 | [Blender制作的动画风车](https://x.com/higgsfield_ai/status/2102453658889953717) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:21 | — |
 | [夜晚发光河流场景](https://x.com/scottstts/status/2112601036804243871) | Fable 5.5 (preview) | [@scottstts](https://x.com/scottstts) | 0:54 | — |
 | [游戏级章鱼3D模型](https://x.com/higgsfield_ai/status/2102526940859232433) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:24 | — |
 | [通过BlenderMCP自动生成的3D影片](https://x.com/KOSAKA_Jun/status/2109440153035088100) | Opus 5.5 | [@KOSAKA_Jun](https://x.com/KOSAKA_Jun) | 0:20 | — |
-| [千禧年风格互动三维世界](https://x.com/Saccc_c/status/2119746838450356673) | Opus 5.5 | [@Saccc_c](https://x.com/Saccc_c) | 1:31 | — |
 | [纯代码程序化生成的猎豹（Three.js)](https://x.com/majidmanzarpour/status/2103866429741400535) | Opus 5.5 | [@majidmanzarpour](https://x.com/majidmanzarpour) | 0:50 | — |
 | [公寓CAD制图后搭建为3D模型](https://x.com/Solvaix/status/2111880621954081240) | Opus 5.5 | [@Solvaix](https://x.com/Solvaix) | 1:13 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2111880621954081240) |
 | [天神地下街3D漫游](https://x.com/soh__y/status/2105264440413405488) | Opus 5.5 | [@soh__y](https://x.com/soh__y) | 0:29 | — |
-| [轻松产出的令人惊艳的Opus 5.5作品](https://x.com/wolfie_/status/2103472862757896486) | Opus 5.5 | [@wolfie_](https://x.com/wolfie_) | 2:26 | — |
+| [由单张图片生成的可行走 3D 世界](https://x.com/lucianlamp/status/2118689081475703236) | Opus 5.5 | [@lucianlamp](https://x.com/lucianlamp) | 0:42 | — |
 | [参考视频生成的角色行走动作绑定](https://x.com/IsekaiBardGuild/status/2109401850655182861) | Opus 5.5 | [@IsekaiBardGuild](https://x.com/IsekaiBardGuild) | 0:16 | — |
+| [轻松产出的令人惊艳的Opus 5.5作品](https://x.com/wolfie_/status/2103472862757896486) | Opus 5.5 | [@wolfie_](https://x.com/wolfie_) | 2:26 | — |
+| [参考照片生成的赛璐璐风格3D场景](https://x.com/ishuagra02/status/2102543638689460488) | Opus 5.5 | [@ishuagra02](https://x.com/ishuagra02) | 0:49 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102543638689460488) |
 | [带音效的像素艺术场景](https://x.com/peekcell/status/2102796895982878850) | Opus 5.5 | [@peekcell](https://x.com/peekcell) | 0:15 | — |
 | [可拆解机器人猩猩模型](https://x.com/Bober_smart/status/2116895037862633476) | Opus 5.5 | [@Bober_smart](https://x.com/Bober_smart) | 0:25 | — |
 | [在MuJoCo中模拟叠衣服任务](https://x.com/VectorWang2/status/2109844687720697994) | Opus 5.5 | [@VectorWang2](https://x.com/VectorWang2) | 0:30 | — |
 | [多子代理协作生成的 3D 村庄场景](https://x.com/scottstts/status/2115439498729603545) | Opus 5.5 | [@scottstts](https://x.com/scottstts) | 1:19 | — |
 | [河道非均匀流可视化](https://x.com/dobokuya77/status/2106604492728967620) | Opus 5.5 | [@dobokuya77](https://x.com/dobokuya77) | 0:46 | — |
-| [由单张图片生成的可行走 3D 世界](https://x.com/lucianlamp/status/2118689081475703236) | Opus 5.5 | [@lucianlamp](https://x.com/lucianlamp) | 0:42 | — |
-| [参考照片生成的赛璐璐风格3D场景](https://x.com/ishuagra02/status/2102543638689460488) | Opus 5.5 | [@ishuagra02](https://x.com/ishuagra02) | 0:49 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102543638689460488) |
-| [可交互的three.js场景](https://x.com/aokocax/status/2103011071820996673) | Opus 5.5 | [@aokocax](https://x.com/aokocax) | 0:21 | — |
-| [代码绘制马赛克动画的幕后揭秘](https://x.com/dfeinition/status/2105098626213327008) | Opus 5.5 | [@dfeinition](https://x.com/dfeinition) | 1:15 | — |
-| [鸡尾酒杯液体特效场景](https://x.com/ann_nnng/status/2107095740485144817) | Opus 5.5 | [@ann_nnng](https://x.com/ann_nnng) | 0:16 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2107095740485144817) |
+| [带风与海浪的三维世界场景](https://x.com/thebuggeddev/status/2117298037261550073) | Opus 5.5 | [@thebuggeddev](https://x.com/thebuggeddev) | 0:42 | — |
 | [Blender重现歌舞伎町](https://x.com/hectorVFX/status/2119797694801793403) | Opus 5.5 | [@hectorVFX](https://x.com/hectorVFX) | 0:55 | — |
+| [可交互的three.js场景](https://x.com/aokocax/status/2103011071820996673) | Opus 5.5 | [@aokocax](https://x.com/aokocax) | 0:21 | — |
+| [鸡尾酒杯液体特效场景](https://x.com/ann_nnng/status/2107095740485144817) | Opus 5.5 | [@ann_nnng](https://x.com/ann_nnng) | 0:16 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2107095740485144817) |
+| [代码绘制马赛克动画的幕后揭秘](https://x.com/dfeinition/status/2105098626213327008) | Opus 5.5 | [@dfeinition](https://x.com/dfeinition) | 1:15 | — |
 | [V8 发动机工厂产线模拟](https://x.com/konstantinsaifo/status/2117159849444446209) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 0:30 | — |
-| [用代码搭建的日本建筑](https://x.com/yoshifujidesign/status/2105746986339283305) | Opus 5.5 | [@yoshifujidesign](https://x.com/yoshifujidesign) | 0:16 | — |
 | [图纸转制Blender 3D视频](https://x.com/Ayu_AI_0912/status/2103021748551872907) | Opus 5.5 | [@Ayu_AI_0912](https://x.com/Ayu_AI_0912) | 0:15 | — |
+| [用代码搭建的日本建筑](https://x.com/yoshifujidesign/status/2105746986339283305) | Opus 5.5 | [@yoshifujidesign](https://x.com/yoshifujidesign) | 0:16 | — |
+| [根据参考图生成的3D建筑模型](https://x.com/_3912657840/status/2114937668635435233) | Opus 5.5 | [@_3912657840](https://x.com/_3912657840) | 0:15 | — |
 | [Scenario Blender插件演示](https://x.com/emmanuel_2m/status/2102767332116316380) | Opus 5.5 | [@emmanuel_2m](https://x.com/emmanuel_2m) | 0:16 | — |
 | [《牛来骑车》3D动画](https://x.com/yupi996/status/2102632124994191682) | Opus 5.5 | [@yupi996](https://x.com/yupi996) | 2:18 | — |
-| [根据参考图生成的3D建筑模型](https://x.com/_3912657840/status/2114937668635435233) | Opus 5.5 | [@_3912657840](https://x.com/_3912657840) | 0:15 | — |
 | [黄金时刻日式寺庙三维场景](https://x.com/LexnLin/status/2110657641831956870) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 1:10 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2110657641831956870) |
 | [房屋照片转化的可探索3D模型](https://x.com/higgsfield_ai/status/2102499166635352354) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:30 | — |
 | [交互式室内设计演示](https://x.com/nikosolenne/status/2111603809848029601) | Opus 5.5 | [@nikosolenne](https://x.com/nikosolenne) | 0:40 | — |
@@ -193,30 +195,30 @@
 | [使用个人VRM模型渲染的Blender场景](https://x.com/midori_tatsuta/status/2109609040716452113) | Opus 5.5 | [@midori_tatsuta](https://x.com/midori_tatsuta) | 0:10 | — |
 | [折叠式手机卡片支架设计](https://x.com/bunkaich/status/2113500611052478632) | Opus 5.5 | [@bunkaich](https://x.com/bunkaich) | 1:03 | — |
 | [Nibs与沉睡的巨龟](https://x.com/HeyAbhishek/status/2107458140279394589) | Opus 5.5 | [@HeyAbhishek](https://x.com/HeyAbhishek) | 0:30 | — |
+| [根据参考图重建的游戏角色](https://x.com/rewind02/status/2116209421848064265) | Opus 5.5 | [@rewind02](https://x.com/rewind02) | 0:28 | — |
 | [3D连锁反应装置模拟](https://x.com/imjustnewatai/status/2105889407056109991) | Fable 5.5 (preview) | [@imjustnewatai](https://x.com/imjustnewatai) | 1:00 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2105889407056109991) |
 | [夕阳小巷3D箱庭世界](https://x.com/akakuma0219/status/2105990418886480092) | Opus 5.5 | [@akakuma0219](https://x.com/akakuma0219) | 0:45 | — |
 | [3D生物骨骼绑定与撕咬动画](https://x.com/Stefan_3D_AI/status/2102641562824135022) | Opus 5.5 | [@Stefan_3D_AI](https://x.com/Stefan_3D_AI) | 0:25 | — |
-| [根据参考图重建的游戏角色](https://x.com/rewind02/status/2116209421848064265) | Opus 5.5 | [@rewind02](https://x.com/rewind02) | 0:28 | — |
 | [纯代码生成的音乐与艺术作品](https://x.com/chetaslua/status/2102482039522107417) | Opus 5.5 | [@chetaslua](https://x.com/chetaslua) | 0:47 | — |
 | [生成的海滩场景](https://x.com/akiba_tokyo_jp/status/2104731596494659706) | Sonnet 5.5 | [@akiba_tokyo_jp](https://x.com/akiba_tokyo_jp) | 0:30 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104731596494659706) |
-| [可变形迷你公寓3D场景](https://x.com/techartist_/status/2102813614797472162) | Opus 5.5 | [@techartist_](https://x.com/techartist_) | 0:19 | — |
 | [JavaScript生成艺术](https://x.com/mickeyxfriedman/status/2113768150840012988) | Opus 5.5 | [@mickeyxfriedman](https://x.com/mickeyxfriedman) | 0:20 | — |
+| [可变形迷你公寓3D场景](https://x.com/techartist_/status/2102813614797472162) | Opus 5.5 | [@techartist_](https://x.com/techartist_) | 0:19 | — |
 | [直播制作的水面模拟](https://x.com/Avenoxai/status/2102500841097756743) | Opus 5.5 | [@Avenoxai](https://x.com/Avenoxai) | 1:01 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102500841097756743) |
-| [纯代码构建的水上飞机3D模型](https://x.com/maxt3chno/status/2107112922354790508) | Opus 5.5 | [@maxt3chno](https://x.com/maxt3chno) | 1:46 | — |
 | [立体弹出书旋转展示](https://x.com/techartist_/status/2116407421065482362) | Opus 5.5 | [@techartist_](https://x.com/techartist_) | 0:24 | — |
+| [纯代码构建的水上飞机3D模型](https://x.com/maxt3chno/status/2107112922354790508) | Opus 5.5 | [@maxt3chno](https://x.com/maxt3chno) | 1:46 | — |
 | [游戏灌木植物资产制作](https://x.com/ForkedPush/status/2112168232148672982) | Opus 5.5 | [@ForkedPush](https://x.com/ForkedPush) | 0:30 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2112168232148672982) |
 | [一个疯狂创意请求的成果](https://x.com/Sonecarox/status/2103126446403379220) | Opus 5.5 | [@Sonecarox](https://x.com/Sonecarox) | 3:21 | — |
 | [雨夜便利店微缩三维场景](https://x.com/NFT_Chen/status/2109420193399357665) | Opus 5.5 | [@NFT_Chen](https://x.com/NFT_Chen) | 1:53 | — |
 | [Three.js生成式3D体验](https://x.com/chetanankola/status/2103008022369099992) | Opus 5.5 | [@chetanankola](https://x.com/chetanankola) | 0:28 | — |
-| [写实交互式三维场景](https://x.com/jasteinerman/status/2115852348018798874) | Opus 5.5 | [@jasteinerman](https://x.com/jasteinerman) | 1:04 | — |
 | [三维骨架绘制为像素侧视图](https://x.com/rehan_shei/status/2116450527290736731) | Opus 5.5 | [@rehan_shei](https://x.com/rehan_shei) | 0:49 | — |
+| [写实交互式三维场景](https://x.com/jasteinerman/status/2115852348018798874) | Opus 5.5 | [@jasteinerman](https://x.com/jasteinerman) | 1:04 | — |
 | [90年代风格C/OpenGL演示动画](https://x.com/gandamu_ml/status/2102919394775220530) | Opus 5.5 | [@gandamu_ml](https://x.com/gandamu_ml) | 6:23 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102919394775220530) |
 | [特斯拉Roadster演示动画恶搞](https://x.com/devteamdrew/status/2111235450035745058) | Opus 5.5 | [@devteamdrew](https://x.com/devteamdrew) | 0:18 | — |
 | [像素艺术动画展示](https://x.com/SpikeRiser/status/2102888874858959029) | Opus 5.5 | [@SpikeRiser](https://x.com/SpikeRiser) | 4:07 | — |
 | [动态像素艺术环境场景](https://x.com/SahilExec/status/2107132523755307179) | Opus 5.5 | [@SahilExec](https://x.com/SahilExec) | 0:13 | — |
 | [浏览器中构建的荷叶鲤鱼水景](https://x.com/sonia_code/status/2105131016918577190) | Sonnet 5.5 | [@sonia_code](https://x.com/sonia_code) | 0:10 | — |
-| [根据平面图生成的3D模型](https://x.com/uncle_render/status/2103080046537904576) | Opus 5.5 | [@uncle_render](https://x.com/uncle_render) | 0:52 | — |
 | [Crossroads地图的写实场景重构](https://x.com/Stravant/status/2103421703577874740) | Opus 5.5 | [@Stravant](https://x.com/Stravant) | 0:51 | — |
+| [根据平面图生成的3D模型](https://x.com/uncle_render/status/2103080046537904576) | Opus 5.5 | [@uncle_render](https://x.com/uncle_render) | 0:52 | — |
 | [滚动式房屋建造概念](https://x.com/SammmAing/status/2114546079618257104) | Opus 5.5 | [@SammmAing](https://x.com/SammmAing) | 2:00 | — |
 | [全程序化生成Three.js世界](https://x.com/AndreiProvkin/status/2103919236653428985) | Opus 5.5 | [@AndreiProvkin](https://x.com/AndreiProvkin) | 1:08 | — |
 | [汽车装配线瓶颈模拟](https://x.com/konstantinsaifo/status/2119268851015905627) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 0:26 | — |
@@ -225,289 +227,285 @@
 | [照片建模建筑倒塌模拟](https://x.com/higgsfield_ai/status/2102863017109291059) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:30 | — |
 | [伏见稻荷神社场景](https://x.com/dhruvtwt_/status/2116932748250321023) | Sonnet 5.5 | [@dhruvtwt_](https://x.com/dhruvtwt_) | 0:24 | — |
 | [沙丘下穿行的巨型沙虫循环动画](https://x.com/0x_fokki/status/2114752456915665236) | Opus 5.5 | [@0x_fokki](https://x.com/0x_fokki) | 0:20 | — |
-| [Unreal与Blender渲染场景](https://x.com/HamidoFx1/status/2105626720573468818) | Opus 5.5 | [@HamidoFx1](https://x.com/HamidoFx1) | 0:20 | — |
 | [快速3D角色建模绑定动画流程](https://x.com/luccacerf/status/2102478608274989225) | Opus 5.5 | [@luccacerf](https://x.com/luccacerf) | 0:06 | — |
+| [在 Blender 中复刻的游戏预告片](https://x.com/MengTo/status/2121614786245104107) | Opus 5.5 | [@MengTo](https://x.com/MengTo) | 0:57 | — |
+| [可爱动态 3D 场景](https://x.com/Dstudio_ai/status/2118252300930322795) | Opus 5.5 | [@Dstudio_ai](https://x.com/Dstudio_ai) | 0:21 | — |
 | [用Blender制作的龙宫城](https://x.com/Ayu_AI_0912/status/2103669801554264378) | Opus 5.5 | [@Ayu_AI_0912](https://x.com/Ayu_AI_0912) | 0:24 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103669801554264378) |
+| [互动公寓场景](https://x.com/MengTo/status/2120316203738829180) | Opus 5.5 | [@MengTo](https://x.com/MengTo) | 0:52 | — |
 | [由简短提示词一次生成Roblox风格3D模型](https://x.com/BlackJackieRBLX/status/2111552455846556003) | Opus 5.5 | [@BlackJackieRBLX](https://x.com/BlackJackieRBLX) | 0:38 | — |
 | [珍稀鸟类繁育季像素风庆祝视频](https://x.com/simonw/status/2104002636513206422) | Opus 5.5 | [@simonw](https://x.com/simonw) | 0:15 | — |
-| [带风与海浪的三维世界场景](https://x.com/thebuggeddev/status/2117298037261550073) | Opus 5.5 | [@thebuggeddev](https://x.com/thebuggeddev) | 0:42 | — |
-| [可爱动态 3D 场景](https://x.com/Dstudio_ai/status/2118252300930322795) | Opus 5.5 | [@Dstudio_ai](https://x.com/Dstudio_ai) | 0:21 | — |
 | [代码生成的海滩场景与音效](https://x.com/LexnLin/status/2108694114476650840) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 0:18 | — |
 | [可自由漫游的电影感 3D 世界](https://x.com/LexnLin/status/2103194052850241739) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 1:24 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103194052850241739) |
-| [2.5D像素风雨中庭院场景](https://x.com/KanaWorks_AI/status/2102801635638673762) | Opus 5.5 | [@KanaWorks_AI](https://x.com/KanaWorks_AI) | 0:57 | — |
 | [风暴中的油井与怪兽场景](https://x.com/Guronnimo/status/2116503955119255977) | Opus 5.5 | [@Guronnimo](https://x.com/Guronnimo) | 0:24 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2116503955119255977) |
-| [基于物理渲染的浏览器游戏场景](https://x.com/rewind02/status/2123745767286276410) | Opus 5.5 | [@rewind02](https://x.com/rewind02) | 0:22 | — |
-| [互动公寓场景](https://x.com/MengTo/status/2120316203738829180) | Opus 5.5 | [@MengTo](https://x.com/MengTo) | 0:52 | — |
-| [在 Blender 中复刻的游戏预告片](https://x.com/MengTo/status/2121614786245104107) | Opus 5.5 | [@MengTo](https://x.com/MengTo) | 0:57 | — |
+| [2.5D像素风雨中庭院场景](https://x.com/KanaWorks_AI/status/2102801635638673762) | Opus 5.5 | [@KanaWorks_AI](https://x.com/KanaWorks_AI) | 0:57 | — |
 | [实时光线追踪球体WebGL演示](https://x.com/akiy_8/status/2103434383218872503) | Opus 5.5 | [@akiy_8](https://x.com/akiy_8) | 0:15 | — |
 | [浏览器池房世界](https://x.com/Ben__Springer/status/2119915615351693483) | Opus 5.5 | [@Ben__Springer](https://x.com/Ben__Springer) | 0:56 | — |
+| [程序化海天场景游艇模拟器](https://x.com/maxt3chno/status/2121296570872107145) | Opus 5.5 | [@maxt3chno](https://x.com/maxt3chno) | 1:36 | — |
 | [程序化编织岛屿](https://x.com/krisyangdev/status/2116887799274299512) | Opus 5.5 | [@krisyangdev](https://x.com/krisyangdev) | 0:15 | — |
 | [机器人拣货前置仓模拟](https://x.com/anxuanng/status/2116911893344383252) | Opus 5.5 | [@anxuanng](https://x.com/anxuanng) | 0:25 | — |
 | [红斗篷兜帽猎人游戏角色建模与动画](https://x.com/rewind02/status/2115779810932728259) | Opus 5.5 | [@rewind02](https://x.com/rewind02) | 0:04 | — |
 | [彩色腿部绑定的视频转3D动物行走动画](https://x.com/Stefan_3D_AI/status/2109568757001756710) | Opus 5.5 | [@Stefan_3D_AI](https://x.com/Stefan_3D_AI) | 0:13 | — |
-| [Blender 节点生成的程序化城市](https://x.com/0xWast3/status/2115482577712590977) | Opus 5.5 | [@0xWast3](https://x.com/0xWast3) | 0:23 | — |
 | [程序化海洋与水体场景](https://x.com/LexnLin/status/2113333862625648715) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 1:00 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2113333862625648715) |
-| [程序化海天场景游艇模拟器](https://x.com/maxt3chno/status/2121296570872107145) | Opus 5.5 | [@maxt3chno](https://x.com/maxt3chno) | 1:36 | — |
+| [Blender 节点生成的程序化城市](https://x.com/0xWast3/status/2115482577712590977) | Opus 5.5 | [@0xWast3](https://x.com/0xWast3) | 0:23 | — |
 | [代码生成的中国山水画](https://x.com/LexnLin/status/2112264777309491443) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 1:00 | — |
-| [控制器骑自行车骑鹈鹕的递归SVG](https://x.com/Mr_Salio/status/2111816222811541641) | Fable 5.5 (preview) | [@Mr_Salio](https://x.com/Mr_Salio) | 0:19 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2111816222811541641) |
 | [用Opus 5.5制作的3D水道场景](https://x.com/nachat_dayo/status/2109769320050090381) | Opus 5.5 | [@nachat_dayo](https://x.com/nachat_dayo) | 0:53 | — |
+| [可变形收割机器人概念](https://x.com/DilumSanjaya/status/2111138912349626801) | Opus 5.5 | [@DilumSanjaya](https://x.com/DilumSanjaya) | 1:10 | — |
 | [水墨风格虾互动着色器](https://x.com/jshguo/status/2105250266392224097) | Opus 5.5 | [@jshguo](https://x.com/jshguo) | 0:10 | — |
+| [控制器骑自行车骑鹈鹕的递归SVG](https://x.com/Mr_Salio/status/2111816222811541641) | Fable 5.5 (preview) | [@Mr_Salio](https://x.com/Mr_Salio) | 0:19 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2111816222811541641) |
 | [房屋改造与日照热量模拟](https://x.com/Rutto02/status/2110019227998683484) | Opus 5.5 | [@Rutto02](https://x.com/Rutto02) | 0:34 | — |
 | [依据参考图在3ds Max中重建办公室场景](https://x.com/rewind02/status/2114316443261002226) | Opus 5.5 | [@rewind02](https://x.com/rewind02) | 0:40 | — |
-| [台海入侵情景模拟](https://x.com/TyMoneyJ03/status/2116296544307605711) | Opus 5.5 | [@TyMoneyJ03](https://x.com/TyMoneyJ03) | 2:09 | — |
+| [动态斗篷英雄角色](https://x.com/rewind02/status/2121933776884269192) | Opus 5.5 | [@rewind02](https://x.com/rewind02) | 0:04 | — |
 | [含室内与道具的城市场景](https://x.com/badboyfoxy/status/2115046586703057244) | Opus 5.5 / Fable 5.5 (preview) | [@badboyfoxy](https://x.com/badboyfoxy) | 2:25 | — |
+| [台海入侵情景模拟](https://x.com/TyMoneyJ03/status/2116296544307605711) | Opus 5.5 | [@TyMoneyJ03](https://x.com/TyMoneyJ03) | 2:09 | — |
 | [浏览器中的机器人装箱工位物理仿真](https://x.com/konstantinsaifo/status/2115722519336345861) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 0:46 | — |
 | [仅用一个HTML文件制作的海洋场景](https://x.com/AHSeslami/status/2112130638124138759) | Opus 5.5 | [@AHSeslami](https://x.com/AHSeslami) | 0:32 | — |
-| [由个人推文构建的城市可视化](https://x.com/paularambles/status/2107125351784886642) | Opus 5.5 | [@paularambles](https://x.com/paularambles) | 0:46 | — |
-| [可变形收割机器人概念](https://x.com/DilumSanjaya/status/2111138912349626801) | Opus 5.5 | [@DilumSanjaya](https://x.com/DilumSanjaya) | 1:10 | — |
-| [《彼方へ》三维意境短片](https://x.com/scottstts/status/2115883707072385445) | Opus 5.5 | [@scottstts](https://x.com/scottstts) | 1:17 | — |
 | [Blender绑定基础角色](https://x.com/rewind02/status/2119035947211685947) | Opus 5.5 | [@rewind02](https://x.com/rewind02) | 0:04 | — |
+| [由个人推文构建的城市可视化](https://x.com/paularambles/status/2107125351784886642) | Opus 5.5 | [@paularambles](https://x.com/paularambles) | 0:46 | — |
+| [《彼方へ》三维意境短片](https://x.com/scottstts/status/2115883707072385445) | Opus 5.5 | [@scottstts](https://x.com/scottstts) | 1:17 | — |
 | [复刻《食物森林》动画短片](https://x.com/scottstts/status/2113955828021563857) | Opus 5.5 | [@scottstts](https://x.com/scottstts) | 0:12 | — |
 | [宇航员骑鹈鹕骑自行车的SVG动画](https://x.com/ChrisGPT/status/2117495471346176156) | Fable 5.5 (preview) | [@ChrisGPT](https://x.com/ChrisGPT) | 0:09 | — |
-| [Blender拉面店场景](https://x.com/victormustar/status/2109922839671562534) | Opus 5.5 | [@victormustar](https://x.com/victormustar) | 0:15 | — |
 | [AI生成视觉短片](https://x.com/gizakdag/status/2117604816491085982) | Opus 5.5 | [@gizakdag](https://x.com/gizakdag) | 0:20 | — |
+| [Blender拉面店场景](https://x.com/victormustar/status/2109922839671562534) | Opus 5.5 | [@victormustar](https://x.com/victormustar) | 0:15 | — |
+| [浏览器中的绘画风三维世界](https://x.com/rewind02/status/2122298720955830563) | Opus 5.5 | [@rewind02](https://x.com/rewind02) | 1:54 | — |
 | [黑色星期五仓库2D与3D模拟](https://x.com/konstantinsaifo/status/2112108122126827887) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 0:45 | — |
 | [土耳其大理石纹模拟引擎](https://x.com/dhruvalgolakiya/status/2105705406958067765) | Opus 5.5 | [@dhruvalgolakiya](https://x.com/dhruvalgolakiya) | 0:51 | — |
-| [浏览器中运行的开放世界岛屿](https://x.com/prasenx/status/2114821178959565267) | Opus 5.5 | [@prasenx](https://x.com/prasenx) | 0:30 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2114821178959565267) |
-| [机械玻璃水母三维模拟](https://x.com/0x_fokki/status/2116968438296150116) | Opus 5.5 | [@0x_fokki](https://x.com/0x_fokki) | 0:16 | — |
 | [浏览器十亿三角形渲染演示](https://x.com/sara_kumodeck/status/2117062532439671028) | Opus 5.5 | [@sara_kumodeck](https://x.com/sara_kumodeck) | 0:10 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2117062532439671028) |
+| [机械玻璃水母三维模拟](https://x.com/0x_fokki/status/2116968438296150116) | Opus 5.5 | [@0x_fokki](https://x.com/0x_fokki) | 0:16 | — |
+| [浏览器中运行的开放世界岛屿](https://x.com/prasenx/status/2114821178959565267) | Opus 5.5 | [@prasenx](https://x.com/prasenx) | 0:30 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2114821178959565267) |
+| [由二维施工计划图生成的 Blender 4D 施工模型](https://x.com/dobokuya77/status/2121936943969898742) | Opus 5.5 | [@dobokuya77](https://x.com/dobokuya77) | 0:51 | — |
 | [夏日祭池塘 3D 场景](https://x.com/scottstts/status/2114035230113984749) | Opus 5.5 | [@scottstts](https://x.com/scottstts) | 1:05 | — |
+| [绑定骨骼的三维游戏角色](https://x.com/0xKense1/status/2119071023937032420) | Opus 5.5 | [@0xKense1](https://x.com/0xKense1) | 0:28 | — |
 | [程序化生成海洋三维场景](https://x.com/techartist_/status/2111912410131153254) | Opus 5.5 | [@techartist_](https://x.com/techartist_) | 0:16 | — |
 | [生成式建筑着色器演示](https://x.com/jshguo/status/2110699640664600906) | Sonnet 5.5 | [@jshguo](https://x.com/jshguo) | 0:22 | — |
 | [互动式机器狗拆解](https://x.com/0x_fokki/status/2120252886051393868) | Opus 5.5 | [@0x_fokki](https://x.com/0x_fokki) | 0:25 | — |
-| [绑定骨骼的三维游戏角色](https://x.com/0xKense1/status/2119071023937032420) | Opus 5.5 | [@0xKense1](https://x.com/0xKense1) | 0:28 | — |
 | [背负苔藓花园的巨兽动画](https://x.com/theparuchh/status/2117293762153951564) | Opus 5.5 | [@theparuchh](https://x.com/theparuchh) | 1:53 | — |
-| [浏览器中可交互的3D果冻橙子](https://x.com/vib3coded/status/2110665495221268915) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:18 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2110665495221268915) |
 | [带检查场景的三维绑定角色](https://x.com/sorenxet/status/2118357592946757797) | Opus 5.5 | [@sorenxet](https://x.com/sorenxet) | 0:04 | — |
-| [Claude 设计的三维机器人身体](https://x.com/SkyeSharkie/status/2118589617490604211) | Opus 5.5 | [@SkyeSharkie](https://x.com/SkyeSharkie) | 0:36 | — |
 | [WebGL 视觉效果实验场](https://x.com/Kubai087/status/2116207122535035178) | Opus 5.5 | [@Kubai087](https://x.com/Kubai087) | 0:52 | — |
-| [像素风动画作品](https://x.com/SpikeRiser/status/2102581008654594124) | Opus 5.5 | [@SpikeRiser](https://x.com/SpikeRiser) | 3:30 | — |
+| [浏览器中可交互的3D果冻橙子](https://x.com/vib3coded/status/2110665495221268915) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:18 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2110665495221268915) |
+| [Claude 设计的三维机器人身体](https://x.com/SkyeSharkie/status/2118589617490604211) | Opus 5.5 | [@SkyeSharkie](https://x.com/SkyeSharkie) | 0:36 | — |
+| [元祖高达三维模型初稿](https://x.com/ChrisHKAI/status/2123061791299416339) | Opus 5.5 | [@ChrisHKAI](https://x.com/ChrisHKAI) | 0:52 | — |
 | [程序生成的宝可梦木刻版画](https://x.com/chetaslua/status/2119478883091431843) | Opus 5.5 | [@chetaslua](https://x.com/chetaslua) | 0:16 | — |
-| [图像转三维Blender渲染](https://x.com/xikhar/status/2110143242591510835) | Opus 5.5 | [@xikhar](https://x.com/xikhar) | 0:05 | — |
-| [程序化生成的拿破仑野战炮3D模型](https://x.com/thebuggeddev/status/2107449104926482912) | Opus 5.5 | [@thebuggeddev](https://x.com/thebuggeddev) | 0:51 | — |
+| [像素风动画作品](https://x.com/SpikeRiser/status/2102581008654594124) | Opus 5.5 | [@SpikeRiser](https://x.com/SpikeRiser) | 3:30 | — |
 | [融入三维人物的咖啡馆场景](https://x.com/onofumi_AI/status/2118254309595029634) | Opus 5.5 | [@onofumi_AI](https://x.com/onofumi_AI) | 0:16 | — |
-| [动态斗篷英雄角色](https://x.com/rewind02/status/2121933776884269192) | Opus 5.5 | [@rewind02](https://x.com/rewind02) | 0:04 | — |
+| [通过MCP给3D角色戴戒指](https://x.com/skyflash521/status/2111388497718423744) | Opus 5.5 | [@skyflash521](https://x.com/skyflash521) | 0:08 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2111388497718423744) |
+| [程序化生成的拿破仑野战炮3D模型](https://x.com/thebuggeddev/status/2107449104926482912) | Opus 5.5 | [@thebuggeddev](https://x.com/thebuggeddev) | 0:51 | — |
+| [图像转三维Blender渲染](https://x.com/xikhar/status/2110143242591510835) | Opus 5.5 | [@xikhar](https://x.com/xikhar) | 0:05 | — |
 | [开源Blender黏土动画技能演示](https://x.com/angrypenguinPNG/status/2103205636662341661) | Opus 5.5 | [@angrypenguinPNG](https://x.com/angrypenguinPNG) | 0:20 | — |
 | [取材真实地点的萤火虫互动体验](https://x.com/RileyRalmuto/status/2103690926019191124) | Opus 5.5 | [@RileyRalmuto](https://x.com/RileyRalmuto) | 6:16 | — |
+| [低成本Blender三维动画](https://x.com/Stronkter/status/2117656832655409476) | Opus 5.5 | [@Stronkter](https://x.com/Stronkter) | 0:21 | — |
 | [将二维瓦片地图立体化的 Godot 插件](https://x.com/KanaWorks_AI/status/2115011274023325950) | Opus 5.5 | [@KanaWorks_AI](https://x.com/KanaWorks_AI) | 2:24 | — |
 | [Marimo网页模拟](https://x.com/S_Conradi/status/2116069269473816705) | Opus 5.5 | [@S_Conradi](https://x.com/S_Conradi) | 1:36 | — |
-| [低成本Blender三维动画](https://x.com/Stronkter/status/2117656832655409476) | Opus 5.5 | [@Stronkter](https://x.com/Stronkter) | 0:21 | — |
 | [Duet角色的代码驱动3D动画](https://x.com/higgsfield_ai/status/2113062105901658126) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:20 | — |
-| [1000张matplotlib图表展示](https://x.com/goodside/status/2103863167830876510) | Opus 5.5 | [@goodside](https://x.com/goodside) | 2:00 | — |
-| [逐步3D厨房改造方案](https://x.com/Skylartkitchen/status/2103468829859020824) | Opus 5.5 | [@Skylartkitchen](https://x.com/Skylartkitchen) | 1:02 | — |
-| [用Jig和Opus 5.5制作的放松系生成视觉](https://x.com/numaausaumon/status/2109943963536998694) | Opus 5.5 | [@numaausaumon](https://x.com/numaausaumon) | 0:34 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2109943963536998694) |
 | [个人网站视觉场景](https://x.com/brian1zhou/status/2119966939535786306) | Opus 5.5 | [@brian1zhou](https://x.com/brian1zhou) | 0:38 | — |
-| [通过MCP给3D角色戴戒指](https://x.com/skyflash521/status/2111388497718423744) | Opus 5.5 | [@skyflash521](https://x.com/skyflash521) | 0:08 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2111388497718423744) |
-| [由二维施工计划图生成的 Blender 4D 施工模型](https://x.com/dobokuya77/status/2121936943969898742) | Opus 5.5 | [@dobokuya77](https://x.com/dobokuya77) | 0:51 | — |
+| [浏览器中的绘画风 3D 世界](https://x.com/rewind02/status/2121991760825995575) | Opus 5.5 | [@rewind02](https://x.com/rewind02) | 0:28 | — |
+| [1000张matplotlib图表展示](https://x.com/goodside/status/2103863167830876510) | Opus 5.5 | [@goodside](https://x.com/goodside) | 2:00 | — |
+| [用Jig和Opus 5.5制作的放松系生成视觉](https://x.com/numaausaumon/status/2109943963536998694) | Opus 5.5 | [@numaausaumon](https://x.com/numaausaumon) | 0:34 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2109943963536998694) |
+| [逐步3D厨房改造方案](https://x.com/Skylartkitchen/status/2103468829859020824) | Opus 5.5 | [@Skylartkitchen](https://x.com/Skylartkitchen) | 1:02 | — |
+| [以声音捕猎的洞穴生物](https://x.com/thegreatest_sv/status/2122761185678299602) | Opus 5.5 | [@thegreatest_sv](https://x.com/thegreatest_sv) | 0:22 | — |
+| [WebGPU沼泽场景移植](https://x.com/chetanankola/status/2117536810184438037) | Opus 5.5 | [@chetanankola](https://x.com/chetanankola) | 0:49 | — |
 | [可用于游戏的绑定动画角色](https://x.com/sorenxet/status/2118685753299349699) | Opus 5.5 | [@sorenxet](https://x.com/sorenxet) | 0:04 | — |
+| [由插画构建的可交互港口](https://x.com/rewind02/status/2121627795566567577) | Opus 5.5 | [@rewind02](https://x.com/rewind02) | 0:25 | — |
+| [互动光学错觉盒](https://x.com/ann_nnng/status/2119042707943494127) | Opus 5.5 | [@ann_nnng](https://x.com/ann_nnng) | 0:21 | — |
 | [可漫游3D博物馆导览](https://x.com/mohamedbakuly/status/2102746374450094323) | Opus 5.5 | [@mohamedbakuly](https://x.com/mohamedbakuly) | 1:59 | — |
+| [自动化短视频生产工厂](https://x.com/Y0urDumble/status/2118038616257515823) | Opus 5.5 | [@Y0urDumble](https://x.com/Y0urDumble) | 0:21 | — |
+| [机械眼镜蛇拆解模拟器](https://x.com/0x_mura/status/2116597286155542961) | Opus 5.5 | [@0x_mura](https://x.com/0x_mura) | 0:25 | — |
+| [可自由漫游的三维悉尼城](https://x.com/rionaifantasy/status/2115062250398736396) | Opus 5.5 | [@rionaifantasy](https://x.com/rionaifantasy) | 1:02 | — |
 | [灵性风格生成艺术](https://x.com/sato_neet/status/2102652916335296913) | Opus 5.5 | [@sato_neet](https://x.com/sato_neet) | 1:04 | — |
 | [无文字呈现人类史上最大骗局的画面](https://x.com/Kadiner_ir/status/2105910487015674058) | Opus 5.5 | [@Kadiner_ir](https://x.com/Kadiner_ir) | 0:15 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2105910487015674058) |
-| [机械眼镜蛇拆解模拟器](https://x.com/0x_mura/status/2116597286155542961) | Opus 5.5 | [@0x_mura](https://x.com/0x_mura) | 0:25 | — |
 | [Blender压力测试动画](https://x.com/rileybrown/status/2111285052617445438) | Opus 5.5 | [@rileybrown](https://x.com/rileybrown) | 2:33 | — |
-| [元祖高达三维模型初稿](https://x.com/ChrisHKAI/status/2123061791299416339) | Opus 5.5 | [@ChrisHKAI](https://x.com/ChrisHKAI) | 0:52 | — |
 | [音乐与音效同步的动画场景](https://x.com/chetaslua/status/2111087834329399635) | Opus 5.5 / Fable 5.5 (preview) | [@chetaslua](https://x.com/chetaslua) | 0:32 | — |
-| [自动化短视频生产工厂](https://x.com/Y0urDumble/status/2118038616257515823) | Opus 5.5 | [@Y0urDumble](https://x.com/Y0urDumble) | 0:21 | — |
-| [WebGPU沼泽场景移植](https://x.com/chetanankola/status/2117536810184438037) | Opus 5.5 | [@chetanankola](https://x.com/chetanankola) | 0:49 | — |
 | [完全由代码生成的程序化3D动物](https://x.com/majidmanzarpour/status/2105723245722812598) | Opus 5.5 | [@majidmanzarpour](https://x.com/majidmanzarpour) | 1:57 | — |
-| [可自由漫游的三维悉尼城](https://x.com/rionaifantasy/status/2115062250398736396) | Opus 5.5 | [@rionaifantasy](https://x.com/rionaifantasy) | 1:02 | — |
+| [自定义美术风格的互动火车探索场景](https://x.com/DilumSanjaya/status/2103525797822960007) | Opus 5.5 | [@DilumSanjaya](https://x.com/DilumSanjaya) | 0:44 | — |
+| [可互动的果冻鳄鱼软体模拟](https://x.com/vib3coded/status/2121290268779618790) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:17 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2121290268779618790) |
 | [Three.js 互动视觉作品](https://x.com/chetaslua/status/2119522734598471987) | Opus 5.5 | [@chetaslua](https://x.com/chetaslua) | 0:13 | — |
-| [带动画的八足螨虫游戏怪物](https://x.com/theparuchh/status/2115508738891063617) | Opus 5.5 | [@theparuchh](https://x.com/theparuchh) | 0:51 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2115508738891063617) |
-| [可切换昼夜与雨天的像素篮球场微缩场景](https://x.com/vib3coded/status/2112989996366102944) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:18 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2112989996366102944) |
 | [体素3D舞台动画](https://x.com/8co28/status/2110291146291466725) | Opus 5.5 | [@8co28](https://x.com/8co28) | 1:07 | — |
+| [可切换昼夜与雨天的像素篮球场微缩场景](https://x.com/vib3coded/status/2112989996366102944) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:18 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2112989996366102944) |
+| [带动画的八足螨虫游戏怪物](https://x.com/theparuchh/status/2115508738891063617) | Opus 5.5 | [@theparuchh](https://x.com/theparuchh) | 0:51 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2115508738891063617) |
 | [按参考图还原的三维办公室](https://x.com/sorenxet/status/2116912025825616083) | Opus 5.5 | [@sorenxet](https://x.com/sorenxet) | 0:40 | — |
+| [可操作的挖掘机模型](https://x.com/aricccq/status/2121916952134463637) | Opus 5.5 | [@aricccq](https://x.com/aricccq) | 0:19 | — |
 | [硅谷风格城市地图](https://x.com/katedeyneka/status/2107149731252343202) | Opus 5.5 | [@katedeyneka](https://x.com/katedeyneka) | 0:15 | — |
-| [由插画构建的可交互港口](https://x.com/rewind02/status/2121627795566567577) | Opus 5.5 | [@rewind02](https://x.com/rewind02) | 0:25 | — |
 | [花园中漂浮小船的场景](https://x.com/pankajkumar_dev/status/2111518872272814233) | Fable 5.5 (preview) | [@pankajkumar_dev](https://x.com/pankajkumar_dev) | 0:57 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2111518872272814233) |
 | [带自定义界面的 Three.js 机器人网页](https://x.com/studio_oneroom/status/2117214268483576266) | Opus 5.5 | [@studio_oneroom](https://x.com/studio_oneroom) | 0:47 | — |
-| [自定义美术风格的互动火车探索场景](https://x.com/DilumSanjaya/status/2103525797822960007) | Opus 5.5 | [@DilumSanjaya](https://x.com/DilumSanjaya) | 0:44 | — |
 | [互动3D书籍设计改进](https://x.com/premiumtantan/status/2110398817380315357) | Opus 5.5 | [@premiumtantan](https://x.com/premiumtantan) | 0:08 | — |
 | [吹泡泡看田园风光的互动场景](https://x.com/akakuma0219/status/2103045683452490054) | Opus 5.5 | [@akakuma0219](https://x.com/akakuma0219) | 0:39 | — |
-| [可互动的果冻鳄鱼软体模拟](https://x.com/vib3coded/status/2121290268779618790) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:17 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2121290268779618790) |
-| [图片驱动的虚幻引擎3D场景](https://x.com/onofumi_AI/status/2102746676268351570) | Opus 5.5 | [@onofumi_AI](https://x.com/onofumi_AI) | 0:12 | — |
-| [穿越雷暴巨浪的划船场景](https://x.com/camperaigg/status/2118317021935071339) | Fable 5.5 (preview) | [@camperaigg](https://x.com/camperaigg) | 0:35 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2118317021935071339) |
-| [Live2D二维模型绑定演示](https://x.com/sayaka_aiart/status/2109500565768270102) | Opus 5.5 | [@sayaka_aiart](https://x.com/sayaka_aiart) | 0:16 | — |
 | [可用于游戏的英雄角色](https://x.com/rewind02/status/2117999411397525798) | Opus 5.5 | [@rewind02](https://x.com/rewind02) | 0:04 | — |
-| [以声音捕猎的洞穴生物](https://x.com/thegreatest_sv/status/2122761185678299602) | Opus 5.5 | [@thegreatest_sv](https://x.com/thegreatest_sv) | 0:22 | — |
+| [穿越雷暴巨浪的划船场景](https://x.com/camperaigg/status/2118317021935071339) | Fable 5.5 (preview) | [@camperaigg](https://x.com/camperaigg) | 0:35 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2118317021935071339) |
+| [图片驱动的虚幻引擎3D场景](https://x.com/onofumi_AI/status/2102746676268351570) | Opus 5.5 | [@onofumi_AI](https://x.com/onofumi_AI) | 0:12 | — |
 | [液态形状路径追踪渲染网页工具](https://x.com/aecyydesign/status/2114825374961897939) | Opus 5.5 | [@aecyydesign](https://x.com/aecyydesign) | 0:10 | — |
+| [Live2D二维模型绑定演示](https://x.com/sayaka_aiart/status/2109500565768270102) | Opus 5.5 | [@sayaka_aiart](https://x.com/sayaka_aiart) | 0:16 | — |
 | [两层别墅机电管线设计三维演示](https://x.com/Solvaix/status/2112614086932611107) | Opus 5.5 | [@Solvaix](https://x.com/Solvaix) | 1:11 | — |
 | [Roblox 场景地图](https://x.com/kentasakurajima/status/2112665300608929807) | Opus 5.5 | [@kentasakurajima](https://x.com/kentasakurajima) | 0:22 | — |
 | [单文件HTML粒子物理引擎](https://x.com/cyrilXBT/status/2103532793406149036) | Opus 5.5 | [@cyrilXBT](https://x.com/cyrilXBT) | 0:44 | — |
-| [浏览器中的绘画风三维世界](https://x.com/rewind02/status/2122298720955830563) | Opus 5.5 | [@rewind02](https://x.com/rewind02) | 1:54 | — |
+| [用 Blender 建模的电影片场公寓](https://x.com/rewind02/status/2118404190041235738) | Opus 5.5 | [@rewind02](https://x.com/rewind02) | 0:18 | — |
 | [微缩港口Three.js场景](https://x.com/chetanankola/status/2103649622963237261) | Opus 5.5 | [@chetanankola](https://x.com/chetanankola) | 0:25 | — |
 | [用Opus 5.5为自建服务制作的3D世界](https://x.com/Dstudio_ai/status/2105858848380907985) | Opus 5.5 | [@Dstudio_ai](https://x.com/Dstudio_ai) | 0:24 | — |
-| [用 Blender 建模的电影片场公寓](https://x.com/rewind02/status/2118404190041235738) | Opus 5.5 | [@rewind02](https://x.com/rewind02) | 0:18 | — |
-| [机械折翼蝙蝠](https://x.com/0xKitsui/status/2116525446560977059) | Opus 5.5 | [@0xKitsui](https://x.com/0xKitsui) | 0:24 | — |
 | [代码驱动特效的像素风万圣节场景](https://x.com/zer0point_eth/status/2117593246515810630) | Opus 5.5 | [@zer0point_eth](https://x.com/zer0point_eth) | 0:14 | — |
+| [机械折翼蝙蝠](https://x.com/0xKitsui/status/2116525446560977059) | Opus 5.5 | [@0xKitsui](https://x.com/0xKitsui) | 0:24 | — |
 | [三次点击即可拆解的机械水母](https://x.com/0x_fokki/status/2115890589556236681) | Opus 5.5 | [@0x_fokki](https://x.com/0x_fokki) | 0:21 | — |
-| [可操作的挖掘机模型](https://x.com/aricccq/status/2121916952134463637) | Opus 5.5 | [@aricccq](https://x.com/aricccq) | 0:19 | — |
 | [根据概念图在Blender中建模绑定的角色](https://x.com/majidmanzarpour/status/2102920224718873027) | Opus 5.5 | [@majidmanzarpour](https://x.com/majidmanzarpour) | 0:48 | — |
 | [金阁寺CAD转3D动画](https://x.com/Ayu_AI_0912/status/2103243328041132100) | Opus 5.5 | [@Ayu_AI_0912](https://x.com/Ayu_AI_0912) | 0:24 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103243328041132100) |
 | [Haiku 5.5一笔画人脸挑战](https://x.com/Avenoxai/status/2108930079363637288) | Haiku 5.5 | [@Avenoxai](https://x.com/Avenoxai) | 0:21 | — |
 | [AI工作智能体的3D虚拟办公室](https://x.com/anxuanng/status/2110453070236922090) | Opus 5.5 | [@anxuanng](https://x.com/anxuanng) | 0:30 | — |
-| [圆珠笔书写微距 ASMR](https://x.com/camperaigg/status/2119777467074580741) | Fable 5.5 (preview) | [@camperaigg](https://x.com/camperaigg) | 0:22 | — |
-| [浏览器水面与天空着色器场景](https://x.com/maxt3chno/status/2112213850682536223) | Opus 5.5 | [@maxt3chno](https://x.com/maxt3chno) | 1:12 | — |
 | [水冷电脑三维模型](https://x.com/MrTacticalX/status/2121476982798242112) | Opus 5.5 | [@MrTacticalX](https://x.com/MrTacticalX) | 0:41 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2121476982798242112) |
+| [圆珠笔书写微距 ASMR](https://x.com/camperaigg/status/2119777467074580741) | Fable 5.5 (preview) | [@camperaigg](https://x.com/camperaigg) | 0:22 | — |
+| [绘画风格三维世界](https://x.com/LexnLin/status/2121634005745635683) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 0:40 | — |
+| [浏览器水面与天空着色器场景](https://x.com/maxt3chno/status/2112213850682536223) | Opus 5.5 | [@maxt3chno](https://x.com/maxt3chno) | 1:12 | — |
 | [运动员跳远4D重建](https://x.com/higgsfield_ai/status/2102916405314330726) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:08 | — |
 | [悬崖边室内场景](https://x.com/LexnLin/status/2117760169480442201) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 0:45 | — |
-| [扩展后的历史艺术风格](https://x.com/AlchainHust/status/2106955771183272343) | Opus 5.5 | [@AlchainHust](https://x.com/AlchainHust) | 2:08 | — |
 | [浏览器中的陀螺仪3D倾斜动效](https://x.com/ann_nnng/status/2111756250581270638) | Opus 5.5 | [@ann_nnng](https://x.com/ann_nnng) | 0:20 | — |
+| [扩展后的历史艺术风格](https://x.com/AlchainHust/status/2106955771183272343) | Opus 5.5 | [@AlchainHust](https://x.com/AlchainHust) | 2:08 | — |
 | [平面图转3D模型](https://x.com/uncle_render/status/2110250093874229537) | Opus 5.5 | [@uncle_render](https://x.com/uncle_render) | 0:52 | — |
 | [潮风海边三维场景](https://x.com/scottstts/status/2115228485304152146) | Opus 5.5 | [@scottstts](https://x.com/scottstts) | 1:11 | — |
-| [地面裂开3D场景动画](https://x.com/viktoroddy/status/2109984169845821651) | Opus 5.5 | [@viktoroddy](https://x.com/viktoroddy) | 0:22 | — |
-| [绘画风格三维世界](https://x.com/LexnLin/status/2121634005745635683) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 0:40 | — |
-| [根据三视图生成的3D模型](https://x.com/npaka123/status/2102695787721584792) | Opus 5.5 | [@npaka123](https://x.com/npaka123) | 0:04 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102695787721584792) |
-| [刺绣风格锦鱼动画作品](https://x.com/nicekate8888/status/2103308087319007283) | Opus 5.5 | [@nicekate8888](https://x.com/nicekate8888) | 1:00 | — |
-| [浏览器中的三维世界](https://x.com/kellymilligannz/status/2105959798634377423) | Opus 5.5 | [@kellymilligannz](https://x.com/kellymilligannz) | 0:26 | — |
 | [撕开网格露出画作的互动作品](https://x.com/ann_nnng/status/2115780819142979978) | Opus 5.5 | [@ann_nnng](https://x.com/ann_nnng) | 0:42 | — |
+| [地面裂开3D场景动画](https://x.com/viktoroddy/status/2109984169845821651) | Opus 5.5 | [@viktoroddy](https://x.com/viktoroddy) | 0:22 | — |
+| [根据三视图生成的3D模型](https://x.com/npaka123/status/2102695787721584792) | Opus 5.5 | [@npaka123](https://x.com/npaka123) | 0:04 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102695787721584792) |
 | [慢动作火柴燃烧模拟](https://x.com/camperaigg/status/2118728540976009336) | Fable 5.5 (preview) | [@camperaigg](https://x.com/camperaigg) | 0:27 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2118728540976009336) |
+| [浏览器中的三维世界](https://x.com/kellymilligannz/status/2105959798634377423) | Opus 5.5 | [@kellymilligannz](https://x.com/kellymilligannz) | 0:26 | — |
+| [刺绣风格锦鱼动画作品](https://x.com/nicekate8888/status/2103308087319007283) | Opus 5.5 | [@nicekate8888](https://x.com/nicekate8888) | 1:00 | — |
 | [Nanite风格WebGPU渲染引擎](https://x.com/SamGCoder/status/2118870207045529812) | Opus 5.5 | [@SamGCoder](https://x.com/SamGCoder) | 1:23 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2118870207045529812) |
+| [大范围三维重建场景](https://x.com/kotohibi_3d/status/2120508846758400485) | Opus 5.5 | [@kotohibi_3d](https://x.com/kotohibi_3d) | 0:48 | — |
 | [实时仓储物流中心模拟](https://x.com/konstantinsaifo/status/2117886718062027230) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 0:28 | — |
 | [由插画生成的神社视频](https://x.com/kenchiku__girl/status/2103479968890273982) | Opus 5.5 | [@kenchiku__girl](https://x.com/kenchiku__girl) | 0:15 | — |
+| [可交互的罗马等距城市](https://x.com/dom_gag_96/status/2121560021339451523) | Opus 5.5 | [@dom_gag_96](https://x.com/dom_gag_96) | 0:55 | — |
 | [自主机器蜘蛛完整设计](https://x.com/konstantinsaifo/status/2107146625785205035) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 0:40 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2107146625785205035) |
 | [用代码逐个零件重建的折叠手机](https://x.com/andreysuperior/status/2113644365876691235) | Opus 5.5 | [@andreysuperior](https://x.com/andreysuperior) | 0:24 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2113644365876691235) |
 | [将图标转换为3D素材的工具](https://x.com/MengTo/status/2107445210011849103) | Opus 5.5 | [@MengTo](https://x.com/MengTo) | 0:57 | — |
-| [大范围三维重建场景](https://x.com/kotohibi_3d/status/2120508846758400485) | Opus 5.5 | [@kotohibi_3d](https://x.com/kotohibi_3d) | 0:48 | — |
 | [乐天世界主题公园3D重现](https://x.com/Neetfujisub/status/2103658660874621079) | Opus 5.5 | [@Neetfujisub](https://x.com/Neetfujisub) | 1:35 | — |
+| [棱镜形态互动视觉](https://x.com/nono_ai_archive/status/2122988750250901956) | Opus 5.5 | [@nono_ai_archive](https://x.com/nono_ai_archive) | 0:44 | — |
 | [Three.js场景效果测试](https://x.com/thoughtcrime___/status/2103598324687442284) | Opus 5.5 | [@thoughtcrime___](https://x.com/thoughtcrime___) | 0:40 | — |
 | [带拍照亭结尾的像素动画](https://x.com/ria_aicreator/status/2102543016389144975) | Opus 5.5 | [@ria_aicreator](https://x.com/ria_aicreator) | 0:23 | — |
 | [果冻桃子标本页](https://x.com/vib3coded/status/2112240323560645092) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:18 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2112240323560645092) |
-| [浏览器中的绘画风 3D 世界](https://x.com/rewind02/status/2121991760825995575) | Opus 5.5 | [@rewind02](https://x.com/rewind02) | 0:28 | — |
-| [可交互的罗马等距城市](https://x.com/dom_gag_96/status/2121560021339451523) | Opus 5.5 | [@dom_gag_96](https://x.com/dom_gag_96) | 0:55 | — |
+| [3D 房屋视频与工作流程图](https://x.com/DeepDive_KR/status/2123372078724264005) | Opus 5.5 | [@DeepDive_KR](https://x.com/DeepDive_KR) | 0:29 | — |
 | [布线完整的六轴工业机械臂](https://x.com/konstantinsaifo/status/2107821059772661912) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 0:35 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2107821059772661912) |
 | [上海顶层公寓Vision Pro场景](https://x.com/ivanfioravanti/status/2103701018450288657) | Opus 5.5 | [@ivanfioravanti](https://x.com/ivanfioravanti) | 1:39 | — |
 | [嵌套旋转六边形弹球物理模拟](https://x.com/blueemi99/status/2112189854234652746) | Opus 5.5 | [@blueemi99](https://x.com/blueemi99) | 0:28 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2112189854234652746) |
 | [浮空岛小镇昼夜变迁 3D 短片](https://x.com/0xbobaaa/status/2115486834755035178) | Opus 5.5 | [@0xbobaaa](https://x.com/0xbobaaa) | 0:58 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2115486834755035178) |
-| [地板下的混合现实小水槽](https://x.com/cg_ftLab/status/2117991934111395921) | Opus 5.5 | [@cg_ftLab](https://x.com/cg_ftLab) | 0:45 | — |
-| [实时汽车工厂模拟场景](https://x.com/konstantinsaifo/status/2117523739222982867) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 0:30 | — |
+| [互动式奥尼尔圆柱世界](https://x.com/NathanWilbanks_/status/2122359334290313441) | Opus 5.5 | [@NathanWilbanks_](https://x.com/NathanWilbanks_) | 1:17 | — |
 | [由概念设定图制作的划船游戏角色](https://x.com/0xKense1/status/2117273092284112963) | Opus 5.5 | [@0xKense1](https://x.com/0xKense1) | 0:28 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2117273092284112963) |
+| [实时汽车工厂模拟场景](https://x.com/konstantinsaifo/status/2117523739222982867) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 0:30 | — |
+| [地板下的混合现实小水槽](https://x.com/cg_ftLab/status/2117991934111395921) | Opus 5.5 | [@cg_ftLab](https://x.com/cg_ftLab) | 0:45 | — |
 | [开源哥特式大教堂3D场景](https://x.com/TokenGremlin/status/2103145953859375539) | Opus 5.5 | [@TokenGremlin](https://x.com/TokenGremlin) | 1:54 | — |
-| [棱镜形态互动视觉](https://x.com/nono_ai_archive/status/2122988750250901956) | Opus 5.5 | [@nono_ai_archive](https://x.com/nono_ai_archive) | 0:44 | — |
 | [可拆解的机器蜂鸟](https://x.com/0x_fokki/status/2119449808645607874) | Opus 5.5 | [@0x_fokki](https://x.com/0x_fokki) | 0:24 | — |
 | [舞者世界线时间雕塑互动作品](https://x.com/techartist_/status/2114819625242529992) | Opus 5.5 | [@techartist_](https://x.com/techartist_) | 0:30 | — |
-| [3D珠宝品牌展示](https://x.com/HamidoFx1/status/2109603285938094545) | Opus 5.5 | [@HamidoFx1](https://x.com/HamidoFx1) | 0:10 | — |
-| [互动式奥尼尔圆柱世界](https://x.com/NathanWilbanks_/status/2122359334290313441) | Opus 5.5 | [@NathanWilbanks_](https://x.com/NathanWilbanks_) | 1:17 | — |
-| [代码生成绘画笔刷引擎测试](https://x.com/RLanceMartin/status/2104637229465538850) | Sonnet 5.5 | [@RLanceMartin](https://x.com/RLanceMartin) | 0:25 | — |
 | [Blender 三维渲染场景](https://x.com/orpheuskaze/status/2119453145478881479) | Opus 5.5 | [@orpheuskaze](https://x.com/orpheuskaze) | 0:25 | — |
-| [用JS绘制自画像并配钢琴曲](https://x.com/kevin_t_ngo/status/2107462206610935857) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 0:20 | — |
-| [为自制3D软件开发的卡通渲染器](https://x.com/sekiun_creation/status/2103462799976575323) | Opus 5.5 | [@sekiun_creation](https://x.com/sekiun_creation) | 0:29 | — |
-| [互动果冻压榨玩具](https://x.com/vib3coded/status/2105285992865272110) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:18 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2105285992865272110) |
-| [带绑定三维角色检查流程](https://x.com/rewind02/status/2116554764641063296) | Opus 5.5 | [@rewind02](https://x.com/rewind02) | 0:04 | — |
-| [3D工具VFX精度测试](https://x.com/MattiaMerenda2/status/2103864218449559853) | Opus 5.5 | [@MattiaMerenda2](https://x.com/MattiaMerenda2) | 0:10 | — |
-| [SpaceX助推器捕获互动模拟](https://x.com/RyanSael/status/2110389281407852962) | Opus 5.5 | [@RyanSael](https://x.com/RyanSael) | 0:34 | — |
-| [滚动生成的房屋平面图](https://x.com/SammmAing/status/2112251300750458983) | Opus 5.5 | [@SammmAing](https://x.com/SammmAing) | 1:37 | — |
-| [网页端写实水面着色器](https://x.com/maxt3chno/status/2115862732637458763) | Opus 5.5 | [@maxt3chno](https://x.com/maxt3chno) | 1:32 | — |
+| [代码生成绘画笔刷引擎测试](https://x.com/RLanceMartin/status/2104637229465538850) | Sonnet 5.5 | [@RLanceMartin](https://x.com/RLanceMartin) | 0:25 | — |
 | [多步骤视觉演示](https://x.com/chetanankola/status/2120208430388617619) | Opus 5.5 | [@chetanankola](https://x.com/chetanankola) | 0:37 | — |
-| [模拟金属3D打印机打印火箭发动机](https://x.com/konstantinsaifo/status/2106378121557782950) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 0:56 | — |
+| [用JS绘制自画像并配钢琴曲](https://x.com/kevin_t_ngo/status/2107462206610935857) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 0:20 | — |
+| [带绑定三维角色检查流程](https://x.com/rewind02/status/2116554764641063296) | Opus 5.5 | [@rewind02](https://x.com/rewind02) | 0:04 | — |
+| [互动果冻压榨玩具](https://x.com/vib3coded/status/2105285992865272110) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:18 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2105285992865272110) |
+| [为自制3D软件开发的卡通渲染器](https://x.com/sekiun_creation/status/2103462799976575323) | Opus 5.5 | [@sekiun_creation](https://x.com/sekiun_creation) | 0:29 | — |
 | [3D角色舞蹈动作复刻](https://x.com/Maoku/status/2103663270616039723) | Opus 5.5 | [@Maoku](https://x.com/Maoku) | 0:20 | — |
+| [SpaceX助推器捕获互动模拟](https://x.com/RyanSael/status/2110389281407852962) | Opus 5.5 | [@RyanSael](https://x.com/RyanSael) | 0:34 | — |
+| [3D工具VFX精度测试](https://x.com/MattiaMerenda2/status/2103864218449559853) | Opus 5.5 | [@MattiaMerenda2](https://x.com/MattiaMerenda2) | 0:10 | — |
+| [网页端写实水面着色器](https://x.com/maxt3chno/status/2115862732637458763) | Opus 5.5 | [@maxt3chno](https://x.com/maxt3chno) | 1:32 | — |
+| [滚动生成的房屋平面图](https://x.com/SammmAing/status/2112251300750458983) | Opus 5.5 | [@SammmAing](https://x.com/SammmAing) | 1:37 | — |
 | [光线追踪黑洞之旅](https://x.com/camperaigg/status/2119429740041732118) | Fable 5.5 (preview) | [@camperaigg](https://x.com/camperaigg) | 0:30 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2119429740041732118) |
-| [工程设计的飞翼飞机模型](https://x.com/konstantinsaifo/status/2107752275980476558) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 0:43 | — |
+| [模拟金属3D打印机打印火箭发动机](https://x.com/konstantinsaifo/status/2106378121557782950) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 0:56 | — |
 | [飞行海龟背上的体素岛屿](https://x.com/vib3coded/status/2116169391301607810) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:12 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2116169391301607810) |
+| [工程设计的飞翼飞机模型](https://x.com/konstantinsaifo/status/2107752275980476558) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 0:43 | — |
 | [用JavaScript生成的瑞典邮票设计](https://x.com/ermanmalak/status/2109297440021201074) | Opus 5.5 | [@ermanmalak](https://x.com/ermanmalak) | 0:10 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2109297440021201074) |
-| [Three.js怪兽模拟](https://x.com/majidmanzarpour/status/2102810710791401883) | Opus 5.5 | [@majidmanzarpour](https://x.com/majidmanzarpour) | 2:13 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102810710791401883) |
-| [戴女巫帽吉祥物的万圣节3D循环动画](https://x.com/flxrnc/status/2114779295830679998) | Opus 5.5 | [@flxrnc](https://x.com/flxrnc) | 0:24 | — |
 | [十二臂机器人装配单元模拟](https://x.com/konstantinsaifo/status/2121097161589039470) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 0:35 | — |
-| [铃兰岛屿三维场景](https://x.com/ann_nnng/status/2112897537430741143) | Opus 5.5 | [@ann_nnng](https://x.com/ann_nnng) | 0:24 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2112897537430741143) |
+| [戴女巫帽吉祥物的万圣节3D循环动画](https://x.com/flxrnc/status/2114779295830679998) | Opus 5.5 | [@flxrnc](https://x.com/flxrnc) | 0:24 | — |
+| [Three.js怪兽模拟](https://x.com/majidmanzarpour/status/2102810710791401883) | Opus 5.5 | [@majidmanzarpour](https://x.com/majidmanzarpour) | 2:13 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102810710791401883) |
 | [蚂蚁爬过招股书的代码动画](https://x.com/kevin_t_ngo/status/2114815615156486362) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 2:00 | — |
+| [铃兰岛屿三维场景](https://x.com/ann_nnng/status/2112897537430741143) | Opus 5.5 | [@ann_nnng](https://x.com/ann_nnng) | 0:24 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2112897537430741143) |
+| [带次表面散射效果的三维物体](https://x.com/trymirage/status/2118436517383492006) | Opus 5.5 | [@trymirage](https://x.com/trymirage) | 0:25 | — |
 | [虚构火箭CAD图纸与发射动画](https://x.com/Ayu_AI_0912/status/2109515393220083912) | Opus 5.5 | [@Ayu_AI_0912](https://x.com/Ayu_AI_0912) | 0:24 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2109515393220083912) |
 | [可切开的果冻西瓜物理互动](https://x.com/vib3coded/status/2112638127483343162) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:17 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2112638127483343162) |
 | [灯网女王 3D 角色](https://x.com/theparuchh/status/2116920743392907274) | Opus 5.5 | [@theparuchh](https://x.com/theparuchh) | 0:49 | — |
-| [3D 房屋视频与工作流程图](https://x.com/DeepDive_KR/status/2123372078724264005) | Opus 5.5 | [@DeepDive_KR](https://x.com/DeepDive_KR) | 0:29 | — |
-| [带次表面散射效果的三维物体](https://x.com/trymirage/status/2118436517383492006) | Opus 5.5 | [@trymirage](https://x.com/trymirage) | 0:25 | — |
-| [物流码垛机器人仿真演示](https://x.com/neka_nat/status/2103728863666896933) | Opus 5.5 | [@neka_nat](https://x.com/neka_nat) | 0:26 | — |
-| [浏览器天空云层渲染项目](https://x.com/maxt3chno/status/2110832228775371226) | Opus 5.5 | [@maxt3chno](https://x.com/maxt3chno) | 1:39 | — |
+| [算法线艺创作过程](https://x.com/aimikoda/status/2119653253868630312) | Opus 5.5 | [@aimikoda](https://x.com/aimikoda) | 0:20 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2119653253868630312) |
 | [互动果冻大坝模拟器](https://x.com/vib3coded/status/2114512807500615723) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:18 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2114512807500615723) |
+| [浏览器天空云层渲染项目](https://x.com/maxt3chno/status/2110832228775371226) | Opus 5.5 | [@maxt3chno](https://x.com/maxt3chno) | 1:39 | — |
+| [物流码垛机器人仿真演示](https://x.com/neka_nat/status/2103728863666896933) | Opus 5.5 | [@neka_nat](https://x.com/neka_nat) | 0:26 | — |
 | [程序化法术特效与音效](https://x.com/majidmanzarpour/status/2102586912993116411) | Opus 5.5 | [@majidmanzarpour](https://x.com/majidmanzarpour) | 1:39 | — |
 | [用Blender和代码制作的像素世界](https://x.com/aicreataro/status/2109598040889942476) | Opus 5.5 | [@aicreataro](https://x.com/aicreataro) | 1:06 | — |
-| [西瓜果冻Three.js互动实验](https://x.com/Abmankendrick/status/2105675232954474831) | Opus 5.5 | [@Abmankendrick](https://x.com/Abmankendrick) | 0:27 | — |
 | [机械圣甲虫动画](https://x.com/Lummox_eth/status/2117649956777361809) | Opus 5.5 | [@Lummox_eth](https://x.com/Lummox_eth) | 0:17 | — |
-| [算法线艺创作过程](https://x.com/aimikoda/status/2119653253868630312) | Opus 5.5 | [@aimikoda](https://x.com/aimikoda) | 0:20 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2119653253868630312) |
+| [西瓜果冻Three.js互动实验](https://x.com/Abmankendrick/status/2105675232954474831) | Opus 5.5 | [@Abmankendrick](https://x.com/Abmankendrick) | 0:27 | — |
 | [手机端制作的3D预演动画测试](https://x.com/z933TfmXkaISSVc/status/2102758740483305832) | Opus 5.5 | [@z933TfmXkaISSVc](https://x.com/z933TfmXkaISSVc) | 0:14 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102758740483305832) |
 | [鹈鹕体素场景](https://x.com/JaydenDavisNC/status/2106960127987474652) | Fable 5.5 (preview) | [@JaydenDavisNC](https://x.com/JaydenDavisNC) | 0:34 | — |
 | [浏览器中的水体与光照引擎演示](https://x.com/apekshik/status/2107938887679267180) | Opus 5.5 | [@apekshik](https://x.com/apekshik) | 0:40 | — |
 | [Opus 5.5自我迭代的第二版演示](https://x.com/dashiAIxz/status/2103781641613439104) | Opus 5.5 | [@dashiAIxz](https://x.com/dashiAIxz) | 0:30 | — |
 | [施工现场4D模型可视化演示](https://x.com/dobokuya77/status/2102579218953765071) | Opus 5.5 | [@dobokuya77](https://x.com/dobokuya77) | 0:38 | — |
+| [人体模型铁砧锻打三维动画](https://x.com/maxt3chno/status/2119384176793153579) | Opus 5.5 | [@maxt3chno](https://x.com/maxt3chno) | 0:14 | — |
+| [像素艺术与高斯泼溅实验](https://x.com/nao3art/status/2123523032362967180) | Opus 5.5 | [@nao3art](https://x.com/nao3art) | 0:44 | — |
 | [Blender 南瓜雕刻](https://x.com/MrTacticalX/status/2116471578812952836) | Opus 5.5 | [@MrTacticalX](https://x.com/MrTacticalX) | 0:16 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2116471578812952836) |
 | [VR眼镜3D模型与宣传片](https://x.com/3DVR3/status/2103756080480387096) | Opus 5.5 | [@3DVR3](https://x.com/3DVR3) | 1:33 | — |
-| [人体模型铁砧锻打三维动画](https://x.com/maxt3chno/status/2119384176793153579) | Opus 5.5 | [@maxt3chno](https://x.com/maxt3chno) | 0:14 | — |
 | [可变形龙卷风机甲设计](https://x.com/ShadeLurk/status/2102465694894100862) | Opus 5.5 | [@ShadeLurk](https://x.com/ShadeLurk) | 0:15 | — |
 | [天堂岛3D场景](https://x.com/badboyfoxy/status/2109523901105500260) | Opus 5.5 / Fable 5.5 (preview) | [@badboyfoxy](https://x.com/badboyfoxy) | 2:07 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2109523901105500260) |
 | [像素风3D足球场模拟：孩子与偷球的狗](https://x.com/N1njaCodex/status/2113037013326627200) | Opus 5.5 | [@N1njaCodex](https://x.com/N1njaCodex) | 0:19 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2113037013326627200) |
-| [用Three.js制作的3D场景](https://x.com/i2cjak/status/2110474945704903065) | Opus 5.5 | [@i2cjak](https://x.com/i2cjak) | 1:31 | — |
 | [可交互的果冻章鱼软体模拟](https://x.com/vib3coded/status/2115173334031737112) | Opus 5.5 / Fable 5.5 (preview) | [@vib3coded](https://x.com/vib3coded) | 0:17 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2115173334031737112) |
+| [用Three.js制作的3D场景](https://x.com/i2cjak/status/2110474945704903065) | Opus 5.5 | [@i2cjak](https://x.com/i2cjak) | 1:31 | — |
 | [由单张图片生成的三维空间](https://x.com/onofumi_AI/status/2112519702987854162) | Opus 5.5 | [@onofumi_AI](https://x.com/onofumi_AI) | 0:17 | — |
-| [像素艺术与高斯泼溅实验](https://x.com/nao3art/status/2123523032362967180) | Opus 5.5 | [@nao3art](https://x.com/nao3art) | 0:44 | — |
 | [交互式等离子球桌面壁纸](https://x.com/chaseleantj/status/2104669620871536998) | Sonnet 5.5 | [@chaseleantj](https://x.com/chaseleantj) | 0:15 | — |
 | [无限延伸的里斯本电车程序化漫游](https://x.com/thebuggeddev/status/2103465304039076319) | Opus 5.5 | [@thebuggeddev](https://x.com/thebuggeddev) | 0:53 | — |
 | [三维蜡封印章](https://x.com/thebuggeddev/status/2113469231308382333) | Opus 5.5 | [@thebuggeddev](https://x.com/thebuggeddev) | 0:55 | — |
 | [可交互的瑟斯顿几何空间](https://x.com/algekalipso/status/2112304967692484793) | Opus 5.5 | [@algekalipso](https://x.com/algekalipso) | 0:30 | — |
-| [实时三维物流模拟](https://x.com/konstantinsaifo/status/2112802541327331552) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 0:09 | — |
 | [体素风宝塔庭院场景](https://x.com/legit_api/status/2117994730336252114) | Fable 5.5 (preview) | [@legit_api](https://x.com/legit_api) | 1:48 | — |
+| [实时三维物流模拟](https://x.com/konstantinsaifo/status/2112802541327331552) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 0:09 | — |
 | [Three.js破坏引擎演示](https://x.com/Ben__Springer/status/2103517427749241133) | Opus 5.5 | [@Ben__Springer](https://x.com/Ben__Springer) | 2:31 | — |
 | [樱花](https://x.com/ZryMiller/status/2118047964019171594) | Opus 5.5 | [@ZryMiller](https://x.com/ZryMiller) | 1:00 | — |
+| [Blender 三维达摩角色模型](https://x.com/fe_yukichi/status/2123613656009392338) | Opus 5.5 | [@fe_yukichi](https://x.com/fe_yukichi) | 0:21 | — |
+| [3D 打印机模型](https://x.com/MrTacticalX/status/2121565804374180344) | Opus 5.5 | [@MrTacticalX](https://x.com/MrTacticalX) | 0:42 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2121565804374180344) |
 | [冰霜堡垒奇幻场景](https://x.com/vib3coded/status/2116533061495947270) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:12 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2116533061495947270) |
 | [通过AI工作流制作的鱼架模型](https://x.com/ForkedPush/status/2112565571585712627) | Opus 5.5 | [@ForkedPush](https://x.com/ForkedPush) | 0:28 | — |
-| [3D 打印机模型](https://x.com/MrTacticalX/status/2121565804374180344) | Opus 5.5 | [@MrTacticalX](https://x.com/MrTacticalX) | 0:42 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2121565804374180344) |
-| [Blender 三维达摩角色模型](https://x.com/fe_yukichi/status/2123613656009392338) | Opus 5.5 | [@fe_yukichi](https://x.com/fe_yukichi) | 0:21 | — |
 | [3D空间测试场景](https://x.com/studio_veco/status/2102650069136933039) | Opus 5.5 | [@studio_veco](https://x.com/studio_veco) | 0:51 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102650069136933039) |
-| [互动光学错觉盒](https://x.com/ann_nnng/status/2119042707943494127) | Opus 5.5 | [@ann_nnng](https://x.com/ann_nnng) | 0:21 | — |
+| [程序化机械巨型乌贼拆解展示](https://x.com/vib3coded/status/2119392067646345249) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:17 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2119392067646345249) |
 | [汉堡市政厅程序化3D重建](https://x.com/rewind02/status/2107843285737738656) | Opus 5.5 | [@rewind02](https://x.com/rewind02) | 1:26 | — |
 | [实时动画 PBR 点云](https://x.com/BrittaniNatali/status/2116206474959684042) | Opus 5.5 | [@BrittaniNatali](https://x.com/BrittaniNatali) | 1:04 | — |
+| [批量生成的3D服装角色](https://x.com/andreintg/status/2122348362611486768) | Opus 5.5 | [@andreintg](https://x.com/andreintg) | 0:13 | — |
 | [耗时30小时搭建的3D高速服务区场景](https://x.com/Kashiko_AIart/status/2112030342240694323) | Opus 5.5 | [@Kashiko_AIart](https://x.com/Kashiko_AIart) | 0:36 | — |
 | [海洋场景中加入的巨兽](https://x.com/KanaWorks_AI/status/2110349862487375873) | Opus 5.5 | [@KanaWorks_AI](https://x.com/KanaWorks_AI) | 0:25 | — |
-| [陨落泰坦三维场景](https://x.com/scottstts/status/2115933104812724307) | Opus 5.5 | [@scottstts](https://x.com/scottstts) | 1:13 | — |
-| [批量生成的3D服装角色](https://x.com/andreintg/status/2122348362611486768) | Opus 5.5 | [@andreintg](https://x.com/andreintg) | 0:13 | — |
 | [点云生成地形模型](https://x.com/dobokuya77/status/2109456453262266641) | Opus 5.5 | [@dobokuya77](https://x.com/dobokuya77) | 0:31 | — |
-| [程序化机械巨型乌贼拆解展示](https://x.com/vib3coded/status/2119392067646345249) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:17 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2119392067646345249) |
+| [陨落泰坦三维场景](https://x.com/scottstts/status/2115933104812724307) | Opus 5.5 | [@scottstts](https://x.com/scottstts) | 1:13 | — |
 | [战舰周围旋转刀刃3D模型](https://x.com/ShadeLurk/status/2102462310224900476) | Opus 5.5 | [@ShadeLurk](https://x.com/ShadeLurk) | 0:06 | — |
 | [等距三维场景](https://x.com/itsnotryan/status/2107013497813172593) | Opus 5.5 | [@itsnotryan](https://x.com/itsnotryan) | 0:07 | — |
 | [带碰撞检查的商场级机电系统模型](https://x.com/Solvaix/status/2113670412055740452) | Opus 5.5 | [@Solvaix](https://x.com/Solvaix) | 1:24 | — |
+| [绑定与动画三维角色](https://x.com/hiyouwhatsapp/status/2122077126711181465) | Opus 5.5 | [@hiyouwhatsapp](https://x.com/hiyouwhatsapp) | 0:08 | — |
 | [代码生成的特斯拉跑车模型](https://x.com/majidmanzarpour/status/2109042101019156848) | Opus 5.5 | [@majidmanzarpour](https://x.com/majidmanzarpour) | 1:01 | — |
-| [Live2D角色表情动作动画](https://x.com/manaimovie/status/2103495077721231664) | Opus 5.5 | [@manaimovie](https://x.com/manaimovie) | 0:53 | — |
-| [梦核临界空间](https://x.com/scottstts/status/2114404473644908614) | Opus 5.5 | [@scottstts](https://x.com/scottstts) | 1:23 | — |
 | [桥梁3D模型材质升级](https://x.com/dobokuya77/status/2106356636126457894) | Opus 5.5 | [@dobokuya77](https://x.com/dobokuya77) | 0:31 | — |
-| [电动机工厂三维场景](https://x.com/konstantinsaifo/status/2110757897600716906) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 0:44 | — |
-| [花厅梦核空间](https://x.com/scottstts/status/2114129525466411347) | Opus 5.5 | [@scottstts](https://x.com/scottstts) | 1:24 | — |
-| [人形机器人交互式结构拆解模型](https://x.com/techartist_/status/2108233726094365172) | Opus 5.5 | [@techartist_](https://x.com/techartist_) | 0:40 | — |
-| [黏土风格贴图村庄地图](https://x.com/rehan_shei/status/2114863015577465302) | Opus 5.5 | [@rehan_shei](https://x.com/rehan_shei) | 0:18 | — |
+| [梦核临界空间](https://x.com/scottstts/status/2114404473644908614) | Opus 5.5 | [@scottstts](https://x.com/scottstts) | 1:23 | — |
+| [Live2D角色表情动作动画](https://x.com/manaimovie/status/2103495077721231664) | Opus 5.5 | [@manaimovie](https://x.com/manaimovie) | 0:53 | — |
 | [弹珠音乐机3D动画](https://x.com/aj_dev_smith/status/2107956617337885077) | Opus 5.5 | [@aj_dev_smith](https://x.com/aj_dev_smith) | 1:06 | — |
+| [分部件与整体网格三维角色制作对比](https://x.com/maxt3chno/status/2122678098197959150) | Opus 5.5 | [@maxt3chno](https://x.com/maxt3chno) | 0:40 | — |
+| [电动机工厂三维场景](https://x.com/konstantinsaifo/status/2110757897600716906) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 0:44 | — |
+| [人形机器人交互式结构拆解模型](https://x.com/techartist_/status/2108233726094365172) | Opus 5.5 | [@techartist_](https://x.com/techartist_) | 0:40 | — |
+| [花厅梦核空间](https://x.com/scottstts/status/2114129525466411347) | Opus 5.5 | [@scottstts](https://x.com/scottstts) | 1:24 | — |
+| [黏土风格贴图村庄地图](https://x.com/rehan_shei/status/2114863015577465302) | Opus 5.5 | [@rehan_shei](https://x.com/rehan_shei) | 0:18 | — |
 | [用JS和WebGL制作的程序化森林场景](https://x.com/measure_plan/status/2104634071628337167) | Sonnet 5.5 | [@measure_plan](https://x.com/measure_plan) | 0:35 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104634071628337167) |
 | [环绕船只的海蛇动画](https://x.com/Stefan_3D_AI/status/2120039417981333599) | Opus 5.5 | [@Stefan_3D_AI](https://x.com/Stefan_3D_AI) | 0:32 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2120039417981333599) |
 | [程序化材质测试](https://x.com/wizardbrainz/status/2112599376438907310) | Opus 5.5 | [@wizardbrainz](https://x.com/wizardbrainz) | 0:10 | — |
 | [像素风宣传动画](https://x.com/dummerspast39/status/2111957286620930535) | Fable 5.5 (preview) | [@dummerspast39](https://x.com/dummerspast39) | 4:32 | — |
-| [分部件与整体网格三维角色制作对比](https://x.com/maxt3chno/status/2122678098197959150) | Opus 5.5 | [@maxt3chno](https://x.com/maxt3chno) | 0:40 | — |
 | [机器学习概念可视化演示](https://x.com/techy_windy/status/2103600911566438589) | Opus 5.5 | [@techy_windy](https://x.com/techy_windy) | 1:43 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103600911566438589) |
 | [互动像素风游泳俱乐部](https://x.com/N1njaCodex/status/2114467181912322353) | Opus 5.5 | [@N1njaCodex](https://x.com/N1njaCodex) | 0:17 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2114467181912322353) |
 | [平面图转制的3D模型与视频](https://x.com/uncle_render/status/2103707225646936402) | Opus 5.5 | [@uncle_render](https://x.com/uncle_render) | 0:47 | — |
 | [基于像素画制作的3D直播间](https://x.com/balaena01/status/2103450061275586618) | Opus 5.5 | [@balaena01](https://x.com/balaena01) | 0:14 | — |
 | [大阪城线条生成3D动画](https://x.com/ria_aicreator/status/2102574373886697648) | Opus 5.5 | [@ria_aicreator](https://x.com/ria_aicreator) | 0:37 | — |
+| [吊顶管线碰撞自动重排](https://x.com/Solvaix/status/2118782889806467483) | Opus 5.5 | [@Solvaix](https://x.com/Solvaix) | 1:06 | — |
 | [黑洞吞噬恒星动画](https://x.com/adonis_singh/status/2103816126778003746) | Opus 5.5 | [@adonis_singh](https://x.com/adonis_singh) | 0:28 | — |
 | [Three.js 制作的 H200 GPU 三维模型](https://x.com/dummerspast39/status/2113749909065101494) | Fable 5.5 (preview) | [@dummerspast39](https://x.com/dummerspast39) | 0:30 | — |
-| [赛博朋克像素艺术动画](https://x.com/L_ARCH_01/status/2103137546662515107) | Opus 5.5 | [@L_ARCH_01](https://x.com/L_ARCH_01) | 1:04 | — |
+| [Blender与Three.js三维场景](https://x.com/aakkshhayy/status/2122180195000164838) | Opus 5.5 | [@aakkshhayy](https://x.com/aakkshhayy) | 0:23 | — |
 | [UE5实时渲染VJ视觉片段](https://x.com/MasanoriYoshii/status/2108198854017606086) | Opus 5.5 | [@MasanoriYoshii](https://x.com/MasanoriYoshii) | 1:00 | — |
-| [吊顶管线碰撞自动重排](https://x.com/Solvaix/status/2118782889806467483) | Opus 5.5 | [@Solvaix](https://x.com/Solvaix) | 1:06 | — |
-| [彩色人偶风格咖啡机3D模型](https://x.com/numaausaumon/status/2112220170727080328) | Opus 5.5 | [@numaausaumon](https://x.com/numaausaumon) | 0:53 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2112220170727080328) |
+| [赛博朋克像素艺术动画](https://x.com/L_ARCH_01/status/2103137546662515107) | Opus 5.5 | [@L_ARCH_01](https://x.com/L_ARCH_01) | 1:04 | — |
 | [带骨骼绑定的3D鲨鱼游动与撕咬动画](https://x.com/maxt3chno/status/2113934291818221665) | Opus 5.5 | [@maxt3chno](https://x.com/maxt3chno) | 0:27 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2113934291818221665) |
+| [彩色人偶风格咖啡机3D模型](https://x.com/numaausaumon/status/2112220170727080328) | Opus 5.5 | [@numaausaumon](https://x.com/numaausaumon) | 0:53 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2112220170727080328) |
+| [果冻章鱼软体互动玩具](https://x.com/vib3coded/status/2121757715881963715) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:18 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2121757715881963715) |
 | [交互式果冻软体旗鱼](https://x.com/vib3coded/status/2115752978946687084) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:17 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2115752978946687084) |
 | [卡通渲染海洋中的鲸鱼跃出模拟](https://x.com/camperaigg/status/2118069524306284556) | Fable 5.5 (preview) | [@camperaigg](https://x.com/camperaigg) | 0:31 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2118069524306284556) |
 | [汇集果冻鱼群的泳池场景](https://x.com/vib3coded/status/2115912302272618696) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:16 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2115912302272618696) |
-| [Blender与Three.js三维场景](https://x.com/aakkshhayy/status/2122180195000164838) | Opus 5.5 | [@aakkshhayy](https://x.com/aakkshhayy) | 0:23 | — |
+| [仿生模拟植物合成器](https://x.com/parhelion318/status/2123982460090503626) | Opus 5.5 | [@parhelion318](https://x.com/parhelion318) | 0:23 | — |
 | [训练Opus绘制像素画技能](https://x.com/BeamManP/status/2103555482095149320) | Opus 5.5 | [@BeamManP](https://x.com/BeamManP) | 0:45 | — |
 | [雨中日式庭院鹿威模拟](https://x.com/mizugame_22/status/2103822799580307674) | Opus 5.5 | [@mizugame_22](https://x.com/mizugame_22) | 0:15 | — |
 | [Blender制作的JRPG风格体素场景](https://x.com/gunsturn_tw/status/2103089094666686850) | Opus 5.5 | [@gunsturn_tw](https://x.com/gunsturn_tw) | 1:00 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103089094666686850) |
 | [单文件Three.js场景](https://x.com/beyondwudan/status/2109432722250957122) | Opus 5.5 / Fable 5.5 (preview) | [@beyondwudan](https://x.com/beyondwudan) | 0:48 | — |
 | [由Opus 5.5制作的可探索3D自然世界及音效](https://x.com/techartist_/status/2111187771440370028) | Opus 5.5 | [@techartist_](https://x.com/techartist_) | 0:30 | — |
 | [体素宝塔](https://x.com/LuminaBench/status/2107965327040475264) | Haiku 5.5 | [@LuminaBench](https://x.com/LuminaBench) | 0:13 | — |
-| [房屋内部光照烘焙效果](https://x.com/scottstts/status/2112569441854669069) | Opus 5.5 | [@scottstts](https://x.com/scottstts) | 3:40 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2112569441854669069) |
 | [粒子水模拟与光线行进渲染](https://x.com/hartspecs/status/2105715231884468384) | Opus 5.5 | [@hartspecs](https://x.com/hartspecs) | 0:21 | — |
-| [绑定与动画三维角色](https://x.com/hiyouwhatsapp/status/2122077126711181465) | Opus 5.5 | [@hiyouwhatsapp](https://x.com/hiyouwhatsapp) | 0:08 | — |
+| [房屋内部光照烘焙效果](https://x.com/scottstts/status/2112569441854669069) | Opus 5.5 | [@scottstts](https://x.com/scottstts) | 3:40 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2112569441854669069) |
 | [纯代码生成的概念车模型](https://x.com/techartist_/status/2104715277120180702) | Sonnet 5.5 | [@techartist_](https://x.com/techartist_) | 0:18 | — |
-| [果冻章鱼软体互动玩具](https://x.com/vib3coded/status/2121757715881963715) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:18 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2121757715881963715) |
-| [鹈鹕骑自行车SVG动画](https://x.com/Ananth7e/status/2111749047598117102) | Opus 5.5 | [@Ananth7e](https://x.com/Ananth7e) | 0:19 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2111749047598117102) |
-| [冰原生物动画](https://x.com/theparuchh/status/2118718007362920489) | Opus 5.5 | [@theparuchh](https://x.com/theparuchh) | 0:38 | — |
-| [昼夜变化的岛屿场景](https://x.com/danjan_design/status/2120300722508251368) | Opus 5.5 | [@danjan_design](https://x.com/danjan_design) | 0:17 | — |
 | [泵送机油的机械心脏剖面动画](https://x.com/camperaigg/status/2118002649929056373) | Fable 5.5 (preview) | [@camperaigg](https://x.com/camperaigg) | 0:30 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2118002649929056373) |
+| [冰原生物动画](https://x.com/theparuchh/status/2118718007362920489) | Opus 5.5 | [@theparuchh](https://x.com/theparuchh) | 0:38 | — |
+| [鹈鹕骑自行车SVG动画](https://x.com/Ananth7e/status/2111749047598117102) | Opus 5.5 | [@Ananth7e](https://x.com/Ananth7e) | 0:19 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2111749047598117102) |
+| [大规模军团实时路径追踪渲染](https://x.com/wizardbrainz/status/2123935773561094149) | Opus 5.5 | [@wizardbrainz](https://x.com/wizardbrainz) | 1:46 | — |
 | [骑马宇航员SVG图形](https://x.com/dummerspast39/status/2112490492684296664) | Fable 5.5 (preview) | [@dummerspast39](https://x.com/dummerspast39) | 0:15 | — |
 | [斑马奔跑动画](https://x.com/AI_Screening/status/2115845754468356465) | Fable 5.5 (preview) | [@AI_Screening](https://x.com/AI_Screening) | 0:27 | — |
-| [大规模军团实时路径追踪渲染](https://x.com/wizardbrainz/status/2123935773561094149) | Opus 5.5 | [@wizardbrainz](https://x.com/wizardbrainz) | 1:46 | — |
 | [超级智能时代场景](https://x.com/HarshithLucky3/status/2105765253799903602) | Fable 5.5 (preview) | [@HarshithLucky3](https://x.com/HarshithLucky3) | 0:40 | — |
