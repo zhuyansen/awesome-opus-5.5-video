@@ -1,6 +1,6 @@
 # 游戏
 
-共 490 个作品，其中 63 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 491 个作品，其中 63 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [3D 停车练习模拟器](https://x.com/RyanSael/status/2113306254647120334) | Opus 5.5 | [@RyanSael](https://x.com/RyanSael) | 0:30 | — |
 | [《Rolling Republic》生存游戏](https://x.com/usecrayon/status/2113044115130867828) | Opus 5.5 | [@usecrayon](https://x.com/usecrayon) | 0:30 | — |
 | [万圣节脑腐风格Roblox角色](https://x.com/Iksak445685/status/2111861995695952270) | Opus 5.5 | [@Iksak445685](https://x.com/Iksak445685) | 0:20 | — |
+| [受帝国时代2启发的网页即时战略游戏原型](https://x.com/Linus_K_AI/status/2124790912618545223) | Opus 5.5 | [@Linus_K_AI](https://x.com/Linus_K_AI) | 0:53 | — |
 | [商业大亨游戏海滩更新](https://x.com/alexcooldev/status/2110352122575274388) | Opus 5.5 / Sonnet 5.5 | [@alexcooldev](https://x.com/alexcooldev) | 2:06 | — |
 | [24小时制作的 Three.js 原创游戏](https://x.com/NicoleOfCringe/status/2118521562261528849) | Opus 5.5 | [@NicoleOfCringe](https://x.com/NicoleOfCringe) | 1:15 | — |
 | [像素上海记忆收集游戏](https://x.com/ring_hyacinth/status/2102865595675050010) | Opus 5.5 | [@ring_hyacinth](https://x.com/ring_hyacinth) | 2:59 | — |

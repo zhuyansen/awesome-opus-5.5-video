@@ -1,6 +1,6 @@
 # 3D 场景
 
-共 505 个作品，其中 112 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 508 个作品，其中 112 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -253,6 +253,7 @@
 | [水墨风格虾互动着色器](https://x.com/jshguo/status/2105250266392224097) | Opus 5.5 | [@jshguo](https://x.com/jshguo) | 0:10 | — |
 | [控制器骑自行车骑鹈鹕的递归SVG](https://x.com/Mr_Salio/status/2111816222811541641) | Fable 5.5 (preview) | [@Mr_Salio](https://x.com/Mr_Salio) | 0:19 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2111816222811541641) |
 | [房屋改造与日照热量模拟](https://x.com/Rutto02/status/2110019227998683484) | Opus 5.5 | [@Rutto02](https://x.com/Rutto02) | 0:34 | — |
+| [守时者动画3D游戏角色](https://x.com/M__Houser/status/2124585579430224024) | Opus 5.5 | [@M__Houser](https://x.com/M__Houser) | 0:29 | — |
 | [依据参考图在3ds Max中重建办公室场景](https://x.com/rewind02/status/2114316443261002226) | Opus 5.5 | [@rewind02](https://x.com/rewind02) | 0:40 | — |
 | [动态斗篷英雄角色](https://x.com/rewind02/status/2121933776884269192) | Opus 5.5 | [@rewind02](https://x.com/rewind02) | 0:04 | — |
 | [含室内与道具的城市场景](https://x.com/badboyfoxy/status/2115046586703057244) | Opus 5.5 / Fable 5.5 (preview) | [@badboyfoxy](https://x.com/badboyfoxy) | 2:25 | — |
@@ -456,6 +457,7 @@
 | [耗时30小时搭建的3D高速服务区场景](https://x.com/Kashiko_AIart/status/2112030342240694323) | Opus 5.5 | [@Kashiko_AIart](https://x.com/Kashiko_AIart) | 0:36 | — |
 | [海洋场景中加入的巨兽](https://x.com/KanaWorks_AI/status/2110349862487375873) | Opus 5.5 | [@KanaWorks_AI](https://x.com/KanaWorks_AI) | 0:25 | — |
 | [点云生成地形模型](https://x.com/dobokuya77/status/2109456453262266641) | Opus 5.5 | [@dobokuya77](https://x.com/dobokuya77) | 0:31 | — |
+| [地球尺度程序化行星三维模拟](https://x.com/rewind02/status/2124525186988839409) | Opus 5.5 | [@rewind02](https://x.com/rewind02) | 3:20 | — |
 | [陨落泰坦三维场景](https://x.com/scottstts/status/2115933104812724307) | Opus 5.5 | [@scottstts](https://x.com/scottstts) | 1:13 | — |
 | [战舰周围旋转刀刃3D模型](https://x.com/ShadeLurk/status/2102462310224900476) | Opus 5.5 | [@ShadeLurk](https://x.com/ShadeLurk) | 0:06 | — |
 | [等距三维场景](https://x.com/itsnotryan/status/2107013497813172593) | Opus 5.5 | [@itsnotryan](https://x.com/itsnotryan) | 0:07 | — |
@@ -492,6 +494,7 @@
 | [交互式果冻软体旗鱼](https://x.com/vib3coded/status/2115752978946687084) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:17 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2115752978946687084) |
 | [卡通渲染海洋中的鲸鱼跃出模拟](https://x.com/camperaigg/status/2118069524306284556) | Fable 5.5 (preview) | [@camperaigg](https://x.com/camperaigg) | 0:31 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2118069524306284556) |
 | [汇集果冻鱼群的泳池场景](https://x.com/vib3coded/status/2115912302272618696) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:16 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2115912302272618696) |
+| [Three.js 3D动画视频作品](https://x.com/euviz/status/2124718701035553237) | Opus 5.5 / Sonnet 5.5 / Haiku 5.5 | [@euviz](https://x.com/euviz) | 1:20 | — |
 | [仿生模拟植物合成器](https://x.com/parhelion318/status/2123982460090503626) | Opus 5.5 | [@parhelion318](https://x.com/parhelion318) | 0:23 | — |
 | [训练Opus绘制像素画技能](https://x.com/BeamManP/status/2103555482095149320) | Opus 5.5 | [@BeamManP](https://x.com/BeamManP) | 0:45 | — |
 | [雨中日式庭院鹿威模拟](https://x.com/mizugame_22/status/2103822799580307674) | Opus 5.5 | [@mizugame_22](https://x.com/mizugame_22) | 0:15 | — |

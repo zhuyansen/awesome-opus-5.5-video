@@ -1,6 +1,6 @@
 # Motion graphics & UI
 
-370 works, 94 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+375 works, 96 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [One-shot Opus 5.5 creation](https://x.com/nateherk/status/2103611727661482117) | Opus 5.5 | [@nateherk](https://x.com/nateherk) | 0:15 | — |
 | [3D comment display for livestream](https://x.com/balaena01/status/2103636165907956131) | Opus 5.5 | [@balaena01](https://x.com/balaena01) | 0:56 | — |
 | [Scroll-triggered generative web redesign tool](https://x.com/0xCarnagee/status/2103616720007032874) | Opus 5.5 | [@0xCarnagee](https://x.com/0xCarnagee) | 0:40 | — |
+| [Code-only synthesized Daisy Bell singing animation](https://x.com/RJasonHA/status/2124813049760772144) | Opus 5.5 | [@RJasonHA](https://x.com/RJasonHA) | 1:31 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2124813049760772144) |
 | [Motion graphic video made for a friend](https://x.com/Saeiid/status/2103823130057757180) | Opus 5.5 | [@Saeiid](https://x.com/Saeiid) | 1:05 | — |
 | [One-shot video from a casual instruction](https://x.com/Suzacque/status/2102677738066956688) | Opus 5.5 | [@Suzacque](https://x.com/Suzacque) | 0:31 | — |
 | [Infinite-zoom landscape loop](https://x.com/koldo2k/status/2103129343253778767) | Opus 5.5 | [@koldo2k](https://x.com/koldo2k) | 0:20 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103129343253778767) |
@@ -175,6 +176,7 @@
 | [Showreel motion graphic for a media tool](https://x.com/ismailfahmi/status/2103759320664219750) | Opus 5.5 | [@ismailfahmi](https://x.com/ismailfahmi) | 2:08 | — |
 | [Animated functional icon set](https://x.com/Kubai087/status/2117605750474428446) | Opus 5.5 | [@Kubai087](https://x.com/Kubai087) | 0:26 | — |
 | [30-second motion promo for Kody](https://x.com/kentcdodds/status/2103638102333858193) | Opus 5.5 | [@kentcdodds](https://x.com/kentcdodds) | 0:30 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103638102333858193) |
+| [Tea brand motion design from graphic motif](https://x.com/nono_ai_archive/status/2124450317836407098) | Opus 5.5 | [@nono_ai_archive](https://x.com/nono_ai_archive) | 0:12 | — |
 | [Coded show introduction](https://x.com/EnriTarta/status/2116251755851989096) | Opus 5.5 | [@EnriTarta](https://x.com/EnriTarta) | 0:19 | — |
 | [Showreel motion graphics for a media analytics brand](https://x.com/ismailfahmi/status/2103557833153466403) | Opus 5.5 | [@ismailfahmi](https://x.com/ismailfahmi) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103557833153466403) |
 | [20-second kinetic identity bumper for TechHalla](https://x.com/techhalla/status/2103411244468498547) | Opus 5.5 | [@techhalla](https://x.com/techhalla) | 0:20 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103411244468498547) |
@@ -200,6 +202,7 @@
 | [Dot-themed motion video](https://x.com/seiiiiiiiiiiru/status/2107018580265201724) | Opus 5.5 | [@seiiiiiiiiiiru](https://x.com/seiiiiiiiiiiru) | 0:15 | — |
 | [Interactive pixel art portfolio with butterflies and flowers](https://x.com/ann_nnng/status/2114717745443127698) | Opus 5.5 | [@ann_nnng](https://x.com/ann_nnng) | 0:24 | — |
 | [Quick ad video from one prompt](https://x.com/Nour_Sofanati/status/2103653780327641130) | Opus 5.5 | [@Nour_Sofanati](https://x.com/Nour_Sofanati) | 0:35 | — |
+| [Reasoning process UI animation](https://x.com/aymanemsi/status/2124540239716773940) | Opus 5.5 | [@aymanemsi](https://x.com/aymanemsi) | 0:15 | — |
 | [Motion short about task delegation](https://x.com/kelanoo/status/2108199183983497433) | Opus 5.5 | [@kelanoo](https://x.com/kelanoo) | 0:20 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2108199183983497433) |
 | [Retro game card-reveal UX experiment](https://x.com/nickfromlater/status/2102504454721347822) | Opus 5.5 | [@nickfromlater](https://x.com/nickfromlater) | 0:16 | — |
 | [Claude-made showreel](https://x.com/kloss_xyz/status/2116296321313521795) | Opus 5.5 | [@kloss_xyz](https://x.com/kloss_xyz) | 1:30 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2116296321313521795) |
@@ -214,6 +217,7 @@
 | [Code-painted animation](https://x.com/chetaslua/status/2106833074302710023) | Fable 5.5 (preview) | [@chetaslua](https://x.com/chetaslua) | 0:44 | — |
 | [Unity particle VFX logo transformation](https://x.com/_3912657840/status/2103417471063736729) | Opus 5.5 | [@_3912657840](https://x.com/_3912657840) | 0:07 | — |
 | [Motion design built in After Effects via MCP](https://x.com/higgsfield_ai/status/2103853474098352326) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:12 | — |
+| [Rainforest pop-up book in five animation styles](https://x.com/pradeepXkapoor/status/2124585991663153497) | Opus 5.5 | [@pradeepXkapoor](https://x.com/pradeepXkapoor) | 0:28 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2124585991663153497) |
 | [Live animated UI built with skills](https://x.com/saluiux/status/2123752991694205295) | Opus 5.5 | [@saluiux](https://x.com/saluiux) | 0:14 | — |
 | [MagnatesMedia-style 3D parallax animations](https://x.com/trymirage/status/2116195377259106570) | Opus 5.5 | [@trymirage](https://x.com/trymirage) | 0:26 | — |
 | [Motion design recreated from reference clip](https://x.com/gxjo_dev/status/2108632470551933011) | Opus 5.5 | [@gxjo_dev](https://x.com/gxjo_dev) | 0:19 | — |
@@ -374,3 +378,4 @@
 | [Unspecified video creation showcase](https://x.com/GPTabby/status/2103581801490809069) | Opus 5.5 | [@GPTabby](https://x.com/GPTabby) | 3:51 | — |
 | [Same car shot at four budget levels](https://x.com/m4lkxx/status/2118342622884384895) | Opus 5.5 | [@m4lkxx](https://x.com/m4lkxx) | 0:28 | — |
 | [Google Apps Script themed video](https://x.com/kimura_0314/status/2102682159668720109) | Opus 5.5 | [@kimura_0314](https://x.com/kimura_0314) | 0:34 | — |
+| [Audio-reactive risograph code animation](https://x.com/yoshi_yurutsuri/status/2124503876456038461) | Opus 5.5 | [@yoshi_yurutsuri](https://x.com/yoshi_yurutsuri) | 1:03 | — |

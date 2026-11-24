@@ -1,6 +1,6 @@
 # 动效设计
 
-共 370 个作品，其中 94 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 375 个作品，其中 96 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Opus 5.5一次生成的作品](https://x.com/nateherk/status/2103611727661482117) | Opus 5.5 | [@nateherk](https://x.com/nateherk) | 0:15 | — |
 | [直播弹幕3D空间展示效果](https://x.com/balaena01/status/2103636165907956131) | Opus 5.5 | [@balaena01](https://x.com/balaena01) | 0:56 | — |
 | [滚动触发的生成式网页重设计工具](https://x.com/0xCarnagee/status/2103616720007032874) | Opus 5.5 | [@0xCarnagee](https://x.com/0xCarnagee) | 0:40 | — |
+| [纯代码合成演唱《Daisy Bell》动画](https://x.com/RJasonHA/status/2124813049760772144) | Opus 5.5 | [@RJasonHA](https://x.com/RJasonHA) | 1:31 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2124813049760772144) |
 | [为朋友制作的动效视频](https://x.com/Saeiid/status/2103823130057757180) | Opus 5.5 | [@Saeiid](https://x.com/Saeiid) | 1:05 | — |
 | [随意指令一次生成的视频](https://x.com/Suzacque/status/2102677738066956688) | Opus 5.5 | [@Suzacque](https://x.com/Suzacque) | 0:31 | — |
 | [风景无限缩放循环动画](https://x.com/koldo2k/status/2103129343253778767) | Opus 5.5 | [@koldo2k](https://x.com/koldo2k) | 0:20 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103129343253778767) |
@@ -175,6 +176,7 @@
 | [媒体工具展示片动效](https://x.com/ismailfahmi/status/2103759320664219750) | Opus 5.5 | [@ismailfahmi](https://x.com/ismailfahmi) | 2:08 | — |
 | [动态功能图标集](https://x.com/Kubai087/status/2117605750474428446) | Opus 5.5 | [@Kubai087](https://x.com/Kubai087) | 0:26 | — |
 | [Kody 产品 30 秒动效宣传片](https://x.com/kentcdodds/status/2103638102333858193) | Opus 5.5 | [@kentcdodds](https://x.com/kentcdodds) | 0:30 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103638102333858193) |
+| [基于图形母题的茶品牌动态设计](https://x.com/nono_ai_archive/status/2124450317836407098) | Opus 5.5 | [@nono_ai_archive](https://x.com/nono_ai_archive) | 0:12 | — |
 | [代码制作的节目片头](https://x.com/EnriTarta/status/2116251755851989096) | Opus 5.5 | [@EnriTarta](https://x.com/EnriTarta) | 0:19 | — |
 | [媒体分析品牌的动效展示片](https://x.com/ismailfahmi/status/2103557833153466403) | Opus 5.5 | [@ismailfahmi](https://x.com/ismailfahmi) | 0:15 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103557833153466403) |
 | [TechHalla 20 秒动态品牌片头](https://x.com/techhalla/status/2103411244468498547) | Opus 5.5 | [@techhalla](https://x.com/techhalla) | 0:20 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103411244468498547) |
@@ -200,6 +202,7 @@
 | [点元素主题动态视频](https://x.com/seiiiiiiiiiiru/status/2107018580265201724) | Opus 5.5 | [@seiiiiiiiiiiru](https://x.com/seiiiiiiiiiiru) | 0:15 | — |
 | [蝴蝶花朵像素风互动作品集](https://x.com/ann_nnng/status/2114717745443127698) | Opus 5.5 | [@ann_nnng](https://x.com/ann_nnng) | 0:24 | — |
 | [一句提示词生成的广告视频](https://x.com/Nour_Sofanati/status/2103653780327641130) | Opus 5.5 | [@Nour_Sofanati](https://x.com/Nour_Sofanati) | 0:35 | — |
+| [推理过程界面动效](https://x.com/aymanemsi/status/2124540239716773940) | Opus 5.5 | [@aymanemsi](https://x.com/aymanemsi) | 0:15 | — |
 | [任务分派主题动态短片](https://x.com/kelanoo/status/2108199183983497433) | Opus 5.5 | [@kelanoo](https://x.com/kelanoo) | 0:20 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2108199183983497433) |
 | [复古游戏卡片揭示UX实验](https://x.com/nickfromlater/status/2102504454721347822) | Opus 5.5 | [@nickfromlater](https://x.com/nickfromlater) | 0:16 | — |
 | [Claude制作的作品集视频](https://x.com/kloss_xyz/status/2116296321313521795) | Opus 5.5 | [@kloss_xyz](https://x.com/kloss_xyz) | 1:30 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2116296321313521795) |
@@ -214,6 +217,7 @@
 | [代码绘画动画](https://x.com/chetaslua/status/2106833074302710023) | Fable 5.5 (preview) | [@chetaslua](https://x.com/chetaslua) | 0:44 | — |
 | [Unity粒子特效Logo变形动画](https://x.com/_3912657840/status/2103417471063736729) | Opus 5.5 | [@_3912657840](https://x.com/_3912657840) | 0:07 | — |
 | [通过MCP在After Effects中制作的动效](https://x.com/higgsfield_ai/status/2103853474098352326) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:12 | — |
+| [雨林立体书的五种动画风格](https://x.com/pradeepXkapoor/status/2124585991663153497) | Opus 5.5 | [@pradeepXkapoor](https://x.com/pradeepXkapoor) | 0:28 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2124585991663153497) |
 | [基于技能构建的动态界面](https://x.com/saluiux/status/2123752991694205295) | Opus 5.5 | [@saluiux](https://x.com/saluiux) | 0:14 | — |
 | [MagnatesMedia风格三维视差动画](https://x.com/trymirage/status/2116195377259106570) | Opus 5.5 | [@trymirage](https://x.com/trymirage) | 0:26 | — |
 | [依参考视频复刻的动态设计](https://x.com/gxjo_dev/status/2108632470551933011) | Opus 5.5 | [@gxjo_dev](https://x.com/gxjo_dev) | 0:19 | — |
@@ -374,3 +378,4 @@
 | [未说明内容的视频作品展示](https://x.com/GPTabby/status/2103581801490809069) | Opus 5.5 | [@GPTabby](https://x.com/GPTabby) | 3:51 | — |
 | [同一汽车镜头的四档预算版本](https://x.com/m4lkxx/status/2118342622884384895) | Opus 5.5 | [@m4lkxx](https://x.com/m4lkxx) | 0:28 | — |
 | [Google Apps Script主题视频](https://x.com/kimura_0314/status/2102682159668720109) | Opus 5.5 | [@kimura_0314](https://x.com/kimura_0314) | 0:34 | — |
+| [代码生成音画同步孔版印刷风动画](https://x.com/yoshi_yurutsuri/status/2124503876456038461) | Opus 5.5 | [@yoshi_yurutsuri](https://x.com/yoshi_yurutsuri) | 1:03 | — |

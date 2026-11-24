@@ -3,8 +3,8 @@
  "model": "Claude 5.5 (Opus 5.5 · Sonnet 5.5 · Haiku 5.5 · Fable 5.5)",
  "inclusion_rule": "Original post by the creator, native video attached, >= 5000 views on that post, creator states it was made with Claude Opus 5.5, Sonnet 5.5, Haiku 5.5 or Fable 5.5 (Fable 5.5 is in limited preview, not yet announced). Later posts that embed another account's upload are excluded.",
  "views_threshold": 5000,
- "stats_checked_at": "2026-11-23T11:55:30.830Z",
- "updated_at": "2026-11-23T11:55:30.830Z",
+ "stats_checked_at": "2026-11-24T11:01:32.489Z",
+ "updated_at": "2026-11-24T11:01:32.489Z",
  "model_attribution": "As stated by each creator; not independently reproduced.",
  "cases": [
   {
@@ -6264,6 +6264,36 @@
    "resources": []
   },
   {
+   "id": "2124695716396507469",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "stories",
+   "title": {
+    "zh": "写实风格郊狼与走鹃沙漠追逐喜剧",
+    "en": "Photorealistic coyote and roadrunner desert chase comedy"
+   },
+   "creator": {
+    "handle": "itsshara_ai",
+    "name": "Shara"
+   },
+   "original_post_url": "https://x.com/itsshara_ai/status/2124695716396507469",
+   "posted_at": "2026-11-23T02:45:08.000Z",
+   "language": "",
+   "duration_seconds": 82,
+   "views": 278672,
+   "likes": 2868,
+   "bookmarks": 922,
+   "views_checked_at": "2026-11-24T11:01:32.489Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124695684855312384/img/fe3wxF0HG-zZbxab.jpg",
+   "tools_reported": [
+    "Seedance 2.5"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2104301990985498783",
    "models": [
     "opus-5.5"
@@ -6473,6 +6503,47 @@
    ],
    "reference_assets": true,
    "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2124805520263422440",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "education",
+   "title": {
+    "zh": "Vox风格雕刻地图解说动画",
+    "en": "Vox-style engraved map explainer animation"
+   },
+   "creator": {
+    "handle": "treyscalez",
+    "name": "trey"
+   },
+   "original_post_url": "https://x.com/treyscalez/status/2124805520263422440",
+   "posted_at": "2026-11-23T10:01:27.000Z",
+   "language": "",
+   "duration_seconds": 32,
+   "views": 268584,
+   "likes": 2754,
+   "bookmarks": 5545,
+   "views_checked_at": "2026-11-24T11:01:32.489Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124804755813761024/img/kbp8SWhDIZO6hrZN.jpg",
+   "tools_reported": [
+    "Python",
+    "NumPy",
+    "OpenCV",
+    "Pillow",
+    "FFmpeg",
+    "faster-whisper"
+   ],
+   "reference_assets": true,
+   "prompt": {
+    "kind": "full",
+    "source": "post",
+    "source_url": "https://x.com/treyscalez/status/2124805520263422440",
+    "length": 7696,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2124805520263422440"
+   },
    "resources": []
   },
   {
@@ -22938,6 +23009,40 @@
    "resources": []
   },
   {
+   "id": "2124813049760772144",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "motion",
+   "title": {
+    "zh": "纯代码合成演唱《Daisy Bell》动画",
+    "en": "Code-only synthesized Daisy Bell singing animation"
+   },
+   "creator": {
+    "handle": "RJasonHA",
+    "name": "Fries"
+   },
+   "original_post_url": "https://x.com/RJasonHA/status/2124813049760772144",
+   "posted_at": "2026-11-23T10:31:22.000Z",
+   "language": "",
+   "duration_seconds": 91,
+   "views": 77545,
+   "likes": 808,
+   "bookmarks": 455,
+   "views_checked_at": "2026-11-24T11:01:32.489Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124812932689301504/img/ccWpIA09_qQcNn1s.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "brief",
+    "source": "post",
+    "source_url": "https://x.com/RJasonHA/status/2124813049760772144",
+    "length": 27,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2124813049760772144"
+   },
+   "resources": []
+  },
+  {
    "id": "2119913518015435103",
    "models": [
     "opus-5.5"
@@ -26736,6 +26841,38 @@
    "views_checked_at": "2026-11-23T11:55:30.830Z",
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2118408219261304832/img/_-_ytR-7xam3HSmW.jpg",
    "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2124790912618545223",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "game",
+   "title": {
+    "zh": "受帝国时代2启发的网页即时战略游戏原型",
+    "en": "Browser RTS game prototype inspired by AoE II"
+   },
+   "creator": {
+    "handle": "Linus_K_AI",
+    "name": "Linus Konetschnig"
+   },
+   "original_post_url": "https://x.com/Linus_K_AI/status/2124790912618545223",
+   "posted_at": "2026-11-23T09:03:24.000Z",
+   "language": "",
+   "duration_seconds": 53,
+   "views": 65573,
+   "likes": 422,
+   "bookmarks": 277,
+   "views_checked_at": "2026-11-24T11:01:32.489Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124790653477384192/img/clILzsrbmFjsSz_8.jpg",
+   "tools_reported": [
+    "omp",
+    "fal",
+    "Three.js"
+   ],
    "reference_assets": false,
    "prompt": null,
    "resources": []
@@ -31736,6 +31873,44 @@
    ],
    "reference_assets": false,
    "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2124422187927179304",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "软糖橙片软体交互场景对比",
+    "en": "Gummy orange slice soft-body scene comparison"
+   },
+   "creator": {
+    "handle": "Isabell2987",
+    "name": "Isabella"
+   },
+   "original_post_url": "https://x.com/Isabell2987/status/2124422187927179304",
+   "posted_at": "2026-11-22T08:38:14.000Z",
+   "language": "",
+   "duration_seconds": 17,
+   "views": 53580,
+   "likes": 221,
+   "bookmarks": 108,
+   "views_checked_at": "2026-11-24T10:54:36.226Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124422147649232896/img/nwFZpdkBSNLowtAm.jpg",
+   "tools_reported": [
+    "Fable 5.2",
+    "WebGPU",
+    "WGSL"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "full",
+    "source": "author_reply",
+    "source_url": "https://x.com/Isabell2987/status/2124422192050168079",
+    "length": 2485,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2124422187927179304"
+   },
    "resources": []
   },
   {
@@ -42636,6 +42811,40 @@
    "resources": []
   },
   {
+   "id": "2124760560445030409",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "四款AI模型3D生成质量对比测试",
+    "en": "3D quality comparison across four AI models"
+   },
+   "creator": {
+    "handle": "SPAC89",
+    "name": "Iam_"
+   },
+   "original_post_url": "https://x.com/SPAC89/status/2124760560445030409",
+   "posted_at": "2026-11-23T07:02:48.000Z",
+   "language": "",
+   "duration_seconds": 30,
+   "views": 35336,
+   "likes": 281,
+   "bookmarks": 65,
+   "views_checked_at": "2026-11-24T11:01:32.489Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124760428240687104/img/eNKF9M_ictO0dcBV.jpg",
+   "tools_reported": [
+    "GLM 5.4 Max",
+    "Gemini 4 Neon",
+    "Fable 5.2",
+    "Kimi 3.1 Pro",
+    "Cerebras"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2119941490969624679",
    "models": [
     "opus-5.5"
@@ -43231,6 +43440,36 @@
     "length": 138,
     "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103086714772463953"
    },
+   "resources": []
+  },
+  {
+   "id": "2124450317836407098",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "motion",
+   "title": {
+    "zh": "基于图形母题的茶品牌动态设计",
+    "en": "Tea brand motion design from graphic motif"
+   },
+   "creator": {
+    "handle": "nono_ai_archive",
+    "name": "노노아카이브"
+   },
+   "original_post_url": "https://x.com/nono_ai_archive/status/2124450317836407098",
+   "posted_at": "2026-11-22T10:30:00.000Z",
+   "language": "",
+   "duration_seconds": 12,
+   "views": 34614,
+   "likes": 1136,
+   "bookmarks": 714,
+   "views_checked_at": "2026-11-24T10:54:36.226Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2122210263713865728/img/RA6vw7477QFenoaC.jpg",
+   "tools_reported": [
+    "GPT"
+   ],
+   "reference_assets": true,
+   "prompt": null,
    "resources": []
   },
   {
@@ -49096,6 +49335,38 @@
    "resources": []
   },
   {
+   "id": "2124585579430224024",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "守时者动画3D游戏角色",
+    "en": "The Time Keeper animated 3D game character"
+   },
+   "creator": {
+    "handle": "M__Houser",
+    "name": "Mike Houser"
+   },
+   "original_post_url": "https://x.com/M__Houser/status/2124585579430224024",
+   "posted_at": "2026-11-22T19:27:29.000Z",
+   "language": "",
+   "duration_seconds": 29,
+   "views": 27868,
+   "likes": 359,
+   "bookmarks": 465,
+   "views_checked_at": "2026-11-24T10:54:36.226Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124585543153709056/img/gtTLlexyXeeAGn7_.jpg",
+   "tools_reported": [
+    "Blender",
+    "Tripo",
+    "GPT6-Astra"
+   ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2116088544519188528",
    "models": [
     "opus-5.5"
@@ -49743,6 +50014,36 @@
    "resources": []
   },
   {
+   "id": "2124540239716773940",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "motion",
+   "title": {
+    "zh": "推理过程界面动效",
+    "en": "Reasoning process UI animation"
+   },
+   "creator": {
+    "handle": "aymanemsi",
+    "name": "Aymane"
+   },
+   "original_post_url": "https://x.com/aymanemsi/status/2124540239716773940",
+   "posted_at": "2026-11-22T16:27:19.000Z",
+   "language": "",
+   "duration_seconds": 15,
+   "views": 27049,
+   "likes": 258,
+   "bookmarks": 101,
+   "views_checked_at": "2026-11-24T10:54:36.226Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124540228022996992/img/ydjth0bQomoBfUKf.jpg",
+   "tools_reported": [
+    "Hermes Agent"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2109570757579649086",
    "models": [
     "fable-5.5"
@@ -49899,6 +50200,37 @@
     "length": 2665,
     "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2114758798845841679"
    },
+   "resources": []
+  },
+  {
+   "id": "2124450946780737696",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "双模型纯Three.js场景生成对比",
+    "en": "Three.js scene comparison between models"
+   },
+   "creator": {
+    "handle": "skpnky",
+    "name": "sk builds"
+   },
+   "original_post_url": "https://x.com/skpnky/status/2124450946780737696",
+   "posted_at": "2026-11-22T10:32:30.000Z",
+   "language": "",
+   "duration_seconds": 13,
+   "views": 26948,
+   "likes": 227,
+   "bookmarks": 40,
+   "views_checked_at": "2026-11-24T10:54:36.226Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124448870612484096/img/LjSt3pJ9Vun2gQ-m.jpg",
+   "tools_reported": [
+    "Neon",
+    "Three.js"
+   ],
+   "reference_assets": false,
+   "prompt": null,
    "resources": []
   },
   {
@@ -51834,6 +52166,43 @@
    "resources": []
   },
   {
+   "id": "2124625485590327733",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "北欧战王王座Blender盲测对比",
+    "en": "Blind Norse throne Blender comparison"
+   },
+   "creator": {
+    "handle": "maxt3chno",
+    "name": "Max"
+   },
+   "original_post_url": "https://x.com/maxt3chno/status/2124625485590327733",
+   "posted_at": "2026-11-22T22:06:04.000Z",
+   "language": "",
+   "duration_seconds": 19,
+   "views": 25291,
+   "likes": 228,
+   "bookmarks": 152,
+   "views_checked_at": "2026-11-24T10:54:36.226Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124624167647469568/img/4vtbZ7Lyfl2akGlw.jpg",
+   "tools_reported": [
+    "Blender",
+    "Gemini 4 Neon"
+   ],
+   "reference_assets": true,
+   "prompt": {
+    "kind": "full",
+    "source": "author_reply",
+    "source_url": "https://x.com/maxt3chno/status/2124625701697368556",
+    "length": 4748,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2124625485590327733"
+   },
+   "resources": []
+  },
+  {
    "id": "2110385278246654052",
    "models": [
     "opus-5.5"
@@ -53483,6 +53852,45 @@
    ],
    "reference_assets": true,
    "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2124585991663153497",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "motion",
+   "title": {
+    "zh": "雨林立体书的五种动画风格",
+    "en": "Rainforest pop-up book in five animation styles"
+   },
+   "creator": {
+    "handle": "pradeepXkapoor",
+    "name": "Pradeep Kapoor"
+   },
+   "original_post_url": "https://x.com/pradeepXkapoor/status/2124585991663153497",
+   "posted_at": "2026-11-22T19:29:07.000Z",
+   "language": "",
+   "duration_seconds": 28,
+   "views": 23862,
+   "likes": 611,
+   "bookmarks": 658,
+   "views_checked_at": "2026-11-24T10:54:36.226Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124585464967663616/img/c93OM_qWMq6QKuPR.jpg",
+   "tools_reported": [
+    "Python",
+    "Skia",
+    "NumPy",
+    "FFmpeg"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "full",
+    "source": "author_reply",
+    "source_url": "https://x.com/pradeepXkapoor/status/2124585997908476379",
+    "length": 2286,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2124585991663153497"
+   },
    "resources": []
   },
   {
@@ -57434,6 +57842,42 @@
    "resources": []
   },
   {
+   "id": "2124766933451161937",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "可交互果冻橙片效果对比",
+    "en": "Interactive gummy orange slice side-by-side test"
+   },
+   "creator": {
+    "handle": "EvaahereAi",
+    "name": "Evaa AI"
+   },
+   "original_post_url": "https://x.com/EvaahereAi/status/2124766933451161937",
+   "posted_at": "2026-11-23T07:28:07.000Z",
+   "language": "",
+   "duration_seconds": 17,
+   "views": 21172,
+   "likes": 200,
+   "bookmarks": 30,
+   "views_checked_at": "2026-11-24T11:01:32.489Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124766887045427200/img/Kr5G_xjfnItuaYOz.jpg",
+   "tools_reported": [
+    "Fable 5.2"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "full",
+    "source": "author_reply",
+    "source_url": "https://x.com/EvaahereAi/status/2124766940728263081",
+    "length": 2485,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2124766933451161937"
+   },
+   "resources": []
+  },
+  {
    "id": "2115882221319958984",
    "models": [
     "opus-5.5"
@@ -57522,6 +57966,37 @@
     "Claude Fable 5.2"
    ],
    "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2124600807123288538",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "太空列车界面设计多模型对比",
+    "en": "Space train UI design model comparison"
+   },
+   "creator": {
+    "handle": "EnvolDev",
+    "name": "Tony"
+   },
+   "original_post_url": "https://x.com/EnvolDev/status/2124600807123288538",
+   "posted_at": "2026-11-22T20:28:00.000Z",
+   "language": "",
+   "duration_seconds": 25,
+   "views": 21085,
+   "likes": 156,
+   "bookmarks": 56,
+   "views_checked_at": "2026-11-24T10:54:36.226Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124592311917228032/img/HgirNLZwlXOpZMQ4.jpg",
+   "tools_reported": [
+    "GPT-6.2 Astra",
+    "Fable 5.2"
+   ],
+   "reference_assets": false,
    "prompt": null,
    "resources": []
   },
@@ -58135,6 +58610,36 @@
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2111087396007890944/img/wRiefKLSs9kCeyAN.jpg",
    "tools_reported": [
     "Blender"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2124619089029353974",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "stories",
+   "title": {
+    "zh": "AI生成视频作品展示",
+    "en": "AI generated video showcase"
+   },
+   "creator": {
+    "handle": "AmbroseAbaasa",
+    "name": "Verse 👾"
+   },
+   "original_post_url": "https://x.com/AmbroseAbaasa/status/2124619089029353974",
+   "posted_at": "2026-11-22T21:40:38.000Z",
+   "language": "",
+   "duration_seconds": 46,
+   "views": 20706,
+   "likes": 199,
+   "bookmarks": 27,
+   "views_checked_at": "2026-11-24T10:54:36.226Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124619032493981696/img/17e1mcWW1u2-sZRt.jpg",
+   "tools_reported": [
+    "Seedance 2.5"
    ],
    "reference_assets": false,
    "prompt": null,
@@ -59691,6 +60196,36 @@
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2103645624432553984/img/Hapg-hpiaD2d1YIF.jpg",
    "tools_reported": [
     "FreeCAD"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2124662724219068510",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "使用技能包前后的界面生成对比",
+    "en": "Skill vs no skill UI generation comparison"
+   },
+   "creator": {
+    "handle": "LexnLin",
+    "name": "Leon Lin"
+   },
+   "original_post_url": "https://x.com/LexnLin/status/2124662724219068510",
+   "posted_at": "2026-11-23T00:34:02.000Z",
+   "language": "",
+   "duration_seconds": 40,
+   "views": 19835,
+   "likes": 596,
+   "bookmarks": 465,
+   "views_checked_at": "2026-11-24T10:54:36.226Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124662345657958400/img/qmvRKcoB7hgbTtMR.jpg",
+   "tools_reported": [
+    "TasteSkill"
    ],
    "reference_assets": false,
    "prompt": null,
@@ -73399,6 +73934,37 @@
    "resources": []
   },
   {
+   "id": "2124335094819119426",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "三款模型生成质量对比",
+    "en": "Three-model output quality comparison"
+   },
+   "creator": {
+    "handle": "rubenssoto_ai",
+    "name": "Rubens Soto | AI & SaaS"
+   },
+   "original_post_url": "https://x.com/rubenssoto_ai/status/2124335094819119426",
+   "posted_at": "2026-11-22T02:52:09.000Z",
+   "language": "",
+   "duration_seconds": 40,
+   "views": 12940,
+   "likes": 138,
+   "bookmarks": 30,
+   "views_checked_at": "2026-11-24T10:54:36.226Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124334446753005568/img/B68SjU73QA0KmMTR.jpg",
+   "tools_reported": [
+    "Gemini Neon",
+    "GPT-6.2 Astra"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2105401665360986275",
    "models": [
     "opus-5.5"
@@ -75567,6 +76133,44 @@
    "tools_reported": [],
    "reference_assets": true,
    "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2124474268079567329",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "冰冻西瓜融化爆炸四模型对比",
+    "en": "Frozen watermelon explosion model comparison"
+   },
+   "creator": {
+    "handle": "AIMind_Ai",
+    "name": "AiMind"
+   },
+   "original_post_url": "https://x.com/AIMind_Ai/status/2124474268079567329",
+   "posted_at": "2026-11-22T12:05:10.000Z",
+   "language": "",
+   "duration_seconds": 32,
+   "views": 12106,
+   "likes": 103,
+   "bookmarks": 37,
+   "views_checked_at": "2026-11-24T10:54:36.226Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124474006644338688/img/2v9onVPesdc0COFX.jpg",
+   "tools_reported": [
+    "GPT-6.2 Astra",
+    "Claude Fable 5.2",
+    "Gemini 4 Neon"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "brief",
+    "source": "post",
+    "source_url": "https://x.com/AIMind_Ai/status/2124474268079567329",
+    "length": 52,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2124474268079567329"
+   },
    "resources": []
   },
   {
@@ -82829,6 +83433,36 @@
    "resources": []
   },
   {
+   "id": "2124598468669034696",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "两款模型视频生成效果对比",
+    "en": "Two-model video output comparison"
+   },
+   "creator": {
+    "handle": "itsluneri",
+    "name": "Luneri"
+   },
+   "original_post_url": "https://x.com/itsluneri/status/2124598468669034696",
+   "posted_at": "2026-11-22T20:18:42.000Z",
+   "language": "",
+   "duration_seconds": 48,
+   "views": 9359,
+   "likes": 128,
+   "bookmarks": 17,
+   "views_checked_at": "2026-11-24T10:54:36.226Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124597911124094976/img/ggDa58VZ1E1Ipy0T.jpg",
+   "tools_reported": [
+    "Gemini 4 Neon"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2103627106240602357",
    "models": [
     "opus-5.5"
@@ -84191,6 +84825,37 @@
    "views_checked_at": "2026-11-23T11:55:30.830Z",
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2109456380256206848/img/dN6sask0KsN9Ep34.jpg",
    "tools_reported": [],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2124525186988839409",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "地球尺度程序化行星三维模拟",
+    "en": "Earth-sized procedural planet simulation"
+   },
+   "creator": {
+    "handle": "rewind02",
+    "name": "rewind"
+   },
+   "original_post_url": "https://x.com/rewind02/status/2124525186988839409",
+   "posted_at": "2026-11-22T15:27:31.000Z",
+   "language": "",
+   "duration_seconds": 200,
+   "views": 8990,
+   "likes": 238,
+   "bookmarks": 243,
+   "views_checked_at": "2026-11-24T10:54:36.226Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124524981853777920/img/cJhpDXyZCeoFCLKb.jpg",
+   "tools_reported": [
+    "Blender",
+    "Unity 6"
+   ],
    "reference_assets": true,
    "prompt": null,
    "resources": []
@@ -89563,6 +90228,43 @@
    "resources": []
   },
   {
+   "id": "2124718701035553237",
+   "models": [
+    "opus-5.5",
+    "sonnet-5.5",
+    "haiku-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "Three.js 3D动画视频作品",
+    "en": "Three.js 3D animated video showcase"
+   },
+   "creator": {
+    "handle": "euviz",
+    "name": "Elvis Sampaio"
+   },
+   "original_post_url": "https://x.com/euviz/status/2124718701035553237",
+   "posted_at": "2026-11-23T04:16:28.000Z",
+   "language": "",
+   "duration_seconds": 80,
+   "views": 6831,
+   "likes": 113,
+   "bookmarks": 142,
+   "views_checked_at": "2026-11-24T11:01:32.489Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124718581891899392/img/-RjxjB_uIMOOyuOk.jpg",
+   "tools_reported": [
+    "Three.js",
+    "ElevenLabs",
+    "Epidemic Sound",
+    "ChatGPT",
+    "Gemini",
+    "After Effects"
+   ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2114441029638410489",
    "models": [
     "opus-5.5",
@@ -89820,6 +90522,43 @@
    "tools_reported": [],
    "reference_assets": true,
    "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2124529713125187838",
+   "models": [
+    "sonnet-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "悬浮岛像素风帕德尔网球比赛对比",
+    "en": "Floating island pixel-art padel match comparison"
+   },
+   "creator": {
+    "handle": "vib3coded",
+    "name": "Vib3Coded"
+   },
+   "original_post_url": "https://x.com/vib3coded/status/2124529713125187838",
+   "posted_at": "2026-11-22T15:45:30.000Z",
+   "language": "",
+   "duration_seconds": 17,
+   "views": 6723,
+   "likes": 152,
+   "bookmarks": 75,
+   "views_checked_at": "2026-11-24T10:54:36.226Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124529630321246208/img/J52pWtwwSlOfODB8.jpg",
+   "tools_reported": [
+    "Three.js",
+    "GPT-6.2 Astra"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "full",
+    "source": "author_reply",
+    "source_url": "https://x.com/vib3coded/status/2124529758172041713",
+    "length": 14914,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2124529713125187838"
+   },
    "resources": []
   },
   {
@@ -92146,6 +92885,38 @@
     "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103390803192352888"
    },
    "resources": []
+  },
+  {
+   "id": "2124503876456038461",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "motion",
+   "title": {
+    "zh": "代码生成音画同步孔版印刷风动画",
+    "en": "Audio-reactive risograph code animation"
+   },
+   "creator": {
+    "handle": "yoshi_yurutsuri",
+    "name": "Yoshi / よっしぃ"
+   },
+   "original_post_url": "https://x.com/yoshi_yurutsuri/status/2124503876456038461",
+   "posted_at": "2026-11-22T14:02:50.000Z",
+   "language": "",
+   "duration_seconds": 63,
+   "views": 5350,
+   "likes": 120,
+   "bookmarks": 111,
+   "views_checked_at": "2026-11-24T10:54:36.226Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124503183900962816/img/MgTeYLtRthZZqcnR.jpg",
+   "tools_reported": [
+    "Lemo-Opuscar"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": [
+    "https://lemomo-ai.github.io/lemo-opuscar/styles/risograph/"
+   ]
   },
   {
    "id": "2105765253799903602",

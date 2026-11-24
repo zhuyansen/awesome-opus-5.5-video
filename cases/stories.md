@@ -1,6 +1,6 @@
 # Characters & stories
 
-259 works, 61 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+261 works, 61 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Replicated 3D cartoon animation style](https://x.com/kristerssulckis/status/2117947953897762899) | Opus 5.5 | [@kristerssulckis](https://x.com/kristerssulckis) | 1:01 | — |
 | [Visualization of the singularity experience](https://x.com/dirtman/status/2103686605517287620) | Opus 5.5 | [@dirtman](https://x.com/dirtman) | 2:26 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103686605517287620) |
 | [Animated music video about an evil plan](https://x.com/_brightmirror/status/2105714071681343654) | Opus 5.5 | [@_brightmirror](https://x.com/_brightmirror) | 6:18 | — |
+| [Photorealistic coyote and roadrunner desert chase comedy](https://x.com/itsshara_ai/status/2124695716396507469) | Opus 5.5 | [@itsshara_ai](https://x.com/itsshara_ai) | 1:22 | — |
 | [Realistic AI-generated video workflow demo](https://x.com/abxxai/status/2102775755646337530) | Opus 5.5 | [@abxxai](https://x.com/abxxai) | 0:19 | — |
 | [Utopia music video blending live action and animation](https://x.com/tapehead_Lab/status/2108150421298753595) | Opus 5.5 | [@tapehead_Lab](https://x.com/tapehead_Lab) | 3:43 | — |
 | [Peach Blossom Spring interactive 3D scene](https://x.com/dotey/status/2102940980379017293) | Opus 5.5 | [@dotey](https://x.com/dotey) | 4:17 | — |
@@ -175,6 +176,7 @@
 | [Viral-style music video](https://x.com/servasyy_ai/status/2114311579277893791) | Opus 5.5 | [@servasyy_ai](https://x.com/servasyy_ai) | 1:50 | — |
 | [Running fried-chicken character animation](https://x.com/whydeso/status/2107754210746134748) | Opus 5.5 | [@whydeso](https://x.com/whydeso) | 0:17 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2107754210746134748) |
 | [Better Half: animated crab short film](https://x.com/JacobMolBio/status/2120648796334178374) | Opus 5.5 | [@JacobMolBio](https://x.com/JacobMolBio) | 1:25 | — |
+| [AI generated video showcase](https://x.com/AmbroseAbaasa/status/2124619089029353974) | Opus 5.5 | [@AmbroseAbaasa](https://x.com/AmbroseAbaasa) | 0:46 | — |
 | [Live-action-style music video via multi-tool workflow](https://x.com/ai6vyy/status/2103415770973958400) | Opus 5.5 | [@ai6vyy](https://x.com/ai6vyy) | 1:30 | — |
 | [Unofficial fan video for a music artist](https://x.com/ystknsh/status/2102766871007436993) | Opus 5.5 | [@ystknsh](https://x.com/ystknsh) | 0:30 | — |
 | [Animated train window seasons short film](https://x.com/itsolelehmann/status/2103124033365762215) | Opus 5.5 | [@itsolelehmann](https://x.com/itsolelehmann) | 0:30 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103124033365762215) |

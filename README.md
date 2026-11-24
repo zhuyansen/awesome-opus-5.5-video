@@ -2,7 +2,7 @@
 
 English | [简体中文](README.zh-CN.md)
 
-Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5, Sonnet 5.5, Haiku 5.5 and Fable 5.5 (limited preview, not yet announced) and shared on X, each with 5,000+ views on the original post. **2948 works** (Opus 5.5: 2757 · Sonnet 5.5: 145 · Fable 5.5: 131; comparisons count for each), **667 with a prompt** (327 full prompts).
+Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5, Sonnet 5.5, Haiku 5.5 and Fable 5.5 (limited preview, not yet announced) and shared on X, each with 5,000+ views on the original post. **2971 works** (Opus 5.5: 2779 · Sonnet 5.5: 147 · Fable 5.5: 131; comparisons count for each), **675 with a prompt** (333 full prompts).
 
 **[Browse online — play the videos and copy the prompts →](https://jasonzhu.ai/en/prompts/claude-opus-5-5)**
 
@@ -27,14 +27,14 @@ Want to make one yourself? **[Claude video skills, tested and graded on Agent Sk
 
 ## Inclusion rule
 
-- The creator's own post, with a native video, and at least 5,000 views on that post (snapshot: 2026-11-23).
+- The creator's own post, with a native video, and at least 5,000 views on that post (snapshot: 2026-11-24).
 - The post states the work was made with Claude Opus 5.5, Sonnet 5.5, Haiku 5.5 or Fable 5.5; the Model column follows the creator's own words. **As of early October Fable 5.5 is in limited preview and not yet announced**; posts where the creator is unsure are excluded. **Model attribution is as stated by each creator and was not independently reproduced.**
 - A prompt is listed only when it has a source: the post itself, the creator's own replies, a screenshot in those replies, or a link the creator shared. Prompts are kept verbatim, never rewritten or translated.
 - Works with a video but no traceable instruction are still listed, with the prompt column left empty.
 
 ## Motion graphics & UI
 
-370 works · [full list](cases/motion.md)
+375 works · [full list](cases/motion.md)
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ Want to make one yourself? **[Claude video skills, tested and graded on Agent Sk
 
 ## Explainers & education
 
-239 works · [full list](cases/education.md)
+240 works · [full list](cases/education.md)
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -74,12 +74,12 @@ Want to make one yourself? **[Claude video skills, tested and graded on Agent Sk
 | [Pixel art neural network training animation](https://x.com/DotCSV/status/2102737776219168939) | Opus 5.5 | [@DotCSV](https://x.com/DotCSV) | 0:56 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102737776219168939) |
 | [Human progress to future animated film](https://x.com/imjustnewatai/status/2106081142143168580) | Fable 5.5 (preview) | [@imjustnewatai](https://x.com/imjustnewatai) | 3:09 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2106081142143168580) |
 | [Hour-by-hour simulation of Singapore occupying Batam](https://x.com/hanifproduktif/status/2109572982444265656) | Opus 5.5 | [@hanifproduktif](https://x.com/hanifproduktif) | 4:21 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2109572982444265656) |
+| [Vox-style engraved map explainer animation](https://x.com/treyscalez/status/2124805520263422440) | Opus 5.5 | [@treyscalez](https://x.com/treyscalez) | 0:32 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2124805520263422440) |
 | [History of AI documentary short film](https://x.com/kimmonismus/status/2102844654169575547) | Opus 5.5 | [@kimmonismus](https://x.com/kimmonismus) | 3:00 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102844654169575547) |
-| ['What is a Transformer' explainer video](https://x.com/dotey/status/2103683057689522564) | Opus 5.5 | [@dotey](https://x.com/dotey) | 12:12 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103683057689522564) |
 
 ## Characters & stories
 
-259 works · [full list](cases/stories.md)
+261 works · [full list](cases/stories.md)
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ Want to make one yourself? **[Claude video skills, tested and graded on Agent Sk
 
 ## 3D worlds & simulations
 
-505 works · [full list](cases/art3d.md)
+508 works · [full list](cases/art3d.md)
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -109,7 +109,7 @@ Want to make one yourself? **[Claude video skills, tested and graded on Agent Sk
 
 ## Games
 
-490 works · [full list](cases/game.md)
+491 works · [full list](cases/game.md)
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -139,7 +139,7 @@ Want to make one yourself? **[Claude video skills, tested and graded on Agent Sk
 
 ## Model comparisons
 
-599 works · [full list](cases/comparison.md)
+610 works · [full list](cases/comparison.md)
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|

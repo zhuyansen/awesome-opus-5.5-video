@@ -1,6 +1,6 @@
 # Explainers & education
 
-239 works, 59 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+240 works, 60 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Electromagnetic field visualization](https://x.com/thebuggeddev/status/2104402407358919124) | Opus 5.5 | [@thebuggeddev](https://x.com/thebuggeddev) | 1:11 | — |
 | [Nolan-style video explaining a 4-bit ALU](https://x.com/mustafaakin/status/2103574428475154635) | Opus 5.5 | [@mustafaakin](https://x.com/mustafaakin) | 1:10 | — |
 | [History of God in India documentary](https://x.com/HindolSengupta/status/2103906559109787845) | Opus 5.5 | [@HindolSengupta](https://x.com/HindolSengupta) | 4:52 | — |
+| [Vox-style engraved map explainer animation](https://x.com/treyscalez/status/2124805520263422440) | Opus 5.5 | [@treyscalez](https://x.com/treyscalez) | 0:32 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2124805520263422440) |
 | [Interactive traffic jam lesson](https://x.com/Lattice_Node/status/2105946058417389840) | Opus 5.5 | [@Lattice_Node](https://x.com/Lattice_Node) | 0:34 | — |
 | [Interactive robotics engineering lesson](https://x.com/0xMovez/status/2112940162103615783) | Opus 5.5 | [@0xMovez](https://x.com/0xMovez) | 0:46 | — |
 | [Interactive 3D book on GCSE energy](https://x.com/techartist_/status/2114035463153742180) | Opus 5.5 | [@techartist_](https://x.com/techartist_) | 0:30 | — |

@@ -1,6 +1,6 @@
 # 3D worlds & simulations
 
-505 works, 112 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+508 works, 112 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -253,6 +253,7 @@
 | [Interactive ink-style shrimp shader](https://x.com/jshguo/status/2105250266392224097) | Opus 5.5 | [@jshguo](https://x.com/jshguo) | 0:10 | — |
 | [Recursive controller, bicycle and pelican SVG](https://x.com/Mr_Salio/status/2111816222811541641) | Fable 5.5 (preview) | [@Mr_Salio](https://x.com/Mr_Salio) | 0:19 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2111816222811541641) |
 | [Home renovation and sunlight heat simulation](https://x.com/Rutto02/status/2110019227998683484) | Opus 5.5 | [@Rutto02](https://x.com/Rutto02) | 0:34 | — |
+| [The Time Keeper animated 3D game character](https://x.com/M__Houser/status/2124585579430224024) | Opus 5.5 | [@M__Houser](https://x.com/M__Houser) | 0:29 | — |
 | [Office scene rebuilt in 3ds Max from reference](https://x.com/rewind02/status/2114316443261002226) | Opus 5.5 | [@rewind02](https://x.com/rewind02) | 0:40 | — |
 | [Animated cloaked hero](https://x.com/rewind02/status/2121933776884269192) | Opus 5.5 | [@rewind02](https://x.com/rewind02) | 0:04 | — |
 | [City environment with interiors and props](https://x.com/badboyfoxy/status/2115046586703057244) | Opus 5.5 / Fable 5.5 (preview) | [@badboyfoxy](https://x.com/badboyfoxy) | 2:25 | — |
@@ -456,6 +457,7 @@
 | [30-hour build of a 3D highway service area](https://x.com/Kashiko_AIart/status/2112030342240694323) | Opus 5.5 | [@Kashiko_AIart](https://x.com/Kashiko_AIart) | 0:36 | — |
 | [Kaiju creature added to ocean scene](https://x.com/KanaWorks_AI/status/2110349862487375873) | Opus 5.5 | [@KanaWorks_AI](https://x.com/KanaWorks_AI) | 0:25 | — |
 | [Point cloud to terrain model](https://x.com/dobokuya77/status/2109456453262266641) | Opus 5.5 | [@dobokuya77](https://x.com/dobokuya77) | 0:31 | — |
+| [Earth-sized procedural planet simulation](https://x.com/rewind02/status/2124525186988839409) | Opus 5.5 | [@rewind02](https://x.com/rewind02) | 3:20 | — |
 | [Fallen Titan 3D scene](https://x.com/scottstts/status/2115933104812724307) | Opus 5.5 | [@scottstts](https://x.com/scottstts) | 1:13 | — |
 | [Rotating blade around a battleship model](https://x.com/ShadeLurk/status/2102462310224900476) | Opus 5.5 | [@ShadeLurk](https://x.com/ShadeLurk) | 0:06 | — |
 | [Isometric 3D Scene](https://x.com/itsnotryan/status/2107013497813172593) | Opus 5.5 | [@itsnotryan](https://x.com/itsnotryan) | 0:07 | — |
@@ -492,6 +494,7 @@
 | [Interactive soft-body jelly marlin](https://x.com/vib3coded/status/2115752978946687084) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:17 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2115752978946687084) |
 | [Whale breaching a cel-shaded ocean simulation](https://x.com/camperaigg/status/2118069524306284556) | Fable 5.5 (preview) | [@camperaigg](https://x.com/camperaigg) | 0:31 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2118069524306284556) |
 | [Pool scene with jelly fish from earlier projects](https://x.com/vib3coded/status/2115912302272618696) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:16 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2115912302272618696) |
+| [Three.js 3D animated video showcase](https://x.com/euviz/status/2124718701035553237) | Opus 5.5 / Sonnet 5.5 / Haiku 5.5 | [@euviz](https://x.com/euviz) | 1:20 | — |
 | [Bio-inspired generative plant synth](https://x.com/parhelion318/status/2123982460090503626) | Opus 5.5 | [@parhelion318](https://x.com/parhelion318) | 0:23 | — |
 | [Teaching Opus pixel art skills](https://x.com/BeamManP/status/2103555482095149320) | Opus 5.5 | [@BeamManP](https://x.com/BeamManP) | 0:45 | — |
 | [Rainy Japanese garden deer scarer simulation](https://x.com/mizugame_22/status/2103822799580307674) | Opus 5.5 | [@mizugame_22](https://x.com/mizugame_22) | 0:15 | — |

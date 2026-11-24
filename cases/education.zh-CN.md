@@ -1,6 +1,6 @@
 # 科普讲解
 
-共 239 个作品，其中 59 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 240 个作品，其中 60 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [电磁场可视化演示](https://x.com/thebuggeddev/status/2104402407358919124) | Opus 5.5 | [@thebuggeddev](https://x.com/thebuggeddev) | 1:11 | — |
 | [诺兰风格的4位ALU讲解视频](https://x.com/mustafaakin/status/2103574428475154635) | Opus 5.5 | [@mustafaakin](https://x.com/mustafaakin) | 1:10 | — |
 | [印度神明历史纪录片](https://x.com/HindolSengupta/status/2103906559109787845) | Opus 5.5 | [@HindolSengupta](https://x.com/HindolSengupta) | 4:52 | — |
+| [Vox风格雕刻地图解说动画](https://x.com/treyscalez/status/2124805520263422440) | Opus 5.5 | [@treyscalez](https://x.com/treyscalez) | 0:32 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2124805520263422440) |
 | [互动式交通拥堵原理课](https://x.com/Lattice_Node/status/2105946058417389840) | Opus 5.5 | [@Lattice_Node](https://x.com/Lattice_Node) | 0:34 | — |
 | [互动机器人工程教学网站](https://x.com/0xMovez/status/2112940162103615783) | Opus 5.5 | [@0xMovez](https://x.com/0xMovez) | 0:46 | — |
 | [中学能量知识互动3D教材](https://x.com/techartist_/status/2114035463153742180) | Opus 5.5 | [@techartist_](https://x.com/techartist_) | 0:30 | — |

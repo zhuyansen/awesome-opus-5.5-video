@@ -1,6 +1,6 @@
 # 角色故事
 
-共 259 个作品，其中 61 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 261 个作品，其中 61 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [复刻三维卡通动画风格](https://x.com/kristerssulckis/status/2117947953897762899) | Opus 5.5 | [@kristerssulckis](https://x.com/kristerssulckis) | 1:01 | — |
 | [奇点体验可视化短片](https://x.com/dirtman/status/2103686605517287620) | Opus 5.5 | [@dirtman](https://x.com/dirtman) | 2:26 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103686605517287620) |
 | [关于邪恶计划的动画音乐视频](https://x.com/_brightmirror/status/2105714071681343654) | Opus 5.5 | [@_brightmirror](https://x.com/_brightmirror) | 6:18 | — |
+| [写实风格郊狼与走鹃沙漠追逐喜剧](https://x.com/itsshara_ai/status/2124695716396507469) | Opus 5.5 | [@itsshara_ai](https://x.com/itsshara_ai) | 1:22 | — |
 | [AI真实感视频制作流程演示](https://x.com/abxxai/status/2102775755646337530) | Opus 5.5 | [@abxxai](https://x.com/abxxai) | 0:19 | — |
 | [《乌托邦》实拍与动画合成音乐视频](https://x.com/tapehead_Lab/status/2108150421298753595) | Opus 5.5 | [@tapehead_Lab](https://x.com/tapehead_Lab) | 3:43 | — |
 | [桃花源记三维互动场景](https://x.com/dotey/status/2102940980379017293) | Opus 5.5 | [@dotey](https://x.com/dotey) | 4:17 | — |
@@ -175,6 +176,7 @@
 | [魔性爆款音乐视频](https://x.com/servasyy_ai/status/2114311579277893791) | Opus 5.5 | [@servasyy_ai](https://x.com/servasyy_ai) | 1:50 | — |
 | [奔跑的炸鸡腿角色动画](https://x.com/whydeso/status/2107754210746134748) | Opus 5.5 | [@whydeso](https://x.com/whydeso) | 0:17 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2107754210746134748) |
 | [《Better Half》螃蟹动画短片](https://x.com/JacobMolBio/status/2120648796334178374) | Opus 5.5 | [@JacobMolBio](https://x.com/JacobMolBio) | 1:25 | — |
+| [AI生成视频作品展示](https://x.com/AmbroseAbaasa/status/2124619089029353974) | Opus 5.5 | [@AmbroseAbaasa](https://x.com/AmbroseAbaasa) | 0:46 | — |
 | [多工具协作的真人风格MV](https://x.com/ai6vyy/status/2103415770973958400) | Opus 5.5 | [@ai6vyy](https://x.com/ai6vyy) | 1:30 | — |
 | [音乐人非官方粉丝视频](https://x.com/ystknsh/status/2102766871007436993) | Opus 5.5 | [@ystknsh](https://x.com/ystknsh) | 0:30 | — |
 | [火车窗外四季变换动画短片](https://x.com/itsolelehmann/status/2103124033365762215) | Opus 5.5 | [@itsolelehmann](https://x.com/itsolelehmann) | 0:30 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103124033365762215) |

@@ -1,6 +1,6 @@
 # Games
 
-490 works, 63 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+491 works, 63 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [3D parking practice simulator](https://x.com/RyanSael/status/2113306254647120334) | Opus 5.5 | [@RyanSael](https://x.com/RyanSael) | 0:30 | — |
 | [Rolling Republic survival game](https://x.com/usecrayon/status/2113044115130867828) | Opus 5.5 | [@usecrayon](https://x.com/usecrayon) | 0:30 | — |
 | [Halloween brainrot Roblox characters](https://x.com/Iksak445685/status/2111861995695952270) | Opus 5.5 | [@Iksak445685](https://x.com/Iksak445685) | 0:20 | — |
+| [Browser RTS game prototype inspired by AoE II](https://x.com/Linus_K_AI/status/2124790912618545223) | Opus 5.5 | [@Linus_K_AI](https://x.com/Linus_K_AI) | 0:53 | — |
 | [Business tycoon game beach update](https://x.com/alexcooldev/status/2110352122575274388) | Opus 5.5 / Sonnet 5.5 | [@alexcooldev](https://x.com/alexcooldev) | 2:06 | — |
 | [Original Three.js game made in 24 hours](https://x.com/NicoleOfCringe/status/2118521562261528849) | Opus 5.5 | [@NicoleOfCringe](https://x.com/NicoleOfCringe) | 1:15 | — |
 | [Pixel Shanghai memory-collecting game](https://x.com/ring_hyacinth/status/2102865595675050010) | Opus 5.5 | [@ring_hyacinth](https://x.com/ring_hyacinth) | 2:59 | — |
