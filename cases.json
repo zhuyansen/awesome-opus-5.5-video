@@ -3,8 +3,8 @@
  "model": "Claude 5.5 (Opus 5.5 · Sonnet 5.5 · Haiku 5.5 · Fable 5.5)",
  "inclusion_rule": "Original post by the creator, native video attached, >= 5000 views on that post, creator states it was made with Claude Opus 5.5, Sonnet 5.5, Haiku 5.5 or Fable 5.5 (Fable 5.5 is in limited preview, not yet announced). Later posts that embed another account's upload are excluded.",
  "views_threshold": 5000,
- "stats_checked_at": "2026-11-24T11:01:32.489Z",
- "updated_at": "2026-11-24T11:01:32.489Z",
+ "stats_checked_at": "2026-11-25T01:17:17.574Z",
+ "updated_at": "2026-11-25T01:17:17.574Z",
  "model_attribution": "As stated by each creator; not independently reproduced.",
  "cases": [
   {
@@ -4485,6 +4485,37 @@
     "Tripo",
     "ChatGPT",
     "HunyuanVideo-Foley"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2124918219341230407",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "game",
+   "title": {
+    "zh": "AI自我对弈象棋对局",
+    "en": "Self-play chess match"
+   },
+   "creator": {
+    "handle": "kinderlayer",
+    "name": "Kinder"
+   },
+   "original_post_url": "https://x.com/kinderlayer/status/2124918219341230407",
+   "posted_at": "2026-11-23T17:29:17.000Z",
+   "language": "en",
+   "duration_seconds": 93,
+   "views": 383718,
+   "likes": 368,
+   "bookmarks": 424,
+   "views_checked_at": "2026-11-25T01:17:17.574Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124917717295673344/img/KVxDjI3w-uFquvZA.jpg",
+   "tools_reported": [
+    "Claude Fable 5.2",
+    "Stockfish"
    ],
    "reference_assets": false,
    "prompt": null,
@@ -27840,6 +27871,38 @@
    "views_checked_at": "2026-11-23T11:55:30.830Z",
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2103966442458640385/img/pMZD5uZUOvrVAxMq.jpg",
    "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2125004311822324011",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "视频生成性能对比测试",
+    "en": "Video generation performance comparison"
+   },
+   "creator": {
+    "handle": "0xmurasame",
+    "name": "Murasame"
+   },
+   "original_post_url": "https://x.com/0xmurasame/status/2125004311822324011",
+   "posted_at": "2026-11-23T23:11:23.000Z",
+   "language": "en",
+   "duration_seconds": 15,
+   "views": 62648,
+   "likes": 121,
+   "bookmarks": 128,
+   "views_checked_at": "2026-11-25T01:17:17.574Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2125004119769219072/img/5n59IxaWVzNyYJbL.jpg",
+   "tools_reported": [
+    "Fable 5.2",
+    "GPT-6 Astra",
+    "Kimi K3.1"
+   ],
    "reference_assets": false,
    "prompt": null,
    "resources": []
@@ -61675,6 +61738,39 @@
    "resources": []
   },
   {
+   "id": "2124831684952523057",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "3D 章鱼灯塔场景生成对比",
+    "en": "3D octopus and lighthouse scene comparison"
+   },
+   "creator": {
+    "handle": "Lummox_eth",
+    "name": "Lummox"
+   },
+   "original_post_url": "https://x.com/Lummox_eth/status/2124831684952523057",
+   "posted_at": "2026-11-23T11:45:25.000Z",
+   "language": "en",
+   "duration_seconds": 10,
+   "views": 19055,
+   "likes": 112,
+   "bookmarks": 82,
+   "views_checked_at": "2026-11-25T01:17:17.574Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124831619206799360/img/Lp48SD_wpoiVy83E.jpg",
+   "tools_reported": [
+    "GPT-6.2 Astra",
+    "Fable 5.2",
+    "Blender",
+    "MCP"
+   ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2109609404450607352",
    "models": [
     "opus-5.5"
@@ -66579,6 +66675,39 @@
    "resources": []
   },
   {
+   "id": "2124959671714812281",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "Opus 5.5 与 Fable 5.2 照片级动画对比测试",
+    "en": "Opus 5.5 vs Fable 5.2 photorealistic animation test"
+   },
+   "creator": {
+    "handle": "DanielZambrini",
+    "name": "Daniel Zambrini"
+   },
+   "original_post_url": "https://x.com/DanielZambrini/status/2124959671714812281",
+   "posted_at": "2026-11-23T20:14:00.000Z",
+   "language": "en",
+   "duration_seconds": 30,
+   "views": 16342,
+   "likes": 180,
+   "bookmarks": 125,
+   "views_checked_at": "2026-11-25T01:17:17.574Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124942803369136128/img/2TL-OF5NoepNkf0U.jpg",
+   "tools_reported": [
+    "Blender",
+    "Python",
+    "NumPy",
+    "FFmpeg"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2111453039228043604",
    "models": [
     "opus-5.5"
@@ -70853,6 +70982,34 @@
     "Three.js"
    ],
    "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2125020059764666709",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "production",
+   "title": {
+    "zh": "用旧涂鸦制作的互动素描本",
+    "en": "Interactive sketchbook from old doodles"
+   },
+   "creator": {
+    "handle": "reneedusigns",
+    "name": "Renee Du"
+   },
+   "original_post_url": "https://x.com/reneedusigns/status/2125020059764666709",
+   "posted_at": "2026-11-24T00:13:57.000Z",
+   "language": "en",
+   "duration_seconds": 49,
+   "views": 14161,
+   "likes": 383,
+   "bookmarks": 297,
+   "views_checked_at": "2026-11-25T01:17:17.574Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2125019514085756928/img/FhJmr2YdLVyeUq5L.jpg",
+   "tools_reported": [],
+   "reference_assets": true,
    "prompt": null,
    "resources": []
   },
@@ -82815,6 +82972,37 @@
    ]
   },
   {
+   "id": "2124902808591704448",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "网页端 3D 僵尸动画",
+    "en": "Browser-based 3D zombie animation"
+   },
+   "creator": {
+    "handle": "maxt3chno",
+    "name": "Max"
+   },
+   "original_post_url": "https://x.com/maxt3chno/status/2124902808591704448",
+   "posted_at": "2026-11-23T16:28:03.000Z",
+   "language": "en",
+   "duration_seconds": 35,
+   "views": 9740,
+   "likes": 197,
+   "bookmarks": 280,
+   "views_checked_at": "2026-11-25T01:17:17.574Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124902479838031872/img/cdVp5Sqjdus2thIt.jpg",
+   "tools_reported": [
+    "ActionForge",
+    "Tripo"
+   ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2106155815707021549",
    "models": [
     "fable-5.5"
@@ -87546,6 +87734,41 @@
     "Roblox"
    ],
    "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2124912566266925411",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "motion",
+   "title": {
+    "zh": "银喉长尾山雀动画与代码合成音效",
+    "en": "Long-tailed tit animation with code-synthesized sound"
+   },
+   "creator": {
+    "handle": "aburacadabra_",
+    "name": "세일러아이리스"
+   },
+   "original_post_url": "https://x.com/aburacadabra_/status/2124912566266925411",
+   "posted_at": "2026-11-23T17:06:49.000Z",
+   "language": "ko",
+   "duration_seconds": 20,
+   "views": 7912,
+   "likes": 139,
+   "bookmarks": 150,
+   "views_checked_at": "2026-11-25T01:17:17.574Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124912361157099520/img/1cwoORWoIk_7aDxQ.jpg",
+   "tools_reported": [
+    "Claude Code",
+    "Blender",
+    "Python",
+    "HyperFrames",
+    "GSAP",
+    "NumPy"
+   ],
+   "reference_assets": true,
    "prompt": null,
    "resources": []
   },

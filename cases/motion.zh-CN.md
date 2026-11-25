@@ -1,6 +1,6 @@
 # 动效设计
 
-共 375 个作品，其中 96 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 376 个作品，其中 96 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -352,6 +352,7 @@
 | [Lumno 官网功能演示 SVG 动画](https://x.com/Kubai087/status/2113241980268593422) | Opus 5.5 | [@Kubai087](https://x.com/Kubai087) | 1:07 | — |
 | [抽象元素动画](https://x.com/csaba_kissi/status/2121665294875894082) | Opus 5.5 | [@csaba_kissi](https://x.com/csaba_kissi) | 0:25 | — |
 | [146个机器人的黑灯工厂动画](https://x.com/0xwhrrari/status/2114703675264291003) | Opus 5.5 | [@0xwhrrari](https://x.com/0xwhrrari) | 0:21 | — |
+| [银喉长尾山雀动画与代码合成音效](https://x.com/aburacadabra_/status/2124912566266925411) | Opus 5.5 | [@aburacadabra_](https://x.com/aburacadabra_) | 0:20 | — |
 | [After Effects 风格动画效果展示](https://x.com/nakazakifam/status/2114202745636852063) | Opus 5.5 | [@nakazakifam](https://x.com/nakazakifam) | 0:24 | — |
 | [mounis.app 应用发布动效片](https://x.com/MustaphaFenzar/status/2103708363074973906) | Opus 5.5 | [@MustaphaFenzar](https://x.com/MustaphaFenzar) | 0:15 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103708363074973906) |
 | [设计师与开发者切换动画](https://x.com/hamzeh_ux/status/2120404657541615887) | Opus 5.5 | [@hamzeh_ux](https://x.com/hamzeh_ux) | 0:16 | — |

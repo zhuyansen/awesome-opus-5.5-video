@@ -1,6 +1,6 @@
 # Music, editing & production
 
-199 works, 32 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+200 works, 32 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Multi-tool comedy skit video pipeline](https://x.com/tkz_aiart/status/2103408393470066754) | Opus 5.5 | [@tkz_aiart](https://x.com/tkz_aiart) | 0:56 | — |
 | [Agent-generated social media slideshows](https://x.com/_mattwelter/status/2112202863912861828) | Opus 5.5 | [@_mattwelter](https://x.com/_mattwelter) | 11:06 | — |
 | [Multi-model video production pipeline](https://x.com/KanaWorks_AI/status/2103836147277345052) | Opus 5.5 | [@KanaWorks_AI](https://x.com/KanaWorks_AI) | 0:15 | — |
+| [Interactive sketchbook from old doodles](https://x.com/reneedusigns/status/2125020059764666709) | Opus 5.5 | [@reneedusigns](https://x.com/reneedusigns) | 0:49 | — |
 | [Livecoded song made with TidalCycles](https://x.com/surucudev/status/2103917032706101254) | Opus 5.5 | [@surucudev](https://x.com/surucudev) | 2:42 | — |
 | [Full video edit performed by Claude](https://x.com/robinebers/status/2110362823973101716) | Opus 5.5 | [@robinebers](https://x.com/robinebers) | 14:15 | — |
 | [AI-directed cinematic in a game engine](https://x.com/sameerpallav/status/2103586713801257017) | Opus 5.5 | [@sameerpallav](https://x.com/sameerpallav) | 3:58 | — |

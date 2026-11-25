@@ -1,6 +1,6 @@
 # Games
 
-491 works, 63 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+492 works, 63 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Antikythera-mechanism-inspired browser game](https://x.com/edwinarbus/status/2102463453176979794) | Opus 5.5 | [@edwinarbus](https://x.com/edwinarbus) | 1:00 | — |
 | [Open-world earth-scale game engine demo](https://x.com/_chuckyc/status/2110779144191537364) | Opus 5.5 | [@_chuckyc](https://x.com/_chuckyc) | 24:07 | — |
 | [Twenty-questions emoji guessing game](https://x.com/edwinarbus/status/2104643996123603407) | Sonnet 5.5 | [@edwinarbus](https://x.com/edwinarbus) | 0:36 | — |
+| [Self-play chess match](https://x.com/kinderlayer/status/2124918219341230407) | Opus 5.5 | [@kinderlayer](https://x.com/kinderlayer) | 1:33 | — |
 | [One-shot Mario Kart style game](https://x.com/bridgemindai/status/2102451997395866021) | Opus 5.5 | [@bridgemindai](https://x.com/bridgemindai) | 0:52 | — |
 | [Panzer Dragoon recreation](https://x.com/yasei_no_otoko/status/2103868553242058933) | Opus 5.5 | [@yasei_no_otoko](https://x.com/yasei_no_otoko) | 2:47 | — |
 | [Karen Warfare browser game](https://x.com/KaladinOG/status/2112185653157118438) | Opus 5.5 | [@KaladinOG](https://x.com/KaladinOG) | 0:54 | — |

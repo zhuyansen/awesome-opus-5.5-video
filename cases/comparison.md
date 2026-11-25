@@ -1,6 +1,6 @@
 # Model comparisons
 
-610 works, 200 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+613 works, 200 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [Robot arm writing hello world, two models compared](https://x.com/ArtificialAnlys/status/2115567357506748492) | Opus 5.5 | [@ArtificialAnlys](https://x.com/ArtificialAnlys) | 0:12 | — |
 | [Four-model animation benchmark](https://x.com/higgsfield_ai/status/2111526194248286413) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:10 | — |
 | [Rug racing game comparison](https://x.com/noclipepe/status/2119728047754547326) | Opus 5.5 / Fable 5.5 (preview) | [@noclipepe](https://x.com/noclipepe) | 1:14 | — |
+| [Video generation performance comparison](https://x.com/0xmurasame/status/2125004311822324011) | Opus 5.5 | [@0xmurasame](https://x.com/0xmurasame) | 0:15 | — |
 | [Claude vs Gemini roast battle](https://x.com/whydeso/status/2110649723497394405) | Opus 5.5 | [@whydeso](https://x.com/whydeso) | 1:38 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2110649723497394405) |
 | [Side-by-side model output comparison](https://x.com/xKaka1456/status/2121623349386477877) | Opus 5.5 | [@xKaka1456](https://x.com/xKaka1456) | 0:12 | — |
 | [Post-Biological Consciousness Experience](https://x.com/SimonasLTU1/status/2107110129363472474) | Opus 5.5 | [@SimonasLTU1](https://x.com/SimonasLTU1) | 1:05 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2107110129363472474) |
@@ -434,6 +435,7 @@
 | [Pelican prompt version comparison](https://x.com/filicroval/status/2119493264290254986) | Opus 5.5 | [@filicroval](https://x.com/filicroval) | 0:59 | — |
 | [Motion design comparison Opus vs Astra](https://x.com/melvynx/status/2103726589334921517) | Opus 5.5 | [@melvynx](https://x.com/melvynx) | 0:49 | — |
 | [Ink-style animation storytelling comparison](https://x.com/higgsfield_ai/status/2110436743589876093) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:15 | — |
+| [3D octopus and lighthouse scene comparison](https://x.com/Lummox_eth/status/2124831684952523057) | Opus 5.5 | [@Lummox_eth](https://x.com/Lummox_eth) | 0:10 | — |
 | [Effort-mode comparison between two AI models](https://x.com/SPAC89/status/2103909432102961575) | Opus 5.5 | [@SPAC89](https://x.com/SPAC89) | 0:15 | — |
 | [Self-building mech comparison](https://x.com/MrTacticalX/status/2112393665209303177) | Opus 5.5 / Sonnet 5.5 | [@MrTacticalX](https://x.com/MrTacticalX) | 0:25 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2112393665209303177) |
 | [Character image vector layer comparison](https://x.com/grmchn4ai/status/2120000100768641092) | Opus 5.5 | [@grmchn4ai](https://x.com/grmchn4ai) | 0:12 | — |
@@ -467,6 +469,7 @@
 | [Abandoned village cinematic: DeepSeek vs Opus 5.5](https://x.com/abhinavflac/status/2111717582118240676) | Opus 5.5 | [@abhinavflac](https://x.com/abhinavflac) | 0:15 | — |
 | [Lip balm product video comparison](https://x.com/higgsfield_ai/status/2102913101926731879) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:20 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102913101926731879) |
 | [Gaussian splat world model comparison](https://x.com/sshayahmet/status/2122778769597554693) | Opus 5.5 | [@sshayahmet](https://x.com/sshayahmet) | 0:20 | — |
+| [Opus 5.5 vs Fable 5.2 photorealistic animation test](https://x.com/DanielZambrini/status/2124959671714812281) | Opus 5.5 | [@DanielZambrini](https://x.com/DanielZambrini) | 0:30 | — |
 | [3D video generation comparison](https://x.com/getviewgum/status/2119991792053387264) | Opus 5.5 | [@getviewgum](https://x.com/getviewgum) | 0:47 | — |
 | [Same-prompt short video comparison](https://x.com/arieagung/status/2111746414665732342) | Opus 5.5 | [@arieagung](https://x.com/arieagung) | 1:38 | — |
 | [3D ship build comparison with same prompt](https://x.com/marcthecreatorr/status/2121221667619852660) | Sonnet 5.5 | [@marcthecreatorr](https://x.com/marcthecreatorr) | 0:54 | — |

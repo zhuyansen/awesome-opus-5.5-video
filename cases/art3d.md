@@ -1,6 +1,6 @@
 # 3D worlds & simulations
 
-508 works, 112 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+509 works, 112 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -449,6 +449,7 @@
 | [3D printer model](https://x.com/MrTacticalX/status/2121565804374180344) | Opus 5.5 | [@MrTacticalX](https://x.com/MrTacticalX) | 0:42 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2121565804374180344) |
 | [Frost fortress fantasy scene](https://x.com/vib3coded/status/2116533061495947270) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:12 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2116533061495947270) |
 | [Blender fish stand built via AI workflow](https://x.com/ForkedPush/status/2112565571585712627) | Opus 5.5 | [@ForkedPush](https://x.com/ForkedPush) | 0:28 | — |
+| [Browser-based 3D zombie animation](https://x.com/maxt3chno/status/2124902808591704448) | Opus 5.5 | [@maxt3chno](https://x.com/maxt3chno) | 0:35 | — |
 | [3D space test scene](https://x.com/studio_veco/status/2102650069136933039) | Opus 5.5 | [@studio_veco](https://x.com/studio_veco) | 0:51 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102650069136933039) |
 | [Procedural robotic giant squid teardown](https://x.com/vib3coded/status/2119392067646345249) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:17 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2119392067646345249) |
 | [Hamburg City Hall procedural 3D recreation](https://x.com/rewind02/status/2107843285737738656) | Opus 5.5 | [@rewind02](https://x.com/rewind02) | 1:26 | — |

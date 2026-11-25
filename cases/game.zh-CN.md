@@ -1,6 +1,6 @@
 # 游戏
 
-共 491 个作品，其中 63 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 492 个作品，其中 63 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [安提基特拉机械装置主题游戏](https://x.com/edwinarbus/status/2102463453176979794) | Opus 5.5 | [@edwinarbus](https://x.com/edwinarbus) | 1:00 | — |
 | [地球尺度开放世界游戏引擎演示](https://x.com/_chuckyc/status/2110779144191537364) | Opus 5.5 | [@_chuckyc](https://x.com/_chuckyc) | 24:07 | — |
 | [二十问表情猜谜游戏](https://x.com/edwinarbus/status/2104643996123603407) | Sonnet 5.5 | [@edwinarbus](https://x.com/edwinarbus) | 0:36 | — |
+| [AI自我对弈象棋对局](https://x.com/kinderlayer/status/2124918219341230407) | Opus 5.5 | [@kinderlayer](https://x.com/kinderlayer) | 1:33 | — |
 | [一次生成的马里奥赛车风格游戏](https://x.com/bridgemindai/status/2102451997395866021) | Opus 5.5 | [@bridgemindai](https://x.com/bridgemindai) | 0:52 | — |
 | [《铁甲飞龙》重制演示](https://x.com/yasei_no_otoko/status/2103868553242058933) | Opus 5.5 | [@yasei_no_otoko](https://x.com/yasei_no_otoko) | 2:47 | — |
 | [《凯伦大作战》网页游戏](https://x.com/KaladinOG/status/2112185653157118438) | Opus 5.5 | [@KaladinOG](https://x.com/KaladinOG) | 0:54 | — |

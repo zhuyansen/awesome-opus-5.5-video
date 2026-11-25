@@ -1,6 +1,6 @@
 # 模型对比
 
-共 610 个作品，其中 200 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 613 个作品，其中 200 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [机械臂书写 hello world 双模型对比](https://x.com/ArtificialAnlys/status/2115567357506748492) | Opus 5.5 | [@ArtificialAnlys](https://x.com/ArtificialAnlys) | 0:12 | — |
 | [四模型动画效果对比](https://x.com/higgsfield_ai/status/2111526194248286413) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:10 | — |
 | [地毯赛车游戏对比](https://x.com/noclipepe/status/2119728047754547326) | Opus 5.5 / Fable 5.5 (preview) | [@noclipepe](https://x.com/noclipepe) | 1:14 | — |
+| [视频生成性能对比测试](https://x.com/0xmurasame/status/2125004311822324011) | Opus 5.5 | [@0xmurasame](https://x.com/0xmurasame) | 0:15 | — |
 | [Claude与Gemini互怼对比](https://x.com/whydeso/status/2110649723497394405) | Opus 5.5 | [@whydeso](https://x.com/whydeso) | 1:38 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2110649723497394405) |
 | [模型输出并排对比](https://x.com/xKaka1456/status/2121623349386477877) | Opus 5.5 | [@xKaka1456](https://x.com/xKaka1456) | 0:12 | — |
 | [后生物意识体验](https://x.com/SimonasLTU1/status/2107110129363472474) | Opus 5.5 | [@SimonasLTU1](https://x.com/SimonasLTU1) | 1:05 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2107110129363472474) |
@@ -434,6 +435,7 @@
 | [同一鹈鹕提示词版本对比](https://x.com/filicroval/status/2119493264290254986) | Opus 5.5 | [@filicroval](https://x.com/filicroval) | 0:59 | — |
 | [动效设计Opus与Astra对比](https://x.com/melvynx/status/2103726589334921517) | Opus 5.5 | [@melvynx](https://x.com/melvynx) | 0:49 | — |
 | [水墨风格叙事动画对比](https://x.com/higgsfield_ai/status/2110436743589876093) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:15 | — |
+| [3D 章鱼灯塔场景生成对比](https://x.com/Lummox_eth/status/2124831684952523057) | Opus 5.5 | [@Lummox_eth](https://x.com/Lummox_eth) | 0:10 | — |
 | [两款AI模型效果模式对比](https://x.com/SPAC89/status/2103909432102961575) | Opus 5.5 | [@SPAC89](https://x.com/SPAC89) | 0:15 | — |
 | [自组装机甲效果对比](https://x.com/MrTacticalX/status/2112393665209303177) | Opus 5.5 / Sonnet 5.5 | [@MrTacticalX](https://x.com/MrTacticalX) | 0:25 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2112393665209303177) |
 | [角色图像矢量分层对比](https://x.com/grmchn4ai/status/2120000100768641092) | Opus 5.5 | [@grmchn4ai](https://x.com/grmchn4ai) | 0:12 | — |
@@ -467,6 +469,7 @@
 | [荒村电影场景：DeepSeek对比Opus 5.5](https://x.com/abhinavflac/status/2111717582118240676) | Opus 5.5 | [@abhinavflac](https://x.com/abhinavflac) | 0:15 | — |
 | [唇膏产品视频模型对比](https://x.com/higgsfield_ai/status/2102913101926731879) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:20 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102913101926731879) |
 | [高斯溅射世界模型对比](https://x.com/sshayahmet/status/2122778769597554693) | Opus 5.5 | [@sshayahmet](https://x.com/sshayahmet) | 0:20 | — |
+| [Opus 5.5 与 Fable 5.2 照片级动画对比测试](https://x.com/DanielZambrini/status/2124959671714812281) | Opus 5.5 | [@DanielZambrini](https://x.com/DanielZambrini) | 0:30 | — |
 | [3D 视频生成对比](https://x.com/getviewgum/status/2119991792053387264) | Opus 5.5 | [@getviewgum](https://x.com/getviewgum) | 0:47 | — |
 | [同一提示词短视频对比](https://x.com/arieagung/status/2111746414665732342) | Opus 5.5 | [@arieagung](https://x.com/arieagung) | 1:38 | — |
 | [同一提示词的3D飞船建模对比](https://x.com/marcthecreatorr/status/2121221667619852660) | Sonnet 5.5 | [@marcthecreatorr](https://x.com/marcthecreatorr) | 0:54 | — |

@@ -1,6 +1,6 @@
 # Motion graphics & UI
 
-375 works, 96 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+376 works, 96 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -352,6 +352,7 @@
 | [Lumno website SVG feature demo animations](https://x.com/Kubai087/status/2113241980268593422) | Opus 5.5 | [@Kubai087](https://x.com/Kubai087) | 1:07 | — |
 | [Abstract element animation](https://x.com/csaba_kissi/status/2121665294875894082) | Opus 5.5 | [@csaba_kissi](https://x.com/csaba_kissi) | 0:25 | — |
 | [Animated dark factory with 146 robot workers](https://x.com/0xwhrrari/status/2114703675264291003) | Opus 5.5 | [@0xwhrrari](https://x.com/0xwhrrari) | 0:21 | — |
+| [Long-tailed tit animation with code-synthesized sound](https://x.com/aburacadabra_/status/2124912566266925411) | Opus 5.5 | [@aburacadabra_](https://x.com/aburacadabra_) | 0:20 | — |
 | [After Effects-style animation effects showcase](https://x.com/nakazakifam/status/2114202745636852063) | Opus 5.5 | [@nakazakifam](https://x.com/nakazakifam) | 0:24 | — |
 | [Launch motion video for mounis.app](https://x.com/MustaphaFenzar/status/2103708363074973906) | Opus 5.5 | [@MustaphaFenzar](https://x.com/MustaphaFenzar) | 0:15 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103708363074973906) |
 | [Designer-developer toggle animation](https://x.com/hamzeh_ux/status/2120404657541615887) | Opus 5.5 | [@hamzeh_ux](https://x.com/hamzeh_ux) | 0:16 | — |
