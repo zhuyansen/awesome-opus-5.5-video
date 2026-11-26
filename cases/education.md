@@ -1,6 +1,6 @@
 # Explainers & education
 
-240 works, 60 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+241 works, 61 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Password vs passkey interactive explainer](https://x.com/Tz_2022/status/2102838830285898214) | Opus 5.5 | [@Tz_2022](https://x.com/Tz_2022) | 4:09 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102838830285898214) |
 | [Animal cell life diagram](https://x.com/kevin_t_ngo/status/2116423724379656329) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 0:44 | — |
 | [Kinesin motor protein claymation](https://x.com/JacobMolBio/status/2102569129026916389) | Opus 5.5 | [@JacobMolBio](https://x.com/JacobMolBio) | 0:23 | — |
+| [Interactive 3D car engine explainer](https://x.com/exploraX_/status/2125210946209558620) | Opus 5.5 | [@exploraX_](https://x.com/exploraX_) | 0:43 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2125210946209558620) |
 | [History of gas turbines explainer](https://x.com/Xaraphim/status/2103576037426917779) | Opus 5.5 | [@Xaraphim](https://x.com/Xaraphim) | 2:08 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103576037426917779) |
 | [Frame-by-frame animation of a honey bee's life](https://x.com/kevin_t_ngo/status/2109766087328100521) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 0:53 | — |
 | [Explainer video about Opus 5.5 made by itself](https://x.com/_caty2_/status/2102473582333050959) | Opus 5.5 | [@_caty2_](https://x.com/_caty2_) | 1:18 | — |

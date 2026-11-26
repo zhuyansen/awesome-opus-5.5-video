@@ -1,6 +1,6 @@
 # 3D worlds & simulations
 
-509 works, 112 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+514 works, 112 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [3D bed placement room visualization](https://x.com/scheemunai/status/2103059885361598633) | Opus 5.5 | [@scheemunai](https://x.com/scheemunai) | 1:27 | — |
 | [Floor plan to 3D interior design tool](https://x.com/akokoi1/status/2104520072014508316) | Opus 5.5 | [@akokoi1](https://x.com/akokoi1) | 0:33 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104520072014508316) |
 | [San Francisco recreated in Unreal Engine](https://x.com/MatthewBerman/status/2102483668468195539) | Opus 5.5 | [@MatthewBerman](https://x.com/MatthewBerman) | 0:54 | — |
+| [3D apartment furnished from floor plan](https://x.com/Nyxera0x/status/2125236477667758136) | Opus 5.5 | [@Nyxera0x](https://x.com/Nyxera0x) | 0:25 | — |
 | [Interactive mechanical teardown scenes](https://x.com/elvar_official/status/2116192984299344372) | Opus 5.5 | [@elvar_official](https://x.com/elvar_official) | 0:24 | — |
 | [Three-body problem physics simulation in Bend2](https://x.com/zAdrielsan/status/2105822678519001360) | Fable 5.5 (preview) | [@zAdrielsan](https://x.com/zAdrielsan) | 2:14 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2105822678519001360) |
 | [Sketch-to-3D house design animation](https://x.com/techartist_/status/2102503719762018434) | Opus 5.5 | [@techartist_](https://x.com/techartist_) | 0:19 | — |
@@ -61,6 +62,7 @@
 | [Historic 1906 San Francisco street in 3D](https://x.com/alexalbert__/status/2102466523164274839) | Opus 5.5 | [@alexalbert__](https://x.com/alexalbert__) | 0:08 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102466523164274839) |
 | [Live 3D warehouse from SimReady models](https://x.com/anxuanng/status/2116504653215248436) | Opus 5.5 | [@anxuanng](https://x.com/anxuanng) | 0:25 | — |
 | [Houdini scene built via voice with Claude](https://x.com/hectorVFX/status/2111435045109903540) | Opus 5.5 | [@hectorVFX](https://x.com/hectorVFX) | 0:15 | — |
+| [3D apartment furnished from floor plan](https://x.com/0x_elaro/status/2125327281132564701) | Opus 5.5 | [@0x_elaro](https://x.com/0x_elaro) | 0:23 | — |
 | [Interactive 3D dystopian city diorama](https://x.com/akakuma0219/status/2103820733159981151) | Opus 5.5 | [@akakuma0219](https://x.com/akakuma0219) | 0:52 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103820733159981151) |
 | [Trip photos redrawn in acrylic painting style](https://x.com/ann_nnng/status/2102573127192727704) | Opus 5.5 | [@ann_nnng](https://x.com/ann_nnng) | 0:22 | — |
 | [Detailed 3D model of a bullet train](https://x.com/higgsfield_ai/status/2102507018372436264) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:18 | — |
@@ -289,6 +291,7 @@
 | [Pixel art animation piece](https://x.com/SpikeRiser/status/2102581008654594124) | Opus 5.5 | [@SpikeRiser](https://x.com/SpikeRiser) | 3:30 | — |
 | [3D cafe with captured characters](https://x.com/onofumi_AI/status/2118254309595029634) | Opus 5.5 | [@onofumi_AI](https://x.com/onofumi_AI) | 0:16 | — |
 | [Adding a ring to a 3D character model via MCP](https://x.com/skyflash521/status/2111388497718423744) | Opus 5.5 | [@skyflash521](https://x.com/skyflash521) | 0:08 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2111388497718423744) |
+| [Unreal Engine procedural scene generation](https://x.com/techxutkarsh/status/2125167084082741742) | Opus 5.5 | [@techxutkarsh](https://x.com/techxutkarsh) | 0:29 | — |
 | [Procedural 3D Napoleon field cannon](https://x.com/thebuggeddev/status/2107449104926482912) | Opus 5.5 | [@thebuggeddev](https://x.com/thebuggeddev) | 0:51 | — |
 | [Image-to-3D Blender render](https://x.com/xikhar/status/2110143242591510835) | Opus 5.5 | [@xikhar](https://x.com/xikhar) | 0:05 | — |
 | [Claymation via open-source Blender skill](https://x.com/angrypenguinPNG/status/2103205636662341661) | Opus 5.5 | [@angrypenguinPNG](https://x.com/angrypenguinPNG) | 0:20 | — |
@@ -341,6 +344,7 @@
 | [Tiny harbor Three.js scene](https://x.com/chetanankola/status/2103649622963237261) | Opus 5.5 | [@chetanankola](https://x.com/chetanankola) | 0:25 | — |
 | [3D world built with Opus 5.5 for a personal service](https://x.com/Dstudio_ai/status/2105858848380907985) | Opus 5.5 | [@Dstudio_ai](https://x.com/Dstudio_ai) | 0:24 | — |
 | [Pixel art Halloween scene with code-driven effects](https://x.com/zer0point_eth/status/2117593246515810630) | Opus 5.5 | [@zer0point_eth](https://x.com/zer0point_eth) | 0:14 | — |
+| [Simulated vocal tract singing animation](https://x.com/chetaslua/status/2125346298606014955) | Opus 5.5 | [@chetaslua](https://x.com/chetaslua) | 4:00 | — |
 | [Mechanical folding robot bat](https://x.com/0xKitsui/status/2116525446560977059) | Opus 5.5 | [@0xKitsui](https://x.com/0xKitsui) | 0:24 | — |
 | [Robot jellyfish that splits apart in three clicks](https://x.com/0x_fokki/status/2115890589556236681) | Opus 5.5 | [@0x_fokki](https://x.com/0x_fokki) | 0:21 | — |
 | [Character modeled and rigged in Blender](https://x.com/majidmanzarpour/status/2102920224718873027) | Opus 5.5 | [@majidmanzarpour](https://x.com/majidmanzarpour) | 0:48 | — |
@@ -378,6 +382,7 @@
 | [Jelly peach specimen sheet](https://x.com/vib3coded/status/2112240323560645092) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:18 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2112240323560645092) |
 | [3D house video and workflow reference sheet](https://x.com/DeepDive_KR/status/2123372078724264005) | Opus 5.5 | [@DeepDive_KR](https://x.com/DeepDive_KR) | 0:29 | — |
 | [Six-axis industrial robot arm with routed harness](https://x.com/konstantinsaifo/status/2107821059772661912) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 0:35 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2107821059772661912) |
+| [Multi-agent architectural design simulation](https://x.com/Solvaix/status/2125317095969747249) | Opus 5.5 | [@Solvaix](https://x.com/Solvaix) | 0:41 | — |
 | [Shanghai penthouse scene for Vision Pro](https://x.com/ivanfioravanti/status/2103701018450288657) | Opus 5.5 | [@ivanfioravanti](https://x.com/ivanfioravanti) | 1:39 | — |
 | [Nested spinning hexagon ball physics simulation](https://x.com/blueemi99/status/2112189854234652746) | Opus 5.5 | [@blueemi99](https://x.com/blueemi99) | 0:28 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2112189854234652746) |
 | [Floating island town from day to night, 3D short film](https://x.com/0xbobaaa/status/2115486834755035178) | Opus 5.5 | [@0xbobaaa](https://x.com/0xbobaaa) | 0:58 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2115486834755035178) |

@@ -1,6 +1,6 @@
 # Model comparisons
 
-613 works, 200 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+623 works, 204 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [GPT-6 Astra vs Claude Opus 5.5 comparison](https://x.com/Rixhabh__/status/2104225147184132310) | Opus 5.5 | [@Rixhabh__](https://x.com/Rixhabh__) | 0:30 | — |
 | [Grok vs Opus grass-touching simulator cost test](https://x.com/coldopn/status/2102474335172640989) | Opus 5.5 | [@coldopn](https://x.com/coldopn) | 0:22 | — |
 | [Opus 5.5 vs GPT-6 Sol Unreal game dev](https://x.com/higgsfield_ai/status/2102533401110802552) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:44 | — |
+| [Gas station at sunset scene comparison](https://x.com/N1njaCodex/status/2125285452274126856) | Opus 5.5 | [@N1njaCodex](https://x.com/N1njaCodex) | 0:11 | — |
 | [Lawn mower simulator built from the same prompt](https://x.com/_MaxBlade/status/2109723440710066646) | Opus 5.5 | [@_MaxBlade](https://x.com/_MaxBlade) | 0:34 | — |
 | [Glitter sticker effect comparison](https://x.com/ann_nnng/status/2104159923886244176) | Opus 5.5 | [@ann_nnng](https://x.com/ann_nnng) | 0:13 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104159923886244176) |
 | [3D-printed load-bearing bridge](https://x.com/rpnickson/status/2104234974350111108) | Opus 5.5 | [@rpnickson](https://x.com/rpnickson) | 1:19 | — |
@@ -33,6 +34,7 @@
 | [Side-by-side model output comparison](https://x.com/RajAdonis/status/2120061617421664667) | Opus 5.5 | [@RajAdonis](https://x.com/RajAdonis) | 0:30 | — |
 | [Blender pelican-on-bicycle animation comparison](https://x.com/atomic_chat_hq/status/2102492834485895265) | Opus 5.5 | [@atomic_chat_hq](https://x.com/atomic_chat_hq) | 0:10 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102492834485895265) |
 | [Four-model lava lamp build comparison](https://x.com/bridgebench/status/2102770788319310302) | Opus 5.5 | [@bridgebench](https://x.com/bridgebench) | 0:10 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102770788319310302) |
+| [Animated SVG launch ad short film comparison](https://x.com/marcthecreatorr/status/2125254550416175477) | Opus 5.5 / Fable 5.5 (preview) | [@marcthecreatorr](https://x.com/marcthecreatorr) | 0:58 | — |
 | [SpongeBob build by competing agent teams](https://x.com/atomic_chat_hq/status/2113700709506113948) | Opus 5.5 | [@atomic_chat_hq](https://x.com/atomic_chat_hq) | 0:40 | — |
 | [Model comparison using Unreal and Blender](https://x.com/quadcode_ai/status/2103959994685128846) | Opus 5.5 | [@quadcode_ai](https://x.com/quadcode_ai) | 0:25 | — |
 | [SVG bike riding pelican](https://x.com/dummerspast39/status/2111519245733654775) | Fable 5.5 (preview) | [@dummerspast39](https://x.com/dummerspast39) | 0:18 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2111519245733654775) |
@@ -48,6 +50,7 @@
 | [Ant vs gardener 3D game comparison](https://x.com/higgsfield_ai/status/2102898409028161644) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:13 | — |
 | [Glass pool model comparison](https://x.com/MrTacticalX/status/2119955647542542439) | Opus 5.5 | [@MrTacticalX](https://x.com/MrTacticalX) | 0:30 | — |
 | [Model comparison video generation](https://x.com/EnvolDev/status/2111175666398048620) | Opus 5.5 / Sonnet 5.5 | [@EnvolDev](https://x.com/EnvolDev) | 0:25 | — |
+| [Surfer in ocean wave Three.js comparison](https://x.com/EnvolDev/status/2125270367187169782) | Opus 5.5 | [@EnvolDev](https://x.com/EnvolDev) | 0:25 | — |
 | [Single-File Website Comparison](https://x.com/filicroval/status/2104681499798938034) | Opus 5.5 / Sonnet 5.5 | [@filicroval](https://x.com/filicroval) | 1:02 | — |
 | [Bora Bora seaplane 3D scene comparison](https://x.com/eliadele/status/2123878763624857693) | Opus 5.5 | [@eliadele](https://x.com/eliadele) | 1:16 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2123878763624857693) |
 | [Opus vs Astra cost comparison recreating launch video](https://x.com/trymirage/status/2102502794003677373) | Opus 5.5 | [@trymirage](https://x.com/trymirage) | 0:32 | — |
@@ -186,6 +189,7 @@
 | [Same-prompt video comparison across models](https://x.com/bridgemindai/status/2103594719544525016) | Opus 5.5 | [@bridgemindai](https://x.com/bridgemindai) | 1:00 | — |
 | [Side-by-side model output comparison](https://x.com/Haleeeemahh/status/2115819373973708975) | Opus 5.5 | [@Haleeeemahh](https://x.com/Haleeeemahh) | 0:12 | — |
 | [Claude Sonnet vs Opus self-portrait motion design](https://x.com/motion_so/status/2104981908241486064) | Opus 5.5 / Sonnet 5.5 | [@motion_so](https://x.com/motion_so) | 0:24 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104981908241486064) |
+| [Storm rescue helicopter 3D scene comparison](https://x.com/pr0mptcat/status/2125301257439170740) | Opus 5.5 | [@pr0mptcat](https://x.com/pr0mptcat) | 0:19 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2125301257439170740) |
 | [Robot arm writing hello world, two models compared](https://x.com/ArtificialAnlys/status/2115567357506748492) | Opus 5.5 | [@ArtificialAnlys](https://x.com/ArtificialAnlys) | 0:12 | — |
 | [Four-model animation benchmark](https://x.com/higgsfield_ai/status/2111526194248286413) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:10 | — |
 | [Rug racing game comparison](https://x.com/noclipepe/status/2119728047754547326) | Opus 5.5 / Fable 5.5 (preview) | [@noclipepe](https://x.com/noclipepe) | 1:14 | — |
@@ -285,6 +289,7 @@
 | [Luxury car rental website design comparison](https://x.com/viktoroddy/status/2105226806492283286) | Opus 5.5 | [@viktoroddy](https://x.com/viktoroddy) | 0:12 | — |
 | [Model battle drawing a strawberry](https://x.com/AIMind_Ai/status/2123816445180088544) | Opus 5.5 | [@AIMind_Ai](https://x.com/AIMind_Ai) | 0:31 | — |
 | [Fantasy sci-fi game level: Opus 5.5 vs GPT 6.1 Sol](https://x.com/aniketjart/status/2105102068818362637) | Opus 5.5 | [@aniketjart](https://x.com/aniketjart) | 0:50 | — |
+| [Blender 3D hammer model comparison](https://x.com/maxt3chno/status/2125206569671397703) | Opus 5.5 | [@maxt3chno](https://x.com/maxt3chno) | 0:19 | — |
 | [Three.js solar system model comparison](https://x.com/AYi_AInotes/status/2112521204791918675) | Opus 5.5 | [@AYi_AInotes](https://x.com/AYi_AInotes) | 1:00 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2112521204791918675) |
 | [Open-source model comparison](https://x.com/YouArtStudio/status/2112345339269112207) | Opus 5.5 | [@YouArtStudio](https://x.com/YouArtStudio) | 0:25 | — |
 | [Gummy squid render: Opus 5.5 vs GPT-6.1 Sol](https://x.com/vib3coded/status/2105190658701201725) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:18 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2105190658701201725) |
@@ -429,6 +434,7 @@
 | [Jelly dolphin physics comparison](https://x.com/vib3coded/status/2115015297195225283) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:18 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2115015297195225283) |
 | [Side-view running cheetah comparison](https://x.com/HarshithLucky3/status/2119424342773866559) | Opus 5.5 | [@HarshithLucky3](https://x.com/HarshithLucky3) | 0:15 | — |
 | [Four-model robot scene comparison](https://x.com/Model_Culture/status/2120973310959784394) | Opus 5.5 | [@Model_Culture](https://x.com/Model_Culture) | 0:10 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2120973310959784394) |
+| [Tokyo scene one-shot comparison](https://x.com/RezAIT00/status/2125069082093359527) | Opus 5.5 | [@RezAIT00](https://x.com/RezAIT00) | 0:12 | — |
 | [Da Vinci workshop 3D build: Gemini vs Opus](https://x.com/techhalla/status/2110121002332295599) | Opus 5.5 | [@techhalla](https://x.com/techhalla) | 1:41 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2110121002332295599) |
 | [OpenAI agent dots animation: Opus vs GPT-6.1](https://x.com/kepochnik/status/2107443775232438381) | Opus 5.5 | [@kepochnik](https://x.com/kepochnik) | 0:18 | — |
 | [Floating Kingdom model comparison](https://x.com/marcthecreatorr/status/2114074078340649183) | Opus 5.5 | [@marcthecreatorr](https://x.com/marcthecreatorr) | 1:07 | — |
@@ -493,6 +499,7 @@
 | [Rhino image comparison: Gemini vs Opus](https://x.com/kinderlayer/status/2112514831362175151) | Opus 5.5 | [@kinderlayer](https://x.com/kinderlayer) | 0:15 | — |
 | [Motion graphics model comparison](https://x.com/deweytn/status/2118809236046246316) | Opus 5.5 | [@deweytn](https://x.com/deweytn) | 0:43 | — |
 | [Interactive 3D gummy jellyfish, two-model build](https://x.com/vib3coded/status/2104651061336117614) | Sonnet 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:18 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104651061336117614) |
+| [Opus model performance comparison](https://x.com/RezAIT00/status/2125161952263442564) | Opus 5.5 | [@RezAIT00](https://x.com/RezAIT00) | 0:30 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2125161952263442564) |
 | [Cursed war hammer 3D modeling comparison](https://x.com/maxt3chno/status/2123911052832190818) | Opus 5.5 | [@maxt3chno](https://x.com/maxt3chno) | 0:40 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2123911052832190818) |
 | [Three-model Arena output comparison](https://x.com/AI_Screening/status/2113321010913292308) | Opus 5.5 | [@AI_Screening](https://x.com/AI_Screening) | 0:15 | — |
 | [Whale image comparison: GPT-6 vs Opus](https://x.com/vib3coded/status/2112487852156063849) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:18 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2112487852156063849) |
@@ -550,8 +557,10 @@
 | [3D pixel art shop window comparison](https://x.com/AIMind_Ai/status/2119053573526901001) | Opus 5.5 / Fable 5.5 (preview) | [@AIMind_Ai](https://x.com/AIMind_Ai) | 0:20 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2119053573526901001) |
 | [Opus 5.5 vs GPT-6 Astra background generation](https://x.com/EnvolDev/status/2111115013398352298) | Opus 5.5 | [@EnvolDev](https://x.com/EnvolDev) | 0:25 | — |
 | [Voxel hotel rendering and cost comparison](https://x.com/vib3coded/status/2123555390486872443) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:16 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2123555390486872443) |
+| [Abrams tank Three.js turntable comparison](https://x.com/vib3coded/status/2125313222488252689) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:17 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2125313222488252689) |
 | [Four-model test of a stone hand pump pumping water](https://x.com/kinderlayer/status/2115039207856988553) | Opus 5.5 | [@kinderlayer](https://x.com/kinderlayer) | 0:13 | — |
 | [Side-by-side build test in Devin](https://x.com/Da7_Tech/status/2117033509470839233) | Sonnet 5.5 | [@Da7_Tech](https://x.com/Da7_Tech) | 0:25 | — |
+| [Realistic 3D racing game comparison](https://x.com/dashiAIxz/status/2125104711863091427) | Opus 5.5 | [@dashiAIxz](https://x.com/dashiAIxz) | 0:08 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2125104711863091427) |
 | [Stormbreak Lighthouse scene comparison](https://x.com/EnvolDev/status/2123091774520623462) | Opus 5.5 | [@EnvolDev](https://x.com/EnvolDev) | 0:25 | — |
 | [Jelly kingdom scene: Opus vs GPT-6 Astra](https://x.com/vib3coded/status/2108649845405929924) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:18 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2108649845405929924) |
 | [Blender campfire scene: Opus vs GPT-6](https://x.com/MrTacticalX/status/2111633479599272435) | Opus 5.5 | [@MrTacticalX](https://x.com/MrTacticalX) | 0:20 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2111633479599272435) |
@@ -603,6 +612,7 @@
 | [Rocket-assisted Roadster stunt animation comparison](https://x.com/k1rallik/status/2113716424887661034) | Opus 5.5 | [@k1rallik](https://x.com/k1rallik) | 0:16 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2113716424887661034) |
 | [Jelly eyeball model comparison](https://x.com/semichenkko/status/2112923979002368406) | Opus 5.5 | [@semichenkko](https://x.com/semichenkko) | 0:32 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2112923979002368406) |
 | [Voxel floating kingdom comparison](https://x.com/marcthecreatorr/status/2120479775764459951) | Opus 5.5 | [@marcthecreatorr](https://x.com/marcthecreatorr) | 0:58 | — |
+| [Pelican drawing test side by side](https://x.com/filicroval/status/2125300216257749281) | Opus 5.5 | [@filicroval](https://x.com/filicroval) | 0:58 | — |
 | [X-ray and exploded café racer 3D model](https://x.com/dromexa/status/2115802517942497491) | Opus 5.5 | [@dromexa](https://x.com/dromexa) | 0:29 | — |
 | [Neon shooter video model comparison](https://x.com/kepochnik/status/2107769950068998375) | Opus 5.5 | [@kepochnik](https://x.com/kepochnik) | 0:30 | — |
 | [Jelly kiwi model comparison](https://x.com/vib3coded/status/2114441029638410489) | Opus 5.5 / Sonnet 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:18 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2114441029638410489) |

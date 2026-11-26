@@ -1,6 +1,6 @@
 # 3D 场景
 
-共 509 个作品，其中 112 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 514 个作品，其中 112 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [新床摆放的3D房间预览](https://x.com/scheemunai/status/2103059885361598633) | Opus 5.5 | [@scheemunai](https://x.com/scheemunai) | 1:27 | — |
 | [户型图转3D室内设计工具](https://x.com/akokoi1/status/2104520072014508316) | Opus 5.5 | [@akokoi1](https://x.com/akokoi1) | 0:33 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104520072014508316) |
 | [在虚幻引擎中重建旧金山](https://x.com/MatthewBerman/status/2102483668468195539) | Opus 5.5 | [@MatthewBerman](https://x.com/MatthewBerman) | 0:54 | — |
+| [根据户型图生成的3D公寓漫游](https://x.com/Nyxera0x/status/2125236477667758136) | Opus 5.5 | [@Nyxera0x](https://x.com/Nyxera0x) | 0:25 | — |
 | [交互式机械拆解场景](https://x.com/elvar_official/status/2116192984299344372) | Opus 5.5 | [@elvar_official](https://x.com/elvar_official) | 0:24 | — |
 | [Bend2实现的三体问题物理模拟](https://x.com/zAdrielsan/status/2105822678519001360) | Fable 5.5 (preview) | [@zAdrielsan](https://x.com/zAdrielsan) | 2:14 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2105822678519001360) |
 | [草图到房屋三维建模动画](https://x.com/techartist_/status/2102503719762018434) | Opus 5.5 | [@techartist_](https://x.com/techartist_) | 0:19 | — |
@@ -61,6 +62,7 @@
 | [1906年旧金山街道3D复原](https://x.com/alexalbert__/status/2102466523164274839) | Opus 5.5 | [@alexalbert__](https://x.com/alexalbert__) | 0:08 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102466523164274839) |
 | [基于 SimReady 模型的实时 3D 仓库](https://x.com/anxuanng/status/2116504653215248436) | Opus 5.5 | [@anxuanng](https://x.com/anxuanng) | 0:25 | — |
 | [用语音指挥Claude制作的Houdini场景](https://x.com/hectorVFX/status/2111435045109903540) | Opus 5.5 | [@hectorVFX](https://x.com/hectorVFX) | 0:15 | — |
+| [根据户型图生成的3D公寓漫游](https://x.com/0x_elaro/status/2125327281132564701) | Opus 5.5 | [@0x_elaro](https://x.com/0x_elaro) | 0:23 | — |
 | [可交互的反乌托邦3D箱庭都市](https://x.com/akakuma0219/status/2103820733159981151) | Opus 5.5 | [@akakuma0219](https://x.com/akakuma0219) | 0:52 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103820733159981151) |
 | [旅行照片转丙烯画风动画](https://x.com/ann_nnng/status/2102573127192727704) | Opus 5.5 | [@ann_nnng](https://x.com/ann_nnng) | 0:22 | — |
 | [新干线高精度3D建模](https://x.com/higgsfield_ai/status/2102507018372436264) | Opus 5.5 | [@higgsfield_ai](https://x.com/higgsfield_ai) | 0:18 | — |
@@ -289,6 +291,7 @@
 | [像素风动画作品](https://x.com/SpikeRiser/status/2102581008654594124) | Opus 5.5 | [@SpikeRiser](https://x.com/SpikeRiser) | 3:30 | — |
 | [融入三维人物的咖啡馆场景](https://x.com/onofumi_AI/status/2118254309595029634) | Opus 5.5 | [@onofumi_AI](https://x.com/onofumi_AI) | 0:16 | — |
 | [通过MCP给3D角色戴戒指](https://x.com/skyflash521/status/2111388497718423744) | Opus 5.5 | [@skyflash521](https://x.com/skyflash521) | 0:08 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2111388497718423744) |
+| [虚幻引擎程序化场景生成](https://x.com/techxutkarsh/status/2125167084082741742) | Opus 5.5 | [@techxutkarsh](https://x.com/techxutkarsh) | 0:29 | — |
 | [程序化生成的拿破仑野战炮3D模型](https://x.com/thebuggeddev/status/2107449104926482912) | Opus 5.5 | [@thebuggeddev](https://x.com/thebuggeddev) | 0:51 | — |
 | [图像转三维Blender渲染](https://x.com/xikhar/status/2110143242591510835) | Opus 5.5 | [@xikhar](https://x.com/xikhar) | 0:05 | — |
 | [开源Blender黏土动画技能演示](https://x.com/angrypenguinPNG/status/2103205636662341661) | Opus 5.5 | [@angrypenguinPNG](https://x.com/angrypenguinPNG) | 0:20 | — |
@@ -341,6 +344,7 @@
 | [微缩港口Three.js场景](https://x.com/chetanankola/status/2103649622963237261) | Opus 5.5 | [@chetanankola](https://x.com/chetanankola) | 0:25 | — |
 | [用Opus 5.5为自建服务制作的3D世界](https://x.com/Dstudio_ai/status/2105858848380907985) | Opus 5.5 | [@Dstudio_ai](https://x.com/Dstudio_ai) | 0:24 | — |
 | [代码驱动特效的像素风万圣节场景](https://x.com/zer0point_eth/status/2117593246515810630) | Opus 5.5 | [@zer0point_eth](https://x.com/zer0point_eth) | 0:14 | — |
+| [虚拟声带唱歌动画](https://x.com/chetaslua/status/2125346298606014955) | Opus 5.5 | [@chetaslua](https://x.com/chetaslua) | 4:00 | — |
 | [机械折翼蝙蝠](https://x.com/0xKitsui/status/2116525446560977059) | Opus 5.5 | [@0xKitsui](https://x.com/0xKitsui) | 0:24 | — |
 | [三次点击即可拆解的机械水母](https://x.com/0x_fokki/status/2115890589556236681) | Opus 5.5 | [@0x_fokki](https://x.com/0x_fokki) | 0:21 | — |
 | [根据概念图在Blender中建模绑定的角色](https://x.com/majidmanzarpour/status/2102920224718873027) | Opus 5.5 | [@majidmanzarpour](https://x.com/majidmanzarpour) | 0:48 | — |
@@ -378,6 +382,7 @@
 | [果冻桃子标本页](https://x.com/vib3coded/status/2112240323560645092) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:18 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2112240323560645092) |
 | [3D 房屋视频与工作流程图](https://x.com/DeepDive_KR/status/2123372078724264005) | Opus 5.5 | [@DeepDive_KR](https://x.com/DeepDive_KR) | 0:29 | — |
 | [布线完整的六轴工业机械臂](https://x.com/konstantinsaifo/status/2107821059772661912) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 0:35 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2107821059772661912) |
+| [多智能体建筑设计模拟](https://x.com/Solvaix/status/2125317095969747249) | Opus 5.5 | [@Solvaix](https://x.com/Solvaix) | 0:41 | — |
 | [上海顶层公寓Vision Pro场景](https://x.com/ivanfioravanti/status/2103701018450288657) | Opus 5.5 | [@ivanfioravanti](https://x.com/ivanfioravanti) | 1:39 | — |
 | [嵌套旋转六边形弹球物理模拟](https://x.com/blueemi99/status/2112189854234652746) | Opus 5.5 | [@blueemi99](https://x.com/blueemi99) | 0:28 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2112189854234652746) |
 | [浮空岛小镇昼夜变迁 3D 短片](https://x.com/0xbobaaa/status/2115486834755035178) | Opus 5.5 | [@0xbobaaa](https://x.com/0xbobaaa) | 0:58 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2115486834755035178) |

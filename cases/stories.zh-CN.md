@@ -1,6 +1,6 @@
 # 角色故事
 
-共 261 个作品，其中 61 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 262 个作品，其中 61 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [给人类的系统提示短片](https://x.com/_brightmirror/status/2108268817201918414) | Opus 5.5 | [@_brightmirror](https://x.com/_brightmirror) | 3:56 | — |
 | [2010-2026网络热梗动画](https://x.com/chetaslua/status/2106076940558082297) | Fable 5.5 (preview) | [@chetaslua](https://x.com/chetaslua) | 1:38 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2106076940558082297) |
 | [小王子剪纸风动画短片](https://x.com/Saccc_c/status/2114942260353868116) | Opus 5.5 | [@Saccc_c](https://x.com/Saccc_c) | 1:14 | — |
+| [比特币与数字信用音乐短片](https://x.com/PunterJeff/status/2125073919451468250) | Opus 5.5 | [@PunterJeff](https://x.com/PunterJeff) | 3:56 | — |
 | [个人旅行回顾视频](https://x.com/__oQuery/status/2103819121821728993) | Opus 5.5 | [@__oQuery](https://x.com/__oQuery) | 3:37 | — |
 | [小熊猫科达与巨型桃子](https://x.com/HeyAbhishek/status/2109993586951663626) | Opus 5.5 | [@HeyAbhishek](https://x.com/HeyAbhishek) | 0:29 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2109993586951663626) |
 | [Fable 时装主题音乐短片](https://x.com/AstrablueAI/status/2121635642836918385) | Opus 5.5 | [@AstrablueAI](https://x.com/AstrablueAI) | 3:58 | — |

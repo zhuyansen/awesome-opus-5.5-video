@@ -1,6 +1,6 @@
 # Music, editing & production
 
-200 works, 32 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+202 works, 32 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Automated branded video edit with voice sync](https://x.com/Aykutuces/status/2110019799342260630) | Opus 5.5 | [@Aykutuces](https://x.com/Aykutuces) | 1:14 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2110019799342260630) |
 | [Recreating a video as an editable After Effects project](https://x.com/gmharhar/status/2107936315081986480) | Opus 5.5 | [@gmharhar](https://x.com/gmharhar) | 0:20 | — |
 | [AI-generated video animatics for lesson planning](https://x.com/mattpocockuk/status/2105212971307667862) | Opus 5.5 | [@mattpocockuk](https://x.com/mattpocockuk) | 8:31 | — |
+| [Cel-style animation pipeline with layered assets](https://x.com/nakazakifam/status/2125117939913232571) | Opus 5.5 | [@nakazakifam](https://x.com/nakazakifam) | 0:30 | — |
 | [Dancing character clip with added camera work and sound](https://x.com/29meat_ai/status/2115038221801570564) | Opus 5.5 | [@29meat_ai](https://x.com/29meat_ai) | 0:20 | — |
 | [AI-edited talking-head video](https://x.com/sab8a/status/2103144778481475686) | Opus 5.5 | [@sab8a](https://x.com/sab8a) | 0:37 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103144778481475686) |
 | [AI avatar video podcast demo](https://x.com/nakazakifam/status/2111929310256984210) | Opus 5.5 | [@nakazakifam](https://x.com/nakazakifam) | 2:04 | — |
@@ -199,6 +200,7 @@
 | [Continuous tracking shot with 3D blocking](https://x.com/Kiber_Alla/status/2123196686839197817) | Opus 5.5 | [@Kiber_Alla](https://x.com/Kiber_Alla) | 0:30 | — |
 | [Cinematic character video produced from an Android phone](https://x.com/bozzxyz/status/2113170819635609957) | Opus 5.5 | [@bozzxyz](https://x.com/bozzxyz) | 0:33 | — |
 | [Multi-tool AI video production piece](https://x.com/MakeAI_CEO/status/2102955436957983065) | Opus 5.5 | [@MakeAI_CEO](https://x.com/MakeAI_CEO) | 9:28 | — |
+| [Automated code-based animation](https://x.com/zacxbt/status/2125093135613317544) | Opus 5.5 | [@zacxbt](https://x.com/zacxbt) | 0:19 | — |
 | [Battle scene video with edited combat HUD overlay](https://x.com/CHIBIKURO_QnQ/status/2113250911585980534) | Opus 5.5 | [@CHIBIKURO_QnQ](https://x.com/CHIBIKURO_QnQ) | 0:30 | — |
 | [2007 film trailer re-edited with Claude Opus](https://x.com/JoshDaws/status/2109982871209304334) | Opus 5.5 | [@JoshDaws](https://x.com/JoshDaws) | 2:21 | — |
 | [Video editing experiment](https://x.com/Madariyanhadi/status/2111004303075000494) | Opus 5.5 | [@Madariyanhadi](https://x.com/Madariyanhadi) | 1:08 | — |

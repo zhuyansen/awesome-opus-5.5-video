@@ -1,6 +1,6 @@
 # Characters & stories
 
-261 works, 61 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+262 works, 61 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [System prompt for humans](https://x.com/_brightmirror/status/2108268817201918414) | Opus 5.5 | [@_brightmirror](https://x.com/_brightmirror) | 3:56 | — |
 | [Viral memes 2010-2026 timeline video](https://x.com/chetaslua/status/2106076940558082297) | Fable 5.5 (preview) | [@chetaslua](https://x.com/chetaslua) | 1:38 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2106076940558082297) |
 | [The Little Prince papercut animated short](https://x.com/Saccc_c/status/2114942260353868116) | Opus 5.5 | [@Saccc_c](https://x.com/Saccc_c) | 1:14 | — |
+| [Bitcoin and digital credit musical](https://x.com/PunterJeff/status/2125073919451468250) | Opus 5.5 | [@PunterJeff](https://x.com/PunterJeff) | 3:56 | — |
 | [Personal travel recap video](https://x.com/__oQuery/status/2103819121821728993) | Opus 5.5 | [@__oQuery](https://x.com/__oQuery) | 3:37 | — |
 | [Red panda Koda and the giant peach](https://x.com/HeyAbhishek/status/2109993586951663626) | Opus 5.5 | [@HeyAbhishek](https://x.com/HeyAbhishek) | 0:29 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2109993586951663626) |
 | [Fable-inspired fashion music video](https://x.com/AstrablueAI/status/2121635642836918385) | Opus 5.5 | [@AstrablueAI](https://x.com/AstrablueAI) | 3:58 | — |

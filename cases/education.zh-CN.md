@@ -1,6 +1,6 @@
 # 科普讲解
 
-共 240 个作品，其中 60 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 241 个作品，其中 61 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [密码与通行密钥互动讲解视频](https://x.com/Tz_2022/status/2102838830285898214) | Opus 5.5 | [@Tz_2022](https://x.com/Tz_2022) | 4:09 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102838830285898214) |
 | [动物细胞生命过程图](https://x.com/kevin_t_ngo/status/2116423724379656329) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 0:44 | — |
 | [驱动蛋白粘土动画讲解](https://x.com/JacobMolBio/status/2102569129026916389) | Opus 5.5 | [@JacobMolBio](https://x.com/JacobMolBio) | 0:23 | — |
+| [汽车发动机工作原理互动3D讲解](https://x.com/exploraX_/status/2125210946209558620) | Opus 5.5 | [@exploraX_](https://x.com/exploraX_) | 0:43 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2125210946209558620) |
 | [燃气轮机历史讲解视频](https://x.com/Xaraphim/status/2103576037426917779) | Opus 5.5 | [@Xaraphim](https://x.com/Xaraphim) | 2:08 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103576037426917779) |
 | [逐帧绘制的蜜蜂一生动画](https://x.com/kevin_t_ngo/status/2109766087328100521) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 0:53 | — |
 | [Opus 5.5自我介绍讲解视频](https://x.com/_caty2_/status/2102473582333050959) | Opus 5.5 | [@_caty2_](https://x.com/_caty2_) | 1:18 | — |

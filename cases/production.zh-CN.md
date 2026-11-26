@@ -1,6 +1,6 @@
 # 制作流程
 
-共 200 个作品，其中 32 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 202 个作品，其中 32 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [基于语音同步的自动化品牌视频剪辑](https://x.com/Aykutuces/status/2110019799342260630) | Opus 5.5 | [@Aykutuces](https://x.com/Aykutuces) | 1:14 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2110019799342260630) |
 | [将视频复刻为可编辑的After Effects项目](https://x.com/gmharhar/status/2107936315081986480) | Opus 5.5 | [@gmharhar](https://x.com/gmharhar) | 0:20 | — |
 | [用于课程规划的AI动态分镜视频](https://x.com/mattpocockuk/status/2105212971307667862) | Opus 5.5 | [@mattpocockuk](https://x.com/mattpocockuk) | 8:31 | — |
+| [分层素材赛璐珞风动画制作流程](https://x.com/nakazakifam/status/2125117939913232571) | Opus 5.5 | [@nakazakifam](https://x.com/nakazakifam) | 0:30 | — |
 | [舞蹈角色视频的运镜与音效剪辑](https://x.com/29meat_ai/status/2115038221801570564) | Opus 5.5 | [@29meat_ai](https://x.com/29meat_ai) | 0:20 | — |
 | [AI剪辑的口播视频](https://x.com/sab8a/status/2103144778481475686) | Opus 5.5 | [@sab8a](https://x.com/sab8a) | 0:37 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103144778481475686) |
 | [AI虚拟主播播客视频演示](https://x.com/nakazakifam/status/2111929310256984210) | Opus 5.5 | [@nakazakifam](https://x.com/nakazakifam) | 2:04 | — |
@@ -199,6 +200,7 @@
 | [借助三维预演制作连续跟拍镜头](https://x.com/Kiber_Alla/status/2123196686839197817) | Opus 5.5 | [@Kiber_Alla](https://x.com/Kiber_Alla) | 0:30 | — |
 | [用安卓手机制作的电影感角色短片](https://x.com/bozzxyz/status/2113170819635609957) | Opus 5.5 | [@bozzxyz](https://x.com/bozzxyz) | 0:33 | — |
 | [多工具AI视频制作作品](https://x.com/MakeAI_CEO/status/2102955436957983065) | Opus 5.5 | [@MakeAI_CEO](https://x.com/MakeAI_CEO) | 9:28 | — |
+| [自动化代码动画作品](https://x.com/zacxbt/status/2125093135613317544) | Opus 5.5 | [@zacxbt](https://x.com/zacxbt) | 0:19 | — |
 | [加入战斗 HUD 界面的战斗场景视频](https://x.com/CHIBIKURO_QnQ/status/2113250911585980534) | Opus 5.5 | [@CHIBIKURO_QnQ](https://x.com/CHIBIKURO_QnQ) | 0:30 | — |
 | [用Claude Opus重新剪辑的2007年电影预告片](https://x.com/JoshDaws/status/2109982871209304334) | Opus 5.5 | [@JoshDaws](https://x.com/JoshDaws) | 2:21 | — |
 | [视频剪辑尝试](https://x.com/Madariyanhadi/status/2111004303075000494) | Opus 5.5 | [@Madariyanhadi](https://x.com/Madariyanhadi) | 1:08 | — |

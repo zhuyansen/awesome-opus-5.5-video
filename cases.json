@@ -3,8 +3,8 @@
  "model": "Claude 5.5 (Opus 5.5 · Sonnet 5.5 · Haiku 5.5 · Fable 5.5)",
  "inclusion_rule": "Original post by the creator, native video attached, >= 5000 views on that post, creator states it was made with Claude Opus 5.5, Sonnet 5.5, Haiku 5.5 or Fable 5.5 (Fable 5.5 is in limited preview, not yet announced). Later posts that embed another account's upload are excluded.",
  "views_threshold": 5000,
- "stats_checked_at": "2026-11-25T01:17:17.574Z",
- "updated_at": "2026-11-25T01:17:17.574Z",
+ "stats_checked_at": "2026-11-26T01:17:15.167Z",
+ "updated_at": "2026-11-26T01:17:15.167Z",
  "model_attribution": "As stated by each creator; not independently reproduced.",
  "cases": [
   {
@@ -2922,6 +2922,34 @@
    "resources": []
   },
   {
+   "id": "2125285452274126856",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "日落加油站场景对比",
+    "en": "Gas station at sunset scene comparison"
+   },
+   "creator": {
+    "handle": "N1njaCodex",
+    "name": "NinjaCodex"
+   },
+   "original_post_url": "https://x.com/N1njaCodex/status/2125285452274126856",
+   "posted_at": "2026-11-24T17:48:32.000Z",
+   "language": "en",
+   "duration_seconds": 11,
+   "views": 522862,
+   "likes": 3195,
+   "bookmarks": 866,
+   "views_checked_at": "2026-11-26T01:17:15.167Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2125285247784792064/img/p4uB2rh4OiaC7Vu7.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2113559786830942326",
    "models": [
     "opus-5.5"
@@ -4919,6 +4947,36 @@
    "resources": []
   },
   {
+   "id": "2125236477667758136",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "根据户型图生成的3D公寓漫游",
+    "en": "3D apartment furnished from floor plan"
+   },
+   "creator": {
+    "handle": "Nyxera0x",
+    "name": "Nyxera"
+   },
+   "original_post_url": "https://x.com/Nyxera0x/status/2125236477667758136",
+   "posted_at": "2026-11-24T14:33:55.000Z",
+   "language": "en",
+   "duration_seconds": 25,
+   "views": 363363,
+   "likes": 1970,
+   "bookmarks": 4184,
+   "views_checked_at": "2026-11-26T01:17:15.167Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2125236342137180160/img/2RKXrOQbRGraDkGk.jpg",
+   "tools_reported": [
+    "Blender"
+   ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2113688082474221830",
    "models": [
     "opus-5.5"
@@ -6441,6 +6499,37 @@
    "views_checked_at": "2026-11-23T11:55:30.830Z",
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2102950174339506176/img/h8-PwMlzxP1O1WTi.jpg",
    "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2125254550416175477",
+   "models": [
+    "opus-5.5",
+    "fable-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "纯代码SVG发布广告短片对比",
+    "en": "Animated SVG launch ad short film comparison"
+   },
+   "creator": {
+    "handle": "marcthecreatorr",
+    "name": "Marcel"
+   },
+   "original_post_url": "https://x.com/marcthecreatorr/status/2125254550416175477",
+   "posted_at": "2026-11-24T15:45:44.000Z",
+   "language": "en",
+   "duration_seconds": 58,
+   "views": 273547,
+   "likes": 1514,
+   "bookmarks": 751,
+   "views_checked_at": "2026-11-26T01:17:15.167Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2125254332035588096/img/4TLDVUoh4vKvKS63.jpg",
+   "tools_reported": [
+    "Three.js"
+   ],
    "reference_assets": false,
    "prompt": null,
    "resources": []
@@ -8216,6 +8305,36 @@
    "resources": [
     "https://github.com/moguzbulbul/blueprint-animation"
    ]
+  },
+  {
+   "id": "2125270367187169782",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "Three.js海浪冲浪者多模型对比",
+    "en": "Surfer in ocean wave Three.js comparison"
+   },
+   "creator": {
+    "handle": "EnvolDev",
+    "name": "Tony"
+   },
+   "original_post_url": "https://x.com/EnvolDev/status/2125270367187169782",
+   "posted_at": "2026-11-24T16:48:35.000Z",
+   "language": "en",
+   "duration_seconds": 25,
+   "views": 213994,
+   "likes": 754,
+   "bookmarks": 305,
+   "views_checked_at": "2026-11-26T01:17:15.167Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2125270273310195712/img/sst59RGVcFXjsLg6.jpg",
+   "tools_reported": [
+    "Three.js"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
   },
   {
    "id": "2113260416679952691",
@@ -11922,6 +12041,36 @@
     "length": 87,
     "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2119995155625181371"
    },
+   "resources": []
+  },
+  {
+   "id": "2125327281132564701",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "根据户型图生成的3D公寓漫游",
+    "en": "3D apartment furnished from floor plan"
+   },
+   "creator": {
+    "handle": "0x_elaro",
+    "name": "Elaro"
+   },
+   "original_post_url": "https://x.com/0x_elaro/status/2125327281132564701",
+   "posted_at": "2026-11-24T20:34:45.000Z",
+   "language": "ja",
+   "duration_seconds": 23,
+   "views": 149903,
+   "likes": 779,
+   "bookmarks": 1297,
+   "views_checked_at": "2026-11-26T01:17:15.167Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2125327145429815296/img/33maroWYFko_fgFM.jpg",
+   "tools_reported": [
+    "Blender"
+   ],
+   "reference_assets": true,
+   "prompt": null,
    "resources": []
   },
   {
@@ -25537,6 +25686,42 @@
    "resources": []
   },
   {
+   "id": "2125117939913232571",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "production",
+   "title": {
+    "zh": "分层素材赛璐珞风动画制作流程",
+    "en": "Cel-style animation pipeline with layered assets"
+   },
+   "creator": {
+    "handle": "nakazakifam",
+    "name": "中崎工房 | AIで1時間の仕事を5分で終わらせる人"
+   },
+   "original_post_url": "https://x.com/nakazakifam/status/2125117939913232571",
+   "posted_at": "2026-11-24T06:42:54.000Z",
+   "language": "ja",
+   "duration_seconds": 30,
+   "views": 68969,
+   "likes": 777,
+   "bookmarks": 1094,
+   "views_checked_at": "2026-11-26T01:17:15.167Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2125117909915639808/img/hJsC2GLQHI8_PqbV.jpg",
+   "tools_reported": [
+    "Claude Code",
+    "Codex",
+    "Gemini TTS",
+    "ElevenLabs",
+    "Soniox",
+    "BiRefNet",
+    "FFmpeg"
+   ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2109326958576480609",
    "models": [
     "opus-5.5",
@@ -27505,6 +27690,43 @@
     "source_url": "https://x.com/motion_so/status/2104981908241486064",
     "length": 61,
     "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104981908241486064"
+   },
+   "resources": []
+  },
+  {
+   "id": "2125301257439170740",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "风暴海上直升机救援3D场景对比",
+    "en": "Storm rescue helicopter 3D scene comparison"
+   },
+   "creator": {
+    "handle": "pr0mptcat",
+    "name": "PromptCat"
+   },
+   "original_post_url": "https://x.com/pr0mptcat/status/2125301257439170740",
+   "posted_at": "2026-11-24T18:51:20.000Z",
+   "language": "en",
+   "duration_seconds": 19,
+   "views": 63775,
+   "likes": 609,
+   "bookmarks": 183,
+   "views_checked_at": "2026-11-26T01:17:15.167Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2125301145312600064/img/zDcFZz4fe_ZOCaUg.jpg",
+   "tools_reported": [
+    "WebGL 2",
+    "Web Audio"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "full",
+    "source": "author_reply",
+    "source_url": "https://x.com/pr0mptcat/status/2125374200164544973",
+    "length": 10287,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2125301257439170740"
    },
    "resources": []
   },
@@ -39062,6 +39284,37 @@
    "resources": []
   },
   {
+   "id": "2125073919451468250",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "stories",
+   "title": {
+    "zh": "比特币与数字信用音乐短片",
+    "en": "Bitcoin and digital credit musical"
+   },
+   "creator": {
+    "handle": "PunterJeff",
+    "name": "Jeff Walton"
+   },
+   "original_post_url": "https://x.com/PunterJeff/status/2125073919451468250",
+   "posted_at": "2026-11-24T03:47:59.000Z",
+   "language": "en",
+   "duration_seconds": 236,
+   "views": 41057,
+   "likes": 663,
+   "bookmarks": 285,
+   "views_checked_at": "2026-11-26T01:17:15.167Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2125044860373929984/img/Kuy0m0QWytsUu5vG.jpg",
+   "tools_reported": [
+    "Suno v6",
+    "SlopCannon"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2103410995272020375",
    "models": [
     "opus-5.5"
@@ -40688,6 +40941,42 @@
    ],
    "reference_assets": false,
    "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2125210946209558620",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "education",
+   "title": {
+    "zh": "汽车发动机工作原理互动3D讲解",
+    "en": "Interactive 3D car engine explainer"
+   },
+   "creator": {
+    "handle": "exploraX_",
+    "name": "m0h"
+   },
+   "original_post_url": "https://x.com/exploraX_/status/2125210946209558620",
+   "posted_at": "2026-11-24T12:52:28.000Z",
+   "language": "en",
+   "duration_seconds": 43,
+   "views": 38280,
+   "likes": 328,
+   "bookmarks": 283,
+   "views_checked_at": "2026-11-26T01:17:15.167Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2125210741380726784/img/8T5AHVjaGldeTc8i.jpg",
+   "tools_reported": [
+    "Three.js"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "full",
+    "source": "author_reply",
+    "source_url": "https://x.com/exploraX_/status/2125211517519872430",
+    "length": 2095,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2125210946209558620"
+   },
    "resources": []
   },
   {
@@ -42318,6 +42607,36 @@
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2103916194499596288/img/vU8fm1ym73HUIlTg.jpg",
    "tools_reported": [
     "Remotion",
+    "Blender"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2125206569671397703",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "Blender 3D锤子模型对比",
+    "en": "Blender 3D hammer model comparison"
+   },
+   "creator": {
+    "handle": "maxt3chno",
+    "name": "Max"
+   },
+   "original_post_url": "https://x.com/maxt3chno/status/2125206569671397703",
+   "posted_at": "2026-11-24T12:35:05.000Z",
+   "language": "en",
+   "duration_seconds": 19,
+   "views": 35917,
+   "likes": 150,
+   "bookmarks": 53,
+   "views_checked_at": "2026-11-26T01:17:15.167Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2125206011254296576/img/Z9ofyuLrRbUvDLoU.jpg",
+   "tools_reported": [
     "Blender"
    ],
    "reference_assets": false,
@@ -55922,6 +56241,37 @@
    "resources": []
   },
   {
+   "id": "2125167084082741742",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "虚幻引擎程序化场景生成",
+    "en": "Unreal Engine procedural scene generation"
+   },
+   "creator": {
+    "handle": "techxutkarsh",
+    "name": "Utkarsh Sharma"
+   },
+   "original_post_url": "https://x.com/techxutkarsh/status/2125167084082741742",
+   "posted_at": "2026-11-24T09:58:11.000Z",
+   "language": "en",
+   "duration_seconds": 29,
+   "views": 22481,
+   "likes": 152,
+   "bookmarks": 3,
+   "views_checked_at": "2026-11-26T01:17:15.167Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2125167048355725312/img/jAp4ymZxF6l9xP0e.jpg",
+   "tools_reported": [
+    "Tripo API",
+    "Unreal Engine"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2102481848911679989",
    "models": [
     "opus-5.5"
@@ -60830,6 +61180,34 @@
    "resources": []
   },
   {
+   "id": "2125069082093359527",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "东京场景一次生成对比",
+    "en": "Tokyo scene one-shot comparison"
+   },
+   "creator": {
+    "handle": "RezAIT00",
+    "name": "Rez"
+   },
+   "original_post_url": "https://x.com/RezAIT00/status/2125069082093359527",
+   "posted_at": "2026-11-24T03:28:45.000Z",
+   "language": "en",
+   "duration_seconds": 12,
+   "views": 19558,
+   "likes": 147,
+   "bookmarks": 45,
+   "views_checked_at": "2026-11-26T01:17:15.167Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2125069034756390912/img/Xd4l46Ntnl64wbi-.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2105300597888970901",
    "models": [
     "opus-5.5"
@@ -62870,6 +63248,36 @@
     "Higgsfield"
    ],
    "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2125346298606014955",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "虚拟声带唱歌动画",
+    "en": "Simulated vocal tract singing animation"
+   },
+   "creator": {
+    "handle": "chetaslua",
+    "name": "Chetaslua"
+   },
+   "original_post_url": "https://x.com/chetaslua/status/2125346298606014955",
+   "posted_at": "2026-11-24T21:50:19.000Z",
+   "language": "en",
+   "duration_seconds": 240,
+   "views": 18507,
+   "likes": 339,
+   "bookmarks": 114,
+   "views_checked_at": "2026-11-26T01:17:15.167Z",
+   "thumbnail_url": "https://pbs.twimg.com/media/HX6-ur1aMAAEdfi.jpg",
+   "tools_reported": [
+    "WebGL2"
+   ],
+   "reference_assets": false,
    "prompt": null,
    "resources": []
   },
@@ -69705,6 +70113,34 @@
    "resources": []
   },
   {
+   "id": "2125317095969747249",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "多智能体建筑设计模拟",
+    "en": "Multi-agent architectural design simulation"
+   },
+   "creator": {
+    "handle": "Solvaix",
+    "name": "Solvaix"
+   },
+   "original_post_url": "https://x.com/Solvaix/status/2125317095969747249",
+   "posted_at": "2026-11-24T19:54:16.000Z",
+   "language": "en",
+   "duration_seconds": 41,
+   "views": 14761,
+   "likes": 176,
+   "bookmarks": 247,
+   "views_checked_at": "2026-11-26T01:17:15.167Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2125315605532123137/img/7qVsWIMHkOTcbAj0.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2115608213059940689",
    "models": [
     "opus-5.5"
@@ -69934,6 +70370,42 @@
    ],
    "reference_assets": true,
    "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2125161952263442564",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "Opus模型性能对比",
+    "en": "Opus model performance comparison"
+   },
+   "creator": {
+    "handle": "RezAIT00",
+    "name": "Rez"
+   },
+   "original_post_url": "https://x.com/RezAIT00/status/2125161952263442564",
+   "posted_at": "2026-11-24T09:37:47.000Z",
+   "language": "en",
+   "duration_seconds": 30,
+   "views": 14618,
+   "likes": 186,
+   "bookmarks": 35,
+   "views_checked_at": "2026-11-26T01:17:15.167Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2125161720335208448/img/4RZNtFV1pavfIhau.jpg",
+   "tools_reported": [
+    "three.js"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "brief",
+    "source": "post",
+    "source_url": "https://x.com/RezAIT00/status/2125161952263442564",
+    "length": 104,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2125161952263442564"
+   },
    "resources": []
   },
   {
@@ -79008,6 +79480,42 @@
    "resources": []
   },
   {
+   "id": "2125313222488252689",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "艾布拉姆斯坦克Three.js转台模型对比",
+    "en": "Abrams tank Three.js turntable comparison"
+   },
+   "creator": {
+    "handle": "vib3coded",
+    "name": "Vib3Coded"
+   },
+   "original_post_url": "https://x.com/vib3coded/status/2125313222488252689",
+   "posted_at": "2026-11-24T19:38:53.000Z",
+   "language": "en",
+   "duration_seconds": 17,
+   "views": 11212,
+   "likes": 180,
+   "bookmarks": 64,
+   "views_checked_at": "2026-11-26T01:17:15.167Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2125312834934358016/img/fPar8AfxDl2aCJ9e.jpg",
+   "tools_reported": [
+    "Three.js"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "full",
+    "source": "author_reply",
+    "source_url": "https://x.com/vib3coded/status/2125313253383327850",
+    "length": 4327,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2125313222488252689"
+   },
+   "resources": []
+  },
+  {
    "id": "2120135112876580869",
    "models": [
     "opus-5.5"
@@ -79166,6 +79674,45 @@
    ],
    "reference_assets": false,
    "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2125104711863091427",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "写实3D赛车游戏模型对比",
+    "en": "Realistic 3D racing game comparison"
+   },
+   "creator": {
+    "handle": "dashiAIxz",
+    "name": "大师的AI小灶"
+   },
+   "original_post_url": "https://x.com/dashiAIxz/status/2125104711863091427",
+   "posted_at": "2026-11-24T05:50:20.000Z",
+   "language": "zh",
+   "duration_seconds": 8,
+   "views": 11186,
+   "likes": 139,
+   "bookmarks": 166,
+   "views_checked_at": "2026-11-26T01:17:15.167Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2125097940817756160/img/WJo5oT47S_fuBtos.jpg",
+   "tools_reported": [
+    "Blender",
+    "Sketchfab API",
+    "Tripo3D API",
+    "Codex"
+   ],
+   "reference_assets": true,
+   "prompt": {
+    "kind": "full",
+    "source": "post",
+    "source_url": "https://x.com/dashiAIxz/status/2125104711863091427",
+    "length": 142,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2125104711863091427"
+   },
    "resources": []
   },
   {
@@ -89643,6 +90190,34 @@
    "resources": []
   },
   {
+   "id": "2125300216257749281",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "鹈鹕绘图测试对比",
+    "en": "Pelican drawing test side by side"
+   },
+   "creator": {
+    "handle": "filicroval",
+    "name": "filipe"
+   },
+   "original_post_url": "https://x.com/filicroval/status/2125300216257749281",
+   "posted_at": "2026-11-24T18:47:12.000Z",
+   "language": "en",
+   "duration_seconds": 58,
+   "views": 7173,
+   "likes": 101,
+   "bookmarks": 10,
+   "views_checked_at": "2026-11-26T01:17:15.167Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2125299715168178177/img/bv5QCuRlXoptXW3P.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2119417363661775293",
    "models": [
     "opus-5.5"
@@ -91917,6 +92492,34 @@
    "bookmarks": 44,
    "views_checked_at": "2026-11-23T11:55:30.830Z",
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2108204931572203520/img/cw4NV8iZAk3Oa2JF.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2125093135613317544",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "production",
+   "title": {
+    "zh": "自动化代码动画作品",
+    "en": "Automated code-based animation"
+   },
+   "creator": {
+    "handle": "zacxbt",
+    "name": "zac.eth"
+   },
+   "original_post_url": "https://x.com/zacxbt/status/2125093135613317544",
+   "posted_at": "2026-11-24T05:04:20.000Z",
+   "language": "en",
+   "duration_seconds": 19,
+   "views": 6148,
+   "likes": 114,
+   "bookmarks": 4,
+   "views_checked_at": "2026-11-26T01:17:15.167Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2125090005530071040/img/HN8NKqg-DKR9AgSM.jpg",
    "tools_reported": [],
    "reference_assets": false,
    "prompt": null,
