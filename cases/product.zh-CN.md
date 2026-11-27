@@ -1,6 +1,6 @@
 # 产品广告
 
-共 287 个作品，其中 51 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 288 个作品，其中 51 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [Lightspark产品宣传视频](https://x.com/davidmarcus/status/2103275618045686217) | Opus 5.5 | [@davidmarcus](https://x.com/davidmarcus) | 0:23 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103275618045686217) |
 | [波兰旅游宣传视频](https://x.com/KinasRemek/status/2102728913579327722) | Opus 5.5 | [@KinasRemek](https://x.com/KinasRemek) | 1:26 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102728913579327722) |
 | [落地页宣传视频](https://x.com/cleeeeeeeeement/status/2110039903312425385) | Opus 5.5 | [@cleeeeeeeeement](https://x.com/cleeeeeeeeement) | 0:15 | — |
+| [ESP32方块呼吸练习应用](https://x.com/sylvechv/status/2125613023968567710) | Opus 5.5 | [@sylvechv](https://x.com/sylvechv) | 0:29 | — |
 | [Claude 吉祥物同事插件演示](https://x.com/ishuagra02/status/2106138602073641241) | Fable 5.5 (preview) | [@ishuagra02](https://x.com/ishuagra02) | 0:37 | — |
 | [万圣节贴纸包](https://x.com/ann_nnng/status/2116468079794545038) | Opus 5.5 | [@ann_nnng](https://x.com/ann_nnng) | 0:32 | — |
 | [Hyprland桌面主题定制](https://x.com/XMihura/status/2109991235545190801) | Opus 5.5 | [@XMihura](https://x.com/XMihura) | 1:00 | — |

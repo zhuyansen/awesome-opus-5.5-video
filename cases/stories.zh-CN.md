@@ -1,6 +1,6 @@
 # 角色故事
 
-共 262 个作品，其中 61 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 264 个作品，其中 61 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [童年想象中的维京舰队大战海蛇](https://x.com/Linus_K_AI/status/2123007811722326104) | Opus 5.5 | [@Linus_K_AI](https://x.com/Linus_K_AI) | 1:20 | — |
 | [伦敦地下管网八分钟纪录片](https://x.com/maxescu/status/2105619319220511010) | Opus 5.5 | [@maxescu](https://x.com/maxescu) | 7:55 | — |
 | [Hugging Face事件音乐动画](https://x.com/chetaslua/status/2105934928483701214) | Fable 5.5 (preview) | [@chetaslua](https://x.com/chetaslua) | 2:37 | — |
+| [雪林多头怪兽预告片](https://x.com/Viniai_/status/2125422309116879008) | Opus 5.5 | [@Viniai_](https://x.com/Viniai_) | 1:01 | — |
 | [王家卫风格短片《602》](https://x.com/HanZhang415188/status/2105978537681567931) | Opus 5.5 | [@HanZhang415188](https://x.com/HanZhang415188) | 1:48 | — |
 | [用视频技能纯代码生成的故事短片](https://x.com/sarpstar/status/2111816574780706975) | Opus 5.5 | [@sarpstar](https://x.com/sarpstar) | 4:59 | — |
 | [配合歌曲的歌词动态视频](https://x.com/takamasa045/status/2103791907801620931) | Opus 5.5 | [@takamasa045](https://x.com/takamasa045) | 2:08 | — |
@@ -140,6 +141,7 @@
 | [用代码驱动的两个像素角色动画](https://x.com/GrilliotTodd/status/2113284244026048966) | Opus 5.5 | [@GrilliotTodd](https://x.com/GrilliotTodd) | 0:08 | — |
 | [Canvas代码实现的角色换装动画](https://x.com/eternityspring/status/2105814099833823497) | Opus 5.5 | [@eternityspring](https://x.com/eternityspring) | 0:09 | — |
 | [Claude绘制的"自己的余生"动画](https://x.com/shfred0/status/2102653868911817153) | Opus 5.5 | [@shfred0](https://x.com/shfred0) | 1:00 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102653868911817153) |
+| [郊狼与走鹃的黑洞陷阱](https://x.com/itsshara_ai/status/2125414140957384814) | Opus 5.5 | [@itsshara_ai](https://x.com/itsshara_ai) | 0:30 | — |
 | [初音未来《Hold Swarm》音乐视频](https://x.com/chaotictransfem/status/2105011559756181620) | Opus 5.5 | [@chaotictransfem](https://x.com/chaotictransfem) | 3:58 | — |
 | [撕纸风格音乐短片](https://x.com/taku_studio/status/2120487739800068571) | Opus 5.5 | [@taku_studio](https://x.com/taku_studio) | 3:05 | — |
 | [夕阳湖畔的钢琴演奏者](https://x.com/LexnLin/status/2114422260346110358) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 3:51 | — |

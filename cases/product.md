@@ -1,6 +1,6 @@
 # Product demos & ads
 
-287 works, 51 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+288 works, 51 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [Lightspark product promo video](https://x.com/davidmarcus/status/2103275618045686217) | Opus 5.5 | [@davidmarcus](https://x.com/davidmarcus) | 0:23 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103275618045686217) |
 | [Promotional travel video about Poland](https://x.com/KinasRemek/status/2102728913579327722) | Opus 5.5 | [@KinasRemek](https://x.com/KinasRemek) | 1:26 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102728913579327722) |
 | [Promotional video for a landing page](https://x.com/cleeeeeeeeement/status/2110039903312425385) | Opus 5.5 | [@cleeeeeeeeement](https://x.com/cleeeeeeeeement) | 0:15 | — |
+| [Box-breathing app on ESP32](https://x.com/sylvechv/status/2125613023968567710) | Opus 5.5 | [@sylvechv](https://x.com/sylvechv) | 0:29 | — |
 | [Claude mascot coworker mod demo](https://x.com/ishuagra02/status/2106138602073641241) | Fable 5.5 (preview) | [@ishuagra02](https://x.com/ishuagra02) | 0:37 | — |
 | [Halloween sticker pack](https://x.com/ann_nnng/status/2116468079794545038) | Opus 5.5 | [@ann_nnng](https://x.com/ann_nnng) | 0:32 | — |
 | [Hyprland desktop theme customization](https://x.com/XMihura/status/2109991235545190801) | Opus 5.5 | [@XMihura](https://x.com/XMihura) | 1:00 | — |

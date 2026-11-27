@@ -1,6 +1,6 @@
 # 3D worlds & simulations
 
-514 works, 112 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+519 works, 113 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Golden Gate Bridge 3D scene](https://x.com/petergyang/status/2102458049856479474) | Opus 5.5 | [@petergyang](https://x.com/petergyang) | 0:30 | — |
 | [Visualization of what AI hates about humans](https://x.com/TheSpacerr/status/2105744712330354723) | Sonnet 5.5 | [@TheSpacerr](https://x.com/TheSpacerr) | 0:45 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2105744712330354723) |
 | [Cute interactive 3D world](https://x.com/studio_veco/status/2102684366996738511) | Opus 5.5 | [@studio_veco](https://x.com/studio_veco) | 1:21 | — |
+| [3D study room modeled and lit in Blender](https://x.com/Mulight/status/2125418681773838590) | Opus 5.5 | [@Mulight](https://x.com/Mulight) | 0:27 | — |
 | [Blueprint to animated pirate ship](https://x.com/Ayu_AI_0912/status/2109043294911291886) | Opus 5.5 | [@Ayu_AI_0912](https://x.com/Ayu_AI_0912) | 0:24 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2109043294911291886) |
 | [Cozy sunset watermill world](https://x.com/keydol123/status/2115168883040817610) | Opus 5.5 | [@keydol123](https://x.com/keydol123) | 1:17 | — |
 | [Zoom from room to quarks 3D scene](https://x.com/VictorTaelin/status/2103299766473875778) | Opus 5.5 | [@VictorTaelin](https://x.com/VictorTaelin) | 3:30 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103299766473875778) |
@@ -140,6 +141,7 @@
 | [3D animation built with Python and Blender](https://x.com/kevin_t_ngo/status/2110010240825737683) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 0:28 | — |
 | [Stylized hero rig and animation](https://x.com/rewind02/status/2120846734901367105) | Opus 5.5 | [@rewind02](https://x.com/rewind02) | 0:04 | — |
 | [Illustration turned explorable 3D harbor town](https://x.com/chetanankola/status/2103393323520299428) | Opus 5.5 | [@chetanankola](https://x.com/chetanankola) | 0:25 | — |
+| [Walkable 3D Japanese house from floor plan](https://x.com/0x_elaro/status/2125683940803719343) | Opus 5.5 | [@0x_elaro](https://x.com/0x_elaro) | 0:24 | — |
 | [Cinematic medieval siege scene](https://x.com/davis7/status/2120810499415908356) | Opus 5.5 / Fable 5.5 (preview) | [@davis7](https://x.com/davis7) | 0:26 | — |
 | [Browser game environments with physically based rendering](https://x.com/rewind02/status/2123745767286276410) | Opus 5.5 | [@rewind02](https://x.com/rewind02) | 0:22 | — |
 | [Pelican riding a bike benchmark demo](https://x.com/mylifcc/status/2102442484525842941) | Opus 5.5 | [@mylifcc](https://x.com/mylifcc) | 0:05 | — |
@@ -244,6 +246,7 @@
 | [Browser-based poolrooms world](https://x.com/Ben__Springer/status/2119915615351693483) | Opus 5.5 | [@Ben__Springer](https://x.com/Ben__Springer) | 0:56 | — |
 | [Yacht simulator with procedural water and sky](https://x.com/maxt3chno/status/2121296570872107145) | Opus 5.5 | [@maxt3chno](https://x.com/maxt3chno) | 1:36 | — |
 | [Procedural knitted island](https://x.com/krisyangdev/status/2116887799274299512) | Opus 5.5 | [@krisyangdev](https://x.com/krisyangdev) | 0:15 | — |
+| [1950s gullwing coupe in Blender and Three.js](https://x.com/shmopixbzn/status/2125712540369875352) | Opus 5.5 | [@shmopixbzn](https://x.com/shmopixbzn) | 0:12 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2125712540369875352) |
 | [Robotic dark store order-picking simulation](https://x.com/anxuanng/status/2116911893344383252) | Opus 5.5 | [@anxuanng](https://x.com/anxuanng) | 0:25 | — |
 | [Rigged and animated hooded hunter game character](https://x.com/rewind02/status/2115779810932728259) | Opus 5.5 | [@rewind02](https://x.com/rewind02) | 0:04 | — |
 | [Animal walk animation with color-coded leg rig](https://x.com/Stefan_3D_AI/status/2109568757001756710) | Opus 5.5 | [@Stefan_3D_AI](https://x.com/Stefan_3D_AI) | 0:13 | — |
@@ -376,6 +379,7 @@
 | [Foldable phone rebuilt part by part in code](https://x.com/andreysuperior/status/2113644365876691235) | Opus 5.5 | [@andreysuperior](https://x.com/andreysuperior) | 0:24 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2113644365876691235) |
 | [Tool to convert icons into 3D assets](https://x.com/MengTo/status/2107445210011849103) | Opus 5.5 | [@MengTo](https://x.com/MengTo) | 0:57 | — |
 | [Paradise City theme park 3D recreation](https://x.com/Neetfujisub/status/2103658660874621079) | Opus 5.5 | [@Neetfujisub](https://x.com/Neetfujisub) | 1:35 | — |
+| [Piedra y luz: 3D visual essay on stones](https://x.com/julianleiss/status/2125736677993861469) | Opus 5.5 | [@julianleiss](https://x.com/julianleiss) | 0:35 | — |
 | [Interactive prismatic forms](https://x.com/nono_ai_archive/status/2122988750250901956) | Opus 5.5 | [@nono_ai_archive](https://x.com/nono_ai_archive) | 0:44 | — |
 | [Three.js scene quality test](https://x.com/thoughtcrime___/status/2103598324687442284) | Opus 5.5 | [@thoughtcrime___](https://x.com/thoughtcrime___) | 0:40 | — |
 | [Pixel art animation with photo booth ending](https://x.com/ria_aicreator/status/2102543016389144975) | Opus 5.5 | [@ria_aicreator](https://x.com/ria_aicreator) | 0:23 | — |
@@ -469,6 +473,7 @@
 | [Isometric 3D Scene](https://x.com/itsnotryan/status/2107013497813172593) | Opus 5.5 | [@itsnotryan](https://x.com/itsnotryan) | 0:07 | — |
 | [Mall-scale MEP systems model with clash checks](https://x.com/Solvaix/status/2113670412055740452) | Opus 5.5 | [@Solvaix](https://x.com/Solvaix) | 1:24 | — |
 | [Rigged and animated 3D character](https://x.com/hiyouwhatsapp/status/2122077126711181465) | Opus 5.5 | [@hiyouwhatsapp](https://x.com/hiyouwhatsapp) | 0:08 | — |
+| [Cliff ridge dirt bike 3D tracking shot](https://x.com/lemomo_ai/status/2125597881675694098) | Opus 5.5 | [@lemomo_ai](https://x.com/lemomo_ai) | 0:15 | — |
 | [Coded Tesla Roadster model](https://x.com/majidmanzarpour/status/2109042101019156848) | Opus 5.5 | [@majidmanzarpour](https://x.com/majidmanzarpour) | 1:01 | — |
 | [Bridge 3D model with upgraded texture](https://x.com/dobokuya77/status/2106356636126457894) | Opus 5.5 | [@dobokuya77](https://x.com/dobokuya77) | 0:31 | — |
 | [Dreamcore liminal space](https://x.com/scottstts/status/2114404473644908614) | Opus 5.5 | [@scottstts](https://x.com/scottstts) | 1:23 | — |

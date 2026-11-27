@@ -3,8 +3,8 @@
  "model": "Claude 5.5 (Opus 5.5 · Sonnet 5.5 · Haiku 5.5 · Fable 5.5)",
  "inclusion_rule": "Original post by the creator, native video attached, >= 5000 views on that post, creator states it was made with Claude Opus 5.5, Sonnet 5.5, Haiku 5.5 or Fable 5.5 (Fable 5.5 is in limited preview, not yet announced). Later posts that embed another account's upload are excluded.",
  "views_threshold": 5000,
- "stats_checked_at": "2026-11-26T01:17:15.167Z",
- "updated_at": "2026-11-26T01:17:15.167Z",
+ "stats_checked_at": "2026-11-27T01:17:17.268Z",
+ "updated_at": "2026-11-27T01:17:17.268Z",
  "model_attribution": "As stated by each creator; not independently reproduced.",
  "cases": [
   {
@@ -23470,6 +23470,37 @@
    "resources": []
   },
   {
+   "id": "2125418681773838590",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "Blender 3D书房建模与灯光渲染",
+    "en": "3D study room modeled and lit in Blender"
+   },
+   "creator": {
+    "handle": "Mulight",
+    "name": "Mulight 沐光"
+   },
+   "original_post_url": "https://x.com/Mulight/status/2125418681773838590",
+   "posted_at": "2026-11-25T02:37:56.000Z",
+   "language": "zh",
+   "duration_seconds": 27,
+   "views": 76706,
+   "likes": 887,
+   "bookmarks": 800,
+   "views_checked_at": "2026-11-27T01:17:17.268Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2125417836575395840/img/LyLwMEc3kfL939So.jpg",
+   "tools_reported": [
+    "Google Antigravity",
+    "Blender"
+   ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2102731155879391418",
    "models": [
     "opus-5.5"
@@ -28698,6 +28729,34 @@
    "resources": []
   },
   {
+   "id": "2125683940803719343",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "手绘平面图生成可漫游日式房屋3D模型",
+    "en": "Walkable 3D Japanese house from floor plan"
+   },
+   "creator": {
+    "handle": "0x_elaro",
+    "name": "Elaro"
+   },
+   "original_post_url": "https://x.com/0x_elaro/status/2125683940803719343",
+   "posted_at": "2026-11-25T20:11:59.000Z",
+   "language": "ja",
+   "duration_seconds": 24,
+   "views": 61191,
+   "likes": 364,
+   "bookmarks": 361,
+   "views_checked_at": "2026-11-27T01:17:17.268Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2125682769372041216/img/LhIdhooIqviJ8FUw.jpg",
+   "tools_reported": [],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2103235288306774127",
    "models": [
     "opus-5.5"
@@ -30822,6 +30881,36 @@
    "resources": []
   },
   {
+   "id": "2125671456948597154",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "日落场景生成质量与耗时对比",
+    "en": "Sunset scene quality and speed comparison"
+   },
+   "creator": {
+    "handle": "N1njaCodex",
+    "name": "NinjaCodex"
+   },
+   "original_post_url": "https://x.com/N1njaCodex/status/2125671456948597154",
+   "posted_at": "2026-11-25T19:22:23.000Z",
+   "language": "en",
+   "duration_seconds": 11,
+   "views": 56112,
+   "likes": 491,
+   "bookmarks": 135,
+   "views_checked_at": "2026-11-27T01:17:17.268Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2125671357945978880/img/ZRLDo-zQpWnuSd_G.jpg",
+   "tools_reported": [
+    "Claude Opus 5.6"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2111750475930570800",
    "models": [
     "opus-5.5"
@@ -32375,6 +32464,37 @@
    "tools_reported": [
     "Blender",
     "Higgsfield"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2125548561890771349",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "炽热铁球撞击物体Three.js模拟对比",
+    "en": "Red hot ball vs 8 objects Three.js comparison"
+   },
+   "creator": {
+    "handle": "noclipepe",
+    "name": "noclipepe"
+   },
+   "original_post_url": "https://x.com/noclipepe/status/2125548561890771349",
+   "posted_at": "2026-11-25T11:14:02.000Z",
+   "language": "en",
+   "duration_seconds": 71,
+   "views": 53174,
+   "likes": 130,
+   "bookmarks": 53,
+   "views_checked_at": "2026-11-27T01:17:17.268Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2125548132440190976/img/S6WpwDf8dKdzyvZr.jpg",
+   "tools_reported": [
+    "Three.js",
+    "Claude Opus 5.6"
    ],
    "reference_assets": false,
    "prompt": null,
@@ -41851,6 +41971,36 @@
    "resources": []
   },
   {
+   "id": "2125422309116879008",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "stories",
+   "title": {
+    "zh": "雪林多头怪兽预告片",
+    "en": "Snowy forest creature trailer"
+   },
+   "creator": {
+    "handle": "Viniai_",
+    "name": "Vini"
+   },
+   "original_post_url": "https://x.com/Viniai_/status/2125422309116879008",
+   "posted_at": "2026-11-25T02:52:21.000Z",
+   "language": "en",
+   "duration_seconds": 61,
+   "views": 37079,
+   "likes": 336,
+   "bookmarks": 74,
+   "views_checked_at": "2026-11-27T01:17:17.268Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2125422259896717312/img/Jt_SDLLW_INNrPHv.jpg",
+   "tools_reported": [
+    "Seedance 2.5"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2103432080730583486",
    "models": [
     "opus-5.5"
@@ -44847,6 +44997,36 @@
     "length": 13860,
     "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2112130961714385214"
    },
+   "resources": []
+  },
+  {
+   "id": "2125414140957384814",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "stories",
+   "title": {
+    "zh": "郊狼与走鹃的黑洞陷阱",
+    "en": "Coyote and roadrunner black hole trap"
+   },
+   "creator": {
+    "handle": "itsshara_ai",
+    "name": "Shara"
+   },
+   "original_post_url": "https://x.com/itsshara_ai/status/2125414140957384814",
+   "posted_at": "2026-11-25T02:19:54.000Z",
+   "language": "en",
+   "duration_seconds": 30,
+   "views": 32819,
+   "likes": 320,
+   "bookmarks": 85,
+   "views_checked_at": "2026-11-27T01:17:17.268Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2125414117469274112/img/fsrQE6wC8fEKeR_5.jpg",
+   "tools_reported": [
+    "Seedance 2.5"
+   ],
+   "reference_assets": true,
+   "prompt": null,
    "resources": []
   },
   {
@@ -48629,6 +48809,43 @@
    "resources": []
   },
   {
+   "id": "2125712540369875352",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "Blender与Three.js生成的经典鸥翼跑车",
+    "en": "1950s gullwing coupe in Blender and Three.js"
+   },
+   "creator": {
+    "handle": "shmopixbzn",
+    "name": "shmopix"
+   },
+   "original_post_url": "https://x.com/shmopixbzn/status/2125712540369875352",
+   "posted_at": "2026-11-25T22:05:38.000Z",
+   "language": "en",
+   "duration_seconds": 12,
+   "views": 28742,
+   "likes": 248,
+   "bookmarks": 141,
+   "views_checked_at": "2026-11-27T01:17:17.268Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2125711679619043328/img/RN51m1WM8txZpjW5.jpg",
+   "tools_reported": [
+    "Blender",
+    "Three.js"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "brief",
+    "source": "post",
+    "source_url": "https://x.com/shmopixbzn/status/2125712540369875352",
+    "length": 28,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2125712540369875352"
+   },
+   "resources": []
+  },
+  {
    "id": "2107031729705984163",
    "models": [
     "opus-5.5"
@@ -51514,6 +51731,43 @@
    "resources": []
   },
   {
+   "id": "2125410894939111807",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "单文件3D挖掘机模拟器对比",
+    "en": "Single-file 3D excavator simulator comparison"
+   },
+   "creator": {
+    "handle": "lucian__03",
+    "name": "루샨 lucian"
+   },
+   "original_post_url": "https://x.com/lucian__03/status/2125410894939111807",
+   "posted_at": "2026-11-25T02:07:00.000Z",
+   "language": "ko",
+   "duration_seconds": 21,
+   "views": 26293,
+   "likes": 235,
+   "bookmarks": 89,
+   "views_checked_at": "2026-11-27T01:17:17.268Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2125318296396599296/img/nsyj91V1XqpkBQnB.jpg",
+   "tools_reported": [
+    "Three.js",
+    "Claude Opus 5.6"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "full",
+    "source": "author_reply",
+    "source_url": "https://x.com/lucian__03/status/2125410896096768434",
+    "length": 1530,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2125410894939111807"
+   },
+   "resources": []
+  },
+  {
    "id": "2115581339357286477",
    "models": [
     "opus-5.5"
@@ -52512,6 +52766,34 @@
    "bookmarks": 425,
    "views_checked_at": "2026-11-23T11:55:30.830Z",
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110039825520738304/img/ZAN3u8zKRYPmgOU6.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2125613023968567710",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "product",
+   "title": {
+    "zh": "ESP32方块呼吸练习应用",
+    "en": "Box-breathing app on ESP32"
+   },
+   "creator": {
+    "handle": "sylvechv",
+    "name": "Sylve"
+   },
+   "original_post_url": "https://x.com/sylvechv/status/2125613023968567710",
+   "posted_at": "2026-11-25T15:30:11.000Z",
+   "language": "en",
+   "duration_seconds": 29,
+   "views": 25401,
+   "likes": 232,
+   "bookmarks": 123,
+   "views_checked_at": "2026-11-27T01:17:17.268Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2125612938585075712/img/PkyyQG8rXLCQhtXo.jpg",
    "tools_reported": [],
    "reference_assets": false,
    "prompt": null,
@@ -53754,6 +54036,38 @@
     "Roblox"
    ],
    "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2125595652101197918",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "production",
+   "title": {
+    "zh": "四乐章交响曲动画",
+    "en": "Animated four-movement symphony"
+   },
+   "creator": {
+    "handle": "gooby_esq",
+    "name": "gooby_esq"
+   },
+   "original_post_url": "https://x.com/gooby_esq/status/2125595652101197918",
+   "posted_at": "2026-11-25T14:21:09.000Z",
+   "language": "en",
+   "duration_seconds": 1514,
+   "views": 24233,
+   "likes": 209,
+   "bookmarks": 150,
+   "views_checked_at": "2026-11-27T01:17:17.268Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2125592337216684032/img/ugTudJMGTF4PWzAZ.jpg",
+   "tools_reported": [
+    "LilyPond",
+    "EastWest",
+    "REAPER"
+   ],
+   "reference_assets": true,
    "prompt": null,
    "resources": []
   },
@@ -62329,6 +62643,42 @@
    "resources": []
   },
   {
+   "id": "2125563003462615488",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "中式帆船场景对比",
+    "en": "Chinese sailing ships scene comparison"
+   },
+   "creator": {
+    "handle": "N1njaCodex",
+    "name": "NinjaCodex"
+   },
+   "original_post_url": "https://x.com/N1njaCodex/status/2125563003462615488",
+   "posted_at": "2026-11-25T12:11:25.000Z",
+   "language": "en",
+   "duration_seconds": 18,
+   "views": 18943,
+   "likes": 366,
+   "bookmarks": 102,
+   "views_checked_at": "2026-11-27T01:17:17.268Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2125562778916163584/img/CJD6xB6RDqkQz-52.jpg",
+   "tools_reported": [
+    "Claude Opus 5.6"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "full",
+    "source": "author_reply",
+    "source_url": "https://x.com/N1njaCodex/status/2125563041643127077",
+    "length": 4031,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2125563003462615488"
+   },
+   "resources": []
+  },
+  {
    "id": "2103862007208591605",
    "models": [
     "opus-5.5"
@@ -68620,6 +68970,38 @@
    "resources": []
   },
   {
+   "id": "2125633183161139699",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "冬日王冠多模型生成对比",
+    "en": "Winter Crown multi-model comparison"
+   },
+   "creator": {
+    "handle": "EnvolDev",
+    "name": "Tony"
+   },
+   "original_post_url": "https://x.com/EnvolDev/status/2125633183161139699",
+   "posted_at": "2026-11-25T16:50:17.000Z",
+   "language": "en",
+   "duration_seconds": 25,
+   "views": 15498,
+   "likes": 103,
+   "bookmarks": 24,
+   "views_checked_at": "2026-11-27T01:17:17.268Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2125632934812205059/img/Q7y6Zm9TM7ytmwhu.jpg",
+   "tools_reported": [
+    "GPT-6.2 Astra",
+    "Fable 5.2",
+    "GPT-6.2 Sol"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2121701481204326632",
    "models": [
     "opus-5.5"
@@ -69517,6 +69899,34 @@
     "length": 414,
     "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103538744695693512"
    },
+   "resources": []
+  },
+  {
+   "id": "2125736677993861469",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "石与光：3D石头视觉短片",
+    "en": "Piedra y luz: 3D visual essay on stones"
+   },
+   "creator": {
+    "handle": "julianleiss",
+    "name": "Julián Leiss"
+   },
+   "original_post_url": "https://x.com/julianleiss/status/2125736677993861469",
+   "posted_at": "2026-11-25T23:41:32.000Z",
+   "language": "en",
+   "duration_seconds": 35,
+   "views": 15067,
+   "likes": 406,
+   "bookmarks": 377,
+   "views_checked_at": "2026-11-27T01:17:17.268Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2125736465967566848/img/aBuQ8eBUrtjqe2th.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
    "resources": []
   },
   {
@@ -86340,6 +86750,36 @@
    "resources": []
   },
   {
+   "id": "2125597881675694098",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "刀脊悬崖越野摩托3D一次生成的",
+    "en": "Cliff ridge dirt bike 3D tracking shot"
+   },
+   "creator": {
+    "handle": "lemomo_ai",
+    "name": "Lemomo"
+   },
+   "original_post_url": "https://x.com/lemomo_ai/status/2125597881675694098",
+   "posted_at": "2026-11-25T14:30:01.000Z",
+   "language": "zh",
+   "duration_seconds": 15,
+   "views": 8669,
+   "likes": 120,
+   "bookmarks": 65,
+   "views_checked_at": "2026-11-27T01:17:17.268Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2125582828037640192/img/N6M2XHJWTXkCUl4m.jpg",
+   "tools_reported": [
+    "Blender"
+   ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2114414708270739508",
    "models": [
     "opus-5.5"
@@ -89461,6 +89901,36 @@
    "reference_assets": true,
    "prompt": null,
    "resources": []
+  },
+  {
+   "id": "2125665054368702531",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "production",
+   "title": {
+    "zh": "GTA 5到GTA 6转场剪辑",
+    "en": "GTA 5 to GTA 6 transition edit"
+   },
+   "creator": {
+    "handle": "Aygramm_",
+    "name": "Ayomide Adeji"
+   },
+   "original_post_url": "https://x.com/Aygramm_/status/2125665054368702531",
+   "posted_at": "2026-11-25T18:56:56.000Z",
+   "language": "en",
+   "duration_seconds": 31,
+   "views": 7538,
+   "likes": 103,
+   "bookmarks": 103,
+   "views_checked_at": "2026-11-27T01:17:17.268Z",
+   "thumbnail_url": "https://pbs.twimg.com/media/HX_g4kkXgAABtpa.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": [
+    "https://t.me/aygrammgenlab/951"
+   ]
   },
   {
    "id": "2118159125398061237",
@@ -93547,6 +94017,41 @@
    ],
    "reference_assets": false,
    "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2125609179339465012",
+   "models": [
+    "opus-5.5",
+    "sonnet-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "交互式WebGPU毛绒螃蟹对比",
+    "en": "Interactive WebGPU plush crab comparison"
+   },
+   "creator": {
+    "handle": "vib3coded",
+    "name": "Vib3Coded"
+   },
+   "original_post_url": "https://x.com/vib3coded/status/2125609179339465012",
+   "posted_at": "2026-11-25T15:14:54.000Z",
+   "language": "en",
+   "duration_seconds": 17,
+   "views": 5493,
+   "likes": 104,
+   "bookmarks": 30,
+   "views_checked_at": "2026-11-27T01:17:17.268Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2125609057322975232/img/wCbZ4wbzoyRDiVTS.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "full",
+    "source": "author_reply",
+    "source_url": "https://x.com/vib3coded/status/2125609231155900512",
+    "length": 2325,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2125609179339465012"
+   },
    "resources": []
   },
   {

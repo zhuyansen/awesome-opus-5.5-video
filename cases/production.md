@@ -1,6 +1,6 @@
 # Music, editing & production
 
-202 works, 32 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+204 works, 32 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Gunslinger slow-motion Sandevistan effect edit](https://x.com/aimikoda/status/2114007429146964169) | Opus 5.5 | [@aimikoda](https://x.com/aimikoda) | 0:32 | — |
 | [AI-edited travel vlog](https://x.com/dashiAIxz/status/2106091485125091695) | Opus 5.5 | [@dashiAIxz](https://x.com/dashiAIxz) | 4:25 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2106091485125091695) |
 | [Branded music video edited with code](https://x.com/gkxspace/status/2107108561851445324) | Opus 5.5 | [@gkxspace](https://x.com/gkxspace) | 0:15 | — |
+| [Animated four-movement symphony](https://x.com/gooby_esq/status/2125595652101197918) | Opus 5.5 | [@gooby_esq](https://x.com/gooby_esq) | 25:14 | — |
 | [Crime documentary YouTube video](https://x.com/sarpstar/status/2113695392705523855) | Opus 5.5 | [@sarpstar](https://x.com/sarpstar) | 7:58 | — |
 | [Toddler relatable moments short video](https://x.com/hoko525/status/2110292964270608425) | Opus 5.5 | [@hoko525](https://x.com/hoko525) | 0:11 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2110292964270608425) |
 | [Halloween Shibuya street footage edit](https://x.com/_3912657840/status/2110298969997996370) | Opus 5.5 | [@_3912657840](https://x.com/_3912657840) | 0:30 | — |
@@ -196,6 +197,7 @@
 | [PCB design pipeline demo](https://x.com/VectorCrossProd/status/2109610532365857198) | Opus 5.5 | [@VectorCrossProd](https://x.com/VectorCrossProd) | 1:00 | — |
 | [Neon glitch video treatment](https://x.com/aimikoda/status/2113344709682663503) | Opus 5.5 | [@aimikoda](https://x.com/aimikoda) | 0:07 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2113344709682663503) |
 | [Article-to-video generation for social posting](https://x.com/affnom_y/status/2103722878697083380) | Opus 5.5 | [@affnom_y](https://x.com/affnom_y) | 0:26 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103722878697083380) |
+| [GTA 5 to GTA 6 transition edit](https://x.com/Aygramm_/status/2125665054368702531) | Opus 5.5 | [@Aygramm_](https://x.com/Aygramm_) | 0:31 | — |
 | [Full 3D VTuber live music video](https://x.com/LidaMidorin/status/2118159125398061237) | Opus 5.5 | [@LidaMidorin](https://x.com/LidaMidorin) | 0:49 | — |
 | [Continuous tracking shot with 3D blocking](https://x.com/Kiber_Alla/status/2123196686839197817) | Opus 5.5 | [@Kiber_Alla](https://x.com/Kiber_Alla) | 0:30 | — |
 | [Cinematic character video produced from an Android phone](https://x.com/bozzxyz/status/2113170819635609957) | Opus 5.5 | [@bozzxyz](https://x.com/bozzxyz) | 0:33 | — |

@@ -1,6 +1,6 @@
 # Characters & stories
 
-262 works, 61 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+264 works, 61 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Childhood Viking fleet battles a sea serpent](https://x.com/Linus_K_AI/status/2123007811722326104) | Opus 5.5 | [@Linus_K_AI](https://x.com/Linus_K_AI) | 1:20 | — |
 | [Eight-minute documentary on London's underground infrastructure](https://x.com/maxescu/status/2105619319220511010) | Opus 5.5 | [@maxescu](https://x.com/maxescu) | 7:55 | — |
 | [Hugging Face incident music video](https://x.com/chetaslua/status/2105934928483701214) | Fable 5.5 (preview) | [@chetaslua](https://x.com/chetaslua) | 2:37 | — |
+| [Snowy forest creature trailer](https://x.com/Viniai_/status/2125422309116879008) | Opus 5.5 | [@Viniai_](https://x.com/Viniai_) | 1:01 | — |
 | [Wong Kar-wai-style short film](https://x.com/HanZhang415188/status/2105978537681567931) | Opus 5.5 | [@HanZhang415188](https://x.com/HanZhang415188) | 1:48 | — |
 | [Code-generated story film from a video skill](https://x.com/sarpstar/status/2111816574780706975) | Opus 5.5 | [@sarpstar](https://x.com/sarpstar) | 4:59 | — |
 | [Lyric motion video synced to a song](https://x.com/takamasa045/status/2103791907801620931) | Opus 5.5 | [@takamasa045](https://x.com/takamasa045) | 2:08 | — |
@@ -140,6 +141,7 @@
 | [Code-driven animation of two pixel art sprites](https://x.com/GrilliotTodd/status/2113284244026048966) | Opus 5.5 | [@GrilliotTodd](https://x.com/GrilliotTodd) | 0:08 | — |
 | [Canvas-coded character outfit animation](https://x.com/eternityspring/status/2105814099833823497) | Opus 5.5 | [@eternityspring](https://x.com/eternityspring) | 0:09 | — |
 | [Animated self-narrative of Claude's future](https://x.com/shfred0/status/2102653868911817153) | Opus 5.5 | [@shfred0](https://x.com/shfred0) | 1:00 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102653868911817153) |
+| [Coyote and roadrunner black hole trap](https://x.com/itsshara_ai/status/2125414140957384814) | Opus 5.5 | [@itsshara_ai](https://x.com/itsshara_ai) | 0:30 | — |
 | [Hold Swarm music video with Hatsune Miku](https://x.com/chaotictransfem/status/2105011559756181620) | Opus 5.5 | [@chaotictransfem](https://x.com/chaotictransfem) | 3:58 | — |
 | [Torn-paper music video](https://x.com/taku_studio/status/2120487739800068571) | Opus 5.5 | [@taku_studio](https://x.com/taku_studio) | 3:05 | — |
 | [Pianist by a sunset lake](https://x.com/LexnLin/status/2114422260346110358) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 3:51 | — |

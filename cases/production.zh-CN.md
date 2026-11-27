@@ -1,6 +1,6 @@
 # 制作流程
 
-共 202 个作品，其中 32 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 204 个作品，其中 32 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [枪手慢动作残影特效剪辑](https://x.com/aimikoda/status/2114007429146964169) | Opus 5.5 | [@aimikoda](https://x.com/aimikoda) | 0:32 | — |
 | [AI剪辑旅行视频日志](https://x.com/dashiAIxz/status/2106091485125091695) | Opus 5.5 | [@dashiAIxz](https://x.com/dashiAIxz) | 4:25 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2106091485125091695) |
 | [用代码剪辑制作的品牌音乐视频](https://x.com/gkxspace/status/2107108561851445324) | Opus 5.5 | [@gkxspace](https://x.com/gkxspace) | 0:15 | — |
+| [四乐章交响曲动画](https://x.com/gooby_esq/status/2125595652101197918) | Opus 5.5 | [@gooby_esq](https://x.com/gooby_esq) | 25:14 | — |
 | [犯罪纪录片风格视频](https://x.com/sarpstar/status/2113695392705523855) | Opus 5.5 | [@sarpstar](https://x.com/sarpstar) | 7:58 | — |
 | [幼儿日常瞬间短视频](https://x.com/hoko525/status/2110292964270608425) | Opus 5.5 | [@hoko525](https://x.com/hoko525) | 0:11 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2110292964270608425) |
 | [万圣节涩谷街头影像剪辑](https://x.com/_3912657840/status/2110298969997996370) | Opus 5.5 | [@_3912657840](https://x.com/_3912657840) | 0:30 | — |
@@ -196,6 +197,7 @@
 | [PCB设计流程演示](https://x.com/VectorCrossProd/status/2109610532365857198) | Opus 5.5 | [@VectorCrossProd](https://x.com/VectorCrossProd) | 1:00 | — |
 | [霓虹故障风视频处理](https://x.com/aimikoda/status/2113344709682663503) | Opus 5.5 | [@aimikoda](https://x.com/aimikoda) | 0:07 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2113344709682663503) |
 | [根据文章自动生成视频并发布](https://x.com/affnom_y/status/2103722878697083380) | Opus 5.5 | [@affnom_y](https://x.com/affnom_y) | 0:26 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103722878697083380) |
+| [GTA 5到GTA 6转场剪辑](https://x.com/Aygramm_/status/2125665054368702531) | Opus 5.5 | [@Aygramm_](https://x.com/Aygramm_) | 0:31 | — |
 | [全3D虚拟主播现场音乐MV](https://x.com/LidaMidorin/status/2118159125398061237) | Opus 5.5 | [@LidaMidorin](https://x.com/LidaMidorin) | 0:49 | — |
 | [借助三维预演制作连续跟拍镜头](https://x.com/Kiber_Alla/status/2123196686839197817) | Opus 5.5 | [@Kiber_Alla](https://x.com/Kiber_Alla) | 0:30 | — |
 | [用安卓手机制作的电影感角色短片](https://x.com/bozzxyz/status/2113170819635609957) | Opus 5.5 | [@bozzxyz](https://x.com/bozzxyz) | 0:33 | — |
