@@ -1,6 +1,6 @@
 # 科普讲解
 
-共 241 个作品，其中 61 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 244 个作品，其中 61 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -66,10 +66,12 @@
 | [用JavaScript制作的恐龙历史动画](https://x.com/kevin_t_ngo/status/2104638743634391408) | Sonnet 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 0:48 | — |
 | [《学习如何学习》方法总结视频](https://x.com/momoflilbit/status/2105276821214532096) | Opus 5.5 | [@momoflilbit](https://x.com/momoflilbit) | 10:40 | — |
 | [野外求生技能互动学习应用](https://x.com/DilumSanjaya/status/2115488004425089201) | Opus 5.5 | [@DilumSanjaya](https://x.com/DilumSanjaya) | 1:35 | — |
+| [活体脊柱解剖与物理模拟](https://x.com/thegreatest_sv/status/2125976371600257533) | Opus 5.5 | [@thegreatest_sv](https://x.com/thegreatest_sv) | 0:25 | — |
 | [轨道六要素互动学习工具](https://x.com/getBack_1969_/status/2105200070446751750) | Opus 5.5 | [@getBack_1969_](https://x.com/getBack_1969_) | 1:00 | — |
 | [印度文明历史视频](https://x.com/rashem48/status/2103850664007028964) | Opus 5.5 | [@rashem48](https://x.com/rashem48) | 1:16 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103850664007028964) |
 | [解释莱顿弗罗斯特效应的手绘动画](https://x.com/realYunfanYe/status/2103496245343916158) | Opus 5.5 | [@realYunfanYe](https://x.com/realYunfanYe) | 1:00 | — |
 | [3D旁白版宜家组装说明视频](https://x.com/deedydas/status/2103174501345493197) | Opus 5.5 | [@deedydas](https://x.com/deedydas) | 1:42 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103174501345493197) |
+| [四维真空量子引力研究科普](https://x.com/AmirMakir/status/2125882381185986754) | Opus 5.5 | [@AmirMakir](https://x.com/AmirMakir) | 2:51 | — |
 | [Scion源代码控制系统可视化](https://x.com/devteamdrew/status/2111864203753492513) | Opus 5.5 | [@devteamdrew](https://x.com/devteamdrew) | 1:39 | — |
 | [摆线原理动画课](https://x.com/AIMevzulari/status/2106052083040256293) | Opus 5.5 | [@AIMevzulari](https://x.com/AIMevzulari) | 2:08 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2106052083040256293) |
 | [小学数学进位加法讲解视频](https://x.com/akira_papa_IT/status/2102899599501668561) | Opus 5.5 | [@akira_papa_IT](https://x.com/akira_papa_IT) | 2:40 | — |
@@ -172,6 +174,7 @@
 | [美国大选互动课程](https://x.com/GabLattanzio/status/2117891574587908310) | Opus 5.5 | [@GabLattanzio](https://x.com/GabLattanzio) | 0:31 | — |
 | [自行车刹车原理3D讲解](https://x.com/RyanSael/status/2107111191210520608) | Opus 5.5 | [@RyanSael](https://x.com/RyanSael) | 0:40 | — |
 | [Anthropic上市招股书要点解读视频](https://x.com/tunguz/status/2114756330997055501) | Opus 5.5 | [@tunguz](https://x.com/tunguz) | 4:46 | — |
+| [加密货币套利入门科普短片](https://x.com/ApriloneHS/status/2125817462583353452) | Opus 5.5 | [@ApriloneHS](https://x.com/ApriloneHS) | 8:30 | — |
 | [讲解9条足球规则的科普视频](https://x.com/lukasersil/status/2105922894924501283) | Opus 5.5 | [@lukasersil](https://x.com/lukasersil) | 1:09 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2105922894924501283) |
 | [给孩子讲解四季与昼夜循环的科普视频](https://x.com/KashPrime/status/2103862007208591605) | Opus 5.5 | [@KashPrime](https://x.com/KashPrime) | 3:06 | — |
 | [人类历史动画](https://x.com/blueemi99/status/2106041578204655748) | Fable 5.5 (preview) | [@blueemi99](https://x.com/blueemi99) | 2:00 | — |

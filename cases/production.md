@@ -1,6 +1,6 @@
 # Music, editing & production
 
-204 works, 32 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+205 works, 32 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [AI-made hopeful song sequel](https://x.com/nssharpe/status/2103549676234637516) | Opus 5.5 | [@nssharpe](https://x.com/nssharpe) | 2:20 | — |
 | [Short-form viral videos for a new account](https://x.com/bizdevelo/status/2115408359771779573) | Opus 5.5 | [@bizdevelo](https://x.com/bizdevelo) | 0:42 | — |
 | [AI ad video with voice and AE editing pipeline](https://x.com/seiiiiiiiiiiru/status/2103227982592831846) | Opus 5.5 | [@seiiiiiiiiiiru](https://x.com/seiiiiiiiiiiru) | 0:29 | — |
+| [Layered cel-style animation pipeline](https://x.com/nakazakifam/status/2125845143081173011) | Opus 5.5 | [@nakazakifam](https://x.com/nakazakifam) | 0:51 | — |
 | [Browser tape ambient drone machine](https://x.com/parhelion318/status/2120212304809918827) | Opus 5.5 | [@parhelion318](https://x.com/parhelion318) | 0:44 | — |
 | [AI-edited launch video from raw takes](https://x.com/gregpr07/status/2102984873351037161) | Opus 5.5 | [@gregpr07](https://x.com/gregpr07) | 0:18 | — |
 | [Bass music generated with code](https://x.com/aj_dev_smith/status/2102504509637587339) | Opus 5.5 | [@aj_dev_smith](https://x.com/aj_dev_smith) | 2:00 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102504509637587339) |

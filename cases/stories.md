@@ -1,6 +1,6 @@
 # Characters & stories
 
-264 works, 61 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+268 works, 62 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Music video for an AI-generated song](https://x.com/eudaemonea/status/2102610626321490404) | Opus 5.5 | [@eudaemonea](https://x.com/eudaemonea) | 6:13 | — |
 | [Video predicting the next 50 years](https://x.com/andrewjiang/status/2102987981695132140) | Opus 5.5 | [@andrewjiang](https://x.com/andrewjiang) | 4:00 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102987981695132140) |
 | [Dot prompt becomes Pixar-style animation](https://x.com/cherry_mx_reds/status/2105825930799432073) | Fable 5.5 (preview) | [@cherry_mx_reds](https://x.com/cherry_mx_reds) | 0:15 | — |
+| [Hand-inked cartoon cel animated short](https://x.com/treyscalez/status/2126041304421323256) | Opus 5.5 | [@treyscalez](https://x.com/treyscalez) | 1:42 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2126041304421323256) |
 | [AI self-introduction song and video](https://x.com/johnknopf/status/2103698854399099057) | Opus 5.5 | [@johnknopf](https://x.com/johnknopf) | 5:25 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103698854399099057) |
 | [French theory essay turned into video](https://x.com/brivael/status/2104216601864106226) | Opus 5.5 | [@brivael](https://x.com/brivael) | 5:32 | — |
 | [Animated story about what you love](https://x.com/kevin_t_ngo/status/2102437977435893771) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 0:28 | — |
@@ -200,11 +201,13 @@
 | [Character video combining Midjourney and Seedance](https://x.com/aimikoda/status/2110360021988982817) | Opus 5.5 | [@aimikoda](https://x.com/aimikoda) | 0:32 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2110360021988982817) |
 | [Sword fight VFX animation](https://x.com/AiAniAlchemist/status/2111964964315709901) | Opus 5.5 | [@AiAniAlchemist](https://x.com/AiAniAlchemist) | 0:43 | — |
 | [AI capability growth training montage](https://x.com/ishuagra02/status/2102788371114246177) | Opus 5.5 | [@ishuagra02](https://x.com/ishuagra02) | 0:30 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102788371114246177) |
+| [Animated cartoon clip](https://x.com/anvithbuilds/status/2125885519104229392) | Opus 5.5 | [@anvithbuilds](https://x.com/anvithbuilds) | 0:19 | — |
 | [Code-rendered anime space battle](https://x.com/anstapnever/status/2119772039037014524) | Fable 5.5 (preview) | [@anstapnever](https://x.com/anstapnever) | 1:18 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2119772039037014524) |
 | [AI travel journal animation](https://x.com/arni0x9053/status/2103143902723096848) | Opus 5.5 | [@arni0x9053](https://x.com/arni0x9053) | 1:34 | — |
 | [Anime character animation drawn in JavaScript](https://x.com/doerstokyo342/status/2105794894383968649) | Opus 5.5 | [@doerstokyo342](https://x.com/doerstokyo342) | 0:30 | — |
 | [Artificial Creativity](https://x.com/IntuitMachine/status/2105941630885016018) | Opus 5.5 | [@IntuitMachine](https://x.com/IntuitMachine) | 34:19 | — |
 | [Low-poly car fries-sharing skit](https://x.com/Classifiedv4/status/2117660101322698868) | Opus 5.5 | [@Classifiedv4](https://x.com/Classifiedv4) | 0:30 | — |
+| [2.5D stickman animation](https://x.com/caesarscales/status/2126050832688807969) | Opus 5.5 | [@caesarscales](https://x.com/caesarscales) | 1:05 | — |
 | [War Is the World short film](https://x.com/papadupapadu/status/2121701481204326632) | Opus 5.5 | [@papadupapadu](https://x.com/papadupapadu) | 1:40 | — |
 | [Human-centered documentary on the US-Iran war](https://x.com/sarpstar/status/2112592903809683527) | Opus 5.5 | [@sarpstar](https://x.com/sarpstar) | 9:52 | — |
 | [Girl and robot forest animation](https://x.com/ChrisGPT/status/2119140493091094672) | Opus 5.5 / Fable 5.5 (preview) | [@ChrisGPT](https://x.com/ChrisGPT) | 1:00 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2119140493091094672) |
@@ -235,6 +238,7 @@
 | [Lyric music video for a cover song](https://x.com/nemumusitocha/status/2102637652063461744) | Opus 5.5 | [@nemumusitocha](https://x.com/nemumusitocha) | 1:29 | — |
 | [Extended animation demo praised as unreal](https://x.com/AndrewOnXYZ/status/2103687133433086358) | Opus 5.5 | [@AndrewOnXYZ](https://x.com/AndrewOnXYZ) | 3:44 | — |
 | [Workshop day animated short](https://x.com/devteamdrew/status/2112231979164873157) | Opus 5.5 / Sonnet 5.5 | [@devteamdrew](https://x.com/devteamdrew) | 0:32 | — |
+| [3D typography and video music piece](https://x.com/aicreataro/status/2126094054836650147) | Opus 5.5 | [@aicreataro](https://x.com/aicreataro) | 0:40 | — |
 | [Style-matched video recreation beside the original](https://x.com/nateherk/status/2108198548324168056) | Opus 5.5 | [@nateherk](https://x.com/nateherk) | 0:20 | — |
 | [Paper collage Momotaro animation](https://x.com/tanabe_fragm/status/2110931024469540979) | Opus 5.5 | [@tanabe_fragm](https://x.com/tanabe_fragm) | 0:46 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2110931024469540979) |
 | [Pelican riding a bike animation](https://x.com/dummerspast39/status/2111391206848503923) | Fable 5.5 (preview) | [@dummerspast39](https://x.com/dummerspast39) | 0:30 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2111391206848503923) |

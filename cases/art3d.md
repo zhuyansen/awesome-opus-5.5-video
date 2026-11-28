@@ -1,6 +1,6 @@
 # 3D worlds & simulations
 
-519 works, 113 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+525 works, 113 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Spider-Man cinematic scene built in code](https://x.com/Mr_Salio/status/2111590674961154433) | Opus 5.5 / Fable 5.5 (preview) | [@Mr_Salio](https://x.com/Mr_Salio) | 1:02 | — |
 | [Interactive 3D house build visualization](https://x.com/techartist_/status/2105350783416021472) | Opus 5.5 | [@techartist_](https://x.com/techartist_) | 0:37 | — |
 | [Alpine lake scene built in code](https://x.com/LexnLin/status/2112560562609803311) | Opus 5.5 | [@LexnLin](https://x.com/LexnLin) | 1:00 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2112560562609803311) |
+| [Character turnaround to 3D model viewer](https://x.com/gamemangaanime/status/2125995754292715930) | Sonnet 5.5 | [@gamemangaanime](https://x.com/gamemangaanime) | 0:29 | — |
 | [Browser-based 3D scene](https://x.com/KhalidDevLog/status/2106957256247902272) | Opus 5.5 | [@KhalidDevLog](https://x.com/KhalidDevLog) | 1:28 | — |
 | [AI-generated breathing ink painting](https://x.com/AxtonLiu/status/2103288413969621231) | Opus 5.5 | [@AxtonLiu](https://x.com/AxtonLiu) | 0:39 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103288413969621231) |
 | [Bicycle riding on a pelican animation](https://x.com/notjazii/status/2116861637890379891) | Fable 5.5 (preview) | [@notjazii](https://x.com/notjazii) | 0:26 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2116861637890379891) |
@@ -347,6 +348,7 @@
 | [Tiny harbor Three.js scene](https://x.com/chetanankola/status/2103649622963237261) | Opus 5.5 | [@chetanankola](https://x.com/chetanankola) | 0:25 | — |
 | [3D world built with Opus 5.5 for a personal service](https://x.com/Dstudio_ai/status/2105858848380907985) | Opus 5.5 | [@Dstudio_ai](https://x.com/Dstudio_ai) | 0:24 | — |
 | [Pixel art Halloween scene with code-driven effects](https://x.com/zer0point_eth/status/2117593246515810630) | Opus 5.5 | [@zer0point_eth](https://x.com/zer0point_eth) | 0:14 | — |
+| [Multi-agent townhouse MEP simulation](https://x.com/Solvaix/status/2126045813369676137) | Opus 5.5 | [@Solvaix](https://x.com/Solvaix) | 0:34 | — |
 | [Simulated vocal tract singing animation](https://x.com/chetaslua/status/2125346298606014955) | Opus 5.5 | [@chetaslua](https://x.com/chetaslua) | 4:00 | — |
 | [Mechanical folding robot bat](https://x.com/0xKitsui/status/2116525446560977059) | Opus 5.5 | [@0xKitsui](https://x.com/0xKitsui) | 0:24 | — |
 | [Robot jellyfish that splits apart in three clicks](https://x.com/0x_fokki/status/2115890589556236681) | Opus 5.5 | [@0x_fokki](https://x.com/0x_fokki) | 0:21 | — |
@@ -365,11 +367,13 @@
 | [Floor plan to 3D model](https://x.com/uncle_render/status/2110250093874229537) | Opus 5.5 | [@uncle_render](https://x.com/uncle_render) | 0:52 | — |
 | [Shiokaze sea breeze 3D scene](https://x.com/scottstts/status/2115228485304152146) | Opus 5.5 | [@scottstts](https://x.com/scottstts) | 1:11 | — |
 | [Tearable mesh that reveals artwork](https://x.com/ann_nnng/status/2115780819142979978) | Opus 5.5 | [@ann_nnng](https://x.com/ann_nnng) | 0:42 | — |
+| [Low-poly 3D product video](https://x.com/fuckscales/status/2125913740701044884) | Opus 5.5 | [@fuckscales](https://x.com/fuckscales) | 0:29 | — |
 | [Ground-opening 3D scene animation](https://x.com/viktoroddy/status/2109984169845821651) | Opus 5.5 | [@viktoroddy](https://x.com/viktoroddy) | 0:22 | — |
 | [3D model built from a three-view reference drawing](https://x.com/npaka123/status/2102695787721584792) | Opus 5.5 | [@npaka123](https://x.com/npaka123) | 0:04 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102695787721584792) |
 | [Slow-motion match combustion simulation](https://x.com/camperaigg/status/2118728540976009336) | Fable 5.5 (preview) | [@camperaigg](https://x.com/camperaigg) | 0:27 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2118728540976009336) |
 | [Browser-based 3D world](https://x.com/kellymilligannz/status/2105959798634377423) | Opus 5.5 | [@kellymilligannz](https://x.com/kellymilligannz) | 0:26 | — |
 | [Embroidery-style animated koi artwork](https://x.com/nicekate8888/status/2103308087319007283) | Opus 5.5 | [@nicekate8888](https://x.com/nicekate8888) | 1:00 | — |
+| [3D Japanese farmhouse vs samurai house from floor plans](https://x.com/Nyxera0x/status/2125947735660486857) | Opus 5.5 | [@Nyxera0x](https://x.com/Nyxera0x) | 0:16 | — |
 | [Nanite-style WebGPU rendering engine](https://x.com/SamGCoder/status/2118870207045529812) | Opus 5.5 | [@SamGCoder](https://x.com/SamGCoder) | 1:23 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2118870207045529812) |
 | [Wide-area 3D reconstruction](https://x.com/kotohibi_3d/status/2120508846758400485) | Opus 5.5 | [@kotohibi_3d](https://x.com/kotohibi_3d) | 0:48 | — |
 | [Live warehouse fulfilment center simulation](https://x.com/konstantinsaifo/status/2117886718062027230) | Opus 5.5 | [@konstantinsaifo](https://x.com/konstantinsaifo) | 0:28 | — |
@@ -434,6 +438,7 @@
 | [Mobile-made 3D previsualization test](https://x.com/z933TfmXkaISSVc/status/2102758740483305832) | Opus 5.5 | [@z933TfmXkaISSVc](https://x.com/z933TfmXkaISSVc) | 0:14 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102758740483305832) |
 | [Pelican voxel scene](https://x.com/JaydenDavisNC/status/2106960127987474652) | Fable 5.5 (preview) | [@JaydenDavisNC](https://x.com/JaydenDavisNC) | 0:34 | — |
 | [Browser water and lighting engine demo](https://x.com/apekshik/status/2107938887679267180) | Opus 5.5 | [@apekshik](https://x.com/apekshik) | 0:40 | — |
+| [Stirling engine 3D design and render](https://x.com/sibucho_labo/status/2125882250872946865) | Opus 5.5 | [@sibucho_labo](https://x.com/sibucho_labo) | 0:29 | — |
 | [Self-iterated second version of an Opus 5.5 demo](https://x.com/dashiAIxz/status/2103781641613439104) | Opus 5.5 | [@dashiAIxz](https://x.com/dashiAIxz) | 0:30 | — |
 | [Construction site 4D model visualization](https://x.com/dobokuya77/status/2102579218953765071) | Opus 5.5 | [@dobokuya77](https://x.com/dobokuya77) | 0:38 | — |
 | [Mannequin forging on an anvil, 3D animation](https://x.com/maxt3chno/status/2119384176793153579) | Opus 5.5 | [@maxt3chno](https://x.com/maxt3chno) | 0:14 | — |
@@ -460,6 +465,7 @@
 | [Blender fish stand built via AI workflow](https://x.com/ForkedPush/status/2112565571585712627) | Opus 5.5 | [@ForkedPush](https://x.com/ForkedPush) | 0:28 | — |
 | [Browser-based 3D zombie animation](https://x.com/maxt3chno/status/2124902808591704448) | Opus 5.5 | [@maxt3chno](https://x.com/maxt3chno) | 0:35 | — |
 | [3D space test scene](https://x.com/studio_veco/status/2102650069136933039) | Opus 5.5 | [@studio_veco](https://x.com/studio_veco) | 0:51 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102650069136933039) |
+| [Robot mechanic assembling its own forearm](https://x.com/Lummox_eth/status/2125978784868233708) | Opus 5.5 | [@Lummox_eth](https://x.com/Lummox_eth) | 0:10 | — |
 | [Procedural robotic giant squid teardown](https://x.com/vib3coded/status/2119392067646345249) | Opus 5.5 | [@vib3coded](https://x.com/vib3coded) | 0:17 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2119392067646345249) |
 | [Hamburg City Hall procedural 3D recreation](https://x.com/rewind02/status/2107843285737738656) | Opus 5.5 | [@rewind02](https://x.com/rewind02) | 1:26 | — |
 | [Real-time animated PBR splats](https://x.com/BrittaniNatali/status/2116206474959684042) | Opus 5.5 | [@BrittaniNatali](https://x.com/BrittaniNatali) | 1:04 | — |

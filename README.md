@@ -2,7 +2,7 @@
 
 English | [简体中文](README.zh-CN.md)
 
-Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5, Sonnet 5.5, Haiku 5.5 and Fable 5.5 (limited preview, not yet announced) and shared on X, each with 5,000+ views on the original post. **3013 works** (Opus 5.5: 2821 · Sonnet 5.5: 148 · Fable 5.5: 132; comparisons count for each), **684 with a prompt** (340 full prompts).
+Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5, Sonnet 5.5, Haiku 5.5 and Fable 5.5 (limited preview, not yet announced) and shared on X, each with 5,000+ views on the original post. **3035 works** (Opus 5.5: 2842 · Sonnet 5.5: 149 · Fable 5.5: 132; comparisons count for each), **688 with a prompt** (342 full prompts).
 
 **[Browse online — play the videos and copy the prompts →](https://jasonzhu.ai/en/prompts/claude-opus-5-5)**
 
@@ -19,7 +19,7 @@ Want to make one yourself? **[Claude video skills, tested and graded on Agent Sk
     <td width="25%" align="center"><a href="https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103273003555402193"><img src="https://pbs.twimg.com/amplify_video_thumb/2103272964967804928/img/DTuQzS4NOGKMbTDA.jpg" width="200" alt="Code-based UI motion design showreel"></a><br><sub>Code-based UI motion design showreel</sub></td>
     <td width="25%" align="center"><a href="https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103817034618339682"><img src="https://pbs.twimg.com/amplify_video_thumb/2103816945854197760/img/EdioPORO7Xfgc5E1.jpg" width="200" alt="High-energy motion graphics showreel"></a><br><sub>High-energy motion graphics showreel</sub></td>
     <td width="25%" align="center"><a href="https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103304514329854102"><img src="https://pbs.twimg.com/amplify_video_thumb/2103304202617520128/img/bpMVxBiJHhgYy27l.jpg" width="200" alt="AI documentary about superintelligence"></a><br><sub>AI documentary about superintelligence</sub></td>
-    <td width="25%" align="center"><a href="https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103698854399099057"><img src="https://pbs.twimg.com/amplify_video_thumb/2103697667910168576/img/cqLRqTw7vVpTectN.jpg" width="200" alt="AI self-introduction song and video"></a><br><sub>AI self-introduction song and video</sub></td>
+    <td width="25%" align="center"><a href="https://jasonzhu.ai/en/prompts/claude-opus-5-5/2126041304421323256"><img src="https://pbs.twimg.com/amplify_video_thumb/2126040788022767616/img/ZYeDNbNgBHbZCI6X.jpg" width="200" alt="Hand-inked cartoon cel animated short"></a><br><sub>Hand-inked cartoon cel animated short</sub></td>
   </tr>
 </table>
 
@@ -27,7 +27,7 @@ Want to make one yourself? **[Claude video skills, tested and graded on Agent Sk
 
 ## Inclusion rule
 
-- The creator's own post, with a native video, and at least 5,000 views on that post (snapshot: 2026-11-27).
+- The creator's own post, with a native video, and at least 5,000 views on that post (snapshot: 2026-11-28).
 - The post states the work was made with Claude Opus 5.5, Sonnet 5.5, Haiku 5.5 or Fable 5.5; the Model column follows the creator's own words. **As of early October Fable 5.5 is in limited preview and not yet announced**; posts where the creator is unsure are excluded. **Model attribution is as stated by each creator and was not independently reproduced.**
 - A prompt is listed only when it has a source: the post itself, the creator's own replies, a screenshot in those replies, or a link the creator shared. Prompts are kept verbatim, never rewritten or translated.
 - Works with a video but no traceable instruction are still listed, with the prompt column left empty.
@@ -64,7 +64,7 @@ Want to make one yourself? **[Claude video skills, tested and graded on Agent Sk
 
 ## Explainers & education
 
-241 works · [full list](cases/education.md)
+244 works · [full list](cases/education.md)
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -79,22 +79,22 @@ Want to make one yourself? **[Claude video skills, tested and graded on Agent Sk
 
 ## Characters & stories
 
-264 works · [full list](cases/stories.md)
+268 works · [full list](cases/stories.md)
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
 | [Moss-Covered Giant Robot Awakens at Sunrise](https://x.com/chetaslua/status/2117169796290916732) | Opus 5.5 / Fable 5.5 (preview) | [@chetaslua](https://x.com/chetaslua) | 1:21 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2117169796290916732) |
 | [Dystopian AI short film](https://x.com/Skoorbkaz/status/2113392757548941441) | Opus 5.5 | [@Skoorbkaz](https://x.com/Skoorbkaz) | 11:40 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2113392757548941441) |
 | [Video predicting the next 50 years](https://x.com/andrewjiang/status/2102987981695132140) | Opus 5.5 | [@andrewjiang](https://x.com/andrewjiang) | 4:00 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102987981695132140) |
+| [Hand-inked cartoon cel animated short](https://x.com/treyscalez/status/2126041304421323256) | Opus 5.5 | [@treyscalez](https://x.com/treyscalez) | 1:42 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2126041304421323256) |
 | [AI self-introduction song and video](https://x.com/johnknopf/status/2103698854399099057) | Opus 5.5 | [@johnknopf](https://x.com/johnknopf) | 5:25 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103698854399099057) |
 | [Battle of Austerlitz procedural film](https://x.com/WinterArc2125/status/2103116235009347650) | Opus 5.5 | [@WinterArc2125](https://x.com/WinterArc2125) | 5:01 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103116235009347650) |
 | [Red Fox Wakes a Forgotten Library](https://x.com/chetaslua/status/2117224839010459987) | Opus 5.5 / Fable 5.5 (preview) | [@chetaslua](https://x.com/chetaslua) | 0:58 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2117224839010459987) |
 | [Animation of an imagined social media feed](https://x.com/pleometric/status/2102572941699354900) | Opus 5.5 | [@pleometric](https://x.com/pleometric) | 0:47 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102572941699354900) |
-| [Claude animates its own life story](https://x.com/shfred0/status/2102495989194236158) | Opus 5.5 | [@shfred0](https://x.com/shfred0) | 0:30 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102495989194236158) |
 
 ## 3D worlds & simulations
 
-519 works · [full list](cases/art3d.md)
+525 works · [full list](cases/art3d.md)
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -109,22 +109,22 @@ Want to make one yourself? **[Claude video skills, tested and graded on Agent Sk
 
 ## Games
 
-492 works · [full list](cases/game.md)
+493 works · [full list](cases/game.md)
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
 | [Browser-based Fallout game built with code](https://x.com/chrisfirst/status/2104644598626934858) | Opus 5.5 | [@chrisfirst](https://x.com/chrisfirst) | 2:51 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104644598626934858) |
+| [US real-data Civilization game map](https://x.com/karpathy/status/2125779541952246039) | Opus 5.5 | [@karpathy](https://x.com/karpathy) | 0:30 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2125779541952246039) |
 | [Sci-fi first-person shooter game](https://x.com/Rubzem/status/2118343870450954318) | Opus 5.5 | [@Rubzem](https://x.com/Rubzem) | 3:03 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2118343870450954318) |
 | [Zelda-style paintbrush adventure game](https://x.com/DannyLimanseta/status/2104215873120764032) | Opus 5.5 | [@DannyLimanseta](https://x.com/DannyLimanseta) | 1:44 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104215873120764032) |
 | [Airplane simulator game](https://x.com/karankendre/status/2103821040174698674) | Opus 5.5 | [@karankendre](https://x.com/karankendre) | 0:32 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103821040174698674) |
 | [3D shooting mini-game](https://x.com/karankendre/status/2103456630679773669) | Opus 5.5 | [@karankendre](https://x.com/karankendre) | 0:22 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103456630679773669) |
 | [Fortnite-style game built with Sonnet 5.5](https://x.com/ericmaskfr/status/2104680817272500562) | Sonnet 5.5 | [@ericmaskfr](https://x.com/ericmaskfr) | 0:42 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104680817272500562) |
 | [Minecraft clone in browser](https://x.com/noahwachnik/status/2102470200415166699) | Opus 5.5 | [@noahwachnik](https://x.com/noahwachnik) | 0:23 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102470200415166699) |
-| [Roblox anime fighting game](https://x.com/WoahWurdz/status/2102487879809126834) | Opus 5.5 | [@WoahWurdz](https://x.com/WoahWurdz) | 2:13 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102487879809126834) |
 
 ## Music, editing & production
 
-204 works · [full list](cases/production.md)
+205 works · [full list](cases/production.md)
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -139,7 +139,7 @@ Want to make one yourself? **[Claude video skills, tested and graded on Agent Sk
 
 ## Model comparisons
 
-629 works · [full list](cases/comparison.md)
+636 works · [full list](cases/comparison.md)
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|

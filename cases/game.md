@@ -1,6 +1,6 @@
 # Games
 
-492 works, 63 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+493 works, 64 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -8,6 +8,7 @@
 | [Porting Call of Duty WaW Zombies map to the web](https://x.com/p_e_cooper/status/2104980433972703483) | Opus 5.5 | [@p_e_cooper](https://x.com/p_e_cooper) | 0:37 | — |
 | [Little Prince 3D exploration game](https://x.com/Saccc_c/status/2109962425512734739) | Opus 5.5 | [@Saccc_c](https://x.com/Saccc_c) | 1:03 | — |
 | [Browser-based Fallout game built with code](https://x.com/chrisfirst/status/2104644598626934858) | Opus 5.5 | [@chrisfirst](https://x.com/chrisfirst) | 2:51 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104644598626934858) |
+| [US real-data Civilization game map](https://x.com/karpathy/status/2125779541952246039) | Opus 5.5 | [@karpathy](https://x.com/karpathy) | 0:30 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2125779541952246039) |
 | [Browser game world (third iteration)](https://x.com/xikhar/status/2104001664793600012) | Opus 5.5 | [@xikhar](https://x.com/xikhar) | 2:21 | — |
 | [Sci-fi first-person shooter game](https://x.com/Rubzem/status/2118343870450954318) | Opus 5.5 | [@Rubzem](https://x.com/Rubzem) | 3:03 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2118343870450954318) |
 | [Old-school MMO RPG built by AI](https://x.com/Stefan_3D_AI/status/2103778468660162615) | Opus 5.5 | [@Stefan_3D_AI](https://x.com/Stefan_3D_AI) | 1:17 | — |

@@ -3,8 +3,8 @@
  "model": "Claude 5.5 (Opus 5.5 · Sonnet 5.5 · Haiku 5.5 · Fable 5.5)",
  "inclusion_rule": "Original post by the creator, native video attached, >= 5000 views on that post, creator states it was made with Claude Opus 5.5, Sonnet 5.5, Haiku 5.5 or Fable 5.5 (Fable 5.5 is in limited preview, not yet announced). Later posts that embed another account's upload are excluded.",
  "views_threshold": 5000,
- "stats_checked_at": "2026-11-27T01:17:17.268Z",
- "updated_at": "2026-11-27T01:17:17.268Z",
+ "stats_checked_at": "2026-11-28T01:17:14.539Z",
+ "updated_at": "2026-11-28T01:17:14.539Z",
  "model_attribution": "As stated by each creator; not independently reproduced.",
  "cases": [
   {
@@ -360,6 +360,42 @@
    ],
    "reference_assets": false,
    "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2125779541952246039",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "game",
+   "title": {
+    "zh": "基于美国真实数据的文明风格地图",
+    "en": "US real-data Civilization game map"
+   },
+   "creator": {
+    "handle": "karpathy",
+    "name": "Andrej Karpathy"
+   },
+   "original_post_url": "https://x.com/karpathy/status/2125779541952246039",
+   "posted_at": "2026-11-26T02:31:52.000Z",
+   "language": "en",
+   "duration_seconds": 30,
+   "views": 2863511,
+   "likes": 28356,
+   "bookmarks": 16148,
+   "views_checked_at": "2026-11-28T01:17:14.539Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2125775560517570561/img/GDE8h47dSgwy5uSy.jpg",
+   "tools_reported": [
+    "Claude Code"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "brief",
+    "source": "post",
+    "source_url": "https://x.com/karpathy/status/2125779541952246039",
+    "length": 65,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2125779541952246039"
+   },
    "resources": []
   },
   {
@@ -1769,6 +1805,47 @@
    "tools_reported": [],
    "reference_assets": false,
    "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2126041304421323256",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "stories",
+   "title": {
+    "zh": "手绘赛璐珞风格代码动画短片",
+    "en": "Hand-inked cartoon cel animated short"
+   },
+   "creator": {
+    "handle": "treyscalez",
+    "name": "trey"
+   },
+   "original_post_url": "https://x.com/treyscalez/status/2126041304421323256",
+   "posted_at": "2026-11-26T19:52:01.000Z",
+   "language": "en",
+   "duration_seconds": 102,
+   "views": 813264,
+   "likes": 11538,
+   "bookmarks": 10325,
+   "views_checked_at": "2026-11-28T01:17:14.539Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2126040788022767616/img/ZYeDNbNgBHbZCI6X.jpg",
+   "tools_reported": [
+    "Python",
+    "rsvg-convert",
+    "Pillow",
+    "numpy",
+    "ffmpeg",
+    "Whisper"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "full",
+    "source": "post",
+    "source_url": "https://x.com/treyscalez/status/2126041304421323256",
+    "length": 9944,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2126041304421323256"
+   },
    "resources": []
   },
   {
@@ -8739,6 +8816,37 @@
    "views_checked_at": "2026-11-23T11:55:30.830Z",
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2103730502557745152/img/WEKSkoO3GrgrRfaB.jpg",
    "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2125909076781527361",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "Three.js场景生成模型对比",
+    "en": "Three.js scene generation model comparison"
+   },
+   "creator": {
+    "handle": "RealFedeURU",
+    "name": "Fede(URU) 🇺🇾"
+   },
+   "original_post_url": "https://x.com/RealFedeURU/status/2125909076781527361",
+   "posted_at": "2026-11-26T11:06:36.000Z",
+   "language": "en",
+   "duration_seconds": 28,
+   "views": 204882,
+   "likes": 4034,
+   "bookmarks": 916,
+   "views_checked_at": "2026-11-28T01:17:14.539Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2125597076327145472/img/GB-omKVywMDDH8cV.jpg",
+   "tools_reported": [
+    "Three.js",
+    "Opus 4.6"
+   ],
    "reference_assets": false,
    "prompt": null,
    "resources": []
@@ -20698,6 +20806,43 @@
    "resources": []
   },
   {
+   "id": "2125976371600257533",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "education",
+   "title": {
+    "zh": "活体脊柱解剖与物理模拟",
+    "en": "Living spine anatomy and physics simulation"
+   },
+   "creator": {
+    "handle": "thegreatest_sv",
+    "name": "kiosa"
+   },
+   "original_post_url": "https://x.com/thegreatest_sv/status/2125976371600257533",
+   "posted_at": "2026-11-26T15:34:00.000Z",
+   "language": "en",
+   "duration_seconds": 25,
+   "views": 87225,
+   "likes": 1247,
+   "bookmarks": 1709,
+   "views_checked_at": "2026-11-28T01:17:14.539Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2125954355907989504/img/7zy_88YK0D690tdF.jpg",
+   "tools_reported": [
+    "BlenderMCP",
+    "Blender",
+    "nnU-Net",
+    "MONAI",
+    "TotalSegmentator",
+    "3D Slicer",
+    "OpenSim",
+    "SimVascular"
+   ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2112171076184584469",
    "models": [
     "opus-5.5"
@@ -22797,6 +22942,36 @@
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2107778986403414016/img/RX-RT9cItSzuSi_Z.jpg",
    "tools_reported": [
     "Premiere Pro"
+   ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2125882381185986754",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "education",
+   "title": {
+    "zh": "四维真空量子引力研究科普",
+    "en": "Quantum vacuum gravity research explainer"
+   },
+   "creator": {
+    "handle": "AmirMakir",
+    "name": "Amir Makir"
+   },
+   "original_post_url": "https://x.com/AmirMakir/status/2125882381185986754",
+   "posted_at": "2026-11-26T09:20:31.000Z",
+   "language": "en",
+   "duration_seconds": 171,
+   "views": 78819,
+   "likes": 1193,
+   "bookmarks": 885,
+   "views_checked_at": "2026-11-28T01:17:14.539Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2125882034862321664/img/z4jZKF_bjEFKkh1q.jpg",
+   "tools_reported": [
+    "Remotion"
    ],
    "reference_assets": true,
    "prompt": null,
@@ -26580,6 +26755,34 @@
    "resources": []
   },
   {
+   "id": "2125995754292715930",
+   "models": [
+    "sonnet-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "角色三视图生成3D模型查看器",
+    "en": "Character turnaround to 3D model viewer"
+   },
+   "creator": {
+    "handle": "gamemangaanime",
+    "name": "ち～ぽん✨🤔"
+   },
+   "original_post_url": "https://x.com/gamemangaanime/status/2125995754292715930",
+   "posted_at": "2026-11-26T16:51:01.000Z",
+   "language": "ja",
+   "duration_seconds": 29,
+   "views": 67262,
+   "likes": 1107,
+   "bookmarks": 1014,
+   "views_checked_at": "2026-11-28T01:17:14.539Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2125995621580709888/img/5ge3oXP94hhikWir.jpg",
+   "tools_reported": [],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2103535619603567054",
    "models": [
     "opus-5.5"
@@ -28912,6 +29115,42 @@
    "resources": []
   },
   {
+   "id": "2125845143081173011",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "production",
+   "title": {
+    "zh": "分层赛璐璐风格动画制作流程",
+    "en": "Layered cel-style animation pipeline"
+   },
+   "creator": {
+    "handle": "nakazakifam",
+    "name": "中崎工房 | AIで1時間の仕事を5分で終わらせる人"
+   },
+   "original_post_url": "https://x.com/nakazakifam/status/2125845143081173011",
+   "posted_at": "2026-11-26T06:52:33.000Z",
+   "language": "ja",
+   "duration_seconds": 51,
+   "views": 60650,
+   "likes": 913,
+   "bookmarks": 990,
+   "views_checked_at": "2026-11-28T01:17:14.539Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2125843404433047552/img/RJ1SyeT3AFUD4dDV.jpg",
+   "tools_reported": [
+    "Claude Code",
+    "Codex",
+    "ElevenLabs",
+    "Soniox",
+    "FFmpeg",
+    "Epidemic Sound",
+    "効果音ラボ"
+   ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2105116325794488736",
    "models": [
     "opus-5.5"
@@ -30692,6 +30931,37 @@
    "views_checked_at": "2026-11-23T11:55:30.830Z",
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2116368946857115648/img/BeoFS-BiPQHnWUAv.jpg",
    "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2125926503594811463",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "各模型创作的超土味歌曲对比",
+    "en": "Cheesy songs comparison across AI models"
+   },
+   "creator": {
+    "handle": "Masimo_Blue",
+    "name": "マシモGPT🤖@ChatGPT/Claude/Gemini/GrokなどLLMをこねくり回す人"
+   },
+   "original_post_url": "https://x.com/Masimo_Blue/status/2125926503594811463",
+   "posted_at": "2026-11-26T12:15:50.000Z",
+   "language": "ja",
+   "duration_seconds": 60,
+   "views": 56674,
+   "likes": 414,
+   "bookmarks": 182,
+   "views_checked_at": "2026-11-28T01:17:14.539Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2125926451811897344/img/A_di_eo0aa3wd-YG.jpg",
+   "tools_reported": [
+    "GPT-6.2 Sol",
+    "Gemini 4 Neon"
+   ],
    "reference_assets": false,
    "prompt": null,
    "resources": []
@@ -61522,6 +61792,42 @@
    "resources": []
   },
   {
+   "id": "2126070591015026855",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "豹2A7坦克建模效果对比",
+    "en": "Leopard 2A7 tank model comparison"
+   },
+   "creator": {
+    "handle": "vib3coded",
+    "name": "Vib3Coded"
+   },
+   "original_post_url": "https://x.com/vib3coded/status/2126070591015026855",
+   "posted_at": "2026-11-26T21:48:24.000Z",
+   "language": "en",
+   "duration_seconds": 18,
+   "views": 19527,
+   "likes": 255,
+   "bookmarks": 75,
+   "views_checked_at": "2026-11-28T01:17:14.539Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2126068869932478466/img/borcUrcbOzmtcST0.jpg",
+   "tools_reported": [
+    "Claude Opus 5.6"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "brief",
+    "source": "post",
+    "source_url": "https://x.com/vib3coded/status/2126070591015026855",
+    "length": 19,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2126070591015026855"
+   },
+   "resources": []
+  },
+  {
    "id": "2105300597888970901",
    "models": [
     "opus-5.5"
@@ -61617,6 +61923,34 @@
     "FFmpeg"
    ],
    "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2125817462583353452",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "education",
+   "title": {
+    "zh": "加密货币套利入门科普短片",
+    "en": "Crypto arbitrage explainer short"
+   },
+   "creator": {
+    "handle": "ApriloneHS",
+    "name": "Doggg"
+   },
+   "original_post_url": "https://x.com/ApriloneHS/status/2125817462583353452",
+   "posted_at": "2026-11-26T05:02:33.000Z",
+   "language": "zh",
+   "duration_seconds": 510,
+   "views": 19477,
+   "likes": 307,
+   "bookmarks": 334,
+   "views_checked_at": "2026-11-28T01:17:14.539Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2125815583363235840/img/639XN4q1JTct53u9.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
    "prompt": null,
    "resources": []
   },
@@ -63413,6 +63747,34 @@
     "length": 543,
     "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102660297928638783"
    },
+   "resources": []
+  },
+  {
+   "id": "2126045813369676137",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "多智能体协同建筑机电模拟",
+    "en": "Multi-agent townhouse MEP simulation"
+   },
+   "creator": {
+    "handle": "Solvaix",
+    "name": "Solvaix"
+   },
+   "original_post_url": "https://x.com/Solvaix/status/2126045813369676137",
+   "posted_at": "2026-11-26T20:09:56.000Z",
+   "language": "en",
+   "duration_seconds": 34,
+   "views": 18600,
+   "likes": 192,
+   "bookmarks": 241,
+   "views_checked_at": "2026-11-28T01:17:14.539Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2126045324028289024/img/kZGVUHhK5_20pVF7.jpg",
+   "tools_reported": [],
+   "reference_assets": true,
+   "prompt": null,
    "resources": []
   },
   {
@@ -65453,6 +65815,36 @@
    "resources": []
   },
   {
+   "id": "2126011438485643591",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "陨石撞击动画生成速度对比",
+    "en": "Meteor impact animation speed comparison"
+   },
+   "creator": {
+    "handle": "pr0mptcat",
+    "name": "PromptCat"
+   },
+   "original_post_url": "https://x.com/pr0mptcat/status/2126011438485643591",
+   "posted_at": "2026-11-26T17:53:20.000Z",
+   "language": "en",
+   "duration_seconds": 20,
+   "views": 17498,
+   "likes": 150,
+   "bookmarks": 39,
+   "views_checked_at": "2026-11-28T01:17:14.539Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2126010833960370176/img/SMozQ2Tz48QELJk3.jpg",
+   "tools_reported": [
+    "Claude Opus 5.6"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2110415126964896155",
    "models": [
     "opus-5.5"
@@ -66786,6 +67178,37 @@
    ]
   },
   {
+   "id": "2125885519104229392",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "stories",
+   "title": {
+    "zh": "卡通动画短片",
+    "en": "Animated cartoon clip"
+   },
+   "creator": {
+    "handle": "anvithbuilds",
+    "name": "Anvith Shetty"
+   },
+   "original_post_url": "https://x.com/anvithbuilds/status/2125885519104229392",
+   "posted_at": "2026-11-26T09:32:59.000Z",
+   "language": "en",
+   "duration_seconds": 19,
+   "views": 16708,
+   "likes": 386,
+   "bookmarks": 324,
+   "views_checked_at": "2026-11-28T01:17:14.539Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2125884409048141825/img/B6f3ddsZ0lyDwPRj.jpg",
+   "tools_reported": [
+    "ChatGPT",
+    "ElevenLabs"
+   ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2119772039037014524",
    "models": [
     "fable-5.5"
@@ -67155,6 +67578,37 @@
     "length": 63,
     "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102913101926731879"
    },
+   "resources": []
+  },
+  {
+   "id": "2125913740701044884",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "低多边形风格产品视频",
+    "en": "Low-poly 3D product video"
+   },
+   "creator": {
+    "handle": "fuckscales",
+    "name": "F*ck Scales"
+   },
+   "original_post_url": "https://x.com/fuckscales/status/2125913740701044884",
+   "posted_at": "2026-11-26T11:25:08.000Z",
+   "language": "en",
+   "duration_seconds": 29,
+   "views": 16443,
+   "likes": 253,
+   "bookmarks": 391,
+   "views_checked_at": "2026-11-28T01:17:14.539Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2125913639584489472/img/6svtqNmdP54oWvoz.jpg",
+   "tools_reported": [
+    "Blender",
+    "Claude Code"
+   ],
+   "reference_assets": true,
+   "prompt": null,
    "resources": []
   },
   {
@@ -67835,6 +68289,34 @@
    "resources": []
   },
   {
+   "id": "2125947735660486857",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "平面图生成的3D日本农舍与武士宅邸对比",
+    "en": "3D Japanese farmhouse vs samurai house from floor plans"
+   },
+   "creator": {
+    "handle": "Nyxera0x",
+    "name": "Nyxera"
+   },
+   "original_post_url": "https://x.com/Nyxera0x/status/2125947735660486857",
+   "posted_at": "2026-11-26T13:40:13.000Z",
+   "language": "en",
+   "duration_seconds": 16,
+   "views": 16137,
+   "likes": 158,
+   "bookmarks": 200,
+   "views_checked_at": "2026-11-28T01:17:14.539Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2125946437057814528/img/aVMSWwRD7O5019Pj.jpg",
+   "tools_reported": [],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2118870207045529812",
    "models": [
     "opus-5.5"
@@ -68300,6 +68782,34 @@
    "tools_reported": [
     "Gemini 4 Neon"
    ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2126050832688807969",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "stories",
+   "title": {
+    "zh": "2.5D火柴人动画",
+    "en": "2.5D stickman animation"
+   },
+   "creator": {
+    "handle": "caesarscales",
+    "name": "caesar"
+   },
+   "original_post_url": "https://x.com/caesarscales/status/2126050832688807969",
+   "posted_at": "2026-11-26T20:29:53.000Z",
+   "language": "en",
+   "duration_seconds": 65,
+   "views": 15891,
+   "likes": 172,
+   "bookmarks": 274,
+   "views_checked_at": "2026-11-28T01:17:14.539Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2126050435211337728/img/S9JR_kpGO3cxgDzN.jpg",
+   "tools_reported": [],
    "reference_assets": false,
    "prompt": null,
    "resources": []
@@ -72062,6 +72572,36 @@
    "resources": []
   },
   {
+   "id": "2125910525284638881",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "十二阶段多米诺连锁反应模拟对比",
+    "en": "12-stage chain reaction simulation comparison"
+   },
+   "creator": {
+    "handle": "noclipepe",
+    "name": "noclipepe"
+   },
+   "original_post_url": "https://x.com/noclipepe/status/2125910525284638881",
+   "posted_at": "2026-11-26T11:12:21.000Z",
+   "language": "en",
+   "duration_seconds": 64,
+   "views": 14047,
+   "likes": 106,
+   "bookmarks": 44,
+   "views_checked_at": "2026-11-28T01:17:14.539Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2125910329863417856/img/l3CV-fvIZdWa7wYp.jpg",
+   "tools_reported": [
+    "Opus 5.6"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2103801828744061307",
    "models": [
     "opus-5.5"
@@ -75301,6 +75841,38 @@
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2103540754488438784/img/2M2HRcNzx3lVKUVW.jpg",
    "tools_reported": [],
    "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2125999865452728770",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "贪吃蛇游戏生成对比",
+    "en": "Snake game build speed comparison"
+   },
+   "creator": {
+    "handle": "hanghuang_",
+    "name": "Hang Huang ☁️"
+   },
+   "original_post_url": "https://x.com/hanghuang_/status/2125999865452728770",
+   "posted_at": "2026-11-26T17:07:21.000Z",
+   "language": "en",
+   "duration_seconds": 32,
+   "views": 12841,
+   "likes": 117,
+   "bookmarks": 79,
+   "views_checked_at": "2026-11-28T01:17:14.539Z",
+   "thumbnail_url": "https://pbs.twimg.com/ext_tw_video_thumb/2125999832875626496/pu/img/y1AYnfhmHTVtadDG.jpg",
+   "tools_reported": [
+    "Inkling 2 Mini",
+    "InstaBox",
+    "Claude Code"
+   ],
+   "reference_assets": false,
    "prompt": null,
    "resources": []
   },
@@ -78958,6 +79530,38 @@
    "resources": []
   },
   {
+   "id": "2125882250872946865",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "斯特林发动机三维设计与渲染",
+    "en": "Stirling engine 3D design and render"
+   },
+   "creator": {
+    "handle": "sibucho_labo",
+    "name": "しぶちょー"
+   },
+   "original_post_url": "https://x.com/sibucho_labo/status/2125882250872946865",
+   "posted_at": "2026-11-26T09:20:00.000Z",
+   "language": "ja",
+   "duration_seconds": 29,
+   "views": 11541,
+   "likes": 155,
+   "bookmarks": 68,
+   "views_checked_at": "2026-11-28T01:17:14.539Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2125795475576279040/img/hI3bitmiNn1SWTue.jpg",
+   "tools_reported": [
+    "Claude Duet",
+    "SolidCraft",
+    "Blender"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2103677214135124053",
    "models": [
     "opus-5.5"
@@ -80529,6 +81133,38 @@
    "tools_reported": [
     "Fable 5.2",
     "Live2D"
+   ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2126094054836650147",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "stories",
+   "title": {
+    "zh": "三维文字与AI视频融合短片",
+    "en": "3D typography and video music piece"
+   },
+   "creator": {
+    "handle": "aicreataro",
+    "name": "aicreataro"
+   },
+   "original_post_url": "https://x.com/aicreataro/status/2126094054836650147",
+   "posted_at": "2026-11-26T23:21:38.000Z",
+   "language": "ja",
+   "duration_seconds": 40,
+   "views": 11007,
+   "likes": 263,
+   "bookmarks": 201,
+   "views_checked_at": "2026-11-28T01:17:14.539Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2126092902728384513/img/xbK1Xf3y7jNE5kPt.jpg",
+   "tools_reported": [
+    "Blender",
+    "Seedance 2.5",
+    "Suno"
    ],
    "reference_assets": true,
    "prompt": null,
@@ -83836,6 +84472,40 @@
    "resources": []
   },
   {
+   "id": "2125766986344862095",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "comparison",
+   "title": {
+    "zh": "日本安宅船水上要塞场景对比",
+    "en": "Japanese floating fortress scene comparison"
+   },
+   "creator": {
+    "handle": "vib3coded",
+    "name": "Vib3Coded"
+   },
+   "original_post_url": "https://x.com/vib3coded/status/2125766986344862095",
+   "posted_at": "2026-11-26T01:41:59.000Z",
+   "language": "en",
+   "duration_seconds": 16,
+   "views": 9817,
+   "likes": 126,
+   "bookmarks": 32,
+   "views_checked_at": "2026-11-28T01:17:14.539Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2125766882103799808/img/Z32OPFNEpefRHVQB.jpg",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "full",
+    "source": "author_reply",
+    "source_url": "https://x.com/vib3coded/status/2125767097062129871",
+    "length": 6438,
+    "page_url": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2125766986344862095"
+   },
+   "resources": []
+  },
+  {
    "id": "2102702170986463421",
    "models": [
     "opus-5.5"
@@ -84275,6 +84945,36 @@
    "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2105247672479191040/img/LSgnPODEsRX7OSEk.jpg",
    "tools_reported": [
     "Astra"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2125978784868233708",
+   "models": [
+    "opus-5.5"
+   ],
+   "category": "art3d",
+   "title": {
+    "zh": "机械师机器人组装前臂动画",
+    "en": "Robot mechanic assembling its own forearm"
+   },
+   "creator": {
+    "handle": "Lummox_eth",
+    "name": "Lummox"
+   },
+   "original_post_url": "https://x.com/Lummox_eth/status/2125978784868233708",
+   "posted_at": "2026-11-26T15:43:35.000Z",
+   "language": "en",
+   "duration_seconds": 10,
+   "views": 9516,
+   "likes": 155,
+   "bookmarks": 150,
+   "views_checked_at": "2026-11-28T01:17:14.539Z",
+   "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2125978122533138432/img/5g0ek8pWn6nnBs5C.jpg",
+   "tools_reported": [
+    "Blender"
    ],
    "reference_assets": false,
    "prompt": null,

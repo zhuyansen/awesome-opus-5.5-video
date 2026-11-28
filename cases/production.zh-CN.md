@@ -1,6 +1,6 @@
 # 制作流程
 
-共 204 个作品，其中 32 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 205 个作品，其中 32 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [AI制作的乐观续作歌曲](https://x.com/nssharpe/status/2103549676234637516) | Opus 5.5 | [@nssharpe](https://x.com/nssharpe) | 2:20 | — |
 | [新账号短视频爆款系列](https://x.com/bizdevelo/status/2115408359771779573) | Opus 5.5 | [@bizdevelo](https://x.com/bizdevelo) | 0:42 | — |
 | [AI配音配合AE剪辑的广告视频流程](https://x.com/seiiiiiiiiiiru/status/2103227982592831846) | Opus 5.5 | [@seiiiiiiiiiiru](https://x.com/seiiiiiiiiiiru) | 0:29 | — |
+| [分层赛璐璐风格动画制作流程](https://x.com/nakazakifam/status/2125845143081173011) | Opus 5.5 | [@nakazakifam](https://x.com/nakazakifam) | 0:51 | — |
 | [浏览器磁带氛围音机](https://x.com/parhelion318/status/2120212304809918827) | Opus 5.5 | [@parhelion318](https://x.com/parhelion318) | 0:44 | — |
 | [AI剪辑生成的发布视频](https://x.com/gregpr07/status/2102984873351037161) | Opus 5.5 | [@gregpr07](https://x.com/gregpr07) | 0:18 | — |
 | [用代码生成的低音音乐](https://x.com/aj_dev_smith/status/2102504509637587339) | Opus 5.5 | [@aj_dev_smith](https://x.com/aj_dev_smith) | 2:00 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102504509637587339) |

@@ -1,6 +1,6 @@
 # Explainers & education
 
-241 works, 61 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+244 works, 61 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|
@@ -66,10 +66,12 @@
 | [History of dinosaurs animation in JavaScript](https://x.com/kevin_t_ngo/status/2104638743634391408) | Sonnet 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 0:48 | — |
 | [Learning How To Learn summary video](https://x.com/momoflilbit/status/2105276821214532096) | Opus 5.5 | [@momoflilbit](https://x.com/momoflilbit) | 10:40 | — |
 | [Interactive survival skills learning app](https://x.com/DilumSanjaya/status/2115488004425089201) | Opus 5.5 | [@DilumSanjaya](https://x.com/DilumSanjaya) | 1:35 | — |
+| [Living spine anatomy and physics simulation](https://x.com/thegreatest_sv/status/2125976371600257533) | Opus 5.5 | [@thegreatest_sv](https://x.com/thegreatest_sv) | 0:25 | — |
 | [Interactive orbital elements learning tool](https://x.com/getBack_1969_/status/2105200070446751750) | Opus 5.5 | [@getBack_1969_](https://x.com/getBack_1969_) | 1:00 | — |
 | [Indian civilization history video](https://x.com/rashem48/status/2103850664007028964) | Opus 5.5 | [@rashem48](https://x.com/rashem48) | 1:16 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103850664007028964) |
 | [Whiteboard animation explaining Leidenfrost effect](https://x.com/realYunfanYe/status/2103496245343916158) | Opus 5.5 | [@realYunfanYe](https://x.com/realYunfanYe) | 1:00 | — |
 | [3D narrated IKEA assembly instructional video](https://x.com/deedydas/status/2103174501345493197) | Opus 5.5 | [@deedydas](https://x.com/deedydas) | 1:42 | [Brief](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103174501345493197) |
+| [Quantum vacuum gravity research explainer](https://x.com/AmirMakir/status/2125882381185986754) | Opus 5.5 | [@AmirMakir](https://x.com/AmirMakir) | 2:51 | — |
 | [Visualization of Scion source control system](https://x.com/devteamdrew/status/2111864203753492513) | Opus 5.5 | [@devteamdrew](https://x.com/devteamdrew) | 1:39 | — |
 | [Animated cycloid lesson](https://x.com/AIMevzulari/status/2106052083040256293) | Opus 5.5 | [@AIMevzulari](https://x.com/AIMevzulari) | 2:08 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2106052083040256293) |
 | [Elementary math carrying addition lesson](https://x.com/akira_papa_IT/status/2102899599501668561) | Opus 5.5 | [@akira_papa_IT](https://x.com/akira_papa_IT) | 2:40 | — |
@@ -172,6 +174,7 @@
 | [Interactive US elections lesson](https://x.com/GabLattanzio/status/2117891574587908310) | Opus 5.5 | [@GabLattanzio](https://x.com/GabLattanzio) | 0:31 | — |
 | [3D bike brake mechanics explainer](https://x.com/RyanSael/status/2107111191210520608) | Opus 5.5 | [@RyanSael](https://x.com/RyanSael) | 0:40 | — |
 | [Explainer video on Anthropic's S-1 filing highlights](https://x.com/tunguz/status/2114756330997055501) | Opus 5.5 | [@tunguz](https://x.com/tunguz) | 4:46 | — |
+| [Crypto arbitrage explainer short](https://x.com/ApriloneHS/status/2125817462583353452) | Opus 5.5 | [@ApriloneHS](https://x.com/ApriloneHS) | 8:30 | — |
 | [Explainer video of 9 football rules](https://x.com/lukasersil/status/2105922894924501283) | Opus 5.5 | [@lukasersil](https://x.com/lukasersil) | 1:09 | [Full prompt](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2105922894924501283) |
 | [Seasons and day/night cycle explainer for kids](https://x.com/KashPrime/status/2103862007208591605) | Opus 5.5 | [@KashPrime](https://x.com/KashPrime) | 3:06 | — |
 | [History of humanity animation](https://x.com/blueemi99/status/2106041578204655748) | Fable 5.5 (preview) | [@blueemi99](https://x.com/blueemi99) | 2:00 | — |

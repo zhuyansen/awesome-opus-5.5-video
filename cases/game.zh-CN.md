@@ -1,6 +1,6 @@
 # 游戏
 
-共 492 个作品，其中 63 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 493 个作品，其中 64 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -8,6 +8,7 @@
 | [将使命召唤二战僵尸地图移植到网页](https://x.com/p_e_cooper/status/2104980433972703483) | Opus 5.5 | [@p_e_cooper](https://x.com/p_e_cooper) | 0:37 | — |
 | [小王子3D探索游戏](https://x.com/Saccc_c/status/2109962425512734739) | Opus 5.5 | [@Saccc_c](https://x.com/Saccc_c) | 1:03 | — |
 | [用代码构建的浏览器版辐射游戏](https://x.com/chrisfirst/status/2104644598626934858) | Opus 5.5 | [@chrisfirst](https://x.com/chrisfirst) | 2:51 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2104644598626934858) |
+| [基于美国真实数据的文明风格地图](https://x.com/karpathy/status/2125779541952246039) | Opus 5.5 | [@karpathy](https://x.com/karpathy) | 0:30 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2125779541952246039) |
 | [浏览器游戏世界（第三版迭代）](https://x.com/xikhar/status/2104001664793600012) | Opus 5.5 | [@xikhar](https://x.com/xikhar) | 2:21 | — |
 | [科幻第一人称射击游戏](https://x.com/Rubzem/status/2118343870450954318) | Opus 5.5 | [@Rubzem](https://x.com/Rubzem) | 3:03 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2118343870450954318) |
 | [AI打造的老式MMORPG游戏](https://x.com/Stefan_3D_AI/status/2103778468660162615) | Opus 5.5 | [@Stefan_3D_AI](https://x.com/Stefan_3D_AI) | 1:17 | — |

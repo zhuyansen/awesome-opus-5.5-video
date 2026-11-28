@@ -1,6 +1,6 @@
 # 角色故事
 
-共 264 个作品，其中 61 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 268 个作品，其中 62 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [为AI歌曲制作的音乐视频](https://x.com/eudaemonea/status/2102610626321490404) | Opus 5.5 | [@eudaemonea](https://x.com/eudaemonea) | 6:13 | — |
 | [预测未来50年的视频](https://x.com/andrewjiang/status/2102987981695132140) | Opus 5.5 | [@andrewjiang](https://x.com/andrewjiang) | 4:00 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102987981695132140) |
 | [一个点生成的皮克斯风动画](https://x.com/cherry_mx_reds/status/2105825930799432073) | Fable 5.5 (preview) | [@cherry_mx_reds](https://x.com/cherry_mx_reds) | 0:15 | — |
+| [手绘赛璐珞风格代码动画短片](https://x.com/treyscalez/status/2126041304421323256) | Opus 5.5 | [@treyscalez](https://x.com/treyscalez) | 1:42 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2126041304421323256) |
 | [AI自我介绍歌曲与视频](https://x.com/johnknopf/status/2103698854399099057) | Opus 5.5 | [@johnknopf](https://x.com/johnknopf) | 5:25 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2103698854399099057) |
 | [法国理论分析转成视频](https://x.com/brivael/status/2104216601864106226) | Opus 5.5 | [@brivael](https://x.com/brivael) | 5:32 | — |
 | [关于挚爱之物的动画故事](https://x.com/kevin_t_ngo/status/2102437977435893771) | Opus 5.5 | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | 0:28 | — |
@@ -200,11 +201,13 @@
 | [结合Midjourney与Seedance的角色视频](https://x.com/aimikoda/status/2110360021988982817) | Opus 5.5 | [@aimikoda](https://x.com/aimikoda) | 0:32 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2110360021988982817) |
 | [剑斗特效动画](https://x.com/AiAniAlchemist/status/2111964964315709901) | Opus 5.5 | [@AiAniAlchemist](https://x.com/AiAniAlchemist) | 0:43 | — |
 | [AI能力成长训练蒙太奇](https://x.com/ishuagra02/status/2102788371114246177) | Opus 5.5 | [@ishuagra02](https://x.com/ishuagra02) | 0:30 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2102788371114246177) |
+| [卡通动画短片](https://x.com/anvithbuilds/status/2125885519104229392) | Opus 5.5 | [@anvithbuilds](https://x.com/anvithbuilds) | 0:19 | — |
 | [代码渲染的太空动漫战斗](https://x.com/anstapnever/status/2119772039037014524) | Fable 5.5 (preview) | [@anstapnever](https://x.com/anstapnever) | 1:18 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2119772039037014524) |
 | [AI旅行日志动画](https://x.com/arni0x9053/status/2103143902723096848) | Opus 5.5 | [@arni0x9053](https://x.com/arni0x9053) | 1:34 | — |
 | [用JavaScript绘制的动画角色演出](https://x.com/doerstokyo342/status/2105794894383968649) | Opus 5.5 | [@doerstokyo342](https://x.com/doerstokyo342) | 0:30 | — |
 | [人工创造力](https://x.com/IntuitMachine/status/2105941630885016018) | Opus 5.5 | [@IntuitMachine](https://x.com/IntuitMachine) | 34:19 | — |
 | [低多边形汽车分薯条短剧](https://x.com/Classifiedv4/status/2117660101322698868) | Opus 5.5 | [@Classifiedv4](https://x.com/Classifiedv4) | 0:30 | — |
+| [2.5D火柴人动画](https://x.com/caesarscales/status/2126050832688807969) | Opus 5.5 | [@caesarscales](https://x.com/caesarscales) | 1:05 | — |
 | [《战争即世界》短片](https://x.com/papadupapadu/status/2121701481204326632) | Opus 5.5 | [@papadupapadu](https://x.com/papadupapadu) | 1:40 | — |
 | [以人为本的美伊战争纪录片](https://x.com/sarpstar/status/2112592903809683527) | Opus 5.5 | [@sarpstar](https://x.com/sarpstar) | 9:52 | — |
 | [森林中的女孩与机器人动画](https://x.com/ChrisGPT/status/2119140493091094672) | Opus 5.5 / Fable 5.5 (preview) | [@ChrisGPT](https://x.com/ChrisGPT) | 1:00 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2119140493091094672) |
@@ -235,6 +238,7 @@
 | [翻唱歌曲歌词MV](https://x.com/nemumusitocha/status/2102637652063461744) | Opus 5.5 | [@nemumusitocha](https://x.com/nemumusitocha) | 1:29 | — |
 | [被称赞"难以置信"的动画演示](https://x.com/AndrewOnXYZ/status/2103687133433086358) | Opus 5.5 | [@AndrewOnXYZ](https://x.com/AndrewOnXYZ) | 3:44 | — |
 | [工坊一日动画短片](https://x.com/devteamdrew/status/2112231979164873157) | Opus 5.5 / Sonnet 5.5 | [@devteamdrew](https://x.com/devteamdrew) | 0:32 | — |
+| [三维文字与AI视频融合短片](https://x.com/aicreataro/status/2126094054836650147) | Opus 5.5 | [@aicreataro](https://x.com/aicreataro) | 0:40 | — |
 | [仿原片风格重制视频与原片对比](https://x.com/nateherk/status/2108198548324168056) | Opus 5.5 | [@nateherk](https://x.com/nateherk) | 0:20 | — |
 | [纸拼贴风桃太郎动画](https://x.com/tanabe_fragm/status/2110931024469540979) | Opus 5.5 | [@tanabe_fragm](https://x.com/tanabe_fragm) | 0:46 | [完整提示词](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2110931024469540979) |
 | [骑自行车的鹈鹕动画](https://x.com/dummerspast39/status/2111391206848503923) | Fable 5.5 (preview) | [@dummerspast39](https://x.com/dummerspast39) | 0:30 | [一句话指令](https://jasonzhu.ai/zh/prompts/claude-opus-5-5/2111391206848503923) |
